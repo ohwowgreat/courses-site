@@ -24,7 +24,7 @@ modified: 2026-07-20
 
 ## What this unit does
 
-Spine: **"Communicate · audience."Three** Wednesday doubles (W16, W17, W19 — W18 is lost to the winter break) turn composition into communication: one session analyzing what a poster must do (message, audience, hierarchy) and testing thumbnails and type, then the final poster — handmade or digital — for A4, then documentation. The last session closes the S1 arc with the confirmed End-of-Term portfolio.
+Spine: **"Communicate · audience."Three** Wednesday doubles (W16, W17, W19 — W18 is lost to the winter break) turn composition into communication: one session analyzing what a poster must do (message, audience, hierarchy) and testing thumbnails and type, then the final poster — handmade or digital — for A4, then documentation. The last session closes the S1 arc with the confirmed End-of-Term portfolio **and the A5 sketchbook submission** (both handed in that day).
 
 ## Two routes through the same slot
 
@@ -54,7 +54,7 @@ No written lesson plans exist yet — this table *is* the current per-session re
 | W16 | 2026-12-16 | U4·L1 · S15 | Poster analysis (message, audience, hierarchy) **+ thumbnails and type** — the two former sessions merged into one double | **CS4** |
 | W17 | 2026-12-23 | U4·L2 · S16 | **A4: final poster**, in class (handmade or digital) | **A4** |
 | ~~W18~~ | ~~2026-12-30~~ | — | 🚫 **No class — winter break** | — |
-| W19 | 2027-01-06 | U4·L3 · S17 | Document work; **semester portfolio due** (End of Term — ✅ confirmed) | **EoT** |
+| W19 | 2027-01-06 | U4·L3 · S17 | Document work; **semester portfolio due** (End of Term) **+ A5 sketchbook submitted** | **EoT · A5** |
 
 After W19: W20 (01-13) has no class (final exams week 01-11→18, marking window); the return session is 2027-01-20, with grades and comments due that same day.
 
@@ -63,6 +63,7 @@ After W19: W20 (01-13) has no class (final exams week 01-11→18, marking window
 - **A4 (Attainment)** — **2026-12-23 (W17)**: final poster + reflection, handmade or digital. Announced 2026-12-16 (W16) — **7 days, the one-week minimum**, which here means the class immediately before. Marking focus: **hierarchy, typography, message, audience**.
 - **CS4 (Course Skills)** — **2026-12-16 (W16)**: thumbnail set + poster analysis, sat in the same double that announces A4. Focus: hierarchy and audience. It is now direct practice one week ahead of the sitting rather than the session before it.
 - **EoT (End of Term)** — 2027-01-06 (W19): semester portfolio (four finals + process + reflections). ✅ **Confirmed 2026-07-19**; submitted rather than sat, so the exam window does not apply.
+- **A5 (Attainment)** — 2027-01-06 (W19): the **sketchbook**, submitted for its terminal attainment mark on the same day as the portfolio. Known from W1, so notice is not a constraint. Marking focus: ideas, experimentation, visual research, reflection, presentation. Full detail in the [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|register]].
 
 Full details: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|full register]].
 

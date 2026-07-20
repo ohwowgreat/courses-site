@@ -55,7 +55,7 @@ Each unit page carries the session-by-session detail (no separate lesson-plan do
 | W16 | 12-16 | 15 | U4·L1 poster analysis + thumbnails/type; **CS4** |
 | W17 | 12-23 | 16 | **A4** final poster, in class |
 | ~~W18~~ | ~~12-30~~ | — | 🚫 **No class — winter break** (12-24 → 01-03) |
-| W19 | 2027-01-06 | 17 | U4·L4 document work; **semester portfolio due (EoT — confirmed)** |
+| W19 | 2027-01-06 | 17 | U4·L4 document work; **semester portfolio due (EoT)** + **A5 sketchbook submitted** |
 | W20 | 01-13 | — | No class (exam week); marking window |
 | W21 | 01-20 | return | Work return + 1:1 feedback; grades due same day |
 
