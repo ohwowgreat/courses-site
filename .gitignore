@@ -1,0 +1,19 @@
+# Dependencies & build output — the CI installs from package-lock and runs the build.
+node_modules/
+public/
+.quartz-cache/
+
+# NOTE: content/ IS committed on purpose. The build host (Vercel / Cloudflare) has no
+# access to the source vault, so it builds from this checked-in snapshot. Regenerate it
+# locally with `node sync.mjs` and commit the result whenever the vault changes.
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# Cloud-sync conflict copies — this directory sits under a synced home folder, so the
+# sync client periodically drops "content 2", "sync 2.mjs" etc. Never commit them.
+* [0-9]
+* [0-9].*
+*conflicted copy*

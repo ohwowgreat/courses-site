@@ -1,0 +1,522 @@
+@use "./base.scss";
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Courses — student-facing course site
+//
+// Design intent: a gallery wall, not a filing cabinet. Warm paper ground, high
+// contrast ink, one burnt-sienna accent, and artwork given room to carry the
+// page. Body copy is set for sustained reading; the many schedule tables are
+// treated as editorial data rather than spreadsheet output.
+// ─────────────────────────────────────────────────────────────────────────────
+
+// ── Reading rhythm ───────────────────────────────────────────────────────────
+
+article {
+  font-size: 1.0625rem;
+  line-height: 1.72;
+  letter-spacing: -0.002em;
+
+  p,
+  li {
+    text-wrap: pretty;
+  }
+
+  // Prose sits at a comfortable measure. Tables, figures and the landing grid
+  // are left full-width — they need the whole column.
+  > p,
+  > ul,
+  > ol,
+  > blockquote {
+    max-width: 68ch;
+  }
+}
+
+// ── Headings ─────────────────────────────────────────────────────────────────
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--headerFont);
+  letter-spacing: -0.018em;
+  text-wrap: balance;
+}
+
+.page > #quartz-body article {
+  > h1 {
+    font-size: clamp(2.1rem, 1.5rem + 2.2vw, 3rem);
+    font-weight: 600;
+    line-height: 1.08;
+    letter-spacing: -0.03em;
+    margin: 0 0 0.6rem;
+  }
+
+  > h2 {
+    font-size: 1.55rem;
+    font-weight: 600;
+    line-height: 1.2;
+    margin: 3.2rem 0 0.9rem;
+    padding-bottom: 0.45rem;
+    border-bottom: 1px solid var(--lightgray);
+  }
+
+  > h3 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 2.2rem 0 0.6rem;
+  }
+
+  > h4 {
+    font-size: 1.02rem;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    margin: 1.8rem 0 0.4rem;
+  }
+}
+
+// ── Artwork plates ───────────────────────────────────────────────────────────
+
+.plate {
+  margin: 0 0 2.6rem;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 3px;
+    background: var(--lightgray);
+  }
+
+  figcaption {
+    margin-top: 0.7rem;
+    font-size: 0.79rem;
+    line-height: 1.45;
+    color: var(--gray);
+    letter-spacing: 0.012em;
+
+    em {
+      font-style: italic;
+      color: var(--darkgray);
+    }
+  }
+}
+
+// Every hero is cropped to the same band, so portrait-format work (Mucha,
+// Utamaro) opens a page the same way as landscape work.
+//
+// No horizontal bleed: the right-hand gutter belongs to the table of contents,
+// and a negative margin there overlapped and clipped it.
+.plate--hero {
+  margin-top: -0.5rem;
+  margin-bottom: 3rem;
+
+  img {
+    aspect-ratio: 3 / 1;
+    max-height: 22rem;
+    object-fit: cover;
+    object-position: center;
+  }
+}
+
+// ── Landing page ─────────────────────────────────────────────────────────────
+
+.lede {
+  font-size: 1.22rem;
+  line-height: 1.6;
+  color: var(--darkgray);
+  max-width: 60ch;
+  margin: 0 0 2.8rem;
+  text-wrap: pretty;
+}
+
+.course-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 1.6rem;
+  margin: 0 0 1rem;
+  padding: 0;
+  list-style: none;
+}
+
+.course-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--lightgray);
+  border-radius: 4px;
+  overflow: hidden;
+  background: var(--light);
+  transition:
+    border-color 0.18s ease,
+    transform 0.18s ease;
+
+  &:hover {
+    border-color: var(--tertiary);
+    transform: translateY(-2px);
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 10;
+    object-fit: cover;
+    background: var(--lightgray);
+  }
+
+  .course-card__body {
+    padding: 0.95rem 1.1rem 1.15rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    flex: 1;
+  }
+
+  .course-card__cohort {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    color: var(--gray);
+    font-weight: 600;
+  }
+
+  .course-card__title {
+    font-family: var(--headerFont);
+    font-size: 1.12rem;
+    font-weight: 600;
+    line-height: 1.22;
+    letter-spacing: -0.015em;
+    color: var(--dark);
+
+    a {
+      background: none;
+      border: none;
+      color: inherit;
+      &:hover {
+        color: var(--secondary);
+      }
+    }
+  }
+
+  .course-card__links {
+    margin-top: auto;
+    padding-top: 0.6rem;
+    font-size: 0.83rem;
+    color: var(--gray);
+    line-height: 1.7;
+  }
+}
+
+// ── Tables ───────────────────────────────────────────────────────────────────
+// The vault leans on tables heavily (At a glance, schedules, unit sequences).
+// Vertical rules are dropped in favour of rhythm and one header rule.
+
+article table {
+  width: 100%;
+  margin: 1.4rem 0 2rem;
+  border-collapse: collapse;
+  font-size: 0.925rem;
+  line-height: 1.55;
+}
+
+article th {
+  text-align: left;
+  font-family: var(--bodyFont);
+  font-size: 0.72rem;
+  font-weight: 650;
+  text-transform: uppercase;
+  letter-spacing: 0.085em;
+  color: var(--gray);
+  padding: 0 0.9rem 0.55rem 0;
+  border-bottom: 1.5px solid var(--darkgray);
+  white-space: nowrap;
+}
+
+article td {
+  padding: 0.62rem 0.9rem 0.62rem 0;
+  border-bottom: 1px solid var(--lightgray);
+  vertical-align: top;
+
+  &:last-child {
+    padding-right: 0;
+  }
+}
+
+article tbody tr:last-child td {
+  border-bottom: none;
+}
+
+// ── Links ────────────────────────────────────────────────────────────────────
+
+article a {
+  color: var(--secondary);
+  text-decoration: none;
+  background: none;
+  border-bottom: 1px solid color-mix(in srgb, var(--secondary) 28%, transparent);
+  transition:
+    border-color 0.15s ease,
+    color 0.15s ease;
+
+  &:hover {
+    border-bottom-color: var(--secondary);
+  }
+
+  &.internal {
+    background: none;
+    padding: 0;
+  }
+}
+
+// ── Callouts ─────────────────────────────────────────────────────────────────
+
+blockquote.callout {
+  border-radius: 3px;
+  border: none;
+  border-left: 2.5px solid var(--color, var(--secondary));
+  padding: 0.9rem 1.1rem;
+  margin: 1.8rem 0;
+  font-size: 0.97rem;
+
+  .callout-title {
+    font-family: var(--headerFont);
+    letter-spacing: -0.01em;
+    .callout-title-inner {
+      font-weight: 600;
+    }
+  }
+}
+
+// ── Month-grid calendars ─────────────────────────────────────────────────────
+
+// One hue per course, distinct but within the warm register of the site. Defined at
+// the root so both the grid (.cal) and the legend (.cal-legend, a separate block) can
+// reach them.
+:root {
+  --c-a-level: #b0623f;
+  --c-media: #4f7d8c;
+  --c-art-app: #a17b1f;
+  --c-pal: #5c8a58;
+  --c-oxbridge: #836aa6;
+}
+
+.cal {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem 1.8rem;
+  margin: 1.4rem 0 2rem;
+}
+@media all and (max-width: 800px) {
+  .cal {
+    grid-template-columns: 1fr;
+  }
+}
+
+.cal-month-name {
+  font-family: var(--headerFont);
+  font-weight: 600;
+  font-size: 1.05rem;
+  letter-spacing: -0.01em;
+  margin: 0 0 0.5rem;
+}
+.cal-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 3px;
+}
+.cal-dow {
+  font-size: 0.58rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--gray);
+  text-align: center;
+  padding: 0 0 0.2rem;
+  font-weight: 650;
+}
+.cal-day {
+  min-height: 3.2rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 3px;
+  padding: 2px 3px 3px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  background: var(--light);
+}
+.cal-day--empty {
+  border: none;
+  background: none;
+}
+.cal-daynum {
+  font-size: 0.6rem;
+  color: var(--gray);
+  line-height: 1;
+}
+.cal-day--weekend {
+  background: color-mix(in srgb, var(--gray) 7%, transparent);
+}
+.cal-day--holiday {
+  background: color-mix(in srgb, #b5462f 14%, transparent);
+  border-color: color-mix(in srgb, #b5462f 22%, var(--lightgray));
+}
+.cal-day--exam {
+  background: color-mix(in srgb, var(--secondary) 13%, transparent);
+  border-color: color-mix(in srgb, var(--secondary) 25%, var(--lightgray));
+}
+.cal-evs {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.cal-ev {
+  font-size: 0.6rem;
+  line-height: 1.2;
+  padding: 1px 4px;
+  border-radius: 3px;
+  font-weight: 600;
+  color: #fff;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.cal-ev--a-level { background: var(--c-a-level); }
+.cal-ev--media { background: var(--c-media); }
+.cal-ev--art-app { background: var(--c-art-app); }
+.cal-ev--pal { background: var(--c-pal); }
+.cal-ev--oxbridge { background: var(--c-oxbridge); }
+// School context chips (holiday name, exam window, term anchors) read as quiet text.
+.cal-ev--school {
+  background: none;
+  color: var(--darkgray);
+  font-weight: 600;
+  padding: 0;
+}
+
+// Legend above each calendar.
+.cal-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.6rem;
+  margin: 0.5rem 0 0.2rem;
+  align-items: center;
+}
+.cal-key {
+  font-size: 0.66rem;
+  font-weight: 600;
+  padding: 1px 7px;
+  border-radius: 10px;
+  color: #fff;
+}
+.cal-key--holiday {
+  color: var(--darkgray);
+  background: color-mix(in srgb, #b5462f 20%, transparent);
+}
+.cal-key--exam {
+  color: var(--darkgray);
+  background: color-mix(in srgb, var(--secondary) 20%, transparent);
+}
+
+// ── Left rail ────────────────────────────────────────────────────────────────
+// The rail now carries title, search, the site nav and the page TOC.
+
+// Desktop: a sticky full-height column. It can get tall (nav + long TOC), so let
+// it scroll internally rather than clip.
+@media all and (min-width: 1200px) {
+  .left.sidebar {
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+  .left .toc {
+    margin-top: 0.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--lightgray);
+  }
+}
+
+// Mobile: Quartz lays the left rail out as a horizontal row (title + search form a
+// header bar). Let it wrap, and drop the nav and TOC onto their own full-width rows
+// below that bar instead of being squeezed into it.
+@media all and (max-width: 800px) {
+  .left.sidebar {
+    flex-wrap: wrap;
+    row-gap: 0.6rem;
+  }
+  .left.sidebar .site-nav,
+  .left.sidebar .toc {
+    width: 100%;
+    flex-basis: 100%;
+  }
+  .site-nav-group { margin-bottom: 0.7rem; }
+}
+
+// ── Chrome ───────────────────────────────────────────────────────────────────
+
+.page-title {
+  font-family: var(--headerFont);
+  font-size: 1.32rem;
+  font-weight: 600;
+  line-height: 1.15;
+  letter-spacing: -0.025em;
+
+  a {
+    background: none;
+  }
+}
+
+.breadcrumb-container {
+  font-size: 0.78rem;
+  letter-spacing: 0.03em;
+  color: var(--gray);
+  margin: 0 0 1.6rem;
+
+  a {
+    color: var(--gray);
+    background: none;
+    border: none;
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+}
+
+.toc {
+  font-size: 0.84rem;
+
+  & > button > h3 {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    font-family: var(--bodyFont);
+    font-weight: 650;
+    color: var(--gray);
+  }
+
+  ul li a {
+    color: var(--gray);
+    border: none;
+    background: none;
+    &:hover,
+    &.in-view {
+      color: var(--secondary);
+    }
+  }
+}
+
+footer {
+  margin-top: 4rem;
+  padding-top: 1.4rem;
+  border-top: 1px solid var(--lightgray);
+  font-size: 0.78rem;
+  color: var(--gray);
+
+  ul {
+    display: none;
+  }
+}
+
+// Keep the plates from glaring against a dark ground.
+:root[saved-theme="dark"] {
+  .plate img,
+  .course-card img {
+    filter: brightness(0.9) saturate(0.95);
+  }
+}
