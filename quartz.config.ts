@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     // No third-party analytics: this is a student-facing site.
     analytics: null,
     locale: "en-US",
-    baseUrl: "localhost:8080",
+    baseUrl: "courses-site-one.vercel.app",
     // Cloud-sync conflict copies ("index 2.md") can appear in content/ between a
     // sync and a build, bypassing the filter. sync.mjs prunes them; this catches
     // any that land in the gap.
