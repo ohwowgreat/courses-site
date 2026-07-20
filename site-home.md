@@ -81,7 +81,7 @@ Four categories, fixed across every course: **Attainment** (50%), **Course Skill
 notice you're owed before any assessment, is in
 [[shared/bnds-assessment-framework|the assessment framework]].
 
-Term dates and holidays: [[shared/school-academic-calendar|School Academic Calendar]].
+Term dates and holidays are on [[calendar|the calendar]], alongside every assessment.
 
 ## Media Studies theory
 

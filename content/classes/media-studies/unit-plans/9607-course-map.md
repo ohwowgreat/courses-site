@@ -4,7 +4,6 @@ tags: [media-studies, cie-9607, course-map]
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-semester-1-plan]]"
-  - "[[shared/school-academic-calendar]]"
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-17
 ---

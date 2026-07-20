@@ -5,7 +5,6 @@ related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-course-map]]"
   - "[[classes/a-level-art-design/assessments/9479-s1-assessments]]"
-  - "[[shared/school-academic-calendar]]"
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-17
 ---
@@ -14,7 +13,7 @@ modified: 2026-07-17
 
 > [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · Semester 1 of 4 ([[classes/a-level-art-design/unit-plans/9479-course-map|course map]]) · next: S2 C3 part 1
 
-**Component 1 (Portfolio), G11, autumn 2026-27.** One 45-minute session every teaching day: **80 sessions across 77 teaching days — zero slack.** First session Tue 2026-09-01; last teaching day Fri 2027-01-08. Dates follow the [[shared/school-academic-calendar|school calendar]].
+**Component 1 (Portfolio), G11, autumn 2026-27.** One 45-minute session every teaching day: **80 sessions across 77 teaching days — zero slack.** First session Tue 2026-09-01; last teaching day Fri 2027-01-08. Dates follow the [[calendar|school calendar]].
 
 ## The five units
 

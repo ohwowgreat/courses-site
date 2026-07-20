@@ -22,7 +22,7 @@ Status column distinguishes **in use** (a plan cites it) from **reference** (kep
 - **Photography:** Walker Evans (*Alabama Cotton Tenant Farmer Wife*, 1936), August Sander (*Artists' Party in Cologne*, c.1930), Carleton Watkins (*Arbutus Menziesii*), Emmet Gowin (*Edith, Chincoteague*, 1967), Frederick H. Evans (*Lincoln Cathedral*, 1898), Eugène Atget (*Versailles* ×2, 1901–02), Gerry Johansson (×2), Albert Elm
 - **Painting / works on paper:** Ad Reinhardt (*Number 107*), Adolph Gottlieb (*Blast I*, *Descending Arrow*), Arnulf Rainer (*Untitled*), Fernand Léger (*The Mirror*), Jacob Lawrence (*They were very poor*)
 
-Because the set leans photographic, it **doubles as a U2 Photography reference** — Atget, Watkins and Evans are series-and-structure exemplars, not just visual-elements ones. Complements the image-slide-library rather than duplicating it.
+Because the set leans photographic, it **doubles as a U2 Photography reference** — Atget, Watkins and Evans are series-and-structure exemplars, not just visual-elements ones. Complements the image slide library rather than duplicating it.
 
 ## Printmaking practicals (ingested 2026-07-19)
 

@@ -2,7 +2,6 @@
 title: BNDS Assessment Framework
 tags: [shared, assessment, grading, bnds, handbook]
 related:
-  - "[[shared/school-academic-calendar]]"
   - "[[shared/bnds-ai-policy]]"
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/media-studies/media-studies]]"
@@ -45,7 +44,7 @@ Non-attainment assessments: **72 hours** (both sources agree).
 - **Homework capped at 30 minutes per subject per day** (Guide p.13); break homework ≈ 3–4 hours per ten-day holiday (workbook convention).
 - **Extensions** must be requested **at least 24 hours before the deadline** (Guide p.13).
 - **Absence from an assessment** requires contacting the subject teacher **24 hours before the due time**; illness needs a doctor's note. ⚠ *"If no communication is made with the subject teacher in advance you may be given 0, even if this is due to illness"* (Guide p.8).
-- **Late-work cutoff:** *"three weeks before the last school day of the semester"* (Guide p.13). ⚠ For S1 that computes to Fri 2027-01-01, which **falls inside the winter break** — the operative date is unresolved, see [[shared/school-academic-calendar]].
+- **Late-work cutoff:** *"three weeks before the last school day of the semester"* (Guide p.13). ⚠ For S1 that computes to Fri 2027-01-01, which **falls inside the winter break** — the operative date is unresolved, see [[calendar|school academic calendar]].
 - **Assessment content:** only what has been taught and practised — *"You should have seen similar content or formats beforehand"* — though "the context in which the knowledge or skills are applied may be novel" (Guide p.9).
 - Every formative (CS) task adjacent to an attainment is **direct practice for it** (vault convention, not school policy).
 - Mid-term report grades (S1: due Thu 2026-10-29) must be fed by an attainment marked in time.

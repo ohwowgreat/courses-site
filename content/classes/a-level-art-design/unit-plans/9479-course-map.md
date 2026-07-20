@@ -5,7 +5,6 @@ related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-semester-1-plan]]"
   - "[[classes/a-level-art-design/assessments/9479-s1-assessments]]"
-  - "[[shared/school-academic-calendar]]"
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-18
 ---
@@ -23,7 +22,7 @@ modified: 2026-07-18
 | S3 | autumn 2027 | C3 part 2 → internal submission | G12 | [[classes/a-level-art-design/unit-plans/9479-semester-3-plan\|S3 Plan]] · 4 units |
 | S4 | spring 2028 | C2 Externally Set Assignment → **all-component submission** | G12 | [[classes/a-level-art-design/unit-plans/9479-semester-4-plan\|S4 Plan]] · 5 units |
 
-**Dates:** S1 follows the ingested [[shared/school-academic-calendar|2026-27 calendar]]. S2 uses real spring-2027 weekdays but is **provisional** (no spring calendar ingested); S3 and S4 dates are **projected** until the 2027-28 calendar publishes.
+**Dates:** S1 follows the ingested [[calendar|2026-27 calendar]]. S2 uses real spring-2027 weekdays but is **provisional** (no spring calendar ingested); S3 and S4 dates are **projected** until the 2027-28 calendar publishes.
 
 **What linear entry means here:** all three components are entered in the single June 2028 series, so there is no separate AS award and no carry-forward step. Spring 2027 therefore carries **no Cambridge deadline** — the first and only submission is ≈ end April 2028, where C1, C2 and C3 land together (S4 wk 11).
 

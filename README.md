@@ -58,8 +58,14 @@ re-sync. Which page gets which plate is the `HEROES` map in `sync.mjs`.
 Defined at the top of `sync.mjs`.
 
 **Whole pages** — `index.md`, `log.md`, `courses-dashboard.md`, the first-session opener,
-the image-slide library catalog, and the three superseded/legacy pages. Plus the vault's
-`home.md`, which is a teacher's dashboard; the site uses `site-home.md` instead.
+the image-slide library catalog, the school academic calendar (every student-relevant date
+on it is already on the hub calendar page, which is a strict superset; the rest is planning
+analysis), and the three superseded/legacy pages. Plus the vault's `home.md`, which is a
+teacher's dashboard; the site uses `site-home.md` instead.
+
+Links to a withheld page normally degrade to plain text, but `LINK_REDIRECTS` in
+`sync.mjs` can retarget them to a published equivalent instead — the school calendar's
+links point at the hub calendar this way.
 
 **Sections**, stripped from every page that has them — `Teacher notes`, `Contingencies`,
 `Open items`, `Applied rules`, `Notice and marking rules`, `Gaps`, `Holdings`,

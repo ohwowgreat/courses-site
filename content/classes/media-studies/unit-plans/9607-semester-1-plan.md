@@ -5,7 +5,6 @@ related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-course-map]]"
   - "[[classes/media-studies/assessments/9607-s1-assessments]]"
-  - "[[shared/school-academic-calendar]]"
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-17
 ---
@@ -14,7 +13,7 @@ modified: 2026-07-17
 
 > [[classes/media-studies/media-studies|Media Studies]] · Semester 1 of 4 ([[classes/media-studies/unit-plans/9607-course-map|course map]]) · next: S2 C1 submission + Paper 2
 
-**G11 (AS year), autumn 2026-27.** 16 deliverable-based lessons across **64 teaching days in 21 weeks**. Semester goal: media language and textual analysis mastered, **Component 1 launched, produced and internally completed by Fri 2026-11-27**, C2 Section A craft established. Dates follow the [[shared/school-academic-calendar|school calendar]].
+**G11 (AS year), autumn 2026-27.** 16 deliverable-based lessons across **64 teaching days in 21 weeks**. Semester goal: media language and textual analysis mastered, **Component 1 launched, produced and internally completed by Fri 2026-11-27**, C2 Section A craft established. Dates follow the [[calendar|school calendar]].
 
 ⚠ **Timetable assumed, not confirmed:** Mon/Tue/Fri singles + **Wed double**. Every in-class assessment sits in the Wednesday double — if the real timetable differs, every dated cell moves.
 

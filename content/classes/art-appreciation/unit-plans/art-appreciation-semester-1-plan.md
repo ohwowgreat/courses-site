@@ -5,7 +5,6 @@ related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-semester-2-outline]]"
   - "[[classes/art-appreciation/assessments/art-appreciation-s1-assessments]]"
-  - "[[shared/school-academic-calendar]]"
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-19
 ---
@@ -23,7 +22,7 @@ modified: 2026-07-19
 
 > [[classes/art-appreciation/art-appreciation|Art Appreciation]] · Semester 1 · next: [[classes/art-appreciation/unit-plans/art-appreciation-semester-2-outline|S2 outline]]
 
-**Mixed G11+G12, Autumn 2026-27.** 15 deliverable-based lessons across **65 teaching days / 82 periods**. A lesson is one deliverable, never one day: if a day is lost the deliverable does not move, beats compress, and the cut beat is named. Dates follow the [[shared/school-academic-calendar|school calendar]].
+**Mixed G11+G12, Autumn 2026-27.** 15 deliverable-based lessons across **65 teaching days / 82 periods**. A lesson is one deliverable, never one day: if a day is lost the deliverable does not move, beats compress, and the cut beat is named. Dates follow the [[calendar|school calendar]].
 
 **Timetable ✅ confirmed 2026-07-19:** Mon P4 · **Tue P6+7 (double)** · Wed P1 · Fri P2.
 

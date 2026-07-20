@@ -299,24 +299,55 @@ blockquote.callout {
   --c-oxbridge: #836aa6;
 }
 
+// Paged: one month visible at a time, driven by hidden radio inputs — the
+// prev/next controls are <label>s, so no JavaScript is involved.
 .cal {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 1.5rem 1.8rem;
   margin: 1.4rem 0 2rem;
 }
-@media all and (max-width: 800px) {
-  .cal {
-    grid-template-columns: 1fr;
+.cal-radio {
+  display: none;
+}
+.cal-paged .cal-month {
+  display: none;
+}
+@for $i from 0 through 7 {
+  .cal-paged #cal-m#{$i}:checked ~ .cal-month[data-m="#{$i}"] {
+    display: block;
   }
 }
 
+.cal-month-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.8rem;
+  margin: 0 0 0.6rem;
+}
 .cal-month-name {
   font-family: var(--headerFont);
   font-weight: 600;
-  font-size: 1.05rem;
+  font-size: 1.15rem;
   letter-spacing: -0.01em;
-  margin: 0 0 0.5rem;
+}
+.cal-nav {
+  cursor: pointer;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--secondary);
+  padding: 0.15rem 0.55rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 4px;
+  user-select: none;
+  min-width: 5.5rem;
+  text-align: center;
+  transition: border-color 0.12s ease;
+
+  &:hover {
+    border-color: var(--secondary);
+  }
+  &.cal-nav--off {
+    visibility: hidden;
+  }
 }
 .cal-grid {
   display: grid;
@@ -333,7 +364,7 @@ blockquote.callout {
   font-weight: 650;
 }
 .cal-day {
-  min-height: 3.2rem;
+  min-height: 4.6rem;
   border: 1px solid var(--lightgray);
   border-radius: 3px;
   padding: 2px 3px 3px;
@@ -367,16 +398,20 @@ blockquote.callout {
   flex-direction: column;
   gap: 2px;
 }
+// Single-month view has room for detail: chips wrap instead of truncating, and
+// assessment chips carry a short descriptor after their bold code.
 .cal-ev {
-  font-size: 0.6rem;
-  line-height: 1.2;
-  padding: 1px 4px;
+  font-size: 0.64rem;
+  line-height: 1.25;
+  padding: 2px 5px;
   border-radius: 3px;
-  font-weight: 600;
+  font-weight: 500;
   color: #fff;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+
+  strong {
+    font-weight: 700;
+    color: inherit;
+  }
 }
 .cal-ev--a-level { background: var(--c-a-level); }
 .cal-ev--media { background: var(--c-media); }
@@ -413,6 +448,90 @@ blockquote.callout {
 .cal-key--exam {
   color: var(--darkgray);
   background: color-mix(in srgb, var(--secondary) 20%, transparent);
+}
+
+// ── Course map ───────────────────────────────────────────────────────────────
+// The structured subpage map injected into each course overview by sync.mjs.
+
+.cmap {
+  display: grid;
+  grid-template-columns: minmax(11rem, 1fr) minmax(14rem, 1.4fr);
+  gap: 1.2rem 2rem;
+  margin: 2rem 0 2.4rem;
+  padding: 1.2rem 1.4rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 4px;
+  background: var(--light);
+}
+@media all and (max-width: 800px) {
+  .cmap {
+    grid-template-columns: 1fr;
+  }
+}
+// Lessons span the full width beneath the two columns.
+.cmap-col:nth-child(3) {
+  grid-column: 1 / -1;
+}
+
+.cmap-h {
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  font-weight: 650;
+  color: var(--gray);
+  margin: 0 0 0.5rem;
+  font-family: var(--bodyFont);
+}
+.cmap ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.cmap li {
+  margin: 0;
+}
+.cmap-col a {
+  display: block;
+  padding: 0.16rem 0;
+  font-size: 0.88rem;
+  color: var(--darkgray);
+  border: none;
+  line-height: 1.4;
+
+  &:hover {
+    color: var(--secondary);
+  }
+}
+.cmap-sem {
+  font-size: 0.64rem;
+  font-weight: 650;
+  color: var(--gray);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin: 0.5rem 0 0.1rem;
+
+  &:first-child {
+    margin-top: 0;
+  }
+}
+.cmap-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+.cmap-chips a {
+  display: inline-block;
+  font-size: 0.74rem;
+  font-weight: 600;
+  padding: 2px 8px;
+  border: 1px solid var(--lightgray);
+  border-radius: 3px;
+  color: var(--darkgray);
+
+  &:hover {
+    border-color: var(--secondary);
+    color: var(--secondary);
+  }
 }
 
 // ── Left rail ────────────────────────────────────────────────────────────────

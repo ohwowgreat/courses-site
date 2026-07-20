@@ -121,20 +121,30 @@ export function parseAgenda(md) {
   return events
 }
 
-// A short chip label: the assessment code where there is one, else the leading phrase.
-function chipText(ev) {
+// Chip content. Assessments show their code plus the label's short descriptor
+// ("A2 · C1 blog mid-point") — the single-month view has room for it. Others show
+// the leading phrase of their label.
+function chipHtml(ev) {
   if (ev.kind === "assessment") {
     const m = ev.label.match(/\b(A[1-4]|EoT|CS\d+|HW\d+)\b/)
-    if (m) return m[1]
-    if (/deadline/i.test(ev.label)) return "Deadline"
+    const desc = ev.label
+      .replace(/\[\[[^\]]*\]\]/g, "")
+      .replace(/\*\*/g, "")
+      .match(/\(([^)]+)\)/)?.[1]
+      ?.split(/ — /)[0]
+      ?.trim()
+    if (m) return `<strong>${m[1]}</strong>${desc ? ` ${esc(desc.slice(0, 40))}` : ""}`
+    if (/deadline/i.test(ev.label)) return "<strong>Deadline</strong>"
   }
   if (ev.kind === "exam") return "Exam window"
-  return ev.label
-    .replace(/\[\[[^\]]*\]\]/g, "")
-    .replace(/\*\*/g, "")
-    .split(/[—·(]/)[0]
-    .trim()
-    .slice(0, 22)
+  return esc(
+    ev.label
+      .replace(/\[\[[^\]]*\]\]/g, "")
+      .replace(/\*\*/g, "")
+      .split(/[—·(]/)[0]
+      .trim()
+      .slice(0, 32),
+  )
 }
 
 const esc = (s) =>
@@ -159,7 +169,7 @@ function collect(events) {
   return { chips, shade }
 }
 
-function renderMonth(y, m, chips, shade) {
+function renderMonth(y, m, chips, shade, idx, total) {
   const startDow = (new Date(Date.UTC(y, m, 1)).getUTCDay() + 6) % 7 // Mon = 0
   const daysInMonth = new Date(Date.UTC(y, m + 1, 0)).getUTCDate()
   let cells = ""
@@ -173,7 +183,7 @@ function renderMonth(y, m, chips, shade) {
         (e) =>
           `<span class="cal-ev cal-ev--${e.course} cal-ev--${e.kind}" title="${esc(
             e.label.replace(/\[\[[^\]|]*\|?|\]\]|\*\*/g, ""),
-          )}">${esc(chipText(e))}</span>`,
+          )}">${chipHtml(e)}</span>`,
       )
       .join("")
     const cls = ["cal-day", sh && `cal-day--${sh}`, weekend && "cal-day--weekend"]
@@ -182,12 +192,23 @@ function renderMonth(y, m, chips, shade) {
     cells += `<div class="${cls}"><span class="cal-daynum">${d}</span><div class="cal-evs">${evs}</div></div>`
   }
   const dows = DOW.map((x) => `<div class="cal-dow">${x}</div>`).join("")
-  return `<div class="cal-month"><div class="cal-month-name">${MONTH_NAMES[m]} ${y}</div><div class="cal-grid">${dows}${cells}</div></div>`
+  // Prev/next are <label>s driving the pager's radio inputs — no JS, so paging
+  // works on first load and after Quartz's SPA navigation alike.
+  const prev = idx > 0 ? `<label class="cal-nav" for="cal-m${idx - 1}">‹ ${MONTH_NAMES[MONTHS[idx - 1][1]]}</label>` : `<span class="cal-nav cal-nav--off"></span>`
+  const next = idx < total - 1 ? `<label class="cal-nav" for="cal-m${idx + 1}">${MONTH_NAMES[MONTHS[idx + 1][1]]} ›</label>` : `<span class="cal-nav cal-nav--off"></span>`
+  const head = `<div class="cal-month-head">${prev}<span class="cal-month-name">${MONTH_NAMES[m]} ${y}</span>${next}</div>`
+  return `<div class="cal-month" data-m="${idx}">${head}<div class="cal-grid">${dows}${cells}</div></div>`
 }
 
+// One month visible at a time. The radio inputs sit as siblings before the month
+// panels; CSS shows the panel matching the checked input.
 export function renderCalendar(events) {
   const { chips, shade } = collect(events)
-  return `<div class="cal">${MONTHS.map(([y, m]) => renderMonth(y, m, chips, shade)).join("")}</div>`
+  const radios = MONTHS.map(
+    (_, i) => `<input class="cal-radio" type="radio" name="cal-page" id="cal-m${i}"${i === 0 ? " checked" : ""}>`,
+  ).join("")
+  const months = MONTHS.map(([y, m], i) => renderMonth(y, m, chips, shade, i, MONTHS.length)).join("")
+  return `<div class="cal cal-paged">${radios}${months}</div>`
 }
 
 // School holidays, the exam window and the major term anchors are context on every

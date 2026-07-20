@@ -4,7 +4,6 @@ tags: [art-appreciation, semester-2, unit-plan, outline, 2026-27]
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan]]"
-  - "[[shared/school-academic-calendar]]"
 modified: 2026-07-17
 ---
 
@@ -44,7 +43,7 @@ modified: 2026-07-17
 1. No external paper, no mock — the anchor is the **Atlas Book**, and the spring is built backwards from it.
 2. **Qingming week** (Qingming = Mon 2027-04-05; floats): a free Atlas-Book production block, not a mock. Hard-wire nothing to early April; book studio space when dates are announced.
 3. May Day (≈ 05-01 → 05-05): revision / Atlas-Book production only.
-4. **Confirm the S2 assessment map before the winter break** — a major in the first fortnight back must be announced before students leave in January (winter vacation 2027-01-24 → 02-21, per [[shared/school-academic-calendar]]).
+4. **Confirm the S2 assessment map before the winter break** — a major in the first fortnight back must be announced before students leave in January (winter vacation 2027-01-24 → 02-21, per [[calendar|school academic calendar]]).
 5. Every S2 announcement must land on a both-cohort session; spring Juniors/Seniors disruption weeks are unknown until the spring calendar publishes.
 
 ## What's missing

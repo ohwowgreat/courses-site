@@ -37,7 +37,7 @@ Seven teaching days across two weeks with the class split in both of them, so th
 - **Day 4 · Thu 26 Nov · `U4·L4`** — self-contained (G12 out): a reproduction read as an object with decisions of its own.
 - **Day 5 · Fri 27 Nov · `U4·L5`** — self-contained (G12 out): write the caption that changes the picture, then write the honest one. The deliverable.
 - **Day 6 · Mon 30 Nov · `U4·L6`** — Godard, *Goodbye to Language*, one extract: "sit with an image that refuses to add up, and stay with it." Standalone.
-- **Day 7 · Tue 1 Dec · `U4·L7`** — **A4 ANNOUNCED** (Unit 4 synthesis, Thu 17 Dec), then the floating world as a market, not a mood. LB7 posted. The lesson file says "UC deadline today," but the [[shared/school-academic-calendar|school calendar]] puts the UC deadline on **Mon 2026-11-30** — the calendar wins on dates; either way G12 will be thin at the start of this week.
+- **Day 7 · Tue 1 Dec · `U4·L7`** — **A4 ANNOUNCED** (Unit 4 synthesis, Thu 17 Dec), then the floating world as a market, not a mood. LB7 posted. The lesson file says "UC deadline today," but the [[calendar|school calendar]] puts the UC deadline on **Mon 2026-11-30** — the calendar wins on dates; either way G12 will be thin at the start of this week.
 
 ## Assessment
 

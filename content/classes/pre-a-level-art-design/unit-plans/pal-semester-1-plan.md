@@ -5,7 +5,6 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/assessments/pal-s1-assessments]]"
-  - "[[shared/school-academic-calendar]]"
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-19
 ---
@@ -14,7 +13,7 @@ modified: 2026-07-19
 
 > [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · Semester 1 (Grade 10 Art) · next: S2 studio semester, map not yet drawn
 
-**Grade 10 Art, Autumn 2026-27.** One double session every Wednesday: **18 sessions, 2026-09-02 → 2027-01-06**, plus a return session 2027-01-20. Four units, each closing on a final made in class. The workbook's own warning: **"a lost Wednesday costs a whole unit stage."** Dates follow the [[shared/school-academic-calendar|school calendar]] (with the G10 cohort correction — Juniors Days are G11-only, so those Wednesdays teach).
+**Grade 10 Art, Autumn 2026-27.** One double session every Wednesday: **18 sessions, 2026-09-02 → 2027-01-06**, plus a return session 2027-01-20. Four units, each closing on a final made in class. The workbook's own warning: **"a lost Wednesday costs a whole unit stage."** Dates follow the [[calendar|school calendar]] (with the G10 cohort correction — Juniors Days are G11-only, so those Wednesdays teach).
 
 ## The four units
 
@@ -30,7 +29,7 @@ Each unit page carries the session-by-session detail (no separate lesson-plan do
 > [!important] This course is modular — PAL only
 > **Most lessons and units here are interchangeable, except the introduction, which stays first.** U4 is the clearest case — graphic design and printmaking are the same slot, swappable.
 >
-> This matters most for [[shared/school-academic-calendar|schedule disruption]]. The workbook's warning — *"a lost Wednesday costs a whole unit stage"* — still holds **within** a unit, where the stages are sequential. But **across** units the order is free, so a `reflow` here has an option the other courses lack: **reorder rather than compress.** If a lost Wednesday would wreck the unit in progress, swapping in a later unit and returning to it can be cheaper than cutting content.
+> This matters most for [[calendar|schedule disruption]]. The workbook's warning — *"a lost Wednesday costs a whole unit stage"* — still holds **within** a unit, where the stages are sequential. But **across** units the order is free, so a `reflow` here has an option the other courses lack: **reorder rather than compress.** If a lost Wednesday would wreck the unit in progress, swapping in a later unit and returning to it can be cheaper than cutting content.
 >
 > ⚠ Does **not** generalize. The human scoped this to PAL: Media Studies builds semiotics → representation, and Art Appreciation's theorist spine is cumulative. Do not reorder units in the other four courses.
 

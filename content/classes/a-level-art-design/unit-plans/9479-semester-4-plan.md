@@ -6,7 +6,6 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-course-map]]"
   - "[[classes/a-level-art-design/unit-plans/9479-semester-3-plan]]"
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
-  - "[[shared/school-academic-calendar]]"
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-18
 ---

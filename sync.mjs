@@ -12,6 +12,7 @@
 import { readFile, writeFile, mkdir, rm, readdir } from "node:fs/promises"
 import { join, relative, dirname } from "node:path"
 import { parseAgenda, calendarBlock, coursePage, COURSES } from "./calendar-grid.mjs"
+import { courseMapHtml } from "./course-map.mjs"
 
 const VAULT = "/Users/dogan/Documents/Vaults/Courses/wiki"
 const OUT = join(import.meta.dirname, "content")
@@ -56,6 +57,10 @@ const DROP_PAGES = new Set([
   "courses-dashboard.md", // congestion analysis, risks, open questions
   "shared/first-session-opener.md", // teaching script for the opener
   "shared/image-slide-library.md", // internal 6,181-image asset catalog
+  // Every student-relevant date on it already appears on the hub calendar page (a
+  // strict superset — verified 2026-07-20); what remains is planning analysis:
+  // source-file provenance, correction history, cohort caveats, upstream defects.
+  "shared/school-academic-calendar.md",
   "classes/pre-a-level-art-design/lesson-plans/pal-legacy-lesson-library.md", // marked SUPERSEDED
   "classes/art-appreciation/lesson-plans/art-appreciation-legacy-lesson-bank.md", // prior generation
   "classes/art-appreciation/unit-plans/art-appreciation-food-and-ethics-prior-unit.md", // prior generation
@@ -305,13 +310,26 @@ function cleanCalendar(body) {
     .replace(/\n{3,}/g, "\n\n")
 }
 
-// Links to withheld pages become plain text so the site has no dead ends.
-// Handles [[path]], [[path|alias]] and the [[path\|alias]] form used inside tables.
+// Withheld pages whose student-relevant content lives on another published page:
+// links to them are retargeted there instead of degrading to plain text.
+const LINK_REDIRECTS = {
+  // The hub calendar is a strict superset of the school calendar's dates.
+  "shared/school-academic-calendar": "calendar",
+}
+
+// Links to withheld pages are retargeted (if a redirect exists) or become plain
+// text, so the site has no dead ends. Handles [[path]], [[path|alias]] and the
+// [[path\|alias]] form used inside tables.
 function derefDropped(text, publishedTargets) {
-  return text.replace(/\[\[([^\]|]+?)(?:\\?\|([^\]]*?))?\]\]/g, (match, target, alias) => {
+  return text.replace(/\[\[([^\]|]+?)(?:(\\?\|)([^\]]*?))?\]\]/g, (match, target, pipe, alias) => {
     const clean = target.split("#")[0].trim()
     if (publishedTargets.has(clean)) return match
-    return alias ?? clean.split("/").pop()
+    // Humanize the slug for bare links, so prose reads "the school academic
+    // calendar", not "the school-academic-calendar".
+    const label = alias ?? clean.split("/").pop().replace(/-/g, " ")
+    const redirect = LINK_REDIRECTS[clean]
+    if (redirect) return `[[${redirect}${pipe ?? "|"}${label}]]`
+    return label
   })
 }
 
@@ -352,6 +370,8 @@ await mkdir(OUT, { recursive: true })
 
 // Every path this run writes, so anything else in content/ can be pruned at the end.
 const written = new Set()
+// rel → frontmatter title, for the course maps and nav labels.
+const pageTitles = new Map()
 let strippedCount = 0
 for (const rel of published) {
   let raw = await readFile(join(VAULT, rel), "utf8")
@@ -362,6 +382,8 @@ for (const rel of published) {
   if (fmMatch) {
     frontmatter = cleanFrontmatter(fmMatch[1], publishedTargets)
     body = raw.slice(fmMatch[0].length)
+    const t = fmMatch[1].match(/^title:\s*"?(.+?)"?\s*$/m)
+    if (t) pageTitles.set(rel, t[1])
   }
 
   const before = body.length
@@ -425,18 +447,27 @@ cal = cal.replace(
 )
 await writeFile(join(OUT, calRel), cal)
 
-// Link each course overview to its own calendar from the "Start here" line.
+// Inject a structured course map into each overview, replacing the old inline
+// "Start here" sentence links. Built from what was actually published, so it
+// cannot list a page that doesn't exist.
 for (const c of Object.values(COURSES)) {
   const ovRel = c.overview + ".md"
   if (!written.has(ovRel)) continue
+  const prefix = c.dir + "/"
+  const items = [...written]
+    .filter((rel) => rel.startsWith(prefix) && rel !== ovRel)
+    .map((rel) => ({
+      rel: rel.slice(prefix.length),
+      title: pageTitles.get(rel) ?? rel.split("/").pop().replace(/\.md$/, ""),
+    }))
+  const map = courseMapHtml(items, c.dir)
+  if (!map) continue
   let ov = await readFile(join(OUT, ovRel), "utf8")
-  if (ov.includes("**Start here:**") && !ov.includes("course-calendar")) {
-    ov = ov.replace(
-      /(> \*\*Start here:\*\*[^\n]*)/,
-      `$1 · [[${c.dir}/course-calendar|Calendar]]`,
-    )
-    await writeFile(join(OUT, ovRel), ov)
-  }
+  // The old navigation: a "> **Start here:** …" blockquote of inline links.
+  ov = ov.replace(/^> \*\*Start here:\*\*[^\n]*\n+/m, "")
+  // Insert before the first H2 — after the intro prose, before the content.
+  ov = /^## /m.test(ov) ? ov.replace(/^## /m, `${map}## `) : ov + "\n" + map
+  await writeFile(join(OUT, ovRel), ov)
 }
 
 // content/ sits under ~/Documents, which is cloud-synced. When this script clears
