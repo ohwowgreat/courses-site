@@ -4,8 +4,8 @@ Student-facing website built from the `Courses` Obsidian vault, using
 [Quartz v4](https://quartz.jzhao.xyz).
 
 The vault is teacher-facing. `sync.mjs` is the gate between it and the published site —
-it reads `~/Documents/Vaults/Courses/wiki/`, filters, and writes `content/`. It never
-writes to the vault.
+it reads `~/Documents/Vaults/Courses/wiki/`, filters, **reframes each page into
+student-facing voice** (see below), and writes `content/`. It never writes to the vault.
 
 ## Deployment
 
@@ -20,7 +20,9 @@ Hosted on Vercel / Cloudflare Pages, which build straight from this repo on ever
 
 `content/` is committed on purpose — the build host has no access to the source vault, so
 it builds from the checked-in snapshot. **The deploy workflow is: edit the vault → run
-`node sync.mjs` locally → commit `content/` → push.** The push triggers the rebuild.
+`node sync.mjs` locally → review the `content/` diff → commit → push.** The push triggers
+the rebuild. The diff review matters more now that a model rewrites the prose — it is the
+last look every page gets before it goes public.
 
 After the first deploy, set `baseUrl` in `quartz.config.ts` to the assigned domain (e.g.
 `courses.pages.dev`) and push again — it only affects the sitemap and social-share
@@ -60,8 +62,9 @@ Defined at the top of `sync.mjs`.
 **Whole pages** — `index.md`, `log.md`, `courses-dashboard.md`, the first-session opener,
 the image-slide library catalog, the school academic calendar (every student-relevant date
 on it is already on the hub calendar page, which is a strict superset; the rest is planning
-analysis), and the three superseded/legacy pages. Plus the vault's `home.md`, which is a
-teacher's dashboard; the site uses `site-home.md` instead.
+analysis), the `9607-theory-provenance` analysis (teacher-facing in its entirety), and the
+three superseded/legacy pages. Plus the vault's `home.md`, which is a teacher's dashboard;
+the site uses `site-home.md` instead.
 
 Links to a withheld page normally degrade to plain text, but `LINK_REDIRECTS` in
 `sync.mjs` can retarget them to a published equivalent instead — the school calendar's
@@ -88,6 +91,43 @@ dates reflect the vault rather than the last sync.
 
 Links to withheld pages degrade to plain text, so the site has no dead ends. Verified at
 0 broken wikilinks across 136 pages.
+
+## Student-voice reframe (the second stage)
+
+The filter above can only *delete*. The prose that survives it is still written in the
+vault's planning voice — "lesson docs are still to write", source-spreadsheet
+comparisons, instructions to staff — which regex cannot rewrite. So after the filter,
+`reframe.mjs` sends each surviving page body to the Claude API
+(`claude-opus-4-8`) with a fixed style contract: keep every fact a student can
+act on (dates, codes, requirements, grading), remove planning status / provenance /
+staff instructions, reframe the rest as information for the student, never invent
+anything, keep wikilinks exactly as written.
+
+**Order is the trust model.** The deterministic filter runs first and is the privacy
+gate — withheld pages and stripped sections never reach the model. The model handles
+tone, never secrecy: on a bad day it can produce awkward prose (caught in the diff
+review), but it cannot leak a page it never saw.
+
+**Caching.** Results live in `reframe-cache.json` (committed), keyed by a hash of
+(model, prompt version, filtered body). A sync only pays model calls for pages whose
+filtered text actually changed — a typical sync rewrites a handful of pages; untouched
+pages are byte-identical from cache, so the `content/` diff stays small and reviewable.
+The first-ever run rewrites all ~140 pages (several minutes, a few dollars). Editing
+the prompt in `reframe.mjs` requires bumping `PROMPT_VERSION`, which invalidates the
+whole cache on purpose.
+
+**Credentials.** Needs `ANTHROPIC_API_KEY` in the environment (or an `ant auth login`
+profile) on the machine running the sync. Without credentials, `REFRAME=off node
+sync.mjs` publishes filter-only output and warns loudly about every page that shipped
+unreframed; the sync aborts before touching `content/` if pages changed and no
+credentials are available.
+
+**Guardrails.** Each rewrite is checked for surviving teacher-voice fragments ("the
+human", `raw/`, "ingested", "exams officer", …) and for invented wikilink targets; a
+failing rewrite gets one corrective retry, then ships with a loud warning and is *not*
+cached, so every future sync re-attempts and re-warns until it's clean. `calendar.md`
+is excluded from the reframe (it's a dates-only agenda, and the month-view injection
+anchors on its headings).
 
 ## Artwork
 
