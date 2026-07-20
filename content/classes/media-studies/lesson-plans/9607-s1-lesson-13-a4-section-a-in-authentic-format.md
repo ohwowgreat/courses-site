@@ -32,7 +32,7 @@ The Forecast Grade anchor. Two days trace one institution across ownership, dist
 ## How it runs
 
 - **D1–2 (Mon+Tue block):** integration, synergy and convergence defined and hunted in one institution's real output; day 2, the same institution traced end to end; case-study documents updated live; each day ends with a two-minute structured-notes drill as a micro-rehearsal.
-- **D3 (Wed, double):** **A4 sits** — 5 min setup / 30 min viewing and notes / 45 min writing / 10 min collect; authentic-format briefing on what the viewing window is for; run exactly to the paper's clock; no debrief today by design — the format is the lesson.
+- **D3 (Wed, double):A4 sits** — 5 min setup / 30 min viewing and notes / 45 min writing / 10 min collect; authentic-format briefing on what the viewing window is for; run exactly to the paper's clock; no debrief today by design — the format is the lesson.
 - **D4 (Fri, single):** regulation context — who regulates the case-study institution and what that changes about its output; entries dated into the document.
 
 ## Assessment

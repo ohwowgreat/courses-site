@@ -63,6 +63,7 @@ const DROP_PAGES = new Set([
   // source-file provenance, correction history, cohort caveats, upstream defects.
   "shared/school-academic-calendar.md",
   "classes/pre-a-level-art-design/lesson-plans/pal-legacy-lesson-library.md", // marked SUPERSEDED
+  "classes/pre-a-level-art-design/pal-prior-plans.md", // prior-plans catalog: teacher planning reference (added 2026-07-20)
   "classes/art-appreciation/lesson-plans/art-appreciation-legacy-lesson-bank.md", // prior generation
   "classes/art-appreciation/unit-plans/art-appreciation-food-and-ethics-prior-unit.md", // prior generation
   // The vault's home page is a teacher's dashboard: vault status, the live Bases
@@ -112,6 +113,11 @@ const STRIP_SECTIONS = [
   "Heavy dependence on the shared library",
   "Shared-library touchpoints",
   "Information needed",
+  // Unit-page sections added 2026-07-20: teacher mappings of raw/ files to sessions,
+  // and prior-year plan mining notes. Both reference raw/ paths and usage guidance.
+  "Resources",
+  "Prior plan",
+  "Course-wide references", // resource-library catalog section (AO guide, elements chart)
 ]
 
 // Matched as a prefix, so "## Gaps this material does *not* fill" is caught by "Gaps".
@@ -198,6 +204,13 @@ const INTERNAL_PARAGRAPHS = [
   "announcements land 14 days ahead", // PAL attainment note
   "CS notice per handbook", // PAL CS note
   "the two remaining courses with the same gap", // 9479 Final cross-course contrast
+  // PAL register additions 2026-07-20: the A5 sketchbook attainment and CS spot-checks
+  // are adopted but undated — off the site until they are scheduled and announced.
+  "A5 — sketchbook attainment",
+  "The human's decision:",
+  "Sketchbook spot-checks (adopted",
+  "works at **three layers**",
+  "Format spec exists", // EoT pointer into prior-plans (teacher material)
 ]
 
 // Register-only cleanup, on top of the shared section strip.
@@ -237,8 +250,12 @@ function stripStamp(body) {
     )
     // Standalone / trailing stamp, with any leading comma, semicolon or space.
     .replace(/[,;]?\s*Confirmed by the human 20\d\d-\d\d-\d\d/g, "")
-    // Lowercase parenthetical "(confirmed <date>[, …])".
-    .replace(/\s*\((?:re)?confirmed 20\d\d-\d\d-\d\d[^)]*\)/gi, "")
+    // Lowercase parenthetical "(confirmed <date>[, …])", incl. "(re-confirmed 07-20)".
+    .replace(/\s*\((?:re-?)?confirmed (?:20\d\d-)?\d\d-\d\d[^)]*\)/gi, "")
+    // Empty bold left when the stamp was the whole bold span: "**** — a studio…" →
+    // "A studio…"; bare "****" → "".
+    .replace(/\*\*\s*\*\*\s*—\s*([a-z])/g, (_, ch) => ch.toUpperCase())
+    .replace(/\*\*\s*\*\*/g, "")
     .replace(/[ \t]{2,}/g, " ")
     .replace(/[ \t]+([.,;])/g, "$1")
 }

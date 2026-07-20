@@ -7,7 +7,7 @@ related:
   - "[[classes/pre-a-level-art-design/assessments/pal-s1-assessments]]"
   - "[[shared/bnds-assessment-framework]]"
   - "[[classes/a-level-art-design/a-level-art-design]]"
-modified: 2026-07-19
+modified: 2026-07-20
 ---
 <figure class="plate plate--hero">
   <img src="../../static/img/pre-a-level-art-design.jpg" alt="Alphonse Mucha, Calendar of Cherry Blossom, 1898" />

@@ -31,7 +31,7 @@ Representation theory is taught, then immediately weaponised against the student
 
 ## How it runs
 
-- **D1 (Mon, single):** **A2 blog URLs submitted in the first five minutes, no ceremony**; then representation as construction — the same person represented three ways, selection and combination named.
+- **D1 (Mon, single):A2 blog URLs submitted in the first five minutes, no ceremony**; then representation as construction — the same person represented three ways, selection and combination named.
 - **D2 (Tue, single):** Hall's encoding/decoding — dominant, negotiated, oppositional; students place their own honest reading of one text and defend the placement.
 - **D3 (Wed, double):** stereotyping as power — who benefits, who pays; case work on two contrasting stereotype examples; reading positions revisited on both.
 - **D4 (Fri, single):** absence and selective construction — what is not in the frame; students inventory one text for its absences and what each absence achieves.

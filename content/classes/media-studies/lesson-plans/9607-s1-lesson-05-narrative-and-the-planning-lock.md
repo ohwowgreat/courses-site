@@ -33,7 +33,7 @@ Narrative theory and production planning converge on one Wednesday: the last dou
 
 - **D1 (Mon, single):** Todorov — equilibrium, disruption, new equilibrium — tracked on one short narrative, then applied to their own C1 plans: where is the disturbance in your opening.
 - **D2 (Tue, single):** Propp character functions input and mapping (by what they do, not who they are); **LB1 posted** (blog punctuality, posts 1–5); ten minutes reserved to bring lagging blogs up to date in the room.
-- **D3 (Wed, double):** **planning lock** — full peer review of every planning suite (storyboard/flat plan, shot list, schedule, roles) against the shootability checklist, describe–question–suggest; **HW1 set** and sized aloud for Wed 10-14, exactly 14 days; final plans posted and dated before leaving.
+- **D3 (Wed, double):planning lock** — full peer review of every planning suite (storyboard/flat plan, shot list, schedule, roles) against the shootability checklist, describe–question–suggest; **HW1 set** and sized aloud for Wed 10-14, exactly 14 days; final plans posted and dated before leaving.
 - **D4 (Fri 10-09, post-break):** sound and editing vocabulary taught against their own break footage where it exists; HW1 debriefed — annotated, not graded; **LB2 posted** (returned on time, glossary current).
 
 ## Assessment

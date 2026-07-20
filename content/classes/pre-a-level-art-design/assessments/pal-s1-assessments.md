@@ -8,7 +8,7 @@ related:
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster]]"
-modified: 2026-07-19
+modified: 2026-07-20
 ---
 
 # PAL S1 Assessments
@@ -42,4 +42,4 @@ Weekly **sketchbook posting on MB after every session** — **17 postings** acro
 
 ## End of Term (20%) — ✅ CONFIRMED
 
-**Semester portfolio due Wed 2027-01-06 (W19):** the four finals + process work + reflections, reviewed during the exam window (2027-01-11 → 01-18). **** — a studio course has no defined EoT sitting and this is the accepted form. No longer a proposal.
+**Semester portfolio due Wed 2027-01-06 (W19):** the four finals + process work + reflections, reviewed during the exam window (2027-01-11 → 01-18). A studio course has no defined EoT sitting and this is the accepted form. No longer a proposal.

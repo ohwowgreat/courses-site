@@ -7,7 +7,8 @@ related:
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage]]"
   - "[[classes/pre-a-level-art-design/assessments/pal-s1-assessments]]"
-modified: 2026-07-17
+  - "[[classes/pre-a-level-art-design/pal-resource-library]]"
+modified: 2026-07-20
 ---
 
 # PAL S1 Unit 2: Photography
@@ -39,7 +40,3 @@ W10 falls inside G11 Juniors Days (11-04→06) — those are G11-only, so this G
 - **CS2 (Course Skills)** — 2026-10-28 (W9): composition practice set + contact-sheet edit. Focus: framing and selection.
 
 Full details: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|full register]].
-
-## Library resources
-
-The **Photographers** collection in the shared image slide library (191 photographer folders) is this unit's natural pool. **Ansel Adams, Dorothea Lange, and Henri Cartier-Bresson** all have folders — a by-name match with the legacy photography lecture in the legacy lesson library. For series thinking (A2's core criterion), the ingest report points to **Yoshihiko Ueda's** year/series project subfolders (and Hara). All matches are inferred — the current schedule names no images.

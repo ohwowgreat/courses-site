@@ -16,7 +16,7 @@ modified: 2026-07-18
 
 **Component 2 (Externally Set Assignment) + all-component submission, G12, spring 2027-28.** One session every teaching day, projected Mon 2028-02-21 → the content close Fri 2028-03-31, then the mock window, the 15-hour supervised test, assembly and the board handover: **40 coded sessions** (30 in the six-week core, 10 in assembly/board) plus the elastic window and the test. The tightest semester in the course — the eight-stage pipeline compressed onto the Cambridge set question.
 
-**Dates caveat.** **All dates are projected** from the confirmed 2026-27 shape plus the 2028 public holidays — no 2027-28 spring calendar has been ingested. Week labels S1–S12 and every date below (including A1–A4) are provisional; A4 and the test float with the mock window. Redraw on publication; confirm the ESA release and the board deadline with the exams officer.
+**Dates caveat.All dates are projected** from the confirmed 2026-27 shape plus the 2028 public holidays — no 2027-28 spring calendar has been ingested. Week labels S1–S12 and every date below (including A1–A4) are provisional; A4 and the test float with the mock window. Redraw on publication; confirm the ESA release and the board deadline with the exams officer.
 
 ## The five units
 

@@ -7,7 +7,8 @@ related:
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster]]"
   - "[[classes/pre-a-level-art-design/assessments/pal-s1-assessments]]"
-modified: 2026-07-17
+  - "[[classes/pre-a-level-art-design/pal-resource-library]]"
+modified: 2026-07-20
 ---
 
 # PAL S1 Unit 3: Collage
@@ -38,7 +39,3 @@ W14 (12-02) falls inside G11 Juniors Days (12-02→04) — G11-only, so this G10
 - **CS3 (Course Skills)** — 2026-11-25 (W13): collage experiment set. Focus: combination and meaning.
 
 Full details: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|full register]].
-
-## Library resources
-
-Inferred matches (from the ingest report — the schedule names no images): the **Pablo Picasso** folder; **Rodchenko** and **Moholy-Nagy** inside the Photographers collection (photomontage); and the **Dior Moodboards** in Fashion (moodboard-as-collage). All in the shared image slide library. Because no legacy collage lessons exist, these images are the unit's main ready-made support.

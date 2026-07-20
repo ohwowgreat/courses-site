@@ -19,7 +19,7 @@ modified: 2026-07-18
 
 Grading follows the [[shared/bnds-assessment-framework|BNDS assessment framework]]: **Attainment 50% · Course Skills 20% · Learning Behaviour 10% · End of Term Exam 20%**. A1–A4 are the attainment layer; CS1–CS8 are the course-skills layer, each direct practice for the attainment it precedes; the 20% End of Term category is met by **the Final** (below). The final C2 piece is **externally marked by Cambridge** — A4 is the internal grade layer only.
 
-**Dates caveat.** **All S4 dates are projected** from the confirmed 2026-27 shape plus the 2028 public holidays — no 2027-28 spring calendar has been ingested. A4 and CS7 float with the mock window; every date below is provisional. Confirm the ESA release and the board deadline with the exams officer.
+**Dates caveat.All S4 dates are projected** from the confirmed 2026-27 shape plus the 2028 public holidays — no 2027-28 spring calendar has been ingested. A4 and CS7 float with the mock window; every date below is provisional. Confirm the ESA release and the board deadline with the exams officer.
 
 ## Attainments (50%) — A1–A4
 

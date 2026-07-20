@@ -17,7 +17,7 @@ modified: 2026-07-18
 
 **Component 3 (Personal Investigation), part 2, G12, autumn 2027-28.** One session every teaching day, projected Wed 2027-09-01 → ~Fri 2028-01-07: **71 coded sessions.** The pipeline resumes where the summer production left it — audit and goal-setting, the development second pass, both final outcomes and the research paper, then assembly and internal submission of the complete investigation at A4.
 
-**Dates caveat.** **All dates are projected** from the confirmed 2026-27 shape plus the 2027 lunar dates — no 2027-28 calendar has been ingested. Week labels W1–W21 and every date below (including A1–A4) are provisional; the G12 no-class days are re-derived from the autumn pattern. Redraw every sheet when the calendar publishes. Confirm, do not infer.
+**Dates caveat.All dates are projected** from the confirmed 2026-27 shape plus the 2027 lunar dates — no 2027-28 calendar has been ingested. Week labels W1–W21 and every date below (including A1–A4) are provisional; the G12 no-class days are re-derived from the autumn pattern. Redraw every sheet when the calendar publishes. Confirm, do not infer.
 
 **Units skip U2/U3.** This semester carries **U1, U4, U5, U6** — the C3 pipeline numbering is kept, and recording/exploration (the old U2/U3) are not repeated. Development resumes directly as U4, the "second pass," building final-outcome candidates from the summer work.
 

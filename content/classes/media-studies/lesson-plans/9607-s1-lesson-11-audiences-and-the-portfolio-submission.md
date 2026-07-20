@@ -33,9 +33,9 @@ The Component 1 arc closes. Audience theory begins on schedule, but the week ben
 
 - **D1–2 (Mon+Tue block):** mass, niche and target audiences mapped onto three real texts; day 2 — effects models stated and immediately limited: what they cannot explain about this class's own viewing.
 - **D3 (Wed, double):** brief audiences application, then **CCR surgery** — every student works on their named weakest part with the teacher circulating by triage list; submission checklist run at the close.
-- **D4 (Fri, single):** **A3 due** — submission protocol: final checks against the checklist, URLs and files logged, no edits after; remaining time, quiet start on the uses and gratifications pre-read.
+- **D4 (Fri, single):A3 due** — submission protocol: final checks against the checklist, URLs and files logged, no edits after; remaining time, quiet start on the uses and gratifications pre-read.
 - **D5 (Mon, single):** Blumler and Katz — the four gratifications mapped onto each student's own weekly media use, honestly logged.
-- **D6 (Tue, single):** **A3 returned** — self-assessment against C1 criteria before marks discussed; one production target written and logged (**LB4**) today for Wed 12-16.
+- **D6 (Tue, single):A3 returned** — self-assessment against C1 criteria before marks discussed; one production target written and logged (**LB4**) today for Wed 12-16.
 
 ## Assessment
 

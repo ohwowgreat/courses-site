@@ -32,7 +32,7 @@ The last teaching week is spent making the exam boring: no surprises left in for
 ## How it runs
 
 - **D1–2 (Mon+Tue block):** HW2 collected Monday; the full paper walked end to end, minute budget built per section; day 2, timing strategy drilled on plans — five-minute Section B plans against the clock, three rounds.
-- **D3 (Wed, double):** **CS9 sat** — 5 min setup / 45 min writing / 30 min peer-mark / 10 min moderate; full Section B on their own case studies; scripts swapped and peer-marked against the scheme; teacher moderates a sample live to calibrate the room.
+- **D3 (Wed, double):CS9 sat** — 5 min setup / 45 min writing / 30 min peer-mark / 10 min moderate; full Section B on their own case studies; scripts swapped and peer-marked against the scheme; teacher moderates a sample live to calibrate the room.
 - **D4 (Fri, single):** the mark scheme's AO economy — where AO1 and AO2 marks actually sit, mapped against the class's CS9 results; each student leaves with two named loss points and the counter-move for each. Last teaching day.
 
 ## Assessment

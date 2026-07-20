@@ -18,7 +18,7 @@ modified: 2026-07-18
 
 Grading follows the [[shared/bnds-assessment-framework|BNDS assessment framework]]: **Attainment 50% · Course Skills 20% · Learning Behaviour 10% · End of Term Exam 20%**. A1–A4 are the attainment layer; CS1–CS10 are the course-skills layer, each direct practice for the attainment it precedes; the 20% End of Term category is met by **the Final** (below).
 
-**Dates caveat.** **All S3 dates are projected** from the confirmed 2026-27 shape plus the 2027 lunar dates — no 2027-28 calendar has been ingested. Every date below is provisional; the G12 no-class days are re-derived from the autumn pattern. Redraw when the calendar publishes.
+**Dates caveat.All S3 dates are projected** from the confirmed 2026-27 shape plus the 2027 lunar dates — no 2027-28 calendar has been ingested. Every date below is provisional; the G12 no-class days are re-derived from the autumn pattern. Redraw when the calendar publishes.
 
 ## Attainments (50%) — A1–A4
 

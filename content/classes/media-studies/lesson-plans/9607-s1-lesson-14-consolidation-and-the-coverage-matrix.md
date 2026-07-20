@@ -31,7 +31,7 @@ The semester's knowledge gets audited before the exam tests it. Monday runs the 
 
 ## How it runs
 
-- **D1 (Mon, single):** **A4 returned** — self-assessment against the mark scheme first, marks second; one target logged and connected to the L11 target for continuity.
+- **D1 (Mon, single):A4 returned** — self-assessment against the mark scheme first, marks second; one target logged and connected to the L11 target for continuity.
 - **D2 (Wed, double):** coverage matrix built — case studies crossed against the four Key Concepts; **LB5 posted** (case-study document contributions); **HW2 set** and sized; **End of Term Exam announced** today for the window from Mon 2027-01-11.
 - **D3 (Tue 12-29, CONFIRM):** gap-closing workshop — each student works their named matrix gap with resources staged by Key Concept; runs only if W18 is confirmed.
 - **D4 (Wed 12-30, double, CONFIRM):** Section B arguments rehearsed aloud in trios — claim, evidence, counter, response; **LB6 posted** (independent inquiry); written planning only in the last 20 minutes, deliberately after the talk.

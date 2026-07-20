@@ -33,8 +33,8 @@ Component 2 becomes the destination. Morley explains why the same text reads dif
 
 - **D1 (Mon, single):** Morley and the Nationwide study compressed to the usable claim; the class replicates it in miniature — one text, readings gathered, grouped, explained.
 - **D2 (Tue, single):** ownership input — PSB versus commercial, funding follows content; students trace one visible decision in a text to who pays for it.
-- **D3 (Wed, double):** **CS8** — Section A written with the mark scheme visible and consultable, part collaborative by design; band language annotated in margins as they write; review maps paragraphs to bands.
-- **D4 (Fri, single — Foreign Culture Day flag, confirm it runs):** **C2 case-study document opened** from the template; structure built, first entries made and dated.
+- **D3 (Wed, double):CS8** — Section A written with the mark scheme visible and consultable, part collaborative by design; band language annotated in margins as they write; review maps paragraphs to bands.
+- **D4 (Fri, single — Foreign Culture Day flag, confirm it runs):C2 case-study document opened** from the template; structure built, first entries made and dated.
 
 ## Assessment
 

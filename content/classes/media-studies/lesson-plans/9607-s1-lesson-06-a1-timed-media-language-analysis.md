@@ -33,7 +33,7 @@ The first attainment of the course. Monday and Tuesday put Propp and Todorov und
 
 - **D1 (Mon, single):** Propp run on a full trailer today, due Mon 10-26; day ends by logging where the theory failed to fit and why that is analytically interesting.
 - **D2 (Tue, single):** Todorov across an episode structure; same strain-log close.
-- **D3 (Wed, double):** **A1 sits** — 10 min setup (conditions briefing, extract screening protocol) / 60 min writing under exam conditions / 20 min structured debrief on what the extract rewarded; no marks discussed until scripts return.
+- **D3 (Wed, double):A1 sits** — 10 min setup (conditions briefing, extract screening protocol) / 60 min writing under exam conditions / 20 min structured debrief on what the extract rewarded; no marks discussed until scripts return.
 
 ## Assessment
 

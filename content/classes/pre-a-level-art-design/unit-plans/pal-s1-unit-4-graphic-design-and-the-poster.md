@@ -8,7 +8,7 @@ related:
   - "[[classes/pre-a-level-art-design/assessments/pal-s1-assessments]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-u4-printmaking-variant]]"
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
-modified: 2026-07-19
+modified: 2026-07-20
 ---
 
 # PAL S1 Unit 4: Graphic Design & the Poster
@@ -24,7 +24,7 @@ modified: 2026-07-19
 
 ## What this unit does
 
-Spine: **"Communicate · audience."** **Three** Wednesday doubles (W16, W17, W19 — W18 is lost to the winter break) turn composition into communication: one session analyzing what a poster must do (message, audience, hierarchy) and testing thumbnails and type, then the final poster — handmade or digital — for A4, then documentation. The last session closes the S1 arc with the confirmed End-of-Term portfolio.
+Spine: **"Communicate · audience."Three** Wednesday doubles (W16, W17, W19 — W18 is lost to the winter break) turn composition into communication: one session analyzing what a poster must do (message, audience, hierarchy) and testing thumbnails and type, then the final poster — handmade or digital — for A4, then documentation. The last session closes the S1 arc with the confirmed End-of-Term portfolio.
 
 ## Two routes through the same slot
 

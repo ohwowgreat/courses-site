@@ -6,7 +6,7 @@ related:
   - "[[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography]]"
   - "[[classes/pre-a-level-art-design/assessments/pal-s1-assessments]]"
-modified: 2026-07-17
+modified: 2026-07-20
 ---
 
 # PAL S1 Unit 1: Drawing & the Visual Elements
@@ -36,7 +36,3 @@ No written lesson plans exist yet — this table *is* the current per-session re
 - Bridge out: **HW1** (break photo task, ≥20 photos of one subject in varied viewpoint/light) is *set* at W5 but belongs to Unit 2, due 2026-10-14.
 
 Full details: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|full register]].
-
-## Library resources
-
-Inferred matches (from the ingest report — the schedule itself names no images): the **Ilya Repin (Drawings)** and **Peter Paul Rubens (Drawings)** collections for observational-drawing exemplars, and the **Dutch and Flemish Still Life Painting** collection for tonal still-life subjects. All in the shared image slide library.

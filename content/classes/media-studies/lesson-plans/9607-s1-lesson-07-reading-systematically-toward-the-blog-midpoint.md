@@ -34,7 +34,7 @@ Five days that turn analytical instinct into analytical method, wrapped around t
 - **D1 (Fri, single — Foreign Culture Day flag, confirm it runs):** Barthes enigma and action codes on a cold open; students find the question the text plants and the promise it makes.
 - **D2 (Mon, single):** the systematic reading order modeled, then run silently on a new still — same order every time, no wandering.
 - **D3 (Tue, single):** PEEM construction (point, evidence, effect, meaning); students rebuild a deliberately assertive paragraph into one that proves.
-- **D4 (Wed, double):** **CS5** — paired audit of blogs against the mid-point checklist, describe–question–suggest, findings written as actions; final 20 minutes, everyone starts their own fixes in the room.
+- **D4 (Wed, double):CS5** — paired audit of blogs against the mid-point checklist, describe–question–suggest, findings written as actions; final 20 minutes, everyone starts their own fixes in the room.
 - **D5 (Fri, single):** Section A response architecture — the shape of an answer planned before a word is written; students storyboard an answer skeleton for the A1 extract from memory.
 
 ## Assessment
