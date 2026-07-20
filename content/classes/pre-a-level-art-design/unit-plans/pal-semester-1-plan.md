@@ -13,7 +13,7 @@ modified: 2026-07-19
 
 > [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · Semester 1 (Grade 10 Art) · next: S2 studio semester, map not yet drawn
 
-**Grade 10 Art, Autumn 2026-27.** One double session every Wednesday: **18 sessions, 2026-09-02 → 2027-01-06**, plus a return session 2027-01-20. Four units, each closing on a final made in class. The workbook's own warning: **"a lost Wednesday costs a whole unit stage."** Dates follow the [[calendar|school calendar]] (with the G10 cohort correction — Juniors Days are G11-only, so those Wednesdays teach).
+**Grade 10 Art, Autumn 2026-27.** One double session every Wednesday: **17 sessions, 2026-09-02 → 2027-01-06** (18 before the winter break removed W18), plus a return session 2027-01-20. Four units, each closing on a final made in class. The workbook's own warning: **"a lost Wednesday costs a whole unit stage."** Dates follow the [[calendar|school calendar]] (with the G10 cohort correction — Juniors Days are G11-only, so those Wednesdays teach).
 
 ## The four units
 
@@ -24,7 +24,7 @@ modified: 2026-07-19
 | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage\|U3 Collage]] | W11–15 | **A3** final collage, Wed 2026-12-09 |
 | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster\|U4 Graphic Design & the Poster]] | W16–19 (3 sessions) | **A4** final poster, Wed **2026-12-23** — ⚠ or a linocut print under the [[classes/pre-a-level-art-design/lesson-plans/pal-s1-u4-printmaking-variant\|printmaking variant]] |
 
-Each unit page carries the session-by-session detail (no separate lesson-plan documents exist yet for this course — a flagged gap). Full register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+Each unit page carries the session-by-session detail. **U1 now has written lesson docs** ([[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-01-introduction-the-sketchbook-and-first-marks|L01]]–[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing|L05]], written 2026-07-20); U2–U4 lesson docs are still to write (plus the [[classes/pre-a-level-art-design/lesson-plans/pal-s1-u4-printmaking-variant|printmaking variant]] for U4). Full register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
 
 > [!important] This course is modular — PAL only
 > **Most lessons and units here are interchangeable, except the introduction, which stays first.** U4 is the clearest case — graphic design and printmaking are the same slot, swappable.
@@ -37,7 +37,7 @@ Each unit page carries the session-by-session detail (no separate lesson-plan do
 
 | Wk | Wed | Session | Content |
 |---|---|---|---|
-| W1 | 09-02 | 1/18 | **First half:** First Session Opener (introductions, getting to know the group — G10 ESL room, keep language plain). **Second half:** U1·L1 intro + line studies — ⚠ confirm class runs (Introduction Days) |
+| W1 | 09-02 | 1/17 | **First half:** First Session Opener (introductions, getting to know the group — G10 ESL room, keep language plain). **Second half:** [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-01-introduction-the-sketchbook-and-first-marks|U1·L1]] intro + line studies — ⚠ confirm class runs (Introduction Days) |
 | W2 | 09-09 | 2 | U1·L2 tone and form |
 | W3 | 09-16 | 3 | U1·L3 texture/mark-making |
 | W4 | 09-23 | 4 | U1·L4 compose + begin final drawing; **CS1** |

@@ -74,6 +74,33 @@ const PLATES = [
     file: "Pieter Bruegel the Elder, The Hunters in the Snow, 1565, oil on panel, 117 cm × 162 cm.jpg",
     credit: "Pieter Bruegel the Elder, *The Hunters in the Snow*, 1565",
   },
+  // PAL S1 U1 lesson heroes (added 2026-07-20)
+  {
+    slug: "first-marks",
+    file: "Ilya Repin (Drawings)/Ilya Repin, Lev Nikolaevich Tolstoy at Work, 1891.jpg",
+    credit: "Ilya Repin, *Leo Tolstoy at Work*, 1891",
+  },
+  {
+    slug: "tone-and-form",
+    // Filename says 1923 — a mislabel; the chalk drawing is c. 1619 (Albertina).
+    file: "Unsorted/Head of a Boy  (Nicolaas Rubens) ,1923.jpg",
+    credit: "Peter Paul Rubens, *Head of a Boy (Nicolaas Rubens)*, c. 1619",
+  },
+  {
+    slug: "mark-making",
+    file: "Unsorted/Anatomical Studies, Peter Paul Rubens, Pen and brown ink, 27.9 x 18.7 cm, 1605t.jpg",
+    credit: "Peter Paul Rubens, *Anatomical Studies*, pen and ink, c. 1605",
+  },
+  {
+    slug: "composition",
+    file: "Dutch and Flemish Still Life Painting (Art Paintings)/Clara Peeters (1589-94 - after 1657)/Still-life with cheese, almonds and pretzels (about 1613) (35 x 50) (The Hague, the king. Gallery Mauritshuis).jpg",
+    credit: "Clara Peeters, *Still Life with Cheeses, Almonds and Pretzels*, c. 1613",
+  },
+  {
+    slug: "drawn-from-life",
+    file: "Ilya Repin (Drawings)/Ilya Repin, Portrait of a Russian Peasant, 1871.jpg",
+    credit: "Ilya Repin, *Portrait of a Russian Peasant*, 1871",
+  },
 ]
 
 await mkdir(OUT, { recursive: true })

@@ -32,6 +32,16 @@ const HEROES = {
     "the-table",
   "classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study.md":
     "observation",
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-01-introduction-the-sketchbook-and-first-marks.md":
+    "first-marks",
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-02-tone-and-form.md":
+    "tone-and-form",
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-03-texture-mark-making-and-negative-space.md":
+    "mark-making",
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-04-composing-the-final-drawing.md":
+    "composition",
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing.md":
+    "drawn-from-life",
 }
 
 const credits = JSON.parse(await readFile(join(import.meta.dirname, "credits.json"), "utf8"))
