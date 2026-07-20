@@ -31,21 +31,25 @@ Full assessment register for Grade 10 Art, Semester 1 (2026-27), graded under th
 
 The fifth attainment is the sketchbook itself, **submitted for assessment on the last teaching session, Wed 2027-01-06 (W19), alongside the End-of-Term portfolio.** It carries the whole semester's work, so it is known from the first week — notice is never a constraint. Assessed on ideas and creativity, experimentation, visual research, critical reflection, and presentation. Five attainments sits inside the handbook's 4–6 range.
 
-## Course Skills (20%) — CS1–CS4 + HW1
+## Course Skills (20%) — CS1–CS4 + HW1 + SB1–SB2 (sketchbook)
 
 | Code | Date | Task | Focus | Unit |
 |---|---|---|---|---|
 | CS1 | 2026-09-23 | Exercise-set check (contour, tonal, texture, negative-space studies) | The visual elements | U1 |
 | HW1 | due 2026-10-14 | Break photo task, set 2026-09-30: ≥20 photos, one subject, varied viewpoint/light | Looking before composing | U1→U2 bridge |
+| **SB1** | **2026-10-21** | Sketchbook spot-check 1 — progress and upkeep | Sketchbook habit and development | sketchbook (all) |
 | CS2 | 2026-10-28 | Composition practice set + contact-sheet edit | Framing and selection | U2 |
 | CS3 | 2026-11-25 | Collage experiment set | Combination and meaning | U3 |
+| **SB2** | **2026-12-02** | Sketchbook spot-check 2 — progress and upkeep | Sketchbook habit and development | sketchbook (all) |
 | CS4 | **2026-12-16** | Thumbnail set + poster analysis | Hierarchy and audience | U4 |
+
+**Sketchbook spot-checks (SB1, SB2):** the sketchbook is checked twice during the semester for a Course Skills mark — **Wed 2026-10-21** and **Wed 2026-12-02**, spaced evenly between the start and the A5 submission at the end. Both dates are known in advance, so the 72-hour notice is never a constraint. Focus is progress and upkeep, not a full grade against the A5 rubric.
 
 ## Learning Behaviour (10%)
 
 Weekly **sketchbook posting on MB after every session** — **17 postings** across the semester (was 18; W18 is lost to the winter break). This carries the one-grade-per-week rule.
 
-The sketchbook earns marks three ways: the weekly posting here (Learning Behaviour), periodic checks during the semester (Course Skills), and the final submission (Attainment **A5**, due 2027-01-06).
+The sketchbook earns marks three ways: the weekly posting here (Learning Behaviour), two spot-checks during the semester (Course Skills — **SB1** 2026-10-21, **SB2** 2026-12-02), and the final submission (Attainment **A5**, due 2027-01-06).
 
 ## End of Term (20%) — ✅ CONFIRMED
 

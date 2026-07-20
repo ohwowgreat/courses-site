@@ -204,9 +204,8 @@ const INTERNAL_PARAGRAPHS = [
   "announcements land 14 days ahead", // PAL attainment note
   "CS notice per handbook", // PAL CS note
   "the two remaining courses with the same gap", // 9479 Final cross-course contrast
-  // PAL sketchbook (2026-07-20): A5 is now dated (2027-01-06) and publishes via the
-  // attainments table + its clean "A5 — the sketchbook" note. Still teacher-only:
-  "Sketchbook spot-checks (adopted", // Course Skills spot-checks — cadence still open
+  // PAL sketchbook (2026-07-20): A5 (2027-01-06) and the two spot-checks SB1/SB2 are
+  // all dated now and publish via the register tables + clean notes. Still teacher-only:
   "Format spec exists", // EoT pointer into prior-plans (teacher material)
 ]
 

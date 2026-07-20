@@ -27,7 +27,7 @@ No written lesson plans exist yet — this table *is* the current per-session re
 |---|---|---|---|---|
 | W6 | 2026-10-07 | — | *No class — National Day holiday (10-01 → 10-07)* | — |
 | W7 | 2026-10-14 | U2·L1 · S6 | Framing, viewpoint, rule of thirds; break photos reviewed | **HW1** due |
-| W8 | 2026-10-21 | U2·L2 · S7 | Light, shadow, choosing a series theme | |
+| W8 | 2026-10-21 | U2·L2 · S7 | Light, shadow, choosing a series theme | **SB1** |
 | W9 | 2026-10-28 | U2·L3 · S8 | Theme shoot + contact-sheet edit — "shoot many, keep few, know why" | **CS2** |
 | W10 | 2026-11-04 | U2·L4 · S9 | **A2: photographic series** — select, sequence, submit | **A2** |
 
@@ -38,5 +38,6 @@ W10 falls inside G11 Juniors Days (11-04→06) — those are G11-only, so this G
 - **A2 (Attainment)** — 2026-11-04 (W10): photographic series + reflection. Announced 2026-10-21 (W8) — 14 days = two classes ahead. Marking focus: **framing, viewpoint, light, series thinking**.
 - **HW1 (Course Skills)** — due 2026-10-14 (W7): break photo task set 09-30 — ≥20 photos, one subject, varied viewpoint and light. Focus: looking before composing.
 - **CS2 (Course Skills)** — 2026-10-28 (W9): composition practice set + contact-sheet edit. Focus: framing and selection.
+- **SB1 (Course Skills)** — 2026-10-21 (W8): first sketchbook spot-check — the first of two evenly-spaced progress checks feeding the A5 sketchbook attainment. Focus: sketchbook habit and development. See the [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|register]].
 
 Full details: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|full register]].

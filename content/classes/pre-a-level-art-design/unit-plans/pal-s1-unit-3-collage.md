@@ -28,7 +28,7 @@ No written lesson plans exist yet — this table *is* the current per-session re
 | W11 | 2026-11-11 | U3·L1 · S10 | Juxtaposition and scale — "two images say a third thing". ⚠ G10 field trip TBC Thu/Fri 11-12/13; if it takes the Wednesday, L1 merges into L2, A3 holds | — |
 | W12 | 2026-11-18 | U3·L2 · S11 | Layering, text and image. ⚠ G10 project week TBC; if it takes the Wednesday, L2 folds into L3; losing **both** TBC Wednesdays slips A3 to 12-16 | — |
 | W13 | 2026-11-25 | U3·L3 · S12 | Theme and composition drafts | **CS3** |
-| W14 | 2026-12-02 | U3·L4 · S13 | Final collage production | — |
+| W14 | 2026-12-02 | U3·L4 · S13 | Final collage production | **SB2** |
 | W15 | 2026-12-09 | U3·L5 · S14 | **A3: final collage** + reflection, in class | **A3** |
 
 W14 (12-02) falls inside G11 Juniors Days (12-02→04) — G11-only, so this G10 class teaches as normal.
@@ -37,5 +37,6 @@ W14 (12-02) falls inside G11 Juniors Days (12-02→04) — G11-only, so this G10
 
 - **A3 (Attainment)** — 2026-12-09 (W15): final collage + reflection, made in class across W14–W15. Announced 2026-11-25 (W13) — 14 days = two classes ahead. Marking focus: **juxtaposition, layering, composition, meaning**.
 - **CS3 (Course Skills)** — 2026-11-25 (W13): collage experiment set. Focus: combination and meaning.
+- **SB2 (Course Skills)** — 2026-12-02 (W14): second sketchbook spot-check — the last progress check before the A5 sketchbook attainment. Focus: sketchbook habit and development. See the [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|register]].
 
 Full details: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|full register]].
