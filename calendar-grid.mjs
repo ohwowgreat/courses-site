@@ -121,10 +121,17 @@ export function parseAgenda(md) {
   return events
 }
 
-// Chip content. Assessments show their code plus the label's short descriptor
-// ("A2 · C1 blog mid-point") — the single-month view has room for it. Others show
-// the leading phrase of their label.
+const trunc = (s, n) => (s.length > n ? s.slice(0, n - 1).trimEnd() + "…" : s)
+
+// Chip content. Register-derived events carry .code/.desc; agenda events carry a
+// .label to mine. The single-month view has room for a short descriptor after the
+// bold code ("A2 · C1 blog mid-point: posts 1–7").
 function chipHtml(ev) {
+  if (ev.code) {
+    if (ev.kind === "lb") return `<strong>${ev.code}</strong>`
+    const room = ev.kind === "attainment" ? 44 : 34
+    return `<strong>${ev.code}</strong>${ev.desc ? ` ${esc(trunc(ev.desc, room))}` : ""}`
+  }
   if (ev.kind === "assessment") {
     const m = ev.label.match(/\b(A[1-4]|EoT|CS\d+|HW\d+)\b/)
     const desc = ev.label
@@ -147,29 +154,60 @@ function chipHtml(ev) {
   )
 }
 
+const chipTitle = (ev) =>
+  esc(ev.code ? `${ev.code}: ${ev.desc}` : ev.label.replace(/\[\[[^\]|]*\|?|\]\]|\*\*/g, ""))
+
 const esc = (s) =>
   s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;")
 
-function collect(events) {
+// Chip stacking order inside a day cell: assessments first, then class tasks,
+// then participation postings; lesson labels render above all chips.
+const WEIGHT = { assessment: 0, attainment: 0, "course-event": 1, cs: 2, lb: 3 }
+
+function collect(events, units = []) {
   const chips = new Map()
   const shade = new Map()
-  const push = (iso, ev) => {
-    if (!chips.has(iso)) chips.set(iso, [])
-    chips.get(iso).push(ev)
+  const lessons = new Map()
+  const unitTint = new Map()
+  const push = (map, iso, v) => {
+    if (!map.has(iso)) map.set(iso, [])
+    map.get(iso).push(v)
   }
   for (const ev of events) {
     const days = [...eachDay(ev.start, ev.end)]
     if (ev.kind === "holiday" || ev.kind === "exam") {
       for (const d of days) shade.set(d, ev.kind)
-      push(days[0], ev) // label only the first day of a span
+      push(chips, days[0], ev) // label only the first day of a span
+    } else if (ev.kind === "lesson") {
+      push(lessons, days[0], ev) // label where the lesson begins
+    } else if (ev.kind === "cs" || ev.kind === "lb") {
+      push(chips, days[days.length - 1], ev) // spans ("set → due") land on the due date
+    } else if (ev.kind === "attainment") {
+      push(chips, days[0], ev)
     } else {
-      for (const d of days) push(d, ev)
+      for (const d of days) push(chips, d, ev)
     }
   }
-  return { chips, shade }
+  for (const [iso, list] of chips) list.sort((a, b) => (WEIGHT[a.kind] ?? 1) - (WEIGHT[b.kind] ?? 1))
+  // Unit spans tint their teaching days (weekends and holidays excluded at render),
+  // alternating intensity so unit boundaries stay visible; label on the first day.
+  units.forEach((u, i) => {
+    let first = true
+    for (const iso of eachDay(u.start, u.end)) {
+      const dow = (new Date(iso + "T00:00:00Z").getUTCDay() + 6) % 7
+      if (dow >= 5) continue
+      unitTint.set(iso, {
+        p: i % 2,
+        label: first ? `U${u.num}${u.title ? ` · ${u.title}` : ""}` : null,
+      })
+      first = false
+    }
+  })
+  return { chips, shade, lessons, unitTint }
 }
 
-function renderMonth(y, m, chips, shade, idx, total) {
+function renderMonth(y, m, data, idx, total) {
+  const { chips, shade, lessons, unitTint } = data
   const startDow = (new Date(Date.UTC(y, m, 1)).getUTCDay() + 6) % 7 // Mon = 0
   const daysInMonth = new Date(Date.UTC(y, m + 1, 0)).getUTCDate()
   let cells = ""
@@ -178,18 +216,31 @@ function renderMonth(y, m, chips, shade, idx, total) {
     const iso = `${y}-${String(m + 1).padStart(2, "0")}-${String(d).padStart(2, "0")}`
     const sh = shade.get(iso)
     const weekend = (new Date(Date.UTC(y, m, d)).getUTCDay() + 6) % 7 >= 5
+    const tint = !sh && unitTint.get(iso)
+    const unitLabel = tint?.label ? `<span class="cal-unitlabel">${esc(tint.label)}</span>` : ""
+    const lessonLabels = (lessons.get(iso) || [])
+      .map(
+        (e) =>
+          `<span class="cal-lesson" title="${esc(`${e.code}: ${e.desc}`)}">${esc(
+            `${e.code}${e.desc ? ` ${trunc(e.desc, 24)}` : ""}`,
+          )}</span>`,
+      )
+      .join("")
     const evs = (chips.get(iso) || [])
       .map(
         (e) =>
-          `<span class="cal-ev cal-ev--${e.course} cal-ev--${e.kind}" title="${esc(
-            e.label.replace(/\[\[[^\]|]*\|?|\]\]|\*\*/g, ""),
-          )}">${chipHtml(e)}</span>`,
+          `<span class="cal-ev cal-ev--${e.course ?? ""} cal-ev--${e.kind}" title="${chipTitle(e)}">${chipHtml(e)}</span>`,
       )
       .join("")
-    const cls = ["cal-day", sh && `cal-day--${sh}`, weekend && "cal-day--weekend"]
+    const cls = [
+      "cal-day",
+      sh && `cal-day--${sh}`,
+      weekend && "cal-day--weekend",
+      tint && `cal-day--u${tint.p}`,
+    ]
       .filter(Boolean)
       .join(" ")
-    cells += `<div class="${cls}"><span class="cal-daynum">${d}</span><div class="cal-evs">${evs}</div></div>`
+    cells += `<div class="${cls}"><span class="cal-daynum">${d}</span><div class="cal-evs">${unitLabel}${lessonLabels}${evs}</div></div>`
   }
   const dows = DOW.map((x) => `<div class="cal-dow">${x}</div>`).join("")
   // Prev/next are <label>s driving the pager's radio inputs — no JS, so paging
@@ -202,12 +253,12 @@ function renderMonth(y, m, chips, shade, idx, total) {
 
 // One month visible at a time. The radio inputs sit as siblings before the month
 // panels; CSS shows the panel matching the checked input.
-export function renderCalendar(events) {
-  const { chips, shade } = collect(events)
+export function renderCalendar(events, units = []) {
+  const data = collect(events, units)
   const radios = MONTHS.map(
     (_, i) => `<input class="cal-radio" type="radio" name="cal-page" id="cal-m${i}"${i === 0 ? " checked" : ""}>`,
   ).join("")
-  const months = MONTHS.map(([y, m], i) => renderMonth(y, m, chips, shade, i, MONTHS.length)).join("")
+  const months = MONTHS.map(([y, m], i) => renderMonth(y, m, data, i, MONTHS.length)).join("")
   return `<div class="cal cal-paged">${radios}${months}</div>`
 }
 
@@ -231,30 +282,83 @@ const COURSE_KEYS = {
   oxbridge: "Oxbridge",
 }
 
-// The legend lists every course on the combined view, but only the one course on a
-// per-course calendar — where the grid shows a single colour.
+// The hub legend lists every course; a per-course legend explains the levels of
+// visual weight instead (solid attainment → outlined task → tiny LB → unit band).
 function legendHtml(mode) {
-  const keys = mode ? [mode] : Object.keys(COURSE_KEYS)
-  const courseChips = keys
-    .map((k) => `<span class="cal-key cal-ev--${k}">${COURSE_KEYS[k]}</span>`)
-    .join("")
-  return `<div class="cal-legend">${courseChips}<span class="cal-key cal-key--holiday">holiday</span><span class="cal-key cal-key--exam">exam window</span></div>`
+  if (!mode) {
+    const courseChips = Object.keys(COURSE_KEYS)
+      .map((k) => `<span class="cal-key cal-ev--${k}">${COURSE_KEYS[k]}</span>`)
+      .join("")
+    return `<div class="cal-legend">${courseChips}<span class="cal-key cal-key--holiday">holiday</span><span class="cal-key cal-key--exam">exam window</span></div>`
+  }
+  return (
+    `<div class="cal-legend">` +
+    `<span class="cal-key cal-key--att">A1–A4 / EoT</span>` +
+    `<span class="cal-key cal-key--cs">class task / homework</span>` +
+    `<span class="cal-key cal-key--lb">LB</span>` +
+    `<span class="cal-key cal-key--unit">unit</span>` +
+    `<span class="cal-key cal-key--holiday">holiday</span>` +
+    `<span class="cal-key cal-key--exam">exam window</span>` +
+    `</div>`
+  )
 }
 
-export function calendarBlock(events, mode) {
-  const grid = renderCalendar(mode ? eventsForCourse(events, mode) : eventsCombined(events))
-  return `${legendHtml(mode)}\n\n${grid}`
+// Merge the agenda's course events with register/lesson-derived detail. Detail
+// wins on a code+date collision (its descriptions are richer); agenda-only items
+// survive — PAL's EoT lives in register prose, not a table, so only the agenda
+// carries it as an event.
+export function mergeCourseEvents(agendaCourseEvents, detail) {
+  const have = new Set(detail.map((d) => `${d.code}|${d.start}`))
+  const kept = agendaCourseEvents.filter((ev) => {
+    const code = ev.label?.match(/\b(A[1-4]|EoT|CS\d+|HW\d+|LB\d+)\b/)?.[1]
+    return !code || !have.has(`${code}|${ev.start}`)
+  })
+  return [...kept, ...detail]
 }
+
+export function calendarBlock(events, mode, detail = null) {
+  let grid
+  if (mode) {
+    const context = events.filter(isContext)
+    const own = events.filter((ev) => ev.course === mode && !isContext(ev))
+    const merged = detail
+      ? mergeCourseEvents(own, detail.events).map((ev) => ({ ...ev, course: mode }))
+      : own
+    grid = renderCalendar([...context, ...merged], detail?.units ?? [])
+  } else {
+    grid = renderCalendar(eventsCombined(events))
+  }
+  const wrap = mode ? ` cal--${mode}` : ""
+  return `<div class="calwrap${wrap}">${legendHtml(mode)}\n${grid}</div>`
+}
+
+const WEEKDAY = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
+const dayName = (iso) => WEEKDAY[new Date(iso + "T00:00:00Z").getUTCDay()]
 
 // A generated per-course calendar page (site-only — links use Quartz wikilinks).
-export function coursePage(key, events) {
+export function coursePage(key, events, detail) {
   const c = COURSES[key]
-  const mine = events
-    .filter((e) => e.course === key && (e.kind === "assessment" || e.kind === "course-event"))
-    .sort((a, b) => a.start.localeCompare(b.start))
-  const list = mine.length
-    ? mine.map((e) => `- **${e.start}** — ${e.label.replace(/\*\*/g, "")}`).join("\n")
+  const own = events.filter((ev) => ev.course === key && !isContext(ev))
+  const all = detail ? mergeCourseEvents(own, detail.events) : own
+
+  const line = (e) => {
+    const code = e.code ?? e.label?.match(/\b(A[1-4]|EoT|CS\d+|HW\d+)\b/)?.[1]
+    const desc = e.desc ?? e.label?.replace(/\*\*/g, "")
+    const due = e.kind === "cs" && e.end !== e.start ? `${e.end} (due)` : e.start
+    return `- **${dayName(due.slice(0, 10))} ${due}** — ${code ? `**${code}**` : ""} ${desc ?? ""}`.trimEnd()
+  }
+  const sorted = (kinds) =>
+    all
+      .filter((e) => kinds.includes(e.kind))
+      .sort((a, b) => (a.end ?? a.start).localeCompare(b.end ?? b.start))
+
+  const attainments = sorted(["attainment", "assessment", "course-event"])
+  const tasks = sorted(["cs"])
+  const attList = attainments.length
+    ? attainments.map(line).join("\n")
     : "_No assessments are scheduled for Semester 1._"
+  const taskList = tasks.length ? tasks.map(line).join("\n") : ""
+
   const content = `---
 title: "${c.name} — Calendar"
 tags: [calendar]
@@ -262,14 +366,22 @@ tags: [calendar]
 
 # ${c.name} — Calendar
 
-Semester 1, September 2026 – January 2027. This course's assessments are in colour; school holidays and the exam window are shaded, key term dates marked.
+Semester 1, September 2026 – January 2027. Solid chips are the graded attainments; outlined chips are class tasks and homework; **LB** marks participation postings. The tinted band running under the days is the unit you're in, with each lesson labelled where it begins. Holidays and the exam window are shaded.
 
-${calendarBlock(events, key)}
+${calendarBlock(events, key, detail)}
 
-## Assessments
+## Attainments & End of Term
 
-${list}
+${attList}
+${
+  taskList
+    ? `
+## Class tasks & homework
 
+${taskList}
+`
+    : ""
+}
 [[${c.overview}|← ${c.name}]] · [[calendar|All courses]]
 `
   return { rel: `${c.dir}/course-calendar.md`, content }

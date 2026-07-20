@@ -426,6 +426,72 @@ blockquote.callout {
   padding: 0;
 }
 
+// ── Per-course detail layers ─────────────────────────────────────────────────
+// Each course calendar sets --cc, and everything below keys off it. Four levels
+// of visual weight: solid chip (attainment) → outlined chip (CS/HW) → tiny tag
+// (LB) → background band (unit), with lesson starts as quiet labels.
+
+.cal--a-level { --cc: var(--c-a-level); }
+.cal--media { --cc: var(--c-media); }
+.cal--art-app { --cc: var(--c-art-app); }
+.cal--pal { --cc: var(--c-pal); }
+.cal--oxbridge { --cc: var(--c-oxbridge); }
+
+.calwrap .cal-ev--attainment {
+  background: var(--cc);
+}
+.calwrap .cal-ev--cs {
+  background: none;
+  border: 1.5px solid var(--cc);
+  color: var(--cc);
+  font-weight: 600;
+}
+.calwrap .cal-ev--lb {
+  background: none;
+  border: 1px solid var(--lightgray);
+  color: var(--gray);
+  font-size: 0.56rem;
+  padding: 0 4px;
+  align-self: flex-start;
+  font-weight: 650;
+}
+.cal-lesson {
+  font-size: 0.62rem;
+  line-height: 1.25;
+  color: var(--darkgray);
+  font-weight: 500;
+}
+.cal-unitlabel {
+  font-size: 0.56rem;
+  font-weight: 700;
+  color: var(--cc);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  line-height: 1.3;
+}
+// Alternating unit bands so boundaries read without labels on every day.
+.cal-day--u0 { background: color-mix(in srgb, var(--cc) 5%, transparent); }
+.cal-day--u1 { background: color-mix(in srgb, var(--cc) 11%, transparent); }
+
+// Per-course legend keys mirroring the four weights. Prefixed with .calwrap so
+// they outrank the base .cal-key rule (color: #fff), which follows later in this
+// file at single-class specificity.
+.calwrap .cal-key--att { background: var(--cc); }
+.calwrap .cal-key--cs {
+  background: none;
+  border: 1.5px solid var(--cc);
+  color: var(--cc);
+}
+.calwrap .cal-key--lb {
+  background: none;
+  border: 1px solid var(--lightgray);
+  color: var(--gray);
+}
+.calwrap .cal-key--unit {
+  background: color-mix(in srgb, var(--cc) 11%, transparent);
+  color: var(--darkgray);
+}
+
 // Legend above each calendar.
 .cal-legend {
   display: flex;

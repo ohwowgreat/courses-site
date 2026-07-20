@@ -13,6 +13,7 @@ import { readFile, writeFile, mkdir, rm, readdir } from "node:fs/promises"
 import { join, relative, dirname } from "node:path"
 import { parseAgenda, calendarBlock, coursePage, COURSES } from "./calendar-grid.mjs"
 import { courseMapHtml } from "./course-map.mjs"
+import { courseDetailEvents } from "./course-events.mjs"
 
 const VAULT = "/Users/dogan/Documents/Vaults/Courses/wiki"
 const OUT = join(import.meta.dirname, "content")
@@ -426,7 +427,10 @@ written.add("index.md")
 const events = parseAgenda(await readFile(join(VAULT, "calendar.md"), "utf8"))
 
 for (const key of Object.keys(COURSES)) {
-  const { rel, content } = coursePage(key, events)
+  // Detail layer: every graded item from the course's registers, lesson runs from
+  // the lesson plans, and unit spans — parsed straight from the vault.
+  const detail = await courseDetailEvents(VAULT, COURSES[key].dir)
+  const { rel, content } = coursePage(key, events, detail)
   const dest = join(OUT, rel)
   await mkdir(dirname(dest), { recursive: true })
   await writeFile(dest, content)
