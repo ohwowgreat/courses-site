@@ -11,7 +11,7 @@ modified: 2026-07-19
 
 # 9479 Department Handbook
 
-The student-facing Art & Design handbook, **208 pages, self-authored** — "Written & designed by Doğan Arslanoğlu" (p.206). Ingested 2026-07-19.
+The student-facing Art & Design handbook, **208 pages, self-authored** — "Written & designed by Doğan Arslanoğlu" (p.206).
 
 It is the most substantial teaching document in the 9479 workspace: visual elements, principles of design, the three components, assessment objectives with checklists, the four disciplines, theme selection, artist studies, the Personal Study, and roughly 87 pages of portfolio samples.
 

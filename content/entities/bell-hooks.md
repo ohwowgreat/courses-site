@@ -5,25 +5,19 @@ related:
   - "[[concepts/representation]]"
   - "[[entities/liesbet-van-zoonen]]"
   - "[[entities/stuart-hall]]"
-  - "[[analyses/9607-theory-provenance]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze]]"
 modified: 2026-07-20
 ---
-
 # bell hooks
 
-Named in the 2028 Scheme of Work as a representation theorist — **surname only (lowercase, as she styled it), no idea attributed**.
+bell hooks (lowercase, as she styled it) is one of the representation theorists in this course.
 
-## What Cambridge attributes to her
+## Representation theory
 
-> "candidates need to learn the concept of Representation - best done with reference to theories of representation where there is a variety of student-friendly materials available - such as **Hall, Van Zoonen, hooks, Gilroy, Alvarado**." (2028 SoW, C2 Section A camera row)
+Cambridge lists her among the theorists you can use to study the concept of Representation, alongside **Hall, Van Zoonen, Gilroy, and Alvarado**. In media studies, hooks is most often used for the **oppositional gaze**.
 
-The complete attribution. No work, no concept — not even the oppositional gaze, which is what any media-studies course reaches for when it reaches for hooks.
+## In this course
 
-## Status change
+You study hooks in [[classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze|L09]], Day 4 (Friday single). The lesson covers the oppositional gaze as refusal and rereading — "who the text never expected to be looking" — closing the gaze topic and leading into CS6.
 
-Until 2026-07-20 hooks was filed as a **BNDS addition** — taught in [[classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze|L09]] with no Cambridge naming. Now Cambridge-suggested. The **oppositional gaze** itself remains a centre attribution: Cambridge names her without saying what for.
-
-## BNDS usage
-
-L09 D4 (Fri single): the oppositional gaze as refusal and rereading — "who the text never expected to be looking" — closing the gaze arc and feeding CS6. The lesson plan proposes a 300–400-word hooks homework extract in accessible gloss, EN with ZH support.
+There is a homework reading extract from hooks (300–400 words, in accessible English with Chinese support).

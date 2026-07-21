@@ -10,18 +10,15 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
 modified: 2026-07-20
 ---
-
 # PAL S1 Unit 2: Photography
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan|Semester 1 Plan]] · Unit 2 of 4 · ← [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1: Drawing]] / [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|Unit 3: Collage]] →
 
 ## What this unit does
 
-Spine: **"Compose · intention."** Four Wednesday double sessions (W7–10) after the National Day break shift observation from pencil to camera: framing, viewpoint, light, and above all *choosing* — the working motto is "shoot many, keep few, know why." The unit opens on the reviewed break-photo homework and closes on A2, a photographic series shot, selected, and sequenced around one theme.
+Spine: **"Compose · intention."** Across four Wednesday double sessions (W7–10) after the National Day break, you move observation from pencil to camera: framing, viewpoint, light, and above all *choosing* — "shoot many, keep few, know why." The unit opens on your reviewed break-photo homework and closes on A2, a photographic series you shoot, select, and sequence around one theme.
 
 ## Session-by-session
-
-No written lesson plans exist yet — this table *is* the current per-session record (from the schedule workbook).
 
 | Wk | Wednesday | Lesson | Content | Marker |
 |---|---|---|---|---|
@@ -31,11 +28,11 @@ No written lesson plans exist yet — this table *is* the current per-session re
 | W9 | 2026-10-28 | U2·L3 · S8 | Theme shoot + contact-sheet edit — "shoot many, keep few, know why" | **CS2** |
 | W10 | 2026-11-04 | U2·L4 · S9 | **A2: photographic series** — select, sequence, submit | **A2** |
 
-W10 falls inside G11 Juniors Days (11-04→06) — those are G11-only, so this G10 class **teaches and assesses as normal** (the workbook's cohort correction).
+W10 (2026-11-04) falls inside G11 Juniors Days (11-04→06), which are for G11 only. Your class teaches and assesses as normal.
 
 ## Assessment
 
-- **A2 (Attainment)** — 2026-11-04 (W10): photographic series + reflection. Announced 2026-10-21 (W8) — 14 days = two classes ahead. Marking focus: **framing, viewpoint, light, series thinking**.
+- **A2 (Attainment)** — 2026-11-04 (W10): photographic series + reflection. Announced 2026-10-21 (W8), two classes ahead. Marking focus: **framing, viewpoint, light, series thinking**.
 - **HW1 (Course Skills)** — due 2026-10-14 (W7): break photo task set 09-30 — ≥20 photos, one subject, varied viewpoint and light. Focus: looking before composing.
 - **CS2 (Course Skills)** — 2026-10-28 (W9): composition practice set + contact-sheet edit. Focus: framing and selection.
 - **SB1 (Course Skills)** — 2026-10-21 (W8): first sketchbook spot-check — the first of two evenly-spaced progress checks feeding the A5 sketchbook attainment. Focus: sketchbook habit and development. See the [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|register]].

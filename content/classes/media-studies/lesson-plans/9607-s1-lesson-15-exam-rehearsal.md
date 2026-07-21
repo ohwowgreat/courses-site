@@ -8,7 +8,6 @@ related:
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-16-end-of-term-exam-and-return]]"
 modified: 2026-07-17
 ---
-
 # 9607 S1 Lesson 15: Exam Rehearsal
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation|Unit 6]] · Lesson 15 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-14-consolidation-and-the-coverage-matrix|L14]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-16-end-of-term-exam-and-return|L16]] →
@@ -27,13 +26,13 @@ modified: 2026-07-17
 
 ## Goal
 
-The last teaching week is spent making the exam boring: no surprises left in format, timing, or the mark scheme's economics. HW2 lands Monday and feeds directly into the week. The double is a full-dress Section B under time, peer-marked so that every student reads the mark scheme as a marker at least once before being marked by it. Friday names exactly where marks are lost, before the exam rather than after.
+This is the last teaching week. You review the exam format, timing, and mark scheme so nothing is unfamiliar on the day. HW2 is due Monday and feeds into the week. In the double, you sit a full Section B under time and peer-mark another student's script, so you read the mark scheme as a marker before you are marked by it. On Friday you find out exactly where marks are lost, before the exam rather than after.
 
 ## How it runs
 
-- **D1–2 (Mon+Tue block):** HW2 collected Monday; the full paper walked end to end, minute budget built per section; day 2, timing strategy drilled on plans — five-minute Section B plans against the clock, three rounds.
-- **D3 (Wed, double):CS9 sat** — 5 min setup / 45 min writing / 30 min peer-mark / 10 min moderate; full Section B on their own case studies; scripts swapped and peer-marked against the scheme; teacher moderates a sample live to calibrate the room.
-- **D4 (Fri, single):** the mark scheme's AO economy — where AO1 and AO2 marks actually sit, mapped against the class's CS9 results; each student leaves with two named loss points and the counter-move for each. Last teaching day.
+- **D1–2 (Mon+Tue block):** HW2 collected Monday; walk the full paper end to end and build a minute budget per section; day 2, drill timing on plans — five-minute Section B plans against the clock, three rounds.
+- **D3 (Wed, double): CS9 sat** — 5 min setup / 45 min writing / 30 min peer-mark / 10 min moderate; full Section B on your own case studies; scripts are swapped and peer-marked against the scheme; a sample is moderated live to calibrate the room.
+- **D4 (Fri, single):** the mark scheme's AO economy — where AO1 and AO2 marks actually sit, mapped against the class's CS9 results; you leave with two named loss points and the counter-move for each. Last teaching day.
 
 ## Assessment
 
@@ -42,3 +41,5 @@ The last teaching week is spent making the exam boring: no surprises left in for
 | CS9 | Wed 2027-01-06 | Timed Section B script, 45 min, own case studies; peer-marked then moderated | AO1+AO2 |
 
 HW2 due Mon 2027-01-04. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+
+These dates may shift when the school publishes the calendar for this period.

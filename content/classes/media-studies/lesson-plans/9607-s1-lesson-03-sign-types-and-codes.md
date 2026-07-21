@@ -8,7 +8,6 @@ related:
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-04-genre-and-camera]]"
 modified: 2026-07-17
 ---
-
 # 9607 S1 Lesson 03: Sign Types and Codes
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] · Lesson 03 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-how-images-mean|L02]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-04-genre-and-camera|L04]] →
@@ -25,15 +24,15 @@ modified: 2026-07-17
 | Feeds | A1 |
 | Homework | Lexicon revision toward CS3; no new tasks |
 
-## Goal
+## What you will do
 
-Two weeks of accumulating terminology gets consolidated into vocabulary the students own under pressure. Peirce's triad gives a second way to sort signs; the four code families give the analytical checklist they will run on every extract for two years. Wednesday's unlabeled stills are the proof of concept — reading something never seen using vocabulary alone — and Friday's quiz makes the vocabulary a matter of record.
+You consolidate two weeks of terminology into vocabulary you can use under pressure. You learn Peirce's triad as a second way to sort signs, and the four code families that you will use to analyse every extract from here on. On Wednesday you read stills you have never seen before using vocabulary alone. Friday's quiz records your vocabulary.
 
 ## How it runs
 
-- **D1–2 (Mon+Tue block):** Peirce input (icon, index, symbol); sorting gallery of 12 signs by how they mean; day 2 retrieval, then the four code families (technical, symbolic, written, audio) mapped onto two contrasting stills; students build their personal code checklist.
+- **D1–2 (Mon+Tue block):** Peirce input (icon, index, symbol); sorting gallery of 12 signs by how they mean; day 2 retrieval, then the four code families (technical, symbolic, written, audio) mapped onto two contrasting stills; you build your personal code checklist.
 - **D3 (Wed, double):** cold-reading protocol modeled on one still; three unseen TV-drama stills, three minutes silent noticing each, then code-labeled write-up; review compares readings and rewards precision over quantity.
-- **D4 (Fri, single):** CS3 sat in the first half — 20 items, 20 minutes; immediate self-mark against definitions; missed terms corrected into the lexicon on the spot; exit — one term taught back to a partner.
+- **D4 (Fri, single):** you sit CS3 in the first half — 20 items, 20 minutes; self-mark immediately against definitions; correct missed terms into the lexicon on the spot; exit — teach one term back to a partner.
 
 ## Assessment
 

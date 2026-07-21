@@ -9,18 +9,17 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s2-assessments]]"
 modified: 2026-07-18
 ---
-
 # 9479 S2 Unit 3: Exploration & Artist Study
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-2-plan|Semester 2 Plan]] · Unit 3 of 5 · ← [[classes/a-level-art-design/unit-plans/9479-s2-unit-2-recording-and-sustained-study|Unit 2]] | [[classes/a-level-art-design/unit-plans/9479-s2-unit-4-development|Unit 4]] →
 
 ## What this unit does
 
-The exploration / artist-study stage: AO2 Explore carries the front half (twelve prescribed media experiments run to an evidence-based selection, with rejections named), and AO3 opens through the back half (two artists studied to the point of visible change in the work — analysis, meaning and context, method, personal response — plus the bridge piece and a scale trial). The contextual writing produced here is the **first material of the research paper**. Closes with **A2**, marked across AO2 and AO3. The unit is built elastic around the S7 Qingming mock float.
+This is the exploration and artist-study stage. For AO2 (Explore) you run twelve prescribed media experiments, then make an evidence-based selection, naming the media you reject. AO3 opens in the back half: you study two artists closely — analysis, meaning and context, method, and personal response — until that study visibly changes your own work, and you make a bridge piece and a scale trial. The contextual writing you produce here is the first material of your research paper. The unit closes with **A2**, marked across AO2 and AO3.
 
 ## Dates & span
 
-Weeks S6, S8–S9, elastic around the S7 mock float (Mon 2027-03-28 → ~2027-04-24), 15 sessions. Provisional spring dates — see the [[classes/a-level-art-design/unit-plans/9479-semester-2-plan|semester plan]].
+Weeks S6, S8–S9, around the S7 mock (Mon 2027-03-28 → about 2027-04-24), 15 sessions. These spring dates are provisional and may shift when the school publishes the calendar; see the [[classes/a-level-art-design/unit-plans/9479-semester-2-plan|semester plan]].
 
 ## Sequence of work
 
@@ -28,8 +27,8 @@ Weeks S6, S8–S9, elastic around the S7 mock float (Mon 2027-03-28 → ~2027-04
 |---|---|---|
 | U3·L1 | Plan the media exploration | Experiments that could fail |
 | U3·L2–L4 | Studio: media experiments 1 to 12 (3-day session) | Which media carry the investigation |
-| U3·L5 | Keep or change | Evidence-based selection; rejections named. |
-| *S7 mock float* | No new content | Independent sketchbook brief if the school permits |
+| U3·L5 | Keep or change | Evidence-based selection; name your rejections |
+| *S7 mock* | No new content | Independent sketchbook brief if the school permits |
 | U3·L6 | Artist 1: choose and analyze | An artist who solves the problem |
 | U3·L7 | Meaning and context | First material of the research paper |
 | U3·L8 | Method study | Copy to understand, not to own |
@@ -43,10 +42,17 @@ Weeks S6, S8–S9, elastic around the S7 mock float (Mon 2027-03-28 → ~2027-04
 
 ## Assessment
 
-Gates on **A2, Fri 2027-04-23** — exploration and artist study (twelve experiments, media selection, artist pages, bridge piece, Stage 3 pages), marked against AO2+AO3. CS tasks: **CS4** Fri 2027-04-02 (twelve experiments documented), **CS5** Fri 2027-04-16 (artist 1 pages — analysis, method, response; opens the research paper material). See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]].
+**A2, Fri 2027-04-23** — exploration and artist study (twelve experiments, media selection, artist pages, bridge piece, Stage 3 pages), marked against AO2+AO3.
+
+Coursework tasks:
+- **CS4**, Fri 2027-04-02 — twelve experiments documented
+- **CS5**, Fri 2027-04-16 — artist 1 pages (analysis, method, response); opens the research paper material
+
+See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]].
 
 ## Key content
 
-- ◆ Media choices must carry conceptual logic: **the selection argument is what AO2 marks at the top band**.
-- ◆ Artist references must change the work on the page — citation without response earns nothing.
-- The unit stays elastic: S7 carries no new content, the twelve experiments close before the window, and every assessment notice clears the float. Rebook any collision the day the mock dates are announced.
+- Your media choices must carry conceptual logic: the selection argument is what earns AO2 at the top band.
+- Your artist references must change the work on the page — citation without a response earns nothing.
+
+S7 carries no new content, and the twelve experiments close before the mock window.

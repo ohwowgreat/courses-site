@@ -12,14 +12,13 @@ related:
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-18
 ---
-
 # 9479 S2 Assessments
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-2-plan|Semester 2 Plan]] · full register, spring 2026-27 (Component 3 Personal Investigation part 1, G11)
 
 Grading follows the [[shared/bnds-assessment-framework|BNDS assessment framework]]: **Attainment 50% · Course Skills 20% · Learning Behaviour 10% · End of Term Exam 20%**. A1–A4 are the attainment layer (portfolio milestones marked against the 9479 AOs); CS1–CS9 are the course-skills layer, each direct practice for the attainment it precedes; the 20% End of Term category is met by **the Final** (below).
 
-**Dates caveat.** Spring 2027 dates are the schedule's provisional anchors, not calendar-verified — no 2026-27 spring calendar has been ingested. Move announcements, never sittings, when the calendar publishes.
+The spring 2027 dates below are provisional and may shift once the school publishes the spring calendar. Times and weekdays are given as currently planned.
 
 ## Attainments (50%) — A1–A4
 
@@ -44,10 +43,8 @@ Grading follows the [[shared/bnds-assessment-framework|BNDS assessment framework
 | CS8 | Fri 2027-05-21 | Targeted tests + critique response | Sketchbook | A3 |
 | CS9 | Thu 2027-06-03 | Bibliography + source integration check | Written annotation | A4 |
 
-Nine CS tasks, one per non-attainment teaching week. S7 (the Qingming mock float) carries no CS — it is covered by the Learning Behaviour layer, still undefined.
+There are nine CS tasks, one per non-attainment teaching week. Week S7 (the Qingming period) carries no CS task; it falls under the Learning Behaviour layer.
 
 ## The Final (End of Term Exam category, 20%)
 
-The 20% category is satisfied by **the Final**: a **teacher-marked assessment of each student's portfolio-so-far against the Cambridge criteria** — no exam paper, no invigilation, no new task. This class **sits no department finals**, so the spring EoT window (unpublished) is free for marking and the date is at the teacher's discretion.
-
-The schedule's own proposal (Assessment Plan rule 08) was a *timed critical analysis using specialist vocabulary, rehearsing the C3 written element* — kept here as the workbook's earlier wording, superseded by the Final resolution. Confirm the 20% category for a studio course before any sitting.
+The 20% category is satisfied by **the Final**: a teacher-marked assessment of your portfolio-so-far against the Cambridge criteria. There is no exam paper, no invigilation, and no new task. This class sits no department finals, and the date will be confirmed in class.

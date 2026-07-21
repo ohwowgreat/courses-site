@@ -12,7 +12,6 @@ related:
   - "[[classes/media-studies/assessments/9607-s1-assessments]]"
 modified: 2026-07-19
 ---
-
 # 9607 S1 Unit 4: Representation
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-semester-1-plan|Semester 1 Plan]] · Unit 4 of 6 · ← [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis|Unit 3]] | [[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts|Unit 5]] →
@@ -21,13 +20,15 @@ modified: 2026-07-19
 
 ## What this unit does
 
-Representation taught as construction and immediately turned on the students' own work. A2 opens the band; rough cuts are screened under audience conditions and audited for the stereotypes their makers did not notice, while production time remains to fix them; gaze theory is tested across decades rather than recited; and the CCR is drafted, reviewed against the real C1 criteria, and redrafted to reflect rather than describe.
+You study representation as construction and apply it to your own work. A2 opens the unit; rough cuts are screened under audience conditions and audited for stereotypes their makers did not notice, while there is still production time to fix them. Gaze theory is tested across decades, and the CCR is drafted, reviewed against the real C1 criteria, and redrafted to reflect rather than describe.
 
-*Numbering note: "U4" here is the S1 calendar band. In the coursebook's separate "Units 1–8" numbering, Representation is Unit 3.*
+In the coursebook's separate "Units 1–8" numbering, Representation is Unit 3. Here "U4" refers to the Semester 1 calendar band.
 
 ## Dates & span
 
 **W9–W12: Mon 2026-10-26 → Fri 11-20** — 14 teaching days (L08: 6, L09: 4, L10: 4). W10 runs Mon–Tue only, before Juniors Days. Mid-term grades fall Thu 10-29.
+
+These dates may shift when the school publishes the calendar for this period.
 
 ## Lessons
 
@@ -39,16 +40,16 @@ Representation taught as construction and immediately turned on the students' ow
 
 | Item | Date | What | AO |
 |---|---|---|---|
-| A2 | Mon 2026-10-26 | C1 blog mid-point: posts 1–7, by URL (Monday due = two marking days before mid-terms Thu 10-29) | AO3 |
+| A2 | Mon 2026-10-26 | C1 blog mid-point: posts 1–7, by URL | AO3 |
 | LB3 | Tue 2026-11-03 | Screening participation, peer response quality | — |
 | CS6 | Fri 2026-11-13 | Representation close-reading paragraph, theorist embedded | AO2 |
 | CS7 | Wed 2026-11-18 | CCR draft review against C1 criteria — direct practice for A3 | AO2 |
 
- Fri 11-13** (due Fri 11-27, inside Unit 5). See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+A3 is announced Fri 11-13 and is due Fri 11-27, inside Unit 5. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
 ## Key content
 
 - Theorists: Hall (encoding/decoding — dominant, negotiated, oppositional), van Zoonen (gender as performance), Mulvey (the three looks), bell hooks (the oppositional gaze).
 - Analytical moves: construction vs reflection; who a stereotype works for; absence and selective construction; readings the text did not invite.
 - C1 milestones: rough cut screened as an audience sees it; stereotype audit with fix list (LB3 evidence); complete CCR redraft posted — "cut every sentence that describes instead of reflects."
-- ESL scaffold: theorist sentence-starters card for CS6, on every desk.
+- A theorist sentence-starters card is available for CS6.

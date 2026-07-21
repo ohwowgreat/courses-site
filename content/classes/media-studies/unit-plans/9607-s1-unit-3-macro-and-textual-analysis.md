@@ -11,7 +11,6 @@ related:
   - "[[classes/media-studies/assessments/9607-s1-assessments]]"
 modified: 2026-07-19
 ---
-
 # 9607 S1 Unit 3: Macro and Textual Analysis
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-semester-1-plan|Semester 1 Plan]] · Unit 3 of 6 · ← [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] | [[classes/media-studies/unit-plans/9607-s1-unit-4-representation|Unit 4]] →
@@ -20,13 +19,13 @@ modified: 2026-07-19
 
 ## What this unit does
 
-The first attainment band. Narrative theory is stress-tested on real texts — hunting for where Propp and Todorov strain, because strain is what a top-band answer discusses — and A1 sits on the Wednesday of W7. The rest of the band converts analytical instinct into method: Barthes, a fixed reading order, PEEM paragraphs, Section A answer architecture, and a peer audit of every C1 blog against the same checklist A2 will be marked with.
-
-*Numbering note: "U3" here is the S1 calendar band. It has no single coursebook counterpart — it is the macro end of the coursebook's Media Language unit plus textual-analysis method. The coursebook's own Unit 3 is Representation, which is band U4 in this schedule.*
+This is the first attainment band. You test narrative theory on real texts, looking for where Propp and Todorov strain — because that strain is what a top-band answer discusses — and you sit A1 on the Wednesday of W7. The rest of the band turns analytical instinct into method: Barthes, a fixed reading order, PEEM paragraphs, Section A answer architecture, and a peer audit of every C1 blog against the same checklist used to mark A2.
 
 ## Dates & span
 
 **W7–W8: Mon 2026-10-12 → Fri 10-23** — 8 teaching days (L06: 3, L07: 5).
+
+These dates may shift when the school publishes the calendar for this period.
 
 ## Lessons
 
@@ -40,10 +39,10 @@ The first attainment band. Narrative theory is stress-tested on real texts — h
 | A1 | Wed 2026-10-14 | Timed media language analysis, unseen TV-drama extract, 60 min, exam conditions | AO1+AO2 |
 | CS5 | Wed 2026-10-21 | Peer blog audit against the mid-point checklist | AO3 |
 
- Mon 10-12** (due Mon 10-26, inside Unit 4). See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+A2 is announced Mon 2026-10-12 and is due Mon 2026-10-26 (inside Unit 4). See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
 ## Key content
 
 - Theorists: Propp and Todorov under load; Barthes (enigma and action codes — what a text withholds and promises).
 - Method: systematic reading order (same order, every time); PEEM (point, evidence, effect, meaning); Section A answer skeletons planned before writing.
-- C1 milestone: blogs brought to mid-point standard — posts 1–7, dated, individual contributions labeled — with the CS5 audit placed three teaching days before the A2 deadline so findings can still be acted on.
+- C1 milestone: bring your blog to mid-point standard — posts 1–7, dated, individual contributions labeled. The CS5 audit falls three teaching days before the A2 deadline, so you can still act on its findings.

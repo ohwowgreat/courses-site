@@ -8,18 +8,13 @@ related:
   - "[[classes/media-studies/unit-plans/9607-s1-unit-2-media-language]]"
 modified: 2026-07-20
 ---
-
 # Media Vocabulary
 
-Cambridge's own glossary, transcribed from the six appendices of the Scheme of Work (pp.27–35). **56 terms, every one defined** — there are no bare term lists in the source.
-
-**Verified against the 2028 Scheme of Work (2026-07-20): all six appendices carry over with every term and definition unchanged.** Two cosmetic differences only: Appendix 1 is retitled from "Introductory media language" to "**Glossary**," and the source oddities flagged at the bottom of this page (the "High angle" wording, "genre of the music," "crowd murmer") survive uncorrected in the 2028 edition. This page therefore serves both spec generations as-is.
-
-This is the reference sheet for the live glossary students maintain from week one. Where a definition below reads oddly, that is Cambridge's wording, not a transcription slip; the odd ones are flagged at the bottom.
+This is Cambridge's own glossary — 56 terms, every one defined. This page is the reference sheet for the live glossary you maintain from week one.
 
 Conceptual framing for these terms: [[concepts/technical-elements]] and [[concepts/media-language]].
 
-## Appendix 1 — Introductory media language (SoW p.27)
+## Appendix 1 — Glossary
 
 | Term | Definition |
 |---|---|
@@ -34,9 +29,7 @@ Conceptual framing for these terms: [[concepts/technical-elements]] and [[concep
 | **Genre** | A term of classification which groups media texts of a particular kind together – usually particular kinds of film or TV narrative, but styles, stars and production companies may all be used to make generic distinctions between texts |
 | **Convergence** | The coming together of media technologies so that the boundaries blur. Usually this refers to technologies of distribution and reception (e.g. TV and the internet). |
 
-## Appendix 2 — Camera shots and angles (SoW pp.28–31)
-
-The source table has a third column of example stills, which carry no text.
+## Appendix 2 — Camera shots and angles
 
 | Shot type | Description |
 |---|---|
@@ -54,7 +47,7 @@ The source table has a third column of example stills, which carry no text.
 | **Low angle** | A shot taken from a low angle, this helps to reinforce intimidation or disempowerment for the character with Point of View, as it creates an overwhelming perspective. |
 | **Canted angle / Dutch angle** | This is a shot taken with a tilted horizon, often used to signify imbalance or uncertainty, but sometimes for aesthetic effect. |
 
-## Appendix 3 — Camera movements (SoW p.32)
+## Appendix 3 — Camera movements
 
 | Movement | Description |
 |---|---|
@@ -68,7 +61,7 @@ The source table has a third column of example stills, which carry no text.
 | **Zoom** | Unlike a tracking shot, where the camera body moves in or out, a zoom shot is achieved by increasing (zoom in) or decreasing (zoom out) the magnification of the object with the camera's lens. |
 | **Reverse zoom** | The reverse zoom is a combination of a tracking shot and a zoom shot: the camera tracks towards the subject while zooming out at the same rate. The subject (usually a character) maintains the same position and size in the frame, while the background shifts around them – often used to signify a turning point in the character's story. A similar effect is achieved by tracking backwards while zooming in. |
 
-## Appendix 4 — Sound vocabulary (SoW p.33)
+## Appendix 4 — Sound vocabulary
 
 | Term | Meaning |
 |---|---|
@@ -83,7 +76,7 @@ The source table has a third column of example stills, which carry no text.
 | **Soundscape** | A collection of background sounds which reinforce the realism of a scene – these may be augmented in post-production with, for example, library sound effects, such as crowd murmer. This might also be described as 'atmosphere'. |
 | **Soundbed** | In film and TV this may be used interchangeably with 'soundscape', but in audio work it usually refers to music played low in the mix in order to create mood or atmosphere. |
 
-## Appendix 5 — Website terminology (SoW p.34)
+## Appendix 5 — Website terminology
 
 | Term | Meaning |
 |---|---|
@@ -91,12 +84,12 @@ The source table has a third column of example stills, which carry no text.
 | **Navigational features** | These are the buttons that help you move around the website. They are clearly displayed on a web page and often change appearance when you hover over them. |
 | **Multimedia features** | This term refers to the use of images, video, text and audio on a website. These features add variation, information and entertainment. |
 | **Advertisements** | Many websites advertise products closely linked or connected to the main focus, this is often a good way of increasing revenue from hits on the interconnected websites. |
-| **Web links** | When links connect you to elsewhere on the website this is referred to as 'internal links' whereas links to another website are called 'external links' |
+| **Web links** | When links connect you to elsewhere on the website this is referred to as 'internal links' whereas links to another website are called 'external links'. |
 | **Interactive elements** | These enable users to take part and contribute to the website and could be in the form of quizzes, games, surveys, discussion forums or an opportunity to give feedback or comments about something. |
 
-This appendix gains importance under the 2028–30 spec, where C3's third medium becomes a **website home page** — see [[classes/media-studies/media-studies]].
+Under the 2028–30 spec, C3's third medium is a website home page — see [[classes/media-studies/media-studies]].
 
-## Appendix 6 — Magazine terminology (SoW p.35)
+## Appendix 6 — Magazine terminology
 
 | Term | Meaning |
 |---|---|
@@ -109,13 +102,4 @@ This appendix gains importance under the 2028–30 spec, where C3's third medium
 | **Pull quotes** | Enlarged quotes from an article – these may be included in coverlines, but are also used in the body of the article to break up the page and to attract the attention of the reader. |
 | **Byline** | The name of the writer of the article, usually found at the beginning. Simply, it is the 'line' which tells you who the article is by. |
 
-The Coursework Handbook's matching activity (CWH p.11) uses a partly different term set — Buzz Word, Puff, Coverline, Masthead, Barcode, Anchorage Text, Superimposition, Slogan, Unique Selling Point. **Puff, buzz word, barcode, anchorage text and USP are not in this appendix.** Both lists are Cambridge's; teach the union, cite the right one.
-
-## Source oddities
-
-Flagged so nobody "corrects" them into a quotation:
-
-- **"High angle"** (App. 2) reads counter to the usual convention — Cambridge writes that it creates "empowerment for the character with Point of View," which parses only if read as empowering the *viewer*, not the subject. It is Cambridge's own wording.
-- **"Web banner"** (App. 5) refers to "the genre of the music" — a leftover from a music-website example.
-- **"crowd murmer"** (App. 4, Soundscape) — misspelling in the original.
-- **"Selling line"** and **"Web links"** end without terminal punctuation in the source; punctuation supplied here, wording untouched.
+A matching activity in the Coursework Handbook uses some additional magazine terms not listed above: Buzz Word, Puff, Barcode, Anchorage Text, Superimposition, Slogan, and Unique Selling Point.

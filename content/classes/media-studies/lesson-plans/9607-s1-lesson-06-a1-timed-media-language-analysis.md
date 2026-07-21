@@ -8,7 +8,6 @@ related:
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint]]"
 modified: 2026-07-17
 ---
-
 # 9607 S1 Lesson 06: A1 — Timed Media Language Analysis
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis|Unit 3]] · Lesson 06 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock|L05]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint|L07]] →
@@ -27,13 +26,13 @@ modified: 2026-07-17
 
 ## Goal
 
-The first attainment of the course. Monday and Tuesday put Propp and Todorov under load on real texts, deliberately hunting for where the theory strains, because strain is what a top-band answer discusses. A2 is announced Monday to open its own 14-day window. Wednesday is the sit: sixty minutes, unseen extract, exam conditions, everything since Week 1 in play.
+Monday and Tuesday apply Propp and Todorov to real texts, looking for where the theory strains to fit — a top-band answer discusses that strain. A2 is announced on Monday. Wednesday is the sit: sixty minutes on an unseen extract under exam conditions, drawing on everything from Week 1 onward.
 
 ## How it runs
 
-- **D1 (Mon, single):** Propp run on a full trailer today, due Mon 10-26; day ends by logging where the theory failed to fit and why that is analytically interesting.
+- **D1 (Mon, single):** Propp applied to a full trailer; the day ends by logging where the theory failed to fit and why that is analytically interesting.
 - **D2 (Tue, single):** Todorov across an episode structure; same strain-log close.
-- **D3 (Wed, double):A1 sits** — 10 min setup (conditions briefing, extract screening protocol) / 60 min writing under exam conditions / 20 min structured debrief on what the extract rewarded; no marks discussed until scripts return.
+- **D3 (Wed, double): A1 sits** — 10 min setup (conditions briefing, extract screening protocol) / 60 min writing under exam conditions / 20 min structured debrief on what the extract rewarded. Marks are not discussed until scripts return.
 
 ## Assessment
 
@@ -41,4 +40,4 @@ The first attainment of the course. Monday and Tuesday put Propp and Todorov und
 |---|---|---|---|
 | A1 | Wed 2026-10-14 | Timed media language analysis of an unseen TV-drama extract, 60 min, exam conditions | AO1+AO2 |
 
- Mon 10-12 (due Mon 10-26). See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+A2 is announced Mon 10-12 and is due Mon 10-26. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].

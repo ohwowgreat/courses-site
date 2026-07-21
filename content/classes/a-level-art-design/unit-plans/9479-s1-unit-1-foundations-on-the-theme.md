@@ -8,18 +8,17 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s1-assessments]]"
 modified: 2026-07-17
 ---
-
 # 9479 S1 Unit 1: Foundations on the Theme
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-1-plan|Semester 1 Plan]] · Unit 1 of 5 · [[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study|Unit 2]] →
 
 ## What this unit does
 
-Opens the Component 1 portfolio pipeline at its foundations stage: how the portfolio is marked (the four AOs), what a top-band portfolio actually does, and the semester's most consequential decision — committing to one theme from the menu against criteria, not by mood. The formal elements are then worked directly on the committed theme (AO1 Record focus), so by the unit's close the theme has been looked at through five instruments and the first portfolio page can argue something.
+This unit opens the Component 1 portfolio work at its foundations stage: how the portfolio is marked (the four AOs), what a top-band portfolio does, and the semester's most important decision — committing to one theme from the menu against set criteria. You then work the formal elements directly on your committed theme (AO1 Record focus), so that by the end of the unit you have looked at the theme through five instruments and can build a first portfolio page that argues something.
 
 ## Dates & span
 
-Tue 2026-09-01 → Mon 2026-09-14 (W1 → W3 Monday; 10 sessions). No attainment in W1–W2 — the day-3 diagnostic drawing is the baseline for the mid-term narrative.
+Tue 2026-09-01 → Mon 2026-09-14 (W1 → W3 Monday; 10 sessions). There are no attainment grades in W1–W2. On day 3 you do a diagnostic drawing, which sets your baseline.
 
 ## Lessons
 
@@ -28,10 +27,10 @@ Tue 2026-09-01 → Mon 2026-09-14 (W1 → W3 Monday; 10 sessions). No attainment
 
 ## Assessment
 
-No attainment gates this unit. One CS task inside it: **CS1** (formal elements study set + Recording Page 1, sketchbook), collected Mon 2026-09-14 — practice toward A1. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]].
+No attainment grades in this unit. It contains one CS task: **CS1** (formal elements study set + Recording Page 1, sketchbook), collected Mon 2026-09-14 — practice toward A1. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]].
 
 ## Key content
 
-- **The theme menu (proposed):** Reflections and Surfaces · Worn and Weathered · Hands at Work · Structures of the Everyday. A theme must pass all five criteria: photographable primary sources in daily reach; survives four months of looking; carries line, tone, texture and color; opens both 2D and 3D; deep artist reference pool to prescribe from. Sign-off is one-to-one; the commitment card is physical.
-- **Source rule:** "Nothing found, nothing borrowed" — every source is the student's own photograph or observation.
-- **Standing protocols installed here:** studio session shape (entry look → demo → sustained work with midpoint checkpoint → exit annotation; conference rota 4–5/day), annotation rule (decisions/rejections/observations, not feelings), homework rule (sketchbook / annotation / reflection only, ≤30 min).
+- **The theme menu:** Reflections and Surfaces · Worn and Weathered · Hands at Work · Structures of the Everyday. The final list will be confirmed in class. Your theme must pass all five criteria: photographable primary sources within daily reach; survives four months of looking; carries line, tone, texture and color; opens both 2D and 3D; a deep artist reference pool to draw from. Sign-off is one-to-one, and the commitment card is physical.
+- **Source rule:** "Nothing found, nothing borrowed" — every source is your own photograph or observation.
+- **Standing protocols:** studio session shape (entry look → demo → sustained work with midpoint checkpoint → exit annotation; conference rota 4–5 students/day), annotation rule (record decisions, rejections and observations, not feelings), homework rule (sketchbook / annotation / reflection only, ≤30 min).

@@ -10,12 +10,11 @@ related:
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster]]"
 modified: 2026-07-20
 ---
-
 # PAL S1 Assessments
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan|Semester 1 Plan]]
 
-Full assessment register for Grade 10 Art, Semester 1 (2026-27), graded under the BNDS A-Level Handbook 25-26 categories — see [[shared/bnds-assessment-framework]] for the framework itself. Weights: **Attainment 50% · Course Skills 20% · Learning Behaviour 10% · End of Term Exam 20%**.
+Assessments for Grade 10 Art, Semester 1 (2026-27), graded under the BNDS A-Level Handbook categories — see [[shared/bnds-assessment-framework]] for the framework. Weights: **Attainment 50% · Course Skills 20% · Learning Behaviour 10% · End of Term Exam 20%**.
 
 ## Attainments (50%) — A1–A5
 
@@ -24,12 +23,12 @@ Full assessment register for Grade 10 Art, Semester 1 (2026-27), graded under th
 | A1 | 2026-09-30 | Final observational drawing + reflection (made in class, W4–W5) | Observation, tone, composition | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements\|U1]] |
 | A2 | 2026-11-04 | Photographic series + reflection — select, sequence, submit | Framing, viewpoint, light, series thinking | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography\|U2]] |
 | A3 | 2026-12-09 | Final collage + reflection (made in class, W14–W15) | Juxtaposition, layering, composition, meaning | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage\|U3]] |
-| A4 | **2026-12-23** | Final poster + reflection (handmade or digital) | Hierarchy, typography, message, audience | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster\|U4]] |
-| A5 | **2027-01-06** | Sketchbook submitted for assessment — the whole semester's work | Ideas, experimentation, visual research, reflection, presentation | sketchbook (all units) |
+| A4 | 2026-12-23 | Final poster + reflection (handmade or digital) | Hierarchy, typography, message, audience | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster\|U4]] |
+| A5 | 2027-01-06 | Sketchbook submitted for assessment — the whole semester's work | Ideas, experimentation, visual research, reflection, presentation | sketchbook (all units) |
 
 ### A5 — the sketchbook
 
-The fifth attainment is the sketchbook itself, **submitted for assessment on the last teaching session, Wed 2027-01-06 (W19), alongside the End-of-Term portfolio.** It carries the whole semester's work, so it is known from the first week — notice is never a constraint. Assessed on ideas and creativity, experimentation, visual research, critical reflection, and presentation. Five attainments sits inside the handbook's 4–6 range.
+Your fifth attainment is the sketchbook itself, **submitted for assessment on the last teaching session, Wed 2027-01-06 (W19), alongside the End-of-Term portfolio.** It carries your whole semester's work, so it is known from the first week. It is assessed on ideas and creativity, experimentation, visual research, critical reflection, and presentation.
 
 ## Course Skills (20%) — CS1–CS4 + HW1 + SB1–SB2 (sketchbook)
 
@@ -37,20 +36,20 @@ The fifth attainment is the sketchbook itself, **submitted for assessment on the
 |---|---|---|---|---|
 | CS1 | 2026-09-23 | Exercise-set check (contour, tonal, texture, negative-space studies) | The visual elements | U1 |
 | HW1 | due 2026-10-14 | Break photo task, set 2026-09-30: ≥20 photos, one subject, varied viewpoint/light | Looking before composing | U1→U2 bridge |
-| **SB1** | **2026-10-21** | Sketchbook spot-check 1 — progress and upkeep | Sketchbook habit and development | sketchbook (all) |
+| SB1 | 2026-10-21 | Sketchbook spot-check 1 — progress and upkeep | Sketchbook habit and development | sketchbook (all) |
 | CS2 | 2026-10-28 | Composition practice set + contact-sheet edit | Framing and selection | U2 |
 | CS3 | 2026-11-25 | Collage experiment set | Combination and meaning | U3 |
-| **SB2** | **2026-12-02** | Sketchbook spot-check 2 — progress and upkeep | Sketchbook habit and development | sketchbook (all) |
-| CS4 | **2026-12-16** | Thumbnail set + poster analysis | Hierarchy and audience | U4 |
+| SB2 | 2026-12-02 | Sketchbook spot-check 2 — progress and upkeep | Sketchbook habit and development | sketchbook (all) |
+| CS4 | 2026-12-16 | Thumbnail set + poster analysis | Hierarchy and audience | U4 |
 
-**Sketchbook spot-checks (SB1, SB2):** the sketchbook is checked twice during the semester for a Course Skills mark — **Wed 2026-10-21** and **Wed 2026-12-02**, spaced evenly between the start and the A5 submission at the end. Both dates are known in advance, so the 72-hour notice is never a constraint. Focus is progress and upkeep, not a full grade against the A5 rubric.
+**Sketchbook spot-checks (SB1, SB2):** your sketchbook is checked twice during the semester for a Course Skills mark — **Wed 2026-10-21** and **Wed 2026-12-02**. The focus is progress and upkeep, not a full grade against the A5 rubric.
 
 ## Learning Behaviour (10%)
 
-Weekly **sketchbook posting on MB after every session** — **17 postings** across the semester (was 18; W18 is lost to the winter break). This carries the one-grade-per-week rule.
+Post your sketchbook on MB after every session — **17 postings** across the semester (W18 falls in the winter break). This carries the one-grade-per-week rule.
 
 The sketchbook earns marks three ways: the weekly posting here (Learning Behaviour), two spot-checks during the semester (Course Skills — **SB1** 2026-10-21, **SB2** 2026-12-02), and the final submission (Attainment **A5**, due 2027-01-06).
 
-## End of Term (20%) — ✅ CONFIRMED
+## End of Term (20%)
 
-**Semester portfolio due Wed 2027-01-06 (W19):** the four finals + process work + reflections, reviewed during the exam window (2027-01-11 → 01-18). A studio course has no defined EoT sitting and this is the accepted form. No longer a proposal.
+**Semester portfolio due Wed 2027-01-06 (W19):** the four finals + process work + reflections, reviewed during the exam window (2027-01-11 → 01-18).

@@ -11,23 +11,24 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-semester-2-outline]]"
 modified: 2026-07-19
 ---
-
 # Art Appreciation S1 Unit 5: Semester Close and Retrospective
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan|Semester 1 Plan]] · Unit 5 of 5 · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity|← Unit 4]]
 
 ## What this unit does
 
-The whole semester read back as one argument. The End-of-Term retrospective is the third constellation of the year — after the A1 board and the A4 synthesis, the same move at its largest scale — and "the one where the method finally looks like a method rather than a rule". Inventory first (everything on the wall, no arranging), then the three works from the break homework defended against someone who chose differently, a last workshop, the sit, and a forward look. After the exam window (which holds no exam for this course — it is the marking window), three uncoded, weightless return days: one-to-one feedback for eleven students, Semester 2 goals about a practice rather than a grade, and the only trailer Semester 2 gets.
+You read the whole semester back as one argument. The End-of-Term retrospective is the third constellation of the year — after the A1 board and the A4 synthesis, the same move at its largest scale. You inventory first (everything on the wall, no arranging), then defend the three works from your break homework against someone who chose differently, do a last workshop, sit the exam, and take a forward look. After the exam window (which holds no exam for this course — it is the marking window), there are three uncoded, weightless return days: one-to-one feedback, Semester 2 goals about a practice rather than a grade, and a first look ahead to Semester 2.
 
 ## Dates and span
 
-- **Weeks 18–19 + return**: Mon 2027-01-04 to Fri 2027-01-08, then Tue 2027-01-19 to Tue 2027-01-19. 8 sessions (5 + 3).
-- Retrospective sits **Tue 2027-01-05, in class** — outside the exam window, on the teacher's stated decision (open item, confirm with department).
+- **Weeks 18–19 + return**: Mon 2027-01-04 to Fri 2027-01-08, then Tue 2027-01-19. 8 sessions (5 + 3).
+- You sit the retrospective **Tue 2027-01-05, in class** — outside the exam window.
 - Fri 2027-01-08 is the last teaching day of the semester.
 - Exam window Mon 2027-01-11 to Mon 2027-01-18: no exam for this course; used to mark the retrospective.
-- **Grades and comments due Wed 2027-01-20.** LB9 (Tue 2027-01-19) lands after the deadline and carries no Semester 1 weight — it counts toward Semester 2, and this is said aloud "or it looks like a trick".
+- **Grades and comments due Wed 2027-01-20.** LB9 (Tue 2027-01-19) falls after this deadline and carries no Semester 1 weight — it counts toward Semester 2.
 - Last school day Fri 2027-01-22. Winter vacation 2027-01-24 to 02-21.
+
+These dates may shift when the school publishes the calendar for this period.
 
 ## Lessons
 

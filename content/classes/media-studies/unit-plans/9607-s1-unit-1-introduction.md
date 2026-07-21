@@ -9,7 +9,6 @@ related:
   - "[[classes/media-studies/assessments/9607-s1-assessments]]"
 modified: 2026-07-19
 ---
-
 # 9607 S1 Unit 1: Introduction
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-semester-1-plan|Semester 1 Plan]] · Unit 1 of 6 · [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] →
@@ -18,9 +17,9 @@ modified: 2026-07-19
 
 ## What this unit does
 
-One-week induction. It installs Language, Representation, Industry and Audience as the working spine of the two-year course, teaches media as mediation ("a version, not a window"), and drills the discipline A1 will be marked on — denotation before connotation — ending with the course's first graded task on day three.
+A one-week induction. It introduces Language, Representation, Industry and Audience as the working spine of the two-year course, teaches media as mediation ("a version, not a window"), and drills the skill A1 will be marked on — denotation before connotation — ending with your first graded task on day three.
 
-*Numbering note: "U1" here is the S1 calendar band. The coursebook's "Units 1–8" is a different numbering system; its Unit 1 (Introduction to Media) covers similar ground at greater length.*
+*Numbering note: "U1" here refers to the Semester 1 calendar band. The coursebook uses a separate numbering ("Units 1–8"); its Unit 1 (Introduction to Media) covers similar ground at greater length.*
 
 ## Dates & span
 

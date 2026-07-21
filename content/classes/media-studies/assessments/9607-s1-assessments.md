@@ -13,20 +13,21 @@ related:
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-19
 ---
-
 # 9607 S1 Assessments
 
-Full register for G11 (AS) Semester 1, 2026-27: **4 attainments + 11 Course Skills items (CS1–CS9 + HW1–HW2) + 7 Learning Behaviour postings + 1 End of Term Exam** across 21 weeks (11 full, 9 reduced, 1 no-teaching). Weights per [[shared/bnds-assessment-framework|BNDS framework]]: Attainment 50% · Course Skills 20% · Learning Behaviour 10% · End of Term 20%.
+G11 (AS) Semester 1, 2026-27: **4 attainments + 11 Course Skills items (CS1–CS9 + HW1–HW2) + 6 Learning Behaviour postings + 1 End of Term Exam** across 21 weeks. Weights per [[shared/bnds-assessment-framework|BNDS framework]]: Attainment 50% · Course Skills 20% · Learning Behaviour 10% · End of Term 20%.
 
 ## Attainments and End of Term Exam
 
 | Code | Date | Task | AO | Format |
 | --- | --- | --- | --- | --- |
 | A1 | Wed 2026-10-14 | Timed media language analysis, unseen TV-drama extract | AO1+AO2 | 60 min writing, exam conditions, Wednesday double ([[classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis\|L06]]) |
-| A2 | Mon 2026-10-26 | C1 blog mid-point: posts 1–7 | AO3 | Blog URLs submitted in the first five minutes of class ([[classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product\|L08]]) |
-| A3 | Fri 2026-11-27 | C1 portfolio complete: product + CCR + dated blog | AO2+AO3 | Official C1 criteria (old-spec AO2 20 + AO3 80, scaled to 50); no edits after; returned Tue 12-01 ([[classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission\|L11]]) |
-| A4 | Wed 2026-12-16 | C2 Section A in authentic format, unseen extract | AO1+AO2 | 30 min viewing/notes + 45 min writing; Forecast Grade anchor, marked to CIE band descriptors with AO splits recorded ([[classes/media-studies/lesson-plans/9607-s1-lesson-13-a4-section-a-in-authentic-format\|L13]]) |
-| EoT | window Mon 2027-01-11 → Mon 01-18 | Full Component 2 paper | AO1+AO2 | 2 hours, exam venue, slot set by exam office; book screening facilities for Section A; 20% category ([[classes/media-studies/lesson-plans/9607-s1-lesson-16-end-of-term-exam-and-return\|L16]]) |
+| A2 | Mon 2026-10-26 | C1 blog mid-point: posts 1–7 | AO3 | Submit your blog URLs in the first five minutes of class ([[classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product\|L08]]) |
+| A3 | Fri 2026-11-27 | C1 portfolio complete: product + CCR + dated blog | AO2+AO3 | Official C1 criteria (old-spec AO2 20 + AO3 80, scaled to 50); no edits after submission; returned Tue 12-01 ([[classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission\|L11]]) |
+| A4 | Wed 2026-12-16 | C2 Section A in authentic format, unseen extract | AO1+AO2 | 30 min viewing/notes + 45 min writing; marked to CIE band descriptors with AO splits recorded ([[classes/media-studies/lesson-plans/9607-s1-lesson-13-a4-section-a-in-authentic-format\|L13]]) |
+| EoT | window Mon 2027-01-11 → Mon 01-18 | Full Component 2 paper | AO1+AO2 | 2 hours, exam venue, slot set by the exam office; 20% category ([[classes/media-studies/lesson-plans/9607-s1-lesson-16-end-of-term-exam-and-return\|L16]]) |
+
+The exact End of Term slot within the window is set by the exam office and will be confirmed in class.
 
 ## Course Skills tasks and break homework
 
@@ -53,7 +54,6 @@ Full register for G11 (AS) Semester 1, 2026-27: **4 attainments + 11 Course Skil
 | LB3 | Tue 2026-11-03 | W10 | Screening participation, peer response quality |
 | LB4 | Tue 2026-12-01 | W14 | Response to feedback: one production target logged |
 | LB5 | Wed 2026-12-23 | W17 | Case-study document contributions |
-| ~~LB6~~ | ~~Wed 2026-12-30~~ | ~~W18~~ | 🚫 **CANCELLED 2026-07-19** — W18 is winter break, confirmed. There is no teaching week to cover, so the one-grade-per-week rule has nothing to satisfy; the LB layer drops to **LB1–LB5 + LB7 (6 postings)**. Renumbering deliberately not done, so the gap stays visible |
 | LB7 | Wed 2027-01-20 | W21 | Response to feedback; Semester 2 goal setting |
 
-LB postings cover exactly the weeks with no CS task or attainment (W5, W6, W10, W14, W17, W18, W21), satisfying the one-grade-per-week rule.
+LB postings cover the weeks with no CS task or attainment: W5, W6, W10, W14, W17, W21. There is no LB6, as W18 falls in winter break with no teaching week to cover.

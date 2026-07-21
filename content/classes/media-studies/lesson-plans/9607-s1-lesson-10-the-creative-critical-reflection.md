@@ -8,7 +8,6 @@ related:
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission]]"
 modified: 2026-07-17
 ---
-
 # 9607 S1 Lesson 10: The Creative Critical Reflection
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-4-representation|Unit 4]] · Lesson 10 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze|L09]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission|L11]] →
@@ -27,18 +26,18 @@ modified: 2026-07-17
 
 ## Goal
 
-One week, one artifact: the creative critical reflection that carries a fifth of the A3 marks in disguise, because it is where AO2 lives in the portfolio. The two-day block drafts the honest versions of Q1 and Q2; the double drafts Q3 and Q4 and immediately reviews the whole draft against the actual C1 criteria; Friday is pure redrafting under the schedule's own instruction, which doubles as the success criterion: cut every sentence that describes instead of reflects.
+One week, one artifact: the creative critical reflection (CCR) that carries a fifth of the A3 marks, because it is where AO2 lives in the portfolio. Over the two-day block you draft Q1 and Q2; in the double you draft Q3 and Q4 and review the whole draft against the C1 criteria; Friday is pure redrafting, with one success criterion: cut every sentence that describes instead of reflects.
 
 ## How it runs
 
-- **D1–2 (Mon+Tue block):** Q1 drafted (conventions and social groups) against the blog's own evidence; Q2 drafted (audience and distribution); both days end with one honest sentence added that flatters nobody.
-- **D3 (Wed, double):** Q3 and Q4 drafted in the first half; then **CS7** — teacher and peer review of full drafts against the C1 criteria, describe–question–suggest, actions logged per draft.
-- **D4 (Fri, single — Foreign Culture Day flag, confirm it runs):** sentence surgery — every sentence tested as describe or reflect; describers cut or converted; redraft posted before leaving.
+- **D1–2 (Mon+Tue block):** Draft Q1 (conventions and social groups) against your blog's own evidence; draft Q2 (audience and distribution). Each day ends with one honest sentence added.
+- **D3 (Wed, double):** Draft Q3 and Q4 in the first half; then **CS7** — teacher and peer review of full drafts against the C1 criteria, using describe–question–suggest, with actions logged per draft.
+- **D4 (Fri, single):** Sentence surgery — test every sentence as describe or reflect; cut or convert the describers; post your redraft before leaving. (This session falls on Foreign Culture Day; whether it runs will be confirmed in class.)
 
 ## Assessment
 
 | Item | Date | What | AO |
 |---|---|---|---|
-| CS7 | Wed 2026-11-18 | CCR draft review against the real C1 criteria; register-named direct practice for A3 | AO2 |
+| CS7 | Wed 2026-11-18 | CCR draft review against the C1 criteria; direct practice for A3 | AO2 |
 
 See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
