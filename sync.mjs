@@ -61,6 +61,16 @@ const HEROES = {
     "articles-of-glass",
   "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-09-a2-the-photographic-series.md":
     "atget-rue-moliere",
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-10-juxtaposition-and-scale.md":
+    "guitar-gas-jet",
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-11-layering-text-and-image.md":
+    "lissitzky-schwitters",
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-12-theme-and-composition-drafts.md":
+    "vanitas",
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-13-final-collage-production.md":
+    "assembling",
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage.md":
+    "cahun-self-portrait",
 }
 
 // Inline figures (2026-07-21): lesson pages carry period exemplars from the shared
@@ -95,6 +105,18 @@ const FIGURES = {
       anchor: /take any one image away|kill-your-darlings/i,
     },
     { slugs: ["yosemite-fall"], anchor: /opener/i },
+  ],
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-10-juxtaposition-and-scale.md": [
+    { slugs: ["kahnweiler"], anchor: /glue newspaper|papier collé/i },
+  ],
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-11-layering-text-and-image.md": [
+    {
+      slugs: ["talbot-lace", "rubens-title-page"],
+      anchor: /torn edge|transparency/i,
+    },
+  ],
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-12-theme-and-composition-drafts.md": [
+    { slugs: ["impossible-bouquet"], anchor: /vanitas|none of this lasts/i },
   ],
 }
 
@@ -564,8 +586,9 @@ const written = new Set()
 for (const { rel, frontmatter, body: cleaned } of pages) {
   let body = cleaned
   const depth = rel.split("/").length - 1
-  if (HEROES[rel]) body = heroFigure(HEROES[rel], depth) + body
+  // Figures first: their anchors must match page content, not the hero's caption.
   if (FIGURES[rel]) body = insertFigures(body, FIGURES[rel], depth)
+  if (HEROES[rel]) body = heroFigure(HEROES[rel], depth) + body
 
   const dest = join(OUT, rel)
   await mkdir(dirname(dest), { recursive: true })

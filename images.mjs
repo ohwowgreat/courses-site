@@ -188,6 +188,53 @@ const PLATES = [
     file: "Photographers/Carleton E. Watkins/Carleton E. Watkins, Lower Yosemite Fall, 1,600 feet, ca. 1872, printed ca. 1876.jpeg",
     credit: "Carleton Watkins, *Lower Yosemite Fall*, c. 1872",
   },
+  // PAL S1 U3 collage heroes + inline figures (added 2026-07-21).
+  // Pre-1930 publication throughout, per the policy above.
+  {
+    slug: "guitar-gas-jet",
+    file: "Pablo Picasso/Pablo Picasso, Guitar, Gas-Jet and Bottle, 1913.JPG",
+    credit: "Pablo Picasso, *Guitar, Gas-Jet and Bottle*, 1913",
+  },
+  {
+    slug: "kahnweiler",
+    file: "Pablo Picasso/Pablo Picasso, Portrait of Daniel-Henry Kahnweiler, 1910.JPG",
+    credit: "Pablo Picasso, *Portrait of Daniel-Henry Kahnweiler*, 1910",
+  },
+  {
+    slug: "lissitzky-schwitters",
+    file: "Photographers/El Lissitzky/El Lissitzky - Kurt Schwitters.jpg",
+    credit: "El Lissitzky, *Kurt Schwitters*, c. 1924 — a photomontage portrait of the great collagist",
+  },
+  {
+    slug: "talbot-lace",
+    file: "Photographers/William Henry Fox Talbot/William Henry Fox Talbot - Lace.jpg",
+    credit: "William Henry Fox Talbot, *Lace*, c. 1844",
+  },
+  {
+    slug: "rubens-title-page",
+    file: "Unsorted/Design for the title-page of Hermannus Hugo Obsidio Bredana，1626.png",
+    credit: "Peter Paul Rubens, title-page design for *Obsidio Bredana*, 1626",
+  },
+  {
+    slug: "vanitas",
+    file: "Dutch and Flemish Still Life Painting (Art Paintings)/Edwaert Collier (about 1640 - after 1707). Still life Vanitas (vanity) (1662) (Amsterdam, State museum).jpg",
+    credit: "Edwaert Collier, *Vanitas Still Life*, 1662",
+  },
+  {
+    slug: "impossible-bouquet",
+    file: "Dutch and Flemish Still Life Painting (Art Paintings)/Ambrosius Bosschaert the Elder (1573-1621)/Bouquet of flowers in earthenware vase (1609-1610) London, Nat. gallery).jpg",
+    credit: "Ambrosius Bosschaert the Elder, *A Still Life of Flowers*, 1609–10 — flowers that never bloom together, composed anyway",
+  },
+  {
+    slug: "assembling",
+    file: "Photographers/Aleksandr Rodchenko/Aleksandr Rodchenko - Assembling for a Demonstration.jpg",
+    credit: "Aleksandr Rodchenko, *Assembling for a Demonstration*, 1928",
+  },
+  {
+    slug: "cahun-self-portrait",
+    file: "Claude Cahun, Self-Portrait, 1920.jpeg",
+    credit: "Claude Cahun, *Self-Portrait*, 1920",
+  },
 ]
 
 await mkdir(OUT, { recursive: true })
