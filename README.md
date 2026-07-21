@@ -42,6 +42,36 @@ Keep this directory out of any synced folder. `sync.mjs` prunes strays defensive
 `quartz.config.ts` ignores conflict-copy filenames, but neither is a substitute for the
 build output not being synced in the first place.
 
+## Automated publishing
+
+Once installed, the only thing to manage is the vault — the site publishes itself.
+
+```sh
+# one-time, on the Mac:
+security add-generic-password -U -a "$USER" -s ANTHROPIC_API_KEY -w 'sk-ant-...'
+./install-autosync.sh          # daily at 18:00 (or: ./install-autosync.sh 7)
+```
+
+This registers `auto-sync.mjs` as a launchd user agent. Each run does what the manual
+workflow did — `node sync.mjs` → commit `content/` → push `main` — and Vercel deploys.
+If the Mac is asleep at the scheduled time, the run happens on wake. When nothing in
+the vault changed, the run is a no-op (all cache hits, no commit, no API cost).
+
+Automation removes the human diff review, so `auto-sync.mjs` is deliberately cowardly:
+
+- publishes only from a clean `main` that fast-forwards to origin; anything odd
+  (other branch, uncommitted edits outside `content/`, diverged history) skips with a
+  macOS notification instead of guessing;
+- **never publishes a run with a ⚠ warning** — a failed or suspicious rewrite sends a
+  notification and nothing goes out; the next scheduled run retries (failed rewrites
+  are never cached), so transient API errors self-heal;
+- the privacy filter never depends on any of this: it runs deterministically inside
+  `sync.mjs` before any page reaches the model.
+
+Runs log to `~/Library/Logs/courses-autosync.log`. Test a run immediately with
+`launchctl start com.courses-site.autosync`; uninstall with
+`launchctl unload ~/Library/LaunchAgents/com.courses-site.autosync.plist`.
+
 ## Rebuild after changing the vault
 
 ```sh
