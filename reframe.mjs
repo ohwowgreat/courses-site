@@ -63,6 +63,12 @@ const LEAK_MARKERS = [
   /confirm, do not infer/i,
   /still to write/i,
   /not yet drawn/i,
+  // Audience-classifier meta-vocabulary: describes who a page is *for*, which
+  // reads wrong on the student site itself. Kept to the two literal terms that
+  // name this site's own audiences — a broad /-facing/ net would fire on
+  // legitimate course prose ("Component 1-facing", "industry-facing").
+  /student-facing/i,
+  /teacher-facing/i,
 ]
 
 const hashOf = (body) =>
