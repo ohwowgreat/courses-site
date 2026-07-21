@@ -10,7 +10,7 @@ related:
 modified: 2026-07-20
 ---
 <figure class="plate plate--hero">
-  <img src="../../static/img/pre-a-level-art-design.jpg" alt="Alphonse Mucha, Calendar of Cherry Blossom, 1898" />
+  <img src="../../static/img/pre-a-level-art-design.jpg" alt="Alphonse Mucha, Calendar of Cherry Blossom, 1898" loading="lazy" />
   <figcaption>Alphonse Mucha, <em>Calendar of Cherry Blossom</em>, 1898</figcaption>
 </figure>
 

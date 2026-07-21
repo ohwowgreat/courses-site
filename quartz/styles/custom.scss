@@ -103,6 +103,20 @@ h6 {
   }
 }
 
+// Two or three plates side by side (lesson-page exemplar rows). Single column
+// on narrow screens; captions stay under their own image.
+.plate-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.4rem;
+  align-items: start;
+  margin: 0 0 2.6rem;
+
+  .plate {
+    margin: 0;
+  }
+}
+
 // Every hero is cropped to the same band, so portrait-format work (Mucha,
 // Utamaro) opens a page the same way as landscape work.
 //

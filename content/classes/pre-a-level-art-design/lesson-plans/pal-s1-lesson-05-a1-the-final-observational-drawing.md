@@ -11,7 +11,7 @@ related:
 modified: 2026-07-20
 ---
 <figure class="plate plate--hero">
-  <img src="../../../static/img/drawn-from-life.jpg" alt="Ilya Repin, Portrait of a Russian Peasant, 1871" />
+  <img src="../../../static/img/drawn-from-life.jpg" alt="Ilya Repin, Portrait of a Russian Peasant, 1871" loading="lazy" />
   <figcaption>Ilya Repin, <em>Portrait of a Russian Peasant</em>, 1871</figcaption>
 </figure>
 

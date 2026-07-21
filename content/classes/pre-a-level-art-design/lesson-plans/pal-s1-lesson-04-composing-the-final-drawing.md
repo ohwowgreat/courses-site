@@ -12,7 +12,7 @@ related:
 modified: 2026-07-20
 ---
 <figure class="plate plate--hero">
-  <img src="../../../static/img/composition.jpg" alt="Clara Peeters, Still Life with Cheeses, Almonds and Pretzels, c. 1613" />
+  <img src="../../../static/img/composition.jpg" alt="Clara Peeters, Still Life with Cheeses, Almonds and Pretzels, c. 1613" loading="lazy" />
   <figcaption>Clara Peeters, <em>Still Life with Cheeses, Almonds and Pretzels</em>, c. 1613</figcaption>
 </figure>
 

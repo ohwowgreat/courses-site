@@ -11,7 +11,7 @@ related:
 modified: 2026-07-20
 ---
 <figure class="plate plate--hero">
-  <img src="../../static/img/media-studies.jpg" alt="Édouard Manet, A Bar at the Folies-Bergère, 1882" />
+  <img src="../../static/img/media-studies.jpg" alt="Édouard Manet, A Bar at the Folies-Bergère, 1882" loading="lazy" />
   <figcaption>Édouard Manet, <em>A Bar at the Folies-Bergère</em>, 1882</figcaption>
 </figure>
 

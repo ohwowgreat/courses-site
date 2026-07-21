@@ -12,7 +12,7 @@ related:
 modified: 2026-07-20
 ---
 <figure class="plate plate--hero">
-  <img src="../../../static/img/mark-making.jpg" alt="Peter Paul Rubens, Anatomical Studies, pen and ink, c. 1605" />
+  <img src="../../../static/img/mark-making.jpg" alt="Peter Paul Rubens, Anatomical Studies, pen and ink, c. 1605" loading="lazy" />
   <figcaption>Peter Paul Rubens, <em>Anatomical Studies</em>, pen and ink, c. 1605</figcaption>
 </figure>
 

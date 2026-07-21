@@ -10,7 +10,7 @@ related:
 modified: 2026-07-18
 ---
 <figure class="plate plate--hero">
-  <img src="../../static/img/a-level-art-design.jpg" alt="Paul Cézanne, A Painter at Work, 1875" />
+  <img src="../../static/img/a-level-art-design.jpg" alt="Paul Cézanne, A Painter at Work, 1875" loading="lazy" />
   <figcaption>Paul Cézanne, <em>A Painter at Work</em>, 1875</figcaption>
 </figure>
 

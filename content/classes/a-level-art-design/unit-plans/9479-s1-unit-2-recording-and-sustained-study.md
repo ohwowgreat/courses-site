@@ -10,7 +10,7 @@ related:
 modified: 2026-07-17
 ---
 <figure class="plate plate--hero">
-  <img src="../../../static/img/observation.jpg" alt="Vincent van Gogh, The Potato Peeler, 1885" />
+  <img src="../../../static/img/observation.jpg" alt="Vincent van Gogh, The Potato Peeler, 1885" loading="lazy" />
   <figcaption>Vincent van Gogh, <em>The Potato Peeler</em>, 1885</figcaption>
 </figure>
 

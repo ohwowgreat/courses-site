@@ -5,7 +5,7 @@ related:
 modified: 2026-07-19
 ---
 <figure class="plate plate--hero">
-  <img src="static/img/calendar.jpg" alt="Pieter Bruegel the Elder, The Hunters in the Snow, 1565" />
+  <img src="static/img/calendar.jpg" alt="Pieter Bruegel the Elder, The Hunters in the Snow, 1565" loading="lazy" />
   <figcaption>Pieter Bruegel the Elder, <em>The Hunters in the Snow</em>, 1565</figcaption>
 </figure>
 

@@ -4,7 +4,7 @@ tags: [home]
 ---
 
 <figure class="plate plate--hero">
-  <img src="static/img/home.jpg" alt="Zhang Zeduan, Along the River During the Qingming Festival (detail), 12th century" />
+  <img src="static/img/home.jpg" alt="Zhang Zeduan, Along the River During the Qingming Festival (detail), 12th century" loading="lazy" />
   <figcaption>Zhang Zeduan, <em>Along the River During the Qingming Festival</em> (detail), 12th century</figcaption>
 </figure>
 

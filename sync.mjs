@@ -53,23 +53,108 @@ const HEROES = {
     "composition",
   "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing.md":
     "drawn-from-life",
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-06-framing-and-viewpoint.md":
+    "the-great-wave",
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-07-light-shadow-and-the-series-theme.md":
+    "lincoln-cathedral",
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-08-the-theme-shoot-and-the-contact-sheet-edit.md":
+    "articles-of-glass",
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-09-a2-the-photographic-series.md":
+    "atget-rue-moliere",
+}
+
+// Inline figures (2026-07-21): lesson pages carry period exemplars from the shared
+// library, inserted after the paragraph that first matches `anchor`. Anchors are
+// content facts rather than headings, chosen to survive the reframe stage; an
+// unmatched figure lands at the end of the body instead of vanishing, so the git
+// diff of content/ shows exactly where each one settled. Entries with several
+// slugs render side by side as a .plate-row grid.
+const FIGURES = {
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-06-framing-and-viewpoint.md": [
+    {
+      slugs: ["sea-of-steps", "st-pauls-spires", "canon-de-chelle"],
+      anchor: /vantage point|rule of thirds/i,
+    },
+  ],
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-07-light-shadow-and-the-series-theme.md": [
+    {
+      slugs: ["girl-with-washington", "kasebier-portrait", "the-tugboat"],
+      anchor: /diffused/i,
+    },
+    { slugs: ["cloud-sequence"], anchor: /Ueda|one subject, idea, or rule/i },
+  ],
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-08-the-theme-shoot-and-the-contact-sheet-edit.md": [
+    {
+      slugs: ["yosemite-mosquito-camp", "yosemite-rocky-ford"],
+      anchor: /everything small|contact sheet:/i,
+    },
+  ],
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-09-a2-the-photographic-series.md": [
+    {
+      slugs: ["atget-rue-mazet", "atget-avenue-de-suffren", "atget-rue-mazarine"],
+      anchor: /take any one image away|kill-your-darlings/i,
+    },
+    { slugs: ["yosemite-fall"], anchor: /opener/i },
+  ],
 }
 
 const credits = JSON.parse(await readFile(join(import.meta.dirname, "credits.json"), "utf8"))
 
 // Depth-relative path, so the site still works if it's ever served from a subpath.
-function heroFigure(slug, depth) {
+function figureHtml(slug, depth, cls = "plate") {
   const credit = credits[slug]
   if (!credit) return ""
   const prefix = "../".repeat(depth)
   const caption = credit.replace(/\*([^*]+)\*/g, "<em>$1</em>")
   const alt = credit.replace(/\*/g, "")
   return (
-    `<figure class="plate plate--hero">\n` +
-    `  <img src="${prefix}static/img/${slug}.jpg" alt="${alt}" />\n` +
+    `<figure class="${cls}">\n` +
+    `  <img src="${prefix}static/img/${slug}.jpg" alt="${alt}" loading="lazy" />\n` +
     `  <figcaption>${caption}</figcaption>\n` +
-    `</figure>\n\n`
+    `</figure>\n`
   )
+}
+
+const heroFigure = (slug, depth) => {
+  const html = figureHtml(slug, depth, "plate plate--hero")
+  return html && html + "\n"
+}
+
+// A FIGURES entry rendered to HTML: one figure, or several in a .plate-row grid.
+function figureBlock(slugs, depth) {
+  const figs = slugs.map((s) => figureHtml(s, depth)).filter(Boolean)
+  if (!figs.length) return ""
+  if (figs.length === 1) return figs[0] + "\n"
+  return `<div class="plate-row">\n${figs.join("")}</div>\n\n`
+}
+
+// Insert each figure after its anchor's first match: directly after the matched
+// bullet when the anchor lands inside a list item (splitting the list around the
+// figure), otherwise after the containing paragraph; no match → end of the body.
+function insertFigures(body, entries, depth) {
+  for (const entry of entries) {
+    const html = figureBlock(entry.slugs, depth)
+    if (!html) continue
+    const at = body.search(entry.anchor)
+    if (at === -1) {
+      body = body.trimEnd() + "\n\n" + html
+      continue
+    }
+    const lineStart = body.lastIndexOf("\n", at) + 1
+    const lineEnd = body.indexOf("\n", at)
+    const isBullet = body.startsWith("- ", lineStart)
+    let pos
+    if (isBullet && lineEnd !== -1) pos = lineEnd + 1
+    else {
+      const paraEnd = body.indexOf("\n\n", at)
+      pos = paraEnd === -1 ? -1 : paraEnd + 2
+    }
+    body =
+      pos === -1
+        ? body.trimEnd() + "\n\n" + html
+        : body.slice(0, pos) + "\n" + html + body.slice(pos)
+  }
+  return body
 }
 
 // Pages that never reach students. Paths are relative to the vault's wiki/ root.
@@ -478,7 +563,9 @@ await mkdir(OUT, { recursive: true })
 const written = new Set()
 for (const { rel, frontmatter, body: cleaned } of pages) {
   let body = cleaned
-  if (HEROES[rel]) body = heroFigure(HEROES[rel], rel.split("/").length - 1) + body
+  const depth = rel.split("/").length - 1
+  if (HEROES[rel]) body = heroFigure(HEROES[rel], depth) + body
+  if (FIGURES[rel]) body = insertFigures(body, FIGURES[rel], depth)
 
   const dest = join(OUT, rel)
   await mkdir(dirname(dest), { recursive: true })

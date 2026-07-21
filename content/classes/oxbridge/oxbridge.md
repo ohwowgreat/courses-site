@@ -5,7 +5,7 @@ related:
 modified: 2026-07-18
 ---
 <figure class="plate plate--hero">
-  <img src="../../static/img/oxbridge.jpg" alt="Raphael, The School of Athens, 1509–11" />
+  <img src="../../static/img/oxbridge.jpg" alt="Raphael, The School of Athens, 1509–11" loading="lazy" />
   <figcaption>Raphael, <em>The School of Athens</em>, 1509–11</figcaption>
 </figure>
 

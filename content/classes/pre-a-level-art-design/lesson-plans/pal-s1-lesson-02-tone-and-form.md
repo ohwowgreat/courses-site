@@ -12,7 +12,7 @@ related:
 modified: 2026-07-20
 ---
 <figure class="plate plate--hero">
-  <img src="../../../static/img/tone-and-form.jpg" alt="Peter Paul Rubens, Head of a Boy (Nicolaas Rubens), c. 1619" />
+  <img src="../../../static/img/tone-and-form.jpg" alt="Peter Paul Rubens, Head of a Boy (Nicolaas Rubens), c. 1619" loading="lazy" />
   <figcaption>Peter Paul Rubens, <em>Head of a Boy (Nicolaas Rubens)</em>, c. 1619</figcaption>
 </figure>
 

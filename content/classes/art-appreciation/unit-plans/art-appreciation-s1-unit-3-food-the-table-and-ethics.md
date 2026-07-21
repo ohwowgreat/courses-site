@@ -14,7 +14,7 @@ related:
 modified: 2026-07-19
 ---
 <figure class="plate plate--hero">
-  <img src="../../../static/img/the-table.jpg" alt="Jan Steen, The Merry Family, 1668" />
+  <img src="../../../static/img/the-table.jpg" alt="Jan Steen, The Merry Family, 1668" loading="lazy" />
   <figcaption>Jan Steen, <em>The Merry Family</em>, 1668</figcaption>
 </figure>
 

@@ -101,6 +101,93 @@ const PLATES = [
     file: "Ilya Repin (Drawings)/Ilya Repin, Portrait of a Russian Peasant, 1871.jpg",
     credit: "Ilya Repin, *Portrait of a Russian Peasant*, 1871",
   },
+  // PAL S1 U2 photography heroes + inline figures (added 2026-07-21).
+  // All pre-1930 public domain, per the policy above.
+  {
+    slug: "the-great-wave",
+    file: "Photographers/Gustave Le Gray/Gustave Le Gray - The Great Wave, Sète.jpg",
+    credit: "Gustave Le Gray, *The Great Wave, Sète*, 1857",
+  },
+  {
+    slug: "sea-of-steps",
+    file: "Photographers/Frederick H. Evans/Frederick H. Evans - A Sea of Steps, Wells Cathedral.jpg",
+    credit: "Frederick H. Evans, *A Sea of Steps, Wells Cathedral*, 1903",
+  },
+  {
+    slug: "st-pauls-spires",
+    file: "Photographers/Alvin Langdon Coburn/Alvin Langdon Coburn - St. Paul's and Other Spires.jpg",
+    credit: "Alvin Langdon Coburn, *St. Paul's and Other Spires*, c. 1909",
+  },
+  {
+    slug: "canon-de-chelle",
+    file: "Photographers/Timothy O'Sullivan/Ancient Ruins in the Cañon de Chelle, New Mexico. In a Niche Fifty Feet Above Present Cañon Bed, Timothy O'Sullivan, 1873.jpg",
+    credit: "Timothy O'Sullivan, *Ancient Ruins in the Cañon de Chelle*, 1873",
+  },
+  {
+    slug: "lincoln-cathedral",
+    file: "Photographers/Frederick H. Evans/Lincoln Cathedral From the Castle, Frederick H. Evans, 1898.jpg",
+    credit: "Frederick H. Evans, *Lincoln Cathedral From the Castle*, 1898",
+  },
+  {
+    slug: "girl-with-washington",
+    file: "Photographers/Southworth & Hawes/Southworth and Hawes, [Girl with Portrait of George Washington], ca. 1850.jpeg",
+    credit: "Southworth & Hawes, *Girl with Portrait of George Washington*, c. 1850",
+  },
+  {
+    slug: "kasebier-portrait",
+    file: "Photographers/Gertrude Käsebier/Gertrude Käsebier, Portrait, c. 1905.jpg",
+    credit: "Gertrude Käsebier, *Portrait*, c. 1905",
+  },
+  {
+    slug: "the-tugboat",
+    file: "Photographers/Gustave Le Gray/Gustave Le Gray, The Tugboat, 1857.jpeg",
+    credit: "Gustave Le Gray, *The Tugboat*, 1857",
+  },
+  {
+    slug: "cloud-sequence",
+    file: "Photographers/Alfred Stieglitz/Music – A Sequence of Ten Cloud Photographs, No. 1 by Alfred Stieglitz.jpg",
+    credit: "Alfred Stieglitz, *Music: A Sequence of Ten Cloud Photographs, No. 1*, 1922",
+  },
+  {
+    slug: "articles-of-glass",
+    file: "Photographers/William Henry Fox Talbot/Articles of Glass, William Henry Fox Talbot, 1844.jpg",
+    credit: "William Henry Fox Talbot, *Articles of Glass*, 1844",
+  },
+  {
+    slug: "yosemite-mosquito-camp",
+    file: "Photographers/Eadweard J. Muybridge/Eadweard J. Muybridge, Valley of the Yosemite. From Mosquito Camp, 1872.jpg",
+    credit: "Eadweard Muybridge, *Valley of the Yosemite, from Mosquito Camp*, 1872",
+  },
+  {
+    slug: "yosemite-rocky-ford",
+    file: "Photographers/Eadweard J. Muybridge/Valley of the Yosemite, from Rocky Ford, 1872 .jpg",
+    credit: "Eadweard Muybridge, *Valley of the Yosemite, from Rocky Ford*, 1872",
+  },
+  {
+    slug: "atget-rue-moliere",
+    file: "Photographers/Eugène Atget/108 rue Molière, Eugène Atget, 1908.jpg",
+    credit: "Eugène Atget, *108 rue Molière*, 1908",
+  },
+  {
+    slug: "atget-rue-mazet",
+    file: "Photographers/Eugène Atget/10 de la Rue Mazet, Eugène Atget, 1907 .jpg",
+    credit: "Eugène Atget, *10 rue Mazet*, 1907",
+  },
+  {
+    slug: "atget-avenue-de-suffren",
+    file: "Photographers/Eugène Atget/106 avenue de Suffren, Eugène Atget, 1907.jpg",
+    credit: "Eugène Atget, *106 avenue de Suffren*, 1907",
+  },
+  {
+    slug: "atget-rue-mazarine",
+    file: "Photographers/Eugène Atget/21 Rue Mazarine (Cour), Eugène Atget, 1911.jpg",
+    credit: "Eugène Atget, *21 rue Mazarine*, 1911",
+  },
+  {
+    slug: "yosemite-fall",
+    file: "Photographers/Carleton E. Watkins/Carleton E. Watkins, Lower Yosemite Fall, 1,600 feet, ca. 1872, printed ca. 1876.jpeg",
+    credit: "Carleton Watkins, *Lower Yosemite Fall*, c. 1872",
+  },
 ]
 
 await mkdir(OUT, { recursive: true })

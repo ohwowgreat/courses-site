@@ -9,7 +9,7 @@ related:
 modified: 2026-07-19
 ---
 <figure class="plate plate--hero">
-  <img src="../../static/img/art-appreciation.jpg" alt="Pieter Bruegel the Elder, The Peasant Wedding, 1567" />
+  <img src="../../static/img/art-appreciation.jpg" alt="Pieter Bruegel the Elder, The Peasant Wedding, 1567" loading="lazy" />
   <figcaption>Pieter Bruegel the Elder, <em>The Peasant Wedding</em>, 1567</figcaption>
 </figure>
 

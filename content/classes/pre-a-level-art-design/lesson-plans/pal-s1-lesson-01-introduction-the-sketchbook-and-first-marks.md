@@ -11,7 +11,7 @@ related:
 modified: 2026-07-20
 ---
 <figure class="plate plate--hero">
-  <img src="../../../static/img/first-marks.jpg" alt="Ilya Repin, Leo Tolstoy at Work, 1891" />
+  <img src="../../../static/img/first-marks.jpg" alt="Ilya Repin, Leo Tolstoy at Work, 1891" loading="lazy" />
   <figcaption>Ilya Repin, <em>Leo Tolstoy at Work</em>, 1891</figcaption>
 </figure>
 

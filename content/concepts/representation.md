@@ -10,7 +10,7 @@ related:
 modified: 2026-07-20
 ---
 <figure class="plate plate--hero">
-  <img src="../static/img/representation.jpg" alt="Kitagawa Utamaro, Two Women by a Bamboo Blind, c. 1797" />
+  <img src="../static/img/representation.jpg" alt="Kitagawa Utamaro, Two Women by a Bamboo Blind, c. 1797" loading="lazy" />
   <figcaption>Kitagawa Utamaro, <em>Two Women by a Bamboo Blind</em>, c. 1797</figcaption>
 </figure>
 
