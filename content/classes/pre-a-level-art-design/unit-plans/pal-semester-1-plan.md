@@ -12,7 +12,7 @@ modified: 2026-07-19
 
 > [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · Semester 1 (Grade 10 Art)
 
-**Grade 10 Art, Autumn 2026-27.** One double session every Wednesday: **17 sessions, 2026-09-02 → 2027-01-06**, plus a return session on 2027-01-20. There are four units, each closing on a final you make in class. A lost Wednesday costs a whole unit stage, so attendance matters. Dates follow the [[calendar|school calendar]] and may shift when the school publishes the calendar for this period; any changes will be confirmed in class. Juniors Days are G11-only, so those Wednesdays still teach for you.
+**Grade 10 Art, Autumn 2026-27.** One double session every Wednesday: **17 sessions, 2026-09-02 → 2027-01-06**, plus a return session on 2027-01-20. There are four units, each closing on a final made in class. Remember: **a lost Wednesday costs a whole unit stage**, so attendance matters. Dates follow the [[calendar|school calendar]]; the Juniors Days are Grade 11 only, so those Wednesdays still teach.
 
 ## The four units
 
@@ -21,15 +21,17 @@ modified: 2026-07-19
 | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements\|U1 Drawing & the Visual Elements]] | W1–5 | **A1** observational drawing, Wed 2026-09-30 |
 | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography\|U2 Photography]] | W7–10 | **A2** photographic series, Wed 2026-11-04 |
 | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage\|U3 Collage]] | W11–15 | **A3** final collage, Wed 2026-12-09 |
-| [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster\|U4 Graphic Design & the Poster]] | W16–19 (3 sessions) | **A4** final poster, Wed **2026-12-23**, or a linocut print under the [[classes/pre-a-level-art-design/lesson-plans/pal-s1-u4-printmaking-variant\|printmaking variant]] |
+| [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster\|U4 Graphic Design & the Poster]] | W16–19 (3 sessions) | **A4** final poster, Wed **2026-12-23** |
 
-U4 runs as either graphic design (the poster) or printmaking (linocut); which form runs will be confirmed in class. Each unit page carries the session-by-session detail. Full register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+U4 runs as **Graphic Design / Printmaking**: your U4 final is either the poster or a linocut print under the [[classes/pre-a-level-art-design/lesson-plans/pal-s1-u4-printmaking-variant|printmaking variant]]. Which form it takes will be confirmed in class.
+
+Each unit page carries the session-by-session detail: U1 [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-01-introduction-the-sketchbook-and-first-marks|L01]]–[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing|L05]] · U2 [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-06-framing-and-viewpoint|L06]]–[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-09-a2-the-photographic-series|L09]] · U3 [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-10-juxtaposition-and-scale|L10]]–[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage|L14]] · U4 [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-15-the-poster-message-audience-hierarchy|L15]]–[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-17-the-portfolio-and-the-sketchbook|L17]], with the [[classes/pre-a-level-art-design/lesson-plans/pal-s1-u4-printmaking-variant|printmaking variant]] as U4's alternative route. Full register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
 
 ## The Wednesdays
 
 | Wk | Wed | Session | Content |
 |---|---|---|---|
-| W1 | 09-02 | 1/17 | **First half:** First Session Opener (introductions, getting to know the group). **Second half:** [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-01-introduction-the-sketchbook-and-first-marks|U1·L1]] intro + line studies |
+| W1 | 09-02 | 1/17 | **First half:** first session opener (introductions, getting to know the group). **Second half:** [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-01-introduction-the-sketchbook-and-first-marks|U1·L1]] intro + line studies |
 | W2 | 09-09 | 2 | U1·L2 tone and form |
 | W3 | 09-16 | 3 | U1·L3 texture/mark-making |
 | W4 | 09-23 | 4 | U1·L4 compose + begin final drawing; **CS1** |
@@ -53,6 +55,6 @@ U4 runs as either graphic design (the poster) or printmaking (linocut); which fo
 
 ## Grading
 
-**Grade split:** Attainment 50 / Course Skills 20 / Learning Behavior 10 / Final 20 — see [[shared/bnds-assessment-framework]].
+Grade scale: A\* ≥ 90 · A ≥ 80 · B ≥ 70 · C ≥ 60 · D ≥ 50 · E ≥ 40 · U ≥ 0.
 
-**Grading scale:** A\* ≥ 90 · A ≥ 80 · B ≥ 70 · C ≥ 60 · D ≥ 50 · E ≥ 40 · U ≥ 0.
+Grade split: Attainment 50 / Course Skills 20 / Learning Behaviour 10 / Final 20 — see [[shared/bnds-assessment-framework]].

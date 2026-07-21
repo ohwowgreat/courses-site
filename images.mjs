@@ -235,6 +235,32 @@ const PLATES = [
     file: "Claude Cahun, Self-Portrait, 1920.jpeg",
     credit: "Claude Cahun, *Self-Portrait*, 1920",
   },
+  // PAL S1 U4 poster-route heroes + inline figures (added 2026-07-21).
+  {
+    slug: "mucha-poster",
+    file: "Alphonse Mucha, Calendar of cherry blossom, 1898.jpeg",
+    credit: "Alphonse Mucha, *Calendar of Cherry Blossom*, 1898",
+  },
+  {
+    slug: "gsell-advertisement",
+    file: "Photographers/Emile Gsell/Photographic Advertisement - 1860s.jpg",
+    credit: "Émile Gsell, photographic advertisement, 1860s — one name card commanding a hundred photographs",
+  },
+  {
+    slug: "kawase-temple",
+    file: "Hasui Kawase, Zôjô-ji Temple in Shiba, 1925, the series Twenty Views of Tokyo, Woodblock print; ink and color on paper.jpeg",
+    credit: "Hasui Kawase, *Zôjô-ji Temple in Shiba*, 1925 — a print designed to circulate",
+  },
+  {
+    slug: "pioneer-girl",
+    file: "Photographers/Aleksandr Rodchenko/Aleksandr Rodchenko - Pioneer Girl.jpg",
+    credit: "Aleksandr Rodchenko, *Pioneer Girl*, 1930",
+  },
+  {
+    slug: "album-leaf",
+    file: "Aoki Shukuya, Double Album of Landscape Studies after Ikeno Taiga, Volume 2 (leaf 15), 18th century.jpeg",
+    credit: "Aoki Shukuya, *Double Album of Landscape Studies after Ikeno Taiga*, 18th century",
+  },
 ]
 
 await mkdir(OUT, { recursive: true })

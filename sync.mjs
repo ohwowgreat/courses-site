@@ -71,6 +71,12 @@ const HEROES = {
     "assembling",
   "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage.md":
     "cahun-self-portrait",
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-15-the-poster-message-audience-hierarchy.md":
+    "mucha-poster",
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-16-a4-the-final-poster.md":
+    "pioneer-girl",
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-17-the-portfolio-and-the-sketchbook.md":
+    "album-leaf",
 }
 
 // Inline figures (2026-07-21): lesson pages carry period exemplars from the shared
@@ -117,6 +123,12 @@ const FIGURES = {
   ],
   "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-12-theme-and-composition-drafts.md": [
     { slugs: ["impossible-bouquet"], anchor: /vanitas|none of this lasts/i },
+  ],
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-15-the-poster-message-audience-hierarchy.md": [
+    {
+      slugs: ["gsell-advertisement", "kawase-temple"],
+      anchor: /name card|Ukiyo-e|first read/i,
+    },
   ],
 }
 
