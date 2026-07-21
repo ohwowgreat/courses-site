@@ -6,7 +6,8 @@ related:
   - "[[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-13-a4-section-a-in-authentic-format]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-15-exam-rehearsal]]"
-modified: 2026-07-19
+  - "[[classes/media-studies/9607-resource-library]]"
+modified: 2026-07-21
 ---
 # 9607 S1 Lesson 14: Consolidation and the Coverage Matrix
 

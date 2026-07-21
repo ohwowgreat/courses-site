@@ -6,7 +6,8 @@ related:
   - "[[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-13-a4-section-a-in-authentic-format]]"
-modified: 2026-07-17
+  - "[[classes/media-studies/9607-resource-library]]"
+modified: 2026-07-21
 ---
 # 9607 S1 Lesson 12: Institutions and Section A Craft
 

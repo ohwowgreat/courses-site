@@ -5,7 +5,8 @@ related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-1-introduction]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-how-images-mean]]"
-modified: 2026-07-18
+  - "[[classes/media-studies/9607-resource-library]]"
+modified: 2026-07-21
 ---
 # 9607 S1 Lesson 01: The Four Key Concepts
 

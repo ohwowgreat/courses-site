@@ -11,7 +11,8 @@ related:
   - "[[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-19
+  - "[[classes/media-studies/9607-resource-library]]"
+modified: 2026-07-21
 ---
 # 9607 S1 Assessments
 

@@ -6,7 +6,8 @@ related:
   - "[[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint]]"
-modified: 2026-07-17
+  - "[[classes/media-studies/9607-resource-library]]"
+modified: 2026-07-21
 ---
 # 9607 S1 Lesson 06: A1 — Timed Media Language Analysis
 

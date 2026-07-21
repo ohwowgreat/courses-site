@@ -6,7 +6,8 @@ related:
   - "[[classes/media-studies/unit-plans/9607-s1-unit-2-media-language]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-04-genre-and-camera]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis]]"
-modified: 2026-07-17
+  - "[[classes/media-studies/9607-resource-library]]"
+modified: 2026-07-21
 ---
 # 9607 S1 Lesson 05: Narrative and the Planning Lock
 

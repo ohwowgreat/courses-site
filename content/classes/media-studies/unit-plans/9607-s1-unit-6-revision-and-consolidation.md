@@ -9,7 +9,8 @@ related:
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-15-exam-rehearsal]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-16-end-of-term-exam-and-return]]"
   - "[[classes/media-studies/assessments/9607-s1-assessments]]"
-modified: 2026-07-19
+  - "[[classes/media-studies/9607-resource-library]]"
+modified: 2026-07-21
 ---
 # 9607 S1 Unit 6: Revision and Consolidation
 

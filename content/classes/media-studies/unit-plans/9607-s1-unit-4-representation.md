@@ -10,7 +10,8 @@ related:
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-10-the-creative-critical-reflection]]"
   - "[[classes/media-studies/assessments/9607-s1-assessments]]"
-modified: 2026-07-19
+  - "[[classes/media-studies/9607-resource-library]]"
+modified: 2026-07-21
 ---
 # 9607 S1 Unit 4: Representation
 

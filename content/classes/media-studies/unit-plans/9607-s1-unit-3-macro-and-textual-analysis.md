@@ -9,7 +9,8 @@ related:
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint]]"
   - "[[classes/media-studies/assessments/9607-s1-assessments]]"
-modified: 2026-07-19
+  - "[[classes/media-studies/9607-resource-library]]"
+modified: 2026-07-21
 ---
 # 9607 S1 Unit 3: Macro and Textual Analysis
 

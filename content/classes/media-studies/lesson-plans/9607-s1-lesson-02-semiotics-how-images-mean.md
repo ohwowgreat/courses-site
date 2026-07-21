@@ -6,7 +6,8 @@ related:
   - "[[classes/media-studies/unit-plans/9607-s1-unit-2-media-language]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-01-the-four-key-concepts]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-03-sign-types-and-codes]]"
-modified: 2026-07-17
+  - "[[classes/media-studies/9607-resource-library]]"
+modified: 2026-07-21
 ---
 # 9607 S1 Lesson 02: Semiotics — How Images Mean
 

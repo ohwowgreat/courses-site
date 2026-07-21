@@ -6,7 +6,8 @@ related:
   - "[[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product]]"
-modified: 2026-07-17
+  - "[[classes/media-studies/9607-resource-library]]"
+modified: 2026-07-21
 ---
 # 9607 S1 Lesson 07: Reading Systematically Toward the Blog Mid-Point
 

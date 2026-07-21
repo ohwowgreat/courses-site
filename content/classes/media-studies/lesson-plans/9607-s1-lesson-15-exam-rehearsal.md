@@ -6,7 +6,8 @@ related:
   - "[[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-14-consolidation-and-the-coverage-matrix]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-16-end-of-term-exam-and-return]]"
-modified: 2026-07-17
+  - "[[classes/media-studies/9607-resource-library]]"
+modified: 2026-07-21
 ---
 # 9607 S1 Lesson 15: Exam Rehearsal
 

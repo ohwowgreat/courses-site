@@ -6,7 +6,8 @@ related:
   - "[[classes/media-studies/unit-plans/9607-s1-unit-4-representation]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-10-the-creative-critical-reflection]]"
-modified: 2026-07-17
+  - "[[classes/media-studies/9607-resource-library]]"
+modified: 2026-07-21
 ---
 # 9607 S1 Lesson 09: The Gaze
 

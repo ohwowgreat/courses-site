@@ -6,7 +6,8 @@ related:
   - "[[classes/media-studies/unit-plans/9607-s1-unit-4-representation]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission]]"
-modified: 2026-07-17
+  - "[[classes/media-studies/9607-resource-library]]"
+modified: 2026-07-21
 ---
 # 9607 S1 Lesson 10: The Creative Critical Reflection
 
