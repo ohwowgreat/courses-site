@@ -87,6 +87,10 @@ const HEROES = {
     "at-the-telephone",
   "classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock.md":
     "banqueting-sketch",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis.md":
+    "whittier-classroom",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint.md":
+    "wanderer",
 }
 
 // Inline figures (2026-07-21): lesson pages carry period exemplars from the shared
@@ -166,6 +170,15 @@ const FIGURES = {
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock.md": [
     { slugs: ["peasant-wedding"], anchor: /by what they do, not who they are|donor/i },
+  ],
+  "classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis.md": [
+    {
+      slugs: ["vivarini-exorcism"],
+      anchor: /where did Propp fail|withheld function/i,
+    },
+  ],
+  "classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint.md": [
+    { slugs: ["hampton-geography"], anchor: /describe → question → suggest|audited post by post/i },
   ],
 }
 

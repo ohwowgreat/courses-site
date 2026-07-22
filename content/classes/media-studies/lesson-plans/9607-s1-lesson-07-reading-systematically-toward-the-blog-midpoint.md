@@ -7,8 +7,16 @@ related:
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis]]"
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product]]"
   - "[[classes/media-studies/9607-resource-library]]"
-modified: 2026-07-21
+  - "[[concepts/the-viewing-protocol]]"
+  - "[[concepts/process-evidence-and-reflection]]"
+  - "[[entities/roland-barthes]]"
+modified: 2026-07-22
 ---
+<figure class="plate plate--hero">
+  <img src="../../../static/img/wanderer.jpg" alt="Caspar David Friedrich, Wanderer Above the Sea of Fog, 1818 — who is he? what does he see? the enigma code at work" loading="lazy" />
+  <figcaption>Caspar David Friedrich, <em>Wanderer Above the Sea of Fog</em>, 1818 — who is he? what does he see? the enigma code at work</figcaption>
+</figure>
+
 # 9607 S1 Lesson 07: Reading Systematically Toward the Blog Mid-Point
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis|Unit 3]] · Lesson 07 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis|L06]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product|L08]] →
@@ -25,17 +33,49 @@ modified: 2026-07-21
 | Feeds | A2 |
 | Homework | Blog completion: posts 1–7 to standard by Mon 10-26 |
 
-## Goal
+## Overview
 
-Five days that turn analytical instinct into analytical method, built around the audit that makes A2 safe. Barthes gives you one more analytical instrument; the systematic reading order and the PEEM paragraph give you the method. Wednesday's double is the hinge: a peer audits your blog against the same checklist A2 will be marked with, three teaching days before the deadline, while there is still time to act on what the audit finds.
+Five days that turn analytical instinct into analytical **method**. Barthes adds one more instrument — what a text withholds and promises. The systematic reading order and the PEEM paragraph give you the discipline. Wednesday's double is the hinge: every blog is audited by a peer against the same checklist A2 will be marked with, three teaching days before the deadline, while there is still time to act on what the audit finds.
 
 ## How it runs
 
-- **D1 (Fri, single):** Barthes enigma and action codes on a cold open; find the question the text plants and the promise it makes. This session falls on Foreign Culture Day — whether it runs will be confirmed in class.
-- **D2 (Mon, single):** the systematic reading order modeled, then run silently on a new still — same order every time, no wandering.
-- **D3 (Tue, single):** PEEM construction (point, evidence, effect, meaning); rebuild a deliberately assertive paragraph into one that proves.
-- **D4 (Wed, double) — CS5:** paired audit of blogs against the mid-point checklist, describe–question–suggest, findings written as actions; in the final 20 minutes, everyone starts their own fixes in the room.
-- **D5 (Fri, single):** Section A response architecture — the shape of an answer planned before a word is written; storyboard an answer skeleton for the A1 extract from memory.
+### D1 — Fri 10-16: Barthes — the question and the promise
+
+- **The instrument (15 min)** — Barthes's **enigma code** (the question a text plants and refuses to answer yet) and **action code** (the promise that something will happen, and soon). A figure on a rock, back turned: *who is he? what does he see?* — that lean toward the screen is the enigma code working.
+- **On a cold open (25 min)** — one TV cold open screened twice: first pass, list every question the text plants; second, every promise it makes. Openings are engineered to owe you answers.
+- **Close (5 min)** — theory card: Barthes (anchorage, myth-adjacent connotation, now enigma; one theorist, many tools). A1 scripts return this weekend with full margin review.
+
+### D2 — Mon 10-19: the reading order
+
+- **A1 margins (10 min)** — scripts back; two minutes silent reading of margin notes, then one written action each. The commonest gap is coverage: whole code families left unvisited.
+- **The order modeled (15 min)** — the fix is procedural, not talent: the **systematic reading order** — same order, every extract, every time (framing → camera → light → mise-en-scène → sound → edit → narrative codes) — modeled once on screen, out loud.
+- **Silent run (15 min)** — a new still, the order run silently, notes in order, no wandering. The discipline *is* the exercise.
+- **Close (5 min)** — copy the order onto your personal code checklist.
+
+### D3 — Tue 10-20: PEEM
+
+- **The anatomy (10 min)** — **P**oint, **E**vidence, **E**ffect, **M**eaning — the paragraph that proves instead of asserts. An anonymized assertive paragraph from A1 on screen.
+- **Rebuild (25 min)** — pairs rebuild it: claim kept, evidence pinned to a signifier, effect on the viewer stated, meaning tied to the concept. Then each of you rebuilds one of your own A1 paragraphs the same way.
+- **Close (10 min)** — the pairing-sentence drill (WS 4.5 pattern): one sentence fusing technique + content, five times, speed over polish.
+
+### D4 — Wed 10-21 (double): CS5 — the audit
+
+- **The checklist (10 min)** — the mid-point checklist on the board, post by post: brief and group; research; audience profile; pitch; planning suite; production log; early evidence — every post dated, contributions labeled, no gaps. It mirrors the A2 register entry exactly: **the audit is A2's marking preview.**
+- **Paired audit (45 min)** — blogs swapped, audited post by post, protocol **describe → question → suggest**; write findings as *actions*, not comments ("post 3 has no audience data — add the survey screenshot" beats "more detail").
+
+<figure class="plate">
+  <img src="../../../static/img/hampton-geography.jpg" alt="Frances Benjamin Johnston, Geography — Studying the Seasons, Hampton Institute, 1899 — work checked together, in the room" loading="lazy" />
+  <figcaption>Frances Benjamin Johnston, <em>Geography — Studying the Seasons</em>, Hampton Institute, 1899 — work checked together, in the room</figcaption>
+</figure>
+
+- **Fixes begin (20 min)** — start your own action list in the room.
+- **Close (5 min)** — three teaching days to Monday. CS5 logged.
+
+### D5 — Fri 10-23: the shape of an answer
+
+- **Architecture (20 min)** — Section A response architecture: intro that names the argument, one paragraph per code family in the reading order, a conclusion that answers the prompt's verb. Skeleton first, prose second — the plan is where marks are won.
+- **From memory (20 min)** — storyboard an answer skeleton for the A1 extract *from memory*: what would each paragraph have claimed? Comparing skeletons shows what a plan buys.
+- **Close (5 min)** — blogs to standard by Monday; A2 is submitted work, not a sitting.
 
 ## Assessment
 
@@ -44,5 +84,3 @@ Five days that turn analytical instinct into analytical method, built around the
 | CS5 | Wed 2026-10-21 | Peer blog audit against the mid-point checklist — the same checklist A2 is marked with | AO3 |
 
 A2 is due the Monday after this lesson ends, inside L08 day 1. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
-
-These dates may shift when the school publishes the calendar for this period.

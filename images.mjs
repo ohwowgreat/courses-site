@@ -348,6 +348,31 @@ const PLATES = [
     credit:
       "Pieter Bruegel the Elder, *The Peasant Wedding*, 1567 — every figure a function: bride, piper, steward, pourer",
   },
+  // 9607 U3 Macro & Textual Analysis (added 2026-07-22).
+  {
+    slug: "whittier-classroom",
+    file: "Photographers/Frances Benjamin Johnston/Frances Benjamin Johnston - English Literature, Lesson on Whittier, Middle Class, The Hampton Institute, Hampton, Virginia.jpg",
+    credit:
+      "Frances Benjamin Johnston, *English Literature — Lesson on Whittier*, Hampton Institute, 1899",
+  },
+  {
+    slug: "hampton-geography",
+    file: "Photographers/Frances Benjamin Johnston/Frances Benjamin Johnston - Geography, Studying the Seasons, The Hampton Institute, Hampton, Virginia.jpg",
+    credit:
+      "Frances Benjamin Johnston, *Geography — Studying the Seasons*, Hampton Institute, 1899 — work checked together, in the room",
+  },
+  {
+    slug: "vivarini-exorcism",
+    file: "Antonio Vivarini, Saint Peter Martyr Exorcizing a Woman Possessed by a Devil, c. 1450.jpg",
+    credit:
+      "Antonio Vivarini, *Saint Peter Martyr Exorcizing a Woman Possessed by a Devil*, c. 1450 — hero, villain, victim, helpers: Propp's functions, five centuries early",
+  },
+  {
+    slug: "wanderer",
+    file: "Caspar David Friedrich, Wanderer Above the Sea of Fog, Oil on canvas, 1818.jpeg",
+    credit:
+      "Caspar David Friedrich, *Wanderer Above the Sea of Fog*, 1818 — who is he? what does he see? the enigma code at work",
+  },
 ]
 
 await mkdir(OUT, { recursive: true })
