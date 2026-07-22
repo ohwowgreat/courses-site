@@ -282,6 +282,72 @@ const PLATES = [
     credit:
       "Dorothea Lange, *Migrant Mother*, 1936 — one frame chosen from six exposures, then cropped",
   },
+  // 9607 U2 Media Language (added 2026-07-22).
+  {
+    slug: "skull-cigarette",
+    file: "Vincent Van Gogh, Skull with Burning Cigarette, 1885.jpg",
+    credit:
+      "Vincent van Gogh, *Skull of a Skeleton with Burning Cigarette*, 1885 — what it shows is simple; what it suggests is the lesson",
+  },
+  {
+    slug: "mummy-portrait",
+    file: "Ancient Roman, Mummy Portrait of a Man Wearing an Ivy Wreath, 101.jpeg",
+    credit:
+      "Mummy portrait of a man wearing an ivy wreath, Roman Egypt, c. 101 CE — wreath, gold, gaze: codes at work for 1,900 years",
+  },
+  {
+    slug: "calling-of-matthew",
+    file: "Caravaggio, The Calling of Saint Matthew, 1599.jpg",
+    credit:
+      "Caravaggio, *The Calling of Saint Matthew*, 1599 — one light source, five gestures: a room you can read",
+  },
+  {
+    slug: "nadar-taylor",
+    file: "Photographers/Nadar/Nadar - Baron Isidore Taylor.jpg",
+    credit: "Nadar, *Baron Isidore Taylor*, c. 1865 — an icon: it means by resembling",
+  },
+  {
+    slug: "talbot-lace-index",
+    file: "Photographers/William Henry Fox Talbot/William Henry Fox Talbot - Lace.jpg",
+    credit:
+      "William Henry Fox Talbot, *Lace*, c. 1844 — an index: made by direct contact with the thing itself",
+  },
+  {
+    slug: "deer-mandala",
+    file: "Unsorted/Deer Mandala of the Kasuga Shrine, first half 15th century.jpeg",
+    credit:
+      "*Deer Mandala of the Kasuga Shrine*, 15th century — a symbol: it means by convention alone",
+  },
+  {
+    slug: "vanitas-schaak",
+    file: "Dutch and Flemish Still Life Painting (Art Paintings)/B. Schaak. Still life Vanitas (vanity) (1675-1700) (Amsterdam, State museum).jpg",
+    credit:
+      "B. Schaak, *Vanitas Still Life*, 1675–1700 — skull, lantern, hourglass, book: the genre's repertoire",
+  },
+  {
+    slug: "vanitas-schoor",
+    file: "Dutch and Flemish Still Life Painting (Art Paintings)/Aelbert Jansz. van der Schoor. Still life Vanitas (vanity) (1640-1672) (Amsterdam, State museum).jpg",
+    credit:
+      "Aelbert van der Schoor, *Vanitas Still Life*, c. 1660 — the same codes, a different picture: repetition and difference",
+  },
+  {
+    slug: "at-the-telephone",
+    file: "Photographers/Aleksandr Rodchenko/Aleksandr Rodchenko - At the Telephone.jpg",
+    credit:
+      "Aleksandr Rodchenko, *At the Telephone*, 1928 — name the camera position; then name what it does to you",
+  },
+  {
+    slug: "banqueting-sketch",
+    file: "Unsorted/Multiple_Sketch_for_the_Banqueting_House_Ceiling.jpg",
+    credit:
+      "Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from",
+  },
+  {
+    slug: "peasant-wedding",
+    file: "Pieter Bruegel the Elder, The Peasant Wedding, 1567, oil on panel, 114 cm × 164 cm.jpg",
+    credit:
+      "Pieter Bruegel the Elder, *The Peasant Wedding*, 1567 — every figure a function: bride, piper, steward, pourer",
+  },
 ]
 
 await mkdir(OUT, { recursive: true })

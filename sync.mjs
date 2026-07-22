@@ -79,6 +79,14 @@ const HEROES = {
     "album-leaf",
   "classes/media-studies/lesson-plans/9607-s1-lesson-01-the-four-key-concepts.md":
     "seventh-regiment",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-how-images-mean.md":
+    "skull-cigarette",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-03-sign-types-and-codes.md":
+    "calling-of-matthew",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-04-genre-and-camera.md":
+    "at-the-telephone",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock.md":
+    "banqueting-sketch",
 }
 
 // Inline figures (2026-07-21): lesson pages carry period exemplars from the shared
@@ -140,6 +148,24 @@ const FIGURES = {
       slugs: ["rebel-sharpshooter", "migrant-mother"],
       anchor: /- \*\*Anchorage\*\*/,
     },
+  ],
+  "classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-how-images-mean.md": [
+    { slugs: ["mummy-portrait"], anchor: /connotation chains|who taught you that/i },
+  ],
+  "classes/media-studies/lesson-plans/9607-s1-lesson-03-sign-types-and-codes.md": [
+    {
+      slugs: ["nadar-taylor", "talbot-lace-index", "deer-mandala"],
+      anchor: /an index that looks like an icon|means by convention/i,
+    },
+  ],
+  "classes/media-studies/lesson-plans/9607-s1-lesson-04-genre-and-camera.md": [
+    {
+      slugs: ["vanitas-schaak", "vanitas-schoor"],
+      anchor: /that recognition is genre|belong together/i,
+    },
+  ],
+  "classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock.md": [
+    { slugs: ["peasant-wedding"], anchor: /by what they do, not who they are|donor/i },
   ],
 }
 
