@@ -20,7 +20,8 @@ interface FolderContentOptions {
 }
 
 const defaultOptions: FolderContentOptions = {
-  showFolderCount: true,
+  // "16 items under this folder" is bookkeeping, not information — off for this site.
+  showFolderCount: false,
   showSubfolders: true,
 }
 

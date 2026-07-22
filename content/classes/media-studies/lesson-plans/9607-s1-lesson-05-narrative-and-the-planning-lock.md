@@ -1,6 +1,5 @@
 ---
-title: "9607 S1 Lesson 05: Narrative and the Planning Lock"
-tags: [media-studies, cie-9607, lesson-plan, semester-1]
+title: "Lesson 05: Narrative and the Planning Lock"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-2-media-language]]"
@@ -16,7 +15,7 @@ modified: 2026-07-22
   <figcaption>Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from</figcaption>
 </figure>
 
-# 9607 S1 Lesson 05: Narrative and the Planning Lock
+# Lesson 05: Narrative and the Planning Lock
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] · Lesson 05 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-04-genre-and-camera|L04]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis|L06]] →
 

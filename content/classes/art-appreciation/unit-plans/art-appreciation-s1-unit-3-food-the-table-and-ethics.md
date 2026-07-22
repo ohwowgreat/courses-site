@@ -1,6 +1,5 @@
 ---
-title: "Art Appreciation S1 Unit 3: Food, the Table and Ethics"
-tags: [art-appreciation, unit-plan, semester-1]
+title: "Unit 3: Food, the Table and Ethics"
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan]]"
@@ -18,7 +17,7 @@ modified: 2026-07-19
   <figcaption>Jan Steen, <em>The Merry Family</em>, 1668</figcaption>
 </figure>
 
-# Art Appreciation S1 Unit 3: Food, the Table and Ethics
+# Unit 3: Food, the Table and Ethics
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan|Semester 1 Plan]] · Unit 3 of 5 · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory|← Unit 2]] | [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity|Unit 4 →]]
 

@@ -1,6 +1,5 @@
 ---
-title: "9479 Department Handbook"
-tags: [a-level-art-design, cie-9479, handbook, resource, old-spec]
+title: "A Level Art & Design · Department Handbook"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-course-map]]"
@@ -8,7 +7,7 @@ related:
   - "[[shared/bnds-ai-policy]]"
 modified: 2026-07-19
 ---
-# 9479 Department Handbook
+# A Level Art & Design · Department Handbook
 
 Your Art & Design handbook covers the visual elements, the principles of design, the three components, the assessment objectives with checklists, the four disciplines, theme selection, artist studies, the Personal Study, and portfolio samples.
 

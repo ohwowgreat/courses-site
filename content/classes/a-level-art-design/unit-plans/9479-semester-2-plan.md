@@ -1,6 +1,5 @@
 ---
-title: 9479 Semester 2 Plan
-tags: [a-level-art-design, cie-9479, semester-2, c3-personal-investigation, 2026-27]
+title: "A Level Art & Design · Semester 2 Plan"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-course-map]]"
@@ -10,7 +9,7 @@ related:
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-18
 ---
-# 9479 Semester 2 Plan
+# A Level Art & Design · Semester 2 Plan
 
 > [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · Semester 2 of 4 ([[classes/a-level-art-design/unit-plans/9479-course-map|course map]]) · ← [[classes/a-level-art-design/unit-plans/9479-semester-1-plan|S1 C1 Portfolio]] · [[classes/a-level-art-design/unit-plans/9479-semester-3-plan|S3 C3 part 2]] →
 

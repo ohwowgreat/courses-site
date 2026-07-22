@@ -1,6 +1,5 @@
 ---
-title: "PAL S1 Lesson 12: Theme and Composition Drafts"
-tags: [pre-a-level, grade-10, lesson-plan, semester-1]
+title: "Lesson 12: Theme and Composition Drafts"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage]]"
@@ -16,7 +15,7 @@ modified: 2026-07-21
   <figcaption>Edwaert Collier, <em>Vanitas Still Life</em>, 1662</figcaption>
 </figure>
 
-# PAL S1 Lesson 12: Theme and Composition Drafts
+# Lesson 12: Theme and Composition Drafts
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|Unit 3]] · U3·L3 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-11-layering-text-and-image|L11]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-13-final-collage-production|L13]] →
 

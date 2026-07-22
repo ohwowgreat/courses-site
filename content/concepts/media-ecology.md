@@ -1,6 +1,5 @@
 ---
 title: Media Ecology
-tags: [concept, media-studies, cie-9607, a2, synoptic, paper-4]
 related:
   - "[[concepts/four-key-concepts]]"
   - "[[concepts/media-industry]]"
@@ -13,7 +12,7 @@ modified: 2026-07-20
 ---
 # Media Ecology
 
-This is compulsory A Level content. In the syllabus you sit (2028–30), the topic is called **Changing media environments**. It is examined as a synoptic question; the exact exam format will be confirmed in class. See [[classes/media-studies/media-studies]].
+This is compulsory A Level content. In the syllabus you sit (2028–30), the topic is called **Changing media environments**. It is examined as a synoptic question; the exact exam format will be confirmed in class. See [[classes/media-studies/media-studies|Media Studies]].
 
 ## The syllabus definition
 
@@ -25,7 +24,7 @@ The exam requires you to:
 
 > "synthesise their knowledge and understanding of the key concepts of language, representation, industry and audience, studied throughout the course. Candidates are expected to adapt and apply this knowledge and understanding to contemporary examples from **at least two media forms** in order to explore evolving media environments."
 
-The two-media-form requirement is the hardest constraint in this component: you must draw on **at least two media forms**. Per [[concepts/case-study-method]], studying one media *area* at AS does not satisfy it.
+The two-media-form requirement is the hardest constraint in this component: you must draw on **at least two media forms**. Per [[concepts/case-study-method|Case Study Method]], studying one media *area* at AS does not satisfy it.
 
 You are also expected to draw on examples from other components — "particularly those that illustrate changes in power, technology and audience engagement."
 

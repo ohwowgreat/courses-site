@@ -1,6 +1,5 @@
 ---
-title: "9607 S1 Lesson 11: Audiences and the Portfolio Submission"
-tags: [media-studies, cie-9607, lesson-plan, semester-1]
+title: "Lesson 11: Audiences and the Portfolio Submission"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts]]"
@@ -15,7 +14,7 @@ modified: 2026-07-22
   <figcaption>Édouard Manet, <em>A Good Glass of Beer</em>, 1873 — gratification, personified</figcaption>
 </figure>
 
-# 9607 S1 Lesson 11: Audiences and the Portfolio Submission
+# Lesson 11: Audiences and the Portfolio Submission
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts|Unit 5]] · Lesson 11 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-10-the-creative-critical-reflection|L10]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-12-institutions-and-section-a-craft|L12]] →
 

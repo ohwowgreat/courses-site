@@ -1,6 +1,5 @@
 ---
-title: "PAL S1 Unit 3: Collage"
-tags: [pre-a-level, grade-10, unit-plan, semester-1]
+title: "Unit 3: Collage"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan]]"
@@ -15,7 +14,7 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
 modified: 2026-07-21
 ---
-# PAL S1 Unit 3: Collage
+# Unit 3: Collage
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan|Semester 1 Plan]] · Unit 3 of 4 · ← [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography|Unit 2: Photography]] / [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster|Unit 4: Graphic Design & the Poster]] →
 

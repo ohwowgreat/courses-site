@@ -1,6 +1,5 @@
 ---
-title: "PAL S1 Lesson 13: Final Collage Production"
-tags: [pre-a-level, grade-10, lesson-plan, semester-1]
+title: "Lesson 13: Final Collage Production"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage]]"
@@ -16,7 +15,7 @@ modified: 2026-07-21
   <figcaption>Aleksandr Rodchenko, <em>Assembling for a Demonstration</em>, 1928</figcaption>
 </figure>
 
-# PAL S1 Lesson 13: Final Collage Production
+# Lesson 13: Final Collage Production
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|Unit 3]] · U3·L4 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-12-theme-and-composition-drafts|L12]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage|L14]] →
 

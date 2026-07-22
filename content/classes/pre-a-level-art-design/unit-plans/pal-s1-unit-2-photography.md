@@ -1,6 +1,5 @@
 ---
-title: "PAL S1 Unit 2: Photography"
-tags: [pre-a-level, grade-10, unit-plan, semester-1]
+title: "Unit 2: Photography"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan]]"
@@ -14,7 +13,7 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
 modified: 2026-07-21
 ---
-# PAL S1 Unit 2: Photography
+# Unit 2: Photography
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan|Semester 1 Plan]] · Unit 2 of 4 · ← [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1: Drawing]] / [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|Unit 3: Collage]] →
 

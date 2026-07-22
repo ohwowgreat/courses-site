@@ -14,10 +14,40 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({ links: {} }),
 }
 
+// Breadcrumbs read the file path, but the path carries vault plumbing a reader
+// shouldn't see: the "classes" wrapper folder, slug-shaped folder names, and the
+// current page's own (long) title repeated under the H1. Crumbs skip the
+// plumbing, use short labels, and point course crumbs at the course overview
+// rather than the raw folder listing.
+const breadcrumbOptions = {
+  showCurrentPage: false,
+  omitSegments: ["classes"],
+  segmentLabels: {
+    "a-level-art-design": "A Level Art & Design",
+    "media-studies": "Media Studies",
+    "art-appreciation": "Art Appreciation",
+    "pre-a-level-art-design": "Pre A Level Art & Design",
+    oxbridge: "Oxbridge",
+    "lesson-plans": "Lessons",
+    "unit-plans": "Units & plans",
+    assessments: "Assessments",
+    concepts: "Concepts",
+    entities: "Theorists",
+    shared: "Reference",
+  },
+  segmentLinks: {
+    "a-level-art-design": "classes/a-level-art-design/a-level-art-design",
+    "media-studies": "classes/media-studies/media-studies",
+    "art-appreciation": "classes/art-appreciation/art-appreciation",
+    "pre-a-level-art-design": "classes/pre-a-level-art-design/pre-a-level-art-design",
+    oxbridge: "classes/oxbridge/oxbridge",
+  },
+}
+
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
-      component: Component.Breadcrumbs(),
+      component: Component.Breadcrumbs(breadcrumbOptions),
       condition: (page) => page.fileData.slug !== "index",
     }),
     // No ArticleTitle: every page in this vault opens with an `# H1` that already
@@ -42,7 +72,7 @@ export const defaultContentPageLayout: PageLayout = {
 }
 
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle()],
+  beforeBody: [Component.Breadcrumbs(breadcrumbOptions), Component.ArticleTitle()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),

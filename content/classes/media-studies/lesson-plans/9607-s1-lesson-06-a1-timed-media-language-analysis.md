@@ -1,6 +1,5 @@
 ---
-title: "9607 S1 Lesson 06: A1 — Timed Media Language Analysis"
-tags: [media-studies, cie-9607, lesson-plan, semester-1]
+title: "Lesson 06: A1 — Timed Media Language Analysis"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis]]"
@@ -16,7 +15,7 @@ modified: 2026-07-22
   <figcaption>Frances Benjamin Johnston, <em>English Literature — Lesson on Whittier</em>, Hampton Institute, 1899</figcaption>
 </figure>
 
-# 9607 S1 Lesson 06: A1 — Timed Media Language Analysis
+# Lesson 06: A1 — Timed Media Language Analysis
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis|Unit 3]] · Lesson 06 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock|L05]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint|L07]] →
 

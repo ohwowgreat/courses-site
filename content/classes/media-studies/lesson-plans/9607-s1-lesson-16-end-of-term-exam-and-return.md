@@ -1,6 +1,5 @@
 ---
-title: "9607 S1 Lesson 16: End of Term Exam and Return"
-tags: [media-studies, cie-9607, lesson-plan, semester-1]
+title: "Lesson 16: End of Term Exam and Return"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation]]"
@@ -14,7 +13,7 @@ modified: 2026-07-22
   <figcaption>Claude Monet, <em>The Magpie</em>, 1869 — winter light, and the quiet after</figcaption>
 </figure>
 
-# 9607 S1 Lesson 16: End of Term Exam and Return
+# Lesson 16: End of Term Exam and Return
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation|Unit 6]] · Lesson 16 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-15-exam-rehearsal|L15]]
 

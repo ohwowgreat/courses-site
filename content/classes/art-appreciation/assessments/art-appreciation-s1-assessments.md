@@ -1,6 +1,5 @@
 ---
-title: "Art Appreciation S1 Assessments"
-tags: [art-appreciation, assessment, semester-1]
+title: "Art Appreciation · S1 Assessments"
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan]]"
@@ -12,7 +11,7 @@ related:
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-19
 ---
-# Art Appreciation S1 Assessments
+# Art Appreciation · S1 Assessments
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan|Semester 1 Plan]] · Autumn 2026–27
 

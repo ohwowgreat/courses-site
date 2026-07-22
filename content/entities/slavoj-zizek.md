@@ -1,6 +1,5 @@
 ---
 title: Slavoj Žižek
-tags: [entity, theorist, media-studies, ideology, a2]
 related:
   - "[[concepts/power-and-the-media]]"
   - "[[concepts/representation]]"
@@ -8,7 +7,7 @@ modified: 2026-07-20
 ---
 # Slavoj Žižek
 
-The only theorist Cambridge names in the [[concepts/power-and-the-media]] debate.
+The only theorist Cambridge names in the [[concepts/power-and-the-media|Power and the Media]] debate.
 
 You are asked to consider his idea of the media's "Standard Operating Procedure," and also to test whether that diagnosis still holds: "In the years since the publication of this article, it is now also worth considering how much has changed in terms of increased representation of different ethnicities in media productions - and also analyse how and why degrees of change have occurred." Test the diagnosis rather than citing it as settled.
 
@@ -30,4 +29,4 @@ In an essay, this is the move from a conspiratorial reading (owners dictate cont
 
 ## Connection to spectacle
 
-"Reduction of complex conflicts to spectacle" links directly to [[entities/guy-debord]] in the [[concepts/postmodern-media]] topic — the same concept, used in two of the three debates. Cambridge does not flag the overlap: learn spectacle once and you can use it in both.
+"Reduction of complex conflicts to spectacle" links directly to [[entities/guy-debord|Guy Debord]] in the [[concepts/postmodern-media|Postmodern Media]] topic — the same concept, used in two of the three debates. Cambridge does not flag the overlap: learn spectacle once and you can use it in both.

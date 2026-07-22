@@ -1,6 +1,5 @@
 ---
-title: 9479 Semester 1 Plan
-tags: [a-level-art-design, cie-9479, semester-1, c1-portfolio, 2026-27]
+title: "A Level Art & Design · Semester 1 Plan"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-course-map]]"
@@ -8,7 +7,7 @@ related:
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-17
 ---
-# 9479 Semester 1 Plan
+# A Level Art & Design · Semester 1 Plan
 
 > [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · Semester 1 of 4 ([[classes/a-level-art-design/unit-plans/9479-course-map|course map]])
 

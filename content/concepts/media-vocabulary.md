@@ -1,6 +1,5 @@
 ---
 title: Media Vocabulary
-tags: [concept, media-studies, cie-9607, glossary, reference, esl]
 related:
   - "[[concepts/technical-elements]]"
   - "[[concepts/media-language]]"
@@ -12,7 +11,7 @@ modified: 2026-07-20
 
 This is Cambridge's own glossary — 56 terms, every one defined. This page is the reference sheet for the live glossary you maintain from week one.
 
-Conceptual framing for these terms: [[concepts/technical-elements]] and [[concepts/media-language]].
+Conceptual framing for these terms: [[concepts/technical-elements|Technical Elements]] and [[concepts/media-language|Media Language]].
 
 ## Appendix 1 — Glossary
 
@@ -87,7 +86,7 @@ Conceptual framing for these terms: [[concepts/technical-elements]] and [[concep
 | **Web links** | When links connect you to elsewhere on the website this is referred to as 'internal links' whereas links to another website are called 'external links'. |
 | **Interactive elements** | These enable users to take part and contribute to the website and could be in the form of quizzes, games, surveys, discussion forums or an opportunity to give feedback or comments about something. |
 
-Under the 2028–30 spec, C3's third medium is a website home page — see [[classes/media-studies/media-studies]].
+Under the 2028–30 spec, C3's third medium is a website home page — see [[classes/media-studies/media-studies|Media Studies]].
 
 ## Appendix 6 — Magazine terminology
 

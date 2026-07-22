@@ -1,6 +1,5 @@
 ---
-title: "PAL S1 Lesson 06: Framing and Viewpoint"
-tags: [pre-a-level, grade-10, lesson-plan, semester-1]
+title: "Lesson 06: Framing and Viewpoint"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography]]"
@@ -16,7 +15,7 @@ modified: 2026-07-21
   <figcaption>Gustave Le Gray, <em>The Great Wave, Sète</em>, 1857</figcaption>
 </figure>
 
-# PAL S1 Lesson 06: Framing and Viewpoint
+# Lesson 06: Framing and Viewpoint
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography|Unit 2]] · U2·L1 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing|L05]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-07-light-shadow-and-the-series-theme|L07]] →
 

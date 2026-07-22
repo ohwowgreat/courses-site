@@ -1,6 +1,5 @@
 ---
-title: "PAL S1 Lesson 09: A2 — The Photographic Series"
-tags: [pre-a-level, grade-10, lesson-plan, semester-1]
+title: "Lesson 09: A2 — The Photographic Series"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography]]"
@@ -15,7 +14,7 @@ modified: 2026-07-21
   <figcaption>Eugène Atget, <em>108 rue Molière</em>, 1908</figcaption>
 </figure>
 
-# PAL S1 Lesson 09: A2 — The Photographic Series
+# Lesson 09: A2 — The Photographic Series
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography|Unit 2]] · U2·L4 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-08-the-theme-shoot-and-the-contact-sheet-edit|L08]] | next unit: [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|U3 Collage]] →
 

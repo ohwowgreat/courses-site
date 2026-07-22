@@ -1,6 +1,5 @@
 ---
 title: Media Industry
-tags: [concept, media-studies, cie-9607, key-concept-3, paper-2-section-b]
 related:
   - "[[concepts/four-key-concepts]]"
   - "[[concepts/media-audience]]"
@@ -11,9 +10,9 @@ modified: 2026-07-20
 ---
 # Media Industry
 
-**Key Concept 3:** "How and why media texts are produced, distributed and consumed." This is the knowledge base of **Component 2 Section B**, and it feeds into [[concepts/media-ecology]] two years later.
+**Key Concept 3:** "How and why media texts are produced, distributed and consumed." This is the knowledge base of **Component 2 Section B**, and it feeds into [[concepts/media-ecology|Media Ecology]] two years later.
 
-This is not abstract economics. The exam wants you to know **at least one institution in depth** and use it to illustrate general processes — see [[concepts/case-study-method]].
+This is not abstract economics. The exam wants you to know **at least one institution in depth** and use it to illustrate general processes — see [[concepts/case-study-method|Case Study Method]].
 
 ## What you study
 
@@ -27,7 +26,7 @@ This is not abstract economics. The exam wants you to know **at least one instit
 - the regulatory framework of contemporary media and the impact of technological change on regulation
 - the impact of convergent media platforms on production, distribution and consumption
 
-At AS the contexts also include ownership and funding issues, cross-media convergence and synergy, recent technologies at every level, and "the ways in which the candidates' own experiences of media consumption illustrate wider patterns and trends in audience behaviour" — the basis for the media-diary exercise in [[concepts/media-audience]].
+At AS the contexts also include ownership and funding issues, cross-media convergence and synergy, recent technologies at every level, and "the ways in which the candidates' own experiences of media consumption illustrate wider patterns and trends in audience behaviour" — the basis for the media-diary exercise in [[concepts/media-audience|Media Audience]].
 
 ## Key terms and examples
 
@@ -65,7 +64,7 @@ Best done in small groups with feedback and collation. It is designed to surface
 - "If you managed to make it, what would you need to do to make it available? How would copies get made? How would it get into cinemas? Why would cinemas show it? How would people know it was there?"
 - "How would people see your film? What would their experience of watching it be?"
 
-"Historical work is useful because it inevitably highlights key differences in the contemporary situation." Every constraint the scenario reveals shows what digital changed — the same historical-contrast approach drives [[concepts/media-ecology]] in Grade 12.
+"Historical work is useful because it inevitably highlights key differences in the contemporary situation." Every constraint the scenario reveals shows what digital changed — the same historical-contrast approach drives [[concepts/media-ecology|Media Ecology]] in Grade 12.
 
 ### Follow the money
 
@@ -83,4 +82,4 @@ Explore the claim that traditional media power has been reduced because of:
 
 Then push back: "how genuinely 'democratic' is this: To what extent do the products of 'amateurs' have the status of those of 'professionals'?" And: "at ground level, how are large companies continuing to grow, to conglomerate and to create synergies between different divisions?"
 
-This amateur/professional status question is the bridge to [[concepts/power-and-the-media]].
+This amateur/professional status question is the bridge to [[concepts/power-and-the-media|Power and the Media]].

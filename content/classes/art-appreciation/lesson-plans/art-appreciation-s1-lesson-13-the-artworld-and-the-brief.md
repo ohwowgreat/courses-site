@@ -1,6 +1,5 @@
 ---
-title: "Art Appreciation S1 Lesson 13: The Artworld and the Brief"
-tags: [art-appreciation, lesson-plan, semester-1]
+title: "Lesson 13: The Artworld and the Brief"
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity]]"
@@ -8,7 +7,7 @@ related:
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-14-the-retrospective]]"
 modified: 2026-07-17
 ---
-# Art Appreciation S1 Lesson 13: The Artworld and the Brief
+# Lesson 13: The Artworld and the Brief
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity|Unit 4]] · Lesson 13 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-12-photography-and-after|L12]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-14-the-retrospective|L14]] →
 

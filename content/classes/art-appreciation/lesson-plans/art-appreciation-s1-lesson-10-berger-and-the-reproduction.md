@@ -1,6 +1,5 @@
 ---
-title: "Art Appreciation S1 Lesson 10: Berger and the Reproduction"
-tags: [art-appreciation, lesson-plan, semester-1]
+title: "Lesson 10: Berger and the Reproduction"
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity]]"
@@ -8,7 +7,7 @@ related:
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image]]"
 modified: 2026-07-17
 ---
-# Art Appreciation S1 Lesson 10: Berger and the Reproduction
+# Lesson 10: Berger and the Reproduction
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity|Unit 4]] · Lesson 10 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-09-food-the-table-and-ethics|L09]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image|L11]] →
 

@@ -1,6 +1,5 @@
 ---
-title: "9607 S1 Unit 6: Revision and Consolidation"
-tags: [media-studies, cie-9607, unit-plan, semester-1]
+title: "Unit 6: Revision and Consolidation"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-semester-1-plan]]"
@@ -12,7 +11,7 @@ related:
   - "[[classes/media-studies/9607-resource-library]]"
 modified: 2026-07-22
 ---
-# 9607 S1 Unit 6: Revision and Consolidation
+# Unit 6: Revision and Consolidation
 
 > [!important] Winter break and Unit 6 schedule
 > The winter break runs continuously, **Thu 2026-12-24 → Sun 2027-01-03**, and you return Mon 2027-01-04. There are no classes on Tue 12-29 or Wed 12-30.

@@ -1,6 +1,5 @@
 ---
 title: Power and the Media
-tags: [concept, media-studies, cie-9607, a2, media-debates, paper-4]
 related:
   - "[[concepts/media-regulation]]"
   - "[[concepts/postmodern-media]]"
@@ -11,7 +10,7 @@ modified: 2026-07-20
 ---
 # Power and the Media
 
-This is one of the three **A Level Media debates** topics (Syllabus 2027 pp.9, 18), and one of the two studied at BNDS alongside [[concepts/postmodern-media]].
+This is one of the three **A Level Media debates** topics (Syllabus 2027 pp.9, 18), and one of the two studied at BNDS alongside [[concepts/postmodern-media|Postmodern Media]].
 
 Syllabus framing: "Power and the media considers issues surrounding access to the media, identity, representation, ideology and democracy" (p.18).
 
@@ -38,11 +37,11 @@ Representational power · corporate power · distributed individual power. Stron
 
 > "although there may now be an enormous quantity of voices in the public sphere, there is still a sense that some voices are more powerful than others, some representations are more potent than others, and that **when media messages are aligned with dominant ideologies they are particularly powerful**." (SoW p.25)
 
-This connects straight back to [[concepts/representation]]: the systematic reinforcement of values across many texts is the mechanism by which representation becomes power.
+This connects straight back to [[concepts/representation|Representation]]: the systematic reinforcement of values across many texts is the mechanism by which representation becomes power.
 
 ## The named thinker
 
-**[[entities/slavoj-zizek]]** is the only theorist Cambridge names here (SoW p.25):
+**[[entities/slavoj-zizek|Slavoj Žižek]]** is the only theorist Cambridge names here (SoW p.25):
 
 > "Media ownership will be one factor to consider, and there are examples of media outlets being directly influenced, or self-censoring, because of their owners, but more significant will be what **Slavoj Žižek** calls the media's **'Standard Operating Procedure'** – its reproduction of ideological 'truths' about which voices count for more than others, its reduction of complex conflicts to spectacle, and the general reinforcing of 'common sense'."
 
@@ -52,7 +51,7 @@ Also worth considering: "In the years since the publication of this article, it 
 
 > "Learners might also consider, however, how media messages may be rejected or subverted, perhaps using strategies of **détournement**, producing their own texts, or mounting social media campaigns." (SoW p.25)
 
-Cambridge's example is a Guardian piece on young Brixton activists recreating film posters with Black leads. You can connect détournement to [[entities/guy-debord]] and the Situationists.
+Cambridge's example is a Guardian piece on young Brixton activists recreating film posters with Black leads. You can connect détournement to [[entities/guy-debord|Guy Debord]] and the Situationists.
 
 ## Activities
 

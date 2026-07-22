@@ -1,13 +1,12 @@
 ---
-title: Art Appreciation Resource Library
-tags: [art-appreciation, resources, readings, slides, worksheets, reference]
+title: "Art Appreciation · Resource Library"
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-semester-2-outline]]"
 modified: 2026-07-19
 ---
-# Art Appreciation Resource Library
+# Art Appreciation · Resource Library
 
 ## Readings — assigned
 

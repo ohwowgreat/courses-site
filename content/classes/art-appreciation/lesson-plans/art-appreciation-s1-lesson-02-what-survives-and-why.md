@@ -1,6 +1,5 @@
 ---
-title: "Art Appreciation S1 Lesson 02: What Survives, and Why"
-tags: [art-appreciation, lesson-plan, semester-1]
+title: "Lesson 02: What Survives, and Why"
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-1-origins-and-ancestral-memory]]"
@@ -8,7 +7,7 @@ related:
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-03-the-first-board]]"
 modified: 2026-07-17
 ---
-# Art Appreciation S1 Lesson 02: What Survives, and Why
+# Lesson 02: What Survives, and Why
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-1-origins-and-ancestral-memory|Unit 1]] · Lesson 02 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-01-opening-the-atlas|L01]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-03-the-first-board|L03]] →
 

@@ -1,6 +1,5 @@
 ---
-title: "Art Appreciation S1 Unit 5: Semester Close and Retrospective"
-tags: [art-appreciation, unit-plan, semester-1]
+title: "Unit 5: Semester Close and Retrospective"
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan]]"
@@ -11,7 +10,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-semester-2-outline]]"
 modified: 2026-07-19
 ---
-# Art Appreciation S1 Unit 5: Semester Close and Retrospective
+# Unit 5: Semester Close and Retrospective
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan|Semester 1 Plan]] · Unit 5 of 5 · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity|← Unit 4]]
 

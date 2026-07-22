@@ -1,6 +1,5 @@
 ---
-title: "9607 S1 Unit 4: Representation"
-tags: [media-studies, cie-9607, unit-plan, semester-1]
+title: "Unit 4: Representation"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-semester-1-plan]]"
@@ -13,7 +12,7 @@ related:
   - "[[classes/media-studies/9607-resource-library]]"
 modified: 2026-07-22
 ---
-# 9607 S1 Unit 4: Representation
+# Unit 4: Representation
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-semester-1-plan|Semester 1 Plan]] · Unit 4 of 6 · ← [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis|Unit 3]] | [[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts|Unit 5]] →
 

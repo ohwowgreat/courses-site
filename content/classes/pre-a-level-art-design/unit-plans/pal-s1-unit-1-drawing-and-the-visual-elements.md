@@ -1,6 +1,5 @@
 ---
-title: "PAL S1 Unit 1: Drawing & the Visual Elements"
-tags: [pre-a-level, grade-10, unit-plan, semester-1]
+title: "Unit 1: Drawing & the Visual Elements"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan]]"
@@ -13,7 +12,7 @@ related:
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing]]"
 modified: 2026-07-20
 ---
-# PAL S1 Unit 1: Drawing & the Visual Elements
+# Unit 1: Drawing & the Visual Elements
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan|Semester 1 Plan]] · Unit 1 of 4 · next: [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography|Unit 2: Photography]] →
 

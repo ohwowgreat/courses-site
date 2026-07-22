@@ -1,6 +1,5 @@
 ---
-title: "9607 S1 Lesson 02: Semiotics — How Images Mean"
-tags: [media-studies, cie-9607, lesson-plan, semester-1]
+title: "Lesson 02: Semiotics — How Images Mean"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-2-media-language]]"
@@ -16,7 +15,7 @@ modified: 2026-07-22
   <figcaption>Vincent van Gogh, <em>Skull of a Skeleton with Burning Cigarette</em>, 1885 — what it shows is simple; what it suggests is the lesson</figcaption>
 </figure>
 
-# 9607 S1 Lesson 02: Semiotics — How Images Mean
+# Lesson 02: Semiotics — How Images Mean
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] · Lesson 02 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-01-the-four-key-concepts|L01]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-03-sign-types-and-codes|L03]] →
 

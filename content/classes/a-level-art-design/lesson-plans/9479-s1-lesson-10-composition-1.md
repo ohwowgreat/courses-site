@@ -1,6 +1,5 @@
 ---
-title: "9479 S1 Lesson 10: Composition 1"
-tags: [a-level-art-design, cie-9479, lesson-plan, semester-1]
+title: "S1 Lesson 10: Composition 1"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-4-development]]"
@@ -8,7 +7,7 @@ related:
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-11-composition-2-and-critique]]"
 modified: 2026-07-17
 ---
-# 9479 S1 Lesson 10: Composition 1
+# S1 Lesson 10: Composition 1
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-4-development|Unit 4]] · Lesson 10 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-09-artist-2-bridge-piece-and-a2|L09]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-11-composition-2-and-critique|L11]] →
 

@@ -1,6 +1,5 @@
 ---
-title: "9607 S1 Lesson 15: Exam Rehearsal"
-tags: [media-studies, cie-9607, lesson-plan, semester-1]
+title: "Lesson 15: Exam Rehearsal"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation]]"
@@ -15,7 +14,7 @@ modified: 2026-07-22
   <figcaption>Caravaggio, <em>The Musicians</em>, 1595 — rehearsal, mid-note</figcaption>
 </figure>
 
-# 9607 S1 Lesson 15: Exam Rehearsal
+# Lesson 15: Exam Rehearsal
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation|Unit 6]] · Lesson 15 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-14-consolidation-and-the-coverage-matrix|L14]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-16-end-of-term-exam-and-return|L16]] →
 

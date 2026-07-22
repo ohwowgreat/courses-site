@@ -1,6 +1,5 @@
 ---
-title: "PAL S1 Lesson 03: Texture, Mark-Making and Negative Space"
-tags: [pre-a-level, grade-10, lesson-plan, semester-1]
+title: "Lesson 03: Texture, Mark-Making and Negative Space"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements]]"
@@ -16,7 +15,7 @@ modified: 2026-07-20
   <figcaption>Peter Paul Rubens, <em>Anatomical Studies</em>, pen and ink, c. 1605</figcaption>
 </figure>
 
-# PAL S1 Lesson 03: Texture, Mark-Making and Negative Space
+# Lesson 03: Texture, Mark-Making and Negative Space
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1]] · U1·L3 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-02-tone-and-form|L02]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-04-composing-the-final-drawing|L04]] →
 

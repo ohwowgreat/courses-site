@@ -1,6 +1,5 @@
 ---
-title: "Art Appreciation S1 Lesson 05: Titian to Manet"
-tags: [art-appreciation, lesson-plan, semester-1]
+title: "Lesson 05: Titian to Manet"
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory]]"
@@ -8,7 +7,7 @@ related:
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-06-the-table-as-moral-space]]"
 modified: 2026-07-19
 ---
-# Art Appreciation S1 Lesson 05: Titian to Manet
+# Lesson 05: Titian to Manet
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory|Unit 2]] · Lesson 05 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-04-telling-it-without-words|L04]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-06-the-table-as-moral-space|L06]] →
 

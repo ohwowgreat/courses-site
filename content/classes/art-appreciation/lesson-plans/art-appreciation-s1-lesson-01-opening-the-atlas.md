@@ -1,13 +1,12 @@
 ---
-title: "Art Appreciation S1 Lesson 01: Opening the Atlas"
-tags: [art-appreciation, lesson-plan, semester-1]
+title: "Lesson 01: Opening the Atlas"
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-1-origins-and-ancestral-memory]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-02-what-survives-and-why]]"
 modified: 2026-07-19
 ---
-# Art Appreciation S1 Lesson 01: Opening the Atlas
+# Lesson 01: Opening the Atlas
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-1-origins-and-ancestral-memory|Unit 1]] · Lesson 01 of 15 · [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-02-what-survives-and-why|L02]] →
 

@@ -1,6 +1,5 @@
 ---
-title: "PAL S1 Lesson 02: Tone and Form"
-tags: [pre-a-level, grade-10, lesson-plan, semester-1]
+title: "Lesson 02: Tone and Form"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements]]"
@@ -16,7 +15,7 @@ modified: 2026-07-20
   <figcaption>Peter Paul Rubens, <em>Head of a Boy (Nicolaas Rubens)</em>, c. 1619</figcaption>
 </figure>
 
-# PAL S1 Lesson 02: Tone and Form
+# Lesson 02: Tone and Form
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1]] · U1·L2 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-01-introduction-the-sketchbook-and-first-marks|L01]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-03-texture-mark-making-and-negative-space|L03]] →
 

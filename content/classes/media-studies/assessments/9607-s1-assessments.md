@@ -1,6 +1,5 @@
 ---
-title: "9607 S1 Assessments"
-tags: [media-studies, cie-9607, assessments, semester-1]
+title: "Media Studies · S1 Assessments"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-semester-1-plan]]"
@@ -14,7 +13,7 @@ related:
   - "[[classes/media-studies/9607-resource-library]]"
 modified: 2026-07-21
 ---
-# 9607 S1 Assessments
+# Media Studies · S1 Assessments
 
 G11 (AS) Semester 1, 2026-27: **4 attainments + 11 Course Skills items (CS1–CS9 + HW1–HW2) + 6 Learning Behaviour postings + 1 End of Term Exam** across 21 weeks. Weights per [[shared/bnds-assessment-framework|BNDS framework]]: Attainment 50% · Course Skills 20% · Learning Behaviour 10% · End of Term 20%.
 

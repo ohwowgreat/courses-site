@@ -1,6 +1,5 @@
 ---
 title: Bill Nichols
-tags: [entity, theorist, media-studies, documentary, c3]
 related:
   - "[[concepts/production-craft]]"
   - "[[classes/media-studies/unit-plans/9607-course-map]]"

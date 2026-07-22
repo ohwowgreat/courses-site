@@ -1,6 +1,5 @@
 ---
-title: 9479 S3 Assessments
-tags: [a-level-art-design, cie-9479, assessment, semester-3]
+title: "A Level Art & Design · S3 Assessments"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-semester-3-plan]]"
@@ -11,7 +10,7 @@ related:
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-18
 ---
-# 9479 S3 Assessments
+# A Level Art & Design · S3 Assessments
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-3-plan|Semester 3 Plan]] · full register, autumn 2027-28 (Component 3 Personal Investigation part 2, G12)
 

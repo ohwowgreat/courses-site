@@ -1,6 +1,5 @@
 ---
-title: "9607 S1 Lesson 10: The Creative Critical Reflection"
-tags: [media-studies, cie-9607, lesson-plan, semester-1]
+title: "Lesson 10: The Creative Critical Reflection"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-4-representation]]"
@@ -15,7 +14,7 @@ modified: 2026-07-22
   <figcaption>Diego Rivera, <em>Self-Portrait</em>, 1907 — the maker examining himself</figcaption>
 </figure>
 
-# 9607 S1 Lesson 10: The Creative Critical Reflection
+# Lesson 10: The Creative Critical Reflection
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-4-representation|Unit 4]] · Lesson 10 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze|L09]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission|L11]] →
 

@@ -1,6 +1,5 @@
 ---
 title: Liesbet van Zoonen
-tags: [entity, theorist, media-studies, representation, gaze]
 related:
   - "[[concepts/representation]]"
   - "[[entities/bell-hooks]]"

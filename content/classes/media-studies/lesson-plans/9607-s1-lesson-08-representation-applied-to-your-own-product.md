@@ -1,6 +1,5 @@
 ---
-title: "9607 S1 Lesson 08: Representation Applied to Your Own Product"
-tags: [media-studies, cie-9607, lesson-plan, semester-1]
+title: "Lesson 08: Representation Applied to Your Own Product"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-4-representation]]"
@@ -16,7 +15,7 @@ modified: 2026-07-22
   <figcaption>Gertrude Käsebier, <em>American Indian Portrait</em>, c. 1899 — a studio construction: who made the choices in this image, and for whom?</figcaption>
 </figure>
 
-# 9607 S1 Lesson 08: Representation Applied to Your Own Product
+# Lesson 08: Representation Applied to Your Own Product
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-4-representation|Unit 4]] · Lesson 08 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint|L07]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze|L09]] →
 

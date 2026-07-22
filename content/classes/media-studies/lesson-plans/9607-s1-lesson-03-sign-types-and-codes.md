@@ -1,6 +1,5 @@
 ---
-title: "9607 S1 Lesson 03: Sign Types and Codes"
-tags: [media-studies, cie-9607, lesson-plan, semester-1]
+title: "Lesson 03: Sign Types and Codes"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-2-media-language]]"
@@ -16,7 +15,7 @@ modified: 2026-07-22
   <figcaption>Caravaggio, <em>The Calling of Saint Matthew</em>, 1599 — one light source, five gestures: a room you can read</figcaption>
 </figure>
 
-# 9607 S1 Lesson 03: Sign Types and Codes
+# Lesson 03: Sign Types and Codes
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] · Lesson 03 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-how-images-mean|L02]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-04-genre-and-camera|L04]] →
 

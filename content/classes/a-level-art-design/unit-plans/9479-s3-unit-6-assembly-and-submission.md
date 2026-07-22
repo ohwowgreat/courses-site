@@ -1,6 +1,5 @@
 ---
-title: "9479 S3 Unit 6: Assembly & Submission"
-tags: [a-level-art-design, cie-9479, unit-plan, semester-3]
+title: "S3 Unit 6: Assembly & Submission"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-semester-3-plan]]"
@@ -9,7 +8,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s3-assessments]]"
 modified: 2026-07-18
 ---
-# 9479 S3 Unit 6: Assembly & Submission
+# S3 Unit 6: Assembly & Submission
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-3-plan|Semester 3 Plan]] · Unit 6 · 4th of 4 this semester · ← [[classes/a-level-art-design/unit-plans/9479-s3-unit-5-final-outcomes|Unit 5]]
 

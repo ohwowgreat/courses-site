@@ -1,6 +1,5 @@
 ---
 title: Postmodern Media
-tags: [concept, media-studies, cie-9607, a2, media-debates, paper-4]
 related:
   - "[[concepts/media-regulation]]"
   - "[[concepts/power-and-the-media]]"
@@ -11,7 +10,7 @@ modified: 2026-07-20
 ---
 # Postmodern Media
 
-This is one of the three **A Level Media debates** topics (Syllabus 2027 pp.9, 18), and one of the two studied at BNDS, alongside [[concepts/power-and-the-media]]. The final choice of debate topics will be confirmed in class.
+This is one of the three **A Level Media debates** topics (Syllabus 2027 pp.9, 18), and one of the two studied at BNDS, alongside [[concepts/power-and-the-media|Power and the Media]]. The final choice of debate topics will be confirmed in class.
 
 The core question: **is the distinction between reality and representation collapsing, and does it matter?**
 
@@ -38,9 +37,9 @@ This two-way split — condition versus textual mode — is itself a good essay 
 
 ## The two named thinkers
 
-**[[entities/guy-debord]]** — *The Society of the Spectacle* (1967), "a critique of media-saturated capitalist culture… still relevant in diagnosing aspects of the postmodern condition."
+**[[entities/guy-debord|Guy Debord]]** — *The Society of the Spectacle* (1967), "a critique of media-saturated capitalist culture… still relevant in diagnosing aspects of the postmodern condition."
 
-**[[entities/fredric-jameson]]** — "diagnoses the postmodern condition as characterised by":
+**[[entities/fredric-jameson|Fredric Jameson]]** — "diagnoses the postmodern condition as characterised by":
 
 - "An ahistorical mode (lacking a sense of the past – history becomes another set of signifiers which can be played with)."
 - "A lack of distinction between 'high' and 'low' culture."

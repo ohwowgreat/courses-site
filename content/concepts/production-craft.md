@@ -1,6 +1,5 @@
 ---
 title: Production Craft
-tags: [concept, media-studies, cie-9607, ao3, coursework, production]
 related:
   - "[[concepts/process-evidence-and-reflection]]"
   - "[[concepts/technical-elements]]"
@@ -88,4 +87,4 @@ For C1: all images and text original; sound "predominantly original"; music from
 
 There is no specified format, placement or credit rule for how music must be acknowledged.
 
-Generative AI: Cambridge International has a policy on the use of generative AI by candidates in coursework. The inappropriate use of AI should be treated as a form of plagiarism. Under the 2028–30 spec AI images become permitted with documented prompts and justification — see [[classes/media-studies/media-studies]].
+Generative AI: Cambridge International has a policy on the use of generative AI by candidates in coursework. The inappropriate use of AI should be treated as a form of plagiarism. Under the 2028–30 spec AI images become permitted with documented prompts and justification — see [[classes/media-studies/media-studies|Media Studies]].

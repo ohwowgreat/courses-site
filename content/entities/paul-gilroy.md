@@ -1,6 +1,5 @@
 ---
 title: Paul Gilroy
-tags: [entity, theorist, media-studies, representation]
 related:
   - "[[concepts/representation]]"
   - "[[entities/stuart-hall]]"

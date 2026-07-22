@@ -1,6 +1,5 @@
 ---
-title: "PAL S1 Lesson 14: A3 — The Final Collage"
-tags: [pre-a-level, grade-10, lesson-plan, semester-1]
+title: "Lesson 14: A3 — The Final Collage"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage]]"
@@ -15,7 +14,7 @@ modified: 2026-07-21
   <figcaption>Claude Cahun, <em>Self-Portrait</em>, 1920</figcaption>
 </figure>
 
-# PAL S1 Lesson 14: A3 — The Final Collage
+# Lesson 14: A3 — The Final Collage
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|Unit 3]] · U3·L5 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-13-final-collage-production|L13]] | next unit: [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster|U4 Graphic Design & the Poster]] →
 

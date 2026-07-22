@@ -1,6 +1,5 @@
 ---
-title: "PAL S1 Lesson 17: The Portfolio and the Sketchbook"
-tags: [pre-a-level, grade-10, lesson-plan, semester-1]
+title: "Lesson 17: The Portfolio and the Sketchbook"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster]]"
@@ -14,7 +13,7 @@ modified: 2026-07-21
   <figcaption>Aoki Shukuya, <em>Double Album of Landscape Studies after Ikeno Taiga</em>, 18th century</figcaption>
 </figure>
 
-# PAL S1 Lesson 17: The Portfolio and the Sketchbook
+# Lesson 17: The Portfolio and the Sketchbook
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster|Unit 4]] · U4·L3 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-16-a4-the-final-poster|L16]] · **semester close**
 

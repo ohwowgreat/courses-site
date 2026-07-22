@@ -1,6 +1,5 @@
 ---
-title: "9607 S1 Lesson 13: A4 — Section A in Authentic Format"
-tags: [media-studies, cie-9607, lesson-plan, semester-1]
+title: "Lesson 13: A4 — Section A in Authentic Format"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts]]"
@@ -16,7 +15,7 @@ modified: 2026-07-22
   <figcaption>Underwood & Underwood, <em>Charles Lindbergh</em>, 1927 — the first global media event: one man, every channel</figcaption>
 </figure>
 
-# 9607 S1 Lesson 13: A4 — Section A in Authentic Format
+# Lesson 13: A4 — Section A in Authentic Format
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts|Unit 5]] · Lesson 13 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-12-institutions-and-section-a-craft|L12]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-14-consolidation-and-the-coverage-matrix|L14]] →
 

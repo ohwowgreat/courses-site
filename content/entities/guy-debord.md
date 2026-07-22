@@ -1,6 +1,5 @@
 ---
 title: Guy Debord
-tags: [entity, theorist, media-studies, postmodernism, a2]
 related:
   - "[[concepts/postmodern-media]]"
   - "[[concepts/power-and-the-media]]"
@@ -9,7 +8,7 @@ modified: 2026-07-20
 ---
 # Guy Debord
 
-Debord is the anchor for **The Society of the Spectacle** in the [[concepts/postmodern-media]] debate.
+Debord is the anchor for **The Society of the Spectacle** in the [[concepts/postmodern-media|Postmodern Media]] debate.
 
 ## The key claim
 
@@ -27,4 +26,4 @@ This turns an abstract diagnosis into observable features of a real text — the
 
 ## A connection worth making
 
-**Détournement** appears in [[concepts/power-and-the-media]] as a strategy of resistance, without attribution. It comes from the same tradition as Debord: the spectacle is the diagnosis, and détournement is the counter-move. Linking the two gives you a genuine synthesis to draw on.
+**Détournement** appears in [[concepts/power-and-the-media|Power and the Media]] as a strategy of resistance, without attribution. It comes from the same tradition as Debord: the spectacle is the diagnosis, and détournement is the counter-move. Linking the two gives you a genuine synthesis to draw on.

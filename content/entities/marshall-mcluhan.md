@@ -1,6 +1,5 @@
 ---
 title: Marshall McLuhan
-tags: [entity, theorist, media-studies, media-ecology, a2]
 related:
   - "[[concepts/media-ecology]]"
   - "[[entities/neil-postman]]"
@@ -8,7 +7,7 @@ modified: 2026-07-20
 ---
 # Marshall McLuhan
 
-Named, with [[entities/neil-postman]], as an origin of [[concepts/media-ecology]].
+Named, with [[entities/neil-postman|Neil Postman]], as an origin of [[concepts/media-ecology|Media Ecology]].
 
 ## What Cambridge attributes to him
 

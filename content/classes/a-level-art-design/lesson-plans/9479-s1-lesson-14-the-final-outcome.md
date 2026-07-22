@@ -1,6 +1,5 @@
 ---
-title: "9479 S1 Lesson 14: The Final Outcome"
-tags: [a-level-art-design, cie-9479, lesson-plan, semester-1]
+title: "S1 Lesson 14: The Final Outcome"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-5-final-outcome-and-portfolio]]"
@@ -8,7 +7,7 @@ related:
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-15-submission-week-and-a4]]"
 modified: 2026-07-17
 ---
-# 9479 S1 Lesson 14: The Final Outcome
+# S1 Lesson 14: The Final Outcome
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-5-final-outcome-and-portfolio|Unit 5]] · Lesson 14 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-13-final-plan-and-a3|L13]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-15-submission-week-and-a4|L15]] →
 

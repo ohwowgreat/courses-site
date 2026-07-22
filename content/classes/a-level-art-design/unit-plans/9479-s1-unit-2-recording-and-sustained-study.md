@@ -1,6 +1,5 @@
 ---
-title: "9479 S1 Unit 2: Recording & Sustained Study"
-tags: [a-level-art-design, cie-9479, unit-plan, semester-1]
+title: "S1 Unit 2: Recording & Sustained Study"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-semester-1-plan]]"
@@ -14,7 +13,7 @@ modified: 2026-07-17
   <figcaption>Vincent van Gogh, <em>The Potato Peeler</em>, 1885</figcaption>
 </figure>
 
-# 9479 S1 Unit 2: Recording & Sustained Study
+# S1 Unit 2: Recording & Sustained Study
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-1-plan|Semester 1 Plan]] · Unit 2 of 5 · ← [[classes/a-level-art-design/unit-plans/9479-s1-unit-1-foundations-on-the-theme|Unit 1]] | [[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study|Unit 3]] →
 

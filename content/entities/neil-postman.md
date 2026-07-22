@@ -1,6 +1,5 @@
 ---
 title: Neil Postman
-tags: [entity, theorist, media-studies, media-ecology, a2]
 related:
   - "[[concepts/media-ecology]]"
   - "[[entities/marshall-mcluhan]]"
@@ -8,7 +7,7 @@ modified: 2026-07-20
 ---
 # Neil Postman
 
-Named, with [[entities/marshall-mcluhan]], as the origin of [[concepts/media-ecology]].
+Named, with [[entities/marshall-mcluhan|Marshall McLuhan]], as the origin of [[concepts/media-ecology|Media Ecology]].
 
 ## What Cambridge attributes to him
 
@@ -26,6 +25,6 @@ For media ecology, Cambridge gives a **method** rather than a theory (SoW pp.25�
 
 The before/after contrast does most of the analytical work, and the exam rewards "informed, imaginative analysis" (SoW p.26) grounded in contemporary evidence. Separately, the syllabus requires you to "use key theories of media studies" (Syllabus 2027 p.13).
 
-The current form of this topic uses a three-era periodization and four structured focus areas — see [[concepts/media-ecology]].
+The current form of this topic uses a three-era periodization and four structured focus areas — see [[concepts/media-ecology|Media Ecology]].
 
 Grade 12, Semester 4 content. See [[classes/media-studies/unit-plans/9607-course-map|the course map]].

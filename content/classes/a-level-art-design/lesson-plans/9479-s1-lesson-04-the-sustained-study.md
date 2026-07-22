@@ -1,6 +1,5 @@
 ---
-title: "9479 S1 Lesson 04: The Sustained Study"
-tags: [a-level-art-design, cie-9479, lesson-plan, semester-1]
+title: "S1 Lesson 04: The Sustained Study"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study]]"
@@ -8,7 +7,7 @@ related:
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-05-recording-pages-and-a1]]"
 modified: 2026-07-17
 ---
-# 9479 S1 Lesson 04: The Sustained Study
+# S1 Lesson 04: The Sustained Study
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study|Unit 2]] · Lesson 04 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-03-intention-and-composition-planning|L03]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-05-recording-pages-and-a1|L05]] →
 

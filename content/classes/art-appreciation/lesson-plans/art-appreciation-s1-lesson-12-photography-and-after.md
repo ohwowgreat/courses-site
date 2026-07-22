@@ -1,6 +1,5 @@
 ---
-title: "Art Appreciation S1 Lesson 12: Photography and After"
-tags: [art-appreciation, lesson-plan, semester-1]
+title: "Lesson 12: Photography and After"
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity]]"
@@ -8,7 +7,7 @@ related:
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief]]"
 modified: 2026-07-19
 ---
-# Art Appreciation S1 Lesson 12: Photography and After
+# Lesson 12: Photography and After
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity|Unit 4]] · Lesson 12 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image|L11]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief|L13]] →
 

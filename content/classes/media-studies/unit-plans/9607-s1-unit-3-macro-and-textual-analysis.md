@@ -1,6 +1,5 @@
 ---
-title: "9607 S1 Unit 3: Macro and Textual Analysis"
-tags: [media-studies, cie-9607, unit-plan, semester-1]
+title: "Unit 3: Macro and Textual Analysis"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-semester-1-plan]]"
@@ -12,7 +11,7 @@ related:
   - "[[classes/media-studies/9607-resource-library]]"
 modified: 2026-07-22
 ---
-# 9607 S1 Unit 3: Macro and Textual Analysis
+# Unit 3: Macro and Textual Analysis
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-semester-1-plan|Semester 1 Plan]] · Unit 3 of 6 · ← [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] | [[classes/media-studies/unit-plans/9607-s1-unit-4-representation|Unit 4]] →
 

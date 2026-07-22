@@ -1,6 +1,5 @@
 ---
 title: Process Evidence and Reflection
-tags: [concept, media-studies, cie-9607, coursework, blog, ccr, spec-straddle]
 related:
   - "[[concepts/production-craft]]"
   - "[[concepts/four-key-concepts]]"
@@ -12,7 +11,7 @@ modified: 2026-07-20
 
 How you prove you made the thing, and what you say about it afterwards. Two of the five C1 marking criteria attach directly to this material, and the evidence layer is the part of the coursework that most often caps an otherwise strong product.
 
-**Which spec applies to you:** G11 sits the 2027 spec (blog + creative critical reflection). G12 sits the 2028–30 spec (slide portfolio + ~2000-word evaluative essay). Everything below is the **2027 regime** unless marked. See [[classes/media-studies/media-studies]].
+**Which spec applies to you:** G11 sits the 2027 spec (blog + creative critical reflection). G12 sits the 2028–30 spec (slide portfolio + ~2000-word evaluative essay). Everything below is the **2027 regime** unless marked. See [[classes/media-studies/media-studies|Media Studies]].
 
 ## The blog (2027 spec)
 
@@ -62,7 +61,7 @@ Individual, in any digital format you choose — director commentaries, a presen
 3. "How did your production skills develop throughout this project?"
 4. "How did you integrate technologies – software, hardware and online – in this project?"
 
-Note the shape: Q1 is Language + Representation, Q2 is Audience + Industry, Q3 and Q4 are AO3 process. The four questions are the [[concepts/four-key-concepts]] wearing a different hat.
+Note the shape: Q1 is Language + Representation, Q2 is Audience + Industry, Q3 and Q4 are AO3 process. The four questions are the [[concepts/four-key-concepts|Four Key Concepts]] wearing a different hat.
 
 The CCR must also state the role you adopted if working in a group and **draw on evidence from the research, production and editing stages**. It sits **before the final post** in your blog.
 

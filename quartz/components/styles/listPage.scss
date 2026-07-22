@@ -1,40 +1,22 @@
-@use "../../styles/variables.scss" as *;
-
 ul.section-ul {
   list-style: none;
   margin-top: 2em;
   padding-left: 0;
 }
 
+// Single-column rows: PageList renders titles only (no date or tag columns),
+// so the stock three-column grid would squeeze every title into a sliver.
 li.section-li {
-  margin-bottom: 1em;
+  margin-bottom: 0.4em;
 
   & > .section {
-    display: grid;
-    grid-template-columns: fit-content(8em) 3fr 1fr;
-
-    @media all and ($mobile) {
-      & > .tags {
-        display: none;
-      }
+    & > .desc > h3 {
+      font-size: 1.05rem;
+      font-weight: 500;
     }
 
     & > .desc > h3 > a {
       background-color: transparent;
     }
-
-    & .meta {
-      margin: 0 1em 0 0;
-      opacity: 0.6;
-    }
-  }
-}
-
-// modifications in popover context
-.popover .section {
-  grid-template-columns: fit-content(8em) 1fr !important;
-
-  & > .tags {
-    display: none;
   }
 }

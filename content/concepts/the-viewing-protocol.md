@@ -1,6 +1,5 @@
 ---
 title: The Viewing Protocol
-tags: [concept, media-studies, cie-9607, method, textual-analysis]
 related:
   - "[[concepts/technical-elements]]"
   - "[[concepts/media-language]]"
@@ -14,7 +13,7 @@ The course's core analytical method, worth building into a routine from week one
 
 > "The principle here is to break down an extract from a TV drama into its component parts and then reassemble them in order to reach some insights into how it produces particular meanings."
 
-You will also work through per-element exercises — shot-type drills, freeze-frame deconstruction, sound audits, mise-en-scène audits, editing timelines (see [[concepts/technical-elements]]). Extracts are chosen from within about five years of when you study them, from different organisations and across a mix of genres (see [[concepts/case-study-method]]).
+You will also work through per-element exercises — shot-type drills, freeze-frame deconstruction, sound audits, mise-en-scène audits, editing timelines (see [[concepts/technical-elements|Technical Elements]]). Extracts are chosen from within about five years of when you study them, from different organisations and across a mix of genres (see [[concepts/case-study-method|Case Study Method]]).
 
 ## The four passes
 
@@ -45,7 +44,7 @@ The protocol is not finished until the parts go back together:
 > - What kinds of competence does it require of the audience?
 > - How are particular representations of individuals, groups, events and places constructed through the technical elements identified?
 
-The last question is the one that converts description into exam marks. It is where the protocol hands off to [[concepts/representation]].
+The last question is the one that converts description into exam marks. It is where the protocol hands off to [[concepts/representation|Representation]].
 
 ## Choosing the extract
 

@@ -1,6 +1,5 @@
 ---
-title: "9607 S1 Lesson 07: Reading Systematically Toward the Blog Mid-Point"
-tags: [media-studies, cie-9607, lesson-plan, semester-1]
+title: "Lesson 07: Reading Systematically Toward the Blog Mid-Point"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis]]"
@@ -17,7 +16,7 @@ modified: 2026-07-22
   <figcaption>Caspar David Friedrich, <em>Wanderer Above the Sea of Fog</em>, 1818 — who is he? what does he see? the enigma code at work</figcaption>
 </figure>
 
-# 9607 S1 Lesson 07: Reading Systematically Toward the Blog Mid-Point
+# Lesson 07: Reading Systematically Toward the Blog Mid-Point
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis|Unit 3]] · Lesson 07 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis|L06]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product|L08]] →
 

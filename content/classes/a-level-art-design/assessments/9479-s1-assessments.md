@@ -1,6 +1,5 @@
 ---
-title: 9479 S1 Assessments
-tags: [a-level-art-design, cie-9479, assessment, semester-1]
+title: "A Level Art & Design · S1 Assessments"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-semester-1-plan]]"
@@ -12,7 +11,7 @@ related:
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-19
 ---
-# 9479 S1 Assessments
+# A Level Art & Design · S1 Assessments
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-1-plan|Semester 1 Plan]] · autumn 2026-27 (Component 1 Portfolio, G11)
 

@@ -1,10 +1,24 @@
-import { FullSlug, isFolderPath, resolveRelative } from "../util/path"
+import { isFolderPath, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
-import { Date, getDate } from "./Date"
+import { getDate } from "./Date"
 import { QuartzComponent, QuartzComponentProps } from "./types"
 import { GlobalConfiguration } from "../cfg"
 
 export type SortFn = (f1: QuartzPluginData, f2: QuartzPluginData) => number
+
+// content/ is regenerated wholesale on every sync, so file dates say nothing
+// about content order. Titles do: "Lesson 01" … "Lesson 16" is the teaching
+// sequence. Folders first, then title order, numeric-aware.
+export function byTitleFolderFirst(): SortFn {
+  const collator = new Intl.Collator("en", { numeric: true, sensitivity: "base" })
+  return (f1, f2) => {
+    const f1IsFolder = isFolderPath(f1.slug ?? "")
+    const f2IsFolder = isFolderPath(f2.slug ?? "")
+    if (f1IsFolder && !f2IsFolder) return -1
+    if (!f1IsFolder && f2IsFolder) return 1
+    return collator.compare(f1.frontmatter?.title ?? "", f2.frontmatter?.title ?? "")
+  }
+}
 
 export function byDateAndAlphabetical(cfg: GlobalConfiguration): SortFn {
   return (f1, f2) => {
@@ -57,8 +71,10 @@ type Props = {
   sort?: SortFn
 } & QuartzComponentProps
 
-export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort }: Props) => {
-  const sorter = sort ?? byDateAndAlphabeticalFolderFirst(cfg)
+// Listings show titles only: the regenerated file dates are meaningless and the
+// vault's tags are teacher taxonomy, so both columns were noise on every row.
+export const PageList: QuartzComponent = ({ fileData, allFiles, limit, sort }: Props) => {
+  const sorter = sort ?? byTitleFolderFirst()
   let list = allFiles.sort(sorter)
   if (limit) {
     list = list.slice(0, limit)
@@ -68,14 +84,10 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     <ul class="section-ul">
       {list.map((page) => {
         const title = page.frontmatter?.title
-        const tags = page.frontmatter?.tags ?? []
 
         return (
           <li class="section-li">
             <div class="section">
-              <p class="meta">
-                {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
-              </p>
               <div class="desc">
                 <h3>
                   <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
@@ -83,18 +95,6 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                   </a>
                 </h3>
               </div>
-              <ul class="tags">
-                {tags.map((tag) => (
-                  <li>
-                    <a
-                      class="internal tag-link"
-                      href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
-                    >
-                      {tag}
-                    </a>
-                  </li>
-                ))}
-              </ul>
             </div>
           </li>
         )

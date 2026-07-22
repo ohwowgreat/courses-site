@@ -1,6 +1,5 @@
 ---
-title: "9479 S3 Unit 5: Final Outcomes"
-tags: [a-level-art-design, cie-9479, unit-plan, semester-3]
+title: "S3 Unit 5: Final Outcomes"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-semester-3-plan]]"
@@ -9,7 +8,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s3-assessments]]"
 modified: 2026-07-18
 ---
-# 9479 S3 Unit 5: Final Outcomes
+# S3 Unit 5: Final Outcomes
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-3-plan|Semester 3 Plan]] · Unit 5 · 3rd of 4 this semester · ← [[classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass|Unit 4]] | [[classes/a-level-art-design/unit-plans/9479-s3-unit-6-assembly-and-submission|Unit 6]] →
 

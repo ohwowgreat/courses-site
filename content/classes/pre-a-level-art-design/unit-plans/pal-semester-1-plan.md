@@ -1,6 +1,5 @@
 ---
-title: PAL Semester 1 Plan
-tags: [pre-a-level, grade-10, semester-1, 2026-27]
+title: "Pre A Level Art & Design · Semester 1 Plan"
 related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
@@ -8,7 +7,7 @@ related:
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-19
 ---
-# PAL Semester 1 Plan
+# Pre A Level Art & Design · Semester 1 Plan
 
 > [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · Semester 1 (Grade 10 Art)
 
@@ -57,4 +56,4 @@ Each unit page carries the session-by-session detail: U1 [[classes/pre-a-level-a
 
 Grade scale: A\* ≥ 90 · A ≥ 80 · B ≥ 70 · C ≥ 60 · D ≥ 50 · E ≥ 40 · U ≥ 0.
 
-Grade split: Attainment 50 / Course Skills 20 / Learning Behaviour 10 / Final 20 — see [[shared/bnds-assessment-framework]].
+Grade split: Attainment 50 / Course Skills 20 / Learning Behaviour 10 / Final 20 — see [[shared/bnds-assessment-framework|BNDS Assessment Framework]].

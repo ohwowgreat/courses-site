@@ -1,6 +1,5 @@
 ---
-title: "PAL S1 Lesson 16: A4 — The Final Poster"
-tags: [pre-a-level, grade-10, lesson-plan, semester-1]
+title: "Lesson 16: A4 — The Final Poster"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster]]"
@@ -16,7 +15,7 @@ modified: 2026-07-21
   <figcaption>Aleksandr Rodchenko, <em>Pioneer Girl</em>, 1930</figcaption>
 </figure>
 
-# PAL S1 Lesson 16: A4 — The Final Poster
+# Lesson 16: A4 — The Final Poster
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster|Unit 4]] · U4·L2 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-15-the-poster-message-audience-hierarchy|L15]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-17-the-portfolio-and-the-sketchbook|L17]] →
 

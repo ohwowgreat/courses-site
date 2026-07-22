@@ -1,6 +1,5 @@
 ---
-title: "PAL S1 Lesson 11: Layering, Text and Image"
-tags: [pre-a-level, grade-10, lesson-plan, semester-1]
+title: "Lesson 11: Layering, Text and Image"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage]]"
@@ -16,7 +15,7 @@ modified: 2026-07-21
   <figcaption>El Lissitzky, <em>Kurt Schwitters</em>, c. 1924 — a photomontage portrait of the great collagist</figcaption>
 </figure>
 
-# PAL S1 Lesson 11: Layering, Text and Image
+# Lesson 11: Layering, Text and Image
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|Unit 3]] · U3·L2 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-10-juxtaposition-and-scale|L10]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-12-theme-and-composition-drafts|L12]] →
 

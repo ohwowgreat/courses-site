@@ -1,6 +1,5 @@
 ---
-title: 9607 Resource Library
-tags: [media-studies, cie-9607, resources, coursebook, worksheets, slides, past-papers]
+title: "Media Studies · Resource Library"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-semester-1-plan]]"
@@ -10,7 +9,7 @@ related:
   - "[[concepts/case-study-method]]"
 modified: 2026-07-21
 ---
-# 9607 Resource Library
+# Media Studies · Resource Library
 
 ## The coursebook
 

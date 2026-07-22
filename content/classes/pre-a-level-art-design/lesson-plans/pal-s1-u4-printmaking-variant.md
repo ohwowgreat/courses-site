@@ -1,6 +1,5 @@
 ---
-title: "PAL S1 U4: Printmaking Variant"
-tags: [pre-a-level, grade-10, lesson-plan, semester-1, printmaking, contingent]
+title: "Unit 4: Printmaking Variant"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster]]"
@@ -9,7 +8,7 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
 modified: 2026-07-19
 ---
-# PAL S1 U4: Printmaking Variant
+# Unit 4: Printmaking Variant
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan|Semester 1 Plan]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster|Unit 4]]
 

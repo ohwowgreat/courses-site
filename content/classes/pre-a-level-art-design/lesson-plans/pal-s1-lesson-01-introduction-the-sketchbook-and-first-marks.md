@@ -1,6 +1,5 @@
 ---
-title: "PAL S1 Lesson 01: Introduction, the Sketchbook and First Marks"
-tags: [pre-a-level, grade-10, lesson-plan, semester-1]
+title: "Lesson 01: Introduction, the Sketchbook and First Marks"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements]]"
@@ -15,7 +14,7 @@ modified: 2026-07-20
   <figcaption>Ilya Repin, <em>Leo Tolstoy at Work</em>, 1891</figcaption>
 </figure>
 
-# PAL S1 Lesson 01: Introduction, the Sketchbook and First Marks
+# Lesson 01: Introduction, the Sketchbook and First Marks
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1]] · U1·L1 · [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-02-tone-and-form|L02]] →
 

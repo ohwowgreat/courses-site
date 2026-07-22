@@ -1,6 +1,5 @@
 ---
-title: 9607 Semester 1 Plan
-tags: [media-studies, cie-9607, semester-1, c1-foundation-portfolio, 2026-27]
+title: "Media Studies · Semester 1 Plan"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-course-map]]"
@@ -8,7 +7,7 @@ related:
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-17
 ---
-# 9607 Semester 1 Plan
+# Media Studies · Semester 1 Plan
 
 [[classes/media-studies/media-studies|Media Studies]] · Semester 1 of 4 ([[classes/media-studies/unit-plans/9607-course-map|course map]])
 

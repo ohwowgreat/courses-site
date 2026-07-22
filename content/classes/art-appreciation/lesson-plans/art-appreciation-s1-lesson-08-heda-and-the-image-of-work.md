@@ -1,6 +1,5 @@
 ---
-title: "Art Appreciation S1 Lesson 08: Heda and the Image of Work"
-tags: [art-appreciation, lesson-plan, semester-1]
+title: "Lesson 08: Heda and the Image of Work"
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics]]"
@@ -8,7 +7,7 @@ related:
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-09-food-the-table-and-ethics]]"
 modified: 2026-07-17
 ---
-# Art Appreciation S1 Lesson 08: Heda and the Image of Work
+# Lesson 08: Heda and the Image of Work
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics|Unit 3]] · Lesson 08 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-07-the-split-weeks|L07]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-09-food-the-table-and-ethics|L09]] →
 

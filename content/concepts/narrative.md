@@ -1,6 +1,5 @@
 ---
 title: Narrative
-tags: [concept, media-studies, cie-9607, narrative-theory]
 related:
   - "[[concepts/media-language]]"
   - "[[concepts/technical-elements]]"
@@ -10,11 +9,11 @@ modified: 2026-07-20
 ---
 # Narrative
 
-At AS, narrative is mostly about **expectation** — how an opening plants enigmas, establishes roles, and sets a trajectory. It is not a separate key concept; it sits inside [[concepts/media-language]] and appears in both the C1 film-opening brief and Component 2 Section A.
+At AS, narrative is mostly about **expectation** — how an opening plants enigmas, establishes roles, and sets a trajectory. It is not a separate key concept; it sits inside [[concepts/media-language|Media Language]] and appears in both the C1 film-opening brief and Component 2 Section A.
 
 ## The theory you use
 
-No single narrative-structure model is prescribed. The only narrative apparatus Cambridge names is [[entities/roland-barthes]]' codes: the C1 film work refers to "Roland Barthes' 5 Narrative Codes," though the codes themselves are not listed for you.
+No single narrative-structure model is prescribed. The only narrative apparatus Cambridge names is [[entities/roland-barthes|Roland Barthes]]' codes: the C1 film work refers to "Roland Barthes' 5 Narrative Codes," though the codes themselves are not listed for you.
 
 You will also do narrative *analysis* through editing, without theory attached:
 - a narrative-mapping task (linear vs non-linear sequencing, flashbacks, parallel plotlines, cliffhanger placement)

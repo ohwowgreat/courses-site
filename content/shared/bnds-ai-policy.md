@@ -1,6 +1,5 @@
 ---
 title: BNDS AI Policy
-tags: [shared, ai, academic-honesty, bnds, policy]
 related:
   - "[[shared/bnds-assessment-framework]]"
   - "[[classes/a-level-art-design/a-level-art-design]]"

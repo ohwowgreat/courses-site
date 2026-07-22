@@ -1,6 +1,5 @@
 ---
-title: "PAL S1 Lesson 15: The Poster — Message, Audience, Hierarchy"
-tags: [pre-a-level, grade-10, lesson-plan, semester-1]
+title: "Lesson 15: The Poster — Message, Audience, Hierarchy"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster]]"
@@ -17,7 +16,7 @@ modified: 2026-07-21
   <figcaption>Alphonse Mucha, <em>Calendar of Cherry Blossom</em>, 1898</figcaption>
 </figure>
 
-# PAL S1 Lesson 15: The Poster — Message, Audience, Hierarchy
+# Lesson 15: The Poster — Message, Audience, Hierarchy
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster|Unit 4]] · U4·L1 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage|L14]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-16-a4-the-final-poster|L16]] →
 

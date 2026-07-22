@@ -1,6 +1,5 @@
 ---
-title: 9479 Course Map
-tags: [a-level-art-design, cie-9479, course-map]
+title: "A Level Art & Design · Course Map"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-semester-1-plan]]"
@@ -8,7 +7,7 @@ related:
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-18
 ---
-# 9479 Course Map
+# A Level Art & Design · Course Map
 
 > [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · the whole two-year course at a glance
 

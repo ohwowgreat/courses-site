@@ -1,6 +1,5 @@
 ---
-title: "PAL S1 Lesson 04: Composing the Final Drawing"
-tags: [pre-a-level, grade-10, lesson-plan, semester-1]
+title: "Lesson 04: Composing the Final Drawing"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements]]"
@@ -16,7 +15,7 @@ modified: 2026-07-20
   <figcaption>Clara Peeters, <em>Still Life with Cheeses, Almonds and Pretzels</em>, c. 1613</figcaption>
 </figure>
 
-# PAL S1 Lesson 04: Composing the Final Drawing
+# Lesson 04: Composing the Final Drawing
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1]] · U1·L4 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-03-texture-mark-making-and-negative-space|L03]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing|L05]] →
 

@@ -1,12 +1,11 @@
 ---
-title: Art Appreciation Semester 2 Outline
-tags: [art-appreciation, semester-2, unit-plan, outline, 2026-27]
+title: "Art Appreciation · Semester 2 Outline"
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan]]"
 modified: 2026-07-17
 ---
-# Art Appreciation Semester 2 Outline
+# Art Appreciation · Semester 2 Outline
 
 > [[classes/art-appreciation/art-appreciation|Art Appreciation]] · Semester 2 · previous: [[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan|Semester 1 Plan]]
 

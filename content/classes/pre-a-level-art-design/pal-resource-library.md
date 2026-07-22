@@ -1,6 +1,5 @@
 ---
-title: PAL Resource Library
-tags: [pre-a-level, grade-10, resources, slides, worksheets, semester-1]
+title: "Pre A Level Art & Design · Resource Library"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan]]"
@@ -9,7 +8,7 @@ related:
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-u4-printmaking-variant]]"
 modified: 2026-07-20
 ---
-# PAL Resource Library
+# Pre A Level Art & Design · Resource Library
 
 See [[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan|the semester plan]] for what is taught when.
 

@@ -1,13 +1,12 @@
 ---
-title: 9607 Course Map
-tags: [media-studies, cie-9607, course-map]
+title: "Media Studies · Course Map"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-semester-1-plan]]"
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-17
 ---
-# 9607 Course Map
+# Media Studies · Course Map
 
 > [[classes/media-studies/media-studies|Media Studies]] · the whole two-year course at a glance
 

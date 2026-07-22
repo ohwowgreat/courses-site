@@ -1,6 +1,5 @@
 ---
-title: 9479 Semester 4 Plan
-tags: [a-level-art-design, cie-9479, semester-4, c2-externally-set-assignment, 2027-28]
+title: "A Level Art & Design · Semester 4 Plan"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-course-map]]"
@@ -9,7 +8,7 @@ related:
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-18
 ---
-# 9479 Semester 4 Plan
+# A Level Art & Design · Semester 4 Plan
 
 > [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · Semester 4 of 4 ([[classes/a-level-art-design/unit-plans/9479-course-map|course map]]) · ← [[classes/a-level-art-design/unit-plans/9479-semester-3-plan|S3 C3 part 2]] · course closes
 

@@ -1,6 +1,5 @@
 ---
-title: "Art Appreciation S1 Lesson 14: The Retrospective"
-tags: [art-appreciation, lesson-plan, semester-1]
+title: "Lesson 14: The Retrospective"
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-5-semester-close-and-retrospective]]"
@@ -8,7 +7,7 @@ related:
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-15-return]]"
 modified: 2026-07-19
 ---
-# Art Appreciation S1 Lesson 14: The Retrospective
+# Lesson 14: The Retrospective
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-5-semester-close-and-retrospective|Unit 5]] · Lesson 14 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief|L13]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-15-return|L15]] →
 

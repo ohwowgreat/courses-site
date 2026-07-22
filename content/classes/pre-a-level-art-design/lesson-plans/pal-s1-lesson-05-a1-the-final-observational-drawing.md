@@ -1,6 +1,5 @@
 ---
-title: "PAL S1 Lesson 05: A1 — The Final Observational Drawing"
-tags: [pre-a-level, grade-10, lesson-plan, semester-1]
+title: "Lesson 05: A1 — The Final Observational Drawing"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements]]"
@@ -15,7 +14,7 @@ modified: 2026-07-20
   <figcaption>Ilya Repin, <em>Portrait of a Russian Peasant</em>, 1871</figcaption>
 </figure>
 
-# PAL S1 Lesson 05: A1 — The Final Observational Drawing
+# Lesson 05: A1 — The Final Observational Drawing
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1]] · U1·L5 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-04-composing-the-final-drawing|L04]] | next unit: [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography|U2 Photography]] →
 

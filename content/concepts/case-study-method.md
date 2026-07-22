@@ -1,6 +1,5 @@
 ---
 title: Case Study Method
-tags: [concept, media-studies, cie-9607, method, paper-2-section-b, paper-4]
 related:
   - "[[concepts/media-industry]]"
   - "[[concepts/media-audience]]"

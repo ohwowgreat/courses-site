@@ -1,6 +1,5 @@
 ---
-title: "9607 S1 Lesson 09: The Gaze"
-tags: [media-studies, cie-9607, lesson-plan, semester-1]
+title: "Lesson 09: The Gaze"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-4-representation]]"
@@ -17,7 +16,7 @@ modified: 2026-07-22
   <figcaption>Édouard Manet, <em>A Bar at the Folies-Bergère</em>, 1882 — who is looking at whom? the mirror refuses to agree</figcaption>
 </figure>
 
-# 9607 S1 Lesson 09: The Gaze
+# Lesson 09: The Gaze
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-4-representation|Unit 4]] · Lesson 09 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product|L08]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-10-the-creative-critical-reflection|L10]] →
 

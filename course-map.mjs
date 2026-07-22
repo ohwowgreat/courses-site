@@ -11,7 +11,10 @@
 //   "9479 Semester 1 Plan"                  → Semester 1 plan
 export function classify(rel, title) {
   const base = rel.split("/").pop().replace(/\.md$/, "")
-  if (base === "course-calendar") return { group: "calendar", label: "Calendar", sort: 0 }
+  // Curated folder-listing pages: navigation chrome, not course content.
+  if (base === "index") return null
+  // "Course calendar", to keep it distinct from the site-wide Calendar link.
+  if (base === "course-calendar") return { group: "calendar", label: "Course calendar", sort: 0 }
   if (rel.includes("assessments/")) {
     const m = title.match(/\bS(\d)\b/i)
     return { group: "assessments", label: m ? `S${m[1]} assessments` : "Assessments", sort: m ? +m[1] : 0 }
@@ -28,9 +31,9 @@ export function classify(rel, title) {
     return { group: "units", label: `U${n} ${t}`, sort: sem * 100 + n, sem }
   }
   if (rel.includes("unit-plans/")) {
-    // course maps, semester plans, outlines
+    // course maps, semester plans, outlines — titles may carry a "Course ·" prefix
     const label = title
-      .replace(/^[\w& ]*?(Course Map|Semester \d (?:Plan|Outline))$/i, "$1")
+      .replace(/^.*?(Course Map|Semester \d (?:Plan|Outline))$/i, "$1")
       .replace(/^Course Map$/i, "Course map")
       .replace(/Plan$/, "plan")
       .replace(/Outline$/, "outline")

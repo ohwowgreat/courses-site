@@ -1,6 +1,5 @@
 ---
-title: PAL S1 Assessments
-tags: [pre-a-level, grade-10, assessments, semester-1]
+title: "Pre A Level Art & Design · S1 Assessments"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan]]"
@@ -10,11 +9,11 @@ related:
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster]]"
 modified: 2026-07-20
 ---
-# PAL S1 Assessments
+# Pre A Level Art & Design · S1 Assessments
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan|Semester 1 Plan]]
 
-Assessments for Grade 10 Art, Semester 1 (2026-27), graded under the BNDS A-Level Handbook categories — see [[shared/bnds-assessment-framework]] for the framework. Weights: **Attainment 50% · Course Skills 20% · Learning Behaviour 10% · End of Term Exam 20%**.
+Assessments for Grade 10 Art, Semester 1 (2026-27), graded under the BNDS A-Level Handbook categories — see [[shared/bnds-assessment-framework|BNDS Assessment Framework]] for the framework. Weights: **Attainment 50% · Course Skills 20% · Learning Behaviour 10% · End of Term Exam 20%**.
 
 ## Attainments (50%) — A1–A5
 

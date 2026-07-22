@@ -1,6 +1,5 @@
 ---
 title: Stuart Hall
-tags: [entity, theorist, media-studies, audience, reception]
 related:
   - "[[concepts/media-audience]]"
   - "[[concepts/representation]]"
@@ -25,4 +24,4 @@ Hall is also studied as a **representation theorist**. When you learn the concep
 
 ## Where it leads
 
-Encoding/decoding is the bridge from thinking about audiences as a target to thinking about audiences as interpreters. It feeds forward into [[concepts/power-and-the-media]], where the question of whose reading counts becomes the topic itself.
+Encoding/decoding is the bridge from thinking about audiences as a target to thinking about audiences as interpreters. It feeds forward into [[concepts/power-and-the-media|Power and the Media]], where the question of whose reading counts becomes the topic itself.

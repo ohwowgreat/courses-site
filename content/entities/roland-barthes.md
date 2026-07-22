@@ -1,6 +1,5 @@
 ---
 title: Roland Barthes
-tags: [entity, theorist, media-studies, semiotics]
 related:
   - "[[concepts/media-language]]"
   - "[[concepts/narrative]]"
@@ -9,7 +8,7 @@ modified: 2026-07-20
 ---
 # Roland Barthes
 
-Roland Barthes is the most-used theorist in this course, and one of two named theorists for the AS year (the other is [[entities/stuart-hall]]).
+Roland Barthes is the most-used theorist in this course, and one of two named theorists for the AS year (the other is [[entities/stuart-hall|Stuart Hall]]).
 
 ## His two contributions
 
@@ -20,7 +19,7 @@ Roland Barthes is the most-used theorist in this course, and one of two named th
 ## Where he fits in the course
 
 - **[[concepts/media-language]]** — denotation and connotation is the ladder the whole of Unit 2 climbs. The denotation-before-connotation discipline is built into CS1 in [[classes/media-studies/lesson-plans/9607-s1-lesson-01-the-four-key-concepts|L01]] and marked in A1.
-- **[[concepts/narrative]]** — the enigma code gives narrative analysis explanatory depth without heavy theory, and connects directly to the C1 film-opening research question "how does the film establish an enigma from the outset?"
+- **[[concepts/narrative|Narrative]]** — the enigma code gives narrative analysis explanatory depth without heavy theory, and connects directly to the C1 film-opening research question "how does the film establish an enigma from the outset?"
 - **C1 research** — signs and codes are the vocabulary you use to annotate real film openings and magazine covers.
 
 ## In class

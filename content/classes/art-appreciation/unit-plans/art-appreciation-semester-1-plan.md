@@ -1,6 +1,5 @@
 ---
-title: Art Appreciation Semester 1 Plan
-tags: [art-appreciation, semester-1, warburg, 2026-27]
+title: "Art Appreciation · Semester 1 Plan"
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-semester-2-outline]]"
@@ -8,7 +7,7 @@ related:
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-19
 ---
-# Art Appreciation Semester 1 Plan
+# Art Appreciation · Semester 1 Plan
 
 > [!note] Your weekly schedule
 > **Mon P4 (45') · Tue P6+7 (double, 90') · Wed P1 (45') · Fri P2 (45').** Four teaching days, five periods, one double, 225 minutes a week. **There is no Thursday session.**

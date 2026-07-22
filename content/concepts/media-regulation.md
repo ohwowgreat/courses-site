@@ -1,6 +1,5 @@
 ---
 title: Media Regulation
-tags: [concept, media-studies, cie-9607, a2, media-debates, paper-4]
 related:
   - "[[concepts/postmodern-media]]"
   - "[[concepts/power-and-the-media]]"
@@ -56,7 +55,7 @@ The internet complicates all of them: "The debates about internet regulation are
 >
 > So you may: study your own region (preferred); use the UK model; or focus on intellectual property, ownership, piracy and misinformation rather than morality and press freedom.
 
-At BNDS the two debate topics studied are [[concepts/postmodern-media]] and [[concepts/power-and-the-media]]; media regulation may be studied as an alternative. Which topics you take will be confirmed in class.
+At BNDS the two debate topics studied are [[concepts/postmodern-media|Postmodern Media]] and [[concepts/power-and-the-media|Power and the Media]]; media regulation may be studied as an alternative. Which topics you take will be confirmed in class.
 
 ## No regulator or theorist is prescribed
 

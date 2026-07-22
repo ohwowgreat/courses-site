@@ -1,6 +1,5 @@
 ---
-title: "9607 S1 Lesson 04: Genre and Camera"
-tags: [media-studies, cie-9607, lesson-plan, semester-1]
+title: "Lesson 04: Genre and Camera"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-2-media-language]]"
@@ -15,7 +14,7 @@ modified: 2026-07-22
   <figcaption>Aleksandr Rodchenko, <em>At the Telephone</em>, 1928 — name the camera position; then name what it does to you</figcaption>
 </figure>
 
-# 9607 S1 Lesson 04: Genre and Camera
+# Lesson 04: Genre and Camera
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] · Lesson 04 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-03-sign-types-and-codes|L03]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock|L05]] →
 

@@ -1,6 +1,5 @@
 ---
-title: 9479 S2 Assessments
-tags: [a-level-art-design, cie-9479, assessment, semester-2]
+title: "A Level Art & Design · S2 Assessments"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-semester-2-plan]]"
@@ -12,7 +11,7 @@ related:
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-18
 ---
-# 9479 S2 Assessments
+# A Level Art & Design · S2 Assessments
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-2-plan|Semester 2 Plan]] · full register, spring 2026-27 (Component 3 Personal Investigation part 1, G11)
 

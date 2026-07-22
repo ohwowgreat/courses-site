@@ -1,6 +1,5 @@
 ---
-title: "Art Appreciation S1 Lesson 06: The Table as Moral Space"
-tags: [art-appreciation, lesson-plan, semester-1]
+title: "Lesson 06: The Table as Moral Space"
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics]]"
@@ -8,7 +7,7 @@ related:
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-07-the-split-weeks]]"
 modified: 2026-07-17
 ---
-# Art Appreciation S1 Lesson 06: The Table as Moral Space
+# Lesson 06: The Table as Moral Space
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics|Unit 3]] · Lesson 06 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet|L05]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-07-the-split-weeks|L07]] →
 

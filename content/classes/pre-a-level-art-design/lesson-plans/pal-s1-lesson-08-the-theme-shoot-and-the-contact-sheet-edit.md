@@ -1,6 +1,5 @@
 ---
-title: "PAL S1 Lesson 08: The Theme Shoot and the Contact-Sheet Edit"
-tags: [pre-a-level, grade-10, lesson-plan, semester-1]
+title: "Lesson 08: The Theme Shoot and the Contact-Sheet Edit"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography]]"
@@ -16,7 +15,7 @@ modified: 2026-07-21
   <figcaption>William Henry Fox Talbot, <em>Articles of Glass</em>, 1844</figcaption>
 </figure>
 
-# PAL S1 Lesson 08: The Theme Shoot and the Contact-Sheet Edit
+# Lesson 08: The Theme Shoot and the Contact-Sheet Edit
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography|Unit 2]] · U2·L3 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-07-light-shadow-and-the-series-theme|L07]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-09-a2-the-photographic-series|L09]] →
 

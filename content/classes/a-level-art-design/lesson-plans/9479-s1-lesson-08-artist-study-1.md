@@ -1,6 +1,5 @@
 ---
-title: "9479 S1 Lesson 08: Artist Study 1"
-tags: [a-level-art-design, cie-9479, lesson-plan, semester-1]
+title: "S1 Lesson 08: Artist Study 1"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study]]"
@@ -8,7 +7,7 @@ related:
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-09-artist-2-bridge-piece-and-a2]]"
 modified: 2026-07-17
 ---
-# 9479 S1 Lesson 08: Artist Study 1
+# S1 Lesson 08: Artist Study 1
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study|Unit 3]] · Lesson 08 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-07-selection-and-scale|L07]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-09-artist-2-bridge-piece-and-a2|L09]] →
 

@@ -1,6 +1,5 @@
 ---
 title: Technical Elements
-tags: [concept, media-studies, cie-9607, moving-image, paper-2]
 related:
   - "[[concepts/media-language]]"
   - "[[concepts/media-vocabulary]]"
@@ -19,7 +18,7 @@ The syllabus frames it as a means, not an end (Syllabus 2027 p.16):
 
 **Naming alone earns little.** The mark is in technique → meaning → representation. This is the single most repeated correction in the course.
 
-Every exercise routes technique through representation of **class, age, gender, ethnicity**. For the theorists connected to this, see [[concepts/representation]].
+Every exercise routes technique through representation of **class, age, gender, ethnicity**. For the theorists connected to this, see [[concepts/representation|Representation]].
 
 ## The four elements, per the syllabus (p.16)
 
@@ -59,7 +58,7 @@ For ESL learners this is the highest-yield element: costume, lighting and colour
 > [!important] Commonly misfiled
 > **Long take, short take and slow motion are filed under Editing**, not camera.
 
-Editing is invisible until you make it visible — which is what the cut-counting exercise in [[concepts/the-viewing-protocol]] is for.
+Editing is invisible until you make it visible — which is what the cut-counting exercise in [[concepts/the-viewing-protocol|The Viewing Protocol]] is for.
 
 ## How it is examined
 
@@ -79,4 +78,4 @@ This frame is the direct rehearsal for A1 and A4 in [[classes/media-studies/asse
 
 ## Spec note
 
-The 2027 spec screens the extract from **DVD, four times**. Under the 2028–30 syllabus the exam is digital and the extract is embedded in the platform — see [[classes/media-studies/media-studies]] for the straddle. The technical vocabulary transfers unchanged; the **format practice does not**.
+The 2027 spec screens the extract from **DVD, four times**. Under the 2028–30 syllabus the exam is digital and the extract is embedded in the platform — see [[classes/media-studies/media-studies|Media Studies]] for the straddle. The technical vocabulary transfers unchanged; the **format practice does not**.

@@ -1,6 +1,5 @@
 ---
-title: "Art Appreciation S1 Unit 4: Images, Mediation and Modernity"
-tags: [art-appreciation, unit-plan, semester-1]
+title: "Unit 4: Images, Mediation and Modernity"
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan]]"
@@ -13,7 +12,7 @@ related:
   - "[[classes/art-appreciation/assessments/art-appreciation-s1-assessments]]"
 modified: 2026-07-19
 ---
-# Art Appreciation S1 Unit 4: Images, Mediation and Modernity
+# Unit 4: Images, Mediation and Modernity
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan|Semester 1 Plan]] · Unit 4 of 5 · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics|← Unit 3]] | [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-5-semester-close-and-retrospective|Unit 5 →]]
 

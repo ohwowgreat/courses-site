@@ -1,6 +1,5 @@
 ---
-title: "Art Appreciation S1 Lesson 11: Aura and the Poor Image"
-tags: [art-appreciation, lesson-plan, semester-1]
+title: "Lesson 11: Aura and the Poor Image"
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity]]"
@@ -8,7 +7,7 @@ related:
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-12-photography-and-after]]"
 modified: 2026-07-19
 ---
-# Art Appreciation S1 Lesson 11: Aura and the Poor Image
+# Lesson 11: Aura and the Poor Image
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity|Unit 4]] · Lesson 11 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-10-berger-and-the-reproduction|L10]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-12-photography-and-after|L12]] →
 

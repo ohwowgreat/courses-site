@@ -1,6 +1,5 @@
 ---
 title: bell hooks
-tags: [entity, theorist, media-studies, representation, gaze]
 related:
   - "[[concepts/representation]]"
   - "[[entities/liesbet-van-zoonen]]"

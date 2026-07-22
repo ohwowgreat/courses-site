@@ -1,6 +1,5 @@
 ---
-title: "PAL S1 Lesson 07: Light, Shadow and the Series Theme"
-tags: [pre-a-level, grade-10, lesson-plan, semester-1]
+title: "Lesson 07: Light, Shadow and the Series Theme"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography]]"
@@ -16,7 +15,7 @@ modified: 2026-07-21
   <figcaption>Frederick H. Evans, <em>Lincoln Cathedral From the Castle</em>, 1898</figcaption>
 </figure>
 
-# PAL S1 Lesson 07: Light, Shadow and the Series Theme
+# Lesson 07: Light, Shadow and the Series Theme
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography|Unit 2]] · U2·L2 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-06-framing-and-viewpoint|L06]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-08-the-theme-shoot-and-the-contact-sheet-edit|L08]] →
 

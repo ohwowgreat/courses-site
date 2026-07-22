@@ -1,6 +1,5 @@
 ---
-title: "9607 S1 Lesson 14: Consolidation and the Coverage Matrix"
-tags: [media-studies, cie-9607, lesson-plan, semester-1]
+title: "Lesson 14: Consolidation and the Coverage Matrix"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation]]"
@@ -16,7 +15,7 @@ modified: 2026-07-22
   <figcaption>Loewy & Puiseux, plate from the <em>Atlas Photographique de la Lune</em>, c. 1900 — the whole surface, plate by plate, so no region goes unexamined</figcaption>
 </figure>
 
-# 9607 S1 Lesson 14: Consolidation and the Coverage Matrix
+# Lesson 14: Consolidation and the Coverage Matrix
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation|Unit 6]] · Lesson 14 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-13-a4-section-a-in-authentic-format|L13]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-15-exam-rehearsal|L15]] →
 

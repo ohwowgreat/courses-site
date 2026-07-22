@@ -1,6 +1,5 @@
 ---
-title: "9479 S1 Lesson 06: Media Exploration"
-tags: [a-level-art-design, cie-9479, lesson-plan, semester-1]
+title: "S1 Lesson 06: Media Exploration"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study]]"
@@ -8,7 +7,7 @@ related:
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-07-selection-and-scale]]"
 modified: 2026-07-17
 ---
-# 9479 S1 Lesson 06: Media Exploration
+# S1 Lesson 06: Media Exploration
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study|Unit 3]] · Lesson 06 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-05-recording-pages-and-a1|L05]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-07-selection-and-scale|L07]] →
 

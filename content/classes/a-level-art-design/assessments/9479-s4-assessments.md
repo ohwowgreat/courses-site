@@ -1,6 +1,5 @@
 ---
-title: 9479 S4 Assessments
-tags: [a-level-art-design, cie-9479, assessment, semester-4]
+title: "A Level Art & Design · S4 Assessments"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-semester-4-plan]]"
@@ -12,7 +11,7 @@ related:
   - "[[shared/bnds-assessment-framework]]"
 modified: 2026-07-18
 ---
-# 9479 S4 Assessments
+# A Level Art & Design · S4 Assessments
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-4-plan|Semester 4 Plan]] · spring 2027-28 (Component 2 Externally Set Assignment + all-component submission, G12)
 

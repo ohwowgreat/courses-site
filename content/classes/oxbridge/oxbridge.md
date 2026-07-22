@@ -1,6 +1,5 @@
 ---
 title: Oxbridge
-tags: [course, oxbridge, applications]
 related:
 modified: 2026-07-18
 ---
@@ -19,5 +18,5 @@ Related G12 application dates on the same calendar:
 - UC applications: 2026-11-30
 - Mid-year transcript: 2027-01-22
 
-<nav class="cmap"><div class="cmap-col"><h3 class="cmap-h">Plan</h3><ul><li><a href="classes/oxbridge/course-calendar">Calendar</a></li></ul></div></nav>
+<nav class="cmap"><div class="cmap-col"><h3 class="cmap-h">Plan</h3><ul><li><a href="classes/oxbridge/course-calendar">Course calendar</a></li></ul></div></nav>
 

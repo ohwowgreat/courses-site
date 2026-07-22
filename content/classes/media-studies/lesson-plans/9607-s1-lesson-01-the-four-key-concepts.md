@@ -1,6 +1,5 @@
 ---
-title: "9607 S1 Lesson 01: The Four Key Concepts"
-tags: [media-studies, cie-9607, lesson-plan, semester-1]
+title: "Lesson 01: The Four Key Concepts"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-1-introduction]]"
@@ -15,7 +14,7 @@ modified: 2026-07-22
   <figcaption>Underwood & Underwood, <em>Mother, Wife, and Sweetheart Watching Boys of the Seventh Regiment as They Marched Away to War</em>, c. 1917 — the caption tells you who they are and how to feel</figcaption>
 </figure>
 
-# 9607 S1 Lesson 01: The Four Key Concepts
+# Lesson 01: The Four Key Concepts
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-1-introduction|Unit 1]] · Lesson 01 of 16 · [[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-how-images-mean|L02]] →
 

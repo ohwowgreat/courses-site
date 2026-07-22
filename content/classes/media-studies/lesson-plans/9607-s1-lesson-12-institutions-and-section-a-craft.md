@@ -1,6 +1,5 @@
 ---
-title: "9607 S1 Lesson 12: Institutions and Section A Craft"
-tags: [media-studies, cie-9607, lesson-plan, semester-1]
+title: "Lesson 12: Institutions and Section A Craft"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts]]"
@@ -16,7 +15,7 @@ modified: 2026-07-22
   <figcaption>Underwood & Underwood, <em>Above Fifth Avenue, Looking North</em>, c. 1905 — the industry at work: somebody pays for this vantage</figcaption>
 </figure>
 
-# 9607 S1 Lesson 12: Institutions and Section A Craft
+# Lesson 12: Institutions and Section A Craft
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts|Unit 5]] · Lesson 12 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission|L11]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-13-a4-section-a-in-authentic-format|L13]] →
 

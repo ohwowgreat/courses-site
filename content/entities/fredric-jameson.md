@@ -1,6 +1,5 @@
 ---
 title: Fredric Jameson
-tags: [entity, theorist, media-studies, postmodernism, a2]
 related:
   - "[[concepts/postmodern-media]]"
   - "[[entities/guy-debord]]"
@@ -30,4 +29,4 @@ The list is also exhaustive enough to argue against. The syllabus requires "the 
 
 ## Relation to Debord
 
-Cambridge sequences these deliberately: [[entities/guy-debord]] first (1967, spectacle), then "similarly, and more recently, Fredric Jameson." The implied argument is continuity — a diagnosis of image-saturated culture restated for a later moment. Cambridge does not develop the comparison, but you could.
+Cambridge sequences these deliberately: [[entities/guy-debord|Guy Debord]] first (1967, spectacle), then "similarly, and more recently, Fredric Jameson." The implied argument is continuity — a diagnosis of image-saturated culture restated for a later moment. Cambridge does not develop the comparison, but you could.

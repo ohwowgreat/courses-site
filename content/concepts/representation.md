@@ -1,6 +1,5 @@
 ---
 title: Representation
-tags: [concept, media-studies, cie-9607, key-concept-2]
 related:
   - "[[concepts/four-key-concepts]]"
   - "[[concepts/technical-elements]]"
@@ -53,15 +52,15 @@ Many of these bullets are about **context and change**: social, cultural, histor
 
 ## How it enters the exam
 
-Component 2 Section A fuses representation with [[concepts/technical-elements]]: you "discuss… how the following technical elements create specific representations of individuals/groups/events/places, and help to articulate specific messages and values that have social significance" (Syllabus 2027 p.16).
+Component 2 Section A fuses representation with [[concepts/technical-elements|Technical Elements]]: you "discuss… how the following technical elements create specific representations of individuals/groups/events/places, and help to articulate specific messages and values that have social significance" (Syllabus 2027 p.16).
 
 So the exam question is always some version of: **how is this person / group / place constructed, and to what effect?** An answer that names techniques without reaching representation has answered half the question.
 
-The reassembly stage of [[concepts/the-viewing-protocol]] is where you practise this handoff: "How are particular representations of individuals, groups, events and places constructed through the technical elements identified?" (SoW p.14).
+The reassembly stage of [[concepts/the-viewing-protocol|The Viewing Protocol]] is where you practise this handoff: "How are particular representations of individuals, groups, events and places constructed through the technical elements identified?" (SoW p.14).
 
 ## Exercises you will do
 
-- **Compare the coverage:** "Find two or three news stories about refugees/asylum seekers. How are they represented? What rhetoric is used? How is the reader positioned in relation to the refugees?" What is selected, what is omitted, how the reader is positioned. This connects to the [[concepts/power-and-the-media]] debate.
+- **Compare the coverage:** "Find two or three news stories about refugees/asylum seekers. How are they represented? What rhetoric is used? How is the reader positioned in relation to the refugees?" What is selected, what is omitted, how the reader is positioned. This connects to the [[concepts/power-and-the-media|Power and the Media]] debate.
 - **Magazine representation grid:** "To what extent does the image conform to conventional ways of portraying men, women and celebrities? How are ethnic, cultural and subcultural dimensions emphasised or not?"
 - **Advertising and power:** "What kinds of representations of women can you find in advertising? How 'powerful' are they?"
 - **Stills annotation:** frames annotated with technical terms *plus* the representation each choice constructs.

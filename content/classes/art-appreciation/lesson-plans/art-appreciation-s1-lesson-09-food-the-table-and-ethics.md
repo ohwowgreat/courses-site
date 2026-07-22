@@ -1,6 +1,5 @@
 ---
-title: "Art Appreciation S1 Lesson 09: Food, the Table and Ethics"
-tags: [art-appreciation, lesson-plan, semester-1]
+title: "Lesson 09: Food, the Table and Ethics"
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics]]"
@@ -8,7 +7,7 @@ related:
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-10-berger-and-the-reproduction]]"
 modified: 2026-07-19
 ---
-# Art Appreciation S1 Lesson 09: Food, the Table and Ethics
+# Lesson 09: Food, the Table and Ethics
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics|Unit 3]] · Lesson 09 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-08-heda-and-the-image-of-work|L08]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-10-berger-and-the-reproduction|L10]] →
 

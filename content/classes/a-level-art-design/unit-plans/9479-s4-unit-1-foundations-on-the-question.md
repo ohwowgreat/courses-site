@@ -1,6 +1,5 @@
 ---
-title: "9479 S4 Unit 1: Foundations on the Question"
-tags: [a-level-art-design, cie-9479, unit-plan, semester-4]
+title: "S4 Unit 1: Foundations on the Question"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-semester-4-plan]]"
@@ -8,7 +7,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
 modified: 2026-07-18
 ---
-# 9479 S4 Unit 1: Foundations on the Question
+# S4 Unit 1: Foundations on the Question
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-4-plan|Semester 4 Plan]] · Unit 1 of 5 · [[classes/a-level-art-design/unit-plans/9479-s4-unit-2-recording|Unit 2]] →
 

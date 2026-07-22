@@ -1,6 +1,5 @@
 ---
-title: "PAL S1 Lesson 10: Juxtaposition and Scale"
-tags: [pre-a-level, grade-10, lesson-plan, semester-1]
+title: "Lesson 10: Juxtaposition and Scale"
 related:
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage]]"
@@ -16,7 +15,7 @@ modified: 2026-07-21
   <figcaption>Pablo Picasso, <em>Guitar, Gas-Jet and Bottle</em>, 1913</figcaption>
 </figure>
 
-# PAL S1 Lesson 10: Juxtaposition and Scale
+# Lesson 10: Juxtaposition and Scale
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|Unit 3]] · U3·L1 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-09-a2-the-photographic-series|L09]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-11-layering-text-and-image|L11]] →
 

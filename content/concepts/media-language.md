@@ -1,6 +1,5 @@
 ---
 title: Media Language
-tags: [concept, media-studies, cie-9607, key-concept-1, semiotics]
 related:
   - "[[concepts/four-key-concepts]]"
   - "[[concepts/technical-elements]]"
@@ -36,11 +35,11 @@ Two of these carry extra weight. **"Challenging and/or subverting conventions"**
 
 So: a **code** is economy — producers lean on what audiences already know from other texts, and communicate character or story without spelling it out. A **convention** is a repetition hardened into expectation. Following conventions reads as mainstream; subverting them surprises or disconcerts.
 
-**Mediation** is the master idea underneath both, and the syllabus locates it in [[concepts/representation]]: media do not show the world, they go between us and it, selecting and shaping on the way.
+**Mediation** is the master idea underneath both, and the syllabus locates it in [[concepts/representation|Representation]]: media do not show the world, they go between us and it, selecting and shaping on the way.
 
 ## Signification: denotation and connotation
 
-The layered-meaning model is attributed to [[entities/roland-barthes]]:
+The layered-meaning model is attributed to [[entities/roland-barthes|Roland Barthes]]:
 
 > "…as well as notions of signification – what is **denoted** at a descriptive level, and what is suggested, implied or coded at a **connotative** level"
 
@@ -64,4 +63,4 @@ You already read codes fluently; the job is to make the intuition conscious and 
 
 Vocabulary work here is direct mark-earning work: AO1 is "using terminology appropriately" (Syllabus 2027 p.12). The magazine-term matching game is the model activity — match Buzz Word, Puff, Coverline, Masthead, Barcode, Anchorage Text, Superimposition, Slogan, Unique Selling Point to features of a real cover, then justify: recognition first, definition second, justification third.
 
-Full term lists: [[concepts/media-vocabulary]].
+Full term lists: [[concepts/media-vocabulary|Media Vocabulary]].

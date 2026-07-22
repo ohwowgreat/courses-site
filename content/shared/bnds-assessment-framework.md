@@ -1,6 +1,5 @@
 ---
 title: BNDS Assessment Framework
-tags: [shared, assessment, grading, bnds, handbook]
 related:
   - "[[shared/bnds-ai-policy]]"
   - "[[classes/a-level-art-design/a-level-art-design]]"

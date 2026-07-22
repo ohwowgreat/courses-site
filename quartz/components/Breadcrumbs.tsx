@@ -26,6 +26,20 @@ interface BreadcrumbOptions {
    * Whether to display the current page in the breadcrumbs.
    */
   showCurrentPage: boolean
+  /**
+   * Path segments dropped from the chain entirely (e.g. a "classes" wrapper
+   * folder that means nothing to readers).
+   */
+  omitSegments: string[]
+  /**
+   * Display label overrides per path segment ("lesson-plans" → "Lessons").
+   */
+  segmentLabels: Record<string, string>
+  /**
+   * Link target overrides per path segment — e.g. point a course folder crumb
+   * at the course overview page instead of the raw folder listing.
+   */
+  segmentLinks: Record<string, string>
 }
 
 const defaultOptions: BreadcrumbOptions = {
@@ -33,6 +47,9 @@ const defaultOptions: BreadcrumbOptions = {
   rootName: "Home",
   resolveFrontmatterTitle: true,
   showCurrentPage: true,
+  omitSegments: [],
+  segmentLabels: {},
+  segmentLinks: {},
 }
 
 function formatCrumb(displayName: string, baseSlug: FullSlug, currentSlug: SimpleSlug): CrumbData {
@@ -58,19 +75,35 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       return null
     }
 
-    const crumbs: CrumbData[] = pathNodes.map((node, idx) => {
-      const crumb = formatCrumb(node.displayName, fileData.slug!, simplifySlug(node.slug))
-      if (idx === 0) {
-        crumb.displayName = options.rootName
-      }
+    const crumbs: CrumbData[] = pathNodes
+      .map((node, idx) => {
+        // The path segment this node represents (root has none).
+        const segment = idx === 0 ? "" : slugParts[idx - 1]
+        const isCurrent = idx === pathNodes.length - 1
 
-      // For last node (current page), set empty path
-      if (idx === pathNodes.length - 1) {
-        crumb.path = ""
-      }
+        if (!isCurrent && segment && options.omitSegments.includes(segment)) {
+          return null
+        }
 
-      return crumb
-    })
+        const target = options.segmentLinks[segment]
+        const crumb = target
+          ? formatCrumb(node.displayName, fileData.slug!, simplifySlug(target as FullSlug))
+          : formatCrumb(node.displayName, fileData.slug!, simplifySlug(node.slug))
+        if (idx === 0) {
+          crumb.displayName = options.rootName
+        }
+        if (segment && options.segmentLabels[segment]) {
+          crumb.displayName = options.segmentLabels[segment]
+        }
+
+        // For last node (current page), set empty path
+        if (isCurrent) {
+          crumb.path = ""
+        }
+
+        return crumb
+      })
+      .filter((crumb): crumb is CrumbData => crumb !== null)
 
     if (!options.showCurrentPage) {
       crumbs.pop()

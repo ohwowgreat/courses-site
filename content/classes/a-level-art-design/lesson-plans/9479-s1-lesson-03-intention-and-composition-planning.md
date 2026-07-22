@@ -1,6 +1,5 @@
 ---
-title: "9479 S1 Lesson 03: Intention and Composition Planning"
-tags: [a-level-art-design, cie-9479, lesson-plan, semester-1]
+title: "S1 Lesson 03: Intention and Composition Planning"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study]]"
@@ -8,7 +7,7 @@ related:
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-04-the-sustained-study]]"
 modified: 2026-07-17
 ---
-# 9479 S1 Lesson 03: Intention and Composition Planning
+# S1 Lesson 03: Intention and Composition Planning
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study|Unit 2]] · Lesson 03 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-02-formal-elements-on-the-theme|L02]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-04-the-sustained-study|L04]] →
 

@@ -1,4 +1,5 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Courses — student-facing course site
@@ -629,11 +630,32 @@ blockquote.callout {
     padding-top: 1rem;
     border-top: 1px solid var(--lightgray);
   }
+
+  // The right rail is empty (quartz.layout.ts renders nothing there), but the
+  // stock grid still reserves a 320px column for it — squeezing the content to
+  // ~630px while a third of the screen sits blank. Two columns instead, with
+  // the article capped for a comfortable reading measure.
+  .page > #quartz-body {
+    grid-template-columns: $sidePanelWidth auto;
+    grid-template-areas:
+      "grid-sidebar-left grid-header"
+      "grid-sidebar-left grid-center"
+      "grid-sidebar-left grid-footer";
+  }
+  .sidebar.right {
+    display: none;
+  }
+  .page > #quartz-body .center > article {
+    max-width: 780px;
+  }
 }
 
 // Mobile: Quartz lays the left rail out as a horizontal row (title + search form a
 // header bar). Let it wrap, and drop the nav and TOC onto their own full-width rows
-// below that bar instead of being squeezed into it.
+// below that bar instead of being squeezed into it. The nav itself collapses
+// behind its Menu button (SiteNav.css); the TOC hides with it and is revealed by
+// the same button — without this, a phone scrolls three screens of links before
+// any content.
 @media all and (max-width: 800px) {
   .left.sidebar {
     flex-wrap: wrap;
@@ -645,6 +667,13 @@ blockquote.callout {
     flex-basis: 100%;
   }
   .site-nav-group { margin-bottom: 0.7rem; }
+  .left.sidebar .toc {
+    display: none;
+  }
+  .left.sidebar .site-nav.open ~ .toc {
+    display: block;
+    padding: 0 0.2rem;
+  }
 }
 
 // ── Chrome ───────────────────────────────────────────────────────────────────

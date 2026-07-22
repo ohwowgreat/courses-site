@@ -1,6 +1,5 @@
 ---
-title: "9479 S2 Unit 2: Recording & Sustained Study"
-tags: [a-level-art-design, cie-9479, unit-plan, semester-2]
+title: "S2 Unit 2: Recording & Sustained Study"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-semester-2-plan]]"
@@ -9,7 +8,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s2-assessments]]"
 modified: 2026-07-18
 ---
-# 9479 S2 Unit 2: Recording & Sustained Study
+# S2 Unit 2: Recording & Sustained Study
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-2-plan|Semester 2 Plan]] · Unit 2 of 5 · ← [[classes/a-level-art-design/unit-plans/9479-s2-unit-1-foundations-on-the-investigation|Unit 1]] | [[classes/a-level-art-design/unit-plans/9479-s2-unit-3-exploration-and-artist-study|Unit 3]] →
 

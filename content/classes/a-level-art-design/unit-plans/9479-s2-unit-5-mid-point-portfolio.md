@@ -1,6 +1,5 @@
 ---
-title: "9479 S2 Unit 5: Mid-Point Portfolio"
-tags: [a-level-art-design, cie-9479, unit-plan, semester-2]
+title: "S2 Unit 5: Mid-Point Portfolio"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-semester-2-plan]]"
@@ -9,7 +8,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s2-assessments]]"
 modified: 2026-07-18
 ---
-# 9479 S2 Unit 5: Mid-Point Portfolio
+# S2 Unit 5: Mid-Point Portfolio
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-2-plan|Semester 2 Plan]] · Unit 5 of 5 · ← [[classes/a-level-art-design/unit-plans/9479-s2-unit-4-development|Unit 4]]
 

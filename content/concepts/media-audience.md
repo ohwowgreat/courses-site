@@ -1,6 +1,5 @@
 ---
 title: Media Audience
-tags: [concept, media-studies, cie-9607, key-concept-4, paper-2-section-b]
 related:
   - "[[concepts/four-key-concepts]]"
   - "[[concepts/media-industry]]"
@@ -44,7 +43,7 @@ You study (Syllabus 2027 p.15):
 
 The syllabus requires that you understand how audiences "may interpret the same texts in different ways, using a variety of theories or ideologies" (p.15).
 
-You explore **Stuart Hall's** ideas of encoding and decoding when making sense of a media text (SoW p.14). See [[entities/stuart-hall]] for the dominant / negotiated / oppositional model — the three positions from which a reader can interpret a text.
+You explore **Stuart Hall's** ideas of encoding and decoding when making sense of a media text (SoW p.14). See [[entities/stuart-hall|Stuart Hall]] for the dominant / negotiated / oppositional model — the three positions from which a reader can interpret a text.
 
 ## The media diary
 

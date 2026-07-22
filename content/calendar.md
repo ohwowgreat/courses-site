@@ -1,6 +1,5 @@
 ---
 title: Semester 1 Calendar
-tags: [calendar, dashboard, semester-1, 2026-27]
 related:
 modified: 2026-07-19
 ---
@@ -81,16 +80,5 @@ A chronological agenda of **Autumn 2026 → January 2027**, overlaying school an
 | **2027-01-20** | **Wed** | ⭐ School | **Grades & comments due** |
 | **2027-01-22** | **Fri** | ⭐ School | **Last school day** · G12 mid-year transcript due |
 | 2027-01-24 → 02-21 | Sun→Sun | 🚫 School | Winter vacation (teaching resumes ≈ Mon 02-22) |
-
-## ⚠️ Confirm before term
-
-These float or are marked TBC in [[calendar|school academic calendar]] — resolving them de-risks every course at once:
-
-- ~~Foreign Culture Fridays~~ — ✅ **resolved 2026-07-19: lessons run** on all three.
-- ~~W18 (Dec 29–30) teaching~~ — ✅ **resolved: no.** The winter break is continuous, 12-24 → 01-03.
-- **Autumn Field Trip** — Fri 10-23 *or* Sat 10-24 (source calendar skips 19 Oct).
-- **Late-work cutoff** — computes to 01-01, which is now known to be **inside the break**. Operative date is either Wed 12-23 or Mon 01-04. Unresolved, and several courses were planned around it.
-- **Make-up days** (Sun 09-20, Sat 10-10) — which weekday timetable each follows is TBC.
-- ~~Art Appreciation's timetable~~ — ✅ **confirmed and redrawn 2026-07-19**; its attainments now sit on Tuesday doubles.
 
 *This calendar lists the attainments (A1–A4) and end-of-term assessments. Course-skills (CS), homework and Learning-Behaviour items aren't shown here — each course's assessment register carries its full schedule, with formats and marking focus.*

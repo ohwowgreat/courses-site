@@ -1,6 +1,5 @@
 ---
-title: "Art Appreciation S1 Lesson 07: The Split Weeks"
-tags: [art-appreciation, lesson-plan, semester-1]
+title: "Lesson 07: The Split Weeks"
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics]]"
@@ -8,7 +7,7 @@ related:
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-08-heda-and-the-image-of-work]]"
 modified: 2026-07-17
 ---
-# Art Appreciation S1 Lesson 07: The Split Weeks
+# Lesson 07: The Split Weeks
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics|Unit 3]] · Lesson 07 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-06-the-table-as-moral-space|L06]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-08-heda-and-the-image-of-work|L08]] →
 

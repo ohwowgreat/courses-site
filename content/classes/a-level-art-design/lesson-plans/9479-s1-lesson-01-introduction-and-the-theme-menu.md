@@ -1,13 +1,12 @@
 ---
-title: "9479 S1 Lesson 01: Introduction and the Theme Menu"
-tags: [a-level-art-design, cie-9479, lesson-plan, semester-1]
+title: "S1 Lesson 01: Introduction and the Theme Menu"
 related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-1-foundations-on-the-theme]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-02-formal-elements-on-the-theme]]"
 modified: 2026-07-18
 ---
-# 9479 S1 Lesson 01: Introduction and the Theme Menu
+# S1 Lesson 01: Introduction and the Theme Menu
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-1-foundations-on-the-theme|Unit 1]] · Lesson 01 of 15 · [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-02-formal-elements-on-the-theme|L02]] →
 

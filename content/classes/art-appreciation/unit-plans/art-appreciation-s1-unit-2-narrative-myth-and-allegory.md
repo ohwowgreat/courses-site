@@ -1,6 +1,5 @@
 ---
-title: "Art Appreciation S1 Unit 2: Narrative, Myth and Allegory"
-tags: [art-appreciation, unit-plan, semester-1]
+title: "Unit 2: Narrative, Myth and Allegory"
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan]]"
@@ -11,7 +10,7 @@ related:
   - "[[classes/art-appreciation/assessments/art-appreciation-s1-assessments]]"
 modified: 2026-07-19
 ---
-# Art Appreciation S1 Unit 2: Narrative, Myth and Allegory
+# Unit 2: Narrative, Myth and Allegory
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan|Semester 1 Plan]] · Unit 2 of 5 · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-1-origins-and-ancestral-memory|← Unit 1]] | [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics|Unit 3 →]]
 

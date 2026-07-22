@@ -1,6 +1,5 @@
 ---
-title: "Art Appreciation S1 Lesson 04: Telling It Without Words"
-tags: [art-appreciation, lesson-plan, semester-1]
+title: "Lesson 04: Telling It Without Words"
 related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory]]"
@@ -8,7 +7,7 @@ related:
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet]]"
 modified: 2026-07-19
 ---
-# Art Appreciation S1 Lesson 04: Telling It Without Words
+# Lesson 04: Telling It Without Words
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory|Unit 2]] · Lesson 04 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-03-the-first-board|L03]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet|L05]] →
 

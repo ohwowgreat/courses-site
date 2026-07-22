@@ -84,7 +84,8 @@ const config: QuartzConfig = {
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
-      Plugin.TagPage(),
+      // No TagPage: the vault's tags are teacher taxonomy (cie-9607, lesson-plan),
+      // and sync.mjs strips them from published frontmatter anyway.
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,

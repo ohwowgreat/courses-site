@@ -550,6 +550,10 @@ function cleanCalendar(body) {
   return body
     .replace(/\s*For the visual month\/week view[\s\S]*?greppable list\./, "")
     .replace(/^This is a \*derived view\*[\s\S]*?needs fixing\.\s*$/m, "")
+    // The "⚠️ Confirm before term" section is a teacher's pre-term checklist
+    // (TBC items, resolution history). Drop the section but keep its closing
+    // italic note — that paragraph tells students where CS/HW schedules live.
+    .replace(/^## ⚠️? ?Confirm before term[\s\S]*?(?=^\*This calendar lists|(?![\s\S]))/m, "")
     .replace(/\n{3,}/g, "\n\n")
 }
 
@@ -576,12 +580,14 @@ function derefDropped(text, publishedTargets) {
   })
 }
 
-// Drop `sources:` (raw/ paths are internal) and prune `related:` of withheld pages.
+// Drop `sources:` (raw/ paths are internal), `tags:` (vault taxonomy — the site
+// has no tag pages), and prune `related:` of withheld pages.
 function cleanFrontmatter(fm, publishedTargets) {
   const lines = fm.split("\n")
   const kept = []
   let inSources = false
   for (const line of lines) {
+    if (/^tags:/.test(line)) continue
     if (/^sources:/.test(line)) {
       inSources = true
       continue
@@ -667,14 +673,81 @@ const reframeStats = await reframeAll(
   },
 )
 
+// ── Student-facing titles ───────────────────────────────────────────────────
+// Vault titles carry the teacher's taxonomy ("9607 S1 Lesson 02: …") — syllabus
+// code and semester on every page. On the site the course is always visible
+// (nav, breadcrumbs, the context strip), so titles keep only what a student
+// needs: "Lesson 02: …". Course-level pages keep the course name because their
+// names collide across courses in search ("Semester 1 Plan" × 5). Applied in
+// phase 3, after the reframe, so the cache (keyed on the phase-1 body) is
+// untouched. A Level spans four semesters with repeating unit names, so it
+// keeps the S# marker.
+const MULTI_SEMESTER = new Set(["classes/a-level-art-design"])
+
+function studentTitle(rel, title) {
+  const course = Object.values(COURSES).find((c) => rel.startsWith(c.dir + "/"))
+  if (!course || !title) return title
+  const multi = MULTI_SEMESTER.has(course.dir)
+  let m = title.match(/^.*?\bS(\d)\s+Lesson (\d+):\s*(.+)$/i)
+  if (m) return multi ? `S${m[1]} Lesson ${m[2]}: ${m[3]}` : `Lesson ${m[2]}: ${m[3]}`
+  m = title.match(/^.*?\bS(\d)\s+U(?:nit)?\s*(\d+):\s*(.+)$/i)
+  if (m) return multi ? `S${m[1]} Unit ${m[2]}: ${m[3]}` : `Unit ${m[2]}: ${m[3]}`
+  m = title.match(/^.*?\bS(\d) Assessments$/i)
+  if (m) return `${course.name} · S${m[1]} Assessments`
+  m = title.match(/^(?:9479|9607|PAL|Art Appreciation|Pre A Level(?: Art & Design)?)\s+(.+)$/)
+  if (m) return `${course.name} · ${m[1]}`
+  return title
+}
+
+// Bare full-path wikilinks render as their slug ("bnds-assessment-framework");
+// alias them with the target's title so prose reads like prose. Table rows are
+// skipped — a raw "|" inside a cell would break the row, and links there
+// already use the [[path\|alias]] form.
+function aliasBareLinks(body, titles) {
+  return body
+    .split("\n")
+    .map((line) => {
+      if (line.includes("|")) return line
+      return line.replace(/\[\[([^\]|#\\]+)\]\]/g, (match, target) => {
+        const title = titles.get(target.trim())
+        return title ? `[[${target.trim()}|${title}]]` : match
+      })
+    })
+    .join("\n")
+}
+
+// New titles for every published page, and the alias lookup keyed by wikilink
+// target. pageTitles is updated in place so the course-map injection below and
+// the nav labels derived from frontmatter stay consistent.
+const studentTitles = new Map()
+for (const rel of published) {
+  const t = studentTitle(rel, pageTitles.get(rel))
+  if (!t) continue
+  pageTitles.set(rel, t)
+  studentTitles.set(rel.replace(/\.md$/, ""), t)
+}
+
 // ── Phase 3: write content/ ─────────────────────────────────────────────────
 await rm(OUT, { recursive: true, force: true })
 await mkdir(OUT, { recursive: true })
 
 // Every path this run writes, so anything else in content/ can be pruned at the end.
 const written = new Set()
-for (const { rel, frontmatter, body: cleaned } of pages) {
+for (const { rel, frontmatter: fm, body: cleaned } of pages) {
   let body = cleaned
+  let frontmatter = fm
+
+  // Student-facing title: rewrite the frontmatter `title:` and the H1 to match.
+  // The reframe keeps H1s verbatim, so the original title is still on that line.
+  const newTitle = pageTitles.get(rel)
+  const oldTitle = fm?.match(/^title:\s*"?(.+?)"?\s*$/m)?.[1]
+  if (newTitle && oldTitle && newTitle !== oldTitle) {
+    frontmatter = frontmatter.replace(/^title:.*$/m, `title: "${newTitle}"`)
+    body = body.replace(`# ${oldTitle}`, `# ${newTitle}`)
+  }
+
+  body = aliasBareLinks(body, studentTitles)
+
   const depth = rel.split("/").length - 1
   // Figures first: their anchors must match page content, not the hero's caption.
   if (FIGURES[rel]) body = insertFigures(body, FIGURES[rel], depth)
@@ -696,6 +769,58 @@ if (homeHero) {
 }
 await writeFile(join(OUT, "index.md"), home)
 written.add("index.md")
+
+// Curated folder pages. Quartz auto-generates a listing page for every
+// directory ("Folder: classes/media-studies/lesson-plans" with raw slugs); these
+// index files give each one a real title and a line of context instead. The
+// child listing still renders below the body.
+const folderIndexes = {
+  classes: {
+    title: "All courses",
+    body:
+      "Every course on this site. Start from a course overview:\n\n" +
+      Object.values(COURSES)
+        .map((c) => `- [[${c.overview}|${c.name}]]`)
+        .join("\n"),
+  },
+  concepts: {
+    title: "Concepts",
+    body: "Concept pages used across Media Studies — the place to start when revising.",
+  },
+  entities: {
+    title: "Theorists",
+    body: "The theorists studied in Media Studies, one page each.",
+  },
+  shared: {
+    title: "School reference",
+    body: "School-wide reference pages that apply to every course.",
+  },
+}
+for (const c of Object.values(COURSES)) {
+  folderIndexes[c.dir] = {
+    title: `${c.name} · All pages`,
+    body: `Everything published for ${c.name}. Start at the [[${c.overview}|course overview]].`,
+  }
+  folderIndexes[`${c.dir}/lesson-plans`] = {
+    title: `${c.name} · Lessons`,
+    body: `Every ${c.name} lesson, in teaching order.`,
+  }
+  folderIndexes[`${c.dir}/unit-plans`] = {
+    title: `${c.name} · Units & plans`,
+    body: `${c.name} unit pages and semester plans.`,
+  }
+  folderIndexes[`${c.dir}/assessments`] = {
+    title: `${c.name} · Assessments`,
+    body: `The ${c.name} assessment register — every graded item with its date and format.`,
+  }
+}
+for (const [dir, page] of Object.entries(folderIndexes)) {
+  // Only folders this run actually populated.
+  if (![...written].some((rel) => rel.startsWith(dir + "/"))) continue
+  const rel = `${dir}/index.md`
+  await writeFile(join(OUT, rel), `---\ntitle: "${page.title}"\n---\n${page.body}\n`)
+  written.add(rel)
+}
 
 // Month-grid calendars, generated from the agenda table (the single source of truth).
 // One page per course, plus the combined grid injected into the hub calendar page.

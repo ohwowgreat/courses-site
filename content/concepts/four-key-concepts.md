@@ -1,6 +1,5 @@
 ---
 title: Four Key Concepts
-tags: [concept, media-studies, cie-9607, key-concepts]
 related:
   - "[[concepts/media-language]]"
   - "[[concepts/representation]]"
