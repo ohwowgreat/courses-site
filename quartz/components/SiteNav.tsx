@@ -102,20 +102,20 @@ const SiteNav: QuartzComponent = ({ fileData, allFiles, displayClass }: QuartzCo
                       </a>
                     </li>
                   ))}
-                </ul>
-                {lessons.length > 0 && (
-                  <div class="site-nav-chips">
-                    {lessons.map((s) => (
+                  {/* One clear link instead of a grid of bare L01–L16 pills: codes
+                      without titles read as noise, and their tooltips don't exist
+                      on touch screens. The target lists every lesson by title. */}
+                  {lessons.length > 0 && (
+                    <li class="site-nav-all-lessons">
                       <a
-                        href={rel(s.slug)}
-                        class={here === s.slug ? "active" : ""}
-                        title={s.info!.tip || undefined}
+                        href={rel(`${c.dir}/lesson-plans/index`)}
+                        class={here.startsWith(prefix + "lesson-plans/") ? "active" : ""}
                       >
-                        {s.info!.label}
+                        All lessons →
                       </a>
-                    ))}
-                  </div>
-                )}
+                    </li>
+                  )}
+                </ul>
                 {planRow.length > 0 && (
                   <ul class="site-nav-plans">
                     {planRow.map((s) => (
@@ -215,22 +215,7 @@ SiteNav.css = `
 .site-nav-course > ul a,
 .site-nav-course > .site-nav-plans a { font-size: 0.84rem; padding: 0.14rem 0; }
 .site-nav-plans a { color: var(--gray); }
-.site-nav-chips {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 3px;
-  margin: 0 0 0.5rem 0.75rem;
-}
-.site-nav-chips a {
-  font-size: 0.68rem;
-  padding: 1px 5px;
-  border: 1px solid var(--lightgray);
-  border-radius: 3px;
-  color: var(--gray);
-  line-height: 1.4;
-}
-.site-nav-chips a:hover { border-color: var(--secondary); color: var(--secondary); }
-.site-nav-chips a.active { border-color: var(--secondary); color: var(--secondary); font-weight: 650; }
+.site-nav-all-lessons a { font-weight: 550; }
 
 /* Mobile: the nav collapses behind a Menu button; the page's TOC (the .toc
    sibling that follows this nav in the left rail) opens with it. */
