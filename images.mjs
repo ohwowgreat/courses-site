@@ -402,6 +402,30 @@ const PLATES = [
     file: "Diego Rivera, Self-Portrait, 1907.jpeg",
     credit: "Diego Rivera, *Self-Portrait*, 1907 — the maker examining himself",
   },
+  // 9607 U5 Media Contexts (added 2026-07-22).
+  {
+    slug: "good-glass-of-beer",
+    file: "Edouard Manet, A Good Glass of Beer, 1873.jpeg",
+    credit: "Édouard Manet, *A Good Glass of Beer*, 1873 — gratification, personified",
+  },
+  {
+    slug: "above-fifth-avenue",
+    file: "Photographers/Underwood and Underwood/Underwood and Underwood - Above Fifth Avenue, Looking North.jpg",
+    credit:
+      "Underwood & Underwood, *Above Fifth Avenue, Looking North*, c. 1905 — the industry at work: somebody pays for this vantage",
+  },
+  {
+    slug: "emperors-table",
+    file: "Photographers/Gustave Le Gray/Preparation of the Emperor's Table, Camp de Châlons, Gustave Le Gray, 1857 .jpg",
+    credit:
+      "Gustave Le Gray, *Preparation of the Emperor's Table, Camp de Châlons*, 1857 — photographed on imperial commission: the frame belonged to the payer",
+  },
+  {
+    slug: "lindbergh-1927",
+    file: "Photographers/Underwood and Underwood/Charles Lindbergh, Underwood & Underwood, 1927.jpg",
+    credit:
+      "Underwood & Underwood, *Charles Lindbergh*, 1927 — the first global media event: one man, every channel",
+  },
 ]
 
 await mkdir(OUT, { recursive: true })

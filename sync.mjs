@@ -97,6 +97,12 @@ const HEROES = {
     "folies-bergere",
   "classes/media-studies/lesson-plans/9607-s1-lesson-10-the-creative-critical-reflection.md":
     "rivera-self-portrait",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission.md":
+    "good-glass-of-beer",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-12-institutions-and-section-a-craft.md":
+    "above-fifth-avenue",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-13-a4-section-a-in-authentic-format.md":
+    "lindbergh-1927",
 }
 
 // Inline figures (2026-07-21): lesson pages carry period exemplars from the shared
@@ -191,6 +197,9 @@ const FIGURES = {
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze.md": [
     { slugs: ["cahun-gaze"], anchor: /oppositional gaze|looking back at a text/i },
+  ],
+  "classes/media-studies/lesson-plans/9607-s1-lesson-12-institutions-and-section-a-craft.md": [
+    { slugs: ["emperors-table"], anchor: /frame belonged to the payer|imperial commission|Emperor's camp/i },
   ],
 }
 
