@@ -91,6 +91,12 @@ const HEROES = {
     "whittier-classroom",
   "classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint.md":
     "wanderer",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product.md":
+    "kasebier-wild-west",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze.md":
+    "folies-bergere",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-10-the-creative-critical-reflection.md":
+    "rivera-self-portrait",
 }
 
 // Inline figures (2026-07-21): lesson pages carry period exemplars from the shared
@@ -179,6 +185,12 @@ const FIGURES = {
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint.md": [
     { slugs: ["hampton-geography"], anchor: /describe → question → suggest|audited post by post/i },
+  ],
+  "classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product.md": [
+    { slugs: ["lincoln-mcclellan"], anchor: /photo-op is older than the word|posed in a tent/i },
+  ],
+  "classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze.md": [
+    { slugs: ["cahun-gaze"], anchor: /oppositional gaze|looking back at a text/i },
   ],
 }
 

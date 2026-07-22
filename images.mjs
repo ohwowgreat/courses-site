@@ -373,6 +373,35 @@ const PLATES = [
     credit:
       "Caspar David Friedrich, *Wanderer Above the Sea of Fog*, 1818 — who is he? what does he see? the enigma code at work",
   },
+  // 9607 U4 Representation (added 2026-07-22).
+  {
+    slug: "kasebier-wild-west",
+    file: "Photographers/Gertrude Käsebier/American Indian Portrait, Gertrude Käsebier, c. 1899.jpg",
+    credit:
+      "Gertrude Käsebier, *American Indian Portrait*, c. 1899 — a studio construction: who made the choices in this image, and for whom?",
+  },
+  {
+    slug: "lincoln-mcclellan",
+    file: "Photographers/Alexander Gardner/Alexander Gardner, Abraham Lincoln and George McClellan, 1862 (printed c. 1890) .jpeg",
+    credit:
+      "Alexander Gardner, *Lincoln and McClellan at Antietam*, 1862 — the photo-op is older than the word",
+  },
+  {
+    slug: "folies-bergere",
+    file: "Edouard Manet, Un bar aux Folies Bergère, 1882.jpg",
+    credit:
+      "Édouard Manet, *A Bar at the Folies-Bergère*, 1882 — who is looking at whom? the mirror refuses to agree",
+  },
+  {
+    slug: "cahun-gaze",
+    file: "Claude Cahun, Self-Portrait, 1920.jpeg",
+    credit: "Claude Cahun, *Self-Portrait*, 1920 — a look sent back: the gaze refused",
+  },
+  {
+    slug: "rivera-self-portrait",
+    file: "Diego Rivera, Self-Portrait, 1907.jpeg",
+    credit: "Diego Rivera, *Self-Portrait*, 1907 — the maker examining himself",
+  },
 ]
 
 await mkdir(OUT, { recursive: true })
