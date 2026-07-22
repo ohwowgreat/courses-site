@@ -6,9 +6,11 @@
 // served from it directly — everything here is downsampled to web size first.
 //
 // Selection is deliberately restricted to work published before ~1930, which is
-// public domain in the relevant jurisdictions. The library also holds in-copyright
-// photography (Tillmans, Gursky, Sherman, Weems) that is fine to project in a
-// classroom but not to republish on a website.
+// public domain in the relevant jurisdictions — plus works of the US federal
+// government (FSA photography: Lange's Migrant Mother), which are public domain
+// by statute regardless of date. The library also holds in-copyright photography
+// (Tillmans, Gursky, Sherman, Weems) that is fine to project in a classroom but
+// not to republish on a website.
 
 import { execFile } from "node:child_process"
 import { mkdir, writeFile, access } from "node:fs/promises"
@@ -260,6 +262,25 @@ const PLATES = [
     slug: "album-leaf",
     file: "Aoki Shukuya, Double Album of Landscape Studies after Ikeno Taiga, Volume 2 (leaf 15), 18th century.jpeg",
     credit: "Aoki Shukuya, *Double Album of Landscape Studies after Ikeno Taiga*, 18th century",
+  },
+  // 9607 Media Studies L01 — the mediation demo (added 2026-07-22).
+  {
+    slug: "seventh-regiment",
+    file: "Photographers/Underwood and Underwood/Underwood and Underwood - Mother, Wife, and Sweetheart Watching Boys of the Seventh Regimen as They Marched Away to War.jpg",
+    credit:
+      "Underwood & Underwood, *Mother, Wife, and Sweetheart Watching Boys of the Seventh Regiment as They Marched Away to War*, c. 1917 — the caption tells you who they are and how to feel",
+  },
+  {
+    slug: "rebel-sharpshooter",
+    file: "Photographers/Alexander Gardner/Alexander Gardner - Home of a Rebel Sharpshooter, Gettysburg from Gardner's Photographic Sketchbook of the War,.jpg",
+    credit:
+      "Alexander Gardner, *Home of a Rebel Sharpshooter*, 1863 — the soldier's body was moved and posed for the composition",
+  },
+  {
+    slug: "migrant-mother",
+    file: "Photographers/Dorothea Lange/Dorothea Lange, Migrant Mother, 1936.jpg",
+    credit:
+      "Dorothea Lange, *Migrant Mother*, 1936 — one frame chosen from six exposures, then cropped",
   },
 ]
 

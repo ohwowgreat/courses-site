@@ -77,6 +77,8 @@ const HEROES = {
     "pioneer-girl",
   "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-17-the-portfolio-and-the-sketchbook.md":
     "album-leaf",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-01-the-four-key-concepts.md":
+    "seventh-regiment",
 }
 
 // Inline figures (2026-07-21): lesson pages carry period exemplars from the shared
@@ -130,6 +132,15 @@ const FIGURES = {
       anchor: /name card|Ukiyo-e|first read/i,
     },
   ],
+  "classes/media-studies/lesson-plans/9607-s1-lesson-01-the-four-key-concepts.md": [
+    {
+      // Target the D2 mediation-demo list, not the Goal paragraph (which also
+      // says "a version, not a window"). "Anchorage" is the list's last bullet,
+      // so the pair lands after the three mechanisms.
+      slugs: ["rebel-sharpshooter", "migrant-mother"],
+      anchor: /- \*\*Anchorage\*\*/,
+    },
+  ],
 }
 
 const credits = JSON.parse(await readFile(join(import.meta.dirname, "credits.json"), "utf8"))
@@ -176,7 +187,8 @@ function insertFigures(body, entries, depth) {
     }
     const lineStart = body.lastIndexOf("\n", at) + 1
     const lineEnd = body.indexOf("\n", at)
-    const isBullet = body.startsWith("- ", lineStart)
+    const line = body.slice(lineStart, lineEnd === -1 ? body.length : lineEnd)
+    const isBullet = /^\s*- /.test(line)
     let pos
     if (isBullet && lineEnd !== -1) pos = lineEnd + 1
     else {
