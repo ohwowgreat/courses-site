@@ -45,8 +45,7 @@ const HEROES = {
     "observation",
   "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-01-introduction-the-sketchbook-and-first-marks.md":
     "first-marks",
-  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-02-tone-and-form.md":
-    "tone-and-form",
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-02-tone-and-form.md": "tone-and-form",
   "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-03-texture-mark-making-and-negative-space.md":
     "mark-making",
   "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-04-composing-the-final-drawing.md":
@@ -83,8 +82,7 @@ const HEROES = {
     "skull-cigarette",
   "classes/media-studies/lesson-plans/9607-s1-lesson-03-sign-types-and-codes.md":
     "calling-of-matthew",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-04-genre-and-camera.md":
-    "at-the-telephone",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-04-genre-and-camera.md": "at-the-telephone",
   "classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock.md":
     "banqueting-sketch",
   "classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis.md":
@@ -93,8 +91,7 @@ const HEROES = {
     "wanderer",
   "classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product.md":
     "kasebier-wild-west",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze.md":
-    "folies-bergere",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze.md": "folies-bergere",
   "classes/media-studies/lesson-plans/9607-s1-lesson-10-the-creative-critical-reflection.md":
     "rivera-self-portrait",
   "classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission.md":
@@ -105,8 +102,7 @@ const HEROES = {
     "lindbergh-1927",
   "classes/media-studies/lesson-plans/9607-s1-lesson-14-consolidation-and-the-coverage-matrix.md":
     "moon-atlas",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-15-exam-rehearsal.md":
-    "musicians",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-15-exam-rehearsal.md": "musicians",
   "classes/media-studies/lesson-plans/9607-s1-lesson-16-end-of-term-exam-and-return.md":
     "the-magpie",
 }
@@ -124,19 +120,21 @@ const FIGURES = {
       anchor: /vantage point|rule of thirds/i,
     },
   ],
-  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-07-light-shadow-and-the-series-theme.md": [
-    {
-      slugs: ["girl-with-washington", "kasebier-portrait", "the-tugboat"],
-      anchor: /diffused/i,
-    },
-    { slugs: ["cloud-sequence"], anchor: /Ueda|one subject, idea, or rule/i },
-  ],
-  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-08-the-theme-shoot-and-the-contact-sheet-edit.md": [
-    {
-      slugs: ["yosemite-mosquito-camp", "yosemite-rocky-ford"],
-      anchor: /everything small|contact sheet:/i,
-    },
-  ],
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-07-light-shadow-and-the-series-theme.md":
+    [
+      {
+        slugs: ["girl-with-washington", "kasebier-portrait", "the-tugboat"],
+        anchor: /diffused/i,
+      },
+      { slugs: ["cloud-sequence"], anchor: /Ueda|one subject, idea, or rule/i },
+    ],
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-08-the-theme-shoot-and-the-contact-sheet-edit.md":
+    [
+      {
+        slugs: ["yosemite-mosquito-camp", "yosemite-rocky-ford"],
+        anchor: /everything small|contact sheet:/i,
+      },
+    ],
   "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-09-a2-the-photographic-series.md": [
     {
       slugs: ["atget-rue-mazet", "atget-avenue-de-suffren", "atget-rue-mazarine"],
@@ -156,12 +154,13 @@ const FIGURES = {
   "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-12-theme-and-composition-drafts.md": [
     { slugs: ["impossible-bouquet"], anchor: /vanitas|none of this lasts/i },
   ],
-  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-15-the-poster-message-audience-hierarchy.md": [
-    {
-      slugs: ["gsell-advertisement", "kawase-temple"],
-      anchor: /name card|Ukiyo-e|first read/i,
-    },
-  ],
+  "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-15-the-poster-message-audience-hierarchy.md":
+    [
+      {
+        slugs: ["gsell-advertisement", "kawase-temple"],
+        anchor: /name card|Ukiyo-e|first read/i,
+      },
+    ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-01-the-four-key-concepts.md": [
     {
       // Target the D2 mediation-demo list, not the Goal paragraph (which also
@@ -195,17 +194,23 @@ const FIGURES = {
       anchor: /where did Propp fail|withheld function/i,
     },
   ],
-  "classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint.md": [
-    { slugs: ["hampton-geography"], anchor: /describe → question → suggest|audited post by post/i },
-  ],
-  "classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product.md": [
-    { slugs: ["lincoln-mcclellan"], anchor: /photo-op is older than the word|posed in a tent/i },
-  ],
+  "classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint.md":
+    [
+      {
+        slugs: ["hampton-geography"],
+        anchor: /describe → question → suggest|audited post by post/i,
+      },
+    ],
+  "classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product.md":
+    [{ slugs: ["lincoln-mcclellan"], anchor: /photo-op is older than the word|posed in a tent/i }],
   "classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze.md": [
     { slugs: ["cahun-gaze"], anchor: /oppositional gaze|looking back at a text/i },
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-12-institutions-and-section-a-craft.md": [
-    { slugs: ["emperors-table"], anchor: /frame belonged to the payer|imperial commission|Emperor's camp/i },
+    {
+      slugs: ["emperors-table"],
+      anchor: /frame belonged to the payer|imperial commission|Emperor's camp/i,
+    },
   ],
 }
 
@@ -344,8 +349,7 @@ const STRIP_SECTIONS = [
 // Matched as a prefix, so "## Gaps this material does *not* fill" is caught by "Gaps".
 // Safe for this list: none of these names begins a student-facing heading.
 
-const isDropped = (rel) =>
-  DROP_PAGES.has(rel) || DROP_DIRS.some((d) => rel.includes(d))
+const isDropped = (rel) => DROP_PAGES.has(rel) || DROP_DIRS.some((d) => rel.includes(d))
 
 async function walk(dir) {
   const out = []
@@ -363,10 +367,7 @@ function stripSections(body) {
     const esc = name.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
     // Terminate at the next H2 or end of file. JS has no \z, so the alternative
     // is a negative lookahead for any remaining character.
-    body = body.replace(
-      new RegExp(`^## ${esc}.*$[\\s\\S]*?(?=^## |(?![\\s\\S]))`, "gm"),
-      "",
-    )
+    body = body.replace(new RegExp(`^## ${esc}.*$[\\s\\S]*?(?=^## |(?![\\s\\S]))`, "gm"), "")
   }
   return body
 }
@@ -388,10 +389,7 @@ function dropTableColumns(body, dropHeaders) {
   for (let i = 0; i < lines.length; i++) {
     const sep = lines[i + 1]
     const isTableHead =
-      lines[i].includes("|") &&
-      sep &&
-      /-/.test(sep) &&
-      /^\s*\|?[\s:|-]+\|[\s:|-]*$/.test(sep)
+      lines[i].includes("|") && sep && /-/.test(sep) && /^\s*\|?[\s:|-]+\|[\s:|-]*$/.test(sep)
     if (!isTableHead) {
       out.push(lines[i])
       continue
@@ -461,28 +459,30 @@ function cleanRegister(body) {
 // for ingest stamps ("(ingested 2026-07-20)", "Ingested 2026-07-19.") — they date
 // when a source entered the vault, which means nothing to a reader.
 function stripStamp(body) {
-  return body
-    // Prefix form "Confirmed by the human <date>: Fact" / "…<date>, Fact" → "Fact".
-    .replace(
-      /Confirmed by the human 20\d\d-\d\d-\d\d[:,]\s*(\*{0,2})([a-z])/g,
-      (_, emph, ch) => emph + ch.toUpperCase(),
-    )
-    // Standalone / trailing stamp, with any leading comma, semicolon or space.
-    .replace(/[,;]?\s*Confirmed by the human 20\d\d-\d\d-\d\d/g, "")
-    // Parenthetical "(confirmed with the human <date>)" variant.
-    .replace(/\s*\((?:re-?)?confirmed with the human[^)]*\)/gi, "")
-    // Lowercase parenthetical "(confirmed <date>[, …])", incl. "(re-confirmed 07-20)".
-    .replace(/\s*\((?:re-?)?confirmed (?:20\d\d-)?\d\d-\d\d[^)]*\)/gi, "")
-    // Ingest stamps: "(ingested 2026-07-20)" — inline and in headings — and the
-    // standalone sentence "Ingested 2026-07-19."
-    .replace(/\s*\((?:re-)?ingested (?:20\d\d-)?\d\d-\d\d[^)]*\)/gi, "")
-    .replace(/\s*Ingested 20\d\d-\d\d-\d\d\./g, "")
-    // Empty bold left when the stamp was the whole bold span: "**** — a studio…" →
-    // "A studio…"; bare "****" → "".
-    .replace(/\*\*\s*\*\*\s*—\s*([a-z])/g, (_, ch) => ch.toUpperCase())
-    .replace(/\*\*\s*\*\*/g, "")
-    .replace(/[ \t]{2,}/g, " ")
-    .replace(/[ \t]+([.,;])/g, "$1")
+  return (
+    body
+      // Prefix form "Confirmed by the human <date>: Fact" / "…<date>, Fact" → "Fact".
+      .replace(
+        /Confirmed by the human 20\d\d-\d\d-\d\d[:,]\s*(\*{0,2})([a-z])/g,
+        (_, emph, ch) => emph + ch.toUpperCase(),
+      )
+      // Standalone / trailing stamp, with any leading comma, semicolon or space.
+      .replace(/[,;]?\s*Confirmed by the human 20\d\d-\d\d-\d\d/g, "")
+      // Parenthetical "(confirmed with the human <date>)" variant.
+      .replace(/\s*\((?:re-?)?confirmed with the human[^)]*\)/gi, "")
+      // Lowercase parenthetical "(confirmed <date>[, …])", incl. "(re-confirmed 07-20)".
+      .replace(/\s*\((?:re-?)?confirmed (?:20\d\d-)?\d\d-\d\d[^)]*\)/gi, "")
+      // Ingest stamps: "(ingested 2026-07-20)" — inline and in headings — and the
+      // standalone sentence "Ingested 2026-07-19."
+      .replace(/\s*\((?:re-)?ingested (?:20\d\d-)?\d\d-\d\d[^)]*\)/gi, "")
+      .replace(/\s*Ingested 20\d\d-\d\d-\d\d\./g, "")
+      // Empty bold left when the stamp was the whole bold span: "**** — a studio…" →
+      // "A studio…"; bare "****" → "".
+      .replace(/\*\*\s*\*\*\s*—\s*([a-z])/g, (_, ch) => ch.toUpperCase())
+      .replace(/\*\*\s*\*\*/g, "")
+      .replace(/[ \t]{2,}/g, " ")
+      .replace(/[ \t]+([.,;])/g, "$1")
+  )
 }
 
 // Students see assessments at their real dates (the calendar and the register tables).
@@ -490,39 +490,41 @@ function stripStamp(body) {
 // to a student. Strip the announcement notes, keeping the assignment itself. Not applied
 // to the framework page, which legitimately explains the one-week notice policy.
 function stripAnnouncements(body) {
-  return body
-    // Parenthetical note that mixes announcement with a return date:
-    // "(announced 11-13; returned Tue 12-01)" → "(returned Tue 12-01)".
-    .replace(/\(announced [^;)]*;\s*/gi, "(")
-    // Announcement-only parenthetical: "(announced 09-30)" / "(announced Tue 12-01)" → "".
-    .replace(/\s*\(announced[^)]*\)/gi, "")
-    // Clause after a sit date: "sits <date>, announced <date> — see …" → drop the clause.
-    // The lookahead leaves the boundary punctuation and any space before it intact, so
-    // "sits <date>, announced <date> — see" becomes "sits <date> — see", not "…date— see".
-    .replace(/\s*[—,]\s*announced\b[^.;,—|)]*?(?=\s*[.;,—|)]|$)/gi, "")
-    // Prose clause "…; announced <date> (reason)…" → drop to the next . ; or cell edge.
-    .replace(/;\s*announced\b[^.;|]*?(?=\s*[.;|]|$)/gi, "")
-    // Whole bold sentence about announcement: "**A4 is announced on the A3 sitting day**".
-    .replace(/\*\*A\d is announced[^*]*\*\*/gi, "")
-    // Session-table / inline markers, with an optional leading "·" or ";" separator:
-    // "A2 announced", "A1 + CS1 announced", "**A3 announced**", "**CS4** · A4 announced".
-    .replace(/(?:\s*[·;]\s*)?\*{0,2}A\d(?:\s*\+\s*CS\d)?\s+announced\*{0,2}/g, "")
-    // Register cell note "— announced with A1 on 09-16" and "A4's announcement on 12-16".
-    .replace(/\s*—?\s*announced with [^|.\n]*/gi, "")
-    .replace(/\s*A\d's announcement on \d\d-\d\d/gi, "")
-    // "announced here at U1·L10" / "**announced here**" and bare "announced here".
-    .replace(/\*{0,2}announced here\*{0,2}(?:\s+at\s+[^.;|]*)?/gi, "")
-    // Register-pointer phrasing on semester/unit pages: keep the pointer, drop the
-    // "announcement dates and rules" / "the announcement rule (…)" descriptor.
-    .replace(/\s*with (?:the full )?announcement dates and rules/gi, "")
-    .replace(/\s*with the announcement rule \([^)]*\)/gi, "")
-    // Tidy: empty parens, cell-initial dangling separators, doubled spaces.
-    .replace(/\(\s*\)/g, "")
-    .replace(/(\|\s*)[;·]\s+/g, "$1")
-    .replace(/[ \t]{2,}/g, " ")
-    .replace(/[ \t]+([.,;])/g, "$1")
-    .replace(/[ \t]+\|/g, " |")
-    .replace(/[ \t]+\n/g, "\n")
+  return (
+    body
+      // Parenthetical note that mixes announcement with a return date:
+      // "(announced 11-13; returned Tue 12-01)" → "(returned Tue 12-01)".
+      .replace(/\(announced [^;)]*;\s*/gi, "(")
+      // Announcement-only parenthetical: "(announced 09-30)" / "(announced Tue 12-01)" → "".
+      .replace(/\s*\(announced[^)]*\)/gi, "")
+      // Clause after a sit date: "sits <date>, announced <date> — see …" → drop the clause.
+      // The lookahead leaves the boundary punctuation and any space before it intact, so
+      // "sits <date>, announced <date> — see" becomes "sits <date> — see", not "…date— see".
+      .replace(/\s*[—,]\s*announced\b[^.;,—|)]*?(?=\s*[.;,—|)]|$)/gi, "")
+      // Prose clause "…; announced <date> (reason)…" → drop to the next . ; or cell edge.
+      .replace(/;\s*announced\b[^.;|]*?(?=\s*[.;|]|$)/gi, "")
+      // Whole bold sentence about announcement: "**A4 is announced on the A3 sitting day**".
+      .replace(/\*\*A\d is announced[^*]*\*\*/gi, "")
+      // Session-table / inline markers, with an optional leading "·" or ";" separator:
+      // "A2 announced", "A1 + CS1 announced", "**A3 announced**", "**CS4** · A4 announced".
+      .replace(/(?:\s*[·;]\s*)?\*{0,2}A\d(?:\s*\+\s*CS\d)?\s+announced\*{0,2}/g, "")
+      // Register cell note "— announced with A1 on 09-16" and "A4's announcement on 12-16".
+      .replace(/\s*—?\s*announced with [^|.\n]*/gi, "")
+      .replace(/\s*A\d's announcement on \d\d-\d\d/gi, "")
+      // "announced here at U1·L10" / "**announced here**" and bare "announced here".
+      .replace(/\*{0,2}announced here\*{0,2}(?:\s+at\s+[^.;|]*)?/gi, "")
+      // Register-pointer phrasing on semester/unit pages: keep the pointer, drop the
+      // "announcement dates and rules" / "the announcement rule (…)" descriptor.
+      .replace(/\s*with (?:the full )?announcement dates and rules/gi, "")
+      .replace(/\s*with the announcement rule \([^)]*\)/gi, "")
+      // Tidy: empty parens, cell-initial dangling separators, doubled spaces.
+      .replace(/\(\s*\)/g, "")
+      .replace(/(\|\s*)[;·]\s+/g, "$1")
+      .replace(/[ \t]{2,}/g, " ")
+      .replace(/[ \t]+([.,;])/g, "$1")
+      .replace(/[ \t]+\|/g, " |")
+      .replace(/[ \t]+\n/g, "\n")
+  )
 }
 
 // The resource-library page is a teacher catalog of raw/ files. With its inventory
@@ -530,31 +532,35 @@ function stripAnnouncements(body) {
 // two reading tables — this reframes them as a student reading list: the "teacher
 // reference" shelf becomes "Further reading", and the catalog/ingest framing goes.
 function cleanResourceLibrary(body) {
-  return body
-    .replace(/^## Readings — teacher reference\s*$/m, "## Further reading")
-    // Framing lines written for the teacher, not the reader.
-    .replace(/^Not student-facing\. [^\n]*\n/m, "")
-    .replace(/^Confirmed with the human 20\d\d-\d\d-\d\d as student-facing\.\s*\n/m, "")
-    .replace(/^Catalog of `raw\/[^\n]*\n/m, "")
-    .replace(/^\*\*Catalogued, not transcribed\.\*\* [^\n]*\n/m, "")
-    .replace(/^The important thing this drop changes:[^\n]*\n/m, "")
-    // Closing line of vault analysis ("assembled for the current arc, not the prior unit").
-    .replace(/^Six of the seven map onto lessons[^\n]*\n/m, "")
-    .replace(/\n{3,}/g, "\n\n")
+  return (
+    body
+      .replace(/^## Readings — teacher reference\s*$/m, "## Further reading")
+      // Framing lines written for the teacher, not the reader.
+      .replace(/^Not student-facing\. [^\n]*\n/m, "")
+      .replace(/^Confirmed with the human 20\d\d-\d\d-\d\d as student-facing\.\s*\n/m, "")
+      .replace(/^Catalog of `raw\/[^\n]*\n/m, "")
+      .replace(/^\*\*Catalogued, not transcribed\.\*\* [^\n]*\n/m, "")
+      .replace(/^The important thing this drop changes:[^\n]*\n/m, "")
+      // Closing line of vault analysis ("assembled for the current arc, not the prior unit").
+      .replace(/^Six of the seven map onto lessons[^\n]*\n/m, "")
+      .replace(/\n{3,}/g, "\n\n")
+  )
 }
 
 // The calendar page carries Obsidian-only framing: a pointer to the Full Calendar
 // plugin (which doesn't exist on the web) and a vault-maintenance "derived view"
 // note. Strip both so the agenda reads as the calendar, not a mirror of one.
 function cleanCalendar(body) {
-  return body
-    .replace(/\s*For the visual month\/week view[\s\S]*?greppable list\./, "")
-    .replace(/^This is a \*derived view\*[\s\S]*?needs fixing\.\s*$/m, "")
-    // The "⚠️ Confirm before term" section is a teacher's pre-term checklist
-    // (TBC items, resolution history). Drop the section but keep its closing
-    // italic note — that paragraph tells students where CS/HW schedules live.
-    .replace(/^## ⚠️? ?Confirm before term[\s\S]*?(?=^\*This calendar lists|(?![\s\S]))/m, "")
-    .replace(/\n{3,}/g, "\n\n")
+  return (
+    body
+      .replace(/\s*For the visual month\/week view[\s\S]*?greppable list\./, "")
+      .replace(/^This is a \*derived view\*[\s\S]*?needs fixing\.\s*$/m, "")
+      // The "⚠️ Confirm before term" section is a teacher's pre-term checklist
+      // (TBC items, resolution history). Drop the section but keep its closing
+      // italic note — that paragraph tells students where CS/HW schedules live.
+      .replace(/^## ⚠️? ?Confirm before term[\s\S]*?(?=^\*This calendar lists|(?![\s\S]))/m, "")
+      .replace(/\n{3,}/g, "\n\n")
+  )
 }
 
 // Withheld pages whose student-relevant content lives on another published page:
@@ -607,9 +613,7 @@ function cleanFrontmatter(fm, publishedTargets) {
 }
 
 const files = await walk(VAULT)
-const published = files
-  .map((f) => relative(VAULT, f))
-  .filter((rel) => !isDropped(rel))
+const published = files.map((f) => relative(VAULT, f)).filter((rel) => !isDropped(rel))
 
 // Wikilinks in this vault use full vault-relative paths without the .md suffix.
 const publishedTargets = new Set(published.map((rel) => rel.replace(/\.md$/, "")))
@@ -620,6 +624,9 @@ const publishedTargets = new Set(published.map((rel) => rel.replace(/\.md$/, "")
 
 // rel → frontmatter title, for the course maps and nav labels.
 const pageTitles = new Map()
+// lesson rel → base filename of the unit it belongs to (from its `related`
+// frontmatter links), so the course map can nest lessons under their units.
+const lessonUnits = new Map()
 let strippedCount = 0
 const pages = []
 for (const rel of published) {
@@ -633,6 +640,10 @@ for (const rel of published) {
     body = raw.slice(fmMatch[0].length)
     const t = fmMatch[1].match(/^title:\s*"?(.+?)"?\s*$/m)
     if (t) pageTitles.set(rel, t[1])
+    if (rel.includes("lesson-plans/")) {
+      const u = fmMatch[1].match(/unit-plans\/([^\]|/\n]+)/)
+      if (u) lessonUnits.set(rel, u[1])
+    }
   }
 
   const before = body.length
@@ -863,12 +874,16 @@ for (const c of Object.values(COURSES)) {
     .map((rel) => ({
       rel: rel.slice(prefix.length),
       title: pageTitles.get(rel) ?? rel.split("/").pop().replace(/\.md$/, ""),
+      unit: lessonUnits.get(rel),
     }))
   const map = courseMapHtml(items, c.dir)
   if (!map) continue
   let ov = await readFile(join(OUT, ovRel), "utf8")
-  // The old navigation: a "> **Start here:** …" blockquote of inline links.
+  // The old navigation: a "> **Start here:** …" blockquote of inline links,
+  // and the "Semester plans / Assessment registers" blockquote — both now
+  // covered by the map's semester cards.
   ov = ov.replace(/^> \*\*Start here:\*\*[^\n]*\n+/m, "")
+  ov = ov.replace(/^> \*\*Semester plans:\*\*[^\n]*(?:\n> [^\n]*)*\n+/m, "")
   // Insert before the first H2 — after the intro prose, before the content.
   ov = /^## /m.test(ov) ? ov.replace(/^## /m, `${map}## `) : ov + "\n" + map
   await writeFile(join(OUT, ovRel), ov)
@@ -882,9 +897,7 @@ for (const c of Object.values(COURSES)) {
 //
 // Deleting anything this run did not itself write makes content/ exactly the
 // filter's output, whatever else tries to appear in it.
-const strays = (await walk(OUT))
-  .map((f) => relative(OUT, f))
-  .filter((rel) => !written.has(rel))
+const strays = (await walk(OUT)).map((f) => relative(OUT, f)).filter((rel) => !written.has(rel))
 
 for (const rel of strays) await rm(join(OUT, rel))
 if (strays.length) {

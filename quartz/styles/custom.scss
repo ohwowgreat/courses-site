@@ -428,11 +428,21 @@ blockquote.callout {
     color: inherit;
   }
 }
-.cal-ev--a-level { background: var(--c-a-level); }
-.cal-ev--media { background: var(--c-media); }
-.cal-ev--art-app { background: var(--c-art-app); }
-.cal-ev--pal { background: var(--c-pal); }
-.cal-ev--oxbridge { background: var(--c-oxbridge); }
+.cal-ev--a-level {
+  background: var(--c-a-level);
+}
+.cal-ev--media {
+  background: var(--c-media);
+}
+.cal-ev--art-app {
+  background: var(--c-art-app);
+}
+.cal-ev--pal {
+  background: var(--c-pal);
+}
+.cal-ev--oxbridge {
+  background: var(--c-oxbridge);
+}
 // School context chips (holiday name, exam window, term anchors) read as quiet text.
 .cal-ev--school {
   background: none;
@@ -446,11 +456,21 @@ blockquote.callout {
 // of visual weight: solid chip (attainment) → outlined chip (CS/HW) → tiny tag
 // (LB) → background band (unit), with lesson starts as quiet labels.
 
-.cal--a-level { --cc: var(--c-a-level); }
-.cal--media { --cc: var(--c-media); }
-.cal--art-app { --cc: var(--c-art-app); }
-.cal--pal { --cc: var(--c-pal); }
-.cal--oxbridge { --cc: var(--c-oxbridge); }
+.cal--a-level {
+  --cc: var(--c-a-level);
+}
+.cal--media {
+  --cc: var(--c-media);
+}
+.cal--art-app {
+  --cc: var(--c-art-app);
+}
+.cal--pal {
+  --cc: var(--c-pal);
+}
+.cal--oxbridge {
+  --cc: var(--c-oxbridge);
+}
 
 .calwrap .cal-ev--attainment {
   background: var(--cc);
@@ -485,13 +505,19 @@ blockquote.callout {
   line-height: 1.3;
 }
 // Alternating unit bands so boundaries read without labels on every day.
-.cal-day--u0 { background: color-mix(in srgb, var(--cc) 5%, transparent); }
-.cal-day--u1 { background: color-mix(in srgb, var(--cc) 11%, transparent); }
+.cal-day--u0 {
+  background: color-mix(in srgb, var(--cc) 5%, transparent);
+}
+.cal-day--u1 {
+  background: color-mix(in srgb, var(--cc) 11%, transparent);
+}
 
 // Per-course legend keys mirroring the four weights. Prefixed with .calwrap so
 // they outrank the base .cal-key rule (color: #fff), which follows later in this
 // file at single-class specificity.
-.calwrap .cal-key--att { background: var(--cc); }
+.calwrap .cal-key--att {
+  background: var(--cc);
+}
 .calwrap .cal-key--cs {
   background: none;
   border: 1.5px solid var(--cc);
@@ -532,87 +558,125 @@ blockquote.callout {
 }
 
 // ── Course map ───────────────────────────────────────────────────────────────
-// The structured subpage map injected into each course overview by sync.mjs.
+// The semester-first subpage map injected into each course overview by
+// sync.mjs: a utility strip of course-wide pages, a full card for each
+// semester with published lessons (lessons nested under their units), and
+// compact cards for the rest.
 
 .cmap {
-  display: grid;
-  grid-template-columns: minmax(11rem, 1fr) minmax(14rem, 1.4fr);
-  gap: 1.2rem 2rem;
-  margin: 2rem 0 2.4rem;
-  padding: 1.2rem 1.4rem;
-  border: 1px solid var(--lightgray);
-  border-radius: 4px;
-  background: var(--light);
-}
-@media all and (max-width: 800px) {
-  .cmap {
-    grid-template-columns: 1fr;
-  }
-}
-// Lessons span the full width beneath the two columns.
-.cmap-col:nth-child(3) {
-  grid-column: 1 / -1;
-}
-
-.cmap-h {
-  font-size: 0.68rem;
-  text-transform: uppercase;
-  letter-spacing: 0.09em;
-  font-weight: 650;
-  color: var(--gray);
-  margin: 0 0 0.5rem;
-  font-family: var(--bodyFont);
-}
-.cmap ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-.cmap li {
-  margin: 0;
-}
-.cmap-col a {
-  display: block;
-  padding: 0.16rem 0;
-  font-size: 0.88rem;
-  color: var(--darkgray);
-  border: none;
-  line-height: 1.4;
-
-  &:hover {
-    color: var(--secondary);
-  }
-}
-.cmap-sem {
-  font-size: 0.64rem;
-  font-weight: 650;
-  color: var(--gray);
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  margin: 0.5rem 0 0.1rem;
-
-  &:first-child {
-    margin-top: 0;
-  }
-}
-.cmap-chips {
   display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+  margin: 2rem 0 2.4rem;
+
+  a {
+    border: none;
+    color: var(--darkgray);
+
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+}
+.cmap-util {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 1.5rem;
+  margin: 0;
+  font-size: 0.85rem;
+}
+.cmap-card {
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  background: var(--light);
+  padding: 0.95rem 1.15rem;
+}
+.cmap-card--now {
+  border-color: color-mix(in srgb, var(--secondary) 50%, var(--lightgray));
+}
+.cmap-card-head {
+  // Quartz's base header rule adds 2rem vertical margins; this is a card head.
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.2rem 0.8rem;
+}
+.cmap-card-title {
+  font-weight: 650;
+  font-size: 0.92rem;
+  color: var(--dark);
+}
+.cmap-badge {
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 1px 9px;
+  border-radius: 10px;
+  color: var(--secondary);
+  background: color-mix(in srgb, var(--secondary) 12%, transparent);
+}
+.cmap-links {
+  font-size: 0.82rem;
+  margin: 0.25rem 0 0;
+  color: var(--gray);
+}
+.cmap-note {
+  font-size: 0.78rem;
+  color: var(--gray);
+  margin: 0.15rem 0 0;
+}
+// One row per unit: the unit link, then its lessons as chips beside it.
+.cmap-units {
+  list-style: none;
+  margin: 0.8rem 0 0;
+  padding: 0.8rem 0 0;
+  border-top: 1px solid var(--lightgray);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+
+  li {
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.25rem 0.75rem;
+
+    & > a {
+      font-size: 0.88rem;
+      line-height: 1.4;
+    }
+  }
+}
+.cmap-ls,
+.cmap-minis {
+  display: inline-flex;
   flex-wrap: wrap;
   gap: 4px;
 }
-.cmap-chips a {
+.cmap-minis {
+  margin: 0.5rem 0 0;
+}
+.cmap-ls a,
+.cmap-minis a {
   display: inline-block;
-  font-size: 0.74rem;
+  font-size: 0.72rem;
   font-weight: 600;
-  padding: 2px 8px;
+  padding: 1px 7px;
   border: 1px solid var(--lightgray);
   border-radius: 3px;
-  color: var(--darkgray);
+  line-height: 1.5;
 
   &:hover {
     border-color: var(--secondary);
-    color: var(--secondary);
   }
+}
+// Compact cards for semesters not yet running sit in a grid below.
+.cmap-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(12.5rem, 1fr));
+  gap: 0.9rem;
 }
 
 // ── Left rail ────────────────────────────────────────────────────────────────
@@ -666,7 +730,9 @@ blockquote.callout {
     width: 100%;
     flex-basis: 100%;
   }
-  .site-nav-group { margin-bottom: 0.7rem; }
+  .site-nav-group {
+    margin-bottom: 0.7rem;
+  }
   .left.sidebar .toc {
     display: none;
   }
