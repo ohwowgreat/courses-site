@@ -103,6 +103,12 @@ const HEROES = {
     "above-fifth-avenue",
   "classes/media-studies/lesson-plans/9607-s1-lesson-13-a4-section-a-in-authentic-format.md":
     "lindbergh-1927",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-14-consolidation-and-the-coverage-matrix.md":
+    "moon-atlas",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-15-exam-rehearsal.md":
+    "musicians",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-16-end-of-term-exam-and-return.md":
+    "the-magpie",
 }
 
 // Inline figures (2026-07-21): lesson pages carry period exemplars from the shared

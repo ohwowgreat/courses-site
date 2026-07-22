@@ -426,6 +426,23 @@ const PLATES = [
     credit:
       "Underwood & Underwood, *Charles Lindbergh*, 1927 — the first global media event: one man, every channel",
   },
+  // 9607 U6 Revision (added 2026-07-22) — the S1 build complete.
+  {
+    slug: "moon-atlas",
+    file: "Photographers/Maurice Loewy and Pierre Henri Puiseux/Maurice Loewy and Pierre Henri Puiseux - The Moon from Atlas Photographique de la lune..jpg",
+    credit:
+      "Loewy & Puiseux, plate from the *Atlas Photographique de la Lune*, c. 1900 — the whole surface, plate by plate, so no region goes unexamined",
+  },
+  {
+    slug: "musicians",
+    file: "Caravaggio, Musicians, 1595.jpeg",
+    credit: "Caravaggio, *The Musicians*, 1595 — rehearsal, mid-note",
+  },
+  {
+    slug: "the-magpie",
+    file: "Claude Monet, The Magpie, 1869.jpg",
+    credit: "Claude Monet, *The Magpie*, 1869 — winter light, and the quiet after",
+  },
 ]
 
 await mkdir(OUT, { recursive: true })
