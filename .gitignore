@@ -2,6 +2,7 @@
 node_modules/
 public/
 .quartz-cache/
+*.tsbuildinfo
 
 # NOTE: content/ IS committed on purpose. The build host (Vercel / Cloudflare) has no
 # access to the source vault, so it builds from this checked-in snapshot. Regenerate it
