@@ -37,6 +37,15 @@ const SEMESTER_INFO = {
   },
 }
 
+// Per-course override for which semester carries the current (--now) marker,
+// keyed by course directory basename. Without an entry, the current semester is
+// the latest one with published lessons. Pin this when a later semester's
+// lessons are published ahead of the semester actually being taught (e.g. S2
+// authored during S1).
+const CURRENT_SEMESTER = {
+  "a-level-art-design": 1,
+}
+
 // Shorten a frontmatter title for its slot in the map.
 //   "9607 S1 Unit 2: Media Language"        → { n: 2, text: "Media Language" }
 //   "Art Appreciation S1 Lesson 04: …"      → L04
@@ -126,10 +135,14 @@ export function courseMapHtml(items, dir) {
     else if (c.group === "lessons") sem(c.sem).lessons.push(c)
   }
 
-  const info = SEMESTER_INFO[dir.split("/").pop()] ?? {}
+  const base = dir.split("/").pop()
+  const info = SEMESTER_INFO[base] ?? {}
   const semNums = [...sems.keys()].sort((a, b) => a - b)
-  // The semester being taught: the latest one with published lessons.
-  const current = Math.max(0, ...semNums.filter((n) => sem(n).lessons.length))
+  // The semester being taught: a per-course pin if set, else the latest one
+  // with published lessons.
+  const current =
+    CURRENT_SEMESTER[base] ??
+    Math.max(0, ...semNums.filter((n) => sem(n).lessons.length))
 
   const planLabel = (p, full) =>
     /outline/i.test(p.label)
