@@ -26,6 +26,12 @@ modified: 2026-07-23
 
 This week your strongest candidate becomes a proposal you can defend on paper. You draft the theme and aims, plan the primary sources you actually control, and shortlist artists who solve the problem — then test the whole thing against the eight-stage pipeline *before* you take it to consultation. By Friday you submit the proposal as **CS1** and leave consultation 2 with either a decision to lock or one named fix. Fixing a weak proposal now, on paper, is cheap; fixing it in April, in the studio, is not.
 
+
+<figure class="plate">
+  <img src="../../../static/img/banqueting-sketch.jpg" alt="Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from" loading="lazy" />
+  <figcaption>Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from</figcaption>
+</figure>
+
 ## How it runs
 
 - **Mon 03-01 — proposal drafting: theme and aims.** From the candidate that survived last week's screens, write what the investigation will look at and why it can sustain the full pipeline to December. Aims in your own words — no borrowed exemplar language.

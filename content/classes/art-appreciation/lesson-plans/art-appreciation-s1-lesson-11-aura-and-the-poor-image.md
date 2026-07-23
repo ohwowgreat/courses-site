@@ -30,6 +30,12 @@ You start with ukiyo-e — a print is already many — so that Benjamin reads as
 ## How it runs
 
 - **Day 1 · Mon 7 Dec · `U4·L8`** — ukiyo-e: a print is many, not one; the market that made them. Benjamin set for homework.
+
+<figure class="plate">
+  <img src="../../../static/img/representation.jpg" alt="Kitagawa Utamaro, Two Women by a Bamboo Blind, c. 1797" loading="lazy" />
+  <figcaption>Kitagawa Utamaro, <em>Two Women by a Bamboo Blind</em>, c. 1797</figcaption>
+</figure>
+
 - **Day 2 · Tue 8 Dec · `U4·L9`** — aura, defined precisely enough to argue with Benjamin about it — then to argue with it.
 - **Day 3 · Wed 9 Dec · `U4·L10`** — Steyerl, the poor image: defend the low-resolution image as a thing with its own value; what circulation gives.
 - **Day 4 · Thu 10 Dec · `U4·L11`** — the poor-image lab: degrade, compress, re-photograph, screenshot the screenshot; then fifteen minutes writing exactly what changed. CS5 collected.

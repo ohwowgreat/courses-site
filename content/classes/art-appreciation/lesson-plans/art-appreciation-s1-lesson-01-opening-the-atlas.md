@@ -26,6 +26,12 @@ These dates fall in a future term and may shift once the school publishes the ca
 
 Three days on one job: looking before explaining. The atlas method is different from art history taught as a timeline, and the course uses it deliberately. The darkroom comes on day three because it is the fastest way to make an image stop being a screen and become a thing that light did to a surface — a distinction the course returns to in Unit 4 in December.
 
+
+<figure class="plate">
+  <img src="../../../static/img/articles-of-glass.jpg" alt="William Henry Fox Talbot, Articles of Glass, 1844" loading="lazy" />
+  <figcaption>William Henry Fox Talbot, <em>Articles of Glass</em>, 1844</figcaption>
+</figure>
+
 ## How it runs
 
 - **Day 1 · Tue 1 Sept · `U1·L1`** — **First half:** course opener — introductions, why this subject, and how the course runs. This is a mixed G11 + G12 group. **Second half:** the atlas method and how you are marked — Warburg's panels and why resemblance beats date, and the course map showing the four majors and the retrospective on one sheet. To close, you name one thing about this course that sounds wrong to you.

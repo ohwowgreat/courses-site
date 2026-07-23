@@ -28,6 +28,12 @@ These dates may shift when the school publishes the calendar for this period.
 
 The exploration becomes a commitment. The class critiques the experiment grids, you select your media for reasons you can write down, the selection is tested at real scale, and the scale trial's failures are fixed. The Stage 3 page then shows the exploration as reasoning, not as a swatch chart.
 
+
+<figure class="plate">
+  <img src="../../../static/img/tone-and-form.jpg" alt="Peter Paul Rubens, Head of a Boy (Nicolaas Rubens), c. 1619" loading="lazy" />
+  <figcaption>Peter Paul Rubens, <em>Head of a Boy (Nicolaas Rubens)</em>, c. 1619</figcaption>
+</figure>
+
 ## How it runs
 
 - **Mon 10-19** — grids up; group critique of the exploration, protocol on the board, maker speaks last; log the two comments that changed your view.

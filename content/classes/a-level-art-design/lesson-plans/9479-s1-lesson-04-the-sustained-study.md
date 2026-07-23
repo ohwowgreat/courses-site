@@ -22,6 +22,12 @@ modified: 2026-07-17
 | Feeds | CS3 progress check Thu 2026-09-24 |
 | Homework | Sketchbook: ten minutes of observed drawing per night from your chosen composition's source |
 
+
+<figure class="plate">
+  <img src="../../../static/img/observation.jpg" alt="Vincent van Gogh, The Potato Peeler, 1885" loading="lazy" />
+  <figcaption>Vincent van Gogh, <em>The Potato Peeler</em>, 1885</figcaption>
+</figure>
+
 ## Goal
 
 One long observed study, started and finished without restarting, is the spine of AO1. You build the Stage 1 page, then carry the sustained study across a real two-day run, then support it with focused color and texture work. Stamina is the content.

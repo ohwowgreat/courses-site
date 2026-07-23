@@ -28,6 +28,12 @@ This block runs as a short Monday–Tuesday start, then a break while G11 Junior
 ## How it runs
 
 - **Day 1 · Mon 2 Nov · `U3·L11`** — Heda: the still life as inventory. Name every object and who owns it.
+
+<figure class="plate">
+  <img src="../../../static/img/heda-still-life.jpg" alt="Willem Claesz. Heda, Still Life with a Gilt Cup, 1635" loading="lazy" />
+  <figcaption>Willem Claesz. Heda, <em>Still Life with a Gilt Cup</em>, 1635</figcaption>
+</figure>
+
 - **Day 2 · Tue 3 Nov · `U3·L12`** — **A3 announced** (Unit 3 essay, due Thu 19 Nov) in the first ten minutes. Then Heda again, the same painting, taken further than yesterday. LB5 posted. Then three days out.
 - **Day 3 · Mon 9 Nov · `U3·L13`** — Leonardo, *The Last Supper*: find the moment Leonardo chose, and say why that one and not the one before it.
 - **Day 4 · Tue 10 Nov · `U3·L14`** — Bruegel and Steen: the disorderly table, taken seriously as a subject rather than comedy.

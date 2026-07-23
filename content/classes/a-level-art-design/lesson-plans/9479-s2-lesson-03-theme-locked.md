@@ -26,6 +26,12 @@ modified: 2026-07-23
 
 This week your theme stops being a proposal and becomes the thing you will make. On Monday you lock it in writing, signed — after this there are no restarts. The rest of the week builds on the locked theme: the statement of intent in your own words, a research plan with real reading and dates, and your first primary-source shoot, the reference you will draw from for months. By Friday Unit 1 closes with everything the first attainment needs in place.
 
+
+<figure class="plate">
+  <img src="../../../static/img/a-level-art-design.jpg" alt="Paul Cézanne, A Painter at Work, 1875" loading="lazy" />
+  <figcaption>Paul Cézanne, <em>A Painter at Work</em>, 1875</figcaption>
+</figure>
+
 ## How it runs
 
 - **Mon 03-08 — theme locked in writing.** You sign the locked theme against the exemplar criteria. This is the gate: after today the investigation runs on this theme all the way to submission in December. **No restarts** — the work now is to make it well, not to keep looking for a better idea.

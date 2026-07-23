@@ -27,6 +27,12 @@ These dates may shift when the school publishes the calendar for this period; an
 
 You make the real piece in one continuous run: underdrawing through to surface across four days, a hard look on Friday while there is still time to change things, then three days to resolve the focal areas and unify the whole. The plan from Lesson 13 governs every session. If you want to change the plan, you discuss it — it is a conference, not a drift.
 
+
+<figure class="plate">
+  <img src="../../../static/img/cafe-terrace.jpg" alt="Vincent van Gogh, Café Terrace at Night, 1888" loading="lazy" />
+  <figcaption>Vincent van Gogh, <em>Café Terrace at Night</em>, 1888</figcaption>
+</figure>
+
 ## How it runs
 
 - **Mon 12-14 → Thu 12-17** — four-day build run, one continuous session: day 1 underdrawing and block-in; day 2 mid-stages (main relationships established); day 3 production, with the conference rota concentrated here; day 4 detail and surface. Each day: re-entry look, build, exit annotation against the plan.

@@ -31,6 +31,12 @@ These three days fall after the exam window and after the Semester 1 grades dead
 - **Day 2 · Wed 20 Jan** — one-to-one continued. Grades and comments due today.
 - **Day 3 · Thu 21 Jan** — Semester 2 trailer: patronage, the market, and who decides what is worth money; write your goal. LB9 posted.
 
+<figure class="plate">
+  <img src="../../../static/img/wanderer.jpg" alt="Caspar David Friedrich, Wanderer Above the Sea of Fog, 1818 — who is he? what does he see? the enigma code at work" loading="lazy" />
+  <figcaption>Caspar David Friedrich, <em>Wanderer Above the Sea of Fog</em>, 1818 — who is he? what does he see? the enigma code at work</figcaption>
+</figure>
+
+
 ## Assessment
 
 - **LB9** — posted after the Wednesday grades deadline; it counts toward Semester 2, not Semester 1.

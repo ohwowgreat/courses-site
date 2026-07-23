@@ -31,6 +31,12 @@ A4 is the last thing you submit this semester. It clears the roughly 1 January l
 
 - **Day 1 · Fri 11 Dec · `U4·L12`** — what the poor image gains: what circulation gives that quality takes.
 - **Day 2 · Mon 14 Dec · `U4·L13`** — photography and the claim to truth: why we believe photographs, and whether we should. Sontag reading set.
+
+<figure class="plate">
+  <img src="../../../static/img/the-great-wave.jpg" alt="Gustave Le Gray, The Great Wave, Sète, 1857" loading="lazy" />
+  <figcaption>Gustave Le Gray, <em>The Great Wave, Sète</em>, 1857</figcaption>
+</figure>
+
 - **Day 3 · Tue 15 Dec · `U4·L14`** — Sontag: photographing as an act on the world.
 - **Day 4 · Wed 16 Dec · `U4·L15`** — avant-garde and kitsch: test Greenberg's line and find the place it stops holding. Unit 1 boards back on the wall.
 - **Day 5 · Thu 17 Dec · `U4·L16`** — **A4 sits**: build the constellation and write the argument, 40 minutes.

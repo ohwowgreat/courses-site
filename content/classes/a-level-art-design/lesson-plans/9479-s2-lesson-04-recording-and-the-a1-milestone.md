@@ -26,6 +26,12 @@ modified: 2026-07-23
 
 Unit 2 opens the recording stage, and by Friday you sit A1 — the first attainment, marked against AO1. This week the intention and your first shoot become recording an examiner could read: a Stage 1 page that makes your thinking visible to a stranger, and one sustained study carried across two days rather than restarted. A1 is not a new task. It is everything recorded so far, looked at together against the AO1 criteria.
 
+
+<figure class="plate">
+  <img src="../../../static/img/drawn-from-life.jpg" alt="Ilya Repin, Portrait of a Russian Peasant, 1871" loading="lazy" />
+  <figcaption>Ilya Repin, <em>Portrait of a Russian Peasant</em>, 1871</figcaption>
+</figure>
+
 ## How it runs
 
 - **Mon 03-15 — compose the Stage 1 page.** Lay out your intention, first shoot and early observations so a stranger could follow your thinking without you in the room. The page is recording, not decoration — sequence it so **AO1 reads without explanation**.

@@ -127,6 +127,144 @@ const CITATIONS = {
 // diff of content/ shows exactly where each one settled. Entries with several
 // slugs render side by side as a .plate-row grid.
 const FIGURES = {
+  // ── Art Appreciation S1 (period exemplars, one per lesson) ────────────────
+  "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-01-opening-the-atlas.md": [
+    { slugs: ["articles-of-glass"], anchor: /physical trace|light did to a surface/i },
+  ],
+  "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-02-what-survives-and-why.md": [
+    { slugs: ["mummy-portrait"], anchor: /the wall is the evidence|what had to happen for an object to reach you/i },
+  ],
+  "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-03-the-first-board.md": [
+    { slugs: ["deer-mandala"], anchor: /ritual objects and ancestral presence/i },
+  ],
+  "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-04-telling-it-without-words.md": [
+    { slugs: ["calling-of-matthew"], anchor: /where a still image puts time/i },
+  ],
+  "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet.md": [
+    { slugs: ["folies-bergere"], anchor: /refusals Manet is making|Manet, \*Olympia\*/i },
+  ],
+  "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-06-the-table-as-moral-space.md": [
+    { slugs: ["the-table"], anchor: /three paintings of meals|who is where/i },
+  ],
+  "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-07-the-split-weeks.md": [
+    { slugs: ["composition"], anchor: /your own table/i },
+  ],
+  "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-08-heda-and-the-image-of-work.md": [
+    { slugs: ["heda-still-life"], anchor: /the still life as inventory/i },
+  ],
+  "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-09-food-the-table-and-ethics.md": [
+    { slugs: ["last-supper"], anchor: /one claim about food and ethics|food and ethics, argued from the pictures/i },
+  ],
+  "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-10-berger-and-the-reproduction.md": [
+    { slugs: ["the-magpie"], anchor: /a reproduction is not a neutral copy/i },
+  ],
+  "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image.md": [
+    { slugs: ["representation"], anchor: /a print is many/i },
+  ],
+  "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-12-photography-and-after.md": [
+    { slugs: ["the-great-wave"], anchor: /why we believe photographs|photography and the claim to truth/i },
+  ],
+  "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief.md": [
+    { slugs: ["guitar-gas-jet"], anchor: /the artworld and the end of art|what makes something art when looking cannot tell you/i },
+  ],
+  "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-14-the-retrospective.md": [
+    { slugs: ["album-leaf"], anchor: /read back as one argument/i },
+  ],
+  "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-15-return.md": [
+    { slugs: ["wanderer"], anchor: /Semester 2 trailer|re-read their own work/i },
+  ],
+  // ── A Level Art & Design S1 (C1 Portfolio) — one artwork per pipeline stage ──
+  "classes/a-level-art-design/lesson-plans/9479-s1-lesson-01-introduction-and-the-theme-menu.md": [
+    { slugs: ["a-level-art-design"], anchor: /top-band portfolio|committed to one theme|theme menu/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s1-lesson-02-formal-elements-on-the-theme.md": [
+    { slugs: ["mark-making"], anchor: /five different instruments|each formal element/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s1-lesson-03-intention-and-composition-planning.md": [
+    { slugs: ["banqueting-sketch"], anchor: /the theme becomes an investigation|composition planning/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s1-lesson-04-the-sustained-study.md": [
+    { slugs: ["observation"], anchor: /One long observed study|the spine of AO1|Stage 1 page/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s1-lesson-05-recording-pages-and-a1.md": [
+    { slugs: ["drawn-from-life"], anchor: /pages an examiner could read/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s1-lesson-06-media-exploration.md": [
+    { slugs: ["repin-nevsky-studies"], anchor: /twelve prescribed experiments|which media carry the theme/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s1-lesson-07-selection-and-scale.md": [
+    { slugs: ["tone-and-form"], anchor: /select your media|the exploration becomes a commitment/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s1-lesson-08-artist-study-1.md": [
+    { slugs: ["van-gogh-armchair"], anchor: /they solve the problem in your work|first artist/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s1-lesson-09-artist-2-bridge-piece-and-a2.md": [
+    { slugs: ["repin-cossacks-study"], anchor: /second artist against the first|from study into develop/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s1-lesson-10-composition-1.md": [
+    { slugs: ["composition"], anchor: /from your own recorded studies|never from memory/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s1-lesson-11-composition-2-and-critique.md": [
+    { slugs: ["vanitas"], anchor: /the alternative you did not take|built with the same effort/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s1-lesson-12-targeted-tests-and-direction.md": [
+    { slugs: ["skull-cigarette"], anchor: /what the critique left unresolved|targeted tests/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s1-lesson-13-final-plan-and-a3.md": [
+    { slugs: ["van-gogh-outskirts"], anchor: /solved small|palette and materials are settled/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s1-lesson-14-the-final-outcome.md": [
+    { slugs: ["cafe-terrace"], anchor: /one continuous run|underdrawing through to surface/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s1-lesson-15-submission-week-and-a4.md": [
+    { slugs: ["the-great-wave"], anchor: /the photograph is the version the examiner sees/i },
+  ],
+  // ── A Level Art & Design S2 (C3 Personal Investigation) — same stage signatures ──
+  "classes/a-level-art-design/lesson-plans/9479-s2-lesson-01-opening-the-investigation.md": [
+    { slugs: ["first-marks"], anchor: /read a 90\/100 investigation|propose the theme yourself|most consequential/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s2-lesson-02-proposal-and-feasibility.md": [
+    { slugs: ["banqueting-sketch"], anchor: /stress-test the whole thing|a proposal you can defend/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked.md": [
+    { slugs: ["a-level-art-design"], anchor: /lock it in writing|no restarts/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s2-lesson-04-recording-and-the-a1-milestone.md": [
+    { slugs: ["drawn-from-life"], anchor: /makes your thinking visible to a stranger|one sustained study/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s2-lesson-05-recording-pages-and-feedback.md": [
+    { slugs: ["repin-nevsky-studies"], anchor: /three specific actions|build the recording pages/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s2-lesson-06-media-exploration.md": [
+    { slugs: ["mark-making"], anchor: /twelve media experiments|experiments built so they/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s2-lesson-07-artist-1-in-full.md": [
+    { slugs: ["van-gogh-armchair"], anchor: /an artist who solves the problem|copy to understand/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s2-lesson-08-artist-2-bridge-and-a2.md": [
+    { slugs: ["repin-cossacks-study"], anchor: /a different angle on the same problem|the bridge piece/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s2-lesson-09-composition-1.md": [
+    { slugs: ["composition"], anchor: /from your own studies|hold one idea across two/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s2-lesson-10-resolving-composition-1.md": [
+    { slugs: ["tone-and-form"], anchor: /Unresolved work cannot be judged|resolve composition 1/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s2-lesson-11-composition-2-and-paper-drafts.md": [
+    { slugs: ["vanitas"], anchor: /the rejected alternative|equal effort/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s2-lesson-12-critique-and-targeted-tests.md": [
+    { slugs: ["skull-cigarette"], anchor: /only what is unresolved|choosing is development/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s2-lesson-13-evaluation-draft-1-and-a3.md": [
+    { slugs: ["van-gogh-outskirts"], anchor: /against your intention, not the effort|trail of decisions/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s2-lesson-14-mid-point-piece-and-bibliography.md": [
+    { slugs: ["observation"], anchor: /choose the piece that carries the investigation|into the body of the work/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s2-lesson-15-submission-week-and-a4.md": [
+    { slugs: ["the-great-wave"], anchor: /the photograph is the version the examiner sees/i },
+  ],
   "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-06-framing-and-viewpoint.md": [
     {
       slugs: ["sea-of-steps", "st-pauls-spires", "canon-de-chelle"],

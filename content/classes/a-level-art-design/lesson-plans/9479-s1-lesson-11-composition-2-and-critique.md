@@ -28,6 +28,12 @@ These dates may shift when the school publishes the calendar for this period.
 
 Composition 2 is the alternative you did not take in Lesson 3's thumbnails, built with the same effort as the first so the comparison is honest. You then critique both against your intention and change something because of what you heard.
 
+
+<figure class="plate">
+  <img src="../../../static/img/vanitas.jpg" alt="Edwaert Collier, Vanitas Still Life, 1662" loading="lazy" />
+  <figcaption>Edwaert Collier, <em>Vanitas Still Life</em>, 1662</figcaption>
+</figure>
+
 ## How it runs
 
 - **Wed 11-18** — put your rejected thumbnail from Lesson 3 on the table and read back its rejection note; compose composition 2 from your studies; sign-off rota.

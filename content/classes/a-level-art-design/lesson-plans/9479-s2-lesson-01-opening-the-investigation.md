@@ -28,6 +28,12 @@ These dates are provisional and may shift when the school publishes the calendar
 
 By Friday you will know how the Personal Investigation is marked, will have read a top-band investigation and named what earns it, and will have three candidate themes defended one to one and screened against primary sources you can actually reach. In Component 3 the theme is yours, not the menu's — you propose it and lock it in writing — and it runs to submission next December. It is the most consequential decision of the year, and you make it against the criteria, not by mood.
 
+
+<figure class="plate">
+  <img src="../../../static/img/first-marks.jpg" alt="Ilya Repin, Leo Tolstoy at Work, 1891" loading="lazy" />
+  <figcaption>Ilya Repin, <em>Leo Tolstoy at Work</em>, 1891</figcaption>
+</figure>
+
 ## How it runs
 
 - **Mon 02-22 — C3 briefing, no studio.** What Component 3 is: a personal investigation you propose yourself, weighted 75 marks → 150, carrying a written element — the research paper — that must be **integrated with the visual work, not bolted on**. What changes from C1: you set the theme and lock it in writing, the eight-stage pipeline returns, and the paper drafts alongside the art from the start. The four AOs restated in C3 specialist language. Orientation only, nothing graded.

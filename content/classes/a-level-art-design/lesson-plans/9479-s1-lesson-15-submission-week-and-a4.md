@@ -26,6 +26,12 @@ modified: 2026-07-17
 
 Submission is a supervised craft, not a scramble. Monday you photograph the outcome properly, because the photograph is the version the examiner sees. Tuesday you sequence the whole journey so it reads in order. Wednesday you cut whatever does not earn its place and check every AO. Thursday it goes in, and nothing is edited after. Friday you look back.
 
+
+<figure class="plate">
+  <img src="../../../static/img/the-great-wave.jpg" alt="Gustave Le Gray, The Great Wave, Sète, 1857" loading="lazy" />
+  <figcaption>Gustave Le Gray, <em>The Great Wave, Sète</em>, 1857</figcaption>
+</figure>
+
 ## How it runs
 
 - **Mon 01-04** (two beats) — photograph the outcome: rig, light, shoot, detail passes; prepare the images: crop, correct, name, file to the template.

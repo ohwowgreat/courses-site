@@ -26,6 +26,12 @@ modified: 2026-07-23
 
 This is a short week around the May Day break with one job: resolve composition 1 and document it honestly. Unresolved work cannot be marked, so before you move to the second composition, bring the first to a state that can actually be judged — then photograph and lay it out as it is, not as you wish it looked.
 
+
+<figure class="plate">
+  <img src="../../../static/img/tone-and-form.jpg" alt="Peter Paul Rubens, Head of a Boy (Nicolaas Rubens), c. 1619" loading="lazy" />
+  <figcaption>Peter Paul Rubens, <em>Head of a Boy (Nicolaas Rubens)</em>, c. 1619</figcaption>
+</figure>
+
 ## How it runs
 
 - **Thu 05-06 — resolve composition 1.** Finish what you marked unresolved before the break: the passages you left open, the parts that were "nearly." Resolution *is* the development here, not a tidy-up.

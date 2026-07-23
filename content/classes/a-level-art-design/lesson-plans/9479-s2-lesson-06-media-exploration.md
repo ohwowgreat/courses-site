@@ -22,6 +22,12 @@ modified: 2026-07-23
 | Graded | **CS4** (twelve experiments documented) Fri 2027-04-02 — a sketchbook task. **A2** (exploration + artist study, AO2+AO3) sits Fri 2027-04-23 |
 | Homework | Over the Qingming mock week (S7, 04-04 → 10, no regular classes): an independent sketchbook brief if the school permits |
 
+
+<figure class="plate">
+  <img src="../../../static/img/mark-making.jpg" alt="Peter Paul Rubens, Anatomical Studies, pen and ink, c. 1605" loading="lazy" />
+  <figcaption>Peter Paul Rubens, <em>Anatomical Studies</em>, pen and ink, c. 1605</figcaption>
+</figure>
+
 ## Goal
 
 Unit 3 opens the exploration stage: which media can actually carry your investigation. This week you plan and run twelve media experiments — experiments built so they *could* fail, because a test that can only succeed tells you nothing — then select on evidence, keeping what works and naming what you reject. The point is not twelve tidy samples; it is finding the two or three media you will develop, and being able to say why.

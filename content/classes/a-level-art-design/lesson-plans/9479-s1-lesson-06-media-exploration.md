@@ -26,6 +26,12 @@ modified: 2026-07-17
 
 You run twelve prescribed experiments in three days to find which media carry the theme, not which describe it. Experiments are allowed to fail; safe tests teach nothing. Your decision at the end is made with evidence, and you name the rejections.
 
+
+<figure class="plate">
+  <img src="../../../static/img/repin-nevsky-studies.jpg" alt="Ilya Repin, Studies for Figures on the Nevsky Prospect, 1891" loading="lazy" />
+  <figcaption>Ilya Repin, <em>Studies for Figures on the Nevsky Prospect</em>, 1891</figcaption>
+</figure>
+
 ## Key content: the twelve experiments
 
 Run in three blocks of four, one block per day, on A5 unless stated. Every experiment uses your own source material.

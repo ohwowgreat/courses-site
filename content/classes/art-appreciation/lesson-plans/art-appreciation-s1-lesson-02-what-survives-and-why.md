@@ -26,6 +26,12 @@ modified: 2026-07-17
 
 This lesson covers people who left no writing. You have to argue from the wall itself: **the wall is the evidence.** A1 is announced on the first day of this lesson.
 
+
+<figure class="plate">
+  <img src="../../../static/img/mummy-portrait.jpg" alt="Mummy portrait of a man wearing an ivy wreath, Roman Egypt, c. 101 CE — wreath, gold, gaze: codes at work for 1,900 years" loading="lazy" />
+  <figcaption>Mummy portrait of a man wearing an ivy wreath, Roman Egypt, c. 101 CE — wreath, gold, gaze: codes at work for 1,900 years</figcaption>
+</figure>
+
 ## How it runs
 
 - **Day 1 · Fri 4 Sept · `U1·L4`** — A1 is announced in the first ten minutes: the board, the justification, due Fri 18 Sept. Then: what survives, and why — name what had to happen for an object to reach you at all.

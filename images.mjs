@@ -72,6 +72,16 @@ const PLATES = [
     credit: "Jan Steen, *The Merry Family*, 1668",
   },
   {
+    slug: "heda-still-life",
+    file: "Dutch and Flemish Still Life Painting (Art Paintings)/Willem Claesz. Heda (1593-94 - 1680)/Still life with golden tableware (1635) (88 x 113) (Amsterdam, The State. Museum).jpg",
+    credit: "Willem Claesz. Heda, *Still Life with a Gilt Cup*, 1635",
+  },
+  {
+    slug: "last-supper",
+    file: "Leonardo DaVinci, The Last Supper, 1495-1498, fresco.jpg",
+    credit: "Leonardo da Vinci, *The Last Supper*, 1495–98",
+  },
+  {
     slug: "calendar",
     file: "Pieter Bruegel the Elder, The Hunters in the Snow, 1565, oil on panel, 117 cm × 162 cm.jpg",
     credit: "Pieter Bruegel the Elder, *The Hunters in the Snow*, 1565",
@@ -102,6 +112,31 @@ const PLATES = [
     slug: "drawn-from-life",
     file: "Ilya Repin (Drawings)/Ilya Repin, Portrait of a Russian Peasant, 1871.jpg",
     credit: "Ilya Repin, *Portrait of a Russian Peasant*, 1871",
+  },
+  {
+    slug: "repin-nevsky-studies",
+    file: "Ilya Repin (Drawings)/Ilya Repin, Studies for Figures on the Nevsky Prospect in St. Petersburg, 1891.jpg",
+    credit: "Ilya Repin, *Studies for Figures on the Nevsky Prospect*, 1891",
+  },
+  {
+    slug: "repin-cossacks-study",
+    file: "Ilya Repin (Drawings)/Ilya Repin, Study for Zaporozhian Cossacks Writing a Letter to the Turkish Sultan, 1878.jpg",
+    credit: "Ilya Repin, study for *Reply of the Zaporozhian Cossacks*, 1878",
+  },
+  {
+    slug: "van-gogh-armchair",
+    file: "Vincent van Gogh, Paul Gauguin's Armchair, 1888.jpeg",
+    credit: "Vincent van Gogh, *Paul Gauguin's Armchair*, 1888",
+  },
+  {
+    slug: "van-gogh-outskirts",
+    file: "Vincent Van Gogh, On the Outskirts of Paris, 1887.jpg",
+    credit: "Vincent van Gogh, *On the Outskirts of Paris*, 1887",
+  },
+  {
+    slug: "cafe-terrace",
+    file: "Vincent van Gogh, Café Terrace at Night (Place du Forum, Arles), 1888.jpeg",
+    credit: "Vincent van Gogh, *Café Terrace at Night*, 1888",
   },
   // PAL S1 U2 photography heroes + inline figures (added 2026-07-21).
   // All pre-1930 public domain, per the policy above.

@@ -32,6 +32,12 @@ Seven teaching days across two weeks, with the class split in both. The core con
 ## How it runs
 
 - **Day 1 · Mon 23 Nov · `U4·L1`** — Berger's argument stated flat: a reproduction is not a neutral copy. The first objection, taken seriously. Reading set.
+
+<figure class="plate">
+  <img src="../../../static/img/the-magpie.jpg" alt="Claude Monet, The Magpie, 1869 — winter light, and the quiet after" loading="lazy" />
+  <figcaption>Claude Monet, <em>The Magpie</em>, 1869 — winter light, and the quiet after</figcaption>
+</figure>
+
 - **Day 2 · Tue 24 Nov · `U4·L2`** — one painting, four contexts: change the words around an image and watch its meaning move.
 - **Day 3 · Wed 25 Nov · `U4·L3`** — seminar: what did the painting lose, what did it gain, by becoming reproducible. LB6 posted.
 - **Day 4 · Thu 26 Nov · `U4·L4`** — self-contained (G12 out): a reproduction read as an object with decisions of its own.

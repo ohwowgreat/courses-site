@@ -26,6 +26,12 @@ modified: 2026-07-23
 
 This week you photograph, sequence, edit and submit the mid-point portfolio — everything from the locked theme to the resolved piece and the paper draft. On Monday you shoot the work properly, because the photograph is the version the examiner sees. On Tuesday you sequence the whole journey so it reads in order. On Wednesday you cut what does not earn its place and check every AO. Thursday is supervised QC, and on Friday it goes in — nothing edited after.
 
+
+<figure class="plate">
+  <img src="../../../static/img/the-great-wave.jpg" alt="Gustave Le Gray, The Great Wave, Sète, 1857" loading="lazy" />
+  <figcaption>Gustave Le Gray, <em>The Great Wave, Sète</em>, 1857</figcaption>
+</figure>
+
 ## How it runs
 
 - **Mon 06-07 — photograph and prepare images.** Rig, light, shoot; detail passes on the resolved piece; then crop, correct, name and file the images to the template. **The photograph is the version the examiner sees.**

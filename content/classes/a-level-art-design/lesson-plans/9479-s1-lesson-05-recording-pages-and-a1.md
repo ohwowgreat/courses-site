@@ -26,6 +26,12 @@ modified: 2026-07-17
 
 Everything you have recorded so far becomes pages an examiner could read, then is looked at together. The holiday splits this lesson: you build the pages before it, the review happens after it, and a self-check on return helps you see what AO1 actually asks.
 
+
+<figure class="plate">
+  <img src="../../../static/img/drawn-from-life.jpg" alt="Ilya Repin, Portrait of a Russian Peasant, 1871" loading="lazy" />
+  <figcaption>Ilya Repin, <em>Portrait of a Russian Peasant</em>, 1871</figcaption>
+</figure>
+
 ## How it runs
 
 - **Mon 09-28** — shooting reference: light, angle, series; photography session from primary sources; annotate the selects for what each shows, not what it evokes.

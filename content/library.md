@@ -4,7 +4,7 @@ title: Image library
 
 # Image library
 
-Every image used across these courses, gathered in one place — 276 public-domain works from the shared teaching collection, each captioned with artist, title and date. In-copyright works studied in class are named in the lessons rather than shown here.
+Every image used across these courses, gathered in one place — 283 public-domain works from the shared teaching collection, each captioned with artist, title and date. In-copyright works studied in class are named in the lessons rather than shown here.
 
 <div class="gallery">
   <figure class="plate">
@@ -44,6 +44,14 @@ Every image used across these courses, gathered in one place — 276 public-doma
     <figcaption>Jan Steen, <em>The Merry Family</em>, 1668</figcaption>
   </figure>
   <figure class="plate">
+    <img src="static/img/heda-still-life.jpg" alt="Willem Claesz. Heda, Still Life with a Gilt Cup, 1635" loading="lazy" />
+    <figcaption>Willem Claesz. Heda, <em>Still Life with a Gilt Cup</em>, 1635</figcaption>
+  </figure>
+  <figure class="plate">
+    <img src="static/img/last-supper.jpg" alt="Leonardo da Vinci, The Last Supper, 1495–98" loading="lazy" />
+    <figcaption>Leonardo da Vinci, <em>The Last Supper</em>, 1495–98</figcaption>
+  </figure>
+  <figure class="plate">
     <img src="static/img/calendar.jpg" alt="Pieter Bruegel the Elder, The Hunters in the Snow, 1565" loading="lazy" />
     <figcaption>Pieter Bruegel the Elder, <em>The Hunters in the Snow</em>, 1565</figcaption>
   </figure>
@@ -66,6 +74,26 @@ Every image used across these courses, gathered in one place — 276 public-doma
   <figure class="plate">
     <img src="static/img/drawn-from-life.jpg" alt="Ilya Repin, Portrait of a Russian Peasant, 1871" loading="lazy" />
     <figcaption>Ilya Repin, <em>Portrait of a Russian Peasant</em>, 1871</figcaption>
+  </figure>
+  <figure class="plate">
+    <img src="static/img/repin-nevsky-studies.jpg" alt="Ilya Repin, Studies for Figures on the Nevsky Prospect, 1891" loading="lazy" />
+    <figcaption>Ilya Repin, <em>Studies for Figures on the Nevsky Prospect</em>, 1891</figcaption>
+  </figure>
+  <figure class="plate">
+    <img src="static/img/repin-cossacks-study.jpg" alt="Ilya Repin, study for Reply of the Zaporozhian Cossacks, 1878" loading="lazy" />
+    <figcaption>Ilya Repin, study for <em>Reply of the Zaporozhian Cossacks</em>, 1878</figcaption>
+  </figure>
+  <figure class="plate">
+    <img src="static/img/van-gogh-armchair.jpg" alt="Vincent van Gogh, Paul Gauguin's Armchair, 1888" loading="lazy" />
+    <figcaption>Vincent van Gogh, <em>Paul Gauguin's Armchair</em>, 1888</figcaption>
+  </figure>
+  <figure class="plate">
+    <img src="static/img/van-gogh-outskirts.jpg" alt="Vincent van Gogh, On the Outskirts of Paris, 1887" loading="lazy" />
+    <figcaption>Vincent van Gogh, <em>On the Outskirts of Paris</em>, 1887</figcaption>
+  </figure>
+  <figure class="plate">
+    <img src="static/img/cafe-terrace.jpg" alt="Vincent van Gogh, Café Terrace at Night, 1888" loading="lazy" />
+    <figcaption>Vincent van Gogh, <em>Café Terrace at Night</em>, 1888</figcaption>
   </figure>
   <figure class="plate">
     <img src="static/img/the-great-wave.jpg" alt="Gustave Le Gray, The Great Wave, Sète, 1857" loading="lazy" />

@@ -31,6 +31,12 @@ Eight days ending on the last session before a twelve-day holiday. Your storyboa
 
 - **Day 1 · Sun 20 Sept · `U2·L1`** — the critique flow taught explicitly and cold: describe, account, judge, run on an image nobody has seen. This is a make-up day.
 - **Day 2 · Mon 21 Sept · `U2·L2`** — what a narrative image has to solve: find where a still image puts time.
+
+<figure class="plate">
+  <img src="../../../static/img/calling-of-matthew.jpg" alt="Caravaggio, The Calling of Saint Matthew, 1599 — one light source, five gestures: a room you can read" loading="lazy" />
+  <figcaption>Caravaggio, <em>The Calling of Saint Matthew</em>, 1599 — one light source, five gestures: a room you can read</figcaption>
+</figure>
+
 - **Day 3 · Tue 22 Sept · `U2·L3`** — myth as shared shorthand; what happens when the audience does not know.
 - **Day 4 · Wed 23 Sept · `U2·L4`** — allegory: separate what is shown from what it stands in for.
 - **Day 5 · Thu 24 Sept · `U2·L5`** — reading a cycle across panels, not inside one. LB2 posted.

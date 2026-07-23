@@ -29,6 +29,12 @@ Unit 3 opens on a film because the table is easier to see when it is moving. In 
 ## How it runs
 
 - **Day 1 · Mon 19 Oct · `U3·L1`** — the table as moral space, the frame for the whole unit; first look at three paintings of meals: who is where.
+
+<figure class="plate">
+  <img src="../../../static/img/the-table.jpg" alt="Jan Steen, The Merry Family, 1668" loading="lazy" />
+  <figcaption>Jan Steen, <em>The Merry Family</em>, 1668</figcaption>
+</figure>
+
 - **Days 2–3 · Tue 20 – Wed 21 Oct · `U3·L2-3`** — *Eat Drink Man Woman* screening as one two-day session: day one screens 40 minutes; day two screens 45 more, picking up on the cut.
 - **Thu 22 Oct · `U3·L4`** — the film's table: one meal replayed twice, then the written reading — "an argument nobody can make aloud." This reading is your deliverable.
 - **Fri 23 Oct · `U3·L5`** — seminar: food, class, and who is not in the picture. LB3 posted.

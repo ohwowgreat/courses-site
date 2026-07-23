@@ -28,6 +28,12 @@ Dates are provisional and may shift when the school publishes its calendar for t
 
 This week you give the rejected alternative a fair trial. Composition 2 is the idea you set aside when you chose composition 1 — build it with **equal effort**, not as a token second, so next week's comparison is honest. The research paper also moves from outline to prose: you draft the sections against the structure you populated, so the writing keeps pace with the making rather than piling up at the end.
 
+
+<figure class="plate">
+  <img src="../../../static/img/vanitas.jpg" alt="Edwaert Collier, Vanitas Still Life, 1662" loading="lazy" />
+  <figcaption>Edwaert Collier, <em>Vanitas Still Life</em>, 1662</figcaption>
+</figure>
+
 ## How it runs
 
 - **Mon 05-10 — compose composition 2.** Take the alternative you rejected when you chose composition 1 and compose it properly. A second composition built to fail proves nothing; this one gets a real chance.

@@ -28,6 +28,12 @@ These dates are provisional and may shift once the school publishes the calendar
 
 The whole semester, read back as one argument. The retrospective is the End of Term assessment (20%), sat in class rather than in the exam window. This is the third constellation of the year. Everything you have made is available; the Unit 1 boards and the Unit 4 syntheses go up on the walls before Monday.
 
+
+<figure class="plate">
+  <img src="../../../static/img/album-leaf.jpg" alt="Aoki Shukuya, Double Album of Landscape Studies after Ikeno Taiga, 18th century" loading="lazy" />
+  <figcaption>Aoki Shukuya, <em>Double Album of Landscape Studies after Ikeno Taiga</em>, 18th century</figcaption>
+</figure>
+
 ## How it runs
 
 - **Day 1 · Mon 4 Jan · `U5·L1`** — inventory: everything on the wall, 35 minutes, **no arranging yet**.

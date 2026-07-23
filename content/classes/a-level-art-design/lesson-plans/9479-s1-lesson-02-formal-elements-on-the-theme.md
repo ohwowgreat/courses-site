@@ -26,6 +26,12 @@ modified: 2026-07-17
 
 You work each formal element directly on your own theme. By Monday you will have looked at the theme through five different instruments, and your first portfolio page can argue something. This lesson ends Unit 1.
 
+
+<figure class="plate">
+  <img src="../../../static/img/mark-making.jpg" alt="Peter Paul Rubens, Anatomical Studies, pen and ink, c. 1605" loading="lazy" />
+  <figcaption>Peter Paul Rubens, <em>Anatomical Studies</em>, pen and ink, c. 1605</figcaption>
+</figure>
+
 ## How it runs
 
 - **Mon 09-07** — contour line vs structural line: two A4 line studies of the same object, different instrument; annotate which line told the truth.

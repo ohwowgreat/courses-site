@@ -33,6 +33,12 @@ This lesson opens with a debrief and closes with feedback, with the essay in bet
 - **Day 3 · Sat 10 Oct · `U2·L11`** — Judith and the problem of the witness: who does the picture put you next to? Make-up Saturday, Sports Day after lunch.
 - **Day 4 · Mon 12 Oct · `U2·L12`** — Titian, *Venus of Urbino*: what does it ask you to accept as natural. Reception reading set.
 - **Day 5 · Tue 13 Oct · `U2·L13`** — Manet, *Olympia*, silent, no context: locate the exact refusals Manet is making of Titian, one by one.
+
+<figure class="plate">
+  <img src="../../../static/img/folies-bergere.jpg" alt="Édouard Manet, A Bar at the Folies-Bergère, 1882 — who is looking at whom? the mirror refuses to agree" loading="lazy" />
+  <figcaption>Édouard Manet, <em>A Bar at the Folies-Bergère</em>, 1882 — who is looking at whom? the mirror refuses to agree</figcaption>
+</figure>
+
 - **Day 6 · Wed 14 Oct · `U2·L14`** — comparison workshop: build the claim, test it against the pictures.
 - **Day 7 · Thu 15 Oct · `U2·L15`** — **A2 sits.** In class, closed, 40 minutes.
 - **Day 8 · Fri 16 Oct · `U2·L16`** — first read-back and the bridge into food.

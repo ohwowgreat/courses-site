@@ -26,6 +26,12 @@ These dates are provisional and may shift when the school publishes the calendar
 
 Over three days you reach the end of the story the course has told since the caves: what makes something art when looking cannot tell you. Duchamp and Warhol arrive here. Day three sets the break homework, which is also the announcement of the retrospective. This is the last session before the break, so the notice covers the whole holiday.
 
+
+<figure class="plate">
+  <img src="../../../static/img/guitar-gas-jet.jpg" alt="Pablo Picasso, Guitar, Gas-Jet and Bottle, 1913" loading="lazy" />
+  <figcaption>Pablo Picasso, <em>Guitar, Gas-Jet and Bottle</em>, 1913</figcaption>
+</figure>
+
 ## How it runs
 
 - **Day 1 · Mon 21 Dec** — Danto: the artworld and the end of art.

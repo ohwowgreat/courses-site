@@ -31,6 +31,12 @@ Do not start arranging before you have enough candidate images. If you begin ear
 
 - **Day 1 · Mon 14 Sept · `U1·L10`** — Neolithic: settlement and the made object. What changes in images when people stop moving.
 - **Day 2 · Tue 15 Sept · `U1·L11`** — ritual objects and ancestral presence: what an object *does*, not only what it depicts.
+
+<figure class="plate">
+  <img src="../../../static/img/deer-mandala.jpg" alt="Deer Mandala of the Kasuga Shrine, 15th century — a symbol: it means by convention alone" loading="lazy" />
+  <figcaption><em>Deer Mandala of the Kasuga Shrine</em>, 15th century — a symbol: it means by convention alone</figcaption>
+</figure>
+
 - **Day 3 · Wed 16 Sept · `U1·L12`** — constellation workshop: two unlike images, one defended pairing, out loud, everybody. Direct practice for A1.
 - **Day 4 · Thu 17 Sept · `U1·L13`** — build the Unit 1 board on the wall; nothing fixed today.
 - **Day 5 · Fri 18 Sept · `U1·L14`** — final hang (20 min), justification written (20 min). **A1 collected. Boards stay up.**

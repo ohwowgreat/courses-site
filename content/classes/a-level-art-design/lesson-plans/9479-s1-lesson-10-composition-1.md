@@ -26,6 +26,12 @@ modified: 2026-07-17
 
 Development begins with making, not talking. Compose Composition 1 from your own recorded studies, never from memory, then build it across two uninterrupted days, resolve it, and document it properly. Unresolved work cannot be judged; badly photographed work loses real marks.
 
+
+<figure class="plate">
+  <img src="../../../static/img/composition.jpg" alt="Clara Peeters, Still Life with Cheeses, Almonds and Pretzels, c. 1613" loading="lazy" />
+  <figcaption>Clara Peeters, <em>Still Life with Cheeses, Almonds and Pretzels</em>, c. 1613</figcaption>
+</figure>
+
 ## How it runs
 
 - **Wed 11-11** — composing from studies: tracing-paper overlays, the direction sentence taped to the board edge; compose Composition 1 as a full-size cartoon or worked drawing; sign-off rota begins.

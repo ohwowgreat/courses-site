@@ -9,6 +9,12 @@ modified: 2026-07-17
 ---
 # S1 Lesson 12: Targeted Tests and Direction
 
+
+<figure class="plate">
+  <img src="../../../static/img/skull-cigarette.jpg" alt="Vincent van Gogh, Skull of a Skeleton with Burning Cigarette, 1885 — what it shows is simple; what it suggests is the lesson" loading="lazy" />
+  <figcaption>Vincent van Gogh, <em>Skull of a Skeleton with Burning Cigarette</em>, 1885 — what it shows is simple; what it suggests is the lesson</figcaption>
+</figure>
+
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-4-development|Unit 4]] · Lesson 12 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-11-composition-2-and-critique|L11]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-13-final-plan-and-a3|L13]] →
 
 ## At a glance

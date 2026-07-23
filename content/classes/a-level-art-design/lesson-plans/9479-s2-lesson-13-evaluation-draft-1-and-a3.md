@@ -26,6 +26,12 @@ modified: 2026-07-23
 
 Unit 4 closes on the third attainment. You write the evaluation against your intention, assemble the Stage 6 page so the development reads as a trail of decisions, and complete research paper draft 1 by pulling your sections into one full draft — then repair what the full draft exposes. A3 marks development and draft 1 together, and it is the last taught session before the fortnight that builds the mid-point portfolio.
 
+
+<figure class="plate">
+  <img src="../../../static/img/van-gogh-outskirts.jpg" alt="Vincent van Gogh, On the Outskirts of Paris, 1887" loading="lazy" />
+  <figcaption>Vincent van Gogh, <em>On the Outskirts of Paris</em>, 1887</figcaption>
+</figure>
+
 ## How it runs
 
 - **Mon 05-24 — write the evaluation.** Evaluate the development against your **intention, not the effort**: what the chosen direction achieves, what it cost, what you would push next. Honest evaluation is AO3, not decoration.

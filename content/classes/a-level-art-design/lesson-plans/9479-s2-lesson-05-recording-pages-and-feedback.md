@@ -26,6 +26,12 @@ modified: 2026-07-23
 
 This week you turn A1's feedback into recording an examiner would credit, and close Unit 2. You turn the banded feedback into three specific actions, push a second sustained study past the first, shoot and annotate your own reference, and build the recording pages so they read in sequence — AO1 without explanation. By Friday, CS3 checks the pages are built and the recording stage is complete.
 
+
+<figure class="plate">
+  <img src="../../../static/img/repin-nevsky-studies.jpg" alt="Ilya Repin, Studies for Figures on the Nevsky Prospect, 1891" loading="lazy" />
+  <figcaption>Ilya Repin, <em>Studies for Figures on the Nevsky Prospect</em>, 1891</figcaption>
+</figure>
+
 ## How it runs
 
 - **Mon 03-22 — feedback and targets.** Take your A1 banding and write **three specific actions** from it — not "record more," but the exact fixes the feedback named. These three drive the rest of the week.

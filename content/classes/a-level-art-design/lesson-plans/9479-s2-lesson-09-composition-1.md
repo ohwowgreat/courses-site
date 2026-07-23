@@ -26,6 +26,12 @@ modified: 2026-07-23
 
 Unit 4 opens the development stage — the longest stretch of the semester — and it begins with your first full composition. From your A2 feedback and your own studies, you compose composition 1, hold one idea across two studio days rather than starting over, and push it as far as it goes before the May Day break. Midweek the research paper outline is issued: the structure is provided, the content is yours, and you populate it as CS6 so the writing keeps pace with the making.
 
+
+<figure class="plate">
+  <img src="../../../static/img/composition.jpg" alt="Clara Peeters, Still Life with Cheeses, Almonds and Pretzels, c. 1613" loading="lazy" />
+  <figcaption>Clara Peeters, <em>Still Life with Cheeses, Almonds and Pretzels</em>, c. 1613</figcaption>
+</figure>
+
 ## How it runs
 
 - **Mon 04-26 — feedback; compose composition 1.** Take your A2 feedback and compose the first full composition **from your own studies** — not a new idea, but the development your exploration pointed to.

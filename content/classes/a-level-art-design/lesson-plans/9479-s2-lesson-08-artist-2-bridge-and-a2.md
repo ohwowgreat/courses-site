@@ -22,6 +22,12 @@ modified: 2026-07-23
 | Feeds | **A2 Fri 2027-04-23** — exploration and artist study (twelve experiments, media selection, both artist pages, bridge piece, Stage 3 pages), marked against AO2+AO3 |
 | Homework | ≤30 min: after A2, note three development directions the bridge piece and scale trial opened, ahead of Unit 4 in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-09-composition-1\|L09]] |
 
+
+<figure class="plate">
+  <img src="../../../static/img/repin-cossacks-study.jpg" alt="Ilya Repin, study for Reply of the Zaporozhian Cossacks, 1878" loading="lazy" />
+  <figcaption>Ilya Repin, study for <em>Reply of the Zaporozhian Cossacks</em>, 1878</figcaption>
+</figure>
+
 ## Goal
 
 Unit 3 closes on the move from study into development. You set a second artist against the first — a different angle on the same problem — make a bridge piece that turns the artist work into your own development, and trial it at scale to find what breaks. Then you lay out the Stage 3 pages so exploration reads as reasoning, and sit A2, which marks the whole unit together: experiments, media selection, both artists, bridge and pages, against AO2 and AO3.

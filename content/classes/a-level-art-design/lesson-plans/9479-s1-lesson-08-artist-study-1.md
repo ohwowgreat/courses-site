@@ -27,6 +27,12 @@ These dates are provisional and may shift when the school publishes the calendar
 
 Choose your first artist because they solve the problem in your work, not because you like them. The week runs the full artist study arc: analyze, understand in context, copy the method to learn it, then answer the artist with your own work. Influence must be visible in the work, not only claimed in the writing.
 
+
+<figure class="plate">
+  <img src="../../../static/img/van-gogh-armchair.jpg" alt="Vincent van Gogh, Paul Gauguin's Armchair, 1888" loading="lazy" />
+  <figcaption>Vincent van Gogh, <em>Paul Gauguin's Armchair</em>, 1888</figcaption>
+</figure>
+
 ## Key content: prescribed artist pools, by theme
 
 Choose from the pool for your committed theme. A swap outside the pool needs a one-to-one case.

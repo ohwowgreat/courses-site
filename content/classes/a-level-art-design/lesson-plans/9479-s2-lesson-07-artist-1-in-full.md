@@ -26,6 +26,12 @@ modified: 2026-07-23
 
 After Qingming, Unit 3 turns from your own experiments to an artist who solves the problem you are working on. This week you choose and analyse Artist 1, write their meaning and context — the first material of your research paper — study their method by copying to understand, then answer them with a personal response that shows influence without imitation. Choose the artist for the problem they solve, not because you like them.
 
+
+<figure class="plate">
+  <img src="../../../static/img/van-gogh-armchair.jpg" alt="Vincent van Gogh, Paul Gauguin's Armchair, 1888" loading="lazy" />
+  <figcaption>Vincent van Gogh, <em>Paul Gauguin's Armchair</em>, 1888</figcaption>
+</figure>
+
 ## How it runs
 
 - **Mon 04-12 — Artist 1: choose and analyse.** Choose an artist whose work solves a problem live in your investigation — a composition, a process, a way with the material. Analyse how the work is made and why it holds, in specialist language.

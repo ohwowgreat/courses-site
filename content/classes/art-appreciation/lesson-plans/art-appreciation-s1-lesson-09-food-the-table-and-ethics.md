@@ -31,6 +31,12 @@ Over five days you look at three artists, then write the essay, and close with a
 - **Day 2 · Tue 17 Nov · `U3·L19`** — Rosler, *Semiotics of the Kitchen*: a six-minute video, shown twice.
 - **Day 3 · Wed 18 Nov · `U3·L20`** — Weems, *Kitchen Table Series*, viewed in sequence: what a table does when it is the same table every time.
 - **Day 4 · Thu 19 Nov · `U3·L21`** — **A3.** In-class essay, 40 minutes: one claim about food and ethics, argued from the pictures themselves.
+
+<figure class="plate">
+  <img src="../../../static/img/last-supper.jpg" alt="Leonardo da Vinci, The Last Supper, 1495–98" loading="lazy" />
+  <figcaption>Leonardo da Vinci, <em>The Last Supper</em>, 1495–98</figcaption>
+</figure>
+
 - **Day 5 · Fri 20 Nov · `U3·L22`** — hyperreality and the food image: what a food image is for when nobody intends to eat. This session hands off into Unit 4.
 
 ## Assessment

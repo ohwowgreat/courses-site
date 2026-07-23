@@ -26,6 +26,12 @@ modified: 2026-07-17
 
 A short, dense lesson around the Juniors Days. Monday sets a second artist against the first and plans the piece that carries you from study into development; Tuesday makes it; the gap finishes it. A2 reviews the whole of Unit 3, and the feedback day ends with one direction you can defend.
 
+
+<figure class="plate">
+  <img src="../../../static/img/repin-cossacks-study.jpg" alt="Ilya Repin, study for Reply of the Zaporozhian Cossacks, 1878" loading="lazy" />
+  <figcaption>Ilya Repin, study for <em>Reply of the Zaporozhian Cossacks</em>, 1878</figcaption>
+</figure>
+
 ## How it runs
 
 - **Mon 11-02** (shared day, two beats) — Artist 2: rapid analysis against Artist 1, where they disagree about the theme; the bridge plan: composition, media, and what it carries from each artist — signed off before you leave.

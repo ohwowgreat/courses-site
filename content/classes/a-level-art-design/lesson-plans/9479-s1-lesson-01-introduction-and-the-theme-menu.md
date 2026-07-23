@@ -8,6 +8,12 @@ modified: 2026-07-18
 ---
 # S1 Lesson 01: Introduction and the Theme Menu
 
+
+<figure class="plate">
+  <img src="../../../static/img/a-level-art-design.jpg" alt="Paul Cézanne, A Painter at Work, 1875" loading="lazy" />
+  <figcaption>Paul Cézanne, <em>A Painter at Work</em>, 1875</figcaption>
+</figure>
+
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-1-foundations-on-the-theme|Unit 1]] · Lesson 01 of 15 · [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-02-formal-elements-on-the-theme|L02]] →
 
 ## At a glance

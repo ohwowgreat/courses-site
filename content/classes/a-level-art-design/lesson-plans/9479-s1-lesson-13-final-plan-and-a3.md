@@ -26,6 +26,12 @@ modified: 2026-07-17
 
 By the end of this week your composition is planned, solved small, and its palette and materials are settled — before A3 reviews the whole development. Friday turns feedback into plan adjustments while there is still time for them to matter.
 
+
+<figure class="plate">
+  <img src="../../../static/img/van-gogh-outskirts.jpg" alt="Vincent van Gogh, On the Outskirts of Paris, 1887" loading="lazy" />
+  <figcaption>Vincent van Gogh, <em>On the Outskirts of Paris</em>, 1887</figcaption>
+</figure>
+
 ## How it runs
 
 - **Mon 12-07** — the direction sentence and evaluation on the table; your final composition plan: full-size or scaled plan with structure, values and sequence of work marked; sign-off rota begins.

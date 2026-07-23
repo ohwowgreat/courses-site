@@ -22,6 +22,12 @@ modified: 2026-07-17
 | Feeds | A3 |
 | Homework | None |
 
+
+<figure class="plate">
+  <img src="../../../static/img/composition.jpg" alt="Clara Peeters, Still Life with Cheeses, Almonds and Pretzels, c. 1613" loading="lazy" />
+  <figcaption>Clara Peeters, <em>Still Life with Cheeses, Almonds and Pretzels</em>, c. 1613</figcaption>
+</figure>
+
 ## About this week
 
 G12 is at Seniors' Day all week, so nothing carries from one day to the next and nothing assessable sits here. These are five sessions that do not build on each other. The through-line is thematic, not sequential — five different ways into the same question, any of which works on its own. If you miss all five, you have missed content, not a running argument.

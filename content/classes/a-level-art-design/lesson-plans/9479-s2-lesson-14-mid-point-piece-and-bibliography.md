@@ -26,6 +26,12 @@ modified: 2026-07-23
 
 This final unit builds the mid-point portfolio. It opens by choosing the piece that carries your investigation and bringing it to a standard the mid point can stand on. From your A3 feedback you choose and refine the resolved piece, then integrate the bibliography **into the body of the work** — not a detached list at the back, which loses AO1 marks — and plan the page architecture before you build it. You plan the sequence this week so that next week is assembly, not invention.
 
+
+<figure class="plate">
+  <img src="../../../static/img/observation.jpg" alt="Vincent van Gogh, The Potato Peeler, 1885" loading="lazy" />
+  <figcaption>Vincent van Gogh, <em>The Potato Peeler</em>, 1885</figcaption>
+</figure>
+
 ## How it runs
 
 - **Mon 05-31 — feedback; choose the mid-point piece.** Take your A3 feedback and choose the one resolved piece that carries the investigation — the work the portfolio is built around.

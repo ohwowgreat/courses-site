@@ -26,6 +26,12 @@ modified: 2026-07-23
 
 With two resolved compositions in front of you, this week you decide which one becomes the mid-point piece — and why. You critique both against your intention (not your effort), act on what you hear, run targeted tests on only what is still unresolved, and choose the final direction with the rejection written out. Choosing is development: a reasoned "not this one" earns AO3 as much as the piece you keep.
 
+
+<figure class="plate">
+  <img src="../../../static/img/skull-cigarette.jpg" alt="Vincent van Gogh, Skull of a Skeleton with Burning Cigarette, 1885 — what it shows is simple; what it suggests is the lesson" loading="lazy" />
+  <figcaption>Vincent van Gogh, <em>Skull of a Skeleton with Burning Cigarette</em>, 1885 — what it shows is simple; what it suggests is the lesson</figcaption>
+</figure>
+
 ## How it runs
 
 - **Mon 05-17 — structured critique.** Set both compositions against your stated intention — does each do what the investigation set out to do? Judge against the **intention, not the hours** you put in.

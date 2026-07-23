@@ -9,6 +9,12 @@ modified: 2026-07-17
 ---
 # S1 Lesson 03: Intention and Composition Planning
 
+
+<figure class="plate">
+  <img src="../../../static/img/banqueting-sketch.jpg" alt="Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from" loading="lazy" />
+  <figcaption>Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from</figcaption>
+</figure>
+
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study|Unit 2]] · Lesson 03 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-02-formal-elements-on-the-theme|L02]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-04-the-sustained-study|L04]] →
 
 ## At a glance
