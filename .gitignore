@@ -7,6 +7,10 @@ public/
 # access to the source vault, so it builds from this checked-in snapshot. Regenerate it
 # locally with `node sync.mjs` and commit the result whenever the vault changes.
 
+# Secrets — SITE_PASSWORD lives in the environment (Vercel) and a local .env, never in git.
+.env
+.env.*
+
 # OS / editor
 .DS_Store
 Thumbs.db
@@ -17,3 +21,4 @@ Thumbs.db
 * [0-9]
 * [0-9].*
 *conflicted copy*
+.vercel
