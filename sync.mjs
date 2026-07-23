@@ -23,6 +23,7 @@ import { parseAgenda, calendarBlock, coursePage, COURSES } from "./calendar-grid
 import { courseMapHtml } from "./course-map.mjs"
 import { courseDetailEvents } from "./course-events.mjs"
 import { reframeAll } from "./reframe.mjs"
+import { libraryMarkdown } from "./gallery.mjs"
 
 // Env overrides exist so the pipeline can be exercised off-machine against a
 // fixture vault without touching the real content/. Normal use needs neither.
@@ -861,6 +862,11 @@ cal = cal.replace(
   `\n## Month view\n\n${calendarBlock(events, null)}\n\n${courseLinks}\n\n$1`,
 )
 await writeFile(join(OUT, calRel), cal)
+
+// The Image-library gallery: one page of every downsampled (public-domain) plate,
+// generated from credits.json so it always matches what images.mjs has published.
+await writeFile(join(OUT, "library.md"), libraryMarkdown(credits))
+written.add("library.md")
 
 // Inject a structured course map into each overview, replacing the old inline
 // "Start here" sentence links. Built from what was actually published, so it

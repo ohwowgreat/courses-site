@@ -14,7 +14,11 @@ import script from "./scripts/sitenav.inline"
 // On mobile the whole nav collapses behind a Menu button (see sitenav.inline),
 // so a phone shows search, Menu, then the page — not three screens of links.
 const COURSES = [
-  { title: "A Level Art & Design", dir: "classes/a-level-art-design", overview: "a-level-art-design" },
+  {
+    title: "A Level Art & Design",
+    dir: "classes/a-level-art-design",
+    overview: "a-level-art-design",
+  },
   { title: "Media Studies", dir: "classes/media-studies", overview: "media-studies" },
   { title: "Art Appreciation", dir: "classes/art-appreciation", overview: "art-appreciation" },
   {
@@ -31,7 +35,12 @@ const SiteNav: QuartzComponent = ({ fileData, allFiles, displayClass }: QuartzCo
 
   return (
     <nav class={classNames(displayClass, "site-nav")}>
-      <button class="site-nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav-body">
+      <button
+        class="site-nav-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="site-nav-body"
+      >
         Menu
       </button>
       <div class="site-nav-body" id="site-nav-body">
@@ -43,6 +52,11 @@ const SiteNav: QuartzComponent = ({ fileData, allFiles, displayClass }: QuartzCo
             <li>
               <a href={rel("calendar")} class={here === "calendar" ? "active" : ""}>
                 Calendar
+              </a>
+            </li>
+            <li>
+              <a href={rel("library")} class={here === "library" ? "active" : ""}>
+                Image library
               </a>
             </li>
           </ul>

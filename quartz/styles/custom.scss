@@ -118,6 +118,19 @@ h6 {
   }
 }
 
+// The Image-library page: one masonry wall of every plate. Columns keep each
+// work at its own aspect ratio (no cropping), captions stay with their image.
+.gallery {
+  columns: 240px;
+  column-gap: 1.4rem;
+  margin: 1.5rem 0 2.6rem;
+
+  .plate {
+    margin: 0 0 1.6rem;
+    break-inside: avoid;
+  }
+}
+
 // Every hero is cropped to the same band, so portrait-format work (Mucha,
 // Utamaro) opens a page the same way as landscape work.
 //
