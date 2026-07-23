@@ -14,21 +14,26 @@ import { readFile, writeFile } from "node:fs/promises"
 import { join } from "node:path"
 import { pathToFileURL } from "node:url"
 
-export function libraryMarkdown(credits) {
-  const figures = Object.entries(credits)
-    .map(([slug, credit]) => {
-      const caption = credit.replace(/\*([^*]+)\*/g, "<em>$1</em>")
-      const alt = credit.replace(/\*/g, "").replace(/"/g, "&quot;")
-      return (
-        `  <figure class="plate">\n` +
-        `    <img src="static/img/${slug}.jpg" alt="${alt}" loading="lazy" />\n` +
-        `    <figcaption>${caption}</figcaption>\n` +
-        `  </figure>`
-      )
-    })
-    .join("\n")
+function figure(slug, credit, dir) {
+  const caption = credit.replace(/\*([^*]+)\*/g, "<em>$1</em>")
+  const alt = credit.replace(/\*/g, "").replace(/"/g, "&quot;")
+  return (
+    `  <figure class="plate">\n` +
+    `    <img src="static/img/${dir}${slug}.jpg" alt="${alt}" loading="lazy" />\n` +
+    `    <figcaption>${caption}</figcaption>\n` +
+    `  </figure>`
+  )
+}
 
-  const count = Object.keys(credits).length
+// `credits` are the hand-curated hero plates (quartz/static/img/); `libCredits`
+// are the bulk public-domain batch from library-images.mjs (…/img/lib/).
+export function libraryMarkdown(credits, libCredits = {}) {
+  const figures = [
+    ...Object.entries(credits).map(([slug, credit]) => figure(slug, credit, "")),
+    ...Object.entries(libCredits).map(([slug, credit]) => figure(slug, credit, "lib/")),
+  ].join("\n")
+
+  const count = Object.keys(credits).length + Object.keys(libCredits).length
   return (
     `---\n` +
     `title: Image library\n` +
@@ -43,7 +48,20 @@ export function libraryMarkdown(credits) {
 
 // Standalone run: write content/library.md for a quick local preview.
 if (import.meta.url === pathToFileURL(process.argv[1]).href) {
-  const credits = JSON.parse(await readFile(join(import.meta.dirname, "credits.json"), "utf8"))
-  await writeFile(join(import.meta.dirname, "content/library.md"), libraryMarkdown(credits))
-  console.log(`wrote content/library.md (${Object.keys(credits).length} plates)`)
+  const read = async (f) => {
+    try {
+      return JSON.parse(await readFile(join(import.meta.dirname, f), "utf8"))
+    } catch {
+      return {}
+    }
+  }
+  const credits = await read("credits.json")
+  const libCredits = await read("library-credits.json")
+  await writeFile(
+    join(import.meta.dirname, "content/library.md"),
+    libraryMarkdown(credits, libCredits),
+  )
+  console.log(
+    `wrote content/library.md (${Object.keys(credits).length} heroes + ${Object.keys(libCredits).length} library)`,
+  )
 }

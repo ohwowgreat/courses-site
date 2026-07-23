@@ -24,6 +24,7 @@ import { courseMapHtml } from "./course-map.mjs"
 import { courseDetailEvents } from "./course-events.mjs"
 import { reframeAll } from "./reframe.mjs"
 import { libraryMarkdown } from "./gallery.mjs"
+import { insertCitations } from "./cite.mjs"
 
 // Env overrides exist so the pipeline can be exercised off-machine against a
 // fixture vault without touching the real content/. Normal use needs neither.
@@ -106,6 +107,17 @@ const HEROES = {
   "classes/media-studies/lesson-plans/9607-s1-lesson-15-exam-rehearsal.md": "musicians",
   "classes/media-studies/lesson-plans/9607-s1-lesson-16-end-of-term-exam-and-return.md":
     "the-magpie",
+}
+
+// In-copyright works cited in lessons — named and linked, never embedded (see
+// cite.mjs). Same shape as FIGURES (keyed by vault path, injected after the
+// paragraph matching `anchor`), but renders a citation line, not an image. Add
+// `src` for a "view →" link; omit it for a placeholder. Public-domain works go
+// through FIGURES/HEROES as actual images instead.
+const CITATIONS = {
+  "classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze.md": [
+    { cite: "Cindy Sherman, *Untitled Film Still #21*, 1978", anchor: /three looks/i },
+  ],
 }
 
 // Inline figures (2026-07-21): lesson pages carry period exemplars from the shared
@@ -763,6 +775,7 @@ for (const { rel, frontmatter: fm, body: cleaned } of pages) {
   const depth = rel.split("/").length - 1
   // Figures first: their anchors must match page content, not the hero's caption.
   if (FIGURES[rel]) body = insertFigures(body, FIGURES[rel], depth)
+  if (CITATIONS[rel]) body = insertCitations(body, CITATIONS[rel])
   if (HEROES[rel]) body = heroFigure(HEROES[rel], depth) + body
 
   const dest = join(OUT, rel)
@@ -863,9 +876,16 @@ cal = cal.replace(
 )
 await writeFile(join(OUT, calRel), cal)
 
-// The Image-library gallery: one page of every downsampled (public-domain) plate,
-// generated from credits.json so it always matches what images.mjs has published.
-await writeFile(join(OUT, "library.md"), libraryMarkdown(credits))
+// The Image-library gallery: one page of every downsampled (public-domain) plate
+// — the hand-curated heroes (credits.json) plus the bulk batch from
+// library-images.mjs (library-credits.json, absent until it has been run).
+let libCredits = {}
+try {
+  libCredits = JSON.parse(await readFile(join(import.meta.dirname, "library-credits.json"), "utf8"))
+} catch {
+  /* library-images.mjs not run yet — gallery shows the heroes only */
+}
+await writeFile(join(OUT, "library.md"), libraryMarkdown(credits, libCredits))
 written.add("library.md")
 
 // Inject a structured course map into each overview, replacing the old inline

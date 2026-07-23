@@ -4,6 +4,11 @@ public/
 .quartz-cache/
 *.tsbuildinfo
 
+# Full library catalog — a local intermediate for library-images.mjs, regenerated
+# by `node image-index.mjs`. Kept out of git: it's large and lists the entire
+# private teaching collection (the site only needs the downsampled outputs).
+image-library.json
+
 # NOTE: content/ IS committed on purpose. The build host (Vercel / Cloudflare) has no
 # access to the source vault, so it builds from this checked-in snapshot. Regenerate it
 # locally with `node sync.mjs` and commit the result whenever the vault changes.

@@ -54,6 +54,8 @@ This week covers gaze theory as a set of questions to test. Over the two-day blo
 - **First test (15 min)** — one classical-era clip: track the three looks, timecoded. Does the claim describe this text?
 - **Close (5 min)** — theory card: Mulvey. Homework issued: the hooks extract (300–400 words, glossed, EN with ZH support), read before Friday.
 
+
+<p class="cite"><span class="cite-tag">Shown in class</span>Cindy Sherman, <em>Untitled Film Still #21</em>, 1978</p>
 ### D3 — Wed 11-11 (double): the decade test
 
 - **The protocol (10 min)** — three decade-pair sets (same genre, one pre-2000, one post-2018, comparable scene function so the variable is era). The fixed question: **hold, shift, or invert?** The exact pairings will be confirmed in class.

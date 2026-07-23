@@ -131,6 +131,35 @@ h6 {
   }
 }
 
+// A cited (not shown) in-copyright work: a compact, image-free line in a lesson.
+.cite {
+  margin: 1.4rem 0;
+  padding: 0.45rem 0 0.45rem 0.9rem;
+  border-left: 2px solid var(--lightgray);
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--darkgray);
+
+  .cite-tag {
+    margin-right: 0.55rem;
+    font-size: 0.63rem;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    font-weight: 650;
+    color: var(--gray);
+  }
+
+  em {
+    font-style: italic;
+    color: var(--dark);
+  }
+
+  .cite-link {
+    margin-left: 0.45rem;
+    white-space: nowrap;
+  }
+}
+
 // Every hero is cropped to the same band, so portrait-format work (Mucha,
 // Utamaro) opens a page the same way as landscape work.
 //
