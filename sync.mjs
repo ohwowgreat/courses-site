@@ -421,6 +421,24 @@ const HANDOUTS = {
       { label: "Martha Rosler Intro", file: "martha-rosler-intro" },
       { label: "Semiotics of the Kitchen", file: "semiotics-of-the-kitchen" },
       { label: "Hyperreality + Paratheatre", file: "hyperreality-and-paratheatre" },
+      { label: "Lunch and discussion", file: "lunch-and-discussion" },
+      { label: "Culinary Aesthetics", file: "culinary-aesthetics" },
+    ],
+  },
+  "classes/pre-a-level-art-design/pal-resource-library.md": {
+    dir: "pre-a-level-art-design",
+    title: "Worksheets & guides (PDF):",
+    anchor: /Color mixing guide|wavelength spectrum/,
+    items: [
+      { label: "Drawing Basics", file: "drawing-basics" },
+      { label: "AO Guide", file: "ao-guide" },
+      { label: "Intro to Photography — Vocabulary", file: "photography-vocabulary" },
+      { label: "Photography — Exposure (slides)", file: "photography-exposure" },
+      { label: "Photography — Digital Workspace (slides)", file: "photography-digital-workspace" },
+      { label: "Photography — Websites", file: "photography-websites" },
+      { label: "Collage — Instructions", file: "collage-instructions" },
+      { label: "Collage — Presentation (slides)", file: "collage-presentation" },
+      { label: "Carving Step by Step", file: "carving-step-by-step" },
     ],
   },
 }
@@ -468,7 +486,8 @@ function insertHandouts(body, entry, depth) {
         `<a href="${prefix}static/handouts/${entry.dir}/${it.file}.pdf">${it.label}</a>`,
     )
     .join(" · ")
-  const html = `<p class="handouts"><strong>Handouts (PDF):</strong> ${links}</p>\n`
+  const title = entry.title ?? "Handouts (PDF):"
+  const html = `<p class="handouts"><strong>${title}</strong> ${links}</p>\n`
   const at = body.search(entry.anchor)
   if (at === -1) return body.trimEnd() + "\n\n" + html
   const paraEnd = body.indexOf("\n\n", at)
