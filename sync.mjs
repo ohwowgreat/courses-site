@@ -305,6 +305,81 @@ const FIGURES = {
   "classes/a-level-art-design/lesson-plans/9479-s2-lesson-15-submission-week-and-a4.md": [
     { slugs: ["the-great-wave"], anchor: /the photograph is the version the examiner sees/i },
   ],
+  "classes/a-level-art-design/lesson-plans/9479-s3-lesson-01-reopening-and-the-summer-audit.md": [
+    { slugs: ["rivera-self-portrait"], anchor: /the job is to know exactly where it stands|judged honestly against the target set for it in June/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s3-lesson-02-the-action-plan-and-development-resumes.md": [
+    { slugs: ["repin-cossacks-study"], anchor: /compose final-outcome candidates from the summer production|the semester's contract/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s3-lesson-03-candidate-compositions-and-the-paper-reopens.md": [
+    { slugs: ["repin-nevsky-studies"], anchor: /a single idea can't be compared|both are developed to the same standard so the eventual decision/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s3-lesson-04-development-studies-and-targeted-tests.md": [
+    { slugs: ["mark-making"], anchor: /run on only what is still unresolved|Development that decides things/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s3-lesson-05-evaluation-and-the-national-day-break.md": [
+    { slugs: ["vanitas"], anchor: /carry it across the National Day break intact|the chosen candidate is brought up to standard before the break/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s3-lesson-06-a1-the-development-milestone.md": [
+    { slugs: ["tone-and-form"], anchor: /the close of the development second pass|three specific actions to carry into Unit 5/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s3-lesson-07-outcome-1-opens-and-a2-the-mock-review.md": [
+    { slugs: ["album-leaf"], anchor: /before the Seniors. Days remove all of next week|the whole investigation gets its/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s3-lesson-08-building-outcome-1.md": [
+    { slugs: ["cafe-terrace"], anchor: /the sustained build of final outcome 1|what it names, you act on the same day/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s3-lesson-09-resolving-outcome-1-and-the-final-paper-text.md": [
+    { slugs: ["van-gogh-outskirts"], anchor: /Finish outcome 1 to the standard the examiner will see|confirming every claim points at real work/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s3-lesson-10-a3-the-research-paper-and-outcome-2-opens.md": [
+    { slugs: ["rubens-title-page"], anchor: /The research paper is done, and the second outcome begins|The two outcomes stay inside one investigation/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s3-lesson-11-outcome-2-resolved-and-both-evaluated.md": [
+    { slugs: ["impossible-bouquet"], anchor: /Bring outcome 2 to the same finish as outcome 1|then judge the pair/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s3-lesson-12-assembly-sequence-documentation-bibliography.md": [
+    { slugs: ["assembling"], anchor: /What the sequence exposes as a gap gets repaired before the critique|its documentation is verified page by page/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s3-lesson-13-the-viva-rehearsal-critique.md": [
+    { slugs: ["musicians"], anchor: /The dress rehearsal for the submission and for any interview|change what broke, log what held/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s3-lesson-14-a4-the-complete-investigation.md": [
+    { slugs: ["the-great-wave"], anchor: /The Component 3 internal submission|Submission photography begins while the work is at hand/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s3-lesson-15-submission-qc-the-return-and-into-c2.md": [
+    { slugs: ["album-leaf"], anchor: /Close Component 3 and turn toward Component 2|assemble the PDF to the Cambridge screen limits/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s4-lesson-01-the-esa-question-locked.md": [
+    { slugs: ["first-marks"], anchor: /Component 2 opens on the Cambridge paper itself|the decision is made against evidence/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s4-lesson-02-recording-at-exam-pace.md": [
+    { slugs: ["drawn-from-life"], anchor: /Annotation ties every page back to the question|An intention is stated on the locked question/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s4-lesson-03-sustained-study-and-a1.md": [
+    { slugs: ["tone-and-form"], anchor: /the pages are built so AO1 is obvious without explanation|The recording milestone/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s4-lesson-04-exploration-and-artist-1.md": [
+    { slugs: ["mark-making"], anchor: /Citation without response earns nothing here|A1 feedback becomes targets/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s4-lesson-05-artist-2-the-bridge-piece-and-a2.md": [
+    { slugs: ["kahnweiler"], anchor: /Close exploration and carry it into development|surfaces problems now, not in the test room/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s4-lesson-06-development-and-a3-the-content-close.md": [
+    { slugs: ["repin-cossacks-study"], anchor: /the point after which nothing new is taught|The tightest unit in the course/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s4-lesson-07-the-15-hour-supervised-test.md": [
+    { slugs: ["sea-of-steps"], anchor: /the elastic days before the test go to refinement and rehearsal|because content closed at A3/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s4-lesson-08-assembly-and-a4-the-submission-package.md": [
+    { slugs: ["the-great-wave"], anchor: /Turn the test piece into a submission|so A4 grades the packaging and completeness/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s4-lesson-09-board-week-handover-and-records.md": [
+    { slugs: ["assembling"], anchor: /The component leaves the building|the record has to survive the submission/i },
+  ],
+  "classes/a-level-art-design/lesson-plans/9479-s4-lesson-10-course-close-and-the-two-year-review.md": [
+    { slugs: ["the-magpie"], anchor: /The last session of the two-year course|It is a close, not a new unit/i },
+  ],
   "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-06-framing-and-viewpoint.md": [
     {
       slugs: ["sea-of-steps", "st-pauls-spires", "canon-de-chelle"],
