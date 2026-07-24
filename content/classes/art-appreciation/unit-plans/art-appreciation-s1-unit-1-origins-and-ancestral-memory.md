@@ -10,6 +10,11 @@ related:
   - "[[classes/art-appreciation/assessments/art-appreciation-s1-assessments]]"
 modified: 2026-07-19
 ---
+<figure class="plate plate--hero">
+  <img src="../../../static/img/deer-mandala.jpg" alt="Deer Mandala of the Kasuga Shrine, 15th century — a symbol: it means by convention alone" loading="lazy" />
+  <figcaption><em>Deer Mandala of the Kasuga Shrine</em>, 15th century — a symbol: it means by convention alone</figcaption>
+</figure>
+
 # Unit 1: Origins and Ancestral Memory
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan|Semester 1 Plan]] · Unit 1 of 5 · next: [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory|Unit 2 →]]

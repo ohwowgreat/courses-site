@@ -7,6 +7,11 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s1-assessments]]"
 modified: 2026-07-17
 ---
+<figure class="plate plate--hero">
+  <img src="../../../static/img/cafe-terrace.jpg" alt="Vincent van Gogh, Café Terrace at Night, 1888" loading="lazy" />
+  <figcaption>Vincent van Gogh, <em>Café Terrace at Night</em>, 1888</figcaption>
+</figure>
+
 # S1 Unit 5: Final Outcome & Portfolio
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-1-plan|Semester 1 Plan]] · Unit 5 of 5 · ← [[classes/a-level-art-design/unit-plans/9479-s1-unit-4-development|Unit 4]]

@@ -13,6 +13,11 @@ related:
   - "[[classes/media-studies/9607-resource-library]]"
 modified: 2026-07-22
 ---
+<figure class="plate plate--hero">
+  <img src="../../../static/img/migrant-mother.jpg" alt="Dorothea Lange, Migrant Mother, 1936 — one frame chosen from six exposures, then cropped" loading="lazy" />
+  <figcaption>Dorothea Lange, <em>Migrant Mother</em>, 1936 — one frame chosen from six exposures, then cropped</figcaption>
+</figure>
+
 # Unit 2: Media Language
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-semester-1-plan|Semester 1 Plan]] · Unit 2 of 6 · ← [[classes/media-studies/unit-plans/9607-s1-unit-1-introduction|Unit 1]] | [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis|Unit 3]] →

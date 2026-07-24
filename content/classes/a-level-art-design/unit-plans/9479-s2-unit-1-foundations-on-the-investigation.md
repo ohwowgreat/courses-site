@@ -7,6 +7,11 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s2-assessments]]"
 modified: 2026-07-18
 ---
+<figure class="plate plate--hero">
+  <img src="../../../static/img/first-marks.jpg" alt="Ilya Repin, Leo Tolstoy at Work, 1891" loading="lazy" />
+  <figcaption>Ilya Repin, <em>Leo Tolstoy at Work</em>, 1891</figcaption>
+</figure>
+
 # S2 Unit 1: Foundations on the Investigation
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-2-plan|Semester 2 Plan]] · Unit 1 of 5 · [[classes/a-level-art-design/unit-plans/9479-s2-unit-2-recording-and-sustained-study|Unit 2]] →

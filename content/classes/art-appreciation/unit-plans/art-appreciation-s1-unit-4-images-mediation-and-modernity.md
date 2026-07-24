@@ -12,6 +12,11 @@ related:
   - "[[classes/art-appreciation/assessments/art-appreciation-s1-assessments]]"
 modified: 2026-07-19
 ---
+<figure class="plate plate--hero">
+  <img src="../../../static/img/representation.jpg" alt="Kitagawa Utamaro, Two Women by a Bamboo Blind, c. 1797" loading="lazy" />
+  <figcaption>Kitagawa Utamaro, <em>Two Women by a Bamboo Blind</em>, c. 1797</figcaption>
+</figure>
+
 # Unit 4: Images, Mediation and Modernity
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan|Semester 1 Plan]] · Unit 4 of 5 · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics|← Unit 3]] | [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-5-semester-close-and-retrospective|Unit 5 →]]

@@ -10,6 +10,11 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-semester-2-outline]]"
 modified: 2026-07-19
 ---
+<figure class="plate plate--hero">
+  <img src="../../../static/img/wanderer.jpg" alt="Caspar David Friedrich, Wanderer Above the Sea of Fog, 1818 — who is he? what does he see? the enigma code at work" loading="lazy" />
+  <figcaption>Caspar David Friedrich, <em>Wanderer Above the Sea of Fog</em>, 1818 — who is he? what does he see? the enigma code at work</figcaption>
+</figure>
+
 # Unit 5: Semester Close and Retrospective
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan|Semester 1 Plan]] · Unit 5 of 5 · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity|← Unit 4]]

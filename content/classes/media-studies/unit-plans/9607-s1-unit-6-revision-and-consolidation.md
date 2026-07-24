@@ -11,6 +11,11 @@ related:
   - "[[classes/media-studies/9607-resource-library]]"
 modified: 2026-07-22
 ---
+<figure class="plate plate--hero">
+  <img src="../../../static/img/musicians.jpg" alt="Caravaggio, The Musicians, 1595 — rehearsal, mid-note" loading="lazy" />
+  <figcaption>Caravaggio, <em>The Musicians</em>, 1595 — rehearsal, mid-note</figcaption>
+</figure>
+
 # Unit 6: Revision and Consolidation
 
 > [!important] Winter break and Unit 6 schedule

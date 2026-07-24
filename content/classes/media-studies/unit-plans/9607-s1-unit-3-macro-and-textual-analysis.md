@@ -11,6 +11,11 @@ related:
   - "[[classes/media-studies/9607-resource-library]]"
 modified: 2026-07-22
 ---
+<figure class="plate plate--hero">
+  <img src="../../../static/img/folies-bergere.jpg" alt="Édouard Manet, A Bar at the Folies-Bergère, 1882 — who is looking at whom? the mirror refuses to agree" loading="lazy" />
+  <figcaption>Édouard Manet, <em>A Bar at the Folies-Bergère</em>, 1882 — who is looking at whom? the mirror refuses to agree</figcaption>
+</figure>
+
 # Unit 3: Macro and Textual Analysis
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-semester-1-plan|Semester 1 Plan]] · Unit 3 of 6 · ← [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] | [[classes/media-studies/unit-plans/9607-s1-unit-4-representation|Unit 4]] →

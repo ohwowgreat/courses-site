@@ -12,6 +12,11 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
 modified: 2026-07-21
 ---
+<figure class="plate plate--hero">
+  <img src="../../../static/img/mucha-poster.jpg" alt="Alphonse Mucha, Calendar of Cherry Blossom, 1898" loading="lazy" />
+  <figcaption>Alphonse Mucha, <em>Calendar of Cherry Blossom</em>, 1898</figcaption>
+</figure>
+
 # Unit 4: Graphic Design & the Poster
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan|Semester 1 Plan]] · Unit 4 of 4 · ← [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|Unit 3: Collage]]

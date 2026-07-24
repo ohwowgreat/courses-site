@@ -8,6 +8,11 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s3-assessments]]"
 modified: 2026-07-18
 ---
+<figure class="plate plate--hero">
+  <img src="../../../static/img/repin-cossacks-study.jpg" alt="Ilya Repin, study for Reply of the Zaporozhian Cossacks, 1878" loading="lazy" />
+  <figcaption>Ilya Repin, study for <em>Reply of the Zaporozhian Cossacks</em>, 1878</figcaption>
+</figure>
+
 # S3 Unit 4: Development, Second Pass
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-3-plan|Semester 3 Plan]] · Unit 4 · 2nd of 4 this semester · ← [[classes/a-level-art-design/unit-plans/9479-s3-unit-1-review-and-goal-setting|Unit 1]] | [[classes/a-level-art-design/unit-plans/9479-s3-unit-5-final-outcomes|Unit 5]] →

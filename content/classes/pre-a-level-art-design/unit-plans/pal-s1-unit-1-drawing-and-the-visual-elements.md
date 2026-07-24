@@ -12,6 +12,11 @@ related:
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing]]"
 modified: 2026-07-20
 ---
+<figure class="plate plate--hero">
+  <img src="../../../static/img/first-marks.jpg" alt="Ilya Repin, Leo Tolstoy at Work, 1891" loading="lazy" />
+  <figcaption>Ilya Repin, <em>Leo Tolstoy at Work</em>, 1891</figcaption>
+</figure>
+
 # Unit 1: Drawing & the Visual Elements
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan|Semester 1 Plan]] · Unit 1 of 4 · next: [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography|Unit 2: Photography]] →

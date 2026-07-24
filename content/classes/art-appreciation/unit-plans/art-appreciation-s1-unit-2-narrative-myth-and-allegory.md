@@ -10,6 +10,11 @@ related:
   - "[[classes/art-appreciation/assessments/art-appreciation-s1-assessments]]"
 modified: 2026-07-19
 ---
+<figure class="plate plate--hero">
+  <img src="../../../static/img/calling-of-matthew.jpg" alt="Caravaggio, The Calling of Saint Matthew, 1599 — one light source, five gestures: a room you can read" loading="lazy" />
+  <figcaption>Caravaggio, <em>The Calling of Saint Matthew</em>, 1599 — one light source, five gestures: a room you can read</figcaption>
+</figure>
+
 # Unit 2: Narrative, Myth and Allegory
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan|Semester 1 Plan]] · Unit 2 of 5 · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-1-origins-and-ancestral-memory|← Unit 1]] | [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics|Unit 3 →]]

@@ -45,6 +45,46 @@ const HEROES = {
     "the-table",
   "classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study.md":
     "observation",
+  // ── Unit heroes (banner per unit; pipeline-stage / theme signatures) ────────
+  // A Level S1 (C1 Portfolio)
+  "classes/a-level-art-design/unit-plans/9479-s1-unit-1-foundations-on-the-theme.md": "banqueting-sketch",
+  "classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study.md": "mark-making",
+  "classes/a-level-art-design/unit-plans/9479-s1-unit-4-development.md": "composition",
+  "classes/a-level-art-design/unit-plans/9479-s1-unit-5-final-outcome-and-portfolio.md": "cafe-terrace",
+  // A Level S2 (C3 part 1) — same stages, varied plates
+  "classes/a-level-art-design/unit-plans/9479-s2-unit-1-foundations-on-the-investigation.md": "first-marks",
+  "classes/a-level-art-design/unit-plans/9479-s2-unit-2-recording-and-sustained-study.md": "drawn-from-life",
+  "classes/a-level-art-design/unit-plans/9479-s2-unit-3-exploration-and-artist-study.md": "van-gogh-armchair",
+  "classes/a-level-art-design/unit-plans/9479-s2-unit-4-development.md": "repin-cossacks-study",
+  "classes/a-level-art-design/unit-plans/9479-s2-unit-5-mid-point-portfolio.md": "the-great-wave",
+  // A Level S3 (C3 part 2)
+  "classes/a-level-art-design/unit-plans/9479-s3-unit-1-review-and-goal-setting.md": "first-marks",
+  "classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass.md": "repin-cossacks-study",
+  "classes/a-level-art-design/unit-plans/9479-s3-unit-5-final-outcomes.md": "cafe-terrace",
+  "classes/a-level-art-design/unit-plans/9479-s3-unit-6-assembly-and-submission.md": "the-great-wave",
+  // A Level S4 (C2 ESA)
+  "classes/a-level-art-design/unit-plans/9479-s4-unit-1-foundations-on-the-question.md": "banqueting-sketch",
+  "classes/a-level-art-design/unit-plans/9479-s4-unit-2-recording.md": "observation",
+  "classes/a-level-art-design/unit-plans/9479-s4-unit-3-exploration-and-artist-study.md": "mark-making",
+  "classes/a-level-art-design/unit-plans/9479-s4-unit-4-development.md": "composition",
+  "classes/a-level-art-design/unit-plans/9479-s4-unit-5-supervised-test-and-submission.md": "the-great-wave",
+  // Art Appreciation S1 (U3 the-table already set above)
+  "classes/art-appreciation/unit-plans/art-appreciation-s1-unit-1-origins-and-ancestral-memory.md": "deer-mandala",
+  "classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory.md": "calling-of-matthew",
+  "classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity.md": "representation",
+  "classes/art-appreciation/unit-plans/art-appreciation-s1-unit-5-semester-close-and-retrospective.md": "wanderer",
+  // Media Studies S1
+  "classes/media-studies/unit-plans/9607-s1-unit-1-introduction.md": "rebel-sharpshooter",
+  "classes/media-studies/unit-plans/9607-s1-unit-2-media-language.md": "migrant-mother",
+  "classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis.md": "folies-bergere",
+  "classes/media-studies/unit-plans/9607-s1-unit-4-representation.md": "kasebier-wild-west",
+  "classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts.md": "above-fifth-avenue",
+  "classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation.md": "musicians",
+  // Pre A Level S1
+  "classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements.md": "first-marks",
+  "classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography.md": "the-great-wave",
+  "classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage.md": "lissitzky-schwitters",
+  "classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster.md": "mucha-poster",
   "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-01-introduction-the-sketchbook-and-first-marks.md":
     "first-marks",
   "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-02-tone-and-form.md": "tone-and-form",
@@ -365,6 +405,26 @@ const FIGURES = {
   ],
 }
 
+// Downloadable handout PDFs (2026-07-24), staged under quartz/static/handouts/
+// and injected as a download line after `anchor`. The site is password-gated and
+// students-only, and the school has licensed the materials. Same keyed-by-vault-
+// path shape as FIGURES; vault bodies are untouched, so no reframe is triggered.
+const HANDOUTS = {
+  "classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics.md": {
+    dir: "art-appreciation",
+    anchor: /Lesson 6 — Hyperreality/,
+    items: [
+      { label: "Eat Drink Man Woman", file: "eat-drink-man-woman" },
+      { label: "Heda and Still Life", file: "heda-and-still-life" },
+      { label: "The Shared Meal", file: "the-shared-meal" },
+      { label: "The Moral Image of Work", file: "the-moral-image-of-work" },
+      { label: "Martha Rosler Intro", file: "martha-rosler-intro" },
+      { label: "Semiotics of the Kitchen", file: "semiotics-of-the-kitchen" },
+      { label: "Hyperreality + Paratheatre", file: "hyperreality-and-paratheatre" },
+    ],
+  },
+}
+
 const credits = JSON.parse(await readFile(join(import.meta.dirname, "credits.json"), "utf8"))
 
 // Depth-relative path, so the site still works if it's ever served from a subpath.
@@ -398,6 +458,26 @@ function figureBlock(slugs, depth) {
 // Insert each figure after its anchor's first match: directly after the matched
 // bullet when the anchor lands inside a list item (splitting the list around the
 // figure), otherwise after the containing paragraph; no match → end of the body.
+// A download line of handout PDFs, inserted after the paragraph/table matching
+// `anchor` (falling back to end of body), mirroring insertFigures.
+function insertHandouts(body, entry, depth) {
+  const prefix = "../".repeat(depth)
+  const links = entry.items
+    .map(
+      (it) =>
+        `<a href="${prefix}static/handouts/${entry.dir}/${it.file}.pdf">${it.label}</a>`,
+    )
+    .join(" · ")
+  const html = `<p class="handouts"><strong>Handouts (PDF):</strong> ${links}</p>\n`
+  const at = body.search(entry.anchor)
+  if (at === -1) return body.trimEnd() + "\n\n" + html
+  const paraEnd = body.indexOf("\n\n", at)
+  const pos = paraEnd === -1 ? -1 : paraEnd + 2
+  return pos === -1
+    ? body.trimEnd() + "\n\n" + html
+    : body.slice(0, pos) + "\n" + html + body.slice(pos)
+}
+
 function insertFigures(body, entries, depth) {
   for (const entry of entries) {
     const html = figureBlock(entry.slugs, depth)
@@ -913,6 +993,7 @@ for (const { rel, frontmatter: fm, body: cleaned } of pages) {
   const depth = rel.split("/").length - 1
   // Figures first: their anchors must match page content, not the hero's caption.
   if (FIGURES[rel]) body = insertFigures(body, FIGURES[rel], depth)
+  if (HANDOUTS[rel]) body = insertHandouts(body, HANDOUTS[rel], depth)
   if (CITATIONS[rel]) body = insertCitations(body, CITATIONS[rel])
   if (HEROES[rel]) body = heroFigure(HEROES[rel], depth) + body
 

@@ -8,6 +8,11 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s2-assessments]]"
 modified: 2026-07-18
 ---
+<figure class="plate plate--hero">
+  <img src="../../../static/img/drawn-from-life.jpg" alt="Ilya Repin, Portrait of a Russian Peasant, 1871" loading="lazy" />
+  <figcaption>Ilya Repin, <em>Portrait of a Russian Peasant</em>, 1871</figcaption>
+</figure>
+
 # S2 Unit 2: Recording & Sustained Study
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-2-plan|Semester 2 Plan]] · Unit 2 of 5 · ← [[classes/a-level-art-design/unit-plans/9479-s2-unit-1-foundations-on-the-investigation|Unit 1]] | [[classes/a-level-art-design/unit-plans/9479-s2-unit-3-exploration-and-artist-study|Unit 3]] →

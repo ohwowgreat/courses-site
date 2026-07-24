@@ -14,6 +14,11 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
 modified: 2026-07-21
 ---
+<figure class="plate plate--hero">
+  <img src="../../../static/img/lissitzky-schwitters.jpg" alt="El Lissitzky, Kurt Schwitters, c. 1924 — a photomontage portrait of the great collagist" loading="lazy" />
+  <figcaption>El Lissitzky, <em>Kurt Schwitters</em>, c. 1924 — a photomontage portrait of the great collagist</figcaption>
+</figure>
+
 # Unit 3: Collage
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan|Semester 1 Plan]] · Unit 3 of 4 · ← [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography|Unit 2: Photography]] / [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster|Unit 4: Graphic Design & the Poster]] →

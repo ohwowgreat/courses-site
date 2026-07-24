@@ -12,6 +12,11 @@ related:
   - "[[classes/media-studies/9607-resource-library]]"
 modified: 2026-07-22
 ---
+<figure class="plate plate--hero">
+  <img src="../../../static/img/above-fifth-avenue.jpg" alt="Underwood & Underwood, Above Fifth Avenue, Looking North, c. 1905 — the industry at work: somebody pays for this vantage" loading="lazy" />
+  <figcaption>Underwood & Underwood, <em>Above Fifth Avenue, Looking North</em>, c. 1905 — the industry at work: somebody pays for this vantage</figcaption>
+</figure>
+
 # Unit 5: Media Contexts
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-semester-1-plan|Semester 1 Plan]] · Unit 5 of 6 · ← [[classes/media-studies/unit-plans/9607-s1-unit-4-representation|Unit 4]] | [[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation|Unit 6]] →

@@ -8,6 +8,11 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
 modified: 2026-07-18
 ---
+<figure class="plate plate--hero">
+  <img src="../../../static/img/mark-making.jpg" alt="Peter Paul Rubens, Anatomical Studies, pen and ink, c. 1605" loading="lazy" />
+  <figcaption>Peter Paul Rubens, <em>Anatomical Studies</em>, pen and ink, c. 1605</figcaption>
+</figure>
+
 # S4 Unit 3: Exploration & Artist Study
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-4-plan|Semester 4 Plan]] · Unit 3 of 5 · ← [[classes/a-level-art-design/unit-plans/9479-s4-unit-2-recording|Unit 2]] | [[classes/a-level-art-design/unit-plans/9479-s4-unit-4-development|Unit 4]] →

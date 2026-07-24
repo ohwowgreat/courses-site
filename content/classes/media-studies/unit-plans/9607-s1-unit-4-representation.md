@@ -12,6 +12,11 @@ related:
   - "[[classes/media-studies/9607-resource-library]]"
 modified: 2026-07-22
 ---
+<figure class="plate plate--hero">
+  <img src="../../../static/img/kasebier-wild-west.jpg" alt="Gertrude Käsebier, American Indian Portrait, c. 1899 — a studio construction: who made the choices in this image, and for whom?" loading="lazy" />
+  <figcaption>Gertrude Käsebier, <em>American Indian Portrait</em>, c. 1899 — a studio construction: who made the choices in this image, and for whom?</figcaption>
+</figure>
+
 # Unit 4: Representation
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-semester-1-plan|Semester 1 Plan]] · Unit 4 of 6 · ← [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis|Unit 3]] | [[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts|Unit 5]] →

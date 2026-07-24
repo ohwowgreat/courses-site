@@ -8,6 +8,11 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s2-assessments]]"
 modified: 2026-07-18
 ---
+<figure class="plate plate--hero">
+  <img src="../../../static/img/van-gogh-armchair.jpg" alt="Vincent van Gogh, Paul Gauguin's Armchair, 1888" loading="lazy" />
+  <figcaption>Vincent van Gogh, <em>Paul Gauguin's Armchair</em>, 1888</figcaption>
+</figure>
+
 # S2 Unit 3: Exploration & Artist Study
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-2-plan|Semester 2 Plan]] · Unit 3 of 5 · ← [[classes/a-level-art-design/unit-plans/9479-s2-unit-2-recording-and-sustained-study|Unit 2]] | [[classes/a-level-art-design/unit-plans/9479-s2-unit-4-development|Unit 4]] →

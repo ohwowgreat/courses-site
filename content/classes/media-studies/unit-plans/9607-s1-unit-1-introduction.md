@@ -9,6 +9,11 @@ related:
   - "[[classes/media-studies/9607-resource-library]]"
 modified: 2026-07-22
 ---
+<figure class="plate plate--hero">
+  <img src="../../../static/img/rebel-sharpshooter.jpg" alt="Alexander Gardner, Home of a Rebel Sharpshooter, 1863 — the soldier's body was moved and posed for the composition" loading="lazy" />
+  <figcaption>Alexander Gardner, <em>Home of a Rebel Sharpshooter</em>, 1863 — the soldier's body was moved and posed for the composition</figcaption>
+</figure>
+
 # Unit 1: Introduction
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-semester-1-plan|Semester 1 Plan]] · Unit 1 of 6 · [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] →

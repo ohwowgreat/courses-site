@@ -8,6 +8,11 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
 modified: 2026-07-18
 ---
+<figure class="plate plate--hero">
+  <img src="../../../static/img/observation.jpg" alt="Vincent van Gogh, The Potato Peeler, 1885" loading="lazy" />
+  <figcaption>Vincent van Gogh, <em>The Potato Peeler</em>, 1885</figcaption>
+</figure>
+
 # S4 Unit 2: Recording
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-4-plan|Semester 4 Plan]] · Unit 2 of 5 · ← [[classes/a-level-art-design/unit-plans/9479-s4-unit-1-foundations-on-the-question|Unit 1]] | [[classes/a-level-art-design/unit-plans/9479-s4-unit-3-exploration-and-artist-study|Unit 3]] →
