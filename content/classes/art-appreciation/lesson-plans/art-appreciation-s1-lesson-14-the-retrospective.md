@@ -11,6 +11,8 @@ modified: 2026-07-19
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-5-semester-close-and-retrospective|Unit 5]] · Lesson 14 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief|L13]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-15-return|L15]] →
 
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-14-the-retrospective.pptx">Download the deck (PowerPoint, 3.5 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
+
 ## At a glance
 
 | | |

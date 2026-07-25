@@ -10,6 +10,8 @@ modified: 2026-07-19
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-5-semester-close-and-retrospective|Unit 5]] · Lesson 15 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-14-the-retrospective|L14]]
 
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-15-return.pptx">Download the deck (PowerPoint, 455 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+
 ## At a glance
 
 | | |

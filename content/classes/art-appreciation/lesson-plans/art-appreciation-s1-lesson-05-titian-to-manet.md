@@ -11,6 +11,8 @@ modified: 2026-07-24
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory|Unit 2]] · Lesson 05 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-04-telling-it-without-words|L04]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-06-the-table-as-moral-space|L06]] →
 
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-05-titian-to-manet.pptx">Download the deck (PowerPoint, 2.5 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
+
 ## At a glance
 
 | | |

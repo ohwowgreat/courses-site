@@ -19,6 +19,8 @@ modified: 2026-07-22
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] · Lesson 02 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-01-the-four-key-concepts|L01]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-03-sign-types-and-codes|L03]] →
 
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-02-semiotics-how-images-mean.pptx">Download the deck (PowerPoint, 712 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+
 ## At a glance
 
 | | |

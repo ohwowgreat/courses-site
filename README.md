@@ -170,6 +170,37 @@ library also holds in-copyright photography — Tillmans, Gursky, Sherman, Weems
 fine to project in a classroom but not to republish on a public website. If you add plates,
 keep that line.
 
+## Lesson decks
+
+Each lesson page carries a download link to its own PowerPoint deck. The vault builds the
+decks (`wiki/classes/<course>/decks/`); `decks.mjs` copies them to `content/decks/<course>/`
+and Quartz's Assets emitter serves them at `/decks/<course>/<file>.pptx`.
+
+They live under `content/` rather than `quartz/static/` for one reason: the 07:00 auto-sync
+commits `content/` and excludes it from its dirty check. A deck staged anywhere else would
+never be committed by an unattended run, and would leave the repo dirty enough to make
+*every* later run skip.
+
+- **Matching is by convention, not a list.** A deck belongs to the lesson whose filename
+  carries the same `s<N>-lesson-<NN>-<slug>` tail; the prefix differs on the two sides
+  (`media-studies-…pptx` vs `9607-…md`) and is ignored. Rename either side consistently and
+  it keeps working.
+- **Two failures stop a publish** (a ⚠ line, which auto-sync treats as "publish nothing,
+  retry next run"): a deck that matches no lesson page, and a lesson with no deck in a
+  course whose other lessons have one. For a lesson that is *meant* to have no deck, add its
+  key to `DECK_EXCEPTIONS` in `decks.mjs` — otherwise the gap warns forever.
+- **`_build/` and `_assets/` never publish.** They hold the build scripts and the
+  full-resolution sources. Their `.md` files would otherwise ship as pages, since `walk()`
+  takes every `.md` in the vault — `DROP_DIRS` in `sync.mjs` excludes them.
+- **Credits.** `_assets/CREDITS.md` records the provenance of every image in the decks;
+  `decks.mjs` republishes it as `/decks/credits`, cutting the build-facing preamble and
+  linking it from every download line.
+- **Size.** ~49 MB across 31 files, committed. Decks are compared by content hash, so an
+  unchanged deck is never re-copied and never makes a git blob. A *rebuild* is a different
+  matter: PptxGenJS stamps a fresh timestamp into every file it writes, so rebuilding a set
+  produces byte-different decks even when nothing changed, and the whole set lands in git
+  history again. Rebuild deliberately, not casually.
+
 ## The calendar publishes all dates — this is fine
 
 `content/calendar.md` carries every attainment for all five courses through 2027-01-07,

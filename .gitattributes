@@ -1,1 +1,5 @@
 * text=auto eol=lf
+
+# Published binaries — never line-ending-normalised, never diffed as text.
+*.pptx binary
+*.pdf binary

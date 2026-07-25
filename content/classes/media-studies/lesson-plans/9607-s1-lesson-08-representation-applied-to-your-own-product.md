@@ -19,6 +19,8 @@ modified: 2026-07-22
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-4-representation|Unit 4]] · Lesson 08 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint|L07]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze|L09]] →
 
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-08-representation-applied-to-your-own-product.pptx">Download the deck (PowerPoint, 897 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+
 ## At a glance
 
 | | |

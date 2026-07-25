@@ -18,6 +18,8 @@ modified: 2026-07-22
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts|Unit 5]] · Lesson 11 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-10-the-creative-critical-reflection|L10]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-12-institutions-and-section-a-craft|L12]] →
 
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-11-audiences-and-the-portfolio-submission.pptx">Download the deck (PowerPoint, 736 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+
 ## At a glance
 
 | | |

@@ -11,6 +11,8 @@ modified: 2026-07-17
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics|Unit 3]] · Lesson 08 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-07-the-split-weeks|L07]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-09-food-the-table-and-ethics|L09]] →
 
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-08-heda-and-the-image-of-work.pptx">Download the deck (PowerPoint, 2.5 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
+
 ## At a glance
 
 | | |

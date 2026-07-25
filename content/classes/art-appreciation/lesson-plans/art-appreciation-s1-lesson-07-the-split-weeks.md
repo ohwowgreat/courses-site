@@ -11,6 +11,8 @@ modified: 2026-07-17
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics|Unit 3]] · Lesson 07 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-06-the-table-as-moral-space|L06]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-08-heda-and-the-image-of-work|L08]] →
 
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-07-the-split-weeks.pptx">Download the deck (PowerPoint, 829 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+
 ## At a glance
 
 | | |

@@ -25,6 +25,7 @@ import { courseDetailEvents } from "./course-events.mjs"
 import { reframeAll } from "./reframe.mjs"
 import { libraryMarkdown } from "./gallery.mjs"
 import { insertCitations } from "./cite.mjs"
+import { syncDecks, deckLine, DECKS_DIR } from "./decks.mjs"
 
 // Env overrides exist so the pipeline can be exercised off-machine against a
 // fixture vault without touching the real content/. Normal use needs neither.
@@ -572,6 +573,16 @@ function insertHandouts(body, entry, depth) {
     : body.slice(0, pos) + "\n" + html + body.slice(pos)
 }
 
+// The deck download line goes directly above the page's first H2 — under the H1
+// and its breadcrumb row, where a student looks for the week's materials, and
+// above "At a glance". Unlike the handouts it needs no per-page anchor: every
+// lesson page has the same shape.
+function insertDeckLine(body, html) {
+  const at = body.search(/^## /m)
+  if (at === -1) return body.trimEnd() + "\n\n" + html
+  return body.slice(0, at) + html + "\n" + body.slice(at)
+}
+
 function insertFigures(body, entries, depth) {
   for (const entry of entries) {
     const html = figureBlock(entry.slugs, depth)
@@ -627,7 +638,15 @@ const DROP_PAGES = new Set([
 // the notice-correction and timetable-redraw callouts, and the trailing rules/
 // open-items sections) are stripped by cleanRegister() below. Nothing is withheld
 // wholesale by directory anymore.
-const DROP_DIRS = []
+//
+// The exception is the deck workshop. Each course's `decks/` folder holds the
+// built .pptx files (published — see decks.mjs) beside two folders of source
+// material that must not be: `_build/` (build scripts, collegiate.js, verify.py,
+// BUILD-NOTES.md) and `_assets/` (full-resolution sources, CREDITS.md). Their
+// .md files would otherwise be published verbatim as pages, since walk() takes
+// every .md in the vault. CREDITS.md is not lost — decks.mjs republishes it as a
+// single reader-facing credits page at /decks/credits.
+const DROP_DIRS = [`/${DECKS_DIR}/_build/`, `/${DECKS_DIR}/_assets/`]
 
 // H2 sections removed from every page that has them.
 const STRIP_SECTIONS = [
@@ -1064,8 +1083,24 @@ for (const rel of published) {
 }
 
 // ── Phase 3: write content/ ─────────────────────────────────────────────────
-await rm(OUT, { recursive: true, force: true })
+// Everything is rewritten from scratch each run, except decks/: those are large
+// binaries, and syncDecks() reconciles them against the vault by content hash
+// rather than deleting and re-copying 40-odd MB into a cloud-synced folder every
+// morning. It removes anything in there the vault no longer has, so the guarantee
+// below — content/ holds only what this run put there — still holds.
+for (const entry of await readdir(OUT).catch(() => [])) {
+  if (entry === DECKS_DIR) continue
+  await rm(join(OUT, entry), { recursive: true, force: true })
+}
 await mkdir(OUT, { recursive: true })
+
+// Lesson decks: copy the .pptx files through and map each to its lesson page.
+const decks = await syncDecks({
+  vault: VAULT,
+  out: OUT,
+  courses: COURSES,
+  lessonRels: published.filter((rel) => rel.includes("/lesson-plans/")),
+})
 
 // Every path this run writes, so anything else in content/ can be pruned at the end.
 const written = new Set()
@@ -1089,6 +1124,8 @@ for (const { rel, frontmatter: fm, body: cleaned } of pages) {
   if (FIGURES[rel]) body = insertFigures(body, FIGURES[rel], depth)
   if (HANDOUTS[rel]) body = insertHandouts(body, HANDOUTS[rel], depth)
   if (CITATIONS[rel]) body = insertCitations(body, CITATIONS[rel])
+  const deck = decks.byLesson.get(rel)
+  if (deck) body = insertDeckLine(body, deckLine(deck, depth))
   if (HEROES[rel]) body = heroFigure(HEROES[rel], depth) + body
 
   const dest = join(OUT, rel)
@@ -1096,6 +1133,10 @@ for (const { rel, frontmatter: fm, body: cleaned } of pages) {
   await writeFile(dest, frontmatter ? `---\n${frontmatter}\n---\n${body}` : body)
   written.add(rel)
 }
+
+// syncDecks() has already written the credits page; claim it so the stray sweep
+// at the end (which sees every .md in content/) doesn't take it back out.
+if (decks.credits) written.add(decks.credits)
 
 // The site's own landing page, kept in this repo rather than the vault. Its
 // `hero:` frontmatter key names a plate the same way HEROES does for vault pages.
@@ -1132,6 +1173,13 @@ const folderIndexes = {
   shared: {
     title: "School reference",
     body: "School-wide reference pages that apply to every course.",
+  },
+  [DECKS_DIR]: {
+    title: "Lesson slides",
+    body:
+      "The slides shown in class, one file per lesson. Each lesson page links to " +
+      "its own deck; this folder also carries the [[decks/credits|image credits]] " +
+      "for every work they reproduce.",
   },
 }
 for (const c of Object.values(COURSES)) {
@@ -1256,3 +1304,9 @@ console.log(
     (reframeStats.kept ? `, ⚠ ${reframeStats.kept} published unreframed` : "") +
     `.`,
 )
+// Deck accounting is printed every run, whether or not anything changed, so a set
+// that quietly shrinks is visible in the log and in the auto-sync commit message.
+// Its warnings carry ⚠, which is auto-sync's signal to publish nothing and retry.
+console.log(decks.summary)
+for (const rel of decks.removed) console.log(`  removed deck ${rel}`)
+for (const warning of decks.warnings) console.log(warning)

@@ -11,6 +11,8 @@ modified: 2026-07-17
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity|Unit 4]] · Lesson 10 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-09-food-the-table-and-ethics|L09]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image|L11]] →
 
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-10-berger-and-the-reproduction.pptx">Download the deck (PowerPoint, 772 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+
 ## At a glance
 
 | | |

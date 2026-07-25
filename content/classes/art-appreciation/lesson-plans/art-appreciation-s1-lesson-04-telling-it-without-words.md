@@ -11,6 +11,8 @@ modified: 2026-07-24
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory|Unit 2]] · Lesson 04 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-03-the-first-board|L03]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet|L05]] →
 
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-04-telling-it-without-words.pptx">Download the deck (PowerPoint, 1.7 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
+
 ## At a glance
 
 | | |

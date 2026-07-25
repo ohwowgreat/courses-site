@@ -11,6 +11,8 @@ modified: 2026-07-19
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity|Unit 4]] · Lesson 11 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-10-berger-and-the-reproduction|L10]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-12-photography-and-after|L12]] →
 
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-11-aura-and-the-poor-image.pptx">Download the deck (PowerPoint, 958 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+
 ## At a glance
 
 | | |

@@ -20,6 +20,8 @@ modified: 2026-07-22
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis|Unit 3]] · Lesson 07 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis|L06]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product|L08]] →
 
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-07-reading-systematically-toward-the-blog-midpoint.pptx">Download the deck (PowerPoint, 837 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+
 ## At a glance
 
 | | |

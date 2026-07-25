@@ -11,6 +11,8 @@ modified: 2026-07-17
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-1-origins-and-ancestral-memory|Unit 1]] · Lesson 03 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-02-what-survives-and-why|L02]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-04-telling-it-without-words|L04]] →
 
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-03-the-first-board.pptx">Download the deck (PowerPoint, 2.1 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
+
 ## At a glance
 
 | | |

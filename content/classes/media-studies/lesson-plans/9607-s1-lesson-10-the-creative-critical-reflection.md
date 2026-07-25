@@ -18,6 +18,8 @@ modified: 2026-07-22
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-4-representation|Unit 4]] · Lesson 10 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze|L09]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission|L11]] →
 
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-10-the-creative-critical-reflection.pptx">Download the deck (PowerPoint, 854 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+
 ## At a glance
 
 | | |

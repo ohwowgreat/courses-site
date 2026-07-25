@@ -19,6 +19,8 @@ modified: 2026-07-22
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] · Lesson 05 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-04-genre-and-camera|L04]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis|L06]] →
 
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-05-narrative-and-the-planning-lock.pptx">Download the deck (PowerPoint, 1.1 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
+
 ## At a glance
 
 | | |

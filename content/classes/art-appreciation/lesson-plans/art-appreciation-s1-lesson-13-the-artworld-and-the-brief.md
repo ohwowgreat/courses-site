@@ -11,6 +11,8 @@ modified: 2026-07-17
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity|Unit 4]] · Lesson 13 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-12-photography-and-after|L12]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-14-the-retrospective|L14]] →
 
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-13-the-artworld-and-the-brief.pptx">Download the deck (PowerPoint, 1.0 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
+
 ## At a glance
 
 | | |

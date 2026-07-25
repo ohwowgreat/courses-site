@@ -18,6 +18,8 @@ modified: 2026-07-22
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-1-introduction|Unit 1]] · Lesson 01 of 16 · [[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-how-images-mean|L02]] →
 
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-01-the-four-key-concepts.pptx">Download the deck (PowerPoint, 1.2 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
+
 ## At a glance
 
 | | |

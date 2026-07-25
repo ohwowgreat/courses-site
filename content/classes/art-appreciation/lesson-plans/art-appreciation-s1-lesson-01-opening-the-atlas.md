@@ -10,6 +10,8 @@ modified: 2026-07-19
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-1-origins-and-ancestral-memory|Unit 1]] · Lesson 01 of 15 · [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-02-what-survives-and-why|L02]] →
 
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-01-opening-the-atlas.pptx">Download the deck (PowerPoint, 3.7 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
+
 ## At a glance
 
 | | |

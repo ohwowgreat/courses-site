@@ -11,6 +11,8 @@ modified: 2026-07-19
 
 [[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity|Unit 4]] · Lesson 12 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image|L11]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief|L13]] →
 
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-12-photography-and-after.pptx">Download the deck (PowerPoint, 3.1 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
+
 ## At a glance
 
 | | |
