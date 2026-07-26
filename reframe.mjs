@@ -54,7 +54,17 @@ Formatting rules:
 // tripwire for review, not the privacy mechanism — that is sync.mjs's
 // deterministic filter.
 const LEAK_MARKERS = [
-  /the human/i,
+  // "the human" is this vault's own word for the teacher who curates it, so a
+  // survival is a real leak. But it is also live subject matter in Oxbridge
+  // (the human/machine line; Camus's "the human need"), where a bare /the
+  // human/ made the retry unwinnable — the phrase is W09's own title, and in
+  // Camus's case sits inside a verbatim quotation. Match only the meta senses:
+  // possessive, a following date or decision-verb, or a preposition that takes
+  // the curator as its object.
+  /\bthe human['’]s\b/i,
+  /\bthe human \d{4}-\d{2}-\d{2}/i,
+  /\b(?:by|from|with|for|at|per|awaiting|asks?|asked|asking)\s+the human\b/i,
+  /\bthe human\s+(?:retired|shelved|dropped|set|scoped|chose|decided|confirmed|expects?|expected|wants?|wanted|said|asked|curates?|prefers?|explicitly|has|had|later|before)\b/i,
   /\braw\//,
   /ingest/i,
   /th[ie]s vault/i,
