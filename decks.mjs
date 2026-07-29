@@ -29,6 +29,41 @@ export const CREDITS_REL = `${DECKS_DIR}/credits.md`
 const LESSON_KEY = /(s\d+-lesson-\d+-.+)$/
 const lessonKey = (stem) => stem.match(LESSON_KEY)?.[1] ?? null
 
+// Not every deck belongs to a lesson. The two studio courses teach in doubles —
+// a three-hour session at the easel does not want slides — so they deck at the
+// course level instead: an orientation (`intro-01-…`) and one brief per
+// attainment (`s1-a3-…`). Those decks belong to the course, and are published on
+// its overview page rather than on any one lesson.
+//
+// A deck that carries neither a lesson key nor one of these two shapes is still
+// a ⚠. That is the point of matching on shape rather than just "no lesson key":
+// a lesson deck with a typo in its tail must not quietly reclassify itself as a
+// course deck and ship unlinked, and a genuinely new kind of course deck should
+// be a decision someone makes here rather than a silent pass.
+const COURSE_KEY = /(?:^|-)(intro-\d+|s\d+-a\d+)-(.+)$/
+
+// Cosmetic casing the slug can't carry. Same spirit as CREDITS_FIXES below: if
+// one stops matching, the worst case is a slightly odd label on a download link.
+const TITLE_FIXES = [[/\ba level\b/i, "A Level"]]
+
+const sentence = (slug) => {
+  const s = slug.replace(/-/g, " ")
+  return TITLE_FIXES.reduce((t, [p, r]) => t.replace(p, r), s[0].toUpperCase() + s.slice(1))
+}
+
+// { kind, label } for a course deck, or null if the stem is neither shape. The
+// assignment number is kept in the label because it is what the assessment
+// register calls the same piece of work; an intro deck is just its own sentence.
+function courseDeck(stem) {
+  const m = stem.match(COURSE_KEY)
+  if (!m) return null
+  const [, marker, slug] = m
+  const a = marker.match(/^s\d+-a(\d+)$/)
+  return a
+    ? { kind: "assignment", label: `A${a[1]} ${sentence(slug)}` }
+    : { kind: "intro", label: sentence(slug) }
+}
+
 // Lesson keys that intentionally ship no deck. Without this, a lesson sitting in
 // a course whose other lessons all have decks is reported as a gap (⚠) and the
 // unattended run refuses to publish — which is what you want for a deck that
@@ -56,13 +91,18 @@ async function readSourceDecks(vault, courses) {
     const folder = basename(course.dir)
     for (const entry of entries) {
       if (!entry.isFile() || !entry.name.endsWith(".pptx")) continue
+      const stem = entry.name.replace(/\.pptx$/, "")
+      const key = lessonKey(stem)
       decks.push({
         course: course.dir,
         courseName: course.name,
         folder,
         file: entry.name,
         src: join(dir, entry.name),
-        key: lessonKey(entry.name.replace(/\.pptx$/, "")),
+        key,
+        // Only decks with no lesson of their own are tested for a course shape,
+        // so a lesson deck can never be read as one.
+        ...(key ? {} : (courseDeck(stem) ?? {})),
       })
     }
   }
@@ -127,11 +167,42 @@ export function deckLine(deck, depth) {
   )
 }
 
+// The course decks, for the course overview page — the one page every student of
+// that course lands on, and the only place these can be found, since the courses
+// that have them publish no lesson decks to hang a download line from. One line
+// per kind, mirroring the handout line's markup; sizes are left off because six
+// of them in a row is noise, not information.
+export function courseDeckBlock(decks, depth) {
+  const prefix = "../".repeat(depth)
+  const groups = [
+    ["Course slides (PowerPoint):", decks.filter((d) => d.kind === "intro")],
+    ["Assignment briefs (PowerPoint):", decks.filter((d) => d.kind === "assignment")],
+  ].filter(([, ds]) => ds.length)
+  if (!groups.length) return ""
+
+  const lines = groups.map(([title, ds], i) => {
+    const links = ds.map(
+      (d) => `<a href="${prefix}${DECKS_DIR}/${d.folder}/${d.file}">${d.label}</a>`,
+    )
+    // Credits once, at the end of the block rather than on every line.
+    if (i === groups.length - 1)
+      links.push(`<a href="${prefix}${DECKS_DIR}/credits">image credits</a>`)
+    return `<p class="handouts"><strong>${title}</strong> ${links.join(" · ")}</p>`
+  })
+  return lines.join("\n") + "\n\n"
+}
+
 // Each course's own framing for its credits. The vault's CREDITS.md files open
 // with a preamble written for whoever rebuilds the decks — which folder the
 // sources sit in, what is duplicated where — so the preamble is cut and replaced
 // with these. What survives the cut is the part a reader wants: the lists of works.
 const CREDITS_INTRO = {
+  "classes/a-level-art-design":
+    "Every plate in the A Level intro and assignment decks is public domain and came " +
+    "from the school image library; nothing was downloaded for them.",
+  "classes/pre-a-level-art-design":
+    "Every plate in the Pre A Level intro decks is public domain and came from the " +
+    "school image library; nothing was downloaded for them.",
   "classes/art-appreciation":
     "Works downloaded for the Art Appreciation decks — the lessons whose art the " +
     "school's image library did not already hold. Everything else in those decks " +
@@ -203,25 +274,42 @@ export async function syncDecks({ vault, out, courses, lessonRels }) {
   }
 
   const byLesson = new Map()
+  const byCourse = new Map() // course dir → its course decks, in filename order
   for (const deck of decks) {
-    const rel = deck.key && lessons.get(deck.key)
-    if (!rel) {
+    if (deck.key) {
+      const rel = lessons.get(deck.key)
+      if (!rel) {
+        warnings.push(
+          `⚠ deck ${deck.file} matches no published lesson page — it would ship with no link to it`,
+        )
+        continue
+      }
+      byLesson.set(rel, deck)
+      continue
+    }
+    if (!deck.kind) {
       warnings.push(
-        `⚠ deck ${deck.file} matches no published lesson page — it would ship with no link to it`,
+        `⚠ deck ${deck.file} belongs to no lesson, and its name is not a course-deck ` +
+          `shape (intro-NN-… or sN-aN-…) — it would ship with no link to it`,
       )
       continue
     }
-    byLesson.set(rel, deck)
+    if (!byCourse.has(deck.course)) byCourse.set(deck.course, [])
+    byCourse.get(deck.course).push(deck)
   }
 
   const { copied, removed } = await reconcile(out, decks)
 
-  // Gaps: a lesson in a course that has decks, but with no deck of its own.
-  const coursesWithDecks = new Set(decks.map((d) => d.course))
+  // Gaps: a lesson in a course that decks its lessons, but with no deck of its
+  // own. Scoped to courses that actually have lesson decks, so a course that
+  // decks at the course level isn't asked for 55 lesson decks it never wanted.
+  // This keeps the check pointed at what it is for — one deck of sixteen failing
+  // to build still warns, because the other fifteen hold the course in the set.
+  const lessonDeckCourses = new Set([...byLesson.values()].map((d) => d.course))
   const perCourse = new Map()
-  for (const dir of coursesWithDecks) perCourse.set(dir, { have: 0, missing: [] })
+  for (const dir of lessonDeckCourses) perCourse.set(dir, { have: 0, missing: [] })
   for (const [key, rel] of lessons) {
-    const dir = [...coursesWithDecks].find((d) => rel.startsWith(d + "/"))
+    const dir = [...lessonDeckCourses].find((d) => rel.startsWith(d + "/"))
     if (!dir) continue
     if (byLesson.has(rel)) perCourse.get(dir).have++
     else if (!DECK_EXCEPTIONS.has(key)) perCourse.get(dir).missing.push(key)
@@ -234,6 +322,8 @@ export async function syncDecks({ vault, out, courses, lessonRels }) {
     )
   }
 
+  // Credits cover every course that ships a deck of either kind.
+  const coursesWithDecks = new Set([...lessonDeckCourses, ...byCourse.keys()])
   const credits = await creditsPage(vault, courses, coursesWithDecks)
   if (credits) {
     await mkdir(join(out, DECKS_DIR), { recursive: true })
@@ -249,11 +339,18 @@ export async function syncDecks({ vault, out, courses, lessonRels }) {
   ]
     .filter(Boolean)
     .join(", ")
+  // Course decks are counted separately: they have no lesson to be measured
+  // against, so a "15/15" would mean nothing for them.
+  const courseDecks = [...byCourse.values()].flat()
+  const courseCoverage = [...byCourse]
+    .map(([dir, ds]) => `${basename(dir)} ${ds.length}`)
+    .join(", ")
   const summary =
     `Published ${byLesson.size} lesson deck(s)` +
     (coverage ? ` (${coverage})` : "") +
+    (courseDecks.length ? ` and ${courseDecks.length} course deck(s) (${courseCoverage})` : "") +
     (churn ? ` — ${churn}` : " — unchanged") +
     "."
 
-  return { byLesson, credits: credits ? CREDITS_REL : null, warnings, summary, removed }
+  return { byLesson, byCourse, credits: credits ? CREDITS_REL : null, warnings, summary, removed }
 }

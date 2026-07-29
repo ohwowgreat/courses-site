@@ -25,7 +25,7 @@ import { courseDetailEvents } from "./course-events.mjs"
 import { reframeAll } from "./reframe.mjs"
 import { libraryMarkdown } from "./gallery.mjs"
 import { insertCitations } from "./cite.mjs"
-import { syncDecks, deckLine, DECKS_DIR } from "./decks.mjs"
+import { syncDecks, deckLine, courseDeckBlock, DECKS_DIR } from "./decks.mjs"
 
 // Env overrides exist so the pipeline can be exercised off-machine against a
 // fixture vault without touching the real content/. Normal use needs neither.
@@ -1177,9 +1177,11 @@ const folderIndexes = {
   [DECKS_DIR]: {
     title: "Lesson slides",
     body:
-      "The slides shown in class, one file per lesson. Each lesson page links to " +
-      "its own deck; this folder also carries the [[decks/credits|image credits]] " +
-      "for every work they reproduce.",
+      "The slides shown in class. Most are lesson decks, linked from the lesson " +
+      "page they belong to; the studio courses teach in doubles and deck at course " +
+      "level instead, so theirs — the introductions and the assignment briefs — are " +
+      "linked from the course overview. This folder also carries the " +
+      "[[decks/credits|image credits]] for every work they reproduce.",
   },
 }
 for (const c of Object.values(COURSES)) {
@@ -1251,7 +1253,9 @@ written.add("library.md")
 
 // Inject a structured course map into each overview, replacing the old inline
 // "Start here" sentence links. Built from what was actually published, so it
-// cannot list a page that doesn't exist.
+// cannot list a page that doesn't exist. Course-level decks — the orientation
+// and assignment-brief slides belonging to a course rather than any one lesson —
+// go in directly below it.
 for (const c of Object.values(COURSES)) {
   const ovRel = c.overview + ".md"
   if (!written.has(ovRel)) continue
@@ -1264,7 +1268,9 @@ for (const c of Object.values(COURSES)) {
       unit: lessonUnits.get(rel),
     }))
   const map = courseMapHtml(items, c.dir)
-  if (!map) continue
+  const courseDecks = decks.byCourse.get(c.dir)
+  const slides = courseDecks ? courseDeckBlock(courseDecks, ovRel.split("/").length - 1) : ""
+  if (!map && !slides) continue
   let ov = await readFile(join(OUT, ovRel), "utf8")
   // The old navigation: a "> **Start here:** …" blockquote of inline links,
   // and the "Semester plans / Assessment registers" blockquote — both now
@@ -1272,7 +1278,8 @@ for (const c of Object.values(COURSES)) {
   ov = ov.replace(/^> \*\*Start here:\*\*[^\n]*\n+/m, "")
   ov = ov.replace(/^> \*\*Semester plans:\*\*[^\n]*(?:\n> [^\n]*)*\n+/m, "")
   // Insert before the first H2 — after the intro prose, before the content.
-  ov = /^## /m.test(ov) ? ov.replace(/^## /m, `${map}## `) : ov + "\n" + map
+  const block = map + slides
+  ov = /^## /m.test(ov) ? ov.replace(/^## /m, `${block}## `) : ov + "\n" + block
   await writeFile(join(OUT, ovRel), ov)
 }
 
