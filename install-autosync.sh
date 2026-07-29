@@ -62,7 +62,7 @@ echo "  Log:        $LOG"
 echo "  Test now:   launchctl start com.courses-site.autosync"
 echo "  Uninstall:  launchctl unload $PLIST && rm $PLIST"
 
-if ! security find-generic-password -a "$USER" -s ANTHROPIC_API_KEY -w >/dev/null 2>&1; then
+if ! security find-generic-password -s ANTHROPIC_API_KEY -w >/dev/null 2>&1; then
   echo ""
   echo "⚠ No ANTHROPIC_API_KEY in the Keychain yet. Add it once with:"
   echo "  security add-generic-password -U -a \"\$USER\" -s ANTHROPIC_API_KEY -w 'sk-ant-...'"

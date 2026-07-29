@@ -39,9 +39,11 @@ function notify(title, message) {
 // ── Credentials ──────────────────────────────────────────────────────────────
 if (!process.env.ANTHROPIC_API_KEY) {
   try {
-    process.env.ANTHROPIC_API_KEY = sh(
-      `security find-generic-password -a "$USER" -s ANTHROPIC_API_KEY -w`,
-    )
+    // By service alone. Matching the account as well would be one more thing
+    // that has to hold in an environment launchd deliberately keeps bare: an
+    // unset USER expands to `-a ""`, which matches no item, and the run would
+    // then fail on its first cache miss with nothing in the log to explain why.
+    process.env.ANTHROPIC_API_KEY = sh(`security find-generic-password -s ANTHROPIC_API_KEY -w`)
   } catch {
     /* not in the keychain either — sync.mjs will fail with its own message */
   }
