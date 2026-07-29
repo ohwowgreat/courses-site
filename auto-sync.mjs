@@ -80,16 +80,19 @@ try {
   output = sh("node sync.mjs 2>&1", { maxBuffer: 64 * 1024 * 1024 })
 } catch (err) {
   console.log(String(err.stdout || ""))
-  notify("sync failed", String(err.stdout || err.message).trim().split("\n").at(-1))
+  notify(
+    "sync failed",
+    String(err.stdout || err.message)
+      .trim()
+      .split("\n")
+      .at(-1),
+  )
   process.exit(1)
 }
 console.log(output)
 
 if (output.includes("⚠")) {
-  notify(
-    "review needed",
-    "sync produced warnings — nothing was published; will retry next run",
-  )
+  notify("review needed", "sync produced warnings — nothing was published; will retry next run")
   process.exit(0)
 }
 
