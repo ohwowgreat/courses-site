@@ -8,7 +8,7 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-03-texture-mark-making-and-negative-space]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing]]"
-modified: 2026-07-20
+modified: 2026-07-26
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/composition.jpg" alt="Clara Peeters, Still Life with Cheeses, Almonds and Pretzels, c. 1613" loading="lazy" />
@@ -24,23 +24,31 @@ modified: 2026-07-20
 | | |
 |---|---|
 | Session | W4, one Wednesday double (~90 min) |
-| Dates | Wed 2026-09-23 |
+| Date | Wed 2026-09-23 |
 | Focus | Composition; the final observational drawing begun |
 | Deliverable | Three viewfinder thumbnails with one chosen in writing; the final drawing constructed and underway |
-| Feeds | **CS1 collected and graded this session**; the drawing continues into A1 (W5, 09-30) |
+| Feeds | **CS1 is collected and graded this session**; the drawing continues into A1 (W5, 09-30) |
 | Homework | One 10-minute observational sketch of a home object; MB posting |
+
+## Objectives
+
+By the end of this lesson you can:
+
+1. Compare three viewfinder thumbnails and choose one in writing, with a reason
+2. Decide viewpoint, placement and scale to frame before a mark goes on the good paper
+3. Construct the final drawing from the chosen thumbnail, using the tone and texture of L02–L03
 
 ## Goal
 
-Before you put a mark on the good paper, you decide the composition — viewpoint, placement, scale to frame — by comparing options, not by defaulting to the middle. The second hour puts the elements of the last three weeks to work on the drawing that A1 will finish.
+Before a mark goes on the good paper, decide the composition — viewpoint, placement, scale to frame — by comparing options, not by defaulting to the middle. The second hour puts the elements of the last three weeks to work on the drawing that A1 will finish.
 
 ## How it runs
 
-- **Warm-up (5 min)** — open your sketchbook to the week's pages; two-minute pair check against the CS1 list before collection.
-- **Teach (15 min)** — composition for an observational drawing, kept to four decisions: **viewpoint** (move before you draw — three steps left changes everything), **placement** (off-center beats dead-center; look back at the negative-space study), **scale to frame** (fill it or use emptiness on purpose; never a small object floating in white), **cropping** (the edge of the page is a tool). Demonstration with a viewfinder — two L-shaped cards — on the still life.
+- **Warm-up (5 min)** — sketchbooks open to the week's pages; a two-minute pair check against the CS1 list before collection.
+- **Teach (15 min)** — composition for an observational drawing, in four decisions: **viewpoint** (move before you draw — three steps left changes everything), **placement** (off-center beats dead-center; look back at the negative-space study), **scale to frame** (fill it or use emptiness on purpose; never a small object floating in white), **cropping** (the edge of the page is a tool). Demonstrated with a viewfinder — two L-shaped cards — on the still life.
 - **Studio 1 (20 min)** — still-life stations (3–4 objects each, one lamp, varied surfaces: cloth, metal, ceramic). Make **three thumbnail compositions** through the viewfinder — small, fast, tonal masses only, no detail — then circle one and write a one-line reason: "I chose this one because …"
 - **Studio 2 (40 min)** — the final drawing begins on good paper: light construction lines, proportions blocked against the thumbnail, main masses of tone laid. No detail, no texture yet — structure first. By close, aim for a drawing that is *decided* everywhere and finished nowhere.
-- **Close (10 min)** — **CS1 collected**: the exercise set (contour work, value scale + tonal study, texture pieces, negative-space study). Drawings are parked flat and labeled.
+- **Close (10 min)** — **CS1 is collected**: the exercise set (contour work, value scale + tonal study, texture pieces, negative-space study). Drawings are parked flat and labeled.
 
 ## Assessment
 

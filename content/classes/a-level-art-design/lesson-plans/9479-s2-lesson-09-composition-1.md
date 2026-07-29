@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s2-unit-4-development]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-08-artist-2-bridge-and-a2]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-10-resolving-composition-1]]"
-modified: 2026-07-23
+modified: 2026-07-26
 ---
 # S2 Lesson 09: Composition 1
 
@@ -22,9 +22,13 @@ modified: 2026-07-23
 | Graded | **CS6** (research paper outline populated) Thu 2027-04-29 — written annotation. **A3** (development + paper draft 1, AO3) sits Fri 2027-05-28 |
 | Homework | ≤30 min: over the May Day holiday (~05-01 → 05), read toward one paper section; no new studio work required |
 
-## Goal
+## Objectives
 
-Unit 4 opens the development stage — the longest stretch of the semester — and it begins with your first full composition. From your A2 feedback and your own studies, you compose composition 1, hold one idea across two studio days rather than starting over, and push it as far as it goes before the May Day break. Midweek the research paper outline is issued: the structure is provided, the content is yours, and you populate it as CS6 so the writing keeps pace with the making.
+By the end of this lesson, you can:
+
+1. Compose composition 1 from the A2 feedback and your own studies
+2. Hold one idea across two studio days rather than starting over
+3. Populate the research paper outline with your own content (CS6)
 
 
 <figure class="plate">
@@ -32,12 +36,16 @@ Unit 4 opens the development stage — the longest stretch of the semester — a
   <figcaption>Clara Peeters, <em>Still Life with Cheeses, Almonds and Pretzels</em>, c. 1613</figcaption>
 </figure>
 
+## Goal
+
+Unit 4 opens the development stage — the longest stretch of the semester — and it begins with your first full composition. From the A2 feedback and your own studies, you compose composition 1, hold one idea across two studio days rather than starting over, and push it as far as it goes before the May Day break. Midweek the research paper outline is issued: the structure is set for you, the content is yours, and you populate it as CS6 so the writing keeps pace with the making.
+
 ## How it runs
 
 - **Mon 04-26 — feedback; compose composition 1.** Take your A2 feedback and compose the first full composition **from your own studies** — not a new idea, but the development your exploration pointed to.
 - **Tue 04-27 — build composition 1, day 1.** Commit to one idea and build it. Development rewards holding a decision, not hedging across three.
 - **Wed 04-28 — build composition 1, day 2.** Carry the same composition further. One idea held across two days goes deeper than two started and abandoned.
-- **Thu 04-29 — research paper outline issued + CS6.** The outline is issued — set structure, your content — and you populate it with the artist material you began in Unit 3. **CS6** checks the outline is populated, not blank: from here the paper drafts alongside the work, integrated.
+- **Thu 04-29 — research paper outline issued + CS6.** You receive the outline and populate it with the artist material you began in Unit 3. **CS6** checks the outline is populated, not blank: from here the paper drafts alongside the work, integrated.
 - **Fri 04-30 — push composition 1.** Take it as far as it goes before the break — resolve what you can, and mark what still needs resolving when studio resumes.
 
 ## Assessment

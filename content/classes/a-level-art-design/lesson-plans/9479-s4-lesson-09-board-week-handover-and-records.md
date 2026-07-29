@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-08-assembly-and-a4-the-submission-package]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-10-course-close-and-the-two-year-review]]"
-modified: 2026-07-24
+modified: 2026-07-26
 ---
 # S4 Lesson 09: Board Week — Handover and Records
 
@@ -25,9 +25,17 @@ modified: 2026-07-24
 
 These dates are projected and may shift when the school publishes the calendar for this period.
 
+## What you will do
+
+By the end of this lesson, you can:
+
+1. Close only what QC named in supervised gap repair, adding nothing new
+2. Check the package a final time against the specification and hand it over
+3. Photograph your portfolio for your own records before it goes
+
 ## Goal
 
-The component leaves the building. Supervised gap repair closes **only what the QC named** — nothing new — the package passes a final check against the specification, and the complete work is **handed over**: on the linear June 2028 entry, C1, C2 and C3 all reach the board in the same window. Your portfolio is photographed for your own records before it goes, because the record has to survive the submission.
+The component leaves the building. Supervised gap repair closes **only what the QC named** — nothing new — the package passes a final check against the specification, and the complete work is **handed over**: on the linear June 2028 entry, C1, C2 and C3 all reach the board in the same window. You photograph the portfolio for your own records before it goes, because the record has to survive the submission.
 
 
 <figure class="plate">
@@ -35,17 +43,17 @@ The component leaves the building. Supervised gap repair closes **only what the 
   <figcaption>Aleksandr Rodchenko, <em>Assembling for a Demonstration</em>, 1928</figcaption>
 </figure>
 
-## How it runs
+## How the week runs
 
-- **Mon 04-24 — gap repair for the board, supervised.** Only what the QC named — no new work enters a submitted package.
+- **Mon 04-24 — gap repair, supervised.** Only what the QC named — no new work enters a submitted package.
 - **Tue 04-25 — final checks against the specification.** Every page, label and limit, one last time.
-- **Wed 04-26 — handover.** The checklist covers **C1, C2 and C3** together; marks and samples reach the board by the ≈ end-April deadline.
+- **Wed 04-26 — handover.** The checklist covers **C1, C2 and C3** together; marks and samples reach the board by the end-of-April deadline.
 - **Thu 04-27 — portfolio photography for records; CS8.** The record survives the submission. CS8 is the records photography.
 - **Fri 04-28 — the board has it.** The component is out; what remains is the course close.
 
 ## Key content: all three components, one handover
 
-- **All-component submission** — on the linear entry, C1, C2 and C3 reach the board in the same ≈ end-April window; the handover checklist covers all three.
+- **All-component submission** — on the linear entry, C1, C2 and C3 reach the board in the same end-April window; the handover checklist covers all three.
 - Gap repair is **supervised and bounded to what QC named** — the package's integrity holds to the deadline.
-- Your portfolio is photographed before handover, so the record outlives the submission.
+- The portfolio is photographed for you before handover, so the record outlives the submission.
 - The course closes with the two-year review in [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-10-course-close-and-the-two-year-review|L10]] (after the May Day week).

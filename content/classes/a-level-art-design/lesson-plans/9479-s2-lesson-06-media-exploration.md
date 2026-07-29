@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s2-unit-3-exploration-and-artist-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-05-recording-pages-and-feedback]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-07-artist-1-in-full]]"
-modified: 2026-07-23
+modified: 2026-07-26
 ---
 # S2 Lesson 06: Media Exploration
 
@@ -27,6 +27,14 @@ modified: 2026-07-23
   <img src="../../../static/img/mark-making.jpg" alt="Peter Paul Rubens, Anatomical Studies, pen and ink, c. 1605" loading="lazy" />
   <figcaption>Peter Paul Rubens, <em>Anatomical Studies</em>, pen and ink, c. 1605</figcaption>
 </figure>
+
+## Objectives
+
+By the end of this lesson, you can:
+
+1. Plan and run twelve experiments built so that they could fail
+2. Select on evidence, keeping what works and naming what you reject
+3. Identify the two or three media you will develop, and say why
 
 ## Goal
 

@@ -8,7 +8,7 @@ related:
   - "[[classes/pre-a-level-art-design/assessments/pal-s1-assessments]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-15-the-poster-message-audience-hierarchy]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-17-the-portfolio-and-the-sketchbook]]"
-modified: 2026-07-21
+modified: 2026-07-26
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/pioneer-girl.jpg" alt="Aleksandr Rodchenko, Pioneer Girl, 1930" loading="lazy" />
@@ -28,21 +28,31 @@ modified: 2026-07-21
 | Focus | **A4 sat**: the final poster made in class, handmade or digital, plus the reflection |
 | Deliverable | The final poster + reflection, submitted at close; thumbnails and type studies in the sketchbook as process |
 | Feeds | A4 is the semester's fourth attainment; the work returns as portfolio material at W19 |
-| Homework | Over the break: keep the sketchbook alive (2–3 pages a week — **A5 collects it on Jan 6**); read the portfolio spec; MB posting |
+| Homework | Over the break: keep the sketchbook going (2–3 pages a week — **A5 collects it on Jan 6**); read the portfolio spec; post on MB |
+
+## What you will be able to do
+
+By the end of this lesson you can:
+
+1. Execute your chosen thumbnail as a finished poster, handmade or digital
+2. Deliver one message to one audience within the unit's three seconds and three meters
+3. Write a reflection naming the hierarchy decisions you made
 
 ## Goal
 
-One double, one poster, made from your decided thumbnail — the design thinking happened last week, so today's ninety minutes are execution with judgment. The standard is the unit's own test: pin it up, walk back three meters, count three seconds. If the message doesn't land in that window, no amount of craft saves it.
+One double, one poster, made from a decided thumbnail — the design thinking happened last week, so today's ninety minutes are execution with judgment. The standard is the unit's own test: pin it up, walk back three meters, count three seconds. If the message doesn't land in that window, no amount of craft saves it.
 
 ## How it runs
 
-- **Set-up (5 min)** — the criteria are on the board: **hierarchy · typography · message · audience.** Bring your circled thumbnails; take paper and pens or a lab machine depending on your chosen route.
-- **Studio (65 min)** — the build, with two standing checks. At **20 minutes**, the squint test: pin up or zoom out, three meters, what reads first? If it isn't the message, fix hierarchy before finishing anything. At **45 minutes**, the type pass: the title in its final voice, secondary text smaller than feels polite. **Text sets last.** If you are working digitally, save the layered working file; if handmade, photograph the near-final state.
-- **Reflection (10 min)** — one page. Frames you can use: "My poster is for [audience] and says [message]" / "The first thing you read is … because I … " / "My type sounds … because … " / "If it hung in the hallway I would change …."
-- **Submit and close (10 min)** — submit the poster + reflection; put your process (all four thumbnails, type studies) into the sketchbook. Then the semester housekeeping: **no class the next two Wednesdays** (winter break 12-24 → 01-03); **Wed 2027-01-06 is the last session** — the EoT portfolio and the **A5 sketchbook** are both due that day. The portfolio spec goes home today.
+- **Set-up (5 min)** — criteria on the board: **hierarchy · typography · message · audience.** Circled thumbnails out; paper and pens or lab machines per your declared route. From here it is your poster and your reasons.
+- **Studio (65 min)** — the build, with two standing checks: at **20 minutes**, the squint test — pin up or zoom out, three meters, what reads first? If the answer isn't the message, fix hierarchy before finishing anything; at **45 minutes**, the type pass — the title in its final voice, secondary text smaller than feels polite. **Text sets last**, same speaker rule as the collage. If you work digital, save the layered working file; if handmade, photograph the near-final state.
+- **Reflection (10 min)** — one page, using these frames: "My poster is for [audience] and says [message]" / "The first thing you read is … because I … " / "My type sounds … because … " / "If it hung in the hallway I would change …."
+- **Submit and close (10 min)** — poster + reflection submitted; process (all four thumbnails, type studies) into the sketchbook. Then the housekeeping: **no class the next two Wednesdays** (winter break 12-24 → 01-03); **Wed 2027-01-06 is the last session** — the EoT portfolio and the **A5 sketchbook** are both due that day; the portfolio spec goes home today.
 
 ## Assessment
 
 **A4 — final poster + reflection**, sat and submitted in class. Marking focus: **hierarchy, typography, message, audience**. Returned with feedback within five working days.
 
-If your class is following the printmaking route, this session is instead the carve-ink-print double and **A4 is the final linocut** — same date, same notice, its own focus (see the [[classes/pre-a-level-art-design/lesson-plans/pal-s1-u4-printmaking-variant|variant]]). Your teacher will confirm which route applies in class. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+If your class is taking the printmaking route, this session is instead a carve-ink-print double and **A4 is the final linocut** — same date, its own focus (see the [[classes/pre-a-level-art-design/lesson-plans/pal-s1-u4-printmaking-variant|variant]]). Your teacher will confirm which route applies in class.
+
+Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].

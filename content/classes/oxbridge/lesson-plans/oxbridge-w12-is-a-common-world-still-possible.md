@@ -6,7 +6,7 @@ related:
   - "[[classes/oxbridge/lesson-plans/oxbridge-w11-whose-agreement-makes-a-thing-real]]"
   - "[[classes/oxbridge/lesson-plans/oxbridge-w13-who-gets-to-show-us-the-world]]"
   - "[[entities/irmgard-emmelhainz]]"
-modified: 2026-07-25
+modified: 2026-07-26
 ---
 # Oxbridge W12: Is a Common World Still Possible?
 
@@ -22,6 +22,14 @@ modified: 2026-07-25
 | Prepare | The **angle sheet**: one central question, eight angle questions. Pick one and bring a position |
 | Leads to | Who gets to show us the world, and who has to be seen? |
 
+## Objectives
+
+By the end of this lesson, you can:
+
+1. Say what follows if each person is served a different version of the world
+2. Use Emmelhainz to ask whether a shared world would have to be built without representation
+3. Argue for or against the possibility of a common world, and name the cost of your answer
+
 ## Preparation
 
 There is one central question the whole discussion builds toward, and eight smaller questions beneath it approaching the same problem from different directions. Pick one angle. You do not need a final answer, just a position you are willing to defend and have challenged.
@@ -34,23 +42,35 @@ Two minutes. Then: **is that a difference of taste or a difference of world?**
 
 ## Movement 1 · elicit (10 minutes)
 
+**Questions.**
+
 - What is the last thing you can be **certain** everyone in this room saw?
 - Is a shared world a shared set of facts, a shared set of images, or a shared set of problems?
 
+| You might say | Consider |
+|---|---|
+| "We all live in the same physical world, so there is no problem" | Does that shared physical world help you agree about **anything you actually disagree about**? |
+| "It has always been like this, people always had different information" | Is a difference of degree becoming a difference of kind — **and how would you tell**? |
+
 ## Movement 2 · complicate (15 minutes) — student-led
 
-You present your chosen angle, one at a time, **each answering a single question from the room before the next person speaks.** The angles are clustered on the board as they arrive.
+You present your chosen angles, one at a time, **each answering a single question from the room before the next speaks.** The angles are clustered on the board as they arrive.
 
-Questions running through the presentations:
+**Questions to run through the presentations.**
 
 - Emmelhainz asks whether we can share a world **beyond** representation. What would that even be? **Give one example of something shared that is not represented.**
 - Is the problem too many representations, or the fact that representation was always the wrong medium for sharing a world?
 - If a common world has to be **made** rather than found, who is making it now?
 - Is agreeing to disagree a shared world, or the end of one?
 
+| You might say | Consider |
+|---|---|
+| "Shared experience, not shared images: eating together, working together" | **Does that scale beyond a room?** |
+| "We should just fix the algorithms" | Fix them **toward what**? Someone chooses the target, which returns us to W11 |
+
 ## Movement 3 · commit (10 minutes)
 
-Is a common world still possible? If yes, **name the ground it stands on**. If no, say what replaces it.
+**Question.** Is a common world still possible? If yes, **name the ground it stands on**. If no, say what replaces it.
 
 ## Closing question (5 minutes)
 

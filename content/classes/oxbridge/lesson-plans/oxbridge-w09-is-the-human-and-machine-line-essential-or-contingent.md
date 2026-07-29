@@ -9,7 +9,7 @@ related:
   - "[[entities/henri-bergson]]"
   - "[[entities/sigmund-freud]]"
   - "[[concepts/situated-knowledge]]"
-modified: 2026-07-25
+modified: 2026-07-26
 ---
 # Oxbridge W09: Is the Human and Machine Line Essential or Contingent?
 
@@ -22,44 +22,49 @@ modified: 2026-07-25
 | Core question | When you say a machine cannot do something, are you describing what a mind necessarily is, or what technology currently happens to be? |
 | Duration | 45 minutes, [[classes/oxbridge/oxbridge-session-structure-template\|standard template]] |
 | Reading | [[entities/tobias-rees\|Rees]], Noema — with three guiding questions sent in advance |
+| Carried through | Human memory is repainted every time it is used. Machine memory is a record that can be loaded or deleted. Is that a difference in kind? |
 
-## Preparation
+## Objectives
 
-Read Rees in Noema. Three questions are sent alongside it:
+By the end of this lesson, you can:
+
+1. Tell the difference between describing what a mind necessarily is and describing what technology currently happens to be
+2. Use Rees to locate where the line has already moved
+3. Argue whether repainted human memory and loadable machine memory differ in kind or in degree
+
+## Before class
+
+Read Rees in Noema, and prepare answers to three questions:
 
 1. What concept does Rees think AI breaks?
 2. Is his claim about machines or about us?
 3. **Where does his argument go too far?**
 
-The third question licenses disagreement in advance, so a difficult text does not become an authority.
-
 ## Opening prompt (5 minutes)
 
 > Write down one thing you can do that a machine cannot.
 
-Two minutes, silent. Responses are collected on the board without comment.
-
-> **This list is the entire session.**
+Two minutes, silent. Answers are collected on the board.
 
 ## Movement 1 · elicit (10 minutes)
 
-You work down the list. For each item, the same two questions:
+Work down the list. For each item, two questions:
 
 - **What exactly would a machine have to do for you to withdraw this item?**
 - Has any item on this list been withdrawn in the last ten years?
 
-| You say | Push |
+| If you say | Consider |
 |---|---|
 | "Feel" | What would count as evidence of feeling **in anything, including another person**? |
 | "Understand rather than predict" | Describe a test that separates them. If you cannot, is the distinction doing work? |
-| "Have a body" | Connects to W08. Robots have bodies — is the objection about bodies or about **being alive**? |
+| "Have a body" | This connects to W08. Robots have bodies — is the objection about bodies or about **being alive**? |
 | "Create something new" | What would count as new? Is any human creation not a recombination? |
 
 ## Movement 2 · complicate (15 minutes)
 
 ### Rees
 
-Three lines, used live rather than all at once:
+Three lines:
 
 > AI defies many of the most fundamental, most taken-for-granted concepts that have defined the modern period.
 
@@ -86,10 +91,10 @@ Rees points toward the claim that the interior self, the sense of having an inne
 
 **Question.** Is the human and machine distinction essential or contingent? One sentence.
 
-Both sides are pushed:
+Both sides get pushed:
 
-- If you take the essentialist side, you must **name the property**.
-- If you take the contingentist side, you must say whether *any* distinction could ever be essential on your view, or whether you have made the word meaningless.
+- If you argue it is essential, you must **name the property**.
+- If you argue it is contingent, you must say whether *any* distinction could ever be essential on your view, or whether you have made the word meaningless.
 
 ## Closing question (5 minutes)
 

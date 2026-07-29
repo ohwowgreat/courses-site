@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-07-the-15-hour-supervised-test]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-09-board-week-handover-and-records]]"
-modified: 2026-07-24
+modified: 2026-07-26
 ---
 # S4 Lesson 08: Assembly and A4 — the Submission Package
 
@@ -23,11 +23,19 @@ modified: 2026-07-24
 | Graded | **CS7** Thu 2028-04-20 (submission checklist and reflection) · **A4** Fri 2028-04-21 (AO1–AO4) — the package; **the piece itself is externally marked** |
 | Homework | ≤30 min: the submission checklist — every item present, ordered and labeled |
 
-These dates may shift once the school publishes the calendar for this period.
+These dates may shift when the school publishes the calendar for this period.
+
+## Objectives
+
+By the end of this lesson, you can:
+
+1. Photograph the final piece as the version the examiner sees
+2. Assemble the package exactly as the Cambridge specification orders it
+3. Pass supervised QC line by line and sit A4 on the packaging and completeness
 
 ## Goal
 
-Turn your test piece into a submission. You photograph the final piece as **the version the examiner sees**, assemble the package **exactly as the specification orders it**, and check it line by line under supervision. Friday is **A4** — the submission package as the **internal grade layer**. Cambridge marks your final C2 piece externally, so A4 grades the packaging and completeness, not the artwork twice.
+Turn the test piece into a submission. You photograph the final piece as **the version the examiner sees**, assemble the package **exactly as the specification orders it**, and check it line by line under supervision. Friday is **A4** — the submission package as the **internal grade layer**. The final C2 piece itself is marked externally by Cambridge, so A4 grades the packaging and completeness, not the artwork twice.
 
 
 <figure class="plate">
@@ -45,6 +53,6 @@ Turn your test piece into a submission. You photograph the final piece as **the 
 
 ## Key content: the package is graded; Cambridge marks the piece
 
-- **A4 is the internal grade layer** — the submission package's completeness and order; your final piece is externally marked by Cambridge.
+- **A4 is the internal grade layer** — the submission package's completeness and order; the final piece is externally marked by Cambridge.
 - The package matches the specification **exactly** — sequence, labels and limits, because a package that breaks the specification loses marks the artwork earned.
 - Board handover — the checklist covering C1, C2 and C3 together — follows in [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-09-board-week-handover-and-records|L09]].

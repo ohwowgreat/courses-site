@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s2-unit-4-development]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-10-resolving-composition-1]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-12-critique-and-targeted-tests]]"
-modified: 2026-07-23
+modified: 2026-07-26
 ---
 # S2 Lesson 11: Composition 2 and Paper Drafts
 
@@ -22,11 +22,13 @@ modified: 2026-07-23
 | Graded | **CS7** (research paper section drafts) Fri 2027-05-14 — written annotation. **A3** (development + paper draft 1, AO3) sits Fri 2027-05-28 |
 | Homework | ≤30 min: annotate toward next week's critique; bring both compositions ready to compare |
 
-Dates are provisional and may shift when the school publishes its calendar for this period.
+## Objectives
 
-## Goal
+By the end of this lesson, you can:
 
-This week you give the rejected alternative a fair trial. Composition 2 is the idea you set aside when you chose composition 1 — build it with **equal effort**, not as a token second, so next week's comparison is honest. The research paper also moves from outline to prose: you draft the sections against the structure you populated, so the writing keeps pace with the making rather than piling up at the end.
+1. Build the set-aside alternative with equal effort, so the comparison is honest
+2. Resolve composition 2 to the same standard as the first
+3. Draft research paper sections against the populated outline
 
 
 <figure class="plate">
@@ -34,14 +36,18 @@ This week you give the rejected alternative a fair trial. Composition 2 is the i
   <figcaption>Edwaert Collier, <em>Vanitas Still Life</em>, 1662</figcaption>
 </figure>
 
+## Goal
+
+This week you give the rejected alternative a fair trial. Composition 2 is the idea you set aside when you chose composition 1 — built with **equal effort**, not as a token second, so next week's comparison is honest. The research paper also moves from outline to prose: you draft the sections against the structure you populated, so the writing keeps pace with the making rather than piling up at the end.
+
 ## How it runs
 
 - **Mon 05-10 — compose composition 2.** Take the alternative you rejected when you chose composition 1 and compose it properly. A second composition built to fail proves nothing; this one gets a real chance.
-- **Tue 05-11 — build composition 2, day 1.** Give the second idea the same commitment and the same two-day build you gave the first.
+- **Tue 05-11 — build composition 2, day 1.** Equal effort for the second idea: the same commitment, the same two-day build you gave the first.
 - **Wed 05-12 — build composition 2, day 2.** Carry it to the same depth. Under-build it and the comparison is rigged — the development reads as a foregone conclusion.
 - **Thu 05-13 — resolve composition 2.** Bring it to the same resolved standard as composition 1. **A fair comparison needs two finished things**, not one finished and one sketched.
 - **Fri 05-14 — research paper sections drafted + CS7.** Draft the paper sections against your outline — artist context and argument turned into prose. **CS7** collects the section drafts: integrated writing, kept in step with the work.
 
 ## Assessment
 
-**CS7** (research paper section drafts) is due **Fri 2027-05-14**, a written annotation marked on whether the sections are *real prose built from your own material*, integrated with the visual work rather than detached — see the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. With both compositions resolved, next week is the critique in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-12-critique-and-targeted-tests|L12]]: the two set against your intention, targeted tests on what is still unresolved, and the final direction chosen. The third attainment, **A3** (development + research paper draft 1, AO3), sits **Fri 2027-05-28**.
+**CS7** (research paper section drafts) is due **Fri 2027-05-14**, a written annotation marked on whether the sections are *real prose built from your own material*, integrated with the visual work rather than detached — see the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. With both compositions now resolved, next week is the critique in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-12-critique-and-targeted-tests|L12]]: the two set against your intention, targeted tests on what is still unresolved, and the final direction chosen. **A3** (development + research paper draft 1, AO3) sits **Fri 2027-05-28**.

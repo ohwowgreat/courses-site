@@ -9,7 +9,7 @@ related:
   - "[[concepts/the-viewing-protocol]]"
   - "[[concepts/process-evidence-and-reflection]]"
   - "[[entities/roland-barthes]]"
-modified: 2026-07-22
+modified: 2026-07-26
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/wanderer.jpg" alt="Caspar David Friedrich, Wanderer Above the Sea of Fog, 1818 — who is he? what does he see? the enigma code at work" loading="lazy" />
@@ -34,21 +34,32 @@ modified: 2026-07-22
 | Feeds | A2 |
 | Homework | Blog completion: posts 1–7 to standard by Mon 10-26 |
 
+## What you will be able to do
+
+By the end of this lesson you can:
+
+1. Identify enigma and action codes in a text and explain what each withholds or promises
+2. Use a fixed reading order on an unseen text and say what the order is
+3. Write a PEEM paragraph where the evidence carries the point
+4. Complete a CS5 audit that names specific fixable gaps, and fix your own before Monday
+
 ## Overview
 
-Five days that turn analytical instinct into analytical **method**. Barthes adds one more instrument — what a text withholds and promises. The systematic reading order and the PEEM paragraph give you the discipline. Wednesday's double is the hinge: every blog is audited by a peer against the same checklist A2 will be marked with, three teaching days before the deadline, while there is still time to act on what the audit finds.
+Five days that turn analytical instinct into analytical **method**, built around the audit that makes A2 safe. Barthes adds one more instrument — what a text withholds and promises; the systematic reading order and the PEEM paragraph give you the discipline. Wednesday's double is the hinge: your blog is audited by a peer against the same checklist A2 will be marked with, three teaching days before the deadline, while there is still time to act on what the audit finds.
+
+Dates for this period may shift when the school publishes its calendar.
 
 ## How it runs
 
 ### D1 — Fri 10-16: Barthes — the question and the promise
 
-- **The instrument (15 min)** — Barthes's **enigma code** (the question a text plants and refuses to answer yet) and **action code** (the promise that something will happen, and soon). A figure on a rock, back turned: *who is he? what does he see?* — that lean toward the screen is the enigma code working.
+- **The instrument (15 min)** — Barthes's **enigma code** (the question a text plants and refuses to answer yet) and **action code** (the promise that something will happen, and soon). A figure on a rock, back turned: *who is he? what does he see?* — that lean toward the image is the enigma code working.
 - **On a cold open (25 min)** — one TV cold open screened twice: first pass, list every question the text plants; second, every promise it makes. Openings are engineered to owe you answers.
 - **Close (5 min)** — theory card: Barthes (anchorage, myth-adjacent connotation, now enigma; one theorist, many tools). A1 scripts return this weekend with full margin review.
 
 ### D2 — Mon 10-19: the reading order
 
-- **A1 margins (10 min)** — scripts back; two minutes silent reading of margin notes, then one written action each. The commonest gap is coverage: whole code families left unvisited.
+- **A1 margins (10 min)** — scripts back; two minutes silent reading of margin notes, then one written action each. The commonest gap is coverage: whole code families unvisited.
 - **The order modeled (15 min)** — the fix is procedural, not talent: the **systematic reading order** — same order, every extract, every time (framing → camera → light → mise-en-scène → sound → edit → narrative codes) — modeled once on screen, out loud.
 - **Silent run (15 min)** — a new still, the order run silently, notes in order, no wandering. The discipline *is* the exercise.
 - **Close (5 min)** — copy the order onto your personal code checklist.
@@ -56,12 +67,12 @@ Five days that turn analytical instinct into analytical **method**. Barthes adds
 ### D3 — Tue 10-20: PEEM
 
 - **The anatomy (10 min)** — **P**oint, **E**vidence, **E**ffect, **M**eaning — the paragraph that proves instead of asserts. An anonymized assertive paragraph from A1 on screen.
-- **Rebuild (25 min)** — pairs rebuild it: claim kept, evidence pinned to a signifier, effect on the viewer stated, meaning tied to the concept. Then each of you rebuilds one of your own A1 paragraphs the same way.
+- **Rebuild (25 min)** — pairs rebuild it: claim kept, evidence pinned to a signifier, effect on the viewer stated, meaning tied to the concept. Then rebuild one of your own A1 paragraphs the same way.
 - **Close (10 min)** — the pairing-sentence drill (WS 4.5 pattern): one sentence fusing technique + content, five times, speed over polish.
 
 ### D4 — Wed 10-21 (double): CS5 — the audit
 
-- **The checklist (10 min)** — the mid-point checklist on the board, post by post: brief and group; research; audience profile; pitch; planning suite; production log; early evidence — every post dated, contributions labeled, no gaps. It mirrors the A2 register entry exactly: **the audit is A2's marking preview.**
+- **The checklist (10 min)** — the mid-point checklist, post by post: brief and group; research; audience profile; pitch; planning suite; production log; early evidence — every post dated, contributions labeled, no gaps. It mirrors the A2 register entry exactly: **the audit is A2's marking preview.** The final checklist will be confirmed in class.
 - **Paired audit (45 min)** — blogs swapped, audited post by post, protocol **describe → question → suggest**; write findings as *actions*, not comments ("post 3 has no audience data — add the survey screenshot" beats "more detail").
 
 <figure class="plate">

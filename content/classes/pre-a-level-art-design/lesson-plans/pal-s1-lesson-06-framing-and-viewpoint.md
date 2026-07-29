@@ -8,7 +8,7 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-07-light-shadow-and-the-series-theme]]"
-modified: 2026-07-21
+modified: 2026-07-26
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/the-great-wave.jpg" alt="Gustave Le Gray, The Great Wave, Sète, 1857" loading="lazy" />
@@ -46,17 +46,25 @@ modified: 2026-07-21
 </figure>
 </div>
 
+## Objectives
+
+By the end of this lesson, you can:
+
+1. Explain that the decisions happen before the shutter: where you stood, what is in the frame, what was left out
+2. Shoot one subject from five viewpoints and select three with written reasons
+3. Apply the rule of thirds, and say when breaking it was deliberate
+
 ## Goal
 
-The unit's motto: **"shoot many, keep few, know why."** You arrive with twenty photographs of one subject. This session shows you that the interesting decisions happen *before* the shutter — where you stood, what you put in the frame, what you left out — and that choosing three from twenty is a skill with reasons.
+The unit's motto is **"shoot many, keep few, know why."** You arrive with twenty photographs of one subject. The interesting decisions happen *before* the shutter — where you stood, what you put in the frame, what you left out — and choosing three from twenty is a skill with reasons, not a vibe.
 
 ## How it runs
 
-- **Warm-up (10 min)** — cameras out — **any camera counts: phone, compact, DSLR** — and the framing grid goes **on** (grid overlay on phones, viewfinder grid on cameras; your standing habit for this unit). Put the vocabulary list into your sketchbook — terms 1–13 (elements, principles, composition); a two-minute match game: term to photo on screen.
-- **HW1 harvest (20 min)** — open your twenty photos. Choose your **best three and your worst one**, then explain both choices to a partner with the frames: "I kept this because…" / "This one fails because…". Selection is the unit's core skill.
-- **Teach (15 min)** — framing and viewpoint, from the *Seeing Photographs* exemplars: **rule of thirds**, balance (symmetrical vs asymmetrical), horizon placement and tilt, **vantage point**, figure–ground. Each concept is one image and one question ("what did the photographer decide here?").
-- **Viewpoint circuit (30 min)** — one subject per pair, five stations: **eye level · high · low · close · far-with-context**. Minimum fifteen frames each. The subject never moves; only you do — viewpoint alone changes the picture's meaning.
-- **Close (15 min)** — select three from the circuit, post to MB with a one-line reason each; add thumbnail sketches or printed strips of the selects with notes to your sketchbook. Homework stated.
+- **Warm-up (10 min)** — cameras out: **any camera counts — phone, compact, DSLR** — and turn the framing grid **on** (grid overlay on phones, viewfinder grid on cameras; this is a standing habit for the unit). Copy the vocabulary list into your sketchbook — terms 1–13 (elements, principles, composition). Two-minute match game: term to photo on screen.
+- **HW1 harvest (20 min)** — open your twenty break photos. Choose your **best three and your worst one**, then explain both choices to a partner with the frames: "I kept this because…" / "This one fails because…". Selection is the unit's core skill.
+- **Teach (15 min)** — framing and viewpoint from the *Seeing Photographs* exemplars: **rule of thirds**, balance (symmetrical vs asymmetrical), horizon placement and tilt, **vantage point**, figure–ground. Each concept is one image and one question ("what did the photographer decide here?").
+- **Viewpoint circuit (30 min)** — one subject per pair, five stations: **eye level · high · low · close · far-with-context**. Minimum fifteen frames each. The subject never moves; only the photographer does — viewpoint alone changes the picture's meaning.
+- **Close (15 min)** — select three from the circuit, post to MB with a one-line reason each; add thumbnail sketches or printed strips of your selects with notes to your sketchbook. Homework stated.
 
 ## Assessment
 

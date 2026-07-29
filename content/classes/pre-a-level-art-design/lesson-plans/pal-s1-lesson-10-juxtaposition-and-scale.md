@@ -8,7 +8,7 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-09-a2-the-photographic-series]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-11-layering-text-and-image]]"
-modified: 2026-07-21
+modified: 2026-07-26
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/guitar-gas-jet.jpg" alt="Pablo Picasso, Guitar, Gas-Jet and Bottle, 1913" loading="lazy" />
@@ -30,13 +30,21 @@ modified: 2026-07-21
 | Feeds | The experiment set that CS3 checks (W13) starts today |
 | Homework | Collect raw material — old magazines, printed photos (including your own U2 frames), packaging, tickets; ≥20 usable images by next week; MB posting |
 
+## Objectives
+
+By the end of this lesson, you can:
+
+1. Say what juxtaposition does: two images together say a third thing
+2. Use the wrong scale on purpose and say what it changes
+3. Make two fast studies, one of juxtaposition and one of scale, and name the meaning each produces
+
 ## Goal
 
-In Unit 2 you chose images; now you cut them apart and make them argue. The unit's spine: **combine · meaning** — a collage is not decoration, it is a sentence built from stolen words. Today establishes the two cheapest tools for meaning: **juxtaposition** (two things that don't belong together, together) and **scale** (the wrong size, on purpose).
+In Unit 2 you chose images; now you cut them apart and make them argue. The unit's spine is **combine · meaning** — a collage is not decoration, it is a sentence built from stolen words. Today sets up the two cheapest tools for meaning: **juxtaposition** (two things that don't belong together, together) and **scale** (the wrong size, on purpose).
 
 ## How it runs
 
-- **Warm-up (10 min)** — the word itself: *coller*, "to glue." Write four terms in your sketchbook — **collage** (glued combination of found/made images), **papier collé** (glued paper shapes), **photomontage** (collage made from photographs), **assemblage** (collage gone 3D).
+- **Warm-up (10 min)** — the word itself: *coller*, "to glue." Four terms, written in your sketchbook: **collage** (glued combination of found/made images), **papier collé** (glued paper shapes), **photomontage** (collage made from photographs), **assemblage** (collage gone 3D).
 
 <figure class="plate">
   <img src="../../../static/img/kahnweiler.jpg" alt="Pablo Picasso, Portrait of Daniel-Henry Kahnweiler, 1910" loading="lazy" />
@@ -44,9 +52,9 @@ In Unit 2 you chose images; now you cut them apart and make them argue. The unit
 </figure>
 
 - **The lecture (20 min)** — a brisk arc: Picasso and Braque glue newspaper into paintings (1912) → **Hannah Höch** cuts up Weimar Germany (Dada photomontage) → Matisse cuts pure color → Moholy-Nagy and **Rodchenko** build photomontage posters → contemporary digital collage. One question per stop: *what did gluing let them say that painting couldn't?*
-- **The two tools (10 min)** — juxtaposition: the *Picasso-and-Höch* diptych side by side — same era, opposite temperaments. Scale: a teacup taller than a building means something; a person smaller than a shoe means something else. The rule: **a collage decision is a meaning decision.**
-- **Studio: first cuts (35 min)** — two fast A5 studies from the shared material bin, using scissors only today: (1) a **juxtaposition study** — two images that have no business together, one new meaning; (2) a **scale study** — one element deliberately the wrong size. Glue only after a dry-fit. Title each with one line: "this says …"
-- **Close (15 min)** — table walk-through: a partner names the *third thing* your two images say. If they can't, the juxtaposition is decoration, not meaning yet. Studies go into the sketchbook, then the homework brief (the material harvest).
+- **Teach: the two tools (10 min)** — juxtaposition: the *Picasso-and-Höch* diptych side by side — same era, opposite temperaments. Scale: a teacup taller than a building means something; a person smaller than a shoe means something else. The rule: **a collage decision is a meaning decision.**
+- **Studio: first cuts (35 min)** — two fast A5 studies from the shared material bin, working with scissors only today: (1) a **juxtaposition study** — two images that have no business together, one new meaning; (2) a **scale study** — one element deliberately the wrong size. Glue only after a dry-fit. Title each with one line: "this says …"
+- **Close (15 min)** — table walk-through: your partner names the *third thing* your two images say — if they can't, the juxtaposition is decoration, not meaning yet. Studies into the sketchbook; homework brief (the material harvest).
 
 ## Materials and safety
 

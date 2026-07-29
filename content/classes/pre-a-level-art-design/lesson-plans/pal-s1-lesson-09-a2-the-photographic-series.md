@@ -7,7 +7,7 @@ related:
   - "[[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan]]"
   - "[[classes/pre-a-level-art-design/assessments/pal-s1-assessments]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-08-the-theme-shoot-and-the-contact-sheet-edit]]"
-modified: 2026-07-21
+modified: 2026-07-26
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/atget-rue-moliere.jpg" alt="Eugène Atget, 108 rue Molière, 1908" loading="lazy" />
@@ -23,15 +23,23 @@ modified: 2026-07-21
 | | |
 |---|---|
 | Session | W10, one Wednesday double (~90 min) — Unit 2 closes |
-| Dates | Wed 2026-11-04 |
-| Focus | **A2 sat**: select, sequence, title, and submit your series with its reflection |
-| Deliverable | Your final 6–8-image series + written reflection, on MB by close; process trail in your sketchbook |
+| Date | Wed 2026-11-04 |
+| Focus | **You sit A2**: select, sequence, title, and submit your series with its reflection |
+| Deliverable | Your final 6–8-image series + written reflection, on MB by the close of class; your process trail in the sketchbook |
 | Feeds | A2 is the semester's second attainment; your contact sheet and rejects become sketchbook process evidence for SB2/A5 |
 | Homework | None new — weekly MB sketchbook posting continues; U3 Collage opens next week |
 
+## Objectives
+
+By the end of this lesson, you can:
+
+1. Select and sequence 6–8 images so that removing any one costs the series something
+2. Reject an off-theme frame even when it is the prettiest one
+3. Title the series and write a reflection that accounts for your selection
+
 ## Goal
 
-You make A2 in this room, from work you have already done — the double is selection, sequence, and words, not new shooting. Test your series this way: take any one image away — does the group lose something? Add your prettiest off-theme frame — does the group get worse? If you can answer both, you understand what you made.
+You make A2 in this room, from work you have already done — the double is selection, sequence, and words, not new shooting. The test of a series: take any one image away — does the group lose something? Add your prettiest off-theme frame — does the group get worse? If you can answer both, you understand what you made.
 
 
 <div class="plate-row">
@@ -51,8 +59,8 @@ You make A2 in this room, from work you have already done — the double is sele
 
 ## How it runs
 
-- **Set-up (5 min)** — criteria on the board: **framing · viewpoint · light · series thinking.** Have all your frames, contact sheet, and edits open. From here it is your own pictures and your own reasons.
-- **Selection studio (30 min)** — go from candidates to your final **6–8**. Make two passes: the **kill-your-darlings pass** (your strongest image that doesn't serve the theme goes into the sketchbook, with a note, not the series) and the **weakest-link pass** (if an image needed defending for two sentences, replace or cut it).
+- **Set-up (5 min)** — the criteria are on the board: **framing · viewpoint · light · series thinking.** Have all your frames, contact sheet, and edits open. From here it is your own pictures and your own reasons.
+- **Selection studio (30 min)** — from your candidates to the final **6–8**. Two forced passes: the **kill-your-darlings pass** (your strongest image that doesn't serve the theme goes into the sketchbook, with a note, not the series) and the **weakest-link pass** (if one image needed defending for two sentences, replace or cut it).
 - **Sequencing (20 min)** — order is meaning: choose an **opener** (invites), a **development** (varies), a **closer** (lands). Lay out two different orders side by side — gallery view or prints on the table — and keep the one that reads better aloud. Title the series; a title is a claim, not a label ("*Doors of Building B*" < "*Nobody Uses the Front Door*").
 
 <figure class="plate">

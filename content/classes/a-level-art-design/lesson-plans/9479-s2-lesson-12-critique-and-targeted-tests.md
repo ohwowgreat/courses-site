@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s2-unit-4-development]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-11-composition-2-and-paper-drafts]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-13-evaluation-draft-1-and-a3]]"
-modified: 2026-07-23
+modified: 2026-07-26
 ---
 # S2 Lesson 12: Critique and Targeted Tests
 
@@ -18,13 +18,21 @@ modified: 2026-07-23
 | Sessions | 5 days (S13) |
 | Dates | Mon 2027-05-17 → Fri 2027-05-21 |
 | AO focus | AO3 Develop |
-| Deliverable | Both compositions critiqued against the intention; the critique acted on; targeted tests on what is unresolved; the final direction chosen with the rejection written out |
+| Deliverable | Both compositions critiqued against your intention; the critique acted on; targeted tests on what is unresolved; the final direction chosen with the rejection written out |
 | Graded | **CS8** (targeted tests + critique response) Fri 2027-05-21 — sketchbook. **A3** (development + paper draft 1, AO3) sits Fri 2027-05-28 |
 | Homework | ≤30 min: write evaluation notes toward A3 and consolidate the paper draft, ahead of [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-13-evaluation-draft-1-and-a3\|L13]] |
 
+## Objectives
+
+By the end of this lesson you can:
+
+1. Critique both compositions against the intention rather than against effort
+2. Run targeted tests on only what is still unresolved
+3. Choose the final direction and write out the rejection as development in its own right
+
 ## Goal
 
-With two resolved compositions in front of you, this week you decide which one becomes the mid-point piece — and why. You critique both against your intention (not your effort), act on what you hear, run targeted tests on only what is still unresolved, and choose the final direction with the rejection written out. Choosing is development: a reasoned "not this one" earns AO3 as much as the piece you keep.
+With two resolved compositions in front of you, this week decides which one becomes the mid-point piece — and why. You critique both against your intention (not your effort), act on what you hear, run targeted tests on only what is still unresolved, and choose the final direction with the rejection written out. Choosing is development: a reasoned "not this one" earns AO3 as much as the piece you keep.
 
 
 <figure class="plate">
@@ -44,4 +52,4 @@ With two resolved compositions in front of you, this week you decide which one b
 
 **CS8** (targeted tests + critique response) is due **Fri 2027-05-21**, a sketchbook task marked on whether you *acted* on the critique and tested the *right* things — see the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. The written rejection matters: a choice you can justify is AO3; a choice by default is not. Next week is **A3** — the development milestone plus research paper draft 1, the last session before the 14 days leading to A4 — marked against AO3 on **Fri 2027-05-28** in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-13-evaluation-draft-1-and-a3|L13]].
 
-These dates may shift when the school publishes the calendar for that period.
+These dates may shift when the school publishes the calendar for this period.

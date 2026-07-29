@@ -18,9 +18,11 @@ modified: 2026-07-25
 
 **Is a view from nowhere possible?**
 
+This question names the throughline of the whole course.
+
 ## What the session does
 
-Four questions. No reading, no new material. You hold the whole semester at once and turn its critique back on itself: if every framework hides its edges, what about the framework this course has built? Is "everything is a framework" itself a framework that hides its edges?
+Four questions. No reading, no new material. You turn the term's critique back on itself: if every framework hides its edges, what about the framework this course has built? Is "everything is a framework" itself a framework that hides its edges?
 
 ## Session
 
@@ -28,32 +30,31 @@ Four questions. No reading, no new material. You hold the whole semester at once
 
 ## Concepts
 
-[[concepts/view-from-nowhere|View from Nowhere]] is the unit's own concept. [[concepts/situated-knowledge|Situated Knowledge]] is the third option you need in question 1 — the way out when you are stuck between "science is neutral" and "everything is subjective."
+[[concepts/view-from-nowhere|View from Nowhere]] is the unit's own concept. [[concepts/situated-knowledge|Situated Knowledge]] is the third option in question 1, when you are stuck between "science is neutral" and "everything is subjective."
 
 ## Preparation
 
-No reading. Bring **the position you have changed your mind about** — the one preparation in the course that asks you to look back rather than forward, and the input the closing depends on. Think back over your notes and the group-chat thread from the term.
+No reading. Bring **the position you have changed your mind about** — the one preparation in the course that asks you to look back rather than forward. The closing depends on it.
 
 Nothing is written or collected ([[classes/oxbridge/assessments/oxbridge-writing-and-assessment|discussion only]]). The course ends on the question *Is a view from nowhere possible?* spoken.
 
-## The four questions
+## The three retrospective moves
 
-Each question reaches back into a different part of the course, which makes the session a synthesis rather than a review:
+Each of the four questions reaches back into a different part of the course, which makes the session a synthesis rather than a review:
 
 1. **Is an unframed view of anything even possible?** — the map, perspective, the body, machine cognition, the categories that decide who counts. Every framework in the term, in one list.
-2. **Does the human/machine line survive its own test?** — the W09 question, re-asked after W10 supplied the memory objection. This is structurally identical to the Plato question from week 4.
-3. **Whose agreement made this real?** — W11 and W13 in one: push until someone says *power* rather than *agreement*, then ask whether these are different things or the same thing described from two positions.
+2. **Does the human/machine line survive its own test?** — the W09 question, re-asked after W10 supplied the memory objection.
+3. **Whose agreement made this real?** — W11 and W13 combined: push until someone says *power* rather than *agreement*, then ask whether they are different things or the same thing described from two positions.
 4. **Is "everything is a framework" itself a framework?** — the hardest move, and the reason the session exists.
 
-## Notes
+## What to expect
 
-Question 4 is left open, not resolved.
+Question 4 stays open. The aim is to hold the paradox without either collapsing into relativism or fleeing back to naive realism. That capacity — holding a genuinely open question without needing to close it — is precisely what an Oxbridge interviewer is testing for.
 
-> [!note] Holding the question open
-> The aim is a room that can hold the paradox without either collapsing into relativism or fleeing back to naive realism. That capacity — holding a genuinely open question without needing to close it — is precisely what an Oxbridge interviewer is testing for.
+**The closing is inverted.** For the first time in fourteen weeks there is no question carried out of the room. Instead you answer one: *say one thing you now believe that you did not believe when the course began, and say what changed it.*
 
-The closing is inverted. For the first time in fourteen weeks you carry no question out of the room. Instead you answer one: *say one thing you now believe that you did not believe when the course began, and say what changed it.* This is why **movement** — the fourth of the four qualities the course names — is what the last session is built on.
+Because preparation asks you to look back, **movement** — one of the four qualities the course names — is the thing the last session is built on. Think back over your notes and the term's discussion.
 
 ## After the unit
 
-Mock interviews run in the following week if the timetable allows — twelve minutes per student, one question, no preparation. That week is not part of the fourteen. See [[classes/oxbridge/oxbridge-interview-preparation|Interview Preparation]] for the format.
+Mock interviews may run in the following week if the timetable allows — twelve minutes per student, one question, no preparation. That week is not part of the fourteen. See [[classes/oxbridge/oxbridge-interview-preparation|Interview Preparation]] for the format.

@@ -5,7 +5,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-12-photography-and-after]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-14-the-retrospective]]"
-modified: 2026-07-17
+modified: 2026-07-26
 ---
 # Lesson 13: The Artworld and the Brief
 
@@ -17,16 +17,25 @@ modified: 2026-07-17
 
 | | |
 |---|---|
+| Session codes | `U4·L18`–`U4·L20` |
 | Days | 3 |
 | Dates | Mon 2026-12-21 to Wed 2026-12-23 |
 | Deliverable | Winter break homework: the retrospective brief, plus LB8 |
 | Homework | Break homework: three works that changed how you see, with reasons; 3–4 hours across the break, set on day 3 |
 
-These dates are provisional and may shift when the school publishes the calendar for this period.
+These dates may shift when the school publishes the calendar for this period.
 
-## What this lesson covers
+## What you will be able to do
 
-Over three days you reach the end of the story the course has told since the caves: what makes something art when looking cannot tell you. Duchamp and Warhol arrive here. Day three sets the break homework, which is also the announcement of the retrospective. This is the last session before the break, so the notice covers the whole holiday.
+By the end of this lesson, you can:
+
+1. Say what makes something art when looking cannot settle it
+2. Follow the object out of the studio and into the institution, and name who decided
+3. Know which three works you will argue for in January, and why those three
+
+## Overview
+
+This is the end of the story the course has been telling since the caves: what makes something art when looking cannot tell you. Duchamp and Warhol are the focus. Day 3 sets the break homework, which is also the retrospective announcement. Wednesday 23 December is fifteen days before Thursday 7 January and the last session before the break, so the notice covers the whole holiday.
 
 
 <figure class="plate">
@@ -36,11 +45,11 @@ Over three days you reach the end of the story the course has told since the cav
 
 ## How it runs
 
-- **Day 1 · Mon 21 Dec** — Danto: the artworld and the end of art.
-- **Day 2 · Tue 22 Dec** — Warhol, Duchamp, and pluralism: following the object out of the studio and into the institution — who decided, and where. LB8 posted. End-of-Semester Activity today: expect a short session.
-- **Day 3 · Wed 23 Dec** — Retrospective announced (Thu 7 Jan, in class), then the break homework: three works, with reasons, 3–4 hours, not more.
+- **Day 1 · Mon 21 Dec · `U4·L18`** — Danto: the artworld and the end of art.
+- **Day 2 · Tue 22 Dec · `U4·L19`** — Warhol, Duchamp, and pluralism: follow the object out of the studio and into the institution — who decided, and where. LB8 posted. End-of-Semester Activity today: expect a short session.
+- **Day 3 · Wed 23 Dec · `U4·L20`** — The retrospective is announced (Thu 7 Jan, in class), then the break homework is set: three works, with reasons, 3–4 hours.
 
 ## Assessment
 
-- **LB8** — posted Tue 2026-12-22.
-- **Retrospective announced** Wed 2026-12-23 — 15 days' notice covering the holiday; the brief doubles as the break homework.
+- **LB8** — Tue 2026-12-22, posted on the Activity day.
+- **Retrospective announced** Wed 2026-12-23 — 15 days' notice covering the holiday; the brief is also the break homework.

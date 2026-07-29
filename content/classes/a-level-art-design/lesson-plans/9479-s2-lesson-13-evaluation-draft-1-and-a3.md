@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s2-unit-4-development]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-12-critique-and-targeted-tests]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-14-mid-point-piece-and-bibliography]]"
-modified: 2026-07-23
+modified: 2026-07-26
 ---
 # S2 Lesson 13: Evaluation, Draft 1 and A3
 
@@ -22,15 +22,23 @@ modified: 2026-07-23
 | Feeds | **A3 Fri 2027-05-28** — development milestone + research paper draft 1 (compositions 1+2, targeted tests, evaluation, Stage 6 page), marked against AO3 |
 | Homework | ≤30 min: after A3, act on the feedback toward the mid-point piece and begin integrating the bibliography, ahead of [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-14-mid-point-piece-and-bibliography\|L14]] |
 
-## Goal
+## What you will be able to do
 
-Unit 4 closes on the third attainment. You write the evaluation against your intention, assemble the Stage 6 page so the development reads as a trail of decisions, and complete research paper draft 1 by pulling your sections into one full draft — then repair what the full draft exposes. A3 marks development and draft 1 together, and it is the last taught session before the fortnight that builds the mid-point portfolio.
+By the end of this lesson, you can:
+
+1. Write the evaluation against your stated intention
+2. Assemble the Stage 6 page so your development reads as a trail of decisions
+3. Complete research paper draft 1 and repair what the full draft exposes, then sit A3
 
 
 <figure class="plate">
   <img src="../../../static/img/van-gogh-outskirts.jpg" alt="Vincent van Gogh, On the Outskirts of Paris, 1887" loading="lazy" />
   <figcaption>Vincent van Gogh, <em>On the Outskirts of Paris</em>, 1887</figcaption>
 </figure>
+
+## Overview
+
+Unit 4 closes on the third attainment. You write the evaluation against your intention, assemble the Stage 6 page so the development reads as a trail of decisions, and complete research paper draft 1 by pulling your sections into one full draft — then repair what the full draft exposes. A3 marks development and draft 1 together, and it is the last taught session before the two weeks that build the mid-point portfolio.
 
 ## How it runs
 
@@ -44,4 +52,4 @@ Unit 4 closes on the third attainment. You write the evaluation against your int
 
 You sit **A3** (development milestone + research paper draft 1) on **Fri 2027-05-28**, marked against AO3 with integration in view — see the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It gathers all of Unit 4: two resolved compositions, the targeted tests, the evaluation, the Stage 6 page, and the paper's first full draft. This is the last taught session before A4 — the next two weeks (Unit 5) build the mid-point portfolio in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-14-mid-point-piece-and-bibliography|L14]], and **A4** (mid-point portfolio, AO1–AO4) sits **Fri 2027-06-11**.
 
-These dates may shift when the school publishes the calendar for that period.
+These dates may shift when the school publishes the calendar for this period; any change will be confirmed in class.

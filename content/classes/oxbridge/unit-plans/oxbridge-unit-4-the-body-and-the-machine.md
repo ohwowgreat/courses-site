@@ -22,9 +22,9 @@ modified: 2026-07-25
 
 ## How the two sessions connect
 
-Both ask the same question: **is a boundary essential or contingent?** Week 8 asks whether the body is a reliable instrument or a framework like any other. Week 9 asks whether the line between human and machine is a real difference in kind or a description of where technology currently happens to stand.
+Both sessions ask the same question: **is a boundary essential or contingent?** Week 8 asks whether the body is a reliable instrument or a framework like any other. Week 9 asks whether the line between human and machine is a real difference in kind, or just a description of where technology currently stands.
 
-The connecting idea:
+The link between them:
 
 > What a body can do and what a machine can do turn out to be the same kind of question. Both are about mapping capacities, not testing essences.
 
@@ -43,7 +43,7 @@ You work through four cases, one at a time: **phantom limb, chronic pain without
 ## Sessions
 
 - [[classes/oxbridge/lesson-plans/oxbridge-w08-can-the-body-be-trusted|W08: Can the body be trusted?]] — describe being cold without the word cold and without a number. Four cases, then Spinoza.
-- [[classes/oxbridge/lesson-plans/oxbridge-w09-is-the-human-and-machine-line-essential-or-contingent|W09: Is the human and machine line essential or contingent?]] — the whole session is one list, which you write in the first two minutes.
+- [[classes/oxbridge/lesson-plans/oxbridge-w09-is-the-human-and-machine-line-essential-or-contingent|W09: Is the human and machine line essential or contingent?]] — the whole session is one list, written by you in the first two minutes.
 
 ## Concepts introduced
 
@@ -51,17 +51,10 @@ You work through four cases, one at a time: **phantom limb, chronic pain without
 
 ## Preparation
 
-For W08 you receive one quotation in advance — the only reading-free session that still arrives with something prepared. For W09 you receive the Rees essay with three guiding questions; the third ("where does his argument go too far?") invites disagreement before you open the text.
+For W08 you receive one quotation in advance. For W09 you receive the Rees essay with three guiding questions; the third ("where does his argument go too far?") invites disagreement before you open the text.
 
 Nothing is written or collected: the course is [[classes/oxbridge/assessments/oxbridge-writing-and-assessment|discussion only]].
 
-## Notes on the sessions
-
-- **W09 mirrors W04.** Both ask whether a difference is essential or just where we currently stand. The pairing returns a third time in [[classes/oxbridge/lesson-plans/oxbridge-w14-is-a-view-from-nowhere-possible|W14]]'s second question.
-- **W08 opens with the session in miniature** — describe being cold without using the word cold and without using a number. It is harder than it looks, and it puts the problem in the room before anyone has argued anything.
-- In W09, both sides are pushed: the essentialists must name the property; the contingentists must say whether *any* distinction could ever be essential on their view.
-- **Carsten Höller's laboratory of doubt** is an optional visual anchor for W08.
-
 ## Bridge to Unit 5
 
-The strongest surviving distinction is usually that human memory is sedimented and repainted while machine memory is a clean record. W09 closes on that as its carried question, which is why [[classes/oxbridge/unit-plans/oxbridge-unit-5-memory-and-forgetting|Unit 5]] takes it up as its own session.
+W09 closes on a carried question: human memory is sedimented and repainted while machine memory is a clean record. That question is taken up in [[classes/oxbridge/unit-plans/oxbridge-unit-5-memory-and-forgetting|Unit 5]].

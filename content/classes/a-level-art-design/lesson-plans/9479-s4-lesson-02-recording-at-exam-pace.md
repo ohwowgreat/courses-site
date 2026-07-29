@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-01-the-esa-question-locked]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-03-sustained-study-and-a1]]"
-modified: 2026-07-24
+modified: 2026-07-26
 ---
 # S4 Lesson 02: Recording at Exam Pace
 
@@ -19,15 +19,23 @@ modified: 2026-07-24
 | Sessions | 5 days (S2) |
 | Dates | Mon 2028-02-28 → Fri 2028-03-03 |
 | AO focus | AO1 Record |
-| Deliverable | State your intention on the question; generate and draw your own reference shot the same week; open a sustained study; build recording pages as the work happens |
-| Graded | **CS2** Fri 2028-03-03 (intention, thumbnails and shoot plan). No attainment mark this week |
+| Deliverable | Intention stated on the question; self-generated reference shot and drawn the same week; a sustained study opened; recording pages built as the work happens |
+| Graded | **CS2** on Fri 2028-03-03 (intention, thumbnails and shoot plan). No attainment mark this week |
 | Homework | ≤30 min (capped): annotate the shoot — what each frame gives the question |
 
 These dates may shift when the school publishes the calendar for this period.
 
+## What you will be able to do
+
+By the end of this lesson you can:
+
+1. State an intention on the locked question and plan the reference shoot in the same session
+2. Shoot and draw your own reference within the same week
+3. Build recording pages as the work happens, annotating every page back to the question
+
 ## Goal
 
-This week you record at exam pace under AO1. You state an intention on the locked question and plan the reference shoot in the **same session**; the reference is **self-generated**, shot and drawn within the same week; you open one observed study to be sustained, not restarted; and you build recording pages **as the work happens — there is no later**. Annotation ties every page back to the question.
+Recording, at exam pace, under AO1. You state an intention on the locked question and plan the reference shoot in the **same session**; your reference is **self-generated** and shot and drawn within the same week; you open one observed study to sustain, not restart; and you build the recording pages **as the work happens — there is no later**. Annotation ties every page back to the question.
 
 
 <figure class="plate">
@@ -37,14 +45,14 @@ This week you record at exam pace under AO1. You state an intention on the locke
 
 ## How it runs
 
-- **Mon 02-28 — intention, thumbnails and shoot plan.** State your intention and plan the shoot in the same session.
+- **Mon 02-28 — intention, thumbnails and shoot plan.** Reference you control: state your intention, plan the shoot in the same session.
 - **Tue–Wed 02-29/03-01 — studio: primary source shoot and first studies (2-day run).** Shot and drawn the **same week** — reference generated, not sourced.
-- **Thu 03-02 — sustained study opens.** Open it to be sustained across the unit, not restarted next session.
-- **Fri 03-03 — recording pages; CS2.** Built as the work happens. CS2 is the intention, thumbnails and shoot plan.
+- **Thu 03-02 — sustained study opens.** Open it to sustain across the unit, not restart next session.
+- **Fri 03-03 — recording pages; CS2.** Built as the work happens. CS2 covers the intention, thumbnails and shoot plan.
 
 ## Key content: exam pace, but the rules hold
 
 - ◆ All reference is self-generated — **"nothing found, nothing borrowed" does not relax under exam pressure**.
 - Build recording pages **as the work happens** — there is no later in an exam-paced unit.
 - Homework stays **capped at 30 minutes**.
-- You push the sustained study past comfortable next week — [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-03-sustained-study-and-a1|L03]].
+- You push the sustained study past comfortable next week — see [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-03-sustained-study-and-a1|L03]].

@@ -9,7 +9,7 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-16-a4-the-final-poster]]"
-modified: 2026-07-21
+modified: 2026-07-26
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/mucha-poster.jpg" alt="Alphonse Mucha, Calendar of Cherry Blossom, 1898" loading="lazy" />
@@ -25,13 +25,19 @@ modified: 2026-07-21
 | | |
 |---|---|
 | Session | W16, one Wednesday double (~90 min) — Unit 4 opens |
-| Date | Wed 2026-12-16 |
+| Dates | Wed 2026-12-16 |
 | Focus | What a poster must do: message, audience, hierarchy, type as voice; thumbnails for the final |
 | Deliverable | **CS4**: one annotated poster analysis + a four-thumbnail set with type studies, one circled with a reason |
-| Prepares you for | **A4**, which you sit next Wednesday, Wed 2026-12-23 |
-| Homework | Gather or make anything the circled thumbnail needs (images, lettering references, files); MB posting |
+| Feeds | A4 (you sit it next Wednesday, Wed 2026-12-23) |
+| Homework | Gather or make anything your circled thumbnail needs (images, lettering references, files); MB posting |
 
-The date above may shift when the school publishes the calendar for this period.
+## Objectives
+
+By the end of this lesson, you can:
+
+1. Ask a poster its four questions: what does it say, who is it for, what reads first, what does the type sound like
+2. Produce one annotated poster analysis (CS4)
+3. Design four thumbnails with type studies and circle one with a reason
 
 ## Goal
 
@@ -55,8 +61,8 @@ Every unit this semester made images that could wait to be understood. A poster 
 
 - **Studio 1: the analysis (20 min)** — CS4 part one: take one poster from the spread (printed exemplars + the classroom deck), annotate it against the four questions, and state the first/second/third read with arrows. Plain sentences beat design words.
 - **Studio 2: thumbnails and type (30 min)** — CS4 part two. The task: **a poster for an exhibition of your own work** — your A2 photo series or your A3 collage — for a real audience (this school, this hallway). Draw four thumbnails of the same poster with four different hierarchies (image-led, type-led, split, crowded-to-sparse); hand-letter the title word in two voices. **Circle one thumbnail, one line why.**
-- **Close (10 min)** — **CS4 collected** (analysis + thumbnails + type studies). A4 is announced today: the final poster, handmade or digital, made in class next Wednesday, marked on **hierarchy, typography, message, audience**. Bring what your thumbnail needs.
+- **Close (10 min)** — **CS4 collected** (analysis + thumbnails + type studies).
 
 ## Assessment
 
-**CS4 — thumbnail set + poster analysis** — is sat and collected in this double (focus: hierarchy and audience), one week before the sitting it rehearses. **A4** (Wed 2026-12-23) is announced today. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+**CS4 — thumbnail set + poster analysis** — is sat and collected in this double (focus: hierarchy and audience), one week ahead of the sitting it rehearses. **A4** — the final poster, handmade or digital, made in class next Wednesday (Wed 2026-12-23), marked on **hierarchy, typography, message, audience** — is announced today, with a week's notice. Bring what your thumbnail needs. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].

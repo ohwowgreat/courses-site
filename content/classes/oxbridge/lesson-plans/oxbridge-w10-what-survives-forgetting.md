@@ -7,7 +7,7 @@ related:
   - "[[classes/oxbridge/lesson-plans/oxbridge-w11-whose-agreement-makes-a-thing-real]]"
   - "[[entities/henri-bergson]]"
   - "[[entities/sigmund-freud]]"
-modified: 2026-07-25
+modified: 2026-07-26
 ---
 # Oxbridge W10: What Survives Forgetting?
 
@@ -21,7 +21,15 @@ modified: 2026-07-25
 | Duration | 45 minutes, [[classes/oxbridge/oxbridge-session-structure-template\|standard template]] |
 | Reading | none |
 | Prepare | Bring **one memory from before you were ten**, and be willing to describe it out loud |
-| Carried to next week | Money is real. Borders are real. Weekends are real. Who agreed? |
+| Carried out | Money is real. Borders are real. Weekends are real. Who agreed? |
+
+## Objectives
+
+By the end of this lesson, you can:
+
+1. Argue whether forgetting is a failure of memory or a function of it
+2. Use your own memory as evidence without turning the session into anecdote
+3. Say what survives when the record does not
 
 ## Opening prompt (5 minutes)
 
@@ -31,19 +39,15 @@ Two minutes, silent.
 
 ## Movement 1 · elicit (10 minutes)
 
-Discussion questions:
-
 - How many of you are describing the event, and how many are describing **a photograph, a story you were told, or a previous time you remembered it**?
-- Has anyone discovered that a memory they trusted was wrong?
-- If you say "I can see it clearly, so it must be real" — does clarity track accuracy anywhere else? **Are your clearest dreams your truest ones?**
+- Has anyone here discovered that a memory they trusted was wrong?
+- Does clarity track accuracy anywhere else? Are your clearest dreams your truest ones?
 
 ## Movement 2 · complicate (15 minutes)
 
 ### The painted sheet
 
 > Remembering is not retrieval from storage. It is repainting a surface, and the new paint covers the old. After twenty years of remembering, what you have is the last painting, made from the previous painting, **not the event**.
-
-Discussion questions:
 
 - If that is true, is a memory you have revisited often more reliable **or less**?
 - Is a memory you have never revisited preserved, or simply gone?
@@ -53,17 +57,17 @@ Discussion questions:
 
 Habit memory is performed by the body: you do not recall how to ride a bicycle, you do it. Pure memory survives whole, and attention filters it rather than losing it. On this account we forget nothing; we simply cannot attend to most of it.
 
-Discussion question: If nothing is lost and only access fails, does that make forgetting **less serious or more**?
+If nothing is lost and only access fails, does that make forgetting **less serious or more**?
 
 ### [[entities/sigmund-freud|Freud]]
 
 Forgetting is work. Things are pushed down, and they return in distorted forms: slips, dreams, repetitions.
 
-Discussion question: If forgetting is something you **do** rather than something that happens to you, are you responsible for what you forget?
+If forgetting is something you **do** rather than something that happens to you, are you responsible for what you forget?
 
 ## Movement 3 · commit (10 minutes)
 
-Question: Is forgetting a failure of memory or a function of it? Answer in one sentence.
+Is forgetting a failure of memory or a function of it? One sentence.
 
 Then the harder version, connecting back to W09:
 

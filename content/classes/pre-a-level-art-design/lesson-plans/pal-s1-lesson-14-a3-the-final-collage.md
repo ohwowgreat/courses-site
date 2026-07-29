@@ -7,7 +7,7 @@ related:
   - "[[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan]]"
   - "[[classes/pre-a-level-art-design/assessments/pal-s1-assessments]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-13-final-collage-production]]"
-modified: 2026-07-21
+modified: 2026-07-26
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/cahun-self-portrait.jpg" alt="Claude Cahun, Self-Portrait, 1920" loading="lazy" />
@@ -23,11 +23,21 @@ modified: 2026-07-21
 | | |
 |---|---|
 | Session | W15, one Wednesday double (~90 min) — Unit 3 closes |
-| Date | Wed 2026-12-09 |
+| Dates | Wed 2026-12-09 |
 | Focus | **A3 sat**: the final collage finished under assessment conditions, plus the written reflection |
 | Deliverable | The final collage + reflection, submitted at close; process trail (drafts, dry-fit photos, scraps) in the sketchbook |
-| Feeds | A3 is the semester's third attainment; U4 opens next week |
+| Feeds | A3 is the semester's third attainment; U4 opens next week with the A4 route decision |
 | Homework | None new — weekly MB posting continues; U4 Graphic Design / Printmaking opens Wed 12-16 |
+
+Dates may shift when the school publishes the calendar for this period.
+
+## What you will be able to do
+
+By the end of this lesson you can:
+
+1. Finish the top layer, the edges and the words under assessment conditions
+2. Remove any element that is only decoration — test it by covering it
+3. Write a reflection that points at decisions visible in your work
 
 ## Goal
 
@@ -36,10 +46,10 @@ The final layer goes down and the collage starts speaking for itself. Ask the te
 ## How it runs
 
 - **Set-up (5 min)** — work out, finishing lists out, criteria on the board: **juxtaposition · layering · composition · meaning.** From here: your board, your scraps, your reasons.
-- **Studio (55 min)** — the finishing list, in order: place and glue the speaker; set text last; resolve edges (every torn edge on purpose, every cut edge clean); sign the back with title and date. If you are working digitally, export your final and print or submit the file with the layered working version.
+- **Studio (55 min)** — the finishing list, in order: place and glue the speaker; set text last; resolve edges (every torn edge on purpose, every cut edge clean); sign the back with title and date. If you are working digitally, export your final and print or submit the file along with the layered working version.
 - **Reflection (15 min)** — one page, full sentences. Frames you can use: "My collage is about … " / "The juxtaposition of … and … says … " / "My layering decision that works best is … because … " / "I placed … at … so that … " / "If I made it again I would …."
-- **Submit and close (15 min)** — submit collage + reflection; put the process trail into your sketchbook: both drafts, the dry-fit photographs, and the best rejected scraps, annotated. Next Wednesday the course turns to communicating to an audience: graphic design and the poster, or the linocut route. The A4 route will be confirmed in class then.
+- **Submit and close (15 min)** — submit your collage + reflection; put the process trail into the sketchbook: both drafts, the dry-fit photographs, and the best rejected scraps, annotated. Next Wednesday the course turns to **communicating to an audience** — graphic design and the poster, or the linocut route — and the A4 route is announced then.
 
 ## Assessment
 
-**A3 — final collage + reflection**, sat and submitted in class. Marking focus: **juxtaposition, layering, composition, meaning** — meaning is judged on the work *and* the reasons in your reflection. Returned with feedback within five working days. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+**A3 — final collage + reflection**, sat and submitted in class. Marking focus: **juxtaposition, layering, composition, meaning** — meaning is judged on the work *and* the reflection's reasons. Returned with feedback within five working days. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].

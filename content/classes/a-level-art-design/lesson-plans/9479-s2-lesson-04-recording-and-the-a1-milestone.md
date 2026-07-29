@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s2-unit-2-recording-and-sustained-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-05-recording-pages-and-feedback]]"
-modified: 2026-07-23
+modified: 2026-07-26
 ---
 # S2 Lesson 04: Recording and the A1 Milestone
 
@@ -22,15 +22,25 @@ modified: 2026-07-23
 | Feeds | **A1 Fri 2027-03-19** — recording milestone (approved intention, Stage 1 pages, first sustained study, supporting recording), marked against AO1 |
 | Homework | ≤30 min: after A1, turn the banded feedback into three specific written actions, ahead of [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-05-recording-pages-and-feedback\|L05]] |
 
-## Goal
+These dates may shift if the school publishes a revised calendar for this period.
 
-Unit 2 opens the recording stage, and by Friday you sit A1 — the first attainment, marked against AO1. This week the intention and your first shoot become recording an examiner could read: a Stage 1 page that makes your thinking visible to a stranger, and one sustained study carried across two days rather than restarted. A1 is not a new task. It is everything recorded so far, looked at together against the AO1 criteria.
+## Objectives
+
+By the end of this lesson, you can:
+
+1. Compose a Stage 1 page that makes your thinking visible to a stranger
+2. Carry one sustained study across two days rather than restarting it
+3. Sit A1, understanding it as everything recorded so far looked at together against AO1
 
 
 <figure class="plate">
   <img src="../../../static/img/drawn-from-life.jpg" alt="Ilya Repin, Portrait of a Russian Peasant, 1871" loading="lazy" />
   <figcaption>Ilya Repin, <em>Portrait of a Russian Peasant</em>, 1871</figcaption>
 </figure>
+
+## Goal
+
+Unit 2 opens the recording stage, and by Friday you sit A1 — the first attainment, marked against AO1. This week everything you established since the lock — the intention and your first shoot — becomes recording an examiner could read: a Stage 1 page that makes your thinking visible to a stranger, and one sustained study carried across two days rather than restarted. A1 is not a new task. It is everything recorded so far, looked at together against the AO1 criteria.
 
 ## How it runs
 
@@ -43,5 +53,3 @@ Unit 2 opens the recording stage, and by Friday you sit A1 — the first attainm
 ## Assessment
 
 You sit **A1** (recording milestone — approved intention, Stage 1 pages, first sustained study, supporting recording) on **Fri 2027-03-19**, marked against AO1 with C3 specialist language in view — see the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. This is the recording layer of the investigation, so it is judged as recording: sources that are your own, a study genuinely sustained, and annotation that reads. The feedback becomes **three specific written actions**, which you consolidate next week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-05-recording-pages-and-feedback|L05]] (**CS3**, recording-pages build check, Fri 2027-03-26).
-
-These dates may shift when the school publishes the calendar for this period.

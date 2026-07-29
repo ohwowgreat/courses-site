@@ -8,7 +8,7 @@ related:
   - "[[classes/media-studies/9607-resource-library]]"
   - "[[concepts/representation]]"
   - "[[entities/stuart-hall]]"
-modified: 2026-07-22
+modified: 2026-07-26
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/kasebier-wild-west.jpg" alt="Gertrude Käsebier, American Indian Portrait, c. 1899 — a studio construction: who made the choices in this image, and for whom?" loading="lazy" />
@@ -33,18 +33,25 @@ modified: 2026-07-22
 | Feeds | A3 |
 | Homework | Production pickups identified by the audit |
 
-These dates may shift when the school publishes the calendar for this period; any change will be confirmed in class.
+## What you will be able to do
 
-## Goal
+By the end of this lesson you can:
 
-You learn representation theory and then apply it straight to your own work. The week opens with A2 going in and closes with two standalone sessions where your rough cuts are screened as an audience would see them and audited for stereotypes you may not have noticed. The point is to find real problems while there is still production time to fix them.
+1. Explain construction versus reflection using an example from your own product, not a taught text
+2. Place a real reading of a real text into one of Hall's three positions and justify it
+3. Name who a chosen stereotype works for, and what work it does
+4. Produce an audit of your own rough cut naming at least one unintended representation and one planned fix (LB3 evidence)
+
+## Overview
+
+You learn representation theory and then apply it to your own work. The week opens with A2 going in and closes with two standalone sessions where your rough cuts are screened as an audience would see them, then audited for the stereotypes you did not notice. The point is to find real problems while there is still production time to fix them.
 
 ## How it runs
 
 ### D1 — Mon 10-26: construction, not reflection
 
 - **A2 in (5 min)** — submit your blog URL. Mid-terms are Thursday.
-- **The claim (15 min)** — representation does not *reflect* the world; it **constructs** a version of it, by **selection** and **combination** (coursebook §3.3: "never objective"). Example: Lincoln and McClellan posed in a tent at Antietam, 1862 — the photo-op is older than the word. Every choice — the tent flaps, the table, who sits — is doing representation work.
+- **The claim (15 min)** — representation does not *reflect* the world; it **constructs** a version of it, by **selection** and **combination** (coursebook §3.3: "never objective"). Example from history: Lincoln and McClellan posed in a tent at Antietam, 1862 — the photo-op is older than the word. Every choice — the tent flaps, the table, who sits — is doing representation work.
 
 <figure class="plate">
   <img src="../../../static/img/lincoln-mcclellan.jpg" alt="Alexander Gardner, Lincoln and McClellan at Antietam, 1862 — the photo-op is older than the word" loading="lazy" />
@@ -52,12 +59,12 @@ You learn representation theory and then apply it straight to your own work. The
 </figure>
 
 - **Same person, three ways (20 min)** — one public figure, three found images (official portrait, news photo, meme or fan edit); in pairs, list what each version selects, combines, and asks you to conclude. The person never changed; the construction did.
-- **Close (5 min)** — write one line in your sketchpad: "My C1 product represents … as …." You will interrogate it all week.
+- **Close (5 min)** — one line in your sketchpad: "My C1 product represents … as …." You will interrogate it all week.
 
 ### D2 — Tue 10-27: Hall's reading positions
 
 - **Input (15 min)** — Hall's encoding/decoding: the maker encodes a preferred meaning; audiences decode from **dominant**, **negotiated**, or **oppositional** positions. The meaning is finished in the audience, not the text.
-- **Place yourself (20 min)** — one shared text; write your *honest* position on it and defend it with evidence from both the text and your own situation. The room will not agree — that disagreement is the theory working.
+- **Place yourself (20 min)** — one shared text; write your *honest* position on it and defend the placement with evidence from both the text and your own situation. The room will not agree — that disagreement is the theory working.
 - **Close (10 min)** — theory card: Hall. Then the turn inward: what position does your C1 product *assume* its audience will take? Could it survive an oppositional reading?
 
 ### D3 — Wed 10-28 (double): stereotyping as power
@@ -70,18 +77,18 @@ You learn representation theory and then apply it straight to your own work. The
 ### D4 — Fri 10-30: absence
 
 - **The instrument (10 min)** — selective construction's quietest tool: **absence**. What is never in the frame cannot be argued with; who never appears cannot complain.
-- **Absence inventory (25 min)** — inventory one text for its absences: who is missing, what work each absence does, what would change if it were repaired. Then the turn inward again: run the inventory on your own C1 planning — who is absent from *your* product, and is it a choice or a default?
+- **Absence inventory (25 min)** — inventory one text for its absences: who is missing, what work each absence does, what would change if it were repaired. Then turn inward again: run the inventory on your own C1 planning — who is absent from *your* product, and is it a choice or a default?
 - **Close (10 min)** — screening logistics for Monday: no introductions, no apologies.
 
 ### D5 — Mon 11-02 (standalone): the screening
 
 - **Rough cuts screened under audience conditions (35 min)** — the work speaks alone: no introductions, no apologies, no pausing. Complete **response cards** while watching: what did you understand the product to be saying; where did your attention drop; name one person or group and how the product positions them.
-- **Close (10 min)** — cards are handed to the makers, unread by anyone else. Tomorrow they become evidence.
+- **Close (10 min)** — cards go to the makers, unread by anyone else. Tomorrow they become evidence.
 
 ### D6 — Tue 11-03 (standalone): the audit
 
 - **The audit (30 min)** — each group audits its own product with the week's full toolkit: construction (what did we select and combine?), positions (what reading did we assume?), power (whose shortcut did we borrow?), absence (who is missing?). The response cards are the audience's testimony.
-- **The fix list (10 min)** — convert findings into production pickups with dates; **LB3 posted** (screening participation, response quality). The pickups are your homework — this is why the audit happens *now*, with production time left.
+- **The fix list (10 min)** — convert findings into production pickups with dates; **LB3 posted** (screening participation, response quality). The pickups are your homework — this is why the audit happens now, with production time left.
 
 ## Assessment
 

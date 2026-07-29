@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-03-intention-and-composition-planning]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-05-recording-pages-and-a1]]"
-modified: 2026-07-17
+modified: 2026-07-26
 ---
 # S1 Lesson 04: The Sustained Study
 
@@ -15,7 +15,7 @@ modified: 2026-07-17
 
 | | |
 |---|---|
-| Sessions | 5 days (W4, includes Sunday make-up day) |
+| Sessions | 5 days (W4, including the Sunday make-up day) |
 | Dates | Sun 2026-09-20 → Thu 2026-09-24 |
 | AO focus | AO1 Record |
 | Deliverable | Stage 1 page composed; the sustained observed study carried across two days; supporting color and texture studies |
@@ -28,18 +28,24 @@ modified: 2026-07-17
   <figcaption>Vincent van Gogh, <em>The Potato Peeler</em>, 1885</figcaption>
 </figure>
 
+## Objectives
+
+By the end of this lesson, you can:
+
+1. Carry one observed study across two days without restarting it
+2. Compose the Stage 1 page so a stranger can follow your thinking
+3. Support the study with focused color and texture work rather than more of the same
+
 ## Goal
 
-One long observed study, started and finished without restarting, is the spine of AO1. You build the Stage 1 page, then carry the sustained study across a real two-day run, then support it with focused color and texture work. Stamina is the content.
+One long observed study, started and finished without restarting, is the spine of AO1. This lesson builds the Stage 1 page, then commits to the sustained study across a two-day run, then supports it with focused color and texture work. "Stamina is the content."
 
 ## How it runs
 
-- **Sun 09-20** (make-up day) — demo on Stage 1 page architecture: hierarchy, breathing room, annotation placement. Compose your Stage 1 page from Lesson 3's material; photograph and file it.
-- **Mon 09-21** — spend five minutes with the source before any mark, then begin the sustained study: light structural drawing, commit to placement. The sheet you start today finishes Wednesday. Cover, do not erase.
-- **Tue 09-22 → Wed 09-23** — two-day run, one sheet. Tuesday builds the tonal structure; Wednesday resolves edges, surface and depth. There is a midpoint checkpoint each day, and the conference rota runs.
-- **Thu 09-24** — two focused A5 color and texture studies supporting the main study; **CS3** walked progress check against the AO1 descriptors (criteria read aloud, date on the board: Fri 2026-10-09); holiday sketchbook brief.
-
-These dates may shift when the school publishes its calendar for this period.
+- **Sun 09-20** (make-up day) — page architecture demo for Stage 1: hierarchy, breathing room, annotation placement; compose the Stage 1 page from Lesson 3's material; photograph and file.
+- **Mon 09-21** — five minutes with the source before any mark; begin the sustained study: light structural drawing, commit to placement. The sheet you start today finishes Wednesday. Cover, do not erase.
+- **Tue 09-22 → Wed 09-23** — two-day run, one sheet: Tuesday builds the tonal structure; Wednesday resolves edges, surface and depth. Midpoint checkpoint each day; conference rota runs. A lost Wednesday costs the whole second stage of the study, so attendance matters.
+- **Thu 09-24** — criteria read aloud (due Fri 2026-10-09); two focused A5 color and texture studies supporting the main study; **CS3** walked progress check against the AO1 descriptors; holiday sketchbook brief.
 
 ## Assessment
 

@@ -5,7 +5,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-1-origins-and-ancestral-memory]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-01-opening-the-atlas]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-03-the-first-board]]"
-modified: 2026-07-17
+modified: 2026-07-26
 ---
 # Lesson 02: What Survives, and Why
 
@@ -20,13 +20,21 @@ modified: 2026-07-17
 | Session codes | `U1·L4`–`U1·L9` |
 | Days | 6 |
 | Dates | Fri 2026-09-04 to Fri 2026-09-11 |
-| Deliverable | one-page panel reading, plus LB1 |
+| Deliverable | One-page panel reading, plus LB1 |
 | Feeds | A1 |
 | Homework | Chauvet reading, 30 min, set day 2, due day 4 |
 
+## Objectives
+
+By the end of this lesson, you can:
+
+1. Say what had to happen, physically, for a mark made 30,000 years ago to be in front of you
+2. Read two images by proximity and say what the pairing argues, not what each one shows separately
+3. Change a position in seminar when someone is right, out loud, and say that is what happened
+
 ## Goal
 
-This lesson covers people who left no writing. You have to argue from the wall itself: **the wall is the evidence.** A1 is announced on the first day of this lesson.
+A1 is announced in the first ten minutes of day one, before any content, and is due Fri 18 Sept. Then five days on people who left no writing: **the wall is the evidence**, and you argue from the wall.
 
 
 <figure class="plate">
@@ -36,7 +44,7 @@ This lesson covers people who left no writing. You have to argue from the wall i
 
 ## How it runs
 
-- **Day 1 · Fri 4 Sept · `U1·L4`** — A1 is announced in the first ten minutes: the board, the justification, due Fri 18 Sept. Then: what survives, and why — name what had to happen for an object to reach you at all.
+- **Day 1 · Fri 4 Sept · `U1·L4`** — **A1 announced** in the first ten minutes: the board, the justification, due Fri 18 Sept. Then: what survives, and why — name what had to happen for an object to reach you at all.
 - **Day 2 · Mon 7 Sept · `U1·L5`** — Lascaux and Chauvet, first pass, no commentary; describe round. Chauvet reading set.
 - **Day 3 · Tue 8 Sept · `U1·L6`** — hands, animals and the dark: account for the choice of animal, wall, and depth.
 - **Day 4 · Wed 9 Sept · `U1·L7`** — why make a mark: one reason argued, evidenced from the wall.
@@ -45,6 +53,5 @@ This lesson covers people who left no writing. You have to argue from the wall i
 
 ## Assessment
 
-- **A1** — announced Fri 2026-09-04, due Fri 2026-09-18.
-- **LB1** — Fri 2026-09-11, posted from the seminar. Graded on whether you take a position and move it — that behavior is what is being watched.
-- **Deliverable**: the one-page panel reading (day 5) — direct rehearsal for the A1 justification, the same move at greater length. This will be confirmed in class.
+- **LB1** — Fri 2026-09-11, posted from the seminar. Graded on whether you took a position and moved it — a behavior, so this is what is being watched.
+- **One-page panel reading** (day 5) — direct rehearsal for the A1 justification, the same move at greater length. Details will be confirmed in class.

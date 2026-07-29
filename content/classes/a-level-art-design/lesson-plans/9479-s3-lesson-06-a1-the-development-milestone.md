@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s3-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-05-evaluation-and-the-national-day-break]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-07-outcome-1-opens-and-a2-the-mock-review]]"
-modified: 2026-07-24
+modified: 2026-07-26
 ---
 # S3 Lesson 06: A1 — The Development Milestone
 
@@ -23,7 +23,15 @@ modified: 2026-07-24
 | Graded | **A1** Thu 2027-10-14 (AO3) — feeds the mid-term grade at the two-week minimum. Feedback Fri 10-15 |
 | Homework | ≤30 min: turn the three feedback actions into a dated to-do for Unit 5 |
 
-These dates may shift when the school publishes its calendar for this period.
+These dates are projected and may shift when the school publishes the calendar for this period.
+
+## What you will be able to do
+
+By the end of this lesson, you can:
+
+1. Run an honest self-check against the AO3 band descriptors and close the named gaps
+2. Sit A1: the tested-rejected-decided trail plus research paper draft 2
+3. Turn the marker's response into three specific actions
 
 ## Goal
 
@@ -37,15 +45,15 @@ This is the first attainment of the semester and the close of the development se
 
 ## How it runs
 
-- **Mon 10-11 — studio: finalise the evaluation.** Portfolio material now, not a note to self; begin your pre-milestone repair.
+- **Mon 10-11 — studio: finalise the evaluation.** Portfolio material now, not a note to self; pre-milestone repair begins.
 - **Tue 10-12 — studio: pre-milestone repair.** Close the named gaps from your action plan — the specific ones, not a general polish.
 - **Wed 10-13 — self-check against AO3.** Apply the band descriptors honestly to your own pages: where does this actually sit?
 - **Thu 10-14 — A1: development milestone.** Outcome-candidate compositions, targeted tests, evaluation, Stage 6 page, and research paper draft 2, marked against AO3.
 - **Fri 10-15 — feedback and targets.** Three specific actions, dated into your Unit 5 plan.
 
-## Key content: the milestone and its timing
+## The milestone and its timing
 
 - A1 is the development milestone **plus research paper draft 2**, marked against AO3 — development read as tested, rejected, decided.
-- You sit A1 on Thursday. If a Foreign Culture Day collides with the week, the feedback moves, never the assessment.
+- You sit A1 on Thursday 10-14. If a scheduling collision lands, the feedback moves, never the assessment.
 - A1 feeds the mid-term grade (~Thu 2027-10-28) at the two-week minimum; A2 next week informs comments, not the grade.
 - Unit 5 opens straight into building the final outcomes — the milestone is a gate, not a pause.

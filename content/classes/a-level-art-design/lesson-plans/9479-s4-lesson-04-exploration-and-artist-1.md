@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-03-sustained-study-and-a1]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-05-artist-2-the-bridge-piece-and-a2]]"
-modified: 2026-07-24
+modified: 2026-07-26
 ---
 # S4 Lesson 04: Exploration and Artist 1
 
@@ -20,14 +20,22 @@ modified: 2026-07-24
 | Dates | Mon 2028-03-13 → Fri 2028-03-17 |
 | AO focus | AO2 Explore, opening into AO3 Develop |
 | Deliverable | Eight experiments run to a written keep-or-change decision; artist 1 analyzed and answered in visible work |
-| Graded | **CS4** Fri 2028-03-17 (experiment documentation + artist 1 response). No attainment this week |
+| Graded | **CS4** Fri 2028-03-17 (experiment documentation + artist 1 response). No attainment mark this week |
 | Homework | ≤30 min: write the keep-or-change line for two experiments — what carries the question, what doesn't |
 
-These dates may shift when the school publishes the calendar for this period.
+These dates are projected and may shift when the school publishes the calendar for this period.
+
+## What you will be able to do
+
+By the end of this lesson, you can:
+
+1. Turn A1 feedback into targets
+2. Run eight experiments to a written keep-or-change decision
+3. Answer artist 1 in visible work within single sessions — citation without response earns nothing
 
 ## Goal
 
-Exploration at exam pace. Your A1 feedback becomes targets, then you run **eight experiments**, drawn from your proven selections, to a **written keep-or-change decision**; and you analyze artist 1 and **answer it in visible work within single sessions**. Citation without response earns nothing here: the response is the evidence.
+Exploration at exam pace. Your A1 feedback becomes targets, then **eight experiments** — drawn from your proven selections — run to a **written keep-or-change decision**. Artist 1 is analyzed and **answered in visible work within single sessions**. Citation without response earns nothing here: the response is the evidence.
 
 
 <figure class="plate">
@@ -38,13 +46,13 @@ Exploration at exam pace. Your A1 feedback becomes targets, then you run **eight
 ## How it runs
 
 - **Mon 03-13 — feedback; plan the experiments.** Targets first, then risk — the experiments test the question, not the medium for its own sake.
-- **Tue–Wed 03-14/15 — studio: media experiments (2-day run).** Eight experiments; each judged in writing on what carries the question.
+- **Tue–Wed 03-14/15 — studio: media experiments (2-day run).** Eight experiments; each judged on what carries the question, in writing.
 - **Thu 03-16 — artist 1: analysis and response in one pass.** Analyse, then answer in work — influence made visible.
-- **Fri 03-17 — artist 1 response work; CS4.** The response is the evidence. CS4 is the experiment documentation plus the artist 1 response. **A3** is announced today.
+- **Fri 03-17 — artist 1 response work; CS4.** The response is the evidence. CS4 is the experiment documentation plus the artist 1 response. **A3** is announced today, 14 days out.
 
 ## Key content: response is the evidence
 
 - ◆ Media choices carry conceptual logic **even at exam pace** — eight experiments, each with a reason.
 - ◆ **Citation without response earns nothing** — the response, not the analysis, is what the marker credits.
 - The experiments close with a written keep-or-change decision, so exploration feeds development rather than sprawling.
-- Artist 2, the bridge piece and the scale trial follow, and you sit A2, in [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-05-artist-2-the-bridge-piece-and-a2|L05]].
+- Artist 2, the bridge piece and the scale trial follow, and A2 sits, in [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-05-artist-2-the-bridge-piece-and-a2|L05]].

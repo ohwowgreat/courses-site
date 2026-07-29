@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-01-reopening-and-the-summer-audit]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-03-candidate-compositions-and-the-paper-reopens]]"
-modified: 2026-07-24
+modified: 2026-07-26
 ---
 # S3 Lesson 02: The Action Plan and Development Resumes
 
@@ -23,7 +23,15 @@ modified: 2026-07-24
 | Graded | **CS2** Fri 2027-09-10 — composition studies for the outcome candidates (sketchbook). No attainment this week |
 | Homework | ≤30 min: composition thumbnails toward the candidates, feeding CS2 |
 
-These dates may shift when the school publishes the calendar for this period.
+These dates are projected and may shift when the school publishes the calendar for this period.
+
+## Objectives
+
+By the end of this lesson, you can:
+
+1. Turn your audit into a written, dated, signed action plan naming pages, pieces and dates
+2. Compose final-outcome candidates from your summer production rather than from memory
+3. Build the candidates far enough to be judged
 
 ## Goal
 
@@ -45,6 +53,6 @@ Two jobs, in order. First, turn your audit into a plan you are held to: a **writ
 ## Key content: the contract and the second pass
 
 - The action plan is the semester's contract — written, dated, signed and specific; you are measured against it, not against effort.
-- ◆ Compose your candidates **from your summer production, not from memory** — an outcome from nowhere fails AO4 later, regardless of quality.
+- Compose your candidates **from your summer production, not from memory** — an outcome from nowhere fails AO4 later, regardless of quality.
 - Two candidates will be carried forward and one set aside with the rejection written; you make that choice in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-03-candidate-compositions-and-the-paper-reopens|L03]].
-- This is the pipeline's development stage on its second pass — recording and exploration are complete and are not repeated.
+- This is the pipeline's development stage on its second pass — recording and exploration are already complete and are not repeated.

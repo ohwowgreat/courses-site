@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-03-candidate-compositions-and-the-paper-reopens]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-05-evaluation-and-the-national-day-break]]"
-modified: 2026-07-24
+modified: 2026-07-26
 ---
 # S3 Lesson 04: Development Studies and Targeted Tests
 
@@ -24,9 +24,17 @@ modified: 2026-07-24
 
 These dates may shift when the school publishes the calendar for this period.
 
+## Objectives
+
+By the end of this lesson, you can:
+
+1. Push the candidates with studies that resolve real questions
+2. Run targeted tests on only what is unresolved, and change the composition on the evidence
+3. Judge the candidates against the intention rather than against the work that went in
+
 ## Goal
 
-Development that decides things. This week you push your candidates with **studies that resolve real questions**, then run **targeted tests** on only what is still unresolved — and the tests change the composition **because of evidence**, not for decoration. The week ends with a structured critique that judges the candidates against the intention, not against how much work went in.
+Development that decides things. This week you push the candidates with **studies that resolve real questions**, then run **targeted tests** on only what is still unresolved — and the tests change the composition **because of evidence**, not for decoration. The week ends with a structured critique that judges the candidates against the intention, not against how much work went in.
 
 
 <figure class="plate">
@@ -39,11 +47,11 @@ Development that decides things. This week you push your candidates with **studi
 - **Mon 09-20 — studio: development studies.** Studies that decide things — each one answers a question the composition actually poses.
 - **Tue–Wed 09-21/22 — targeted tests (2-day run).** Only what is unresolved: a colour relationship, a passage that isn't reading, a material that may not hold.
 - **Thu 09-23 — studio: act on the tests.** Change the work **because of evidence** — the test result, not a preference.
-- **Fri 09-24 — structured critique; CS4.** Read the candidates against the intention, not the effort. CS4 marks the targeted tests.
+- **Fri 09-24 — structured critique; CS4.** The candidates read against the intention, not the effort. CS4 marks the targeted tests.
 
 ## Key content: tested, rejected, decided
 
 - Targeted tests change the composition **because of evidence** — a test that changes nothing was decoration.
 - Development must read as **tested, rejected, decided** on the Stage 6 page, not as a gallery of effort.
-- The critique judges **against the intention, not the effort** — the standard the whole investigation is marked by.
+- ◆ The critique judges **against the intention, not the effort** — the standard the whole investigation is marked by.
 - What survives the critique is refined toward the evaluation and the Stage 6 page in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-05-evaluation-and-the-national-day-break|L05]].

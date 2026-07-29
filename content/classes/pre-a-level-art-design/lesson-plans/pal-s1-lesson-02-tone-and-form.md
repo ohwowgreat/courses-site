@@ -8,7 +8,7 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-01-introduction-the-sketchbook-and-first-marks]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-03-texture-mark-making-and-negative-space]]"
-modified: 2026-07-20
+modified: 2026-07-26
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/tone-and-form.jpg" alt="Peter Paul Rubens, Head of a Boy (Nicolaas Rubens), c. 1619" loading="lazy" />
@@ -30,17 +30,25 @@ modified: 2026-07-20
 | Feeds | CS1 (the exercise-set check, W4) — the value scale and tonal study are two of its four pieces |
 | Homework | Two tonal studies of one home object in two different lightings; MB posting |
 
+## Objectives
+
+By the end of this lesson, you can:
+
+1. Build a 10-step value scale with even, readable steps
+2. Make a form look solid using tone alone, without drawing its outline
+3. Locate the light source on an observed object and place its highlight, core shadow and cast shadow
+
 ## Goal
 
-The rule of the session: **build form with tone, not outline.** You will make an object look solid using only light and dark. The scale, the chart, and the lamp all exist to make that shift happen.
+The rule of the session: **build form with tone, not outline.** You will make an object look solid using only light and dark. The scale, the chart and the lamp all exist to make that shift happen.
 
 ## How it runs
 
 - **Warm-up (10 min)** — value mark-making ladder: fill a strip from lightest to darkest as fast as control allows, pencil only.
-- **Demo (15 min)** — one object under one lamp. The five things tone does: highlight, light, shadow side, cast shadow, reflected light. Then the four ways to lay tone — smooth shading, hatching, cross-hatching, blending — each named on the *Drawing Exercises 3* chart (cylinder, cube, cone, sphere).
-- **Studio 1 (20 min)** — *Drawing Exercises 2*: the 10-step value scale (fill the columns cleanly — steps must be even, neighbors must differ), then one form from the shading chart rendered in a technique you choose.
+- **Demo (15 min)** — one object under one lamp, showing the five things tone does: highlight, light, shadow side, cast shadow, reflected light. Then the four ways to lay tone — smooth shading, hatching, cross-hatching, blending — named on the *Drawing Exercises 3* chart (cylinder, cube, cone, sphere).
+- **Studio 1 (20 min)** — *Drawing Exercises 2*: the 10-step value scale (fill the columns cleanly — steps must be even, neighbors must differ), then one form from the shading chart rendered in a chosen technique.
 - **Studio 2 (35 min)** — the tonal study: one simple object per table (egg, paper cup, sphere) under a lamp. Draw it **with no outline at all** — masses of tone only. Larger than feels comfortable; push the darks darker than feels safe.
-- **Close (10 min)** — pin-up. Each drawing gets one question: *where is the light coming from?* If the room can answer, the drawing works. Annotate in your sketchbook with the frames: "The light comes from … " / "The darkest value is in … " / "Next time I will …"
+- **Close (10 min)** — pin-up. One question is asked of each drawing: *where is the light coming from?* Annotate in your sketchbook using the frames: "The light comes from … " / "The darkest value is in … " / "Next time I will …"
 
 ## Assessment
 

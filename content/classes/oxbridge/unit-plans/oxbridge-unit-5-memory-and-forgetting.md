@@ -18,7 +18,7 @@ modified: 2026-07-25
 
 **What survives forgetting?**
 
-A one-session unit. It tests a single claim: that human memory is repainted while machine memory is a clean record.
+This is a one-session unit. It tests one claim: that human memory is repainted while machine memory is a clean record.
 
 ## The image to work from
 
@@ -32,15 +32,17 @@ Two incompatible accounts that arrive at the same conclusion from opposite direc
 - **[[entities/sigmund-freud|Sigmund Freud]]** proposes that forgetting is not decay but active work: things are pushed down, and they return in distorted form.
 
 > [!note] The shared conclusion
-> The two accounts are incompatible and converge anyway. **Forgetting is not the failure of memory. It is a function of it.** This is the clearest example in the course of an argument that does not depend on picking a winner.
+> The same conclusion arrives from two directions. **Forgetting is not the failure of memory. It is a function of it.**
+
+The two accounts are incompatible and converge anyway. This is the course's cleanest example of an argument that does not depend on picking a winner.
 
 ## Session
 
-- [[classes/oxbridge/lesson-plans/oxbridge-w10-what-survives-forgetting|W10: What survives forgetting?]] — you bring a memory from before you were ten, and discover how many of these turn out to describe a photograph or a story.
+- [[classes/oxbridge/lesson-plans/oxbridge-w10-what-survives-forgetting|W10: What survives forgetting?]] — you bring a memory from before you were ten, and discover how many people are describing a photograph or a story.
 
 ## Concepts introduced
 
-None new. The unit works with concepts you already have — [[concepts/the-gap|the gap]] applied to your own past, and [[concepts/framework|framework]] applied to attention.
+None new. The unit works with concepts already introduced — [[concepts/the-gap|the gap]] applied to your own past, and [[concepts/framework|framework]] applied to attention.
 
 ## Preparation
 
@@ -50,9 +52,9 @@ Nothing is written or collected: the course is [[classes/oxbridge/assessments/ox
 
 ## In this session
 
-- **The session is personal, and that is a resource.** You may find you speak more fluently here because you are describing rather than arguing.
-- **The question is not how to remember better.** It is what memory is for — not memory techniques or exam revision.
-- **A callback to W09.** The harder version of the question: if a machine forgot the way a body forgets — by accumulating distortion rather than deleting files — would the human/machine line still hold?
+- The session is personal, which is a resource. You describe rather than argue, then convert that into argument later in the session.
+- This is not a discussion of memory techniques or exam revision. The question is not how to remember better; it is what memory is for.
+- The session builds on Week 9: if a machine forgot the way a body forgets — by accumulating distortion rather than deleting files — would the human/machine line still hold?
 
 ## Bridge to Unit 6
 

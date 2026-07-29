@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s2-unit-2-recording-and-sustained-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-04-recording-and-the-a1-milestone]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-06-media-exploration]]"
-modified: 2026-07-23
+modified: 2026-07-26
 ---
 # S2 Lesson 05: Recording Pages and Feedback
 
@@ -22,15 +22,23 @@ modified: 2026-07-23
 | Graded | **CS3** (recording-pages build check) Fri 2027-03-26 — a sketchbook task consolidating your A1 feedback |
 | Homework | ≤30 min: keep recording from your own primary sources, ahead of the media experiments in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-06-media-exploration\|L06]] |
 
-## Goal
+## Objectives
 
-This week you turn A1's feedback into recording an examiner would credit, and close Unit 2. You turn the banded feedback into three specific actions, push a second sustained study past the first, shoot and annotate your own reference, and build the recording pages so they read in sequence — AO1 without explanation. By Friday, CS3 checks the pages are built and the recording stage is complete.
+By the end of this lesson you can:
+
+1. Turn banded A1 feedback into three specific actions
+2. Push a second sustained study past the first
+3. Build and sequence recording pages that read as AO1 without explanation
 
 
 <figure class="plate">
   <img src="../../../static/img/repin-nevsky-studies.jpg" alt="Ilya Repin, Studies for Figures on the Nevsky Prospect, 1891" loading="lazy" />
   <figcaption>Ilya Repin, <em>Studies for Figures on the Nevsky Prospect</em>, 1891</figcaption>
 </figure>
+
+## Goal
+
+This week converts A1's feedback into recording an examiner would credit, and closes Unit 2. You turn the banded feedback into three specific actions, push a second sustained study past the first, shoot and annotate your own reference, and build the recording pages so they read in sequence — AO1 without explanation. By Friday CS3 checks the pages are built and the recording stage is complete.
 
 ## How it runs
 

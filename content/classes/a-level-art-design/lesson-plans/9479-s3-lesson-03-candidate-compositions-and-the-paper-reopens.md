@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-02-the-action-plan-and-development-resumes]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-04-development-studies-and-targeted-tests]]"
-modified: 2026-07-24
+modified: 2026-07-26
 ---
 # S3 Lesson 03: Candidate Compositions and the Paper Reopens
 
@@ -15,18 +15,26 @@ modified: 2026-07-24
 
 | | |
 |---|---|
-| Sessions | 4 days (W3, reduced — Mid-Autumn takes Wed 09-15) |
+| Sessions | 4 days (Week 3, reduced — no class on Wed 09-15 for Mid-Autumn) |
 | Dates | Mon 2027-09-13 → Fri 2027-09-17 |
 | AO focus | AO3 Develop; C3 written criteria (paper draft 2) |
 | Deliverable | Two candidates carried forward, developed to the same standard; research paper draft 2 opened, structured section by section |
 | Graded | **CS3** Fri 2027-09-17 — research paper draft 2 sections (written annotation). No attainment this week |
 | Homework | ≤30 min: outline the next draft-2 section — the argument, not the prose |
 
-These dates may shift when the school publishes the calendar for this period.
+These dates are projected and may shift when the school publishes the calendar for this period.
+
+## What you will be able to do
+
+By the end of this lesson, you can:
+
+1. Carry two candidates forward, developed to the same standard so the eventual choice is fair
+2. Say why a single idea cannot be compared
+3. Open research paper draft 2 with structure and argument before prose, weaving your summer reading in rather than summarizing it
 
 ## Goal
 
-Narrow and deepen. You sequence your candidate compositions and **carry two forward** — a single idea can't be compared — and develop both to the same standard so your eventual decision is fair. Alongside the studio, your **research paper draft 2** reopens: structure first, argument before prose, your summer reading woven in rather than summarized.
+Narrow and deepen. You sequence your candidate compositions and **carry two forward** — one is not a choice, because a single idea can't be compared — and you develop both to the same standard so the eventual decision is fair. Alongside the studio work, your **research paper draft 2** reopens: structure first, argument before prose, your summer reading woven in rather than summarized.
 
 
 <figure class="plate">
@@ -44,7 +52,7 @@ Narrow and deepen. You sequence your candidate compositions and **carry two forw
 
 ## Key content: two candidates, one argument
 
-- Two candidates reach a judgeable standard; you will choose one and write down the rejection.
+- Two candidates reach a judgeable standard; you will choose one, and write down why you rejected the other.
 - ◆ Draft 2 **argues** — your summer reading is evidence inside the argument, not a book report at the back.
 - Develop both candidates equally so the comparison in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-04-development-studies-and-targeted-tests|L04]]'s critique is honest.
 - The paper's written thread runs through CS3 here and the U5 final-text sessions toward **A3**; the research paper has no CS of its own.

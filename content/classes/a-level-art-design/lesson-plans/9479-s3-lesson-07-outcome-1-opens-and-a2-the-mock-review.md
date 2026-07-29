@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s3-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-06-a1-the-development-milestone]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-08-building-outcome-1]]"
-modified: 2026-07-24
+modified: 2026-07-26
 ---
 # S3 Lesson 07: Outcome 1 Opens and A2 — The Mock Review
 
@@ -25,27 +25,35 @@ modified: 2026-07-24
 
 These dates are projected and may shift when the school publishes the calendar for this period.
 
+## Objectives
+
+By the end of this lesson, you can:
+
+1. Plan final outcome 1 so that composition, palette and materials are decided before the build
+2. Sequence the whole investigation as if submitting it
+3. Sit A2 as a dress rehearsal, and use it as portfolio material for applicants
+
 ## Goal
 
-Unit 5 opens with a dress rehearsal of the whole investigation, before the Seniors' Days take out the following week. You plan outcome 1 fully — composition, palette and materials decided — so nothing is left to the day, and you begin the build. On Thursday, A2 reviews your entire investigation to date, sequenced as if you were submitting. A2 also serves as portfolio material for applicants.
+Unit 5 opens, and the whole investigation gets its dress rehearsal this week, before the Seniors' Days remove all of next week. You plan outcome 1 so nothing is left to the day — composition, palette and materials decided — and begin its build. On Thursday, A2 reviews the entire investigation to date, sequenced as if submitting. A2 also serves as portfolio material for applicants.
 
-## How it runs
-
-- **Mon 10-18 — plan final outcome 1.** Decide composition, palette and materials now; solve it small first with supporting thumbnails.
-- **Tue 10-19 — studio: supporting thumbnails; CS5.** Prove the plan at thumbnail scale. CS5 is your outcome 1 plan, marked.
-- **Wed 10-20 — studio: outcome 1 build opens.** The build starts before the Seniors week removes W9.
-- **Thu 10-21 — A2: mock portfolio review.** Your whole investigation, sequenced as if submitting, marked against AO1–AO4 — the dress rehearsal and an application asset.
-- **Fri 10-22 — feedback and independent targets.** Targets set for the Seniors week, when there is no class.
-
-## Key content: the dress rehearsal, timed before W9
-
-- You sit **A2 on Thu 10-21**, before the Seniors week removes W9.
-- The A2 review is sequenced as a real submission: the rehearsal and the portfolio-application asset for Oxbridge/ED applicants.
-- Plan outcome 1 so the day itself is execution, not invention — composition, palette and materials fixed in advance.
-- **W9 (Seniors' Days) has no teaching**; it is an independent-production week with targets set on Friday. Building resumes in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-08-building-outcome-1|L08]].
 
 <figure class="plate">
   <img src="../../../static/img/album-leaf.jpg" alt="Aoki Shukuya, Double Album of Landscape Studies after Ikeno Taiga, 18th century" loading="lazy" />
   <figcaption>Aoki Shukuya, <em>Double Album of Landscape Studies after Ikeno Taiga</em>, 18th century</figcaption>
 </figure>
 
+## How it runs
+
+- **Mon 10-18 — plan final outcome 1.** Decide composition, palette and materials now; solve it small first with supporting thumbnails.
+- **Tue 10-19 — studio: supporting thumbnails; CS5.** Prove the plan at thumbnail scale. CS5 is the outcome 1 plan, marked.
+- **Wed 10-20 — studio: outcome 1 build opens.** The build starts before the Seniors week removes W9.
+- **Thu 10-21 — A2: mock portfolio review.** The whole investigation, sequenced as if submitting, marked against AO1–AO4 — the dress rehearsal and an application asset.
+- **Fri 10-22 — feedback and independent targets.** Targets set for the Seniors week, when there is no class.
+
+## Key content: the dress rehearsal, timed before W9
+
+- You sit A2 on Thursday, before the Seniors week removes W9.
+- The A2 review is sequenced as a real submission: it is both the rehearsal and the portfolio-application asset for Oxbridge/ED applicants.
+- Outcome 1 is planned so the day itself is execution, not invention — composition, palette and materials fixed in advance.
+- **W9 (Seniors' Days) has no teaching.** It is an independent-production week, with your targets set today. Building resumes in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-08-building-outcome-1|L08]].

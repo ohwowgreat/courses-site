@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s2-unit-1-foundations-on-the-investigation]]"
   - "[[classes/a-level-art-design/9479-c3-winter-brief]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-02-proposal-and-feasibility]]"
-modified: 2026-07-23
+modified: 2026-07-26
 ---
 # S2 Lesson 01: Opening the Investigation
 
@@ -22,7 +22,15 @@ modified: 2026-07-23
 | Graded | Nothing is graded this week. **CS1** (proposal draft) is Fri 2027-03-05; the theme locks in writing in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked\|L03]] |
 | Homework | ≤30 min: a short written case for each surviving candidate — the sources you can reach and the problems it opens — begun toward the CS1 proposal draft |
 
-These dates are provisional and may shift when the school publishes the calendar for this period.
+These dates may shift when the school publishes the calendar for this period.
+
+## What you will be able to do
+
+By the end of this lesson you can:
+
+1. Say how the Personal Investigation is marked and name what earns a top band in one you have read
+2. Propose three candidate themes with references and defend each one to one
+3. Screen candidates against primary sources you can actually reach
 
 ## Goal
 
@@ -36,11 +44,11 @@ By Friday you will know how the Personal Investigation is marked, will have read
 
 ## How it runs
 
-- **Mon 02-22 — C3 briefing, no studio.** What Component 3 is: a personal investigation you propose yourself, weighted 75 marks → 150, carrying a written element — the research paper — that must be **integrated with the visual work, not bolted on**. What changes from C1: you set the theme and lock it in writing, the eight-stage pipeline returns, and the paper drafts alongside the art from the start. The four AOs restated in C3 specialist language. Orientation only, nothing graded.
-- **Tue 02-23 — investigation day.** One 90/100 Personal Investigation shown end to end; top band vs middle band pages side by side; read in pairs against the AO-language worksheet, with attention to how the written element threads through the pages rather than sitting at the back. You leave naming three things this investigation does that a middle-band one does not.
+- **Mon 02-22 — C3 briefing, no studio.** What Component 3 is: a personal investigation you propose yourself, weighted 75 marks → 150, carrying a written element — the research paper — that must be **integrated with the visual work, not bolted on**. What changes from C1: you set the theme and lock it in writing, the eight-stage pipeline returns, and the paper drafts alongside the art from the start. The four AOs are restated in C3 specialist language. Orientation only, nothing graded.
+- **Tue 02-23 — investigation day.** One 90/100 Personal Investigation shown end to end; top band vs middle band pages side by side; read in pairs against the AO-language worksheet, with attention to how the written element threads through the pages rather than sitting at the back. You exit naming three things this investigation does that a middle-band one does not.
 - **Wed 02-24 — theme longlist.** From your [[classes/a-level-art-design/9479-c3-winter-brief|winter homework]], put forward **three candidate themes**, each with references: an artist or two, the primary sources you would use, and one line on why it holds. No choosing yet — today is about having real candidates to test.
 - **Thu 02-25 — consultation round 1, one to one.** Defend each candidate to the teacher. A theme survives on the sources you can reach and the problems it opens, not on how much you like it. You leave with each candidate marked keep, fix, or drop.
-- **Fri 02-26 — feasibility screens.** Test each surviving candidate against reachable primary sources — **"nothing found, nothing borrowed"** — and walk it through all eight pipeline stages; kill what breaks. You leave with a shortlist of one or two, ready to draft into the proposal next week.
+- **Fri 02-26 — feasibility screens.** Test each surviving candidate against reachable primary sources — **"nothing found, nothing borrowed"** — and walk it through all eight pipeline stages; kill what breaks. Exit with a shortlist of one or two, ready to draft into the proposal next week.
 
 ## Key content: what makes a C3 theme hold
 

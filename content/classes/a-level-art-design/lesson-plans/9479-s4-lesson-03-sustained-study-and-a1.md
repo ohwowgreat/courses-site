@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-02-recording-at-exam-pace]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-04-exploration-and-artist-1]]"
-modified: 2026-07-24
+modified: 2026-07-26
 ---
 # S4 Lesson 03: Sustained Study and A1
 
@@ -19,9 +19,9 @@ modified: 2026-07-24
 | Sessions | 5 days (S3) |
 | Dates | Mon 2028-03-06 → Fri 2028-03-10 |
 | AO focus | AO1 Record |
-| Deliverable | A sustained study pushed past comfortable; critical annotation tying the recording to the question; the recording milestone |
+| Deliverable | The sustained study pushed past comfortable; critical annotation tying the recording to the question; the recording milestone |
 | Graded | **CS3** Thu 2028-03-09 (sustained study progress check) · **A1** Fri 2028-03-10 (AO1) |
-| Homework | ≤30 min (capped): one line per recording page — what it taught you about the question |
+| Homework | ≤30 min (capped): one line per recording page — what it taught about the question |
 
 
 <figure class="plate">
@@ -31,19 +31,27 @@ modified: 2026-07-24
 
 These dates are projected and may shift once the school publishes the calendar for this period.
 
+## Objectives
+
+By the end of this lesson you can:
+
+1. Push the sustained study past comfortable to show duration despite the pace
+2. Annotate what the recording taught about the question
+3. Sit A1 with pages that make AO1 obvious without explanation
+
 ## Goal
 
-This week reaches the recording milestone. Push your sustained study past comfortable to show duration despite the exam pace. Use critical annotation to record what the recording taught you about the question, and build your pages so AO1 is obvious without explanation. On Friday you sit **A1** — all recording on your chosen question, marked against AO1.
+The recording milestone. Push the sustained study **past comfortable** to show duration despite the pace; use critical annotation to record **what the recording taught about the question**; build the pages so AO1 is obvious without explanation. On Friday you sit **A1** — all recording on the chosen question, marked against AO1.
 
-## How the week runs
+## How it runs
 
-- **Mon–Tue 03-06/07 — studio: sustained study (2-day run).** Pushed past comfortable, so the study shows the duration the exam pace would otherwise erase.
-- **Wed 03-08 — recording pages build.** Make AO1 obvious without explanation — the page should argue for itself.
-- **Thu 03-09 — critical annotation; CS3.** Record what the recording taught you about the question. CS3 is the sustained-study progress check. You also receive the **A2** notice today.
-- **Fri 03-10 — A1: recording milestone.** All recording on your chosen question — locked question with rationale, intention, sustained study, and recording pages — marked against AO1.
+- **Mon–Tue 03-06/07 — studio: sustained study (2-day run).** Pushed past comfortable — the study shows duration the exam pace would otherwise erase.
+- **Wed 03-08 — recording pages build.** AO1 made obvious without explanation — the page argues for itself.
+- **Thu 03-09 — critical annotation; CS3.** What the recording taught about the question. CS3 is the sustained-study progress check. **A2** is announced today.
+- **Fri 03-10 — A1: recording milestone.** All recording on the chosen question — locked question with rationale, intention, sustained study, recording pages — marked against AO1.
 
 ## Key content: duration despite the pace
 
-- The sustained study shows **duration despite the pace** — the clearest AO1 signal under exam conditions.
-- Annotation ties every page to the question. Recording without annotation reads as activity, not evidence.
+- The sustained study shows **duration despite the pace** — the single clearest AO1 signal under exam conditions.
+- Annotation ties every page to the question; recording without annotation reads as activity, not evidence.
 - Feedback becomes targets, and exploration opens, in [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-04-exploration-and-artist-1|L04]].

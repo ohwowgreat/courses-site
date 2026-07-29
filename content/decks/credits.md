@@ -7,6 +7,40 @@ Every work reproduced in the lesson decks, course by course, with its source.
 All of them are public domain except one Creative Commons photograph, which is
 credited on its own slide as the licence requires.
 
+## A Level Art & Design
+
+Every plate in the A Level intro and assignment decks is public domain and came from the school image library; nothing was downloaded for them.
+
+| Key | Work | Artist, date | Status | Source folder |
+|---|---|---|---|---|
+| `rubens-anatomical-studies` | Anatomical Studies | Peter Paul Rubens, before 1640 | PD (author d. 1640) | `Peter Paul Rubens, 1577-1640 (Drawings)/` |
+| `rubens-sheet-forearm` | Sheet of Anatomical Studies: A Left Forearm in Two Related Positions | Peter Paul Rubens, before 1640 | PD | same |
+| `rubens-three-figures` | Anatomical Studies of Three Male Figures | Peter Paul Rubens, before 1640 | PD | same |
+| `rubens-head-medusa` | Head of Medusa | Peter Paul Rubens, before 1640 | PD | same |
+| `rubens-head-old-man` | Head of an Old Man, possibly Seneca | Peter Paul Rubens, c. 1620 | PD | same |
+| `repin-tolstoy` | Lev Nikolaevich Tolstoy at Work | Ilya Repin, 1891 | PD (author d. 1930) | `Ilya Repin (Drawings)/` |
+| `repin-naked-sketch` | Naked, sketch | Ilya Repin, before 1930 | PD | same |
+| `repin-stoking-fire` | Man in a Dressing Gown Stoking a Fire | Ilya Repin, 1909 | PD | same |
+| `bosschaert-bouquet` | Bouquet of flowers in a Chinese vase | Ambrosius Bosschaert the Elder, before 1621 | PD | `Dutch and Flemish Still Life Painting/` |
+| `pissarro-still-life` | Still Life with Apples and Pitcher | Camille Pissarro, 1872 | PD (author d. 1903) | `Camille Pissarro/` |
+| `pissarro-boulevard-night` | The Boulevard Montmartre at Night | Camille Pissarro, 1897 | PD | same |
+| `mucha-cherry-blossom` | Calendar of cherry blossom | Alphonse Mucha, 1898 | PD (author d. 1939) | top level |
+| `talbot-articles-of-glass` | Articles of Glass | William Henry Fox Talbot, 1844 | PD (author d. 1877) | `Photographers/William Henry Fox Talbot/` |
+| `talbot-lace` | Lace | William Henry Fox Talbot, c. 1845 | PD | same |
+| `cameron-carlyle` | Thomas Carlyle | Julia Margaret Cameron, c. 1867 | PD (author d. 1879) | `Photographers/Julia Margaret Cameron/` |
+| `muybridge-foreshortenings` | Studies of Foreshortenings, from *Animal Locomotion* | Eadweard Muybridge, 1887 | PD (author d. 1904) | `Photographers/Eadweard J. Muybridge/` |
+
+### Why only public-domain work
+
+These decks introduce a course rather than teach a named artist, so nothing here depends on
+reproducing in-copyright work. Where a slide needs to show what a stage of the pipeline looks
+like, an out-of-copyright study does the job as well as a contemporary one. Living-artist and
+in-copyright work stays on clearly-labelled text slides, per the deck rules in `../_build/`.
+
+The plates are used as **study material, not as a house style**. Two grid slides say so on the
+slide itself, because a G11 room shown four old-master sheets will otherwise conclude that the
+course wants pastiche.
+
 ## Media Studies
 
 Media Studies is a subject about contemporary, copyrighted media, so the decks reproduce none of it: those texts are named on labelled slides and shown in class. Every image slide uses a public-domain work chosen to illustrate the concept instead.
@@ -83,3 +117,31 @@ The one CC BY-SA 4.0 item (Chauvet) requires attribution and share-alike; the
 deck slide credits it inline ("Chauvet, Panel of Horses · CC BY-SA").
 
 Used in: L02 (Lascaux, Chauvet, Cueva de las Manos), L05 (Titian, Manet, Gentileschi).
+
+## Pre A Level Art & Design
+
+Every plate in the Pre A Level intro decks is public domain and came from the school image library; nothing was downloaded for them.
+
+| Key | Work | Artist, date | Status | Source folder |
+|---|---|---|---|---|
+| `repin-tolstoy` | Lev Nikolaevich Tolstoy at Work | Ilya Repin, 1891 | PD (author d. 1930) | `Ilya Repin (Drawings)/` |
+| `repin-naked-sketch` | Naked, sketch | Ilya Repin, before 1930 | PD | same |
+| `rubens-sheet-forearm` | Sheet of Anatomical Studies | Peter Paul Rubens, before 1640 | PD (author d. 1640) | `Peter Paul Rubens, 1577-1640 (Drawings)/` |
+| `rubens-head-old-man` | Head of an Old Man, possibly Seneca | Peter Paul Rubens, c. 1620 | PD | same |
+| `atget-rue-mazet` | 10 rue Mazet, Paris | Eugène Atget, 1907 | PD (author d. 1927) | `Photographers/Eugène Atget/` |
+| `atget-rue-moliere` | 108 rue Molière, Paris | Eugène Atget, 1908 | PD | same |
+| `muybridge-foreshortenings` | Studies of Foreshortenings, from *Animal Locomotion* | Eadweard Muybridge, 1887 | PD (author d. 1904) | `Photographers/Eadweard J. Muybridge/` |
+| `mucha-cherry-blossom` | Calendar of cherry blossom | Alphonse Mucha, 1898 | PD (author d. 1939) | top level |
+| `pissarro-still-life` | Still Life with Apples and Pitcher | Camille Pissarro, 1872 | PD (author d. 1903) | `Camille Pissarro/` |
+| `bosschaert-bouquet` | Bouquet of flowers in a Chinese vase | Ambrosius Bosschaert the Elder, before 1621 | PD | `Dutch and Flemish Still Life Painting/` |
+
+### A note on the collage unit
+
+U3 has **no collage plate**, because the collage tradition is almost entirely in copyright:
+Schwitters, Höch, Rodchenko and the Cubist papiers collés all sit inside terms that the deck
+rules do not permit reproducing. The media deck therefore introduces collage through Muybridge's
+motion grid, which is not collage but performs the same move the unit teaches: many frames on one
+surface, read together, meaning built by adjacency. The slide says as much in its speaker notes.
+
+If you want an actual collage on that slide, the cleanest route is a work made in the room:
+photograph a strong student collage from a previous run and drop it in as `collage-exemplar`.

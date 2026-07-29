@@ -5,7 +5,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-09-food-the-table-and-ethics]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image]]"
-modified: 2026-07-17
+modified: 2026-07-26
 ---
 # Lesson 10: Berger and the Reproduction
 
@@ -20,26 +20,31 @@ modified: 2026-07-17
 | Session codes | `U4·L1`–`U4·L7` |
 | Days | 7, across two split weeks |
 | Dates | Mon 2026-11-23 to Tue 2026-12-01 (G12 out Thu–Fri 11-26/27; G11 out from 12-02) |
-| Template | STUDY |
 | Deliverable | The caption exercise, plus LB6 and LB7 |
 | Feeds | A4 |
 | Homework | *Ways of Seeing*, episode one or the first essay, 30 min, set day 1, due day 3 |
 
-These dates are provisional and may shift when the school publishes the calendar for this period.
+These dates may shift when the school publishes the calendar for this period.
 
-## Goal
+## Objectives
 
-Seven teaching days across two weeks, with the class split in both. The core content is in days one to three; later days are self-contained. A4 is announced on day seven, Tuesday 1 December, which is the last session both halves attend. Nothing is assessed in this lesson beyond two postings.
+By the end of this lesson, you can:
 
-## How it runs
+1. Accept that a reproduction is not a neutral copy, and say what it added
+2. Change the words around an image and describe precisely what moved
+3. Write a caption that changes the picture, and then write the honest one
 
-- **Day 1 · Mon 23 Nov · `U4·L1`** — Berger's argument stated flat: a reproduction is not a neutral copy. The first objection, taken seriously. Reading set.
 
 <figure class="plate">
   <img src="../../../static/img/the-magpie.jpg" alt="Claude Monet, The Magpie, 1869 — winter light, and the quiet after" loading="lazy" />
   <figcaption>Claude Monet, <em>The Magpie</em>, 1869 — winter light, and the quiet after</figcaption>
 </figure>
 
+## How it runs
+
+This lesson runs over seven teaching days across two weeks, with the class split in both. The core content is front-loaded into days one to three, so attendance on those days matters; the later days are self-contained.
+
+- **Day 1 · Mon 23 Nov · `U4·L1`** — Berger's argument stated flat: a reproduction is not a neutral copy. The first objection, taken seriously. Reading set.
 - **Day 2 · Tue 24 Nov · `U4·L2`** — one painting, four contexts: change the words around an image and watch its meaning move.
 - **Day 3 · Wed 25 Nov · `U4·L3`** — seminar: what did the painting lose, what did it gain, by becoming reproducible. LB6 posted.
 - **Day 4 · Thu 26 Nov · `U4·L4`** — self-contained (G12 out): a reproduction read as an object with decisions of its own.
@@ -51,5 +56,4 @@ Seven teaching days across two weeks, with the class split in both. The core con
 
 - **LB6** — Wed 2026-11-25, seminar posting.
 - **LB7** — Tue 2026-12-01, floating-world posting.
-- Tue 2026-12-01 is the last session both cohorts attend before the deadline.
 - The caption exercise is the ungraded deliverable both halves complete.

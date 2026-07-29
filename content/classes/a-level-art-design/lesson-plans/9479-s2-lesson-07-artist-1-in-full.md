@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s2-unit-3-exploration-and-artist-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-06-media-exploration]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-08-artist-2-bridge-and-a2]]"
-modified: 2026-07-23
+modified: 2026-07-26
 ---
 # S2 Lesson 07: Artist 1 in Full
 
@@ -22,9 +22,17 @@ modified: 2026-07-23
 | Graded | **CS5** (Artist 1 pages: analysis, method, response) Fri 2027-04-16 — written annotation; opens the research-paper material |
 | Homework | ≤30 min: read one source on Artist 1 toward the research paper; shortlist Artist 2 for [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-08-artist-2-bridge-and-a2\|L08]] |
 
+## What you will be able to do
+
+By the end of this lesson, you can:
+
+1. Choose Artist 1 for the problem they solve rather than for liking them
+2. Write their meaning and context as the first material of your research paper
+3. Answer the artist with a personal response that shows influence without imitation
+
 ## Goal
 
-After Qingming, Unit 3 turns from your own experiments to an artist who solves the problem you are working on. This week you choose and analyse Artist 1, write their meaning and context — the first material of your research paper — study their method by copying to understand, then answer them with a personal response that shows influence without imitation. Choose the artist for the problem they solve, not because you like them.
+Classes resume from Qingming, and Unit 3 turns from your own experiments to an artist who solves the problem you are working on. Across the week you choose and analyse Artist 1, write their meaning and context — the first material of your research paper — study their method by copying to understand, then answer them with a personal response that shows influence without imitation. Choose the artist for the problem they solve, not because you like them.
 
 
 <figure class="plate">
@@ -43,3 +51,5 @@ After Qingming, Unit 3 turns from your own experiments to an artist who solves t
 ## Assessment
 
 **CS5** (Artist 1 pages: analysis, method, response) is due **Fri 2027-04-16**, a written annotation that also opens your research-paper material — see the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It is marked on two things: whether the influence *shows* in your own work, and whether the context is written well enough to carry into the paper. Next week closes Unit 3 — Artist 2 and the bridge piece — and the second attainment, **A2** (exploration + artist study, AO2+AO3), sits **Fri 2027-04-23** in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-08-artist-2-bridge-and-a2|L08]].
+
+These dates may shift when the school publishes the calendar for this period.

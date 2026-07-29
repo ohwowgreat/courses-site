@@ -7,7 +7,7 @@ related:
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock]]"
   - "[[classes/media-studies/9607-resource-library]]"
   - "[[concepts/technical-elements]]"
-modified: 2026-07-22
+modified: 2026-07-28
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/at-the-telephone.jpg" alt="Aleksandr Rodchenko, At the Telephone, 1928 — name the camera position; then name what it does to you" loading="lazy" />
@@ -24,23 +24,32 @@ modified: 2026-07-22
 
 | | |
 |---|---|
-| Days | 3 — Mon single, Tue single, Wed double (no Friday class: Mid-Autumn Festival) |
+| Days | 3 — Mon single, Tue single, Wed double (no Friday session: Mid-Autumn Festival) |
 | Dates | Mon 2026-09-21 · Tue 09-22 · Wed 09-23 |
 | Band/Unit | U2 Media Language ([[classes/media-studies/unit-plans/9607-s1-unit-2-media-language\|S1 Unit 2]]) |
 | AO focus | AO2 |
-| Deliverable | CS4 genre and camera analytical paragraph — direct practice for A1 |
-| Feeds | A1 |
+| Deliverable | CS4 genre and camera analytical paragraph — direct practice for A1; your production group logs its equipment decision |
 | Homework | None set (holiday week) |
 
-## Goal
+## What you will be able to do
 
-You cover genre theory and camera vocabulary in the same lesson because A1 asks for both in the same paragraph. Altman and Neale treat genre not as a box of tropes but as **an agreement between industry and audience** — the version that earns marks. You learn camera work as verbs before adjectives: what the camera *does*, then what it does *to you*. In the Wednesday double you prove the whole lesson in one CS4 paragraph.
+By the end of this lesson you can:
+
+1. Explain genre as a negotiated agreement, citing repetition and difference, without reciting a trope list
+2. Name shot, angle and movement accurately at speed in a rapid-fire drill
+3. Attribute a genre to an unlabeled clip and evidence it from codes alone
+4. Write a CS4 paragraph that links one camera choice to one audience effect
+5. On the kit you will shoot the break window with: monitor audio, cut a matched two-shot, and lock focus/exposure on a backlit face — and write down the one mistake your group will police over the break
+
+## Focus
+
+Genre theory and camera vocabulary come together because A1 asks for both in the same paragraph. Altman and Neale treat genre not as a box of tropes but as **an agreement between industry and audience** — the version that earns marks. You drill camera work as verbs before adjectives: what the camera *does*, then what it does *to you*. The Wednesday double removes the labels and asks you to prove the whole lesson in one CS4 paragraph, then puts **cameras in your hands**: a 30-minute technical rehearsal on the three things that most often ruin student footage (audio, continuity, focus/exposure), one week before the break shoots, while there is still time to fix problems.
 
 ## How it runs
 
 ### D1 — Mon 09-21: genre is a contract
 
-- **Starter (5 min)** — two paintings of skulls and candles, three centuries apart, side by side. Different painters, different pictures — and you know instantly they belong together. That recognition is genre working.
+- **Starter (5 min)** — two paintings of skulls and candles, three centuries apart, side by side. Different painters, different pictures — yet you know instantly they belong together. That recognition is genre working.
 
 <div class="plate-row">
 <figure class="plate">
@@ -62,15 +71,19 @@ You cover genre theory and camera vocabulary in the same lesson because A1 asks 
 - **Retrieval (5 min)** — restate the contract in one sentence, cold.
 - **Input (10 min)** — the shot ladder (ECU → CU → MS → LS → ELS), angles (high, low, eye, canted), movement (pan, tilt, track, dolly, zoom, handheld) — each named as a **verb**: the camera looks up at, creeps toward, refuses to follow.
 - **Rapid naming (15 min)** — a shot montage, paired call-outs at speed: name the move. Second pass, harder: name the move, then name what it does to you — "low angle: he towers; I am small."
-- **Exit ticket (10 min)** — three shots, three effects, written. The remaining WS 2.2/2.3 terms close tonight — everything is now in your lexicon for A1.
+- **Exit ticket (10 min)** — three shots, three effects, written. You now have the full lexicon for A1.
 
-### D3 — Wed 09-23 (double): CS4, the dress rehearsal
+### D3 — Wed 09-23 (double): CS4, then cameras in hand
 
-- **Set-up (10 min)** — the A1 criteria on the board in the official rubric's words (concepts · terminology · analysis of how meaning is created · examples). CS4 is A1 with the stakes off.
-- **The unlabeled menu (20 min)** — six 30–60-second clips with titles and credits stripped. For each: attribute the genre **from codes alone**, and note two pieces of evidence.
-- **The paragraph (35 min)** — choose one clip and write one analytical paragraph in exam register: genre claim → technical evidence (camera verbs) → symbolic evidence → what the audience is being promised. Sentence frames are available; terminology is required.
-- **Peer check (20 min)** — swap paragraphs and check against the A1 criteria, one warm and one hard comment each; then hand in as **CS4**.
-- **Close (5 min)** — Mid-Autumn break: nothing set, keep your glossaries with you.
+- **Set-up (5 min)** — the A1 criteria on the board in the official rubric's words (concepts · terminology · analysis of how meaning is created · examples). CS4 is A1 with the stakes off.
+- **The unlabeled menu (15 min)** — four 30–60-second clips, titles and credits stripped. For each: attribute a genre **from codes alone** and note two pieces of evidence.
+- **The paragraph (30 min)** — choose one clip and write one analytical paragraph in exam register: genre claim → technical evidence (camera verbs) → symbolic evidence → what the audience is being promised. Sentence frames available; terminology is required.
+- **Peer check (10 min)** — swap paragraphs and check against the A1 criteria, one comment each way; then hand in as **CS4**.
+- **Technical rehearsal (30 min)** — in production groups, **cameras in hand** — school kit or your own equipment, whichever you will actually shoot the break window on. Three stations, about 7 min each, on the three things that kill student footage:
+ - **Audio** — record 20 seconds of dialogue by the open door, play it back on a speaker: hear the room. Rules: monitor every take, mic as close as the frame allows.
+ - **Continuity** — shoot one simple action (sitting down with a cup) twice, wide then close, and check for a matching cut point.
+ - **Focus/exposure** — a face against the bright window, auto vs tap-to-lock: watch the face go dark, then fix it.
+ - **Debrief** — each group writes the one mistake it will police over the break and **logs its equipment decision**: school sign-out or own kit. Glossaries travel over the holiday; take sign-out slips to the equipment room before the holiday.
 
 ## Assessment
 

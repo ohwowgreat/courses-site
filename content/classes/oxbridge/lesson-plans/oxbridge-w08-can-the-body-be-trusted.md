@@ -7,7 +7,7 @@ related:
   - "[[classes/oxbridge/lesson-plans/oxbridge-w09-is-the-human-and-machine-line-essential-or-contingent]]"
   - "[[entities/maurice-merleau-ponty]]"
   - "[[entities/friedrich-nietzsche]]"
-modified: 2026-07-25
+modified: 2026-07-26
 ---
 # Oxbridge W08: Can the Body Be Trusted?
 
@@ -23,6 +23,14 @@ modified: 2026-07-25
 | Sent ahead | "The body is our general medium for having a world" — [[entities/maurice-merleau-ponty\|Merleau-Ponty]] |
 | Carried out | What can you do that a machine cannot? |
 
+## Objectives
+
+By the end of this lesson, you can:
+
+1. Argue whether feeling is more reliable than any system, or whether the body is another framework
+2. Test one quotation against your own experience rather than restating it
+3. Carry out the question of what you can do that a machine cannot
+
 ## Opening prompt (5 minutes)
 
 > Describe being cold without using the word cold, and without using a number.
@@ -36,7 +44,7 @@ Two minutes, silent.
 
 ## Movement 2 · complicate (15 minutes)
 
-Four cases, introduced one at a time. Each closes a different escape route.
+Four cases, introduced one at a time.
 
 | Case | The question |
 |---|---|
@@ -59,7 +67,7 @@ The Spinoza reframe:
 
 Stop asking what a body **is** and ask what a body **can do**. Does that dissolve the problem or dodge it?
 
-Each student states a position: the body is an instrument to be corrected, **or** the body is the condition of there being anything to correct.
+State a position: the body is an instrument to be corrected, **or** the body is the condition of there being anything to correct.
 
 ## Closing question (5 minutes)
 

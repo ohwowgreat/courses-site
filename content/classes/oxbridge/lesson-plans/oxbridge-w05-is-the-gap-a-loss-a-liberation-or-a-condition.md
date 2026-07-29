@@ -8,7 +8,7 @@ related:
   - "[[entities/jean-paul-sartre]]"
   - "[[entities/albert-camus]]"
   - "[[concepts/the-gap]]"
-modified: 2026-07-25
+modified: 2026-07-26
 ---
 # Oxbridge W05: Is the Gap a Loss, a Liberation, or a Condition?
 
@@ -24,13 +24,21 @@ modified: 2026-07-25
 | Prepared | Arrive with a position and a case, from W04's closing question |
 | Carried out | Things considered real in the past are now considered false. Were we wrong then, or did reality change? |
 
+## Objectives
+
+By the end of this lesson, you can:
+
+1. Take one of the three readings of the gap and defend it against the other two
+2. Work from four quotations delivered live, without a text to prepare against
+3. Move from an epistemological claim to a claim about how to live, and notice they are different moves
+
 ## Opening prompt (5 minutes)
 
 The question is already on the board from last session. Write your position and one reason. Two minutes, silent.
 
 ## Movement 1 · elicit (10 minutes)
 
-Each student gives a position in one sentence. The room is sorted into three columns on the board: loss · liberation · condition.
+You give your position in one sentence. The room is sorted into three columns on the board: loss · liberation · condition.
 
 | Column | The claim | Push |
 |---|---|---|
@@ -40,7 +48,7 @@ Each student gives a position in one sentence. The room is sorted into three col
 
 ## Movement 2 · complicate (15 minutes)
 
-Four quotations, introduced one at a time. Each names a position you may already hold.
+Four quotations, introduced one at a time. Each names a position you may already occupy.
 
 ### [[entities/jean-paul-sartre|Sartre]]
 
@@ -70,8 +78,8 @@ Is that convincing, or is it a rhetorical trick? Is happiness inside the conditi
 
 Return to your column. Anyone who wants to move must say which quotation moved them and why.
 
-> [!note] Changing your mind
-> Movement under argument is the skill being trained here. Changing your mind is an achievement, not a lapse — the direct rehearsal of the second interview move (*absorb the push without abandoning the claim*) and of **movement**, the fourth quality the course names.
+> [!note] Changing your mind is the point
+> Moving under argument is the skill being trained here. In this session, changing your mind is an achievement, not a lapse. It rehearses the second interview move (*absorb the push without abandoning the claim*) and **movement**, the fourth quality the course names.
 
 ## Closing question (5 minutes)
 

@@ -9,7 +9,7 @@ related:
   - "[[concepts/representation]]"
   - "[[entities/liesbet-van-zoonen]]"
   - "[[entities/bell-hooks]]"
-modified: 2026-07-22
+modified: 2026-07-26
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/folies-bergere.jpg" alt="Édouard Manet, A Bar at the Folies-Bergère, 1882 — who is looking at whom? the mirror refuses to agree" loading="lazy" />
@@ -32,13 +32,26 @@ modified: 2026-07-22
 | AO focus | AO2 |
 | Deliverable | CS6 representation close-reading paragraph |
 | Feeds | A4, End of Term Exam |
-| Homework | Short theorist extract (hooks), read before day 4, within the 30-min cap |
+| Homework | Short theorist extract (hooks) read before day 4, within the 30-min cap |
 
-These dates may shift when the school publishes the calendar for this period.
+## Objectives
+
+By the end of this lesson, you can:
+
+1. Explain gender as performance with one example of the same performance read two ways
+2. State Mulvey's claim precisely enough to test it, then test it against a contemporary text
+3. Apply the oppositional gaze to produce a reading the text did not invite
+4. Write a CS6 paragraph where the theorist does analytical work rather than decoration
+
+
+<figure class="plate">
+  <img src="../../../static/img/cahun-gaze.jpg" alt="Claude Cahun, Self-Portrait, 1920 — a look sent back: the gaze refused" loading="lazy" />
+  <figcaption>Claude Cahun, <em>Self-Portrait</em>, 1920 — a look sent back: the gaze refused</figcaption>
+</figure>
 
 ## Goal
 
-This week covers gaze theory as a set of questions to test. Over the two-day block you build van Zoonen and Mulvey; the double lesson tests Mulvey against what you actually watch, across decades — does the gaze hold, shift, or invert?; and hooks reframes the week by asking who a text never expected to be looking. CS6 closes the week: one close-reading paragraph with a theorist working inside it — the exact move A4 and the exam reward.
+Gaze theory is taught as **live questions, not settled answers**. The two-day block builds van Zoonen and Mulvey; the double stress-tests Mulvey against what you actually watch, across decades — does the gaze hold, shift, or invert?; and hooks reframes the whole week by asking who the text never expected to be looking. CS6 closes the arc: one close-reading paragraph with a theorist *working* inside it — the exact move A4 and the exam reward.
 
 ## How it runs
 
@@ -52,7 +65,7 @@ This week covers gaze theory as a set of questions to test. Over the two-day blo
 ### D2 — Tue 11-10: Mulvey, stated precisely
 
 - **Retrieval (5 min)** — performance conventions, three named, cold.
-- **Input (20 min)** — Mulvey (1975): narrative cinema is built around **three looks** — the camera's, the characters', the audience's — and classically all three align on women as spectacle. This is a claim from 1975 about a system, made to be tested — tomorrow you test it.
+- **Input (20 min)** — Mulvey (1975): narrative cinema is built around **three looks** — the camera's, the characters', the audience's — and classically all three align on women as spectacle. This is a **claim from 1975 about a system**, made to be tested — tomorrow you test it.
 - **First test (15 min)** — one classical-era clip: track the three looks, timecoded. Does the claim describe this text?
 - **Close (5 min)** — theory card: Mulvey. Homework issued: the hooks extract (300–400 words, glossed, EN with ZH support), read before Friday.
 
@@ -60,22 +73,16 @@ This week covers gaze theory as a set of questions to test. Over the two-day blo
 <p class="cite"><span class="cite-tag">Shown in class</span>Cindy Sherman, <em>Untitled Film Still #21</em>, 1978</p>
 ### D3 — Wed 11-11 (double): the decade test
 
-- **The protocol (10 min)** — three decade-pair sets (same genre, one pre-2000, one post-2018, comparable scene function so the variable is era). The fixed question: **hold, shift, or invert?** The exact pairings will be confirmed in class.
-- **Paired screenings (45 min)** — groups screen their pair, gather **timecoded evidence** for camera-look, character-look, and audience positioning in each, then reach a verdict with the evidence attached.
-- **The argument (25 min)** — verdicts presented and challenged; the review harvests the best evidence lines onto the board — these are CS6 sentence models.
-- **Close (10 min)** — summary: where the gaze held, where it shifted, where inversion turned out to be the same structure pointed elsewhere.
+- **The protocol (10 min)** — three decade-pair sets (same genre, one pre-2000, one post-2018, comparable scene function so the variable is era). The question fixed in advance: **hold, shift, or invert?**
+- **Paired screenings (45 min)** — groups screen their pair, gather **timecoded evidence** for camera-look, character-look, audience positioning in each, then reach a verdict with the evidence attached.
+- **The argument (25 min)** — verdicts presented and challenged; the best evidence lines are harvested verbatim onto the board — they are CS6 sentence models.
+- **Close (10 min)** — the honest summary: where the room found the gaze held, where it shifted, where inversion turned out to be the same structure pointed elsewhere.
 
 ### D4 — Fri 11-13: hooks, and CS6
 
-- **The reframe (15 min)** — bell hooks, from the extract you read: the **oppositional gaze** — looking back at a text that never expected *you* to be looking; refusal and rereading as critical acts. The week's question flipped: not "how does the text look at its subjects" but "who was this looking built for, and what happens when someone else does it?"
-
-<figure class="plate">
-  <img src="../../../static/img/cahun-gaze.jpg" alt="Claude Cahun, Self-Portrait, 1920 — a look sent back: the gaze refused" loading="lazy" />
-  <figcaption>Claude Cahun, <em>Self-Portrait</em>, 1920 — a look sent back: the gaze refused</figcaption>
-</figure>
-
+- **The reframe (15 min)** — bell hooks, from the read extract: the **oppositional gaze** — looking back at a text that never expected *you* to be looking; refusal and rereading as critical acts. The week's question flipped: not "how does the text look at its subjects" but "who was this looking built for, and what happens when someone else does it?"
 - **CS6 (20 min)** — one close-reading paragraph on a provided still or 30-second clip: claim, evidence, and **a theorist doing analytical work rather than decoration** — "as Mulvey's camera-look predicts…" not "Mulvey said the male gaze." The theorist sentence-starters card is on every desk.
-- **Close (10 min)** — the complete C1 portfolio is due Fri 11-27 (14 days). Theory card: hooks. Closing question: *who is the looking arranged for — including in your own product?*
+- **Close (10 min)** — the complete C1 portfolio is due Fri 11-27, exactly 14 days. Theory card: hooks. The gaze week closes where it started: *who is the looking arranged for — including in your own product?*
 
 ## Assessment
 
@@ -83,4 +90,4 @@ This week covers gaze theory as a set of questions to test. Over the two-day blo
 |---|---|---|---|
 | CS6 | Fri 2026-11-13 | Representation close-reading paragraph where the theorist does analytical work rather than decoration | AO2 |
 
-CS6 is set Fri 11-13; the C1 portfolio is due Fri 11-27. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+CS6 is set Fri 11-13 (C1 portfolio due Fri 11-27). See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].

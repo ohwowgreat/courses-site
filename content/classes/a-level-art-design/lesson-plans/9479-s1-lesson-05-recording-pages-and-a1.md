@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-04-the-sustained-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-06-media-exploration]]"
-modified: 2026-07-17
+modified: 2026-07-26
 ---
 # S1 Lesson 05: Recording Pages and A1
 
@@ -22,9 +22,13 @@ modified: 2026-07-17
 | Feeds | CS4 build check Wed 2026-09-30; **A1 Fri 2026-10-09** |
 | Homework | Over the break: sketchbook recording from primary sources, dated. After A1: reflection turning feedback into three actions |
 
-## Goal
+## Objectives
 
-Everything you have recorded so far becomes pages an examiner could read, then is looked at together. The holiday splits this lesson: you build the pages before it, the review happens after it, and a self-check on return helps you see what AO1 actually asks.
+By the end of this lesson, you can:
+
+1. Build and sequence recording pages an examiner could read without explanation
+2. Sit A1 and self-check your recording against what AO1 actually asks
+3. Convert banded feedback into three specific actions
 
 
 <figure class="plate">
@@ -32,16 +36,20 @@ Everything you have recorded so far becomes pages an examiner could read, then i
   <figcaption>Ilya Repin, <em>Portrait of a Russian Peasant</em>, 1871</figcaption>
 </figure>
 
+## Goal
+
+Everything you have recorded so far becomes pages an examiner could read, then you look at them together. The holiday splits the lesson: you build the pages before it, the review happens after it, and the self-check on your return closes the gap between what you think AO1 asks and what it asks.
+
 ## How it runs
 
-- **Mon 09-28** — shooting reference: light, angle, series; photography session from primary sources; annotate the selects for what each shows, not what it evokes.
+- **Mon 09-28** — shooting reference: light, angle, series; photography session from primary sources; annotate your selects for what each shows, not what it evokes.
 - **Tue 09-29** — line up all studies, name the weakest; bring every study up to the same standard. Nothing half-finished rides along.
 - **Wed 09-30** — sequencing demo ("the AO1 read"); build the recording pages; **CS4** build check; holiday homework brief.
 - **Thu 10-08** — re-entry after the break, holiday sketchbooks on tables; self-check: mark your own recording against the AO1 band descriptors, in writing, honestly; final fixes list only — nothing new starts.
 - **Fri 10-09** — **A1 attainment.** Portfolio review in session: intention, Stage 1 pages, the sustained study and supports, against the published AO1 criteria. Nothing is added during review.
 - **Sat 10-10** (make-up day) — A1 returned with banded feedback; convert feedback into three specific written actions, one-to-one rota; Unit 3 preview.
 
-Because the week is split by National Day, a missed Wednesday costs a whole unit stage — attendance matters here.
+These dates may shift when the school publishes the calendar for this period.
 
 ## Assessment
 

@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s3-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-13-the-viva-rehearsal-critique]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-15-submission-qc-the-return-and-into-c2]]"
-modified: 2026-07-24
+modified: 2026-07-26
 ---
 # S3 Lesson 14: A4 — The Complete Investigation
 
@@ -23,7 +23,15 @@ modified: 2026-07-24
 | Graded | **A4** Wed 2027-12-22 (AO1–AO4) — the complete investigation, **no edits after** |
 | Homework | None over the break beyond the winter homework for [[classes/a-level-art-design/unit-plans/9479-semester-4-plan\|Semester 4]] (the C2/ESA past-paper review) |
 
-These dates may shift when the school publishes the calendar for this period; any change will be confirmed in class.
+These dates may shift when the school publishes the calendar for this period.
+
+## Objectives
+
+By the end of this lesson, you can:
+
+1. Complete a final page-by-page AO check
+2. Submit the complete Personal Investigation at A4 — both outcomes with portfolio and paper, with no edits after
+3. Begin submission photography while the work is still at hand
 
 ## Goal
 
@@ -38,9 +46,9 @@ This is the Component 3 internal submission. Monday and Tuesday are the final pa
 ## How it runs
 
 - **Mon 12-20 — pre-submission check.** The AO check, page by page: all four descriptors evidenced, in writing.
-- **Tue 12-21 — pre-submission check continues.** Close the last named gaps — the last marks that can still be earned.
-- **Wed 12-22 — A4: complete Personal Investigation due.** Both outcomes, the portfolio, the paper. Submitted in session, marked across AO1–AO4; **no edits after**. Submission photography begins while the work is at hand.
-- The Christmas break follows; the QC tail resumes after it.
+- **Tue 12-21 — pre-submission check continues.** Close the last named gaps — the last marks you can still earn.
+- **Wed 12-22 — A4: complete Personal Investigation due.** Both outcomes, the portfolio, the paper. You submit in session, and it is marked across AO1–AO4; **no edits after**. Submission photography begins while the work is at hand.
+- The Christmas break follows, and the QC tail resumes after it.
 
 ## Key content: the whole investigation, no edits after
 
