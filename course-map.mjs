@@ -57,6 +57,14 @@ export function classify(rel, title) {
   // "Course calendar", to keep it distinct from the site-wide Calendar link.
   if (base === "course-calendar") return { group: "calendar", label: "Course calendar", sort: 0 }
   if (rel.includes("assessments/")) {
+    // Only the register earns a nav entry. Since 2026-07-30 the folder also holds
+    // one page per assessment (A1…A5, EoT, "the Final"), and listing those gave
+    // six identical "S1 assessments" rows in the A Level drawer — every page in
+    // the folder matched the same label rule. Students reach an individual
+    // assessment from the register, the course map, its unit plan or the lesson
+    // that carries it, which is how they actually arrive at one.
+    // Registers are `…-assessments`, plus Oxbridge's singular `…-assessment`.
+    if (!/-assessments?$/.test(base)) return null
     const m = title.match(/\bS(\d)\b/i)
     return {
       group: "assessments",
