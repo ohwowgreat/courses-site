@@ -780,7 +780,7 @@ function insertFigures(body, entries, depth) {
 const DROP_PAGES = new Set([
   "index.md", // routing table for the LLM, not readers
   "log.md", // append-only operation history
-  "courses-dashboard.md", // congestion analysis, risks, open questions
+  "courses-dashboard.md", // deleted from the vault 2026-07-29 (absorbed into home.md); entry kept harmlessly as a tombstone
   "shared/first-session-opener.md", // teaching script for the opener
   "shared/image-slide-library.md", // internal 6,181-image asset catalog
   // Every student-relevant date on it already appears on the hub calendar page (a
@@ -794,6 +794,9 @@ const DROP_PAGES = new Set([
   // Provenance analysis, teacher-facing in its entirety: which theorists are
   // Cambridge's vs the centre's, what the vault holds no readings for (2026-07-20).
   "analyses/9607-theory-provenance.md",
+  // Planning history preserved from the deleted courses-dashboard.md (2026-07-29):
+  // build waves, congestion risks, resolved decisions — teacher-facing throughout.
+  "analyses/summer-2026-buildout.md",
   // The vault's home page is a teacher's dashboard: vault status, the live Bases
   // table, links to the index and dashboard. The site gets site-home.md instead.
   "home.md",
