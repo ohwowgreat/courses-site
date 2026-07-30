@@ -13,21 +13,23 @@ modified: 2026-07-20
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan|Semester 1 Plan]]
 
-Assessments for Grade 10 Art, Semester 1 (2026-27), graded under the BNDS A-Level Handbook categories — see [[shared/bnds-assessment-framework|BNDS Assessment Framework]] for the framework. Weights: **Attainment 50% · Course Skills 20% · Learning Behaviour 10% · End of Term Exam 20%**.
+Full assessment register for Grade 10 Art, Semester 1 (2026-27), graded under the BNDS A-Level Handbook categories — see [[shared/bnds-assessment-framework|BNDS Assessment Framework]] for the framework itself. Weights: **Attainment 50% · Course Skills 20% · Learning Behaviour 10% · End of Term Exam 20%**.
 
 ## Attainments (50%) — A1–A5
 
 | Code | Date (Wed) | Task | Marking focus | Unit |
 | --- | --- | --- | --- | --- |
-| A1 | 2026-09-30 | Final observational drawing + reflection (made in class, W4–W5) | Observation, tone, composition | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements\|U1]] |
-| A2 | 2026-11-04 | Photographic series + reflection — select, sequence, submit | Framing, viewpoint, light, series thinking | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography\|U2]] |
-| A3 | 2026-12-09 | Final collage + reflection (made in class, W14–W15) | Juxtaposition, layering, composition, meaning | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage\|U3]] |
-| A4 | 2026-12-23 | Final poster + reflection (handmade or digital) | Hierarchy, typography, message, audience | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster\|U4]] |
-| A5 | 2027-01-06 | Sketchbook submitted for assessment — the whole semester's work | Ideas, experimentation, visual research, reflection, presentation | sketchbook (all units) |
+| [[classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing\|A1]] | 2026-09-30 | Final observational drawing + reflection (made in class, W4–W5) | Observation, tone, composition | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements\|U1]] |
+| [[classes/pre-a-level-art-design/assessments/pal-s1-a2-photographic-series\|A2]] | 2026-11-04 | Photographic series + reflection — select, sequence, submit | Framing, viewpoint, light, series thinking | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography\|U2]] |
+| [[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage\|A3]] | 2026-12-09 | Final collage + reflection (made in class, W14–W15) | Juxtaposition, layering, composition, meaning | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage\|U3]] |
+| [[classes/pre-a-level-art-design/assessments/pal-s1-a4-final-poster\|A4]] | 2026-12-23 | Final poster + reflection (handmade or digital) | Hierarchy, typography, message, audience | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster\|U4]] |
+| [[classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook\|A5]] | 2027-01-06 | Sketchbook submitted for assessment — the whole semester's work | Ideas, experimentation, visual research, reflection, presentation | sketchbook (all units) |
+
+Each attainment has its own page carrying objectives, the task, instructions and a rubric, plus the [[classes/pre-a-level-art-design/assessments/pal-s1-eot-semester-portfolio|EoT portfolio]]. A3 is marked on the focus above (juxtaposition, layering, composition, meaning). A5 carries one overall attainment mark.
 
 ### A5 — the sketchbook
 
-Your fifth attainment is the sketchbook itself, **submitted for assessment on the last teaching session, Wed 2027-01-06 (W19), alongside the End-of-Term portfolio.** It carries your whole semester's work, so it is known from the first week. It is assessed on ideas and creativity, experimentation, visual research, critical reflection, and presentation.
+The fifth attainment is the sketchbook itself, **submitted for assessment on the last teaching session, Wed 2027-01-06 (W19), alongside the End-of-Term portfolio.** It carries the whole semester's work, so you know about it from the first week. It is assessed on ideas and creativity, experimentation, visual research, critical reflection, and presentation.
 
 ## Course Skills (20%) — CS1–CS4 + HW1 + SB1–SB2 (sketchbook)
 
@@ -41,11 +43,11 @@ Your fifth attainment is the sketchbook itself, **submitted for assessment on th
 | SB2 | 2026-12-02 | Sketchbook spot-check 2 — progress and upkeep | Sketchbook habit and development | sketchbook (all) |
 | CS4 | 2026-12-16 | Thumbnail set + poster analysis | Hierarchy and audience | U4 |
 
-**Sketchbook spot-checks (SB1, SB2):** your sketchbook is checked twice during the semester for a Course Skills mark — **Wed 2026-10-21** and **Wed 2026-12-02**. The focus is progress and upkeep, not a full grade against the A5 rubric.
+**Sketchbook spot-checks (SB1, SB2):** your sketchbook is checked twice during the semester for a Course Skills mark — **Wed 2026-10-21** and **Wed 2026-12-02**. Both dates are known in advance. The focus is progress and upkeep, not a full grade against the A5 rubric.
 
 ## Learning Behaviour (10%)
 
-Post your sketchbook on MB after every session — **17 postings** across the semester (W18 falls in the winter break). This carries the one-grade-per-week rule.
+Post your sketchbook to MB after every session — **17 postings** across the semester (W18 falls in the winter break). This carries the one-grade-per-week rule.
 
 The sketchbook earns marks three ways: the weekly posting here (Learning Behaviour), two spot-checks during the semester (Course Skills — **SB1** 2026-10-21, **SB2** 2026-12-02), and the final submission (Attainment **A5**, due 2027-01-06).
 

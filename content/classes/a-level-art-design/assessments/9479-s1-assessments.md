@@ -17,16 +17,16 @@ modified: 2026-07-19
 
 Grading follows the [[shared/bnds-assessment-framework|BNDS assessment framework]]: **Attainment 50% · Course Skills 20% · Learning Behaviour 10% · End of Term Exam 20%**. A1–A4 are the attainment layer (portfolio milestones marked against the 9479 AOs); CS1–CS10 are the course-skills layer, each direct practice for the attainment it precedes; the 20% End of Term category is met by **the Final** (below).
 
-The dates below may shift when the school publishes its calendar for this period.
-
 ## Attainments (50%) — A1–A4
 
 | Code | Date | Milestone | AOs | Unit |
 | --- | --- | --- | --- | --- |
-| A1 | **Fri 2026-10-09** | Recording: intention, Stage 1 pages, sustained study, supporting studies | AO1 | [[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study\|Unit 2]] |
-| A2 | **Mon 2026-11-09** | Exploration & artist study: twelve experiments, media selection, scale trial, artist pages, bridge piece | AO2+AO3 | [[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study\|Unit 3]] |
-| A3 | **Thu 2026-12-10** | Development: compositions 1+2, targeted tests, written evaluation, final composition plan | AO3 | [[classes/a-level-art-design/unit-plans/9479-s1-unit-4-development\|Unit 4]] |
-| A4 | **Thu 2027-01-07** | Final portfolio: resolved outcome + complete supporting portfolio, sequenced and edited; no edits after | AO1–AO4 | [[classes/a-level-art-design/unit-plans/9479-s1-unit-5-final-outcome-and-portfolio\|Unit 5]] |
+| [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone\|A1]] | **Fri 2026-10-09** | Recording: intention, Stage 1 pages, sustained study, supporting studies | AO1 | [[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study\|Unit 2]] |
+| [[classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study\|A2]] | **Mon 2026-11-09** | Exploration & artist study: twelve experiments, media selection, scale trial, artist pages, bridge piece | AO2+AO3 | [[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study\|Unit 3]] |
+| [[classes/a-level-art-design/assessments/9479-s1-a3-development-milestone\|A3]] | **Thu 2026-12-10** | Development: compositions 1+2, targeted tests, written evaluation, final composition plan | AO3 | [[classes/a-level-art-design/unit-plans/9479-s1-unit-4-development\|Unit 4]] |
+| [[classes/a-level-art-design/assessments/9479-s1-a4-final-portfolio\|A4]] | **Thu 2027-01-07** | Final portfolio: resolved outcome + complete supporting portfolio, sequenced and edited; no edits after | AO1–AO4 | [[classes/a-level-art-design/unit-plans/9479-s1-unit-5-final-outcome-and-portfolio\|Unit 5]] |
+
+Each attainment has its own page above, carrying objectives, the task, instructions and the Cambridge marking grid. The grid itself lives on [[classes/a-level-art-design/9479-assessment-criteria|9479 Assessment Criteria]].
 
 ## Course Skills tasks (20%)
 
@@ -45,4 +45,8 @@ The dates below may shift when the school publishes its calendar for this period
 
 ## The Final (End of Term Exam category, 20%)
 
-The 20% category is satisfied by **the Final**: a teacher-marked assessment of your portfolio-so-far against the Cambridge criteria. There is no exam paper, no invigilation and no new task — you are marked on the portfolio you produce over the semester. The date will be confirmed in class.
+Full page: [[classes/a-level-art-design/assessments/9479-s1-the-final|The Final]].
+
+The 20% category is satisfied by **the Final**: a **teacher-marked assessment of your portfolio-so-far against the Cambridge criteria**. There is no exam paper, no invigilation and no new task — the evidence is the portfolio you produce across the semester.
+
+The Final falls within the exam window (Mon 2027-01-11 → Mon 2027-01-18). The exact date will be confirmed in class.

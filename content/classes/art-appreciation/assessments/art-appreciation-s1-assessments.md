@@ -17,23 +17,27 @@ modified: 2026-07-19
 
 ## Weights
 
-Under the [[shared/bnds-assessment-framework|BNDS A-Level assessment framework]]: **Attainment 50%** (A1–A4) · **Course Skills 20%** (CS1–5) · **Learning Behaviour 10%** (LB postings) · **End of Term 20%** (the retrospective). This course has only four attainment items, so no attainment mark is dropped (dropping requires at least six).
+Under the [[shared/bnds-assessment-framework|BNDS A-Level assessment framework]]: **Attainment 50%** (A1–A4) · **Course Skills 20%** (CS1–5) · **Learning Behaviour 10%** (LB postings) · **End of Term 20%** (the retrospective). Because the course has only four attainment items, no attainment mark is dropped.
 
 ## Majors (A1–A4 + End of Term)
 
 | Item | You sit | What is marked | Format |
 | --- | --- | --- | --- |
-| A1 | Fri 2026-09-18 | Unit 1 board + justification — close looking, justified adjacency | Group board built on the wall + individual written justification |
-| A2 | Tue 2026-10-13 | Unit 2 comparative essay — one claim about Titian vs Manet, evidenced from the pictures | In-class essay, closed |
-| A3 | Tue 2026-11-17 | Unit 3 essay — food, the table and ethics, argued from the pictures | In-class essay |
-| A4 | Tue 2026-12-15 | Unit 4 synthesis — a constellation that argues across the whole unit | In-class constellation build + written argument |
-| EoT | Tue 2027-01-05 | Semester-close retrospective — a semester of looking as one argument, in the layout | In-class constellation, 20% End of Term |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board\|A1]] | Fri 2026-09-18 | Unit 1 board + justification — close looking, justified adjacency | Group board built on the wall + individual written justification |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison\|A2]] | Tue 2026-10-13 | Unit 2 comparative essay — one claim about Titian vs Manet, evidenced from the pictures | In-class essay, closed |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay\|A3]] | Tue 2026-11-17 | Unit 3 essay — food, the table and ethics, argued from the pictures | In-class essay |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis\|A4]] | Tue 2026-12-15 | Unit 4 synthesis — a constellation that argues across the whole unit | In-class constellation build + written argument |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-eot-retrospective\|EoT]] | Tue 2027-01-05 | Semester-close retrospective — a semester of looking as one argument, in the layout | In-class constellation, 20% End of Term |
 
-Your mid-term grades (issued Thu 2026-10-29) are based on A2 and participation.
+Each item above has its own page with objectives, the task, instructions and a rubric. A1, A4 and the retrospective share two criteria, so the three constellations read as a series.
+
+A2 also carries your mid-term grades (issued Thu 2026-10-29, based on A2 + participation), so it is marked within a week.
+
+These dates for the second half of the semester may shift when the school publishes the calendar for that period.
 
 ## Course Skills (CS1–CS5)
 
-Each CS rehearses the major next to it. You get at least 72 hours' notice, and marks come back within 5 working days.
+Each CS rehearses the major next to it. You get at least 72 hours' notice, and work is marked back within 5 working days.
 
 | Item | Date | What | Rehearses |
 |---|---|---|---|
@@ -57,4 +61,4 @@ Participation postings, graded on behaviour (taking a position and moving it), n
 | LB6 | Wed 2026-11-25 | Reproduction seminar |
 | LB7 | Tue 2026-12-01 | Floating-world session |
 | LB8 | Tue 2026-12-22 | Danto/Warhol day — End-of-Semester Activity, short room |
-| LB9 | Tue 2027-01-19 | Return days — **carries no S1 weight**; it counts toward S2 |
+| LB9 | Tue 2027-01-19 | Return days — falls after the Wed 2027-01-20 grades deadline, **carries no S1 weight**, counts toward S2 |

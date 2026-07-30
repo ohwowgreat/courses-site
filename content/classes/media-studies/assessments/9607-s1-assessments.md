@@ -17,17 +17,19 @@ modified: 2026-07-21
 
 G11 (AS) Semester 1, 2026-27: **4 attainments + 11 Course Skills items (CS1–CS9 + HW1–HW2) + 6 Learning Behaviour postings + 1 End of Term Exam** across 21 weeks. Weights per [[shared/bnds-assessment-framework|BNDS framework]]: Attainment 50% · Course Skills 20% · Learning Behaviour 10% · End of Term 20%.
 
+Dates below are set for this semester but may shift once the school publishes its calendar for the period; any change will be confirmed in class.
+
 ## Attainments and End of Term Exam
 
 | Code | Date | Task | AO | Format |
 | --- | --- | --- | --- | --- |
-| A1 | Wed 2026-10-14 | Timed media language analysis, unseen TV-drama extract | AO1+AO2 | 60 min writing, exam conditions, Wednesday double ([[classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis\|L06]]) |
-| A2 | Mon 2026-10-26 | C1 blog mid-point: posts 1–7 | AO3 | Submit your blog URLs in the first five minutes of class ([[classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product\|L08]]) |
-| A3 | Fri 2026-11-27 | C1 portfolio complete: product + CCR + dated blog | AO2+AO3 | Official C1 criteria (old-spec AO2 20 + AO3 80, scaled to 50); no edits after submission; returned Tue 12-01 ([[classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission\|L11]]) |
-| A4 | Wed 2026-12-16 | C2 Section A in authentic format, unseen extract | AO1+AO2 | 30 min viewing/notes + 45 min writing; marked to CIE band descriptors with AO splits recorded ([[classes/media-studies/lesson-plans/9607-s1-lesson-13-a4-section-a-in-authentic-format\|L13]]) |
-| EoT | window Mon 2027-01-11 → Mon 01-18 | Full Component 2 paper | AO1+AO2 | 2 hours, exam venue, slot set by the exam office; 20% category ([[classes/media-studies/lesson-plans/9607-s1-lesson-16-end-of-term-exam-and-return\|L16]]) |
+| [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]] | Wed 2026-10-14 | Timed media language analysis, unseen TV-drama extract | AO1+AO2 | 60 min writing, exam conditions, Wednesday double ([[classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis\|L06]]) |
+| [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point\|A2]] | Mon 2026-10-26 | C1 blog mid-point: posts 1–7 | AO3 | Submit your blog URLs in the first five minutes of class ([[classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product\|L08]]) |
+| [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio\|A3]] | Fri 2026-11-27 | C1 portfolio complete: product + CCR + dated blog | AO2+AO3 | Official C1 criteria, **50 marks: AO3 40 + AO2 10**; no edits after submission; returned Tue 12-01 ([[classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission\|L11]]) |
+| [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format\|A4]] | Wed 2026-12-16 | C2 Section A in authentic format, unseen extract | AO1+AO2 | 30 min viewing/notes + 45 min writing; marked to CIE band descriptors with AO splits recorded ([[classes/media-studies/lesson-plans/9607-s1-lesson-13-a4-section-a-in-authentic-format\|L13]]) |
+| [[classes/media-studies/assessments/9607-s1-eot-component-2-paper\|EoT]] | window Mon 2027-01-11 → Mon 01-18 | Full Component 2 paper | AO1+AO2 | 2 hours, exam venue, exact slot set by the exam office; 20% category ([[classes/media-studies/lesson-plans/9607-s1-lesson-16-end-of-term-exam-and-return\|L16]]) |
 
-The exact End of Term slot within the window is set by the exam office and will be confirmed in class.
+Each item above has its own page carrying objectives, the task, instructions and the full marking rubric.
 
 ## Course Skills tasks and break homework
 
@@ -56,4 +58,4 @@ The exact End of Term slot within the window is set by the exam office and will 
 | LB5 | Wed 2026-12-23 | W17 | Case-study document contributions |
 | LB7 | Wed 2027-01-20 | W21 | Response to feedback; Semester 2 goal setting |
 
-LB postings cover the weeks with no CS task or attainment: W5, W6, W10, W14, W17, W21. There is no LB6, as W18 falls in winter break with no teaching week to cover.
+LB postings cover the weeks with no CS task or attainment (W5, W6, W10, W14, W17, W21). W18 is winter break, so there is no LB6.
