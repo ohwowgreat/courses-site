@@ -9,7 +9,7 @@ related:
   - "[[classes/oxbridge/oxbridge-interview-preparation]]"
   - "[[classes/oxbridge/oxbridge-reading-list]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-25
+modified: 2026-07-29
 ---
 <figure class="plate plate--hero">
   <img src="../../static/img/oxbridge.jpg" alt="Raphael, The School of Athens, 1509–11" loading="lazy" />

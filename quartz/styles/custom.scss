@@ -345,15 +345,20 @@ blockquote.callout {
 
 // ── Month-grid calendars ─────────────────────────────────────────────────────
 
-// One hue per course, distinct but within the warm register of the site. Defined at
-// the root so both the grid (.cal) and the legend (.cal-legend, a separate block) can
-// reach them.
+// One hue per course, spread around the wheel so two chips are never mistaken for
+// each other at chip size: red-orange, gold, green, blue, violet — roughly 60° of
+// separation each. Defined at the root so both the grid (.cal) and the legend
+// (.cal-legend, a separate block) can reach them. --c-exam is deliberately cool:
+// the exam window used to shade in the same warm red as a holiday.
 :root {
-  --c-a-level: #b0623f;
-  --c-media: #4f7d8c;
-  --c-art-app: #a17b1f;
-  --c-pal: #5c8a58;
-  --c-oxbridge: #836aa6;
+  // Each one dark enough to carry white chip text at 4.5:1 or better.
+  --c-a-level: #b04527;
+  --c-media: #2f6fa8;
+  --c-art-app: #8a6810;
+  --c-pal: #37743f;
+  --c-oxbridge: #7a4a9e;
+  --c-holiday: #b5462f;
+  --c-exam: #43607d;
 }
 
 // Paged: one month visible at a time, driven by hidden radio inputs — the
@@ -406,9 +411,12 @@ blockquote.callout {
     visibility: hidden;
   }
 }
+// minmax(0, 1fr), not 1fr: a plain 1fr floors at the content's min width, so one
+// long chip widens its column and the whole week goes crooked — and the bar track
+// below, which mirrors these columns, would stop lining up with the days.
 .cal-grid {
   display: grid;
-  grid-template-columns: repeat(7, 1fr);
+  grid-template-columns: repeat(7, minmax(0, 1fr));
   gap: 3px;
 }
 .cal-dow {
@@ -439,16 +447,19 @@ blockquote.callout {
   color: var(--gray);
   line-height: 1;
 }
+// Three kinds of non-teaching day, each with its own signal: weekends recede into
+// grey, holidays are warm red, the exam window is cool slate.
 .cal-day--weekend {
-  background: color-mix(in srgb, var(--gray) 7%, transparent);
+  background: color-mix(in srgb, var(--gray) 14%, transparent);
+  border-color: color-mix(in srgb, var(--gray) 18%, var(--lightgray));
 }
 .cal-day--holiday {
-  background: color-mix(in srgb, #b5462f 14%, transparent);
-  border-color: color-mix(in srgb, #b5462f 22%, var(--lightgray));
+  background: color-mix(in srgb, var(--c-holiday) 15%, transparent);
+  border-color: color-mix(in srgb, var(--c-holiday) 30%, var(--lightgray));
 }
 .cal-day--exam {
-  background: color-mix(in srgb, var(--secondary) 13%, transparent);
-  border-color: color-mix(in srgb, var(--secondary) 25%, var(--lightgray));
+  background: color-mix(in srgb, var(--c-exam) 17%, transparent);
+  border-color: color-mix(in srgb, var(--c-exam) 34%, var(--lightgray));
 }
 .cal-evs {
   display: flex;
@@ -457,36 +468,47 @@ blockquote.callout {
 }
 // Single-month view has room for detail: chips wrap instead of truncating, and
 // assessment chips carry a short descriptor after their bold code.
-.cal-ev {
+//
+// Every mark below is prefixed with .calwrap — the chips, bars and labels are
+// links now, and Quartz styles internal links (a.internal) with a highlight
+// background and its own padding. Two classes outrank one class + one element,
+// so the prefix is what keeps a chip looking like a chip.
+.calwrap .cal-ev {
   font-size: 0.64rem;
   line-height: 1.25;
   padding: 2px 5px;
   border-radius: 3px;
   font-weight: 500;
   color: #fff;
+  // Three lines is the most a chip may take before it starts pushing its week
+  // taller than the rest of the month; the full wording is in the title.
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 
   strong {
     font-weight: 700;
     color: inherit;
   }
 }
-.cal-ev--a-level {
+.calwrap .cal-ev--a-level {
   background: var(--c-a-level);
 }
-.cal-ev--media {
+.calwrap .cal-ev--media {
   background: var(--c-media);
 }
-.cal-ev--art-app {
+.calwrap .cal-ev--art-app {
   background: var(--c-art-app);
 }
-.cal-ev--pal {
+.calwrap .cal-ev--pal {
   background: var(--c-pal);
 }
-.cal-ev--oxbridge {
+.calwrap .cal-ev--oxbridge {
   background: var(--c-oxbridge);
 }
 // School context chips (holiday name, exam window, term anchors) read as quiet text.
-.cal-ev--school {
+.calwrap .cal-ev--school {
   background: none;
   color: var(--darkgray);
   font-weight: 600;
@@ -532,31 +554,94 @@ blockquote.callout {
   align-self: flex-start;
   font-weight: 650;
 }
-.cal-lesson {
+// Lesson starts, labelled in the day they open. Clamped to two lines so a long
+// title can't stretch its week taller than the rest of the month.
+.calwrap .cal-lesson {
   font-size: 0.62rem;
   line-height: 1.25;
   color: var(--darkgray);
   font-weight: 500;
-}
-.cal-unitlabel {
-  font-size: 0.56rem;
-  font-weight: 700;
-  color: var(--cc);
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  line-height: 1.3;
-}
-// Alternating unit bands so boundaries read without labels on every day.
-.cal-day--u0 {
-  background: color-mix(in srgb, var(--cc) 5%, transparent);
-}
-.cal-day--u1 {
-  background: color-mix(in srgb, var(--cc) 11%, transparent);
+  background: none;
+  padding: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
-// Per-course legend keys mirroring the four weights. Prefixed with .calwrap so
-// they outrank the base .cal-key rule (color: #fff), which follows later in this
-// file at single-class specificity.
+// ── Unit bars ────────────────────────────────────────────────────────────────
+// A track above each week of days, on a nested grid that mirrors the day columns,
+// so a unit reads as one bar spanning its dates. Segments break for weekends,
+// holidays and the exam window — the bar shows taught days only.
+.cal-bars {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 3px;
+  margin: 1px 0 0;
+}
+.calwrap .cal-bar {
+  font-size: 0.6rem;
+  font-weight: 700;
+  line-height: 1.65;
+  letter-spacing: 0.005em;
+  padding: 0 calc(0.45rem - 1px);
+  border: 1px solid color-mix(in srgb, var(--cc) 30%, transparent);
+  border-radius: 2px;
+  color: var(--darkgray);
+  background: color-mix(in srgb, var(--cc) 20%, transparent);
+  // Long titles clip rather than push the bar past its dates.
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+// The week a unit opens in gets a spine, so a boundary is visible even mid-week.
+.calwrap .cal-bar--open {
+  border-left: 3px solid var(--cc);
+  padding-left: calc(0.45rem - 3px);
+  border-radius: 1px 2px 2px 1px;
+}
+// A ramp across the semester's units — same hue, deepening — so consecutive bars
+// are never the same weight while the course still reads as one colour. It stops
+// short of the point where the label would lose contrast against the fill.
+@each $i, $fill in (0: 16%, 1: 22%, 2: 28%, 3: 34%, 4: 40%, 5: 46%) {
+  .calwrap .cal-bar--u#{$i} {
+    background: color-mix(in srgb, var(--cc) #{$fill}, transparent);
+    border-color: color-mix(in srgb, var(--cc) #{$fill + 16%}, transparent);
+  }
+  .calwrap .cal-bar--u#{$i}.cal-bar--open {
+    border-left-color: var(--cc);
+  }
+}
+
+// ── Legend above each calendar ───────────────────────────────────────────────
+// The base key first, then the variants that override it: every key rule now
+// carries the .calwrap prefix (the hub's course keys are links), so ordering —
+// not specificity — is what decides.
+.cal-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.6rem;
+  margin: 0.5rem 0 0.2rem;
+  align-items: center;
+}
+.calwrap .cal-key {
+  font-size: 0.66rem;
+  font-weight: 600;
+  padding: 1px 7px;
+  border-radius: 10px;
+  color: #fff;
+}
+.calwrap .cal-key--holiday {
+  color: var(--darkgray);
+  background: color-mix(in srgb, var(--c-holiday) 22%, transparent);
+}
+.calwrap .cal-key--exam {
+  color: var(--darkgray);
+  background: color-mix(in srgb, var(--c-exam) 24%, transparent);
+}
+
+// Per-course legend keys mirroring the four levels of weight.
 .calwrap .cal-key--att {
   background: var(--cc);
 }
@@ -570,33 +655,44 @@ blockquote.callout {
   border: 1px solid var(--lightgray);
   color: var(--gray);
 }
+// Shaped like the bar it stands for: square, spined, not a pill.
 .calwrap .cal-key--unit {
-  background: color-mix(in srgb, var(--cc) 11%, transparent);
+  background: color-mix(in srgb, var(--cc) 22%, transparent);
+  border-left: 3px solid var(--cc);
+  border-radius: 1px 3px 3px 1px;
   color: var(--darkgray);
 }
 
-// Legend above each calendar.
-.cal-legend {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem 0.6rem;
-  margin: 0.5rem 0 0.2rem;
-  align-items: center;
+// Everything on the grid is a link to the page it came from: chips to the
+// assessment register, lesson labels to the lesson plan, unit bars to the unit
+// plan. They keep the shape they had as static marks — no underline, no link
+// colour — and lift slightly on hover so their reach is discoverable.
+.calwrap a {
+  border: none;
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  transition:
+    filter 0.12s ease,
+    box-shadow 0.12s ease;
+
+  &:hover {
+    filter: saturate(1.35);
+  }
+  &:focus-visible {
+    outline: 2px solid var(--secondary);
+    outline-offset: 1px;
+  }
 }
-.cal-key {
-  font-size: 0.66rem;
-  font-weight: 600;
-  padding: 1px 7px;
-  border-radius: 10px;
-  color: #fff;
+.calwrap a.cal-ev:hover,
+.calwrap a.cal-bar:hover {
+  box-shadow: 0 1px 3px color-mix(in srgb, var(--dark) 22%, transparent);
 }
-.cal-key--holiday {
-  color: var(--darkgray);
-  background: color-mix(in srgb, #b5462f 20%, transparent);
-}
-.cal-key--exam {
-  color: var(--darkgray);
-  background: color-mix(in srgb, var(--secondary) 20%, transparent);
+.calwrap a.cal-lesson:hover {
+  color: var(--secondary);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
 }
 
 // ── Course map ───────────────────────────────────────────────────────────────

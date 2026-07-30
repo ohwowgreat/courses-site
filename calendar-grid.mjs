@@ -41,8 +41,18 @@ const MONTHS = [
   [2027, 0],
 ]
 const MONTH_NAMES = [
-  "January", "February", "March", "April", "May", "June",
-  "July", "August", "September", "October", "November", "December",
+  "January",
+  "February",
+  "March",
+  "April",
+  "May",
+  "June",
+  "July",
+  "August",
+  "September",
+  "October",
+  "November",
+  "December",
 ]
 const DOW = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
 
@@ -68,7 +78,10 @@ function classify(scope, course, label) {
 
 // Split a table row on unescaped pipes — one event cell holds a `[[path\|alias]]`.
 function splitRow(line) {
-  const cells = line.split(/(?<!\\)\|/).slice(1, -1).map((c) => c.trim())
+  const cells = line
+    .split(/(?<!\\)\|/)
+    .slice(1, -1)
+    .map((c) => c.trim())
   return cells
 }
 
@@ -160,6 +173,16 @@ const chipTitle = (ev) =>
 const esc = (s) =>
   s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;")
 
+// Every mark on the grid is a link to the page it came from — an <a> when the
+// item knows its page, an inert <span> when it doesn't. Hrefs are content-root
+// relative slugs; Quartz's link transformer relativizes them per page. `inner`
+// and `title` arrive escaped (chipHtml/chipTitle do their own).
+function tag(cls, inner, { href, title, style } = {}) {
+  const attrs =
+    `class="${cls}"` + (title ? ` title="${title}"` : "") + (style ? ` style="${style}"` : "")
+  return href ? `<a ${attrs} href="${esc(href)}">${inner}</a>` : `<span ${attrs}>${inner}</span>`
+}
+
 // Chip stacking order inside a day cell: assessments first, then class tasks,
 // then participation postings; lesson labels render above all chips.
 const WEIGHT = { assessment: 0, attainment: 0, "course-event": 1, cs: 2, lb: 3 }
@@ -168,7 +191,7 @@ function collect(events, units = []) {
   const chips = new Map()
   const shade = new Map()
   const lessons = new Map()
-  const unitTint = new Map()
+  const unitOf = new Map()
   const push = (map, iso, v) => {
     if (!map.has(iso)) map.set(iso, [])
     map.get(iso).push(v)
@@ -188,65 +211,117 @@ function collect(events, units = []) {
       for (const d of days) push(chips, d, ev)
     }
   }
-  for (const [iso, list] of chips) list.sort((a, b) => (WEIGHT[a.kind] ?? 1) - (WEIGHT[b.kind] ?? 1))
-  // Unit spans tint their teaching days (weekends and holidays excluded at render),
-  // alternating intensity so unit boundaries stay visible; label on the first day.
-  units.forEach((u, i) => {
-    let first = true
+  for (const [iso, list] of chips)
+    list.sort((a, b) => (WEIGHT[a.kind] ?? 1) - (WEIGHT[b.kind] ?? 1))
+  // A unit claims its teaching days — weekends, holidays and the exam window are
+  // not taught, so they break the bar rather than sit under it. Each unit carries
+  // its ramp position (i) and its first taught day, which the renderer uses to
+  // give the opening segment its spine.
+  const bars = units.map((u, i) => ({ ...u, i, firstDay: null }))
+  for (const u of bars) {
     for (const iso of eachDay(u.start, u.end)) {
       const dow = (new Date(iso + "T00:00:00Z").getUTCDay() + 6) % 7
-      if (dow >= 5) continue
-      unitTint.set(iso, {
-        p: i % 2,
-        label: first ? `U${u.num}${u.title ? ` · ${u.title}` : ""}` : null,
-      })
-      first = false
+      if (dow >= 5 || shade.has(iso)) continue
+      u.firstDay ??= iso
+      unitOf.set(iso, u)
     }
+  }
+  return { chips, shade, lessons, unitOf, hasUnits: bars.length > 0 }
+}
+
+// The bar track above a week's days: one segment per run of consecutive taught
+// days, placed on a nested 7-column grid that mirrors the day columns. A unit
+// therefore reads as a continuous band across the dates it spans, breaking where
+// teaching does.
+function unitBarRow(week, data) {
+  const runs = []
+  week.forEach((cell, i) => {
+    const u = cell && data.unitOf.get(cell.iso)
+    if (!u) return
+    const last = runs[runs.length - 1]
+    if (last && last.u === u && last.col + last.span === i + 1) {
+      last.span++
+      return
+    }
+    runs.push({ u, col: i + 1, span: 1, from: cell.iso })
   })
-  return { chips, shade, lessons, unitTint }
+  const bars = runs
+    .map(({ u, col, span, from }) => {
+      const label = span > 1 && u.title ? `U${u.num} · ${u.title}` : `U${u.num}`
+      const cls = [
+        "cal-bar",
+        `cal-bar--u${Math.min(u.i, 5)}`,
+        from === u.firstDay && "cal-bar--open",
+      ]
+        .filter(Boolean)
+        .join(" ")
+      return tag(cls, esc(label), {
+        href: u.href,
+        title: esc(`Unit ${u.num}${u.title ? `: ${u.title}` : ""} · ${u.start} → ${u.end}`),
+        style: `grid-column:${col}/span ${span}`,
+      })
+    })
+    .join("")
+  return `<div class="cal-bars">${bars}</div>`
+}
+
+function dayCell(cell, data) {
+  if (!cell) return `<div class="cal-day cal-day--empty"></div>`
+  const { d, iso, weekend } = cell
+  const sh = data.shade.get(iso)
+  const lessonLabels = (data.lessons.get(iso) || [])
+    .map((e) =>
+      tag("cal-lesson", esc(`${e.code}${e.desc ? ` ${trunc(e.desc, 24)}` : ""}`), {
+        href: e.href,
+        title: esc(`${e.code}: ${e.desc}`),
+      }),
+    )
+    .join("")
+  const evs = (data.chips.get(iso) || [])
+    .map((e) =>
+      tag(`cal-ev cal-ev--${e.course ?? ""} cal-ev--${e.kind}`, chipHtml(e), {
+        href: e.href,
+        title: chipTitle(e),
+      }),
+    )
+    .join("")
+  const cls = ["cal-day", sh && `cal-day--${sh}`, weekend && "cal-day--weekend"]
+    .filter(Boolean)
+    .join(" ")
+  return `<div class="${cls}"><span class="cal-daynum">${d}</span><div class="cal-evs">${lessonLabels}${evs}</div></div>`
 }
 
 function renderMonth(y, m, data, idx, total) {
-  const { chips, shade, lessons, unitTint } = data
   const startDow = (new Date(Date.UTC(y, m, 1)).getUTCDay() + 6) % 7 // Mon = 0
   const daysInMonth = new Date(Date.UTC(y, m + 1, 0)).getUTCDate()
-  let cells = ""
-  for (let i = 0; i < startDow; i++) cells += `<div class="cal-day cal-day--empty"></div>`
+  // Pad to whole weeks so each row is a Mon–Sun band the bar track can span.
+  const slots = Array.from({ length: startDow }, () => null)
   for (let d = 1; d <= daysInMonth; d++) {
-    const iso = `${y}-${String(m + 1).padStart(2, "0")}-${String(d).padStart(2, "0")}`
-    const sh = shade.get(iso)
-    const weekend = (new Date(Date.UTC(y, m, d)).getUTCDay() + 6) % 7 >= 5
-    const tint = !sh && unitTint.get(iso)
-    const unitLabel = tint?.label ? `<span class="cal-unitlabel">${esc(tint.label)}</span>` : ""
-    const lessonLabels = (lessons.get(iso) || [])
-      .map(
-        (e) =>
-          `<span class="cal-lesson" title="${esc(`${e.code}: ${e.desc}`)}">${esc(
-            `${e.code}${e.desc ? ` ${trunc(e.desc, 24)}` : ""}`,
-          )}</span>`,
-      )
-      .join("")
-    const evs = (chips.get(iso) || [])
-      .map(
-        (e) =>
-          `<span class="cal-ev cal-ev--${e.course ?? ""} cal-ev--${e.kind}" title="${chipTitle(e)}">${chipHtml(e)}</span>`,
-      )
-      .join("")
-    const cls = [
-      "cal-day",
-      sh && `cal-day--${sh}`,
-      weekend && "cal-day--weekend",
-      tint && `cal-day--u${tint.p}`,
-    ]
-      .filter(Boolean)
-      .join(" ")
-    cells += `<div class="${cls}"><span class="cal-daynum">${d}</span><div class="cal-evs">${unitLabel}${lessonLabels}${evs}</div></div>`
+    slots.push({
+      d,
+      iso: `${y}-${String(m + 1).padStart(2, "0")}-${String(d).padStart(2, "0")}`,
+      weekend: (new Date(Date.UTC(y, m, d)).getUTCDay() + 6) % 7 >= 5,
+    })
+  }
+  while (slots.length % 7) slots.push(null)
+
+  let cells = ""
+  for (let w = 0; w < slots.length; w += 7) {
+    const week = slots.slice(w, w + 7)
+    if (data.hasUnits) cells += unitBarRow(week, data)
+    cells += week.map((cell) => dayCell(cell, data)).join("")
   }
   const dows = DOW.map((x) => `<div class="cal-dow">${x}</div>`).join("")
   // Prev/next are <label>s driving the pager's radio inputs — no JS, so paging
   // works on first load and after Quartz's SPA navigation alike.
-  const prev = idx > 0 ? `<label class="cal-nav" for="cal-m${idx - 1}">‹ ${MONTH_NAMES[MONTHS[idx - 1][1]]}</label>` : `<span class="cal-nav cal-nav--off"></span>`
-  const next = idx < total - 1 ? `<label class="cal-nav" for="cal-m${idx + 1}">${MONTH_NAMES[MONTHS[idx + 1][1]]} ›</label>` : `<span class="cal-nav cal-nav--off"></span>`
+  const prev =
+    idx > 0
+      ? `<label class="cal-nav" for="cal-m${idx - 1}">‹ ${MONTH_NAMES[MONTHS[idx - 1][1]]}</label>`
+      : `<span class="cal-nav cal-nav--off"></span>`
+  const next =
+    idx < total - 1
+      ? `<label class="cal-nav" for="cal-m${idx + 1}">${MONTH_NAMES[MONTHS[idx + 1][1]]} ›</label>`
+      : `<span class="cal-nav cal-nav--off"></span>`
   const head = `<div class="cal-month-head">${prev}<span class="cal-month-name">${MONTH_NAMES[m]} ${y}</span>${next}</div>`
   return `<div class="cal-month" data-m="${idx}">${head}<div class="cal-grid">${dows}${cells}</div></div>`
 }
@@ -256,7 +331,8 @@ function renderMonth(y, m, data, idx, total) {
 export function renderCalendar(events, units = []) {
   const data = collect(events, units)
   const radios = MONTHS.map(
-    (_, i) => `<input class="cal-radio" type="radio" name="cal-page" id="cal-m${i}"${i === 0 ? " checked" : ""}>`,
+    (_, i) =>
+      `<input class="cal-radio" type="radio" name="cal-page" id="cal-m${i}"${i === 0 ? " checked" : ""}>`,
   ).join("")
   const months = MONTHS.map(([y, m], i) => renderMonth(y, m, data, i, MONTHS.length)).join("")
   return `<div class="cal cal-paged">${radios}${months}</div>`
@@ -282,12 +358,18 @@ const COURSE_KEYS = {
   oxbridge: "Oxbridge",
 }
 
-// The hub legend lists every course; a per-course legend explains the levels of
-// visual weight instead (solid attainment → outlined task → tiny LB → unit band).
+// The hub legend lists every course, each key a link to that course's own
+// calendar; a per-course legend explains the levels of visual weight instead
+// (solid attainment → outlined task → tiny LB → unit bar).
 function legendHtml(mode) {
   if (!mode) {
     const courseChips = Object.keys(COURSE_KEYS)
-      .map((k) => `<span class="cal-key cal-ev--${k}">${COURSE_KEYS[k]}</span>`)
+      .map((k) =>
+        tag(`cal-key cal-ev--${k}`, COURSE_KEYS[k], {
+          href: `${COURSES[k].dir}/course-calendar`,
+          title: `${COURSES[k].name} calendar`,
+        }),
+      )
       .join("")
     return `<div class="cal-legend">${courseChips}<span class="cal-key cal-key--holiday">holiday</span><span class="cal-key cal-key--exam">exam window</span></div>`
   }
@@ -319,14 +401,32 @@ export function mergeCourseEvents(agendaCourseEvents, detail) {
 export function calendarBlock(events, mode, detail = null) {
   let grid
   if (mode) {
-    const context = events.filter(isContext)
-    const own = events.filter((ev) => ev.course === mode && !isContext(ev))
+    // Agenda events know only their course, so their chips point at the course's
+    // assessment register (the page that carries the dated detail); school context
+    // points back at the hub calendar it came from. Register- and lesson-derived
+    // events already carry the page they were parsed out of.
+    const fallback = detail?.register ?? COURSES[mode].overview
+    const context = events.filter(isContext).map((ev) => ({ ...ev, href: "calendar" }))
+    const own = events
+      .filter((ev) => ev.course === mode && !isContext(ev))
+      .map((ev) => ({ ...ev, href: fallback }))
     const merged = detail
       ? mergeCourseEvents(own, detail.events).map((ev) => ({ ...ev, course: mode }))
       : own
     grid = renderCalendar([...context, ...merged], detail?.units ?? [])
   } else {
-    grid = renderCalendar(eventsCombined(events))
+    // On the hub, a course chip drills down into that course's own calendar; a
+    // school chip has nowhere to go but the agenda table further down this page,
+    // which is the only place its full wording lives. The anchor is Quartz's slug
+    // for the vault's "📋 Agenda (chronological)" heading — if that heading is
+    // reworded the link still lands on the page, just without the scroll.
+    const combined = eventsCombined(events).map((ev) => ({
+      ...ev,
+      href: COURSES[ev.course]
+        ? `${COURSES[ev.course].dir}/course-calendar`
+        : "calendar#-agenda-chronological",
+    }))
+    grid = renderCalendar(combined)
   }
   const wrap = mode ? ` cal--${mode}` : ""
   return `<div class="calwrap${wrap}">${legendHtml(mode)}\n${grid}</div>`
@@ -341,11 +441,15 @@ export function coursePage(key, events, detail) {
   const own = events.filter((ev) => ev.course === key && !isContext(ev))
   const all = detail ? mergeCourseEvents(own, detail.events) : own
 
+  // The code links to the page the item was parsed from — the register for graded
+  // items, so the list below the grid clicks through the same way the chips do.
+  const href = detail?.register ?? c.overview
   const line = (e) => {
     const code = e.code ?? e.label?.match(/\b(A[1-4]|EoT|CS\d+|HW\d+)\b/)?.[1]
     const desc = e.desc ?? e.label?.replace(/\*\*/g, "")
     const due = e.kind === "cs" && e.end !== e.start ? `${e.end} (due)` : e.start
-    return `- **${dayName(due.slice(0, 10))} ${due}** — ${code ? `**${code}**` : ""} ${desc ?? ""}`.trimEnd()
+    const link = code ? `[[${e.href ?? href}|**${code}**]]` : ""
+    return `- **${dayName(due.slice(0, 10))} ${due}** — ${link} ${desc ?? ""}`.trimEnd()
   }
   const sorted = (kinds) =>
     all
@@ -366,7 +470,7 @@ tags: [calendar]
 
 # ${c.name} — Calendar
 
-Semester 1, September 2026 – January 2027. Solid chips are the graded attainments; outlined chips are class tasks and homework; **LB** marks participation postings. The tinted band running under the days is the unit you're in, with each lesson labelled where it begins. Holidays and the exam window are shaded.
+Semester 1, September 2026 – January 2027. Solid chips are the graded attainments; outlined chips are class tasks and homework; **LB** marks participation postings. The bar above each week is the unit running through those dates, with each lesson labelled where it begins. Holidays and the exam window are shaded. Everything on the grid is a link — chips open the assessment register, lesson labels the lesson plan, unit bars the unit plan.
 
 ${calendarBlock(events, key, detail)}
 

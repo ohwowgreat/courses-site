@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s1-assessments]]"
   - "[[shared/bnds-assessment-framework]]"
   - "[[classes/pre-a-level-art-design/pre-a-level-art-design]]"
-modified: 2026-07-18
+modified: 2026-07-29
 ---
 <figure class="plate plate--hero">
   <img src="../../static/img/a-level-art-design.jpg" alt="Paul Cézanne, A Painter at Work, 1875" loading="lazy" />

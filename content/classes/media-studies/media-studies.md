@@ -8,7 +8,7 @@ related:
   - "[[concepts/four-key-concepts]]"
   - "[[concepts/process-evidence-and-reflection]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-21
+modified: 2026-07-29
 ---
 <figure class="plate plate--hero">
   <img src="../../static/img/media-studies.jpg" alt="Édouard Manet, A Bar at the Folies-Bergère, 1882" loading="lazy" />
