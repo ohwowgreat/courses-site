@@ -29,27 +29,27 @@ modified: 2026-07-26
 | Feeds | A3 is the semester's third attainment; U4 opens next week with the A4 route decision |
 | Homework | None new — weekly MB posting continues; U4 Graphic Design / Printmaking opens Wed 12-16 |
 
-Dates may shift when the school publishes the calendar for this period.
+## Objectives
 
-## What you will be able to do
-
-By the end of this lesson you can:
+By the end of this lesson, you can, observably:
 
 1. Finish the top layer, the edges and the words under assessment conditions
-2. Remove any element that is only decoration — test it by covering it
-3. Write a reflection that points at decisions visible in your work
+2. Remove any element that is only decoration, tested by covering it
+3. Write a reflection that points at decisions visible in the work
 
 ## Goal
 
-The final layer goes down and the collage starts speaking for itself. Ask the test from L10 one last time before you submit: cover any one element — does the collage lose part of its sentence? If a piece is only decoration, take it off. A3 is a made-in-class attainment: the mark rewards decisions you can point to, in the work and in the reflection.
+The final layer goes down and the collage starts speaking for itself. Ask one last time before you submit: *cover any one element — does the collage lose part of its sentence? If a piece is only decoration, it comes off.* A3 is a made-in-class attainment: the mark rewards decisions you can point to, in the work and in the reflection.
 
 ## How it runs
 
 - **Set-up (5 min)** — work out, finishing lists out, criteria on the board: **juxtaposition · layering · composition · meaning.** From here: your board, your scraps, your reasons.
-- **Studio (55 min)** — the finishing list, in order: place and glue the speaker; set text last; resolve edges (every torn edge on purpose, every cut edge clean); sign the back with title and date. If you are working digitally, export your final and print or submit the file along with the layered working version.
+- **Studio (55 min)** — the finishing list, in order: the speaker placed and glued; text set last; edges resolved (every torn edge on purpose, every cut edge clean); the back signed with title and date. If you are working digitally, export your final and print or submit the file with the layered working version.
 - **Reflection (15 min)** — one page, full sentences. Frames you can use: "My collage is about … " / "The juxtaposition of … and … says … " / "My layering decision that works best is … because … " / "I placed … at … so that … " / "If I made it again I would …."
-- **Submit and close (15 min)** — submit your collage + reflection; put the process trail into the sketchbook: both drafts, the dry-fit photographs, and the best rejected scraps, annotated. Next Wednesday the course turns to **communicating to an audience** — graphic design and the poster, or the linocut route — and the A4 route is announced then.
+- **Submit and close (15 min)** — submit your collage + reflection; put your process trail into the sketchbook: both drafts, the dry-fit photographs, and the best rejected scraps, annotated. Next Wednesday the course turns to **communicating to an audience** — graphic design and the poster, or the linocut route — and the A4 route is announced then.
 
 ## Assessment
+
+**Full brief** (objectives, task, instructions, rubric): [[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage|A3 Collage]].
 
 **A3 — final collage + reflection**, sat and submitted in class. Marking focus: **juxtaposition, layering, composition, meaning** — meaning is judged on the work *and* the reflection's reasons. Returned with feedback within five working days. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].

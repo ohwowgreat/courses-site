@@ -32,18 +32,16 @@ By the end of this lesson, you can:
 2. Build the comparison from differences that carry meaning, not from an inventory of what is different
 3. Argue one claim, evidenced from the pictures rather than from the reception
 
-## Goal
+## What this lesson is about
 
-This lesson opens with a debrief and closes with feedback, and the essay sits on the Tuesday double. You get your own storyboards back first, so you review your own decisions before you look at anyone else's. The comparison is the whole point: a list is not a comparison. The essay wants one claim about two pictures, and differences only count if they carry meaning.
+The lesson opens with your returned storyboards and closes on feedback, with the essay on the Tuesday double. A comparison is not a list: the essay wants one claim about two pictures, and differences only count if they carry meaning.
 
 ## How it runs
 
-The timetable this lesson has no Thursday (Mon P4 · Tue P6+7 double · Wed P1 · Fri P2), so the eight session codes `U2·L9`–`U2·L16` land on six meetings, with Tuesday as a double.
-
 - **Day 1 · Fri 9 Oct · `U2·L9`.** Break-homework debrief: storyboards returned, ten minutes silent with the criteria, find the frame where the sequence stopped being legible. CS3 posted; the assessment review protocol applies.
-- **Day 2 · Sat 10 Oct · `U2·L10`–`U2·L11`.** Gentileschi's *Judith Slaying Holofernes*, close looking: describe the violence in the painting before you describe the painter, then the problem of the witness — who does the picture put you next to? This is a make-up Saturday, with Sports Day after lunch.
-- **Day 3 · Mon 12 Oct · `U2·L12`.** Titian, *Venus of Urbino*: what does it ask you to accept as natural? Reception reading set.
-- **Day 4 · Tue 13 Oct, double · `U2·L13`–`U2·L15`.** Manet, *Olympia*, silent, no context: locate the exact refusals Manet is making of Titian, one by one. Then the comparison workshop: build the claim, test it against the pictures. **You sit A2 in the second period**, in class, closed, 40 minutes.
+- **Day 2 · Sat 10 Oct · `U2·L10`–`U2·L11`.** Gentileschi's *Judith Slaying Holofernes*, close looking: describe the violence in the painting before you describe the painter, then the problem of the witness — who does the picture put you next to? Make-up Saturday, Sports Day after lunch.
+- **Day 3 · Mon 12 Oct · `U2·L12`.** Titian, *Venus of Urbino*: what does it ask you to accept as natural. Reception reading set.
+- **Day 4 · Tue 13 Oct, double · `U2·L13`–`U2·L15`.** Manet, *Olympia*, silent, no context: locate the exact refusals Manet is making of Titian, one by one. Then the comparison workshop: build the claim, test it against the pictures. **A2 sits** in the second period, in class, closed, 40 minutes.
 
 <figure class="plate">
   <img src="../../../static/img/folies-bergere.jpg" alt="Édouard Manet, A Bar at the Folies-Bergère, 1882 — who is looking at whom? the mirror refuses to agree" loading="lazy" />
@@ -55,6 +53,8 @@ The timetable this lesson has no Thursday (Mon P4 · Tue P6+7 double · Wed P1 �
 
 ## Assessment
 
+**Full brief** (objectives, task, instructions, rubric): [[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison|A2 Titian & Manet]].
+
 - **CS3** — Fri 2026-10-09, the storyboard debrief posting.
-- **A2 sits Tue 2026-10-13** — in-class comparative essay, one claim about two pictures, evidenced from the pictures rather than the reception. Announced Wed 2026-09-30.
+- **A2 sits Tue 2026-10-13** — in-class comparative essay, 40 minutes, closed, one claim about two pictures, evidenced from the pictures rather than the reception. Announced Wed 2026-09-30.
 - A2 carries the mid-term grades, due Thu 2026-10-29.

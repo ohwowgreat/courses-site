@@ -25,7 +25,7 @@ modified: 2026-07-22
 
 ## What this unit does
 
-You study representation as something constructed, then apply it to your own work. A2 opens the unit. Your rough cuts are screened under audience conditions and audited for stereotypes you may not have noticed, while you still have production time to fix them. You test gaze theory across decades rather than reciting it, and you draft the CCR, review it against the real C1 criteria, and redraft it so it reflects rather than describes.
+You learn representation as construction and apply it directly to your own work. A2 opens the unit; your rough cuts are screened under audience conditions and audited for stereotypes you may not have noticed, while there is still production time to fix them. Gaze theory is tested across decades rather than recited. You draft the CCR, review it against the real C1 criteria, and redraft it so it reflects rather than describes.
 
 *Numbering note: "U4" is the S1 calendar band. In the coursebook's separate "Units 1–8" numbering, Representation is Unit 3.*
 
@@ -41,18 +41,20 @@ You study representation as something constructed, then apply it to your own wor
 
 ## Assessment
 
+**Full brief** (objectives, task, instructions, rubric): [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2 Blog Mid-Point]].
+
 | Item | Date | What | AO |
 |---|---|---|---|
-| A2 | Mon 2026-10-26 | C1 blog mid-point: posts 1–7, by URL (Monday due, two marking days before mid-terms Thu 10-29) | AO3 |
+| A2 | Mon 2026-10-26 | C1 blog mid-point: posts 1–7, by URL (Monday due = two marking days before mid-terms Thu 10-29) | AO3 |
 | LB3 | Tue 2026-11-03 | Screening participation, peer response quality | — |
 | CS6 | Fri 2026-11-13 | Representation close-reading paragraph, theorist embedded | AO2 |
 | CS7 | Wed 2026-11-18 | CCR draft review against C1 criteria — direct practice for A3 | AO2 |
 
-A further item is announced Fri 11-13 and due Fri 11-27, inside Unit 5. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+Announced Fri 11-13, due Fri 11-27 (inside Unit 5). See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
 ## Key content
 
 - Theorists: Hall (encoding/decoding — dominant, negotiated, oppositional), van Zoonen (gender as performance), Mulvey (the three looks), bell hooks (the oppositional gaze).
 - Analytical moves: construction vs reflection; who a stereotype works for; absence and selective construction; readings the text did not invite.
 - C1 milestones: rough cut screened as an audience sees it; stereotype audit with fix list (LB3 evidence); complete CCR redraft posted — "cut every sentence that describes instead of reflects."
-- A theorist sentence-starters card is available for CS6.
+- A theorist sentence-starters card is available for CS6, on every desk.

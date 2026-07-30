@@ -30,8 +30,9 @@ modified: 2026-07-26
 | Band/Unit | U4 Representation ([[classes/media-studies/unit-plans/9607-s1-unit-4-representation\|S1 Unit 4]]) |
 | AO focus | AO3 (A2 in); representation theory toward AO2 |
 | Deliverable | A2 submitted day 1; stereotype audit of your own rough cut, evidenced for LB3 |
-| Feeds | A3 |
 | Homework | Production pickups identified by the audit |
+
+These dates fall in a future term and may shift when the school publishes its calendar for that period.
 
 ## What you will be able to do
 
@@ -44,14 +45,14 @@ By the end of this lesson you can:
 
 ## Overview
 
-You learn representation theory and then apply it to your own work. The week opens with A2 going in and closes with two standalone sessions where your rough cuts are screened as an audience would see them, then audited for the stereotypes you did not notice. The point is to find real problems while there is still production time to fix them.
+Representation theory is taught, then turned on your own work. The week opens with A2 going in and closes, after the shortened Week 10, with two standalone sessions where the rough cuts are screened as an audience would see them and audited for stereotypes their makers did not notice. The theory earns its place by finding real problems while there is still production time to fix them.
 
 ## How it runs
 
 ### D1 — Mon 10-26: construction, not reflection
 
-- **A2 in (5 min)** — submit your blog URL. Mid-terms are Thursday.
-- **The claim (15 min)** — representation does not *reflect* the world; it **constructs** a version of it, by **selection** and **combination** (coursebook §3.3: "never objective"). Example from history: Lincoln and McClellan posed in a tent at Antietam, 1862 — the photo-op is older than the word. Every choice — the tent flaps, the table, who sits — is doing representation work.
+- **A2 in (5 min)** — submit your blog URL. Marking begins that night; mid-terms are Thursday.
+- **The claim (15 min)** — representation does not *reflect* the world; it **constructs** a version of it, by **selection** and **combination** (never objective). Proof by history: Lincoln and McClellan posed in a tent at Antietam, 1862 — the photo-op is older than the word. Every choice — the tent flaps, the table, who sits — is doing representation work.
 
 <figure class="plate">
   <img src="../../../static/img/lincoln-mcclellan.jpg" alt="Alexander Gardner, Lincoln and McClellan at Antietam, 1862 — the photo-op is older than the word" loading="lazy" />
@@ -59,7 +60,7 @@ You learn representation theory and then apply it to your own work. The week ope
 </figure>
 
 - **Same person, three ways (20 min)** — one public figure, three found images (official portrait, news photo, meme or fan edit); in pairs, list what each version selects, combines, and asks you to conclude. The person never changed; the construction did.
-- **Close (5 min)** — one line in your sketchpad: "My C1 product represents … as …." You will interrogate it all week.
+- **Close (5 min)** — one line in the sketchpad: "My C1 product represents … as …." You will interrogate it all week.
 
 ### D2 — Tue 10-27: Hall's reading positions
 
@@ -69,7 +70,7 @@ You learn representation theory and then apply it to your own work. The week ope
 
 ### D3 — Wed 10-28 (double): stereotyping as power
 
-- **Input (20 min)** — from §3.3: a stereotype is not a lie, it is a **shortcut with a beneficiary** — who benefits, who pays; counter-stereotypes (*UP*'s Carl) and why they register as surprising at all.
+- **Input (20 min)** — a stereotype is not a lie, it is a **shortcut with a beneficiary** — who benefits, who pays; counter-stereotypes (*UP*'s Carl) and why they register as surprising at all.
 - **Case pair (35 min)** — two contrasting stereotype cases worked in groups (one Western media, one Chinese media): identify the shortcut, its history, its beneficiary; then run Hall's positions across both — who reads each dominantly, who oppositionally?
 - **Nation branding (25 min)** — *how is your country represented for global audiences?* (*Downton Abbey* Britain as the worked example). In groups, list the selections a "China brand" makes and what each leaves out.
 - **Close (10 min)** — WS 4.2 exit ticket: describe your own look today (micro); what does it represent (macro)?
@@ -77,7 +78,7 @@ You learn representation theory and then apply it to your own work. The week ope
 ### D4 — Fri 10-30: absence
 
 - **The instrument (10 min)** — selective construction's quietest tool: **absence**. What is never in the frame cannot be argued with; who never appears cannot complain.
-- **Absence inventory (25 min)** — inventory one text for its absences: who is missing, what work each absence does, what would change if it were repaired. Then turn inward again: run the inventory on your own C1 planning — who is absent from *your* product, and is it a choice or a default?
+- **Absence inventory (25 min)** — inventory one text for its absences: who is missing, what work each absence does, what would change if it were repaired. Then the turn inward: run the inventory on your own C1 planning — who is absent from *your* product, and is it a choice or a default?
 - **Close (10 min)** — screening logistics for Monday: no introductions, no apologies.
 
 ### D5 — Mon 11-02 (standalone): the screening
@@ -88,9 +89,11 @@ You learn representation theory and then apply it to your own work. The week ope
 ### D6 — Tue 11-03 (standalone): the audit
 
 - **The audit (30 min)** — each group audits its own product with the week's full toolkit: construction (what did we select and combine?), positions (what reading did we assume?), power (whose shortcut did we borrow?), absence (who is missing?). The response cards are the audience's testimony.
-- **The fix list (10 min)** — convert findings into production pickups with dates; **LB3 posted** (screening participation, response quality). The pickups are your homework — this is why the audit happens now, with production time left.
+- **The fix list (10 min)** — turn findings into production pickups with dates; **LB3 posted** (screening participation, response quality). The pickups are your homework — this is why the audit happens now, with production time left.
 
 ## Assessment
+
+**Full brief** (objectives, task, instructions, rubric): [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2 Blog Mid-Point]].
 
 | Item | Date | What | AO |
 |---|---|---|---|

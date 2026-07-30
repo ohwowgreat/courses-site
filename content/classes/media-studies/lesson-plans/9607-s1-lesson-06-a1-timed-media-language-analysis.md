@@ -31,52 +31,54 @@ modified: 2026-07-26
 | AO focus | AO1 + AO2 |
 | Deliverable | A1 script: timed media language analysis of an unseen extract |
 | Feeds | AS Component 2 Section A |
-| Homework | None: attainment week |
+| Homework | None this week |
 
-## Objectives
+## What you will be able to do
 
-By the end of this lesson, you can:
+By the end of this lesson you can:
 
 1. Apply Propp to a trailer and Todorov to an episode, and name at least one point of strain in each
-2. Enter the sit with a personal code checklist and use it, showing systematic coverage in your script
+2. Enter the sit with your own code checklist and use it, showing systematic coverage in your script
 3. Sustain 60 minutes of continuous analytical writing under exam conditions
 4. Produce a script that ties technical, symbolic and narrative observations to effects, rather than listing them
 
-## Goal
+## Focus
 
-This is the first attainment of the course. Monday and Tuesday put Propp and Todorov **under load** on real texts, deliberately hunting for where the theory strains — because strain is what a top-band answer discusses, and "the model fits perfectly" is almost never true or interesting. Wednesday is the sit: sixty minutes, unseen extract, exam conditions, everything since Week 1 in play.
+This is the first assessment of the course. Monday and Tuesday put Propp and Todorov to work on real texts, hunting for where the theory strains — because strain is what a top-band answer discusses, and "the model fits perfectly" is almost never true or interesting. Wednesday is the sit: sixty minutes, an unseen extract, exam conditions, everything since Week 1 in play.
 
 ## How it runs
 
-### D1 — Mon 10-12: Propp under load
+### Day 1 — Mon 10-12: Propp under load
 
-- **Calibration starter (10 min)** — **WS 4.1**, the micro/macro quiz, self-marked against its key. The lack-of-sound item is marked BOTH on purpose — that argument is the point.
-- **Blog (5 min)** — blog posts 1–7 to the mid-point standard are due Mon 10-26. The 14-day window opens today; the CS5 audit next week is a safety net, not the deadline.
-- **Propp on a trailer (25 min)** — one full contemporary trailer, cast mapped onto functions in pairs. Then the harder question, logged in writing: **where did Propp fail to fit, and why is that interesting?** (The false hero who is also the donor; the trailer that hides its villain on purpose — a withheld function is a marketing decision.)
+- **Calibration starter (10 min)** — WS 4.1, the micro/macro quiz, self-marked against its key. The lack-of-sound item is deliberately marked BOTH — that argument is the point.
+- **Blog deadline (5 min)** — blog posts 1–7 to the mid-point standard are due Mon 10-26. The 14-day window opens today.
+- **Propp on a trailer (25 min)** — one full contemporary trailer, cast mapped onto functions in pairs. Then the harder question, in writing: where did Propp fail to fit, and why is that interesting? (The false hero who is also the donor; the trailer that hides its villain on purpose — a withheld function is a marketing decision.)
 
 <figure class="plate">
   <img src="../../../static/img/vivarini-exorcism.jpg" alt="Antonio Vivarini, Saint Peter Martyr Exorcizing a Woman Possessed by a Devil, c. 1450 — hero, villain, victim, helpers: Propp's functions, five centuries early" loading="lazy" />
   <figcaption>Antonio Vivarini, <em>Saint Peter Martyr Exorcizing a Woman Possessed by a Devil</em>, c. 1450 — hero, villain, victim, helpers: Propp's functions, five centuries early</figcaption>
 </figure>
 
-- **Close (5 min)** — start your strain log, a running list titled *"Where the theory strains."* It is A1 ammunition.
+- **Close (5 min)** — start your strain log, a running list titled *"Where the theory strains."* This is your material for A1.
 
-### D2 — Tue 10-13: Todorov under load
+### Day 2 — Tue 10-13: Todorov under load
 
 - **Retrieval (5 min)** — functions, five stages, cold.
 - **Todorov across an episode (30 min)** — a full episode's structure mapped against the five stages: where is the disruption *really*; does the new equilibrium arrive or is it withheld for the season arc; what does a cold open do to the model. Serial television bends Todorov — name the bend.
-- **Strain log (10 min)** — add the day's entries; trade logs with a partner and steal each other's best strain. Rehearse the exam sentence aloud: *"Todorov's model illuminates X, although the extract complicates it by Y."*
+- **Strain log (10 min)** — add the day's entries; trade logs with a partner and take each other's best strain. Rehearse the exam sentence aloud: *"Todorov's model illuminates X, although the extract complicates it by Y."*
 
-### D3 — Wed 10-14 (double): the sit
+### Day 3 — Wed 10-14 (double): the sit
 
-- **Set-up (10 min)** — conditions briefing; personal code checklists returned at the door (systematic coverage in your script is a success criterion); screening protocol: four viewings on the exam's own rubric — first watch, then three with note passes.
-- **A1 (60 min)** — unseen TV-drama extract, the exam-style prompt (how the extract constructs meaning through camera, sound, mise-en-scène, editing), written under full exam conditions.
+- **Set-up (10 min)** — conditions briefing; your personal code checklists are returned at the door (systematic coverage in your script is a success criterion); screening protocol: four viewings on the exam's own rubric — first watch, then three with note passes.
+- **A1 (60 min)** — unseen TV-drama extract, exam-style prompt (how the extract constructs meaning through camera, sound, mise-en-scène, editing), written under full exam conditions.
 - **Debrief (20 min)** — structured, no marks discussed: what did the extract reward; which code family did you reach for first and which did you forget; one thing you would do differently with the same sixty minutes.
 
 ## Assessment
+
+**Full brief** (objectives, task, instructions, rubric): [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1 Timed Analysis]].
 
 | Item | Date | What | AO |
 |---|---|---|---|
 | A1 | Wed 2026-10-14 | Timed media language analysis of an unseen TV-drama extract, 60 min, exam conditions | AO1+AO2 |
 
-**Marking: WS 4.6's rubric + comment bank as the instrument, banded in the official Paper 2 five-criteria language** (concepts / contexts / terminology / analysis / examples — the [[classes/media-studies/9607-resource-library|resource library]] carries the full rubric). Scripts back within five working days; the full review runs at L07. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+**Marking:** WS 4.6's rubric and comment bank, banded in the official Paper 2 five-criteria language (concepts / contexts / terminology / analysis / examples — the [[classes/media-studies/9607-resource-library|resource library]] carries the full rubric). Scripts come back within five working days; the full review runs at L07. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].

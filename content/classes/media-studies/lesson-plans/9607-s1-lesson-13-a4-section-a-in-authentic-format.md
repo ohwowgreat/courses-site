@@ -25,13 +25,13 @@ modified: 2026-07-26
 
 | | |
 |---|---|
-| Days | 4 — Mon+Tue two-day block, Wed double (you sit A4), Fri single |
+| Days | 4 — Mon+Tue two-day block, Wed double (A4 sits), Fri single |
 | Dates | Mon 2026-12-14 · Tue 12-15 · Wed 12-16 · Fri 12-18 |
 | Band/Unit | U5 Media Contexts ([[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts\|S1 Unit 5]]) |
 | AO focus | AO1 + AO2 |
 | Deliverable | A4 script: Component 2 Section A — 30 min viewing and notes plus 45 min writing |
 | Feeds | End of Term Exam; Forecast Grade anchor |
-| Homework | None: attainment week |
+| Homework | None |
 
 ## Objectives
 
@@ -44,36 +44,38 @@ By the end of this lesson, you can:
 
 ## Goal
 
-This lesson anchors your Forecast Grade. Over two days you trace **one institution end to end** — integration, synergy, convergence, from greenlight to your feed — updating your case-study documents as you go. Wednesday is your first authentic Section A sitting in the real format: **thirty minutes of viewing and note-making before forty-five of writing** — a different skill from A1's single hour. Friday adds regulation while the sit is fresh.
+A4 is the Forecast Grade anchor. Across two days you trace **one institution end to end** — integration, synergy, convergence, from greenlight to your feed. Wednesday is the first authentic Section A sitting: the real format, **thirty minutes of viewing and note-making before forty-five of writing** — a different skill from A1's single hour. Friday adds regulation while the sit is fresh.
 
 ## How it runs
 
 ### D1 — Mon 12-14: the three words
 
 - **Input (15 min)** — the exam's three institution words, defined and separated: **integration** (owning the stages — vertical; owning the neighbors — horizontal), **synergy** (parts selling each other), **convergence** (media and platforms flowing together). One historical anchor: Lindbergh, 1927 — one man, and every channel of the era selling the same story to itself: newsreels, press syndicates, radio, records. The media event predates the internet by seventy years.
-- **The hunt (25 min)** — hunt one institution's real current output for all three words: where does it integrate, what synergizes with what, where has it converged onto new platforms. Open your case-study documents and date entries as they land.
+- **The hunt (25 min)** — one institution's real current output hunted for all three words: where does it integrate, what synergizes with what, where has it converged onto new platforms. You open your case-study documents and date entries as they land.
 - **Close (5 min)** — the two-minute **structured-notes drill**: 90 seconds of a trailer, notes in the four-family grid, pens down.
 
 ### D2 — Tue 12-15: end to end
 
-- **The trace (30 min)** — follow the same institution from decision to screen: who greenlights, who produces, who distributes, how it is marketed, where audiences meet it, who takes the revenue. Drawn as one chain on the board, each link annotated from the case-study documents.
+- **The trace (30 min)** — the same institution followed from decision to screen: who greenlights, who produces, who distributes, how it is marketed, where audiences meet it, who takes the revenue. Drawn as one chain on the board, each link annotated from your case-study documents.
 - **The gap check (10 min)** — reread your L12 "unfed criterion" note: which rubric row went hungry in CS8, and what will feed it tomorrow.
 - **Close (5 min)** — the structured-notes drill again, different trailer, grid tighter.
 
 ### D3 — Wed 12-16 (double): A4 — the authentic sit
 
-- **Set-up (5 min)** — conditions and briefing. The one thing that matters: **the viewing window is for structured notes, not a transcript** — the grid, not sentences. An optional one-page viewing-notes frame is on the desk if you want it.
+- **Set-up (5 min)** — conditions; the one thing that matters: **the viewing window is for structured notes, not a transcript** — the grid, not sentences. The optional one-page viewing-notes frame is on the desk if you want it.
 - **Viewing and notes (30 min)** — the unseen extract, screened to the paper's own protocol; notes only.
 - **Writing (45 min)** — the Section A response, run exactly to the paper's clock.
 - **Collect (10 min)** — scripts in; **no debrief today — the format is the lesson.**
 
 ### D4 — Fri 12-18: regulation, while it's fresh
 
-- **Input (15 min)** — regulation as the fourth context: who regulates the case-study institution (Ofcom, NRTA, platform self-regulation), with what powers, and **what that visibly changes** about its output — scheduling, cuts, ratings, what never gets made.
+- **Input (15 min)** — regulation as the fourth context: who regulates your case-study institution (Ofcom, NRTA, platform self-regulation), with what powers, and **what that visibly changes** about its output — scheduling, cuts, ratings, what never gets made.
 - **The entry (20 min)** — research and date the regulation row of your case-study document; extend the L12 chain one link: decision ← incentive ← payer ← **regulator**.
-- **Close (10 min)** — the semester's last teaching Friday: W17 preview (consolidation, the coverage matrix). A4 scripts return with AO splits recorded — the Forecast Grade conversation happens at L14 with that evidence on the table.
+- **Close (10 min)** — the semester's last teaching Friday: W17 preview (consolidation, the coverage matrix). A4 scripts return with AO splits recorded — the Forecast Grade conversation happens at L14 with evidence on the table.
 
 ## Assessment
+
+**Full brief** (objectives, task, instructions, rubric): [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4 Section A]].
 
 | Item | Date | What | AO |
 |---|---|---|---|

@@ -23,17 +23,17 @@ modified: 2026-07-26
 | Deliverable | A1: Unit 1 board and justification |
 | Homework | Gather candidate images, 30 min/night, days 1–3 |
 
-## What you will be able to do
+## Objectives
 
-By the end of this lesson you can:
+By the end of this lesson, you can:
 
 1. Justify every adjacency with a reason that could not be moved to a different pair
 2. Arrange the panel so that the argument is legible from the layout before anyone reads a word
 3. Say what an object did, not only what it showed
 
-## About this lesson
+## Goal
 
-The board is the course in miniature, and this is the first time you build one. The justification is what separates a real argument from a mood board — be precise about it. Do not start arranging before you have gathered enough candidate images: if you begin early, you arrange only what you happen to have.
+The board is the course in miniature. What separates a real board from a mood board is the justification, so the adjacencies must each carry a reason. Do not start arranging before you have gathered enough candidate images — if you begin early, you arrange only what you happen to have.
 
 ## How it runs
 
@@ -51,5 +51,7 @@ The board is the course in miniature, and this is the first time you build one. 
 
 ## Assessment
 
-- **A1 sits Fri 2026-09-18** — Unit 1 board and justification. The criteria sheet is issued with the announcement on Fri 2026-09-04, not on the day. You are marked on: every adjacency justified with a reason that could not be moved to a different pair; argument legible from the layout before a word is read; objects described by what they do.
-- The grade is half collective (group board) and half individual (your write-up).
+**Full brief** (objectives, task, instructions, rubric): [[classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board|A1 The Unit 1 Board]].
+
+- **A1 sits Fri 2026-09-18** — Unit 1 board and justification. The criteria sheet is issued with the announcement on Fri 2026-09-04, not on the day. Marked on: every adjacency justified with a reason that could not be moved to a different pair; argument legible from the layout before a word is read; objects described by what they do.
+- The grade combines a group board with an individual write-up, so half of it is collective.

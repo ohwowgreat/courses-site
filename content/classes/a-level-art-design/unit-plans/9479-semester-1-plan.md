@@ -11,7 +11,7 @@ modified: 2026-07-17
 
 > [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · Semester 1 of 4 ([[classes/a-level-art-design/unit-plans/9479-course-map|course map]])
 
-**Component 1 (Portfolio), G11, autumn 2026-27.** You have one 45-minute session every teaching day — 80 sessions in total. The first session is Tue 2026-09-01 and the last teaching day is Fri 2027-01-08. Dates follow the [[calendar|school calendar]] and may shift when the school publishes the calendar for this period.
+**Component 1 (Portfolio), G11, autumn 2026-27.** You have one 45-minute session every teaching day: 80 sessions across 77 teaching days. Your first session is Tue 2026-09-01; the last teaching day is Fri 2027-01-08. Dates follow the [[calendar|school calendar]]. These dates are provisional and may shift once the school publishes the calendar for this period.
 
 ## The five units
 
@@ -25,6 +25,12 @@ modified: 2026-07-17
 
 Each unit page lists its lessons. The full attainment/CS register: [[classes/a-level-art-design/assessments/9479-s1-assessments|9479 S1 Assessments]].
 
+## Assessments
+
+**Full briefs** (objectives, task, instructions, rubric): [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone|A1 Recording]] · [[classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study|A2 Exploration & Artist Study]] · [[classes/a-level-art-design/assessments/9479-s1-a3-development-milestone|A3 Development]] · [[classes/a-level-art-design/assessments/9479-s1-a4-final-portfolio|A4 Final Portfolio]] · [[classes/a-level-art-design/assessments/9479-s1-the-final|The Final]].
+
+Dates, notice and the CS/LB layers are in the register.
+
 ## Week by week
 
 | Wk | Dates | What happens |
@@ -32,7 +38,7 @@ Each unit page lists its lessons. The full attainment/CS register: [[classes/a-l
 | W1 | 09-01 → 04 | Briefing via a 96/100 exemplar; diagnostic drawing; theme committed Thu |
 | W2 | 09-07 → 11 | Formal elements on the theme (line, tone, mark-making, color) |
 | W3 | 09-14 → 18 | Recording Page 1; intention, mind map, thumbnails, annotated rejections |
-| W4 | 09-20 → 24 | Sunday make-up day carries a session; sustained study 2-day run Thu |
+| W4 | 09-20 → 24 | Sun make-up day carries a session; sustained study 2-day run Thu |
 | W5 | 09-28 → 30 | Photography + finish studies (National Day from Thu) |
 | W6 | 10-08 → 10 | AO1 self-check; **A1 Fri**; feedback Sat (make-up day) |
 | W7 | 10-12 → 16 | Twelve prescribed media experiments (3-day run) |
@@ -45,8 +51,8 @@ Each unit page lists its lessons. The full attainment/CS register: [[classes/a-l
 | W14 | 11-30 → 12-01 | Evaluation + Stage 6 page (Juniors Days Wed–Fri) |
 | W15 | 12-07 → 11 | Final composition plan; **A3 Thu 12-10** |
 | W16 | 12-14 → 18 | Final outcome 4-day build + mid-production review |
-| W17 | 12-21 → 23 | 3-day resolve run from Mon (window covers the break) |
-| W18 | — | Break. Late-work cutoff ≈ Fri 01-01 — **no late portfolio is possible** |
+| W17 | 12-21 → 23 | 3-day resolve run from Mon (covers the break) |
+| W18 | — | Break. Late-work cutoff ≈ Fri 01-01 — **no late portfolio possible** |
 | W19 | 01-04 → 08 | Photograph, sequence, edit with cut log; **A4 Thu 01-07**; reflection Fri |
-| W20 | 01-11 → 18 | Exam window — no classes; A4 marking. There is no Art & Design EoT exam. |
+| W20 | 01-11 → 18 | Exam window — no classes; A4 marking |
 | W21 | 01-19 → 21 | Returns + 1:1s; C3 bridge; winter HW: three candidate C3 themes |

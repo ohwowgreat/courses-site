@@ -24,11 +24,13 @@ modified: 2026-07-22
 
 ## What this unit does
 
-This is the first attainment band. You test narrative theory on real texts, looking for where Propp and Todorov strain — because a top-band answer discusses that strain. You sit A1 on the Wednesday of W7. The rest of the band turns analytical instinct into method: Barthes, a fixed reading order, PEEM paragraphs, Section A answer architecture, and a peer audit of every C1 blog against the same checklist used to mark A2.
+This is the first attainment band. You test narrative theory on real texts — looking for where Propp and Todorov strain, because that strain is what a top-band answer discusses — and you sit A1 on the Wednesday of W7. The rest of the band turns analytical instinct into method: Barthes, a fixed reading order, PEEM paragraphs, Section A answer architecture, and a peer audit of every C1 blog against the same checklist used to mark A2.
 
 ## Dates & span
 
-**W7–W8: Mon 2026-10-12 → Fri 10-23** — 8 teaching days (L06: 3, L07: 5).
+**W7–W8: Mon 2026-10-12 → Fri 10-23** — 8 teaching days.
+
+These dates may shift once the school publishes the calendar for this period.
 
 ## Lessons
 
@@ -37,15 +39,17 @@ This is the first attainment band. You test narrative theory on real texts, look
 
 ## Assessment
 
+**Full brief** (objectives, task, instructions, rubric): [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1 Timed Analysis]].
+
 | Item | Date | What | AO |
 |---|---|---|---|
 | A1 | Wed 2026-10-14 | Timed media language analysis, unseen TV-drama extract, 60 min, exam conditions | AO1+AO2 |
 | CS5 | Wed 2026-10-21 | Peer blog audit against the mid-point checklist | AO3 |
 
-A2 is announced Mon 10-12 and is due Mon 10-26 (in Unit 4). See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+A2 is set Mon 10-12 and due Mon 10-26 (inside Unit 4). See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
 ## Key content
 
 - Theorists: Propp and Todorov under load; Barthes (enigma and action codes — what a text withholds and promises).
 - Method: systematic reading order (same order, every time); PEEM (point, evidence, effect, meaning); Section A answer skeletons planned before writing.
-- C1 milestone: bring your blog to mid-point standard — posts 1–7, dated, individual contributions labeled. The CS5 audit falls three teaching days before the A2 deadline, so you can act on its findings.
+- C1 milestone: bring your blog to mid-point standard — posts 1–7, dated, individual contributions labeled. The CS5 audit falls three teaching days before the A2 deadline, so you can still act on its findings.

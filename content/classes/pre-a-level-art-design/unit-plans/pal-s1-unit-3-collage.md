@@ -25,7 +25,7 @@ modified: 2026-07-21
 
 ## What this unit does
 
-Spine: **"Combine · meaning."** Across five Wednesday double sessions (W11–15) you move from single images to combinations: juxtaposition and scale — "two images say a third thing" — then layering and text-with-image, then drafting toward one final collage made in class for A3. This is the semester's longest unit.
+Spine: **"Combine · meaning."** Five Wednesday double sessions (W11–15) move from single images to combinations: juxtaposition and scale — "two images say a third thing" — then layering and text-with-image, then drafting toward one final collage that you make in class for A3. It is the semester's longest unit.
 
 ## Session-by-session
 
@@ -37,10 +37,12 @@ Spine: **"Combine · meaning."** Across five Wednesday double sessions (W11–15
 | W14 | 2026-12-02 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-13-final-collage-production\|U3·L4]] · S13 | Final collage production | **SB2** |
 | W15 | 2026-12-09 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage\|U3·L5]] · S14 | **A3: final collage** + reflection, in class | **A3** |
 
-> [!note] Two calendar events may affect this unit
-> A G10 field trip and a G10 project week fall around Weeks 11–12. If either lands on a Wednesday, that session merges with the next and the A3 date may shift. Each Wednesday carries a full stage of the unit, so attendance matters. The final schedule will be confirmed in class.
+> [!note] Attendance
+> A G10 field trip and a G10 project week may fall in this unit. Each Wednesday moves one stage of the collage forward, so a missed Wednesday costs a whole stage. If either event takes a Wednesday, your teacher will confirm the adjusted schedule in class.
 
 ## Assessment
+
+**Full brief** (objectives, task, instructions, rubric): [[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage|A3 Collage]].
 
 - **A3 (Attainment)** — 2026-12-09 (W15): final collage + reflection, made in class across W14–W15. Announced 2026-11-25 (W13), two classes ahead. Marking focus: **juxtaposition, layering, composition, meaning**.
 - **CS3 (Course Skills)** — 2026-11-25 (W13): collage experiment set. Focus: combination and meaning.

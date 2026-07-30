@@ -23,7 +23,9 @@ modified: 2026-07-26
 | Deliverable | A3: Unit 3 essay on food, the table and ethics |
 | Homework | None — you write the essay in class |
 
-## Objectives
+These dates may shift when the school publishes the calendar for this period.
+
+## What you will be able to do
 
 By the end of this lesson, you can:
 
@@ -37,14 +39,16 @@ By the end of this lesson, you can:
   <figcaption>Leonardo da Vinci, <em>The Last Supper</em>, 1495–98</figcaption>
 </figure>
 
-## How it runs
+## Day by day
 
 - **Day 1 · Mon 16 Nov · `U3·L18`** — Cassatt, one domestic interior, read as a workplace: domestic labour as labour.
-- **Day 2 · Tue 17 Nov · `U3·L19`** — Rosler, *Semiotics of the Kitchen*: six minutes, shown once through and then again — watch a kitchen turn into an alphabet of rage.
+- **Day 2 · Tue 17 Nov · `U3·L19`** — Rosler, *Semiotics of the Kitchen*: six minutes, watched twice — a kitchen turning into an alphabet of rage.
 - **Day 3 · Wed 18 Nov · `U3·L20`** — Weems, *Kitchen Table Series*, in sequence: what a table does when it is the same table every time.
-- **Day 4 · Thu 19 Nov · `U3·L21`** — **A3 in class**, 40 minutes: one claim about food and ethics, argued from the pictures themselves, not from the ethics.
+- **Day 4 · Thu 19 Nov · `U3·L21`** — **You sit A3.** In class, 40 minutes: one claim about food and ethics, argued from the pictures themselves, not from the ethics.
 - **Day 5 · Fri 20 Nov · `U3·L22`** — hyperreality and the food image: what is a food image for when nobody intends to eat. This leads into Unit 4.
 
 ## Assessment
 
-A3 is an in-class essay on food, the table and ethics. It is written in class during Day 4; the exact sitting date will be confirmed in class.
+Full brief (objectives, task, instructions, rubric): [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay|A3 Food & Ethics]].
+
+A3 is an in-class essay on food, the table and ethics. The exact sitting day will be confirmed in class.

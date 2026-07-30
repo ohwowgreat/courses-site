@@ -27,7 +27,9 @@ Spine: **"Observe · the elements."** Five Wednesday double sessions (W1–5) op
 
 ## Session-by-session
 
-| Wk | Wednesday | Lesson | Content | Marker |
+One lesson per session, linked below.
+
+| Wk | Wednesday | Lesson | Content | Assessment |
 |---|---|---|---|---|
 | W1 | 2026-09-02 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-01-introduction-the-sketchbook-and-first-marks\|U1·L1]] · S1/17 | Course intro; the sketchbook contract; the visual elements; line studies. | — |
 | W2 | 2026-09-09 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-02-tone-and-form\|U1·L2]] · S2 | Tone and form — "build form with tone, not outline" | — |
@@ -35,11 +37,13 @@ Spine: **"Observe · the elements."** Five Wednesday double sessions (W1–5) op
 | W4 | 2026-09-23 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-04-composing-the-final-drawing\|U1·L4]] · S4 | Compose and begin the final drawing | **CS1** exercise set graded |
 | W5 | 2026-09-30 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing\|U1·L5]] · S5 | **A1: final observational drawing** + reflection, in class | **A1**; HW1 set |
 
-These dates may shift when the school publishes its calendar for this period; any change to the W1 session will be confirmed in class.
+These dates may shift when the school publishes its calendar for this period.
 
 ## Assessment
 
-- **A1 (Attainment)** — 2026-09-30 (W5): final observational drawing + reflection, made in class across W4–W5. Announced 2026-09-16 (W3). Marking focus: **observation, tone, composition**. A1 feeds the mid-term grades due 2026-10-29.
+**Full brief** (objectives, task, instructions, rubric): [[classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing|A1 Drawing]].
+
+- **A1 (Attainment)** — 2026-09-30 (W5): final observational drawing + reflection, made in class across W4–W5. Announced 2026-09-16 (W3), two classes ahead. Marking focus: **observation, tone, composition**. A1 also feeds the mid-term grades due 2026-10-29.
 - **CS1 (Course Skills)** — 2026-09-23 (W4): exercise-set check (contour, tonal, texture, negative-space studies). Focus: the visual elements.
 - **HW1** (break photo task, ≥20 photos of one subject in varied viewpoint/light) is *set* at W5 but belongs to Unit 2, due 2026-10-14.
 

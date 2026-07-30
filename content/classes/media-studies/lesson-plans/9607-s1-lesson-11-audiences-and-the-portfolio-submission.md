@@ -24,19 +24,16 @@ modified: 2026-07-26
 
 | | |
 |---|---|
-| Days | 6 — Mon+Tue block, Wed double, Fri (A3 due), then Mon + Tue |
+| Days | 6 — Mon+Tue two-day block, Wed double, Fri (A3 due), then Mon + Tue |
 | Dates | Mon 2026-11-23 · Tue 11-24 · Wed 11-25 · Fri 11-27 · Mon 11-30 · Tue 12-01 |
 | Band/Unit | U5 Media Contexts ([[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts\|S1 Unit 5]]) |
 | AO focus | AO2 + AO3 (A3, scaled to 50) |
-| Deliverable | A3 portfolio submitted Fri 11-27 (product, CCR, blog); response-to-feedback target set day 6 (LB4) |
-| Feeds | Component 1 grade; Semester 2 production targets |
+| Deliverable | A3 portfolio submitted Fri 11-27 (product, CCR, blog); production target set day 6 (LB4) |
 | Homework | None across the submission; feedback response after |
-
-These dates may shift when the school publishes the calendar for this period.
 
 ## Objectives
 
-By the end of this lesson, you can:
+By the end of this lesson you can:
 
 1. Distinguish mass, niche and target audiences on real examples and explain why effects models oversimplify
 2. Identify your CCR's weakest section and improve it in the surgery session
@@ -45,7 +42,7 @@ By the end of this lesson, you can:
 
 ## Overview
 
-This week closes the Component 1 arc. Audience theory begins, but the week bends around Friday: the Wednesday double is the last session where help is available before submission, so it is spent on CCR surgery. On Friday the portfolio goes in, with no edits after. The two days that follow apply uses and gratifications to your own media use, then turn your returned portfolio into one production target for Semester 2.
+This week closes the Component 1 work and starts audience theory. The Wednesday double is the last session where help is available on your CCR, so Friday's submission is logistics only — no edits after it goes in. The two days that follow apply uses and gratifications to your own media use, then turn your returned portfolio into one production target for Semester 2.
 
 ## How it runs
 
@@ -59,20 +56,20 @@ This week closes the Component 1 arc. Audience theory begins, but the week bends
 ### D2 — Tue 11-24: what effects models can't explain
 
 - **Retrieval (5 min)** — mass/niche/target, one example each.
-- **Input (15 min)** — effects models stated fairly (hypodermic, cultivation), then their limits: what they cannot explain about this class's own viewing — the horror fan who sleeps fine, the ad seen a hundred times that never sold anything.
+- **Input (15 min)** — effects models stated fairly (hypodermic, cultivation), then their limits: what they cannot explain about your own viewing — the horror fan who sleeps fine, the ad seen a hundred times that never sold anything.
 - **The counter-evidence log (20 min)** — each student contributes one honest example of media that *failed* to affect them as the model predicts, and one that worked. The pattern: audiences do things with media; media does not simply do things to audiences.
-- **Close (5 min)** — this cues Blumler and Katz, held for Monday.
+- **Close (5 min)** — that idea leads to Blumler and Katz, which you'll pick up Monday.
 
 ### D3 — Wed 11-25 (double): CCR surgery
 
-- **Brief application (15 min)** — one audiences exercise: the coursebook §6.7 screening-feedback activity turned on two volunteers' near-final products.
-- **The surgery (60 min)** — the last help window before submission. Help is given in triage order by CS7 severity, not by hand-raising; every student is seen, and the strongest drafts get peer support rather than teacher time. Each visit ends with one fix executed.
-- **The checklist (15 min)** — submission checklist at the close: product exported and playable; CCR in its creative format, posted; blog complete, posts dated, contributions labeled; URLs correct.
+- **Brief application (15 min)** — one audiences exercise: the coursebook §6.7 screening-feedback activity run on two volunteers' near-final products.
+- **The surgery (60 min)** — the last help window before submission. The queue is ordered by CS7 severity; every student is seen; strongest drafts get peer support instead of teacher time. Each visit ends with one fix executed.
+- **The checklist (15 min)** — submission checklist run at the close: product exported and playable; CCR in its creative format, posted; blog complete, posts dated, contributions labeled; URLs correct.
 
 ### D4 — Fri 11-27: A3 goes in
 
-- **Submission (25 min)** — final checks against the checklist; URLs and files logged in the submission sheet; confirmation shown on screen per group. **No edits after** — this is absolute.
-- **After submission (15 min)** — quiet start on the uses-and-gratifications pre-read (coursebook §5.3). Nothing due.
+- **Submission protocol (25 min)** — final checks against the checklist; URLs and files logged in the submission sheet; confirmation shown on screen per group. **No edits after submission.**
+- **Then (15 min)** — quiet start on the uses-and-gratifications pre-read (coursebook §5.3). Nothing due.
 
 ### D5 — Mon 11-30: Blumler and Katz
 
@@ -84,13 +81,15 @@ This week closes the Component 1 arc. Audience theory begins, but the week bends
 
 - **A3 returned (25 min)** — self-assessment first: band your own portfolio against the C1 criteria before marks are discussed; then the marked grade, with the gap between self-band and mark as the conversation.
 - **The target (15 min)** — write one production target — specific, evidenced from the feedback, achievable in S2 ("hold focus in low light" beats "get better at filming") — logged as **LB4**.
-- **Next assessment (5 min)** — Component 2 Section A, in authentic format, on Wed 12-16.
+- **Notice (5 min)** — Wed 12-16, Component 2 Section A in authentic format. This date is provisional and may shift when the school publishes the calendar for that period.
 
 ## Assessment
+
+**Full brief** (objectives, task, instructions, rubric): [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio|A3 C1 Portfolio]].
 
 | Item | Date | What | AO |
 |---|---|---|---|
 | A3 | Fri 2026-11-27 | C1 portfolio complete — product + CCR + dated blog; official C1 criteria (AO2 20 + AO3 80, scaled to 50); no edits after | AO2+AO3 |
 | LB4 | Tue 2026-12-01 | Response to feedback: one specific, evidenced production target | — |
 
-A3 is returned Tue 12-01. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+A3 returned Tue 12-01. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].

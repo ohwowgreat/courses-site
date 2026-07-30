@@ -24,19 +24,19 @@ modified: 2026-07-26
 | Feeds | Semester 2 |
 | Homework | None |
 
-These dates are set for January 2027 and may shift when the school publishes the calendar for that period.
+These dates are provisional and may shift when the school publishes the calendar for this period.
 
-## What you will be able to do
+## Objectives
 
-By the end of this lesson you can:
+By the end of this lesson, you can:
 
 1. Lay the semester out and see it as one body of work rather than four units
 2. Defend your three works to someone who chose differently, and not just concede
 3. Show a semester of looking as one argument, with the argument in the layout
 
-## About this lesson
+## Goal
 
-The whole semester, read back as one argument. This is the third constellation of the year, and the one where the method finally looks like a method rather than a rule. Everything you have made is available; the Unit 1 boards and the Unit 4 syntheses go up on the walls before Monday.
+The whole semester, read back as one argument. This is the third constellation of the year. Everything you have made is available; the Unit 1 boards and the Unit 4 syntheses go up on the walls before Monday.
 
 
 <figure class="plate">
@@ -47,12 +47,14 @@ The whole semester, read back as one argument. This is the third constellation o
 ## How it runs
 
 - **Day 1 · Mon 4 Jan · `U5·L1`** — inventory: everything on the wall, 35 minutes, **no arranging yet**.
-- **Day 2 · Tue 5 Jan · `U5·L2`** — the three works from the break homework, defended to someone who chose differently, and not just conceded.
+- **Day 2 · Tue 5 Jan · `U5·L2`** — the three works from the break homework, defended to someone who chose differently, without just conceding.
 - **Day 3 · Wed 6 Jan · `U5·L3`** — constellation retrospective workshop: test it while it can still change. This is the practice and the last chance.
-- **Day 4 · Thu 7 Jan · `U5·L4`** — **you sit the RETROSPECTIVE.** In class, 40 minutes. End of Term, 20%.
+- **Day 4 · Thu 7 Jan · `U5·L4`** — **RETROSPECTIVE sits.** In class, 40 minutes. End of Term, 20%.
 - **Day 5 · Fri 8 Jan · `U5·L5`** — read the room's constellations; name the question you want Semester 2 to answer. Last teaching day of the semester.
 
 ## Assessment
 
-- The EoT retrospective is sat in class, not in the exam window. Criteria are issued with the announcement. You are marked on showing a semester of looking as one argument, with the argument in the layout.
+**Full brief** (objectives, task, instructions, rubric): [[classes/art-appreciation/assessments/art-appreciation-s1-eot-retrospective|EoT Retrospective]].
+
+- You sit the EoT retrospective in class, not in the exam window. Criteria are issued with the announcement. You are marked on showing a semester of looking as one argument, with the argument in the layout.
 - The exact sitting day will be confirmed in class.

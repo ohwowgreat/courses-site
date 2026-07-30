@@ -23,26 +23,28 @@ modified: 2026-07-19
 
 ## What this unit does
 
-This unit works through the course's main theorists, in teaching order: Berger (a reproduction is not a neutral copy), Benjamin (aura, introduced through ukiyo-e — "a print is already many"), Steyerl (the poor image, defended and then made in the lab), Sontag (photographing as an act on the world), Greenberg (avant-garde and kitsch), and Danto (the artworld, with Warhol and Duchamp). Your A4 is the second synthesis constellation of the year, building on the work you began in lesson 01. The unit's last lesson sets the retrospective brief as break homework, which belongs to Unit 5's End of Term.
+This unit works through the theorists at the centre of the course, in teaching order: Berger (a reproduction is not a neutral copy), Benjamin (aura, introduced through ukiyo-e — "a print is already many"), Steyerl (the poor image, defended and then made in the lab), Sontag (photographing as an act on the world), Greenberg (avant-garde and kitsch), and Danto (the artworld, with Warhol and Duchamp). The A4 synthesis is the second constellation of the year and builds on the darkroom work from earlier in the course. The unit's last lesson sets the retrospective brief as break homework, which counts toward Unit 5's End of Term.
 
 ## Dates and span
 
-- **Weeks 13–17**: Mon 2026-11-23 to Wed 2026-12-23. 20 sessions (7 + 4 + 6 + 3).
-- **Week 13: G12 out Thu 2026-11-26 and Fri 2026-11-27** (IB Training + Seniors); content is front-loaded into days 1–3 of lesson 10.
-- Tue 2026-12-01 falls before the UC application deadline; G12 carries a reduced load, and nothing beyond two postings is assessed in lesson 10.
-- **G11 Juniors Days Wed 2026-12-02 to Fri 2026-12-04: no class.**
-- Foreign Culture Day Fri 2026-12-11 falls on lesson 12 day 1; nothing is graded.
-- End-of-Semester Activity Tue 2026-12-22; only LB8 is due.
-- Christmas break begins Thu 2026-12-24. The late-work cutoff is around 2027-01-01, so A4 is the last thing submitted this semester. These dates may shift when the school publishes the calendar for that period.
+- **Weeks 13–17**: Mon 2026-11-23 to Wed 2026-12-23. 20 sessions.
+- **Week 13: G12 out Thu 2026-11-26 and Fri 2026-11-27** (IB Training + Seniors); core content is front-loaded into days 1–3 of Lesson 10.
+- UC application deadline is Tue 2026-12-01. G12 carries a reduced load before the deadline; nothing beyond two postings is assessed in Lesson 10.
+- **G11 Juniors Days, Wed 2026-12-02 to Fri 2026-12-04: no class.**
+- Foreign Culture Day falls on Fri 2026-12-11 (Lesson 12, day 1); nothing is graded that day. This date may shift when the school publishes the calendar.
+- End-of-Semester Activity: Tue 2026-12-22.
+- Christmas break begins Thu 2026-12-24. The late-work cutoff is around 2027-01-01 (exact New Year date to be confirmed in class), so A4 is the last thing you submit this semester.
 
 ## Lessons
 
 - [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-10-berger-and-the-reproduction|Lesson 10: Berger and the Reproduction]] — 7 days across two split weeks; four contexts, caption exercise, Godard on day 7; LB6, LB7.
 - [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image|Lesson 11: Aura and the Poor Image]] — 4 days; ukiyo-e, Benjamin, Steyerl, degradation lab; CS5.
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-12-photography-and-after|Lesson 12: Photography and After]] — 6 days; claim to truth, Sontag, Greenberg; A4 sits day 5, review in-lesson day 6.
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief|Lesson 13: The Artworld and the Brief]] — 3 days; Danto, Warhol/Duchamp/pluralism; retrospective announced + break homework; LB8.
+- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-12-photography-and-after|Lesson 12: Photography and After]] — 6 days; claim to truth, Sontag, Greenberg; you sit A4 on day 5, with review in-lesson on day 6.
+- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief|Lesson 13: The Artworld and the Brief]] — 3 days; Danto, Warhol/Duchamp/pluralism; retrospective announced as break homework; LB8.
 
 ## Assessment
+
+**Full brief** (objectives, task, instructions, rubric): [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis|A4 Unit 4 Synthesis]].
 
 | Item | Date | What |
 |---|---|---|

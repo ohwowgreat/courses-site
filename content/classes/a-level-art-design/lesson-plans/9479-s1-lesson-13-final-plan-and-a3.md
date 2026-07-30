@@ -22,9 +22,11 @@ modified: 2026-07-26
 | Feeds | **A3 Thu 2026-12-10**: development milestone, marked against AO3 |
 | Homework | Reflection: write up your plan adjustment after Friday's feedback |
 
-## What you will be able to do
+These dates may shift when the school publishes the calendar for this period.
 
-By the end of this week you can:
+## Objectives
+
+By the end of this lesson, you can:
 
 1. Plan the final composition and solve it small before you make it large
 2. Settle your palette and materials before the outcome begins
@@ -32,24 +34,26 @@ By the end of this week you can:
 
 ## Goal
 
-Nothing about the final outcome is left to the day itself. You plan the composition, solve it small, and settle its palette and materials before A3 reviews your whole development. Friday converts feedback into plan adjustments while there is still time for them to matter.
+Nothing about the final outcome is left to the day itself. Your composition is planned, solved small, and its palette and materials are settled before A3 reviews the whole development. Friday converts feedback into plan adjustments while there is still time for them to matter.
 
-## How the week runs
-
-- **Mon 12-07** — Keep your direction sentence and evaluation on the table. Make the final composition plan: full-size or scaled, with structure, values and sequence of work marked. Sign-off rota begins.
-- **Tue 12-08** — "Thumbnails that solve, not decorate": test the plan small, push one genuine alternative and reject it on paper, and annotate the rejection.
-- **Wed 12-09** — "A palette argued from meaning": settle and swatch your palette and materials, test them on the actual support, and name them for what they carry. Self-check against the AO3 descriptors, in writing.
-- **Thu 12-10** — **A3 attainment.** Portfolio review in session: compositions 1 and 2, targeted tests, the written evaluation, and the final composition plan, against the published AO3 criteria. Nothing is added during review.
-- **Fri 12-11** — A3 returned, banded. Turn feedback into plan adjustment: amend the plan physically and initial the changes. Preview of the build run and the studio booking.
-
-Dates may shift once the school publishes the calendar for this period. Foreign Culture Day may fall on Fri 12-11; if it does, the feedback lesson moves but the assessment does not. This will be confirmed in class.
-
-## Assessment
-
-**A3** (development milestone, AO3) sits Thu 2026-12-10 — see the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. The bar for the plan: "complete enough that a capable stranger could begin the piece from it."
 
 <figure class="plate">
   <img src="../../../static/img/van-gogh-outskirts.jpg" alt="Vincent van Gogh, On the Outskirts of Paris, 1887" loading="lazy" />
   <figcaption>Vincent van Gogh, <em>On the Outskirts of Paris</em>, 1887</figcaption>
 </figure>
 
+## How it runs
+
+- **Mon 12-07** — your direction sentence and evaluation on the table; the final composition plan: full-size or scaled plan with structure, values and sequence of work marked; sign-off rota begins.
+- **Tue 12-08** — "thumbnails that solve, not decorate": test the plan small, push one genuine alternative and reject it on paper, and annotate the rejection.
+- **Wed 12-09** — "a palette argued from meaning": settle and swatch your palette and materials, test them on the actual support, and name them for what they carry; self-check against the AO3 descriptors, in writing.
+- **Thu 12-10** — **A3 attainment.** Portfolio review in session: compositions 1 and 2, targeted tests, the written evaluation, and the final composition plan, against the published AO3 criteria. Nothing added during review.
+- **Fri 12-11** — A3 returned, banded; feedback to plan adjustment: amend the plan physically and initial your changes; preview of the build run's shape and the studio booking.
+
+The Thursday A3 sitting is fixed. If Foreign Culture Day takes Friday 12-11, the feedback session moves; this will be confirmed in class.
+
+## Assessment
+
+**Full brief** (objectives, task, instructions, rubric): [[classes/a-level-art-design/assessments/9479-s1-a3-development-milestone|A3 Development]].
+
+**A3** (development milestone, AO3) sits Thu 2026-12-10 — see the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. The bar for the plan: "complete enough that a capable stranger could begin the piece from it."

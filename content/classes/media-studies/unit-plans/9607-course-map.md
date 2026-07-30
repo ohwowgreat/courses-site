@@ -10,7 +10,10 @@ modified: 2026-07-17
 
 > [[classes/media-studies/media-studies|Media Studies]] · the whole two-year course at a glance
 
-An overview of the entire two-year course. Weekly rhythm throughout: L1–2 new content, L3 close-analysis workshop, L4 applied task, L5 writing/production lab with ESL sentence frames.
+An overview of the entire two-year course. Only Semester 1 has a day-level schedule so far ([[classes/media-studies/unit-plans/9607-semester-1-plan|Semester 1 Plan]]). Weekly rhythm throughout: L1–2 new content, L3 close-analysis workshop, L4 applied task, L5 writing/production lab with ESL sentence frames.
+
+> [!note] Provisional dates
+> Dates in the later semesters are projected. They may shift once the school publishes the calendar for each period.
 
 | Semester | When | Focus | Exam anchor |
 |---|---|---|---|
@@ -19,8 +22,6 @@ An overview of the entire two-year course. Weekly rhythm throughout: L1–2 new 
 | S3 | autumn 2027 (G12) | Media debates (Postmodern + Power); **C3 launch + production** | — |
 | S4 | spring 2028 (G12) | C3 submission; Changing media environments; digital-exam training | **Paper 4, June 2028** |
 
-Exam dates for 2027 and 2028 are projected and may shift when the school publishes the calendar for those periods.
-
 ## S1 — autumn 2026 · media language + C1 (G11)
 
 | Assessment | Date | Task |
@@ -28,10 +29,12 @@ Exam dates for 2027 and 2028 are projected and may shift when the school publish
 | A1 | Wed 2026-10-14 | Timed media-language analysis, unseen extract, 60 min |
 | A2 | Mon 2026-10-26 | C1 blog mid-point: posts 1–7 |
 | A3 | Fri 2026-11-27 | **C1 complete** — product + CCR + blog; no edits after |
-| A4 | Wed 2026-12-16 | C2 Section A, authentic format |
+| A4 | Wed 2026-12-16 | C2 Section A, authentic format — the Forecast Grade anchor |
 | EoT | window 2027-01-11 → 01-18 | Full Component 2 paper, 2 hours |
 
 Full detail: [[classes/media-studies/unit-plans/9607-semester-1-plan|Semester 1 Plan]] · [[classes/media-studies/assessments/9607-s1-assessments|S1 Assessments]].
+
+**Full briefs** (objectives, task, instructions, rubric): [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1 Timed Analysis]] · [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2 Blog Mid-Point]] · [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio|A3 C1 Portfolio]] · [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4 Section A]] · [[classes/media-studies/assessments/9607-s1-eot-component-2-paper|End of Term Exam]].
 
 ## S2 — spring 2027 · C1 out the door, C2 in (G11)
 
@@ -46,7 +49,7 @@ Full detail: [[classes/media-studies/unit-plans/9607-semester-1-plan|Semester 1 
 
 Summer: light case-study collection for the two A2 debate topics.
 
-## S3 — autumn 2027 · debates + C3 production (G12)
+## S3 — autumn 2027 · debates + C3 production (G12; 2028-30 spec from here)
 
 | Week | Milestone |
 |---|---|
@@ -57,7 +60,7 @@ Summer: light case-study collection for the two A2 debate topics.
 | wks 14–15 | Full planning suite; **the AI-image rule taught explicitly** |
 | wks 16–18 | Production windows; semester exam = two 15-mark essays |
 
-Over winter: all major-task footage shot, assembly edit complete, both minor-task image sets photographed.
+Winter target: all major-task footage shot, assembly edit complete, both minor-task image sets photographed.
 
 ## S4 — spring 2028 · C3 out the door, C4 in (G12)
 
@@ -71,4 +74,9 @@ Over winter: all major-task footage shot, assembly edit complete, both minor-tas
 | wk 12 | Final revision; contemporaneity check on case banks |
 | exam window | **Paper 4, May/June 2028** · A Level complete: C1 (carried forward) + C2 + C3 + C4 |
 
-Your AS media area is **Film**, and your C1 is a **film opening**. The A2 debate topics are **Postmodern + Power**. The C3 brief is open by design. Any point still open will be confirmed in class.
+## Course choices
+
+- **AS media area:** Film.
+- **C1 brief:** Film opening.
+- **A2 debate topics:** Postmodern + Power.
+- **C3 brief:** open by design; your choice is confirmed in class by S3 wk 8.

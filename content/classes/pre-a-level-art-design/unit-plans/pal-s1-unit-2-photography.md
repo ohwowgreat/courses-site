@@ -24,7 +24,7 @@ modified: 2026-07-21
 
 ## What this unit does
 
-Spine: **"Compose · intention."** Four Wednesday double sessions (W7–10) after the National Day break shift observation from pencil to camera: framing, viewpoint, light, and above all *choosing* — the working motto is "shoot many, keep few, know why." The unit opens on the reviewed break-photo homework and closes on A2, a photographic series shot, selected, and sequenced around one theme.
+Spine: **"Compose · intention."** Four Wednesday double sessions (W7–10) after the National Day break move observation from pencil to camera: framing, viewpoint, light, and above all *choosing* — the working motto is "shoot many, keep few, know why." The unit opens on your reviewed break-photo homework and closes on A2, a photographic series you shoot, select, and sequence around one theme.
 
 ## Session-by-session
 
@@ -36,11 +36,13 @@ Spine: **"Compose · intention."** Four Wednesday double sessions (W7–10) afte
 | W9 | 2026-10-28 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-08-the-theme-shoot-and-the-contact-sheet-edit\|U2·L3]] · S8 | Theme shoot + contact-sheet edit — "shoot many, keep few, know why" | **CS2** |
 | W10 | 2026-11-04 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-09-a2-the-photographic-series\|U2·L4]] · S9 | **A2: photographic series** — select, sequence, submit | **A2** |
 
-W10 falls inside G11 Juniors Days (11-04→06), which are for G11 only. This G10 class teaches and assesses as normal.
+W10 falls inside G11 Juniors Days (11-04→06), but those are G11-only, so this class teaches and assesses as normal.
 
 ## Assessment
 
-- **A2 (Attainment)** — 2026-11-04 (W10): photographic series + reflection. Announced 2026-10-21 (W8), two classes ahead. Marking focus: **framing, viewpoint, light, series thinking**.
+**Full brief** (objectives, task, instructions, rubric): [[classes/pre-a-level-art-design/assessments/pal-s1-a2-photographic-series|A2 Photo Series]].
+
+- **A2 (Attainment)** — you submit on 2026-11-04 (W10): photographic series + reflection. Announced on 2026-10-21 (W8), two classes ahead. Marking focus: **framing, viewpoint, light, series thinking**.
 - **HW1 (Course Skills)** — due 2026-10-14 (W7): break photo task set 09-30 — ≥20 photos, one subject, varied viewpoint and light. Focus: looking before composing.
 - **CS2 (Course Skills)** — 2026-10-28 (W9): composition practice set + contact-sheet edit. Focus: framing and selection.
 - **SB1 (Course Skills)** — 2026-10-21 (W8): first sketchbook spot-check — the first of two evenly-spaced progress checks feeding the A5 sketchbook attainment. Focus: sketchbook habit and development. See the [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|register]].
