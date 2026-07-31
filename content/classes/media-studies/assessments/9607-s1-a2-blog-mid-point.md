@@ -15,12 +15,15 @@ modified: 2026-07-30
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Due</dt><dd>Mon 2026-10-26<span class="stat-x">in the first five minutes of class</span></dd></div>
+  <div class="stat"><dt>Assesses</dt><dd><strong>AO3</strong><span class="stat-x">the research and planning strand of Component 1</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Due | Mon 2026-10-26, in the first five minutes of class |
 | Category | Attainment, the second of four in the 50% category |
 | Format | Submitted work, not a sitting. You hand in a URL |
-| Assesses | **AO3**, the research and planning strand of Component 1 |
 | What is submitted | Your production blog, posts 1 to 7, complete and to standard |
 | Feeds | A3, the complete Component 1 portfolio, and the mid-term grades due Thu 2026-10-29 |
 | Unit | [[classes/media-studies/unit-plans/9607-s1-unit-4-representation\|U4 Representation]] (it lands in U4's first session; the work belongs to the C1 production) |

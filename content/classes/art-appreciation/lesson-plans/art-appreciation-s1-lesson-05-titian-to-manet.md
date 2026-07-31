@@ -15,11 +15,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session codes</dt><dd>`U2·L9`–`U2·L16`</dd></div>
+  <div class="stat"><dt>Days</dt><dd>6 meetings (Tue is a double)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Fri 2026-10-09 to Fri 2026-10-16</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session codes | `U2·L9`–`U2·L16` |
-| Days | 6 meetings (Tue is a double) |
-| Dates | Fri 2026-10-09 to Fri 2026-10-16 |
 | Deliverable | A2: Unit 2 comparative essay |
 | Feeds | Mid-term grades, due Thu 2026-10-29 |
 | Homework | Reading on Olympia's reception, 30 min, set day 4, due day 6 |

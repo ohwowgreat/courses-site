@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days<span class="stat-x">W4, including the Sunday make-up day</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Sun 2026-09-20 → Thu 2026-09-24</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO1 Record</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (W4, including the Sunday make-up day) |
-| Dates | Sun 2026-09-20 → Thu 2026-09-24 |
-| AO focus | AO1 Record |
 | Deliverable | Stage 1 page composed; the sustained observed study carried across two days; supporting color and texture studies |
 | Feeds | CS3 progress check Thu 2026-09-24 |
 | Homework | Sketchbook: ten minutes of observed drawing per night from your chosen composition's source |

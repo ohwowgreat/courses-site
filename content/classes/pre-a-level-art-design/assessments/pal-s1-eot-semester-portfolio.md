@@ -13,15 +13,18 @@ modified: 2026-07-30
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Due</dt><dd>Wed 2027-01-06<span class="stat-x">submitted at the close of the last teaching session</span></dd></div>
+  <div class="stat"><dt>Returned</dt><dd>Wed 2027-01-20<span class="stat-x">the return session</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Due | Wed 2027-01-06, submitted at the close of the last teaching session |
 | Category | End of Term Exam, 20% of the semester grade |
 | Format | **One organized file**: PDF, PowerPoint or Keynote. There is no sitting and no exam |
 | Contains | Your 4 to 5 strongest works, each with supporting material you choose |
 | Reviewed | During the exam window, Mon 2027-01-11 to Mon 2027-01-18 |
 | Marked on | Selection · Sequence · Supporting evidence · Presentation quality · The argument |
-| Returned | Wed 2027-01-20, the return session |
 | Submitted alongside | The [[classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook\|A5 sketchbook]] |
 
 ## Objectives

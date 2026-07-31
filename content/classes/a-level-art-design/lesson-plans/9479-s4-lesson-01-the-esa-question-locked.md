@@ -13,10 +13,13 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (S1)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2028-02-21 → Fri 2028-02-25</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (S1) |
-| Dates | Mon 2028-02-21 → Fri 2028-02-25 |
 | Focus | Orientation to Component 2; the question choice |
 | Deliverable | The Cambridge ESA paper analyzed question by question; one question **locked in writing** with a rationale grounded in evidence |
 | Graded | **CS1**, Fri 2028-02-25 — your question choice with written rationale, locked in a 1:1. No attainment mark this week |

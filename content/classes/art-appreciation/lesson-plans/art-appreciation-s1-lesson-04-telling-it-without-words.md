@@ -15,11 +15,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session codes</dt><dd>`U2·L1`–`U2·L8`</dd></div>
+  <div class="stat"><dt>Days</dt><dd>8<span class="stat-x">the longest lesson of the semester</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Sun 2026-09-20 to Wed 2026-09-30</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session codes | `U2·L1`–`U2·L8` |
-| Days | 8 — the longest lesson of the semester |
-| Dates | Sun 2026-09-20 to Wed 2026-09-30 |
 | Template | MAKE |
 | Deliverable | CS2 ten-frame storyboard, set as the break homework |
 | Feeds | A2 |

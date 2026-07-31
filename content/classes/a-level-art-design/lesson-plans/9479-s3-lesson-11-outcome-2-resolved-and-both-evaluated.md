@@ -14,11 +14,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>3 days (W13, reduced — Seniors take Thu–Fri) + 5 days (W14)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-11-22 → Fri 2027-12-03</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop → AO4 Present<span class="stat-x">the paired evaluation</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 3 days (W13, reduced — Seniors take Thu–Fri) + 5 days (W14) |
-| Dates | Mon 2027-11-22 → Fri 2027-12-03 |
-| AO focus | AO3 Develop → AO4 Present; the paired evaluation |
 | Deliverable | Outcome 2 resolved and photographed to the same standard as outcome 1; both outcomes evaluated in writing against the intention |
 | Graded | No attainment mark. A4 (the complete Personal Investigation) announced Wed 2027-11-24 · **CS8** Fri 2027-12-03 (evaluation of both outcomes) |
 | Homework | ≤30 min: for the evaluation, one honest line on what each outcome found that the other did not |

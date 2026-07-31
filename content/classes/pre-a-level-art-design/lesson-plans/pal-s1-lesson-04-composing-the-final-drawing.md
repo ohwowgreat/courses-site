@@ -21,10 +21,13 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session</dt><dd>W4<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
+  <div class="stat"><dt>Date</dt><dd>Wed 2026-09-23</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session | W4, one Wednesday double (~90 min) |
-| Date | Wed 2026-09-23 |
 | Focus | Composition; the final observational drawing begun |
 | Deliverable | Three viewfinder thumbnails with one chosen in writing; the final drawing constructed and underway |
 | Feeds | **CS1 is collected and graded this session**; the drawing continues into A1 (W5, 09-30) |

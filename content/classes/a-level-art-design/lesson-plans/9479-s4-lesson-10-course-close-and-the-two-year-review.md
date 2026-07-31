@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>Reduced (S12)<span class="stat-x">after the May Day full week (S11, no teaching)</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2028-05-08 → Fri 2028-05-12</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>Review and release</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | Reduced (S12) — after the May Day full week (S11, no teaching) |
-| Dates | Mon 2028-05-08 → Fri 2028-05-12 |
-| AO focus | Review and release |
 | Deliverable | A two-year review of the whole A-Level; your portfolio returned (everything the board does not hold); an A2-season briefing |
 | Graded | No attainment. The 20% End-of-Term category was met by **the Final** (teacher-marked against the Cambridge criteria) |
 | Homework | None — the course is complete |

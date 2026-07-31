@@ -14,12 +14,15 @@ modified: 2026-07-30
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sits</dt><dd>Falls in or around the exam window<span class="stat-x">Mon 2027-01-11 to Mon 2027-01-18. The exact date will be confirmed in class</span></dd></div>
+  <div class="stat"><dt>Assesses</dt><dd>AO1 to AO4<span class="stat-x">the whole of Component 1</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sits | Falls in or around the exam window, Mon 2027-01-11 to Mon 2027-01-18. The exact date will be confirmed in class |
 | Category | End of Term Exam, 20% of the semester grade |
 | Format | A teacher assessment of your portfolio so far against the Cambridge criteria. **No exam paper and no invigilated sitting** |
-| Assesses | AO1 to AO4, the whole of Component 1 |
 | What you do for it | Nothing new. The evidence is the portfolio you submitted at A4 |
 | This class | You sit **no department finals**, so the exam window carries no other Art and Design commitment |
 

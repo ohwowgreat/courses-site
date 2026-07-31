@@ -22,12 +22,15 @@ modified: 2026-07-28
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Days</dt><dd>3<span class="stat-x">Mon single, Tue single, Wed double (no Friday session: Mid-Autumn Festival)</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-09-21<span class="stat-x">Tue 09-22 · Wed 09-23</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO2</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Days | 3 — Mon single, Tue single, Wed double (no Friday session: Mid-Autumn Festival) |
-| Dates | Mon 2026-09-21 · Tue 09-22 · Wed 09-23 |
 | Band/Unit | U2 Media Language ([[classes/media-studies/unit-plans/9607-s1-unit-2-media-language\|S1 Unit 2]]) |
-| AO focus | AO2 |
 | Deliverable | CS4 genre and camera analytical paragraph — direct practice for A1; your production group logs its equipment decision |
 | Homework | None set (holiday week) |
 

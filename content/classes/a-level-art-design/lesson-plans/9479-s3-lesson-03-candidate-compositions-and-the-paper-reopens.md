@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>4 days<span class="stat-x">Week 3, reduced — no class on Wed 09-15 for Mid-Autumn</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-09-13 → Fri 2027-09-17</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop<span class="stat-x">C3 written criteria (paper draft 2)</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 4 days (Week 3, reduced — no class on Wed 09-15 for Mid-Autumn) |
-| Dates | Mon 2027-09-13 → Fri 2027-09-17 |
-| AO focus | AO3 Develop; C3 written criteria (paper draft 2) |
 | Deliverable | Two candidates carried forward, developed to the same standard; research paper draft 2 opened, structured section by section |
 | Graded | **CS3** Fri 2027-09-17 — research paper draft 2 sections (written annotation). No attainment this week |
 | Homework | ≤30 min: outline the next draft-2 section — the argument, not the prose |

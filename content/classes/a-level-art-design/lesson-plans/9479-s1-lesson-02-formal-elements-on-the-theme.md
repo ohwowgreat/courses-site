@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>6 days (W2–W3)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-09-07 → Fri 2026-09-11<span class="stat-x">plus Mon 2026-09-14</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO1 Record</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 6 days (W2–W3) |
-| Dates | Mon 2026-09-07 → Fri 2026-09-11, plus Mon 2026-09-14 |
-| AO focus | AO1 Record |
 | Deliverable | Formal elements study set (line, tone and form, texture, color) and Recording Page 1; digital portfolio set up |
 | Feeds | CS1 collected Mon 2026-09-14 — practice for A1 |
 | Homework | Sketchbook: one further study per night from the theme, alternating element; ten minutes each, dated |

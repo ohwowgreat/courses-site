@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days<span class="stat-x">Unit 5 and the semester close</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-06-07 → Fri 2027-06-11</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO4 Present<span class="stat-x">across AO1–AO4</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days — Unit 5 and the semester close |
-| Dates | Mon 2027-06-07 → Fri 2027-06-11 |
-| AO focus | AO4 Present, across AO1–AO4 |
 | Deliverable | Mid-point portfolio photographed, sequenced, edited, QC'd and submitted; A4 sat |
 | Feeds | **A4 Fri 2027-06-11** — mid-point portfolio (recording, exploration, artists, development, one resolved piece, research paper draft), marked against AO1–AO4; no edits after |
 | Homework | After A4, the semester reflection |

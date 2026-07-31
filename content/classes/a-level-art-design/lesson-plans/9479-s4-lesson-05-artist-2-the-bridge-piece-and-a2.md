@@ -14,11 +14,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (S5)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2028-03-20 → Fri 2028-03-24</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO2 Explore + AO3 Develop</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (S5) |
-| Dates | Mon 2028-03-20 → Fri 2028-03-24 |
-| AO focus | AO2 Explore + AO3 Develop |
 | Deliverable | Artist 2 analyzed and answered; a bridge piece and a scale trial at the supervised-test dimensions; exploration pages that reason |
 | Graded | **CS5** Tue 2028-03-21 (artist pages + bridge piece check) · **A2** Fri 2028-03-24 (AO2+AO3) |
 | Homework | ≤30 min: note what the scale trial exposed at test dimensions — the surprise belongs here, not in the test room |

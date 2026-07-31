@@ -15,15 +15,18 @@ modified: 2026-07-30
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sits</dt><dd>In the school exam window<span class="stat-x"><strong>Mon 2027-01-11 to Mon 2027-01-18</strong>. Your slot is set by the exam office</span></dd></div>
+  <div class="stat"><dt>Marks</dt><dd>50</dd></div>
+  <div class="stat"><dt>Assesses</dt><dd>AO1 and AO2</dd></div>
+  <div class="stat"><dt>Returned</dt><dd>Tue 2027-01-19<span class="stat-x">with question-level AO breakdowns</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sits | In the school exam window, **Mon 2027-01-11 to Mon 2027-01-18**. Your slot is set by the exam office |
 | Category | End of Term Exam, 20% of the semester grade |
 | Format | The **full Component 2 paper**, 2 hours, in the exam venue |
 | Structure | Section A: unseen extract analysis (25) · Section B: contexts essay (25) |
-| Marks | 50 |
-| Assesses | AO1 and AO2 |
-| Returned | Tue 2027-01-19, with question-level AO breakdowns |
 | Then | Wed 2027-01-20 double: your one-page Semester 2 target sheet (LB7) |
 | Unit | [[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation\|U6 Revision and Consolidation]] |
 

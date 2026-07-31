@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>2 days (S11)<span class="stat-x">May Day reduced week</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Thu 2027-05-06 → Fri 2027-05-07</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 2 days (S11) — May Day reduced week |
-| Dates | Thu 2027-05-06 → Fri 2027-05-07 |
-| AO focus | AO3 Develop |
 | Deliverable | Composition 1 resolved and honestly documented — photographed and laid out |
 | Graded | Nothing graded this week. **CS7** (paper section drafts) is Fri 2027-05-14 in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-11-composition-2-and-paper-drafts\|L11]] |
 | Homework | ≤30 min: prepare composition 2 from your rejected-alternative studies, ahead of L11 |

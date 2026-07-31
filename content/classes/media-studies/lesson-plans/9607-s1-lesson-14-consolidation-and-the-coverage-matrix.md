@@ -23,12 +23,15 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Days</dt><dd>3<span class="stat-x">Mon, Tue, Wed double (Week 17)</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-12-21<span class="stat-x">Tue 12-22 · Wed 12-23</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>A4 review at AO level<span class="stat-x">coverage audit of the four Key Concepts</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Days | 3 — Mon, Tue, Wed double (Week 17) |
-| Dates | Mon 2026-12-21 · Tue 12-22 · Wed 12-23 |
 | Band/Unit | U6 Revision ([[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation\|S1 Unit 6]]) |
-| AO focus | A4 review at AO level; coverage audit of the four Key Concepts |
 | Deliverable | Case-study coverage matrix completed; HW2 break pack set. A4 returned on day 1; LB5 taken |
 | Feeds | End of Term Exam |
 | Homework | HW2 break task: case-study revision pack, one page each, plus one Section B essay plan (3–4 h across the break) |

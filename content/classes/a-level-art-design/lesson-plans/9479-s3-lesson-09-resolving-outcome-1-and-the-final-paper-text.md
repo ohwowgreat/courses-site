@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (W11)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-11-08 → Fri 2027-11-12</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO4 Present<span class="stat-x">C3 written criteria</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (W11) |
-| Dates | Mon 2027-11-08 → Fri 2027-11-12 |
-| AO focus | AO4 Present; C3 written criteria |
 | Deliverable | Outcome 1 resolved and photographed to examiner standard; the research paper at final text, every claim evidenced |
 | Graded | No attainment. Runs toward **A3** Mon 2027-11-15 in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-10-a3-the-research-paper-and-outcome-2-opens\|L10]] |
 | Homework | ≤30 min: the integration check — list any paper claim not yet pointing at a real page |

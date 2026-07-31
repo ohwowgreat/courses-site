@@ -15,11 +15,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session codes</dt><dd>`U4·L18`–`U4·L20`</dd></div>
+  <div class="stat"><dt>Days</dt><dd>3</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-12-21 to Wed 2026-12-23</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session codes | `U4·L18`–`U4·L20` |
-| Days | 3 |
-| Dates | Mon 2026-12-21 to Wed 2026-12-23 |
 | Deliverable | Winter break homework: the retrospective brief, plus LB8 |
 | Homework | Break homework: three works that changed how you see, with reasons; 3–4 hours across the break, set on day 3 |
 

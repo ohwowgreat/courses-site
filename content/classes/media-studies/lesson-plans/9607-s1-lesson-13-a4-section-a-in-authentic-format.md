@@ -23,12 +23,15 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Days</dt><dd>4<span class="stat-x">Mon+Tue two-day block, Wed double (A4 sits), Fri single</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-12-14<span class="stat-x">Tue 12-15 · Wed 12-16 · Fri 12-18</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO1 + AO2</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Days | 4 — Mon+Tue two-day block, Wed double (A4 sits), Fri single |
-| Dates | Mon 2026-12-14 · Tue 12-15 · Wed 12-16 · Fri 12-18 |
 | Band/Unit | U5 Media Contexts ([[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts\|S1 Unit 5]]) |
-| AO focus | AO1 + AO2 |
 | Deliverable | A4 script: Component 2 Section A — 30 min viewing and notes plus 45 min writing |
 | Feeds | End of Term Exam; Forecast Grade anchor |
 | Homework | None |

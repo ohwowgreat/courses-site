@@ -22,12 +22,15 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Days</dt><dd>3<span class="stat-x">Tue single, Wed double, Fri single</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Tue 2026-09-01<span class="stat-x">Wed 09-02 · Fri 09-04</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO2</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Days | 3 — Tue single, Wed double, Fri single |
-| Dates | Tue 2026-09-01 · Wed 09-02 · Fri 09-04 |
 | Band/Unit | U1 Introduction ([[classes/media-studies/unit-plans/9607-s1-unit-1-introduction\|S1 Unit 1]]) |
-| AO focus | AO2 |
 | Deliverable | CS1 analytical paragraph — denotation only, written Friday |
 | Feeds | A1 (the denotation discipline is the foundation A1 is marked on) |
 | Homework | D1: the 24-hour media-use log + blog set-up begun · D2: digital-identity mind map · all week: EN/ZH lexicon (≥5 entries by Friday) |

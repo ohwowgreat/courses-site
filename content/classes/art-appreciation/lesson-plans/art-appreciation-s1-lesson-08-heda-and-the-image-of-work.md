@@ -15,11 +15,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session codes</dt><dd>`U3·L11`–`U3·L17`</dd></div>
+  <div class="stat"><dt>Days</dt><dd>7 teaching days across 10 calendar days</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-11-02 to Fri 2026-11-13<span class="stat-x">G11 out Wed 11-04 to Fri 11-06 for Juniors Days</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session codes | `U3·L11`–`U3·L17` |
-| Days | 7 teaching days across 10 calendar days |
-| Dates | Mon 2026-11-02 to Fri 2026-11-13 (G11 out Wed 11-04 to Fri 11-06 for Juniors Days) |
 | Deliverable | CS4 Heda paragraph, plus LB5 |
 | Feeds | A3 |
 | Homework | Reading on Dutch still life and the inventory, 30 min, set day 4, due day 6 |

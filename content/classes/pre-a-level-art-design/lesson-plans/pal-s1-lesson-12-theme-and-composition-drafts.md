@@ -21,10 +21,13 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session</dt><dd>W13<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
+  <div class="stat"><dt>Date</dt><dd>Wed 2026-11-25</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session | W13, one Wednesday double (~90 min) |
-| Date | Wed 2026-11-25 |
 | Focus | Meaning; choosing a main idea; two composition drafts for the final collage |
 | Deliverable | A written main idea + two dry-fit drafts, one circled with a reason |
 | Feeds | **CS3 is collected this session** (the experiment set) |

@@ -19,11 +19,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days<span class="stat-x">W13–W14, the tail before the Juniors Days</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Wed 2026-11-25 → Fri 2026-11-27<span class="stat-x">then Mon 2026-11-30 → Tue 2026-12-01</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (W13–W14, the tail before the Juniors Days) |
-| Dates | Wed 2026-11-25 → Fri 2026-11-27, then Mon 2026-11-30 → Tue 2026-12-01 |
-| AO focus | AO3 Develop |
 | Deliverable | Targeted tests on the unresolved questions only; final direction chosen with its rejection written down; the written evaluation; the Stage 6 page |
 | Assessment | CS9 collected Fri 2026-11-27, inside the tests run |
 | Homework | Written annotation: draft the evaluation across the Juniors Days gap |

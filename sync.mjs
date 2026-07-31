@@ -26,6 +26,7 @@ import { reframeAll } from "./reframe.mjs"
 import { libraryMarkdown } from "./gallery.mjs"
 import { insertCitations } from "./cite.mjs"
 import { syncDecks, deckLine, courseDeckBlock, DECKS_DIR } from "./decks.mjs"
+import { statStrip, stripHtml } from "./at-a-glance.mjs"
 
 // Env overrides exist so the pipeline can be exercised off-machine against a
 // fixture vault without touching the real content/. Normal use needs neither.
@@ -764,6 +765,63 @@ function insertHandouts(body, entry, depth) {
     : body.slice(0, pos) + "\n" + html + body.slice(pos)
 }
 
+// Tickable checklists, in the same keyed-by-vault-path shape as HANDOUTS: site-authored
+// content injected into a vault page, so vault bodies stay untouched and no reframe is
+// triggered. Wording is lifted from the C1 study guide's own submission section rather
+// than written fresh, so the guide and the page it is linked from agree.
+//
+// Injected as markdown, not an HTML block, so ObsidianFlavoredMarkdown parses `- [ ]`
+// into real checkboxes; only the sub-line is inline HTML, which is parsed normally
+// inside a list item (it is *block*-level HTML that swallows to the next blank line).
+//
+// The storage key checkbox.inline.ts writes is positional — `${slug}-checkbox-${index}`
+// across every box on the page in document order. APPEND new items to the end of a list,
+// never insert into the middle: inserting shifts every saved tick after it, and a
+// student comes back to the wrong boxes ticked.
+const CHECKLISTS = {
+  "classes/media-studies/assessments/9607-s1-a3-c1-portfolio.md": {
+    // Deliberately short: the numbered item directly above already ends "Friday is
+    // logistics, not heroics", and repeating it two lines later reads as a stutter.
+    lead: "**Run this at the close of the Wednesday session**, not on Friday morning.",
+    anchor: /\*\*No edits after\.\*\* This is absolute/,
+    items: [
+      [
+        "Product exported and playable",
+        "Open it on a different machine than the one you edited on",
+      ],
+      ["Reflection posted, in its creative format", "All four questions, embedded and working"],
+      [
+        "Blog complete, posts dated, contributions labeled",
+        "No gaps between the first post and the last",
+      ],
+      [
+        "Every URL checked from a signed-out browser",
+        "Including embedded ones. Expired links are the classic failure",
+      ],
+      ["URLs and files logged on the submission sheet", "Confirmation shown on screen"],
+    ],
+  },
+}
+
+// Mirrors insertHandouts: inserted after the paragraph matching `anchor`, falling back to
+// the end of the body if the anchor has drifted.
+function insertChecklist(body, entry) {
+  // The .ct wrapper is load-bearing: the <li> is a flex container, so every one of its
+  // children becomes a column. Without it the sub-line is a sibling of the label and
+  // sits beside it rather than under it.
+  const list = entry.items
+    .map(
+      ([label, sub]) => `- [ ] <span class="ct">${label}<span class="ct-sub">${sub}</span></span>`,
+    )
+    .join("\n")
+  const md = `${entry.lead}\n\n${list}\n\n`
+  const at = body.search(entry.anchor)
+  if (at === -1) return body.trimEnd() + "\n\n" + md
+  const paraEnd = body.indexOf("\n\n", at)
+  const pos = paraEnd === -1 ? -1 : paraEnd + 2
+  return pos === -1 ? body.trimEnd() + "\n\n" + md : body.slice(0, pos) + md + body.slice(pos)
+}
+
 // The deck download line goes directly above the page's first H2 — under the H1
 // and its breadcrumb row, where a student looks for the week's materials, and
 // above "At a glance". Unlike the handouts it needs no per-page anchor: every
@@ -1317,9 +1375,14 @@ for (const { rel, frontmatter: fm, body: cleaned } of pages) {
   // Figures first: their anchors must match page content, not the hero's caption.
   if (FIGURES[rel]) body = insertFigures(body, FIGURES[rel], depth)
   if (HANDOUTS[rel]) body = insertHandouts(body, HANDOUTS[rel], depth)
+  if (CHECKLISTS[rel]) body = insertChecklist(body, CHECKLISTS[rel])
   if (CITATIONS[rel]) body = insertCitations(body, CITATIONS[rel])
   const deck = decks.byLesson.get(rel)
   if (deck) body = insertDeckLine(body, deckLine(deck, depth))
+  // Last of the body transforms: insertHandouts anchors on "| Unit |" and
+  // insertDeckLine on the first "## ", and both must still see the page as the vault
+  // wrote it.
+  body = statStrip(body)
   if (HEROES[rel]) body = heroFigure(HEROES[rel], depth) + body
 
   const dest = join(OUT, rel)
@@ -1340,6 +1403,20 @@ if (homeHero) {
   home = home.replace(/^hero:.*\n/m, "")
   home = home.replace(/^(---\n[\s\S]*?\n---\n)/, `$1\n${heroFigure(homeHero[1], 0)}`)
 }
+// The landing masthead, counted from what this run published rather than typed into
+// site-home.md, where "16 lessons" would quietly go stale the week a seventeenth landed.
+// The placeholder is an HTML comment, so an un-run sync degrades to nothing visible.
+home = home.replace(
+  /^<!--stat-strip-->$/m,
+  // Three cells, not four: the landing article is 652px, where a fourth wraps alone onto
+  // its own row and stretches the full width. The first teaching day was the cell that
+  // went, and "Key dates" states it in the next screen anyway.
+  stripHtml([
+    { label: "Courses", value: String(Object.keys(COURSES).length) },
+    { label: "Lessons", value: String([...written].filter((r) => /\blesson-\d+/.test(r)).length) },
+    { label: "Semester", value: "Sep 2026 → Jan 2027" },
+  ]).trimEnd(),
+)
 await writeFile(join(OUT, "index.md"), home)
 written.add("index.md")
 
@@ -1351,9 +1428,11 @@ const folderIndexes = {
   classes: {
     title: "All courses",
     body:
+      // Cohort beside each course name: this page is a chooser, and "which one is mine"
+      // is the only question a student brings to it.
       "Every course on this site. Start from a course overview:\n\n" +
       Object.values(COURSES)
-        .map((c) => `- [[${c.overview}|${c.name}]]`)
+        .map((c) => `- [[${c.overview}|${c.name}]] — ${c.cohort}${c.code ? ` · ${c.code}` : ""}`)
         .join("\n"),
   },
   concepts: {
@@ -1465,6 +1544,31 @@ for (const c of Object.values(COURSES)) {
   const courseDecks = decks.byCourse.get(c.dir)
   const slides = courseDecks ? courseDeckBlock(courseDecks, ovRel.split("/").length - 1) : ""
   if (!map && !slides) continue
+
+  // The overview's own At-a-glance: who the course is for, and how much of it there is.
+  // Counted from what was actually published this run — the same list the map is built
+  // from — so the strip can never claim a lesson that isn't on the site. A count of 0 is
+  // dropped rather than shown, because "0 lessons" reads as broken rather than as
+  // not-yet-written (Oxbridge has no numbered lessons at all).
+  const n = (re) => items.filter((it) => re.test(it.rel)).length
+  const counts = [
+    { label: "Units", value: n(/^unit-plans\/.*\bunit-\d+/) },
+    { label: "Lessons", value: n(/^lesson-plans\/.*\blesson-\d+/) },
+    // Registers and the folder index are navigation, not graded items.
+    {
+      label: "Assessments",
+      value: items.filter(
+        (it) =>
+          it.rel.startsWith("assessments/") &&
+          !/(^|\/)index\.md$/.test(it.rel) &&
+          !/-assessments?\.md$/.test(it.rel),
+      ).length,
+    },
+  ]
+  const strip = stripHtml([
+    { label: "Cohort", value: c.cohort, note: c.code },
+    ...counts.filter((x) => x.value > 0).map((x) => ({ label: x.label, value: String(x.value) })),
+  ])
   let ov = await readFile(join(OUT, ovRel), "utf8")
   // The old navigation: a "> **Start here:** …" blockquote of inline links,
   // and the "Semester plans / Assessment registers" blockquote — both now
@@ -1472,7 +1576,7 @@ for (const c of Object.values(COURSES)) {
   ov = ov.replace(/^> \*\*Start here:\*\*[^\n]*\n+/m, "")
   ov = ov.replace(/^> \*\*Semester plans:\*\*[^\n]*(?:\n> [^\n]*)*\n+/m, "")
   // Insert before the first H2 — after the intro prose, before the content.
-  const block = map + slides
+  const block = strip + map + slides
   ov = /^## /m.test(ov) ? ov.replace(/^## /m, `${block}## `) : ov + "\n" + block
   await writeFile(join(OUT, ovRel), ov)
 }

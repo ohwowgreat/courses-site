@@ -15,11 +15,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session codes</dt><dd>`U1·L10`–`U1·L14`</dd></div>
+  <div class="stat"><dt>Days</dt><dd>5</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-09-14 to Fri 2026-09-18</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session codes | `U1·L10`–`U1·L14` |
-| Days | 5 |
-| Dates | Mon 2026-09-14 to Fri 2026-09-18 |
 | Deliverable | A1: Unit 1 board and justification |
 | Homework | Gather candidate images, 30 min/night, days 1–3 |
 

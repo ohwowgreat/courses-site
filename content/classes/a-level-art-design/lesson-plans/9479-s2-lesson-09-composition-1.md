@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (S10)<span class="stat-x">Unit 4 opens</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-04-26 → Fri 2027-04-30</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (S10) — Unit 4 opens |
-| Dates | Mon 2027-04-26 → Fri 2027-04-30 |
-| AO focus | AO3 Develop |
 | Deliverable | Composition 1 composed, built across two days, and pushed as far as it goes; research paper outline populated |
 | Graded | **CS6** (research paper outline populated) Thu 2027-04-29 — written annotation. **A3** (development + paper draft 1, AO3) sits Fri 2027-05-28 |
 | Homework | ≤30 min: over the May Day holiday (~05-01 → 05), read toward one paper section; no new studio work required |

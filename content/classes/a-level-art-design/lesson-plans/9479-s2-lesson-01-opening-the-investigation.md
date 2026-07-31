@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (S1)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-02-22 → Fri 2027-02-26</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>Orientation to Component 3<span class="stat-x">AO1 in view</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (S1) |
-| Dates | Mon 2027-02-22 → Fri 2027-02-26 |
-| AO focus | Orientation to Component 3; AO1 in view |
 | Deliverable | Three candidate themes with references, each defended 1:1 and screened against reachable sources; a shortlist narrowed toward the lock |
 | Graded | Nothing is graded this week. **CS1** (proposal draft) is Fri 2027-03-05; the theme locks in writing in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked\|L03]] |
 | Homework | ≤30 min: a short written case for each surviving candidate — the sources you can reach and the problems it opens — begun toward the CS1 proposal draft |

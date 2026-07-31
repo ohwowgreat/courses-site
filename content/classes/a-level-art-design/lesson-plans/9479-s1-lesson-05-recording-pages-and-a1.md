@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>6 days (W5–W6, split by National Day)<span class="stat-x">Unit 2 closes</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-09-28 → Wed 2026-09-30<span class="stat-x">then Thu 2026-10-08 → Sat 2026-10-10</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO1 Record</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 6 days (W5–W6, split by National Day) — Unit 2 closes |
-| Dates | Mon 2026-09-28 → Wed 2026-09-30, then Thu 2026-10-08 → Sat 2026-10-10 |
-| AO focus | AO1 Record |
 | Deliverable | Recording pages built and sequenced; A1 sat; feedback converted to three actions |
 | Assessments | CS4 build check Wed 2026-09-30; **A1 Fri 2026-10-09** (feeds mid-term grades due Thu 2026-10-29) |
 | Homework | Over the break: sketchbook recording from primary sources, dated. After A1: reflection turning feedback into three actions |

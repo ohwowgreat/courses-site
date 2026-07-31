@@ -13,15 +13,18 @@ modified: 2026-07-30
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sits</dt><dd>Wed 2026-11-04<span class="stat-x">one double (about 90 minutes)</span></dd></div>
+  <div class="stat"><dt>Returned</dt><dd>Within five working days</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sits | Wed 2026-11-04, one double (about 90 minutes) |
 | Category | Attainment, the second of five in the 50% category |
 | Format | Made in class from photographs you already took. **No new shooting today** |
 | Submitted | A series of **6 to 8 images**, titled, plus the written reflection, posted to MB by the close |
 | Marked on | Framing · Viewpoint · Light · Series thinking |
 | Also collected | Contact sheet and annotated rejects, into the sketchbook as process evidence |
-| Returned | Within five working days |
 | Unit | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography\|U2 Photography]] |
 
 ## Objectives

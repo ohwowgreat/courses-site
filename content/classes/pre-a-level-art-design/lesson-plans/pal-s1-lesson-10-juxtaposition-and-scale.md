@@ -21,10 +21,13 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session</dt><dd>W11<span class="stat-x">one Wednesday double (~90 min) — Unit 3 opens</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Wed 2026-11-11</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session | W11, one Wednesday double (~90 min) — Unit 3 opens |
-| Dates | Wed 2026-11-11 |
 | Focus | What collage is; juxtaposition and scale — "two images say a third thing" |
 | Deliverable | Vocabulary in the sketchbook; two fast cut-and-paste studies (one juxtaposition, one scale) |
 | Feeds | The experiment set that CS3 checks (W13) starts today |

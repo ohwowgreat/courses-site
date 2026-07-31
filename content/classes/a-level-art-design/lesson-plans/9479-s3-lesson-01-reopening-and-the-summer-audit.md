@@ -12,11 +12,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>3 days (W1, reduced — term opens Wed)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Wed 2027-09-01 → Fri 2027-09-03</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>Review against AO1–AO4<span class="stat-x">the summer work audited</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 3 days (W1, reduced — term opens Wed) |
-| Dates | Wed 2027-09-01 → Fri 2027-09-03 |
-| AO focus | Review against AO1–AO4; the summer work audited |
 | Deliverable | Every summer piece present, annotated and judged against its June target — met, missed, missing — and defended 1:1 |
 | Graded | **CS1** Fri 2027-09-03 — summer portfolio audit against the set targets, marked piece by piece. No attainment this week |
 | Homework | ≤30 min: finish annotating any summer piece not yet judged against its named target, ready for the 1:1s |

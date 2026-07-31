@@ -20,10 +20,13 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session</dt><dd>W10<span class="stat-x">one Wednesday double (~90 min) — Unit 2 closes</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Wed 2026-11-04</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session | W10, one Wednesday double (~90 min) — Unit 2 closes |
-| Dates | Wed 2026-11-04 |
 | Focus | **A2 sat**: you select, sequence, title, and submit your series with its reflection |
 | Deliverable | Your final 6–8-image series + written reflection, on MB by close; process trail in your sketchbook |
 | Feeds | A2 is the semester's second attainment; your contact sheet and rejects become sketchbook process evidence for SB2/A5 |

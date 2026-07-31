@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (S3)<span class="stat-x">Unit 1 closes</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-03-08 → Fri 2027-03-12</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO1<span class="stat-x">the investigation's foundations recorded</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (S3) — Unit 1 closes |
-| Dates | Mon 2027-03-08 → Fri 2027-03-12 |
-| AO focus | AO1 — the investigation's foundations recorded |
 | Deliverable | Theme locked in writing; statement of intent; research plan; first primary-source shoot, annotated |
 | Graded | **CS2** (statement of intent + annotated references) due Fri 2027-03-12. Your first attainment, **A1** (recording milestone, AO1), is on Fri 2027-03-19 in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-04-recording-and-the-a1-milestone\|L04]] |
 | Homework | ≤30 min: extend your primary-source shooting — first-hand, dated — ahead of the Stage 1 recording pages next week |

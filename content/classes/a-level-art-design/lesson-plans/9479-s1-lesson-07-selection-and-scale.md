@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (W8)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-10-19 → Fri 2026-10-23</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO2 Explore</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (W8) |
-| Dates | Mon 2026-10-19 → Fri 2026-10-23 |
-| AO focus | AO2 Explore |
 | Deliverable | Media selected and documented; the idea tested at real scale across two days; Stage 3 page laid out |
 | Feeds | CS6 collected Fri 2026-10-23 — direct practice for A2 |
 | Homework | Written annotation: draft your media selection note at home, refine it in class |

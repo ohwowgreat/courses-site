@@ -20,10 +20,13 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session</dt><dd>W15<span class="stat-x">one Wednesday double (~90 min) — Unit 3 closes</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Wed 2026-12-09</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session | W15, one Wednesday double (~90 min) — Unit 3 closes |
-| Dates | Wed 2026-12-09 |
 | Focus | **A3 sat**: the final collage finished under assessment conditions, plus the written reflection |
 | Deliverable | The final collage + reflection, submitted at close; process trail (drafts, dry-fit photos, scraps) in the sketchbook |
 | Feeds | A3 is the semester's third attainment; U4 opens next week with the A4 route decision |

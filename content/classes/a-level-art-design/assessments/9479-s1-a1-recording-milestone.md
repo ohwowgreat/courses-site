@@ -14,15 +14,18 @@ modified: 2026-07-30
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sits</dt><dd>Fri 2026-10-09<span class="stat-x">in session</span></dd></div>
+  <div class="stat"><dt>Assesses</dt><dd><strong>AO1 Record</strong><span class="stat-x">15 marks of Component 1</span></dd></div>
+  <div class="stat"><dt>Returned</dt><dd>Sat 2026-10-10<span class="stat-x">banded, one-to-one</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sits | Fri 2026-10-09, in session |
 | Category | Attainment, the first of four in the 50% category |
 | Format | Portfolio review of your recording work, in class, with nothing added during the review |
-| Assesses | **AO1 Record**, 15 marks of Component 1 |
 | What is reviewed | Your intention, your Stage 1 pages, your sustained study, and the supporting studies behind it |
 | Feeds | Component 1 Portfolio, and the mid-term grades due Thu 2026-10-29 |
-| Returned | Sat 2026-10-10, banded, one-to-one |
 | Unit | [[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study\|U2 Recording and Sustained Study]] |
 
 ## Objectives

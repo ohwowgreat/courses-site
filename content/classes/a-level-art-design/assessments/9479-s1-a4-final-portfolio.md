@@ -15,15 +15,18 @@ modified: 2026-07-30
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Due</dt><dd>Thu 2027-01-07<span class="stat-x">submitted in session</span></dd></div>
+  <div class="stat"><dt>Assesses</dt><dd><strong>AO1 to AO4</strong><span class="stat-x">all 60 marks of Component 1</span></dd></div>
+  <div class="stat"><dt>Returned</dt><dd>W21<span class="stat-x">one to one, Tue to Thu. Grades and comments due Wed 2027-01-20</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Due | Thu 2027-01-07, submitted in session |
 | Category | Attainment, the fourth of four in the 50% category |
 | Format | The complete Component 1 portfolio, submitted digitally. **No edits after submission** |
-| Assesses | **AO1 to AO4**, all 60 marks of Component 1 |
 | What is submitted | The resolved final outcome plus the complete supporting portfolio, sequenced and edited |
 | Marking window | Thu 2027-01-07 to Wed 2027-01-20, nine working days |
-| Returned | W21, one to one, Tue to Thu. Grades and comments due Wed 2027-01-20 |
 | Unit | [[classes/a-level-art-design/unit-plans/9479-s1-unit-5-final-outcome-and-portfolio\|U5 Final Outcome and Portfolio]] |
 
 ## Objectives

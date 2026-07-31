@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (W4)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-09-20 → Fri 2027-09-24</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (W4) |
-| Dates | Mon 2027-09-20 → Fri 2027-09-24 |
-| AO focus | AO3 Develop |
 | Deliverable | Targeted tests that change the composition on evidence; a structured critique of the candidates against the intention |
 | Graded | **CS4** Fri 2027-09-24 — targeted tests (sketchbook). No attainment this week |
 | Homework | ≤30 min: write up one test — what it asked, what it showed, what you changed |

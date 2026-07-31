@@ -15,11 +15,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session codes</dt><dd>`U3·L6`–`U3·L10`</dd></div>
+  <div class="stat"><dt>Days</dt><dd>5<span class="stat-x">each complete in itself</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-10-26 to Fri 2026-10-30</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session codes | `U3·L6`–`U3·L10` |
-| Days | 5, each complete in itself |
-| Dates | Mon 2026-10-26 to Fri 2026-10-30 |
 | Deliverable | The reflection on your own table, plus LB4 |
 | Feeds | A3 |
 | Homework | None |

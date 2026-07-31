@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (S14)<span class="stat-x">Unit 4 closes</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-05-24 → Fri 2027-05-28</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop (integration in view)</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (S14) — Unit 4 closes |
-| Dates | Mon 2027-05-24 → Fri 2027-05-28 |
-| AO focus | AO3 Develop (integration in view) |
 | Deliverable | Evaluation written; Stage 6 page assembled; research paper draft 1 completed and repaired; A3 sat |
 | Feeds | **A3 Fri 2027-05-28** — development milestone + research paper draft 1 (compositions 1+2, targeted tests, evaluation, Stage 6 page), marked against AO3 |
 | Homework | ≤30 min: after A3, act on the feedback toward the mid-point piece and begin integrating the bibliography, ahead of [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-14-mid-point-piece-and-bibliography\|L14]] |

@@ -20,10 +20,13 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session</dt><dd>W1<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
+  <div class="stat"><dt>Date</dt><dd>Wed 2026-09-02</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session | W1, one Wednesday double (~90 min) |
-| Date | Wed 2026-09-02 |
 | Focus | Course opening; the sketchbook contract; the visual elements; line and mark |
 | Deliverable | Introduction Survey completed (incl. the garlic drawing); sketchbook set up; first line studies |
 | Homework | Finish the *Drawing Exercises 1* mark sheets; decorate the sketchbook cover; post the session's pages on MB (the weekly Learning Behaviour posting) |

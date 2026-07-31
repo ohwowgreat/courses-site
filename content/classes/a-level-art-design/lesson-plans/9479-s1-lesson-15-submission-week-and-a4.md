@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days<span class="stat-x">7 sessions (W19) — Unit 5 and the semester close</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-01-04 → Fri 2027-01-08</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO4 Present<span class="stat-x">across AO1–AO4</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days, 7 sessions (W19) — Unit 5 and the semester close |
-| Dates | Mon 2027-01-04 → Fri 2027-01-08 |
-| AO focus | AO4 Present, across AO1–AO4 |
 | Deliverable | Photograph, sequence, edit and submit your portfolio; sit A4; reflect on the semester |
 | Feeds | **A4 Thu 2027-01-07**: final portfolio, marked against AO1–AO4; no edits after. Marking window Thu 01-07 → Wed 01-20 (nine working days) |
 | Homework | Reflection: the semester look-back, finished after Friday. Winter HW: three candidate C3 themes with annotated references — the [[classes/a-level-art-design/9479-c3-winter-brief\|C3 Winter Brief]] |

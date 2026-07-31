@@ -15,11 +15,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session codes</dt><dd>`U3·L1`<span class="stat-x">`U3·L2-3` (two-day run), `U3·L4`, `U3·L5`</span></dd></div>
+  <div class="stat"><dt>Days</dt><dd>5</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-10-19 to Fri 2026-10-23</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session codes | `U3·L1`, `U3·L2-3` (two-day run), `U3·L4`, `U3·L5` |
-| Days | 5 |
-| Dates | Mon 2026-10-19 to Fri 2026-10-23 |
 | Deliverable | A written reading of one meal, plus LB3 |
 | Feeds | A3 |
 | Homework | Finish the film on your own if the screening runs short; otherwise none |

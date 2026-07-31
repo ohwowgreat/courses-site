@@ -21,10 +21,13 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session</dt><dd>W17<span class="stat-x">one Wednesday double (~90 min) — the last teaching session before the winter break</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Wed 2026-12-23</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session | W17, one Wednesday double (~90 min) — the last teaching session before the winter break |
-| Dates | Wed 2026-12-23 |
 | Focus | **A4 sat**: the final poster made in class, handmade or digital, plus the reflection |
 | Deliverable | The final poster + reflection, submitted at close; thumbnails and type studies in the sketchbook as process |
 | Feeds | A4 is the semester's fourth attainment; the work returns as portfolio material at W19 |

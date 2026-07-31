@@ -14,11 +14,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (W16)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-12-13 → Fri 2027-12-17</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO4 Present</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (W16) |
-| Dates | Mon 2027-12-13 → Fri 2027-12-17 |
-| AO focus | AO4 Present |
 | Deliverable | You present and defend your investigation in a viva-style critique, then fix what breaks — start nothing new |
 | Graded | No attainment. **CS10** Thu 2027-12-16 (presentation critique response, answered in writing) |
 | Homework | ≤30 min: write the answer to the hardest question the critique put to you |

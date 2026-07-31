@@ -21,10 +21,13 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session</dt><dd>W2<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
+  <div class="stat"><dt>Date</dt><dd>Wed 2026-09-09</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session | W2, one Wednesday double (~90 min) |
-| Date | Wed 2026-09-09 |
 | Focus | Value; building form with tone, not outline |
 | Deliverable | 10-step value scale; one shaded-form study from the chart; one tonal study of a lit object |
 | Feeds | CS1 (the exercise-set check, W4) — the value scale and tonal study are two of its four pieces |

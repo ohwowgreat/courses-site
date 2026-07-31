@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (W9)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-10-26 → Fri 2026-10-30</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop<span class="stat-x">contextual study</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (W9) |
-| Dates | Mon 2026-10-26 → Fri 2026-10-30 |
-| AO focus | AO3 Develop, contextual study |
 | Deliverable | Artist pages: analysis, meaning and context, method study, personal response, influence note |
 | Feeds | CS7 collected Fri 2026-10-30 |
 | Homework | Written annotation: draft the meaning-and-context paragraph at home |

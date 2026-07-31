@@ -14,11 +14,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (W10)<span class="stat-x">the week after the Seniors' Days</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-11-01 → Fri 2027-11-05</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop → AO4 Present</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (W10) — the week after the Seniors' Days |
-| Dates | Mon 2027-11-01 → Fri 2027-11-05 |
-| AO focus | AO3 Develop → AO4 Present |
 | Deliverable | Outcome 1 built across a sustained run, reviewed mid-production while change is still possible |
 | Graded | No attainment grade. A3 announced Mon 2027-11-01 · **CS6** Thu 2027-11-04 (outcome 1 mid-production review) |
 | Homework | ≤30 min: note the one change the mid-production review named, before you act on it |

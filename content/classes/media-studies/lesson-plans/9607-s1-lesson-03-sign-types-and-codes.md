@@ -23,12 +23,15 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Days</dt><dd>4<span class="stat-x">Mon+Tue two-day block, Wed double, Fri single</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-09-14<span class="stat-x">Tue 09-15 · Wed 09-16 · Fri 09-18</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO1</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Days | 4 — Mon+Tue two-day block, Wed double, Fri single |
-| Dates | Mon 2026-09-14 · Tue 09-15 · Wed 09-16 · Fri 09-18 |
 | Band/Unit | U2 Media Language ([[classes/media-studies/unit-plans/9607-s1-unit-2-media-language\|S1 Unit 2]]) |
-| AO focus | AO1 |
 | Deliverable | CS3 vocabulary quiz, 20 items, 20 min |
 | Feeds | A1 |
 | Homework | Lexicon revision toward CS3; no new tasks |

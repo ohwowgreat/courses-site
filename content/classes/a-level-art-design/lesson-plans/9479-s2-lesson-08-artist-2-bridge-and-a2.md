@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (S9)<span class="stat-x">Unit 3 closes</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-04-19 → Fri 2027-04-23</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO2 Explore + AO3 Develop</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (S9) — Unit 3 closes |
-| Dates | Mon 2027-04-19 → Fri 2027-04-23 |
-| AO focus | AO2 Explore + AO3 Develop |
 | Deliverable | Artist 2 analysed against Artist 1; the bridge piece made; a scale trial; Stage 3 pages laid out; A2 sat |
 | Feeds | **A2 Fri 2027-04-23** — exploration and artist study (twelve experiments, media selection, both artist pages, bridge piece, Stage 3 pages), marked against AO2+AO3 |
 | Homework | ≤30 min: after A2, note three development directions the bridge piece and scale trial opened, ahead of Unit 4 in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-09-composition-1\|L09]] |

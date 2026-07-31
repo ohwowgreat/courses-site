@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>4 days<span class="stat-x">5 sessions (W10–W11, split by the G11 Juniors Days); this closes Unit 3</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-11-02 + Tue 2026-11-03<span class="stat-x">then Mon 2026-11-09 + Tue 2026-11-10</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO2 and AO3</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 4 days, 5 sessions (W10–W11, split by the G11 Juniors Days); this closes Unit 3 |
-| Dates | Mon 2026-11-02 + Tue 2026-11-03, then Mon 2026-11-09 + Tue 2026-11-10 |
-| AO focus | AO2 and AO3 |
 | Deliverable | A second artist set against the first; the bridge piece made and finished; A2 sat; one defensible direction |
 | Feeds | **A2 Mon 2026-11-09**: exploration and artist study, marked against AO2+AO3 |
 | Homework | Sketchbook: finish the bridge piece across the six-day Juniors Days gap |

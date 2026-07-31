@@ -14,11 +14,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (S4)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2028-03-13 → Fri 2028-03-17</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO2 Explore<span class="stat-x">opening into AO3 Develop</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (S4) |
-| Dates | Mon 2028-03-13 → Fri 2028-03-17 |
-| AO focus | AO2 Explore, opening into AO3 Develop |
 | Deliverable | Eight experiments run to a written keep-or-change decision; artist 1 analyzed and answered in visible work |
 | Graded | **CS4** Fri 2028-03-17 (experiment documentation + artist 1 response). No attainment mark this week |
 | Homework | ≤30 min: write the keep-or-change line for two experiments — what carries the question, what doesn't |

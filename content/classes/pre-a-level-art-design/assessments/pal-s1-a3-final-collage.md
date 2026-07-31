@@ -13,15 +13,18 @@ modified: 2026-07-30
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sits</dt><dd>Wed 2026-12-09<span class="stat-x">one double (about 90 minutes)</span></dd></div>
+  <div class="stat"><dt>Returned</dt><dd>Within five working days</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sits | Wed 2026-12-09, one double (about 90 minutes) |
 | Category | Attainment, the third of five in the 50% category |
 | Format | Made in class. You finish the collage built across W14 and W15 |
 | Submitted | The collage **and** the written reflection, at the close |
 | Marked on | Juxtaposition · Layering · Composition · Meaning |
 | Also collected | Drafts, dry-fit photographs and scraps, into the sketchbook as process |
-| Returned | Within five working days |
 | Unit | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage\|U3 Collage]] |
 
 ## Objectives

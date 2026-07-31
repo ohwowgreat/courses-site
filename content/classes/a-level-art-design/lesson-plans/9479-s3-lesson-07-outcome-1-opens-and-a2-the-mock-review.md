@@ -14,11 +14,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (W8)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-10-18 → Fri 2027-10-22</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO1–AO4 (whole-investigation review)<span class="stat-x">AO3/AO4 (outcome 1 build)</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (W8) |
-| Dates | Mon 2027-10-18 → Fri 2027-10-22 |
-| AO focus | AO1–AO4 (whole-investigation review); AO3/AO4 (outcome 1 build) |
 | Deliverable | Final outcome 1 planned and its build opened; the whole investigation sequenced as if submitting |
 | Graded | **CS5** Tue 2027-10-19 (outcome 1 plan) · **A2** Thu 2027-10-21 (AO1–AO4, mock portfolio review) |
 | Homework | ≤30 min: act on one A2 target before the Seniors week |

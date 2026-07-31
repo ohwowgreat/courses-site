@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (W7)<span class="stat-x">Unit 3 begins</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-10-12 → Fri 2026-10-16</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO2 Explore<span class="stat-x">with AO3 opening</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (W7) — Unit 3 begins |
-| Dates | Mon 2026-10-12 → Fri 2026-10-16 |
-| AO focus | AO2 Explore, with AO3 opening |
 | Deliverable | Twelve media experiments run as one three-day session; a keep-or-change decision made with evidence |
 | Feeds | CS5 collected Fri 2026-10-16 |
 | Homework | Sketchbook: continue your two most promising experiments at home, ten minutes each |

@@ -23,12 +23,15 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Days</dt><dd>6<span class="stat-x">Mon (A2 due), Tue, Wed double, Fri, then Mon + Tue standalone</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-10-26<span class="stat-x">Tue 10-27 · Wed 10-28 · Fri 10-30 · Mon 11-02 · Tue 11-03</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO3 (A2 in)<span class="stat-x">representation theory toward AO2</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Days | 6 — Mon (A2 due), Tue, Wed double, Fri, then Mon + Tue standalone |
-| Dates | Mon 2026-10-26 · Tue 10-27 · Wed 10-28 · Fri 10-30 · Mon 11-02 · Tue 11-03 |
 | Band/Unit | U4 Representation ([[classes/media-studies/unit-plans/9607-s1-unit-4-representation\|S1 Unit 4]]) |
-| AO focus | AO3 (A2 in); representation theory toward AO2 |
 | Deliverable | A2 submitted day 1; stereotype audit of your own rough cut, evidenced for LB3 |
 | Homework | Production pickups identified by the audit |
 

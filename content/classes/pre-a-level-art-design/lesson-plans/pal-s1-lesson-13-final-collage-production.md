@@ -21,10 +21,13 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session</dt><dd>W14<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
+  <div class="stat"><dt>Date</dt><dd>Wed 2026-12-02</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session | W14, one Wednesday double (~90 min) |
-| Date | Wed 2026-12-02 |
 | Focus | The final collage built — the assembly session |
 | Deliverable | The final collage substantially built (background and middle layers glued, top layer dry-fit); build photographed in stages |
 | Assessment | **SB2 sketchbook spot-check runs today**; the collage finishes under A3 conditions next week |

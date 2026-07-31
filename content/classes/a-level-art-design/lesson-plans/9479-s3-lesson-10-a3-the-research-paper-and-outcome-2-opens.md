@@ -14,11 +14,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (W12)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-11-15 → Fri 2027-11-19</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>C3 written criteria (A3)<span class="stat-x">AO3 Develop (outcome 2)</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (W12) |
-| Dates | Mon 2027-11-15 → Fri 2027-11-19 |
-| AO focus | C3 written criteria (A3); AO3 Develop (outcome 2) |
 | Deliverable | The final research paper submitted; outcome 2 planned and its build opened |
 | Graded | **A3** Mon 2027-11-15 (C3 written criteria, submitted with 1:1 review) · **CS7** Fri 2027-11-19 (outcome 2 plan and progress) |
 | Homework | ≤30 min: your outcome 2 plan — how it answers outcome 1 without repeating it |

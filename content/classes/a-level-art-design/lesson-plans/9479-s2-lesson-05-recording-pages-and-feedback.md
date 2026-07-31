@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (S5)<span class="stat-x">Unit 2 closes</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-03-22 → Fri 2027-03-26</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO1 Record</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (S5) — Unit 2 closes |
-| Dates | Mon 2027-03-22 → Fri 2027-03-26 |
-| AO focus | AO1 Record |
 | Deliverable | A1 feedback turned into three actions; a second sustained study; own photography annotated; recording pages built and sequenced |
 | Graded | **CS3** (recording-pages build check) Fri 2027-03-26 — a sketchbook task consolidating your A1 feedback |
 | Homework | ≤30 min: keep recording from your own primary sources, ahead of the media experiments in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-06-media-exploration\|L06]] |

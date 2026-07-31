@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (S8)<span class="stat-x">Unit 3 resumes after Qingming</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-04-12 → Fri 2027-04-16</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO2 Explore + AO3 Develop</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (S8) — Unit 3 resumes after Qingming |
-| Dates | Mon 2027-04-12 → Fri 2027-04-16 |
-| AO focus | AO2 Explore + AO3 Develop |
 | Deliverable | Artist 1 chosen and analysed; meaning and context written; a method study; a personal response; the influence page |
 | Graded | **CS5** (Artist 1 pages: analysis, method, response) Fri 2027-04-16 — written annotation; opens the research-paper material |
 | Homework | ≤30 min: read one source on Artist 1 toward the research paper; shortlist Artist 2 for [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-08-artist-2-bridge-and-a2\|L08]] |

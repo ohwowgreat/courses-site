@@ -14,14 +14,17 @@ modified: 2026-07-30
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sits</dt><dd>Tue 2026-11-17<span class="stat-x">the Tuesday double</span></dd></div>
+  <div class="stat"><dt>Returned</dt><dd>Within five working days</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sits | Tue 2026-11-17, the Tuesday double |
 | Category | Attainment, the third of four in the 50% category |
 | Format | In-class essay |
 | The task | One claim about food, the table and ethics, argued from the pictures |
 | Marked on | The claim · Evidence from the pictures · Argument from the pictures rather than from ethics · Precision of language |
-| Returned | Within five working days |
 | Unit | [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics\|U3 Food, the Table and Ethics]] |
 
 ## Objectives

@@ -19,10 +19,13 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session</dt><dd>W19<span class="stat-x">one Wednesday double (~90 min) — the semester's last teaching session, back from the break</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Wed 2027-01-06</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session | W19, one Wednesday double (~90 min) — the semester's last teaching session, back from the break |
-| Dates | Wed 2027-01-06 |
 | Focus | Documentation; the End-of-Term portfolio assembled and submitted; **A5: the sketchbook submitted** |
 | Deliverable | The EoT portfolio (one organized file) and the sketchbook, both handed in at close |
 | Feeds | EoT (20%) and A5 (the fifth attainment) — the semester's final grades; the survey feeds next semester's shape |

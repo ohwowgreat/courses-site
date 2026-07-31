@@ -22,6 +22,9 @@ export const sharedPageComponents: SharedLayout = {
 const breadcrumbOptions = {
   showCurrentPage: false,
   omitSegments: ["classes"],
+  // The default ❯ is a UI chevron. This row is styled as an editorial kicker, and the
+  // middot is the separator the vault's own context strips already use.
+  spacerSymbol: "·",
   segmentLabels: {
     "a-level-art-design": "A Level Art & Design",
     "media-studies": "Media Studies",

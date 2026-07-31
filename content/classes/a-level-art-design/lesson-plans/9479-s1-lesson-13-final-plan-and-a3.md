@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (W15)<span class="stat-x">Unit 4 closes</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-12-07 → Fri 2026-12-11</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO3 closing into AO4</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (W15) — Unit 4 closes |
-| Dates | Mon 2026-12-07 → Fri 2026-12-11 |
-| AO focus | AO3 closing into AO4 |
 | Deliverable | Final composition plan, supporting thumbnails, palette and materials settled; A3 sat; the plan adjusted from feedback |
 | Feeds | **A3 Thu 2026-12-10**: development milestone, marked against AO3 |
 | Homework | Reflection: write up your plan adjustment after Friday's feedback |

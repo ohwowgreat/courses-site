@@ -14,11 +14,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (S9)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2028-04-17 → Fri 2028-04-21</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO4 Present</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (S9) |
-| Dates | Mon 2028-04-17 → Fri 2028-04-21 |
-| AO focus | AO4 Present |
 | Deliverable | The final piece photographed; the submission package assembled exactly as the Cambridge specification orders it; supervised QC line by line |
 | Graded | **CS7** Thu 2028-04-20 (submission checklist and reflection) · **A4** Fri 2028-04-21 (AO1–AO4) — the package; **the piece itself is externally marked** |
 | Homework | ≤30 min: the submission checklist — every item present, ordered and labeled |

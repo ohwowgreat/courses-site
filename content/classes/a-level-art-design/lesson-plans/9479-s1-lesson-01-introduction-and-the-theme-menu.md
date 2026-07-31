@@ -18,11 +18,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>4 days (W1)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Tue 2026-09-01 → Fri 2026-09-04</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO1 Record<span class="stat-x">orientation</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 4 days (W1) |
-| Dates | Tue 2026-09-01 → Fri 2026-09-04 |
-| AO focus | AO1 Record, orientation |
 | Deliverable | Committed theme with signed commitment card; source folder with first photographs; first line studies |
 | Graded? | Nothing is graded in W1–W2. The day-3 diagnostic drawing is kept as your baseline, not marked. |
 | Homework | Reflection, 150 words: why your chosen theme can sustain four months (due Monday) |

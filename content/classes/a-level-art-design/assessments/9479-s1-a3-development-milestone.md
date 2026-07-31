@@ -14,15 +14,18 @@ modified: 2026-07-30
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sits</dt><dd>Thu 2026-12-10<span class="stat-x">in session</span></dd></div>
+  <div class="stat"><dt>Assesses</dt><dd><strong>AO3 Develop</strong><span class="stat-x">20 marks of Component 1</span></dd></div>
+  <div class="stat"><dt>Returned</dt><dd>Fri 2026-12-11<span class="stat-x">banded</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sits | Thu 2026-12-10, in session |
 | Category | Attainment, the third of four in the 50% category |
 | Format | Portfolio review of the whole development run, in class, with nothing added during the review |
-| Assesses | **AO3 Develop**, 20 marks of Component 1 |
 | What is reviewed | Compositions 1 and 2, the targeted tests, your written evaluation, and the final composition plan |
 | Feeds | Component 1 Portfolio, and the build run that makes the final outcome |
-| Returned | Fri 2026-12-11, banded |
 | Unit | [[classes/a-level-art-design/unit-plans/9479-s1-unit-4-development\|U4 Development]] |
 
 ## Objectives

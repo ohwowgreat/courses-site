@@ -14,11 +14,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (S10)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2028-04-24 → Fri 2028-04-28</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO4 Present<span class="stat-x">completion and handover</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (S10) |
-| Dates | Mon 2028-04-24 → Fri 2028-04-28 |
-| AO focus | AO4 Present — completion and handover |
 | Deliverable | Supervised gap repair on what QC named; final checks against the specification; handover of C1, C2 and C3 together; the portfolio photographed for your records |
 | Graded | **CS8** Thu 2028-04-27 (portfolio photography for your records). No attainment this week |
 | Homework | None beyond keeping your own record of the photographed portfolio |

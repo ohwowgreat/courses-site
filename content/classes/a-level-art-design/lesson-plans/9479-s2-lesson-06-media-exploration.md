@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (S6)<span class="stat-x">Unit 3 opens</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-03-29 → Fri 2027-04-02</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO2 Explore</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (S6) — Unit 3 opens |
-| Dates | Mon 2027-03-29 → Fri 2027-04-02 |
-| AO focus | AO2 Explore |
 | Deliverable | Twelve media experiments planned and run; evidence-based keep-or-change with rejections named |
 | Graded | **CS4** (twelve experiments documented) Fri 2027-04-02 — a sketchbook task. **A2** (exploration + artist study, AO2+AO3) sits Fri 2027-04-23 |
 | Homework | Over the Qingming mock week (S7, 04-04 → 10, no regular classes): an independent sketchbook brief if the school permits |

@@ -14,11 +14,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (S6) + the elastic window <em>(reading B adds up to 4 days; see L07)</em></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2028-03-27 → Fri 2028-03-31</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop closing into AO4 Present</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (S6) + the elastic window *(reading B adds up to 4 days; see L07)* |
-| Dates | Mon 2028-03-27 → Fri 2028-03-31 |
-| AO focus | AO3 Develop closing into AO4 Present |
 | Deliverable | Final-piece candidates composed; a draft comparison page with rejections in writing; a final composition plan; every supporting study complete |
 | Graded | **CS6** Thu 2028-03-30 (composition critique response + draft comparison page) · **A3** Fri 2028-03-31 (AO3+AO4) — **content close** same day |
 | Homework | ≤30 min: write the rejection for the candidate you set aside — why it loses to the one you kept |

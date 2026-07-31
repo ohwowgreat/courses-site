@@ -14,11 +14,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (W15)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-12-06 → Fri 2027-12-10</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO4 Present</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (W15) |
-| Dates | Mon 2027-12-06 → Fri 2027-12-10 |
-| AO focus | AO4 Present |
 | Deliverable | The investigation sequenced so it reads in order to a stranger; documentation verified page by page; the bibliography integrated into the body |
 | Graded | No attainment. **CS9** Fri 2027-12-10 (sequencing and documentation check) |
 | Homework | ≤30 min: read your sequence as a stranger and mark the first page where it stalls |

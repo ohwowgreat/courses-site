@@ -15,11 +15,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session codes</dt><dd>`U4·L12`–`U4·L17`</dd></div>
+  <div class="stat"><dt>Days</dt><dd>6</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Fri 2026-12-11 to Fri 2026-12-18</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session codes | `U4·L12`–`U4·L17` |
-| Days | 6 |
-| Dates | Fri 2026-12-11 to Fri 2026-12-18 |
 | Template | ASSESSED |
 | Deliverable | A4: Unit 4 synthesis |
 | Feeds | The retrospective |

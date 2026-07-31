@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (S13)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-05-17 → Fri 2027-05-21</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (S13) |
-| Dates | Mon 2027-05-17 → Fri 2027-05-21 |
-| AO focus | AO3 Develop |
 | Deliverable | Both compositions critiqued against your intention; the critique acted on; targeted tests on what is unresolved; the final direction chosen with the rejection written out |
 | Graded | **CS8** (targeted tests + critique response) Fri 2027-05-21 — sketchbook. **A3** (development + paper draft 1, AO3) sits Fri 2027-05-28 |
 | Homework | ≤30 min: write evaluation notes toward A3 and consolidate the paper draft, ahead of [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-13-evaluation-draft-1-and-a3\|L13]] |

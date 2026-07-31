@@ -17,18 +17,21 @@ modified: 2026-07-30
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sits</dt><dd>Wed 2026-10-14<span class="stat-x">the Wednesday double</span></dd></div>
+  <div class="stat"><dt>Marks</dt><dd>25<span class="stat-x">on the official Cambridge Paper 2 Section A criteria</span></dd></div>
+  <div class="stat"><dt>Assesses</dt><dd>AO1 and AO2</dd></div>
+  <div class="stat"><dt>Returned</dt><dd>Within five working days</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sits | Wed 2026-10-14, the Wednesday double |
 | Category | Attainment, the first of four in the 50% category |
 | Format | Written analysis of an unseen TV-drama extract, under exam conditions |
 | Length | 60 minutes of writing |
-| Marks | 25, on the official Cambridge Paper 2 Section A criteria |
-| Assesses | AO1 and AO2 |
 | Extract | 2 to 3 minutes, screened four times in the room. You have not seen it before and it is not a text taught to this class |
 | You may bring | Your own code checklist. Nothing else |
 | Feeds | AS Component 2 Section A, and the mid-term grades due Thu 2026-10-29 |
-| Returned | Within five working days |
 | Unit | [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis\|U3 Macro and Textual Analysis]] |
 
 ## Objectives

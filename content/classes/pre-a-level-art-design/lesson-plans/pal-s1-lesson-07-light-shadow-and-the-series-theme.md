@@ -21,10 +21,13 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session</dt><dd>W8<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
+  <div class="stat"><dt>Date</dt><dd>Wed 2026-10-21</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session | W8, one Wednesday double (~90 min) |
-| Date | Wed 2026-10-21 |
 | Focus | Light and shadow; what makes a series; you leave with an A2 theme |
 | Deliverable | A four-position light circuit; a written, approved series theme in your sketchbook |
 | Assessments today | A2 announced (sits W10, 11-04); SB1 sketchbook spot-check runs today |

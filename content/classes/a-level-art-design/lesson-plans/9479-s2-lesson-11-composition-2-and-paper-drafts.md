@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (S12)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-05-10 → Fri 2027-05-14</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop (integration in view)</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (S12) |
-| Dates | Mon 2027-05-10 → Fri 2027-05-14 |
-| AO focus | AO3 Develop (integration in view) |
 | Deliverable | Composition 2 composed, built across two days, and resolved to the same standard as composition 1; research paper sections drafted against the outline |
 | Graded | **CS7** (research paper section drafts) Fri 2027-05-14 — written annotation. **A3** (development + paper draft 1, AO3) sits Fri 2027-05-28 |
 | Homework | ≤30 min: annotate toward next week's critique; bring both compositions ready to compare |

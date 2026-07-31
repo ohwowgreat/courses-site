@@ -14,11 +14,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (W2)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-09-06 → Fri 2027-09-10</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>Closing review → AO3 Develop opens</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (W2) |
-| Dates | Mon 2027-09-06 → Fri 2027-09-10 |
-| AO focus | Closing review → AO3 Develop opens |
 | Deliverable | A signed, dated action plan; the first final-outcome candidate compositions underway |
 | Graded | **CS2** Fri 2027-09-10 — composition studies for the outcome candidates (sketchbook). No attainment this week |
 | Homework | ≤30 min: composition thumbnails toward the candidates, feeding CS2 |

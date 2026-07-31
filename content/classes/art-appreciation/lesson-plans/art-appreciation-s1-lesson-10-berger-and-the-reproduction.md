@@ -15,11 +15,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session codes</dt><dd>`U4·L1`–`U4·L7`</dd></div>
+  <div class="stat"><dt>Days</dt><dd>7<span class="stat-x">across two split weeks</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-11-23 to Tue 2026-12-01<span class="stat-x">G12 out Thu–Fri 11-26/27; G11 out from 12-02</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session codes | `U4·L1`–`U4·L7` |
-| Days | 7, across two split weeks |
-| Dates | Mon 2026-11-23 to Tue 2026-12-01 (G12 out Thu–Fri 11-26/27; G11 out from 12-02) |
 | Deliverable | The caption exercise, plus LB6 and LB7 |
 | Feeds | A4 |
 | Homework | *Ways of Seeing*, episode one or the first essay, 30 min, set day 1, due day 3 |

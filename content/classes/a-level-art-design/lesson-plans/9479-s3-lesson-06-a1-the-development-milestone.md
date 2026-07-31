@@ -14,11 +14,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (W7)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-10-11 → Fri 2027-10-15</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (W7) |
-| Dates | Mon 2027-10-11 → Fri 2027-10-15 |
-| AO focus | AO3 Develop |
 | Deliverable | The development milestone: outcome-candidate compositions, targeted tests, evaluation and Stage 6 page, plus research paper draft 2 |
 | Graded | **A1** Thu 2027-10-14 (AO3) — feeds the mid-term grade at the two-week minimum. Feedback Fri 10-15 |
 | Homework | ≤30 min: turn the three feedback actions into a dated to-do for Unit 5 |

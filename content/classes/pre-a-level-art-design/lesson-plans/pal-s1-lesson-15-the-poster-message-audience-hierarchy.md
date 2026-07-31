@@ -22,10 +22,13 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session</dt><dd>W16<span class="stat-x">one Wednesday double (~90 min) — Unit 4 opens</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Wed 2026-12-16</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session | W16, one Wednesday double (~90 min) — Unit 4 opens |
-| Dates | Wed 2026-12-16 |
 | Focus | What a poster must do: message, audience, hierarchy, type as voice; thumbnails for the final |
 | Deliverable | **CS4**: one annotated poster analysis + a four-thumbnail set with type studies, one circled with a reason |
 | Feeds | A4 (you sit it next Wednesday, Wed 2026-12-23) |

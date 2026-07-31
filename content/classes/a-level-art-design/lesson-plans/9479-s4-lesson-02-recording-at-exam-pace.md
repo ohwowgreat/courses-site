@@ -14,11 +14,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (S2)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2028-02-28 → Fri 2028-03-03</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO1 Record</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (S2) |
-| Dates | Mon 2028-02-28 → Fri 2028-03-03 |
-| AO focus | AO1 Record |
 | Deliverable | Intention stated on the question; self-generated reference shot and drawn the same week; a sustained study opened; recording pages built as the work happens |
 | Graded | **CS2** on Fri 2028-03-03 (intention, thumbnails and shoot plan). No attainment mark this week |
 | Homework | ≤30 min (capped): annotate the shoot — what each frame gives the question |

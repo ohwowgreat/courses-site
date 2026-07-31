@@ -14,11 +14,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>4 days (W5) + 1 day (W6) across the break<span class="stat-x">both reduced</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-09-27 → Thu 09-30<span class="stat-x">then Fri 2027-10-08</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop<span class="stat-x">the decision trail</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 4 days (W5) + 1 day (W6) across the break — both reduced |
-| Dates | Mon 2027-09-27 → Thu 09-30, then Fri 2027-10-08 |
-| AO focus | AO3 Develop; the decision trail |
 | Deliverable | The evaluation drafted in writing; the Stage 6 page assembled; the chosen candidate up before the break |
 | Graded | No attainment. A1 and A2 are both announced Thu 2027-09-30 |
 | Homework | Over the break, ≤30 min total: a written note on what still needs closing on the chosen candidate, for the gap-repair session |

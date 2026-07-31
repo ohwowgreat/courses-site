@@ -23,12 +23,15 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Days</dt><dd>3<span class="stat-x">Mon+Tue two-day block, Wed double (A1 sits)</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-10-12<span class="stat-x">Tue 10-13 · Wed 10-14</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO1 + AO2</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Days | 3 — Mon+Tue two-day block, Wed double (A1 sits) |
-| Dates | Mon 2026-10-12 · Tue 10-13 · Wed 10-14 |
 | Band/Unit | U3 Macro and Textual Analysis ([[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis\|S1 Unit 3]]) |
-| AO focus | AO1 + AO2 |
 | Deliverable | A1 script: timed media language analysis of an unseen extract |
 | Feeds | AS Component 2 Section A |
 | Homework | None this week |

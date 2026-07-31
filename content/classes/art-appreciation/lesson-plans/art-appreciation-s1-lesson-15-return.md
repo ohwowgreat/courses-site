@@ -14,10 +14,13 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session codes</dt><dd>none<span class="stat-x">uncoded return days</span></dd></div>
+  <div class="stat"><dt>Days</dt><dd>3</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session codes | none — uncoded return days |
-| Days | 3 |
 | Deliverable | Semester 2 goal, plus LB9 |
 | Feeds | Semester 2 |
 | Homework | None |

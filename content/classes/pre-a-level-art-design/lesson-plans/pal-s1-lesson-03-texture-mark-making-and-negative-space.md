@@ -21,10 +21,13 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session</dt><dd>W3<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Wed 2026-09-16</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session | W3, one Wednesday double (~90 min) |
-| Dates | Wed 2026-09-16 |
 | Focus | Texture and the mark that makes it; negative space |
 | Deliverable | Traced-hand texture sheet; observed texture grid; one negative-space study |
 | Assessments announced | **A1 and CS1** (you sit A1 on Wed 2026-09-30; CS1 checks Wed 2026-09-23) |

@@ -22,12 +22,15 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Days</dt><dd>6<span class="stat-x">Mon+Tue two-day block, Wed double, Fri (A3 due), then Mon + Tue</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-11-23<span class="stat-x">Tue 11-24 · Wed 11-25 · Fri 11-27 · Mon 11-30 · Tue 12-01</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO2 + AO3 (A3, scaled to 50)</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Days | 6 — Mon+Tue two-day block, Wed double, Fri (A3 due), then Mon + Tue |
-| Dates | Mon 2026-11-23 · Tue 11-24 · Wed 11-25 · Fri 11-27 · Mon 11-30 · Tue 12-01 |
 | Band/Unit | U5 Media Contexts ([[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts\|S1 Unit 5]]) |
-| AO focus | AO2 + AO3 (A3, scaled to 50) |
 | Deliverable | A3 portfolio submitted Fri 11-27 (product, CCR, blog); production target set day 6 (LB4) |
 | Homework | None across the submission; feedback response after |
 

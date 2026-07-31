@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (W12–W13)<span class="stat-x">studio production</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Wed 2026-11-18 → Fri 2026-11-20<span class="stat-x">then Mon 2026-11-23 → Tue 2026-11-24</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (W12–W13) — studio production |
-| Dates | Wed 2026-11-18 → Fri 2026-11-20, then Mon 2026-11-23 → Tue 2026-11-24 |
-| AO focus | AO3 Develop |
 | Deliverable | Composition 2 composed, built and resolved; a structured critique of both compositions; the critique acted on |
 | Feeds | CS8 collected Fri 2026-11-20 |
 | Homework | Sketchbook: nightly studies toward whichever composition is weaker |

@@ -21,10 +21,13 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session</dt><dd>W7<span class="stat-x">one Wednesday double (~90 min) — Unit 2 opens, first session after National Day</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Wed 2026-10-14</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session | W7, one Wednesday double (~90 min) — Unit 2 opens, first session after National Day |
-| Dates | Wed 2026-10-14 |
 | Focus | Framing, viewpoint, rule of thirds — composing with a camera instead of a pencil |
 | Deliverable | Best-3 selection from HW1 with written reasons; a five-viewpoint circuit shoot with three selects |
 | Feeds | **HW1 due today**; the circuit frames become part of CS2's composition set (W9) |

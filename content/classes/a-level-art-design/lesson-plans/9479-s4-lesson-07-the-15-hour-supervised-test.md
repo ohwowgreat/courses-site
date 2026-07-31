@@ -15,11 +15,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>An elastic window (S7) followed by the 15-hour supervised test</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Test runs Mon 2028-04-10 → Fri 04-14<span class="stat-x">five sittings of 3 hours. In one form the test runs in S7 around Qingming as four sittings of 3h45, with the rest of the unit moving one week earlier.</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO4 Present<span class="stat-x">the plan realised</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | An elastic window (S7) followed by the 15-hour supervised test |
-| Dates | Test runs Mon 2028-04-10 → Fri 04-14, five sittings of 3 hours. In one form the test runs in S7 around Qingming as four sittings of 3h45, with the rest of the unit moving one week earlier. |
-| AO focus | AO4 Present — the plan realised |
 | Deliverable | The planned final piece realised inside the supervised test under exam conditions; work stored securely between sittings |
 | Graded | The supervised test itself, externally marked by Cambridge. No CS or attainment this block. |
 | Homework | None — the test is the work; rest between sittings |

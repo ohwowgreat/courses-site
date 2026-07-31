@@ -15,15 +15,21 @@ modified: 2026-07-30
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Due</dt><dd>Fri 2026-11-27<span class="stat-x">submitted in session. <strong>No edits after</strong></span></dd></div>
+  <div class="stat"><dt>Assesses</dt><dd><strong>AO3 (40 marks) + AO2 (10 marks)</strong><span class="stat-x">the full 50-mark component</span></dd></div>
+  <div class="stat"><dt>Returned</dt><dd>Tue 2026-12-01<span class="stat-x">self-assessment first</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Due | Fri 2026-11-27, submitted in session. **No edits after** |
 | Category | Attainment, the third of four in the 50% category. The largest piece of work in the semester |
 | Format | The complete Component 1 Foundation Portfolio: product, Creative Critical Reflection, dated blog |
-| Assesses | **AO3 (40 marks) + AO2 (10 marks)**, the full 50-mark component |
-| Returned | Tue 2026-12-01, self-assessment first |
 | Feeds | Your Component 1 grade, and the production targets Semester 2 collects on |
 | Unit | [[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts\|U5 Media Contexts]] |
+
+
+<p class="handouts"><strong>Study guide:</strong> <a href="../../../static/handouts/media-studies/c1-foundation-portfolio.html">Component 1: the Foundation Portfolio (interactive)</a></p>
 
 ## Objectives
 
@@ -54,6 +60,14 @@ A3 is the whole of Component 1. You submit three things together:
 2. **The submission checklist**, run at the close of Wednesday: product exported and playable · CCR in its creative format, posted · blog complete, posts dated, contributions labeled · URLs correct.
 3. **Fri 11-27: submission.** Final checks against the checklist, URLs and files logged on the submission sheet, confirmation shown on screen per group.
 4. **No edits after.** This is absolute. Friday is logistics, not heroics.
+
+**Run this at the close of the Wednesday session**, not on Friday morning. Friday is logistics, not heroics.
+
+- [ ] <span class="ct">Product exported and playable<span class="ct-sub">Open it on a different machine than the one you edited on</span></span>
+- [ ] <span class="ct">Reflection posted, in its creative format<span class="ct-sub">All four questions, embedded and working</span></span>
+- [ ] <span class="ct">Blog complete, posts dated, contributions labeled<span class="ct-sub">No gaps between the first post and the last</span></span>
+- [ ] <span class="ct">Every URL checked from a signed-out browser<span class="ct-sub">Including embedded ones. Expired links are the classic failure</span></span>
+- [ ] <span class="ct">URLs and files logged on the submission sheet<span class="ct-sub">Confirmation shown on screen</span></span>
 
 **If you are absent.** Contact your teacher **at least 24 hours before** the deadline; extensions are requested 24 hours ahead. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8).
 

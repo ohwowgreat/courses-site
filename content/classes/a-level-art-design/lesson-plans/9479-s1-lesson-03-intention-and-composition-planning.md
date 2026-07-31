@@ -19,11 +19,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>4 days (W3)<span class="stat-x">Unit 2 opens</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Tue 2026-09-15 → Fri 2026-09-18</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO1 Record</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 4 days (W3) — Unit 2 opens |
-| Dates | Tue 2026-09-15 → Fri 2026-09-18 |
-| AO focus | AO1 Record |
 | Deliverable | Written intention; mind map; thumbnail sheet with one composition chosen and the rejections annotated |
 | Feeds | CS2 collected Fri 2026-09-18 — direct practice for A1 |
 | Homework | Written annotation: expand the intention to a paragraph a stranger could follow |

@@ -22,12 +22,15 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Days</dt><dd>4<span class="stat-x">Mon+Tue two-day block, Wed double (CS7), Fri single</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-11-16<span class="stat-x">Tue 11-17 · Wed 11-18 · Fri 11-20</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO2<span class="stat-x">where AO2 lives in the portfolio</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Days | 4 — Mon+Tue two-day block, Wed double (CS7), Fri single |
-| Dates | Mon 2026-11-16 · Tue 11-17 · Wed 11-18 · Fri 11-20 |
 | Band/Unit | U4 Representation ([[classes/media-studies/unit-plans/9607-s1-unit-4-representation\|S1 Unit 4]]) |
-| AO focus | AO2 — where AO2 lives in the portfolio |
 | Deliverable | Complete CCR redraft posted to the blog (CS7 review inside) |
 | Feeds | A3 |
 | Homework | Finish the redraft moves agreed in class (30-min cap) |

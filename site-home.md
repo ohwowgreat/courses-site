@@ -4,11 +4,15 @@ tags: [home]
 hero: home
 ---
 
+<p class="kicker">Semester 1 · 2026–27</p>
+
 # Courses
 
 <p class="lede">Five courses in the BNDS A-Level Programme. Each one has an overview, a
 semester plan, and a page for every unit and lesson — what it covers, how it runs, and
 what's due.</p>
+
+<!--stat-strip-->
 
 <ul class="course-grid">
   <li class="course-card">

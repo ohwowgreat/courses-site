@@ -23,12 +23,15 @@ modified: 2026-07-28
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Days</dt><dd>4<span class="stat-x">Mon, Tue, Wed double, then Fri after the National Day break</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-09-28<span class="stat-x">Tue 09-29 · Wed 09-30 · Fri 10-09</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>C1 planning (blog evidence)<span class="stat-x">HW1 rehearses A1 (AO1+AO2)</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Days | 4 — Mon, Tue, Wed double, then Fri after the National Day break |
-| Dates | Mon 2026-09-28 · Tue 09-29 · Wed 09-30 · Fri 10-09 |
 | Band/Unit | U2 Media Language ([[classes/media-studies/unit-plans/9607-s1-unit-2-media-language\|S1 Unit 2]]) |
-| AO focus | C1 planning (blog evidence); HW1 rehearses A1 (AO1+AO2) |
 | Deliverable | C1 planning locked on the blog to a shootable standard (LB1, LB2 inside) |
 | Feeds | A2, A1 |
 | Homework | HW1 break task: A1-format analysis of a self-chosen 2–3 min sequence, plus the production window for shoots (3–4 h total) |

@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (S15)<span class="stat-x">Unit 5 opens</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-05-31 → Fri 2027-06-04</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO1–AO4<span class="stat-x">the portfolio pulls all four together</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (S15) — Unit 5 opens |
-| Dates | Mon 2027-05-31 → Fri 2027-06-04 |
-| AO focus | AO1–AO4 (the portfolio pulls all four together) |
 | Deliverable | Mid-point piece chosen and refined; bibliography integrated into the body; page architecture planned |
 | Graded | **CS9** (bibliography + source integration check) Thu 2027-06-03 — written annotation. **A4** (mid-point portfolio, AO1–AO4) sits Fri 2027-06-11 |
 | Homework | ≤30 min: over the weekend, prepare images and page order for the build, ahead of submission week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-15-submission-week-and-a4\|L15]] |

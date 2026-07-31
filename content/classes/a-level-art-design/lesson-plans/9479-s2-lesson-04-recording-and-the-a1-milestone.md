@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (S4)<span class="stat-x">Unit 2 opens</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-03-15 → Fri 2027-03-19</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO1 Record</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (S4) — Unit 2 opens |
-| Dates | Mon 2027-03-15 → Fri 2027-03-19 |
-| AO focus | AO1 Record |
 | Deliverable | Stage 1 page composed; first sustained study made and annotated; A1 recording milestone sat |
 | Feeds | **A1 Fri 2027-03-19** — recording milestone (approved intention, Stage 1 pages, first sustained study, supporting recording), marked against AO1 |
 | Homework | ≤30 min: after A1, turn the banded feedback into three specific written actions, ahead of [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-05-recording-pages-and-feedback\|L05]] |

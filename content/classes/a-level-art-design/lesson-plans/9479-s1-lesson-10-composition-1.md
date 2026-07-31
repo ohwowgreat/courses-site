@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (W11–W12)<span class="stat-x">Unit 4 opens</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Wed 2026-11-11 → Fri 2026-11-13<span class="stat-x">then Mon 2026-11-16 → Tue 2026-11-17</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (W11–W12) — Unit 4 opens |
-| Dates | Wed 2026-11-11 → Fri 2026-11-13, then Mon 2026-11-16 → Tue 2026-11-17 |
-| AO focus | AO3 Develop |
 | Deliverable | Composition 1, composed from your own studies, built across a two-day run, resolved and photographed |
 | Feeds | Nothing is collected this lesson; CS8 collects at the end of Lesson 11 with both compositions |
 | Homework | Reflection after the A2 return settles (W11); sketchbook composition studies nightly (W12) |

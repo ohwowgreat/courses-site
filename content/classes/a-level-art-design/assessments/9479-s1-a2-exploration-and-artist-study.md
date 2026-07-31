@@ -14,15 +14,18 @@ modified: 2026-07-30
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sits</dt><dd>Mon 2026-11-09<span class="stat-x">in session</span></dd></div>
+  <div class="stat"><dt>Assesses</dt><dd><strong>AO2 Explore</strong> and <strong>AO3 Develop</strong><span class="stat-x">35 marks of Component 1</span></dd></div>
+  <div class="stat"><dt>Returned</dt><dd>Tue 2026-11-10<span class="stat-x">banded</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sits | Mon 2026-11-09, in session |
 | Category | Attainment, the second of four in the 50% category |
 | Format | Portfolio review of the whole of Unit 3, in class, with nothing added during the review |
-| Assesses | **AO2 Explore** and **AO3 Develop**, 35 marks of Component 1 |
 | What is reviewed | Twelve media experiments, your media selection, the scale trial, both artist pages, and the bridge piece |
 | Feeds | Component 1 Portfolio, and the direction you take into Unit 4 |
-| Returned | Tue 2026-11-10, banded |
 | Unit | [[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study\|U3 Exploration and Artist Study]] |
 
 ## Objectives

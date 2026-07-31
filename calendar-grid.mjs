@@ -4,29 +4,43 @@
 // The agenda table is the single source of truth (the same one the text list uses),
 // so the grids never drift from it. Course is read from the Scope column's emoji.
 
+// `cohort` is who the course is for, `code` the syllabus it sits on. Split rather than
+// one string because the overview strip sets the code as the cell's sub-line: as one
+// value, "Grade 11 · CIE 9607" wrapped to two lines in a 162px cell. Two courses have no
+// syllabus code, and stripHtml drops an empty note.
 export const COURSES = {
   "a-level": {
     name: "A Level Art & Design",
+    cohort: "Grade 11 → 12",
+    code: "CIE 9479",
     overview: "classes/a-level-art-design/a-level-art-design",
     dir: "classes/a-level-art-design",
   },
   media: {
     name: "Media Studies",
+    cohort: "Grade 11",
+    code: "CIE 9607",
     overview: "classes/media-studies/media-studies",
     dir: "classes/media-studies",
   },
   "art-app": {
     name: "Art Appreciation",
+    cohort: "Grade 11 + 12",
+    code: "Elective",
     overview: "classes/art-appreciation/art-appreciation",
     dir: "classes/art-appreciation",
   },
   pal: {
     name: "Pre A Level Art & Design",
+    cohort: "Grade 10",
+    code: "",
     overview: "classes/pre-a-level-art-design/pre-a-level-art-design",
     dir: "classes/pre-a-level-art-design",
   },
   oxbridge: {
     name: "Oxbridge",
+    cohort: "Grade 12",
+    code: "",
     overview: "classes/oxbridge/oxbridge",
     dir: "classes/oxbridge",
   },

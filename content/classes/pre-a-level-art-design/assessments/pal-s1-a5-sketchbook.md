@@ -14,15 +14,18 @@ modified: 2026-07-30
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Due</dt><dd>Wed 2027-01-06<span class="stat-x">handed in at the close of the last teaching session</span></dd></div>
+  <div class="stat"><dt>Returned</dt><dd>Wed 2027-01-20<span class="stat-x">the return session</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Due | Wed 2027-01-06, handed in at the close of the last teaching session |
 | Category | Attainment, the fifth of five in the 50% category |
 | Format | Your sketchbook, submitted as it is. **Nothing is made for it on the day** |
 | Covers | The whole semester, all four units |
 | Marked on | Ideas and creativity · Experimentation · Visual research · Reflection · Presentation |
 | Announced | Week 1 |
-| Returned | Wed 2027-01-20, the return session |
 | Submitted alongside | The [[classes/pre-a-level-art-design/assessments/pal-s1-eot-semester-portfolio\|End of Term portfolio]] |
 
 ## Objectives

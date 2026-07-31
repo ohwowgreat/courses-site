@@ -23,12 +23,15 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Days</dt><dd>4<span class="stat-x">Mon single, Tue single, Wed double (CS8), Fri single</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-12-07<span class="stat-x">Tue 12-08 · Wed 12-09 · Fri 12-11</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO1 + AO2</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Days | 4 — Mon single, Tue single, Wed double (CS8), Fri single |
-| Dates | Mon 2026-12-07 · Tue 12-08 · Wed 12-09 · Fri 12-11 |
 | Band/Unit | U5 Media Contexts ([[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts\|S1 Unit 5]]) |
-| AO focus | AO1 + AO2 |
 | Deliverable | CS8 guided Section A script; C2 case-study document opened and structured |
 | Feeds | A4 |
 | Homework | First case-study entries (30-min cap) |

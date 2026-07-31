@@ -14,11 +14,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session codes</dt><dd>`U1·L1`–`U1·L3`</dd></div>
+  <div class="stat"><dt>Days</dt><dd>3</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Tue 2026-09-01 to Fri 2026-09-04</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session codes | `U1·L1`–`U1·L3` |
-| Days | 3 |
-| Dates | Tue 2026-09-01 to Fri 2026-09-04 |
 | Deliverable | CS1 darkroom reflection |
 | Feeds | A1 |
 

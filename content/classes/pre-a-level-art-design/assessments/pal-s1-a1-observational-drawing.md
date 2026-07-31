@@ -13,15 +13,18 @@ modified: 2026-07-30
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sits</dt><dd>Wed 2026-09-30<span class="stat-x">one double (about 90 minutes)</span></dd></div>
+  <div class="stat"><dt>Returned</dt><dd>Within five working days</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sits | Wed 2026-09-30, one double (about 90 minutes) |
 | Category | Attainment, the first of five in the 50% category |
 | Format | Made in class. You finish the drawing you started in W4, at the same station |
 | Submitted | The drawing **and** the written reflection, together, at the close |
 | Marked on | Observation · Tone · Composition · Reflection |
 | Feeds | The mid-term grades due Thu 2026-10-29 |
-| Returned | Within five working days |
 | Unit | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements\|U1 Drawing and the Visual Elements]] |
 
 ## Objectives

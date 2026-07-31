@@ -14,11 +14,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>3 days<span class="stat-x">W17, reduced — Christmas break follows</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-12-20 → Wed 2027-12-22</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO1–AO4 (the whole investigation)</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 3 days (W17, reduced — Christmas break follows) |
-| Dates | Mon 2027-12-20 → Wed 2027-12-22 |
-| AO focus | AO1–AO4 (the whole investigation) |
 | Deliverable | The complete Personal Investigation — both outcomes, the supporting portfolio, the research paper — submitted at A4; submission photography begun |
 | Graded | **A4** Wed 2027-12-22 (AO1–AO4) — the complete investigation, **no edits after** |
 | Homework | None over the break beyond the winter homework for [[classes/a-level-art-design/unit-plans/9479-semester-4-plan\|Semester 4]] (the C2/ESA past-paper review) |

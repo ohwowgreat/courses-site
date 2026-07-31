@@ -22,12 +22,15 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Days</dt><dd>4<span class="stat-x">Mon+Tue two-day block (HW2 due Mon), Wed double (CS9), Fri (last teaching day)</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-01-04<span class="stat-x">Tue 01-05 · Wed 01-06 · Fri 01-08</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO1 + AO2</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Days | 4 — Mon+Tue two-day block (HW2 due Mon), Wed double (CS9), Fri (last teaching day) |
-| Dates | Mon 2027-01-04 · Tue 01-05 · Wed 01-06 · Fri 01-08 |
 | Band/Unit | U6 Revision ([[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation\|S1 Unit 6]]) |
-| AO focus | AO1 + AO2 |
 | Deliverable | CS9 timed Section B script, 45 min, peer-marked then moderated |
 | Feeds | End of Term Exam |
 | Homework | Individual revision from your marked CS9 and the matrix; no new tasks |

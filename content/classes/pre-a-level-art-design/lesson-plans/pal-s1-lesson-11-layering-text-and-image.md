@@ -21,10 +21,13 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session</dt><dd>W12<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
+  <div class="stat"><dt>Date</dt><dd>Wed 2026-11-18</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session | W12, one Wednesday double (~90 min) |
-| Date | Wed 2026-11-18 |
 | Focus | Layering (order, edges, transparency) and text as image — the unit's making session |
 | Deliverable | A layering study and a text-and-image study added to your experiment set |
 | Feeds | CS3 collects the experiment set next week (W13, 11-25) |

@@ -13,11 +13,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>8 days (W16–W17)<span class="stat-x">Unit 5 opens</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-12-14 → Fri 2026-12-18<span class="stat-x">then Mon 2026-12-21 → Wed 2026-12-23</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO4 Present</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 8 days (W16–W17) — Unit 5 opens |
-| Dates | Mon 2026-12-14 → Fri 2026-12-18, then Mon 2026-12-21 → Wed 2026-12-23 |
-| AO focus | AO4 Present |
 | Deliverable | The final outcome, built in one sustained run and resolved to a unified surface |
 | Homework | Sketchbook during W16; none over the break — the outcome finishes in class |
 

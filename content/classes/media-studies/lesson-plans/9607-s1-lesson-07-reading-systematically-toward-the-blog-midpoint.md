@@ -24,12 +24,15 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Days</dt><dd>5<span class="stat-x">Fri single, Mon, Tue, Wed double (CS5), Fri single</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Fri 2026-10-16<span class="stat-x">Mon 10-19 · Tue 10-20 · Wed 10-21 · Fri 10-23</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO3 (CS5)</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Days | 5 — Fri single, Mon, Tue, Wed double (CS5), Fri single |
-| Dates | Fri 2026-10-16 · Mon 10-19 · Tue 10-20 · Wed 10-21 · Fri 10-23 |
 | Band/Unit | U3 Macro and Textual Analysis ([[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis\|S1 Unit 3]]) |
-| AO focus | AO3 (CS5) |
 | Deliverable | CS5 peer blog audit against the mid-point checklist; an A2-ready blog by Monday |
 | Feeds | A2 |
 | Homework | Blog completion: posts 1–7 to standard by Mon 10-26 |

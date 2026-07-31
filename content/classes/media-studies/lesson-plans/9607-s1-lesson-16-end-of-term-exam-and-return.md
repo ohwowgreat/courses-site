@@ -21,12 +21,15 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Days</dt><dd>2 teaching days + exam window</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Exam sat in window Mon 2027-01-11 → Mon 01-18<span class="stat-x">Tue 01-19 return · Wed 01-20 double, goal setting</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO1 + AO2 (full paper)<span class="stat-x">AO-level gap analysis after</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Days | 2 teaching days + exam window |
-| Dates | Exam sat in window Mon 2027-01-11 → Mon 01-18 · Tue 01-19 return · Wed 01-20 double, goal setting |
 | Band/Unit | U6 Revision ([[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation\|S1 Unit 6]]) |
-| AO focus | AO1 + AO2 (full paper); AO-level gap analysis after |
 | Deliverable | End of Term Exam script (20% category); one-page Semester 2 target sheet per student (LB7) |
 | Feeds | Semester 2; Forecast Grade evidence |
 | Homework | None |

@@ -20,10 +20,13 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session</dt><dd>Week 5<span class="stat-x">one Wednesday double (~90 min) — Unit 1 closes</span></dd></div>
+  <div class="stat"><dt>Date</dt><dd>Wed 2026-09-30</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session | Week 5, one Wednesday double (~90 min) — Unit 1 closes |
-| Date | Wed 2026-09-30 |
 | Focus | **You sit A1**: the final observational drawing finished under assessment conditions, plus the written reflection |
 | Deliverable | Your final drawing + reflection, submitted at the close of class |
 | Feeds | A1 feeds the mid-term grades (due Thu 2026-10-29); **HW1 is set** (due Wed 10-14, opens Unit 2) |

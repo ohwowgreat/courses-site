@@ -14,11 +14,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>5 days (S3)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2028-03-06 → Fri 2028-03-10</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO1 Record</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | 5 days (S3) |
-| Dates | Mon 2028-03-06 → Fri 2028-03-10 |
-| AO focus | AO1 Record |
 | Deliverable | The sustained study pushed past comfortable; critical annotation tying the recording to the question; the recording milestone |
 | Graded | **CS3** Thu 2028-03-09 (sustained study progress check) · **A1** Fri 2028-03-10 (AO1) |
 | Homework | ≤30 min (capped): one line per recording page — what it taught about the question |

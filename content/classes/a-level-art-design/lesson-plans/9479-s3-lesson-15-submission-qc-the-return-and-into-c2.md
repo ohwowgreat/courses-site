@@ -14,11 +14,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sessions</dt><dd>~2 (W18) + the reduced return week (W19)</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>W18 Sun 2027-12-26 → Sat 01-01<span class="stat-x">then W19 to ~Fri 2028-01-07</span></dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO4 Present<span class="stat-x">then review and C2 orientation</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sessions | ~2 (W18) + the reduced return week (W19) |
-| Dates | W18 Sun 2027-12-26 → Sat 01-01, then W19 to ~Fri 2028-01-07 |
-| AO focus | AO4 Present; then review and C2 orientation |
 | Deliverable | The PDF submission assembled to the Cambridge screen limits and passed through QC; the investigation returned 1:1; a C2 preview |
 | Graded | No attainment. The **End of Term (the Final)** falls in the EoT window (Mon 2028-01-10 → Mon 01-17) — teacher-marked against the Cambridge criteria, date at the teacher's discretion |
 | Homework | The Semester 4 winter homework: the C2/ESA past-paper review and drawing regimen (feeds [[classes/a-level-art-design/unit-plans/9479-s4-unit-1-foundations-on-the-question\|S4 Unit 1]]) |

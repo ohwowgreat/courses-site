@@ -9,11 +9,19 @@ tags: [home]
 </figure>
 
 
+<p class="kicker">Semester 1 · 2026–27</p>
+
 # Courses
 
 <p class="lede">Five courses in the BNDS A-Level Programme. Each one has an overview, a
 semester plan, and a page for every unit and lesson — what it covers, how it runs, and
 what's due.</p>
+
+<dl class="stat-strip">
+  <div class="stat"><dt>Courses</dt><dd>5</dd></div>
+  <div class="stat"><dt>Lessons</dt><dd>103</dd></div>
+  <div class="stat"><dt>Semester</dt><dd>Sep 2026 → Jan 2027</dd></div>
+</dl>
 
 <ul class="course-grid">
   <li class="course-card">

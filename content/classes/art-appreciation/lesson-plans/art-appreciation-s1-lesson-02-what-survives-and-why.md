@@ -15,11 +15,14 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session codes</dt><dd>`U1·L4`–`U1·L9`</dd></div>
+  <div class="stat"><dt>Days</dt><dd>6</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Fri 2026-09-04 to Fri 2026-09-11</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session codes | `U1·L4`–`U1·L9` |
-| Days | 6 |
-| Dates | Fri 2026-09-04 to Fri 2026-09-11 |
 | Deliverable | One-page panel reading, plus LB1 |
 | Feeds | A1 |
 | Homework | Chauvet reading, 30 min, set day 2, due day 4 |

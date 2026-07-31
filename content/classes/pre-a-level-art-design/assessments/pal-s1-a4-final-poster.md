@@ -14,15 +14,18 @@ modified: 2026-07-30
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sits</dt><dd>Wed 2026-12-23<span class="stat-x">one double (about 90 minutes). The last teaching session before the winter break</span></dd></div>
+  <div class="stat"><dt>Returned</dt><dd>Within five working days</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sits | Wed 2026-12-23, one double (about 90 minutes). The last teaching session before the winter break |
 | Category | Attainment, the fourth of five in the 50% category |
 | Format | Made in class, from a thumbnail you already decided. **Handmade or digital**, your choice |
 | Submitted | The poster **and** the written reflection, at the close |
 | Marked on | Hierarchy · Typography · Message · Audience |
 | Also collected | Thumbnails and type studies, into the sketchbook as process |
-| Returned | Within five working days |
 | Unit | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster\|U4 Graphic Design and the Poster]] |
 
 ## Objectives

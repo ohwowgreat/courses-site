@@ -21,10 +21,13 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session</dt><dd>W9<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
+  <div class="stat"><dt>Date</dt><dd>Wed 2026-10-28</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session | W9, one Wednesday double (~90 min) |
-| Date | Wed 2026-10-28 |
 | Focus | The main theme shoot, then the contact-sheet edit — "shoot many, keep few, know why" |
 | Deliverable | ≥20 new theme frames; a contact sheet with 12 selects and 6–8 series candidates marked |
 | Feeds | **CS2 is collected this session** (composition set + contact-sheet edit); everything feeds A2 next week |

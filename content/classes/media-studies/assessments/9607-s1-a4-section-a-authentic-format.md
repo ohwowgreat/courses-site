@@ -16,14 +16,17 @@ modified: 2026-07-30
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sits</dt><dd>Wed 2026-12-16<span class="stat-x">the Wednesday double</span></dd></div>
+  <div class="stat"><dt>Marks</dt><dd>25<span class="stat-x">on the official Paper 2 five-criteria rubric</span></dd></div>
+  <div class="stat"><dt>Assesses</dt><dd>AO1 and AO2</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Sits | Wed 2026-12-16, the Wednesday double |
 | Category | Attainment, the last of four in the 50% category. The Forecast Grade anchor |
 | Format | Component 2 Section A in the real examination format |
 | Timing | **30 minutes viewing and note-making, then 45 minutes writing** |
-| Marks | 25, on the official Paper 2 five-criteria rubric |
-| Assesses | AO1 and AO2 |
 | Extract | Unseen TV-drama extract. Not a text taught to this class |
 | Feeds | The End of Term Exam, and your Forecast Grade |
 | Unit | [[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts\|U5 Media Contexts]] |

@@ -15,10 +15,13 @@ modified: 2026-07-26
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Session codes</dt><dd>`U4·L8`–`U4·L11`</dd></div>
+  <div class="stat"><dt>Days</dt><dd>4</dd></div>
+</dl>
+
 | | |
 |---|---|
-| Session codes | `U4·L8`–`U4·L11` |
-| Days | 4 |
 | Template | MAKE |
 | Deliverable | CS5 poor-image lab |
 | Feeds | A4 |
