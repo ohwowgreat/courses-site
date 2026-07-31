@@ -670,6 +670,22 @@ const HANDOUTS = {
       { label: "Culinary Aesthetics", file: "culinary-aesthetics" },
     ],
   },
+  // The C1 study guide: one self-contained interactive page covering the whole
+  // component, sitting under the At-a-glance table where a student looks for the
+  // task's materials. Anchored on the table's last row, so it lands between the
+  // table and "## Objectives"; a miss degrades to a link at the foot of the page.
+  "classes/media-studies/assessments/9607-s1-a3-c1-portfolio.md": {
+    dir: "media-studies",
+    title: "Study guide:",
+    anchor: /\| Unit \|/,
+    items: [
+      {
+        label: "Component 1: the Foundation Portfolio (interactive)",
+        file: "c1-foundation-portfolio",
+        ext: "html",
+      },
+    ],
+  },
   "classes/pre-a-level-art-design/pal-resource-library.md": {
     dir: "pre-a-level-art-design",
     title: "Worksheets & guides (PDF):",
@@ -726,10 +742,19 @@ function figureBlock(slugs, depth) {
 function insertHandouts(body, entry, depth) {
   const prefix = "../".repeat(depth)
   const links = entry.items
-    .map((it) => `<a href="${prefix}static/handouts/${entry.dir}/${it.file}.pdf">${it.label}</a>`)
+    // Extension defaults to pdf, which every handout was until the 9607 C1 study
+    // guide (a self-contained interactive .html) landed 2026-07-31.
+    .map(
+      (it) =>
+        `<a href="${prefix}static/handouts/${entry.dir}/${it.file}.${it.ext ?? "pdf"}">${it.label}</a>`,
+    )
     .join(" · ")
   const title = entry.title ?? "Handouts (PDF):"
-  const html = `<p class="handouts"><strong>${title}</strong> ${links}</p>\n`
+  // Trailing blank line is load-bearing: an HTML block runs to the next blank
+  // line, so without it a following "## Heading" is swallowed into the block and
+  // renders as literal text. Only bites when the anchor's paragraph is the last
+  // thing before a heading, which the 9607 A3 study guide is.
+  const html = `<p class="handouts"><strong>${title}</strong> ${links}</p>\n\n`
   const at = body.search(entry.anchor)
   if (at === -1) return body.trimEnd() + "\n\n" + html
   const paraEnd = body.indexOf("\n\n", at)

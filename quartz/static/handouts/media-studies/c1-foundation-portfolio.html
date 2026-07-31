@@ -1,0 +1,548 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Component 1: Foundation Portfolio · Student Guide · 9607</title>
+<style>
+  :root{
+    --page:#f9f9f7; --card:#fcfcfb; --ink:#0b0b0b; --ink2:#52514e; --muted:#898781;
+    --line:#e1e0d9; --border:rgba(11,11,11,.10);
+    --s1:#2a78d6; --s2:#eb6834; --s3:#1baf7a; --s4:#eda100; --s5:#e87ba4;
+    --accent:#2a78d6; --warn:#eb6834; --good:#1baf7a;
+    --serif:"Charter","Iowan Old Style","Palatino",Georgia,"Times New Roman",serif;
+    --sans:system-ui,-apple-system,"Segoe UI",sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{background:var(--page);color:var(--ink);font-family:var(--serif);font-size:16.5px;line-height:1.62;-webkit-font-smoothing:antialiased}
+  a{color:var(--accent);text-decoration:none}
+  a:hover{text-decoration:underline}
+
+  .masthead{border-bottom:1px solid var(--line);background:var(--card)}
+  .masthead-inner{max-width:1180px;margin:0 auto;padding:34px 28px 30px}
+  .kicker{font-family:var(--sans);font-size:11.5px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);margin-bottom:10px}
+  .masthead h1{font-size:clamp(26px,4.4vw,42px);line-height:1.12;font-weight:700;letter-spacing:-.01em;max-width:900px}
+  .masthead .sub{font-family:var(--sans);font-size:14.5px;color:var(--ink2);margin-top:12px;max-width:720px;line-height:1.55}
+  .stat-strip{display:flex;flex-wrap:wrap;gap:0;margin-top:24px;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:var(--page)}
+  .stat{flex:1 1 150px;padding:13px 18px;border-right:1px solid var(--line)}
+  .stat:last-child{border-right:none}
+  .stat .l{font-family:var(--sans);font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+  .stat .v{font-family:var(--sans);font-size:15px;font-weight:700;margin-top:3px;letter-spacing:-.01em}
+
+  .shell{max-width:1180px;margin:0 auto;padding:0 28px;display:grid;grid-template-columns:206px minmax(0,1fr);gap:44px}
+  .toc{position:sticky;top:0;align-self:start;max-height:100vh;overflow-y:auto;padding:30px 0 40px;font-family:var(--sans)}
+  .toc .toc-title{font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin-bottom:12px}
+  .toc a{display:block;font-size:13px;color:var(--ink2);padding:5px 0 5px 12px;border-left:2px solid var(--line);line-height:1.35}
+  .toc a:hover{color:var(--ink);text-decoration:none}
+  .toc a.on{color:var(--ink);border-left-color:var(--ink);font-weight:600}
+  main{padding:30px 0 90px;min-width:0}
+  section{margin-bottom:60px;scroll-margin-top:20px}
+  .sec-kicker{font-family:var(--sans);font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--accent);font-weight:700;margin-bottom:8px}
+  h2{font-size:29px;line-height:1.2;letter-spacing:-.01em;margin-bottom:6px}
+  .sec-rule{height:1px;background:var(--line);margin:18px 0 22px}
+  h3{font-size:19px;margin:28px 0 10px;letter-spacing:-.005em}
+  h4{font-family:var(--sans);font-size:12.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink2);margin:22px 0 8px}
+  p{margin-bottom:14px;max-width:70ch}
+  ul,ol{margin:0 0 14px 22px;max-width:68ch}
+  li{margin-bottom:6px}
+  .lead{font-size:18.5px;line-height:1.6;max-width:68ch}
+  .small{font-family:var(--sans);font-size:13px;color:var(--ink2);line-height:1.55}
+  .mut{color:var(--muted)}
+
+  .card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:22px 24px;margin:20px 0}
+  .grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(255px,1fr));gap:16px;margin:20px 0}
+  .note{border-left:3px solid var(--accent);background:#f3f7fd;padding:14px 18px;border-radius:0 8px 8px 0;margin:18px 0;font-family:var(--sans);font-size:14px;line-height:1.55;max-width:70ch}
+  .note.warn{border-left-color:var(--warn);background:#fdf0ea}
+  .note.good{border-left-color:var(--good);background:#eef8f3}
+  .note b{font-weight:700}
+
+  table{border-collapse:collapse;width:100%;margin:18px 0;font-family:var(--sans);font-size:13.5px}
+  th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);font-weight:700}
+
+  /* checklists */
+  .check{list-style:none;margin:16px 0}
+  .check li{display:flex;gap:12px;align-items:flex-start;padding:11px 14px;border:1px solid var(--line);border-radius:8px;background:var(--card);margin-bottom:8px;cursor:pointer;transition:border-color .15s,background .15s}
+  .check li:hover{border-color:var(--border)}
+  .check li.done{background:#f2faf7;border-color:#cbe9dd}
+  .check li.done .ct{text-decoration:line-through;color:var(--muted)}
+  .box{flex:0 0 19px;height:19px;margin-top:2px;border:1.8px solid var(--muted);border-radius:5px;display:grid;place-items:center;font-size:12px;color:transparent;font-family:var(--sans);font-weight:700}
+  .check li.done .box{background:var(--good);border-color:var(--good);color:#fff}
+  .cn{flex:0 0 20px;font-family:var(--sans);font-size:12px;font-weight:700;color:var(--muted);margin-top:2px}
+  .ct{font-family:var(--sans);font-size:14.5px;line-height:1.45}
+  .ct em{display:block;font-style:normal;font-size:12.5px;color:var(--ink2);margin-top:3px}
+
+  .bar{height:7px;background:var(--line);border-radius:99px;overflow:hidden;margin:10px 0 4px}
+  .bar i{display:block;height:100%;background:var(--good);width:0;transition:width .3s;border-radius:99px}
+  .barlab{font-family:var(--sans);font-size:12px;color:var(--ink2)}
+
+  /* timeline */
+  .tl{margin:22px 0;position:relative;padding-left:26px}
+  .tl:before{content:"";position:absolute;left:6px;top:6px;bottom:6px;width:2px;background:var(--line)}
+  .tl-item{position:relative;margin-bottom:16px}
+  .tl-item:before{content:"";position:absolute;left:-24px;top:6px;width:10px;height:10px;border-radius:50%;background:var(--card);border:2px solid var(--muted)}
+  .tl-item.key:before{background:var(--accent);border-color:var(--accent)}
+  .tl-d{font-family:var(--sans);font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:700}
+  .tl-t{font-family:var(--sans);font-size:14.5px;line-height:1.45;margin-top:1px}
+  .tl-item.key .tl-t{font-weight:700}
+
+  /* CCR planner */
+  .q{border:1px solid var(--line);border-radius:9px;background:var(--card);padding:15px 17px;margin-bottom:10px}
+  .q-n{font-family:var(--sans);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);font-weight:700}
+  .q-t{font-family:var(--sans);font-size:14.5px;line-height:1.45;margin:4px 0 10px}
+  .q select{font-family:var(--sans);font-size:13.5px;padding:7px 10px;border:1px solid var(--line);border-radius:6px;background:var(--page);color:var(--ink);width:100%;max-width:330px}
+  .q.dup{border-color:var(--warn);background:#fdf0ea}
+  .dupmsg{font-family:var(--sans);font-size:12.5px;color:var(--warn);font-weight:600;margin-top:7px;display:none}
+  .q.dup .dupmsg{display:block}
+  #ccrVerdict{font-family:var(--sans);font-size:14px;font-weight:600;padding:13px 17px;border-radius:8px;margin-top:14px}
+
+  /* strand explorer */
+  .chips{display:flex;flex-wrap:wrap;gap:7px;margin:18px 0 4px}
+  .chip{font-family:var(--sans);font-size:13px;font-weight:600;padding:8px 14px;border:1px solid var(--line);border-radius:99px;background:var(--card);cursor:pointer;color:var(--ink2)}
+  .chip:hover{border-color:var(--muted)}
+  .chip.on{background:var(--ink);border-color:var(--ink);color:#fff}
+  .bands{margin-top:16px}
+  .band{display:grid;grid-template-columns:66px 1fr;gap:14px;padding:12px 0;border-bottom:1px solid var(--line)}
+  .band:last-child{border-bottom:none}
+  .band-m{font-family:var(--sans);font-size:13px;font-weight:700}
+  .band-w{font-family:var(--sans);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:2px}
+  .band-d{font-family:var(--sans);font-size:13.5px;line-height:1.5;color:var(--ink2)}
+  .band.top{background:#f2faf7;border-radius:7px;padding:12px 10px;border-bottom:none;margin-bottom:2px}
+  .band.top .band-d{color:var(--ink)}
+
+  .foot{border-top:1px solid var(--line);margin-top:40px;padding-top:20px;font-family:var(--sans);font-size:12.5px;color:var(--muted);line-height:1.6}
+  .resetbtn{font-family:var(--sans);font-size:12px;color:var(--muted);background:none;border:1px solid var(--line);border-radius:6px;padding:5px 11px;cursor:pointer;margin-top:8px}
+  .resetbtn:hover{color:var(--ink);border-color:var(--muted)}
+
+  @media (max-width:860px){
+    .shell{grid-template-columns:1fr;gap:0}
+    .toc{display:none}
+    .band{grid-template-columns:56px 1fr;gap:10px}
+  }
+  @media print{
+    .toc,.resetbtn{display:none}
+    .shell{grid-template-columns:1fr}
+    body{font-size:11pt}
+    section{page-break-inside:avoid}
+  }
+</style>
+</head>
+<body>
+
+<div class="masthead"><div class="masthead-inner">
+  <div class="kicker">Cambridge International AS &amp; A Level Media Studies 9607</div>
+  <h1>Component 1: the Foundation Portfolio</h1>
+  <p class="sub">Everything you make, everything you write about it, and exactly how each part earns marks. Read this once at the start, then use the checklists as you go.</p>
+  <div class="stat-strip">
+    <div class="stat"><div class="l">Worth</div><div class="v">50 marks</div></div>
+    <div class="stat"><div class="l">Weighting</div><div class="v">50% of AS</div></div>
+    <div class="stat"><div class="l">You submit</div><div class="v">3 things</div></div>
+    <div class="stat"><div class="l">Deadline</div><div class="v">Fri 27 Nov 2026</div></div>
+    <div class="stat"><div class="l">After that</div><div class="v">No edits</div></div>
+  </div>
+</div></div>
+
+<div class="shell">
+  <nav class="toc">
+    <div class="toc-title">Contents</div>
+    <a href="#what">1 · What you make</a>
+    <a href="#dates">2 · The dates</a>
+    <a href="#blog">3 · The blog</a>
+    <a href="#planning">4 · The planning suite</a>
+    <a href="#ccr">5 · The reflection</a>
+    <a href="#marks">6 · How you are marked</a>
+    <a href="#lose">7 · Two ways to lose marks</a>
+    <a href="#submit">8 · Submitting</a>
+  </nav>
+
+  <main>
+
+  <section id="what">
+    <div class="sec-kicker">Section 1</div>
+    <h2>What you are actually making</h2>
+    <div class="sec-rule"></div>
+    <p class="lead">Component 1 is not one thing. It is three things, submitted together, and each one is marked separately.</p>
+
+    <div class="grid2">
+      <div class="card">
+        <h4>1 · The product</h4>
+        <p class="small">A <b>film opening</b> or a <b>magazine</b>, in a genre you register early and stick to. This is the thing people see. It is worth 20 of the 50 marks.</p>
+      </div>
+      <div class="card">
+        <h4>2 · The blog</h4>
+        <p class="small">A dated online record of how you made it, written <b>on the day</b>, from the first week of research to the last. It carries 10 marks of its own and quietly protects the rest.</p>
+      </div>
+      <div class="card">
+        <h4>3 · The reflection (CCR)</h4>
+        <p class="small">Four set questions, answered <b>in creative digital formats</b>, not as an essay. Marked twice: once for how well you make it, once for what it says. 20 marks between the two.</p>
+      </div>
+    </div>
+
+    <div class="note"><b>You may work in a group of up to four on the production.</b> If you do, every member keeps their <b>own separate blog</b> and labels their own contribution in it. The reflection is always individual, never shared.</div>
+
+    <h3>The one sentence worth memorising</h3>
+    <p>A strong product with a weak blog cannot reach the top band, because the evidence the top band needs lives in the blog. Cambridge marks what you can show, not what you remember doing.</p>
+  </section>
+
+  <section id="dates">
+    <div class="sec-kicker">Section 2</div>
+    <h2>The dates</h2>
+    <div class="sec-rule"></div>
+    <p>Two of these are graded checkpoints. The rest are the moments where falling behind starts to cost you.</p>
+    <div class="tl">
+      <div class="tl-item key"><div class="tl-d">Week 1 · early September</div><div class="tl-t">Blog set up. Not a draft, not a placeholder. Post 1 goes up this week.</div></div>
+      <div class="tl-item"><div class="tl-d">Week 2 · Wednesday</div><div class="tl-t">Media area decided. This is the choice you build everything else on.</div></div>
+      <div class="tl-item"><div class="tl-d">Week 5</div><div class="tl-t">C1 planning locked. Changes after this point cost you time you do not have.</div></div>
+      <div class="tl-item key"><div class="tl-d">Mon 26 October</div><div class="tl-t">A2 due: blog mid-point. Posts 1 to 7, complete, dated. You hand in a URL in the first five minutes of class.</div></div>
+      <div class="tl-item"><div class="tl-d">Week 10 · early November</div><div class="tl-t">Rough cut screened. Real audience, real notes, and a pickup list you act on.</div></div>
+      <div class="tl-item"><div class="tl-d">Week 12</div><div class="tl-t">Reflection drafted from your blog evidence, then reviewed against the real marking criteria.</div></div>
+      <div class="tl-item"><div class="tl-d">Wed 25 November</div><div class="tl-t">Reflection surgery. The last session where help is available. Every visit ends with one fix done, not promised.</div></div>
+      <div class="tl-item key"><div class="tl-d">Fri 27 November</div><div class="tl-t">A3 due: the complete portfolio. Product, reflection, blog. No edits after this, at all.</div></div>
+      <div class="tl-item"><div class="tl-d">Tue 1 December</div><div class="tl-t">Returned, self-assessment first.</div></div>
+      <div class="tl-item"><div class="tl-d">Around end of April 2027</div><div class="tl-t">Your blog goes to Cambridge for moderation. It must still be online and unchanged.</div></div>
+    </div>
+    <div class="note warn"><b>If you will be absent for a deadline, contact your teacher at least 24 hours before.</b> Without advance contact the mark may be 0, even for genuine illness.</div>
+  </section>
+
+  <section id="blog">
+    <div class="sec-kicker">Section 3</div>
+    <h2>The blog</h2>
+    <div class="sec-rule"></div>
+    <p class="lead">Cambridge calls it a continuous narrative of the production process. In practice that means one thing: it is written as the work happens, never afterwards.</p>
+
+    <h3>Three rules that apply to every single post</h3>
+    <table>
+      <tr><th>Rule</th><th>What it means</th><th>Why it matters</th></tr>
+      <tr><td><b>Dated on the day</b></td><td>Post it the day the work happened. Do not backfill.</td><td>A blog written the night before cannot show a process. Moderators can tell.</td></tr>
+      <tr><td><b>Contributions labelled</b></td><td>In group work, say what <i>you</i> did.</td><td>Unlabelled work cannot be credited to you.</td></tr>
+      <tr><td><b>No gaps</b></td><td>Every stage appears, in order.</td><td>Gaps read as incomplete evidence, whatever the product looks like.</td></tr>
+    </table>
+
+    <h3>The seven posts you are marked on at the mid-point</h3>
+    <p class="small">This is the A2 checklist. It is the same instrument your teacher marks with, so there is no mystery about the standard. Tick as you go, your progress is saved in this browser.</p>
+    <ul class="check" id="posts">
+      <li data-k="p1"><span class="box">✓</span><span class="cn">1</span><span class="ct">Brief and group registered<em>Which brief, which genre, who is in the group and what each person leads on.</em></span></li>
+      <li data-k="p2"><span class="box">✓</span><span class="cn">2</span><span class="ct">Research into similar professional products<em>Real texts, closely read. Not a summary of the genre in general.</em></span></li>
+      <li data-k="p3"><span class="box">✓</span><span class="cn">3</span><span class="ct">Audience profile<em>A specific audience with evidence. "Everyone aged 15 to 35" is not a profile.</em></span></li>
+      <li data-k="p4"><span class="box">✓</span><span class="cn">4</span><span class="ct">Pitch<em>The idea, stated clearly enough that someone else could picture it.</em></span></li>
+      <li data-k="p5"><span class="box">✓</span><span class="cn">5</span><span class="ct">Planning suite<em>Detailed enough that someone else could shoot it without asking you questions. See section 4.</em></span></li>
+      <li data-k="p6"><span class="box">✓</span><span class="cn">6</span><span class="ct">Production log opened<em>The running record of what you actually did, starting now.</em></span></li>
+      <li data-k="p7"><span class="box">✓</span><span class="cn">7</span><span class="ct">Early production evidence<em>Footage, spreads, stills. Proof that production has genuinely started.</em></span></li>
+    </ul>
+    <div class="bar"><i id="postsBar"></i></div>
+    <div class="barlab" id="postsLab">0 of 7 complete</div>
+
+    <div class="note good"><b>The phrase that decides most marks is "implementation of research".</b> Research that sits in post 2 and never comes back is research nobody implemented. Post 5 and post 7 need to visibly carry what post 2 taught you. A blog can be thorough and still land at 5 or 6 if those posts do not talk to each other.</div>
+
+    <div class="note warn"><b>Check every URL from a signed-out browser.</b> A blog only you can open has not been submitted.</div>
+  </section>
+
+  <section id="planning">
+    <div class="sec-kicker">Section 4</div>
+    <h2>The planning suite</h2>
+    <div class="sec-rule"></div>
+    <p class="lead">This is the single clearest difference between a middle-band portfolio and a top-band one. Not talent. Which planning documents exist.</p>
+    <p>Cambridge names the planning activities it expects to see. In its own published exemplars, the portfolio that reached the top of the range had these; the one that stopped at the middle was told its planning needed a wider range. Tick what you have actually posted.</p>
+
+    <ul class="check" id="plan">
+      <li data-k="a1"><span class="box">✓</span><span class="ct">Storyboards<em>Shot by shot. For magazines, layout roughs and flat plans.</em></span></li>
+      <li data-k="a2"><span class="box">✓</span><span class="ct">Scripting and screenplay<em>Dialogue, timings, or cover lines and copy.</em></span></li>
+      <li data-k="a3"><span class="box">✓</span><span class="ct">Recce reports<em>You visited the location, photographed it, and noted light, sound, access and problems.</em></span></li>
+      <li data-k="a4"><span class="box">✓</span><span class="ct">Casting<em>Who appears, why they fit, and how you decided.</em></span></li>
+      <li data-k="a5"><span class="box">✓</span><span class="ct">Test shots<em>Especially for any effect you plan to use. Cheap to do, easy to evidence, and routinely missing.</em></span></li>
+      <li data-k="a6"><span class="box">✓</span><span class="ct">Risk assessment<em>What could go wrong on the shoot and what you did about it.</em></span></li>
+    </ul>
+    <div class="bar"><i id="planBar"></i></div>
+    <div class="barlab" id="planLab">0 of 6 complete</div>
+
+    <div class="note"><b>Test shots are the one most people skip.</b> If your opening uses any effect at all, a short post showing the test, what failed, and what you changed is some of the easiest evidence in the whole component.</div>
+  </section>
+
+  <section id="ccr">
+    <div class="sec-kicker">Section 5</div>
+    <h2>The Creative Critical Reflection</h2>
+    <div class="sec-rule"></div>
+    <p class="lead">Four questions. Answered creatively, in digital formats. This is where the most marks are lost for the least good reason.</p>
+
+    <h3>Why this section deserves your attention</h3>
+    <p>Cambridge publishes two marked example portfolios. One sits in the middle of the range, one at the very top. <b>Both lose marks in exactly the same place, and it is here.</b> Each used a single application for all four answers, and each moderator wrote the same criticism. For the top portfolio, this was the <i>only</i> strand that fell below the top band.</p>
+    <p>The syllabus lets you use <b>a different format for every question</b>. Using one tool for all four is a choice, and it is a choice that costs marks for no production reason whatever.</p>
+
+    <h3>Plan your four formats now</h3>
+    <p class="small">Pick a different tool for each question. If you repeat one, this will tell you.</p>
+    <div id="ccrPlanner">
+      <div class="q" data-q="1">
+        <div class="q-n">Question 1</div>
+        <div class="q-t">How does your product use or challenge conventions, and how does it represent social groups or issues?</div>
+        <select data-k="q1"></select>
+        <div class="dupmsg">You have already used this format for another question.</div>
+      </div>
+      <div class="q" data-q="2">
+        <div class="q-n">Question 2</div>
+        <div class="q-t">How does your product engage with audiences, and how would it be distributed as a real media text?</div>
+        <select data-k="q2"></select>
+        <div class="dupmsg">You have already used this format for another question.</div>
+      </div>
+      <div class="q" data-q="3">
+        <div class="q-n">Question 3</div>
+        <div class="q-t">How did your production skills develop throughout this project?</div>
+        <select data-k="q3"></select>
+        <div class="dupmsg">You have already used this format for another question.</div>
+      </div>
+      <div class="q" data-q="4">
+        <div class="q-n">Question 4</div>
+        <div class="q-t">How did you integrate technologies, software, hardware and online, in this project?</div>
+        <select data-k="q4"></select>
+        <div class="dupmsg">You have already used this format for another question.</div>
+      </div>
+      <div id="ccrVerdict"></div>
+    </div>
+
+    <div class="note warn"><b>A reflection read off a page as a talking head is answering the questions while failing the format.</b> The reflection is marked twice: once for its own technical and creative skill, once for the quality of the thinking in it. A creative reflection that says nothing loses the second mark. A thoughtful one delivered as a read-aloud essay loses the first.</div>
+
+    <div class="note"><b>"All four questions" is the phrase in the top three bands.</b> Answering three brilliantly and one thinly caps that strand at 3 or 4 out of 10, no matter how good the strongest answer is. Even coverage beats one showpiece.</div>
+  </section>
+
+  <section id="marks">
+    <div class="sec-kicker">Section 6</div>
+    <h2>How you are marked</h2>
+    <div class="sec-rule"></div>
+    <p>Five strands, 10 marks each, 50 total. Each strand is banded <b>separately</b>, which is why a strong product cannot carry a weak reflection. Click a strand to see what each band actually says.</p>
+
+    <div class="chips" id="chips"></div>
+    <div class="bands" id="bands"></div>
+
+    <div class="note good"><b>"Knowingly subverts" scores as well as "accurately follows".</b> Breaking a convention on purpose, and being able to explain why in your reflection, sits in the top band alongside observing one perfectly. You are not required to play it safe.</div>
+  </section>
+
+  <section id="lose">
+    <div class="sec-kicker">Section 7</div>
+    <h2>Two ways to lose marks you have already earned</h2>
+    <div class="sec-rule"></div>
+    <p>Both of these happen to students who did the work. They are evidence problems, not effort problems.</p>
+
+    <div class="grid2">
+      <div class="card">
+        <h4 style="color:var(--warn)">The thin blog</h4>
+        <p class="small"><b>Looks like:</b> few posts, several written in one burst near the deadline, research that never reappears later.</p>
+        <p class="small"><b>Why it caps you:</b> the top band asks for research drawn on to inform the production. If the blog cannot show that happening, the mark is not available, however good the product is.</p>
+        <p class="small"><b>Guard:</b> the dating rule. Post on the day, every time.</p>
+      </div>
+      <div class="card">
+        <h4 style="color:var(--warn)">The misweighted blog</h4>
+        <p class="small"><b>Looks like:</b> plenty of posts, properly dated, but most of the weight sits in preliminary exercises and side material rather than the actual brief.</p>
+        <p class="small"><b>Why it caps you:</b> this is what happened to one of Cambridge's published exemplars. Well dated, genuine progression, and still capped for carrying too much preliminary material and not enough on the set brief.</p>
+        <p class="small"><b>Guard:</b> every few weeks, ask how much of your blog is about the thing you are actually being marked on.</p>
+      </div>
+    </div>
+
+    <div class="note"><b>The second one is harder to spot, because everything feels fine.</b> You are posting regularly, the dates are honest, the work is real. Count the posts that are about your brief, and compare that number to the total.</div>
+  </section>
+
+  <section id="submit">
+    <div class="sec-kicker">Section 8</div>
+    <h2>Submitting</h2>
+    <div class="sec-rule"></div>
+    <p>Run this at the close of the Wednesday session, not on Friday morning. Friday is logistics, not heroics.</p>
+
+    <ul class="check" id="sub">
+      <li data-k="s1"><span class="box">✓</span><span class="ct">Product exported and playable<em>Open it on a different machine than the one you edited on.</em></span></li>
+      <li data-k="s2"><span class="box">✓</span><span class="ct">Reflection posted, in its creative format<em>All four questions, embedded and working.</em></span></li>
+      <li data-k="s3"><span class="box">✓</span><span class="ct">Blog complete, posts dated, contributions labelled<em>No gaps between the first post and the last.</em></span></li>
+      <li data-k="s4"><span class="box">✓</span><span class="ct">Every URL checked from a signed-out browser<em>Including embedded ones. Expired links are the classic failure.</em></span></li>
+      <li data-k="s5"><span class="box">✓</span><span class="ct">URLs and files logged on the submission sheet<em>Confirmation shown on screen.</em></span></li>
+    </ul>
+    <div class="bar"><i id="subBar"></i></div>
+    <div class="barlab" id="subLab">0 of 5 complete</div>
+
+    <div class="note warn"><b>No edits after Friday 27 November.</b> This is absolute, and it is not your teacher being strict. Your blog must stay online and unchanged all the way through moderation the following spring. Anything you touch afterwards puts the whole submission at risk.</div>
+
+    <button class="resetbtn" id="reset">Clear all my ticks and choices</button>
+
+    <div class="foot">
+      Cambridge International AS &amp; A Level Media Studies 9607, for examination in June 2027.<br>
+      This guide covers Component 1 only. Everything here comes from the syllabus, the Coursework Handbook, and Cambridge's two published example portfolios.<br>
+      Your ticks and choices are stored in this browser only. Nothing is sent anywhere, and clearing your browser data will clear them.
+    </div>
+  </section>
+
+  </main>
+</div>
+
+<script>
+(function(){
+  var STORE='c1guide.v1';
+  var st={};
+  try{ st=JSON.parse(localStorage.getItem(STORE)||'{}'); }catch(e){ st={}; }
+  function save(){ try{ localStorage.setItem(STORE,JSON.stringify(st)); }catch(e){} }
+
+  /* ---- checklists ---- */
+  function wire(listId,barId,labId,total){
+    var list=document.getElementById(listId);
+    if(!list) return;
+    var items=list.querySelectorAll('li');
+    function paint(){
+      var n=0;
+      items.forEach(function(li){
+        var on=!!st[li.dataset.k];
+        li.classList.toggle('done',on);
+        li.setAttribute('aria-checked',on?'true':'false');
+        if(on) n++;
+      });
+      var bar=document.getElementById(barId), lab=document.getElementById(labId);
+      if(bar) bar.style.width=(n/total*100)+'%';
+      if(lab) lab.textContent=n+' of '+total+' complete'+(n===total?'  ·  all done':'');
+    }
+    items.forEach(function(li){
+      li.setAttribute('role','checkbox');
+      li.setAttribute('tabindex','0');
+      function toggle(){ st[li.dataset.k]=!st[li.dataset.k]; save(); paint(); }
+      li.addEventListener('click',toggle);
+      li.addEventListener('keydown',function(e){
+        if(e.key===' '||e.key==='Enter'){ e.preventDefault(); toggle(); }
+      });
+    });
+    paint();
+  }
+  wire('posts','postsBar','postsLab',7);
+  wire('plan','planBar','planLab',6);
+  wire('sub','subBar','subLab',5);
+
+  /* ---- CCR format planner ---- */
+  var FORMATS=['','Video with voiceover','Director commentary over your product','Podcast or audio','Screencast walkthrough','Prezi','Emaze','Slides (slides.com, Google Slides)','ThingLink annotated image','Annotated infographic','Vlog to camera','Animation or motion graphic','Interactive website page','Social media style carousel'];
+  var sels=document.querySelectorAll('#ccrPlanner select');
+  sels.forEach(function(sel){
+    FORMATS.forEach(function(f){
+      var o=document.createElement('option');
+      o.value=f; o.textContent=f||'Choose a format…';
+      sel.appendChild(o);
+    });
+    sel.value=st[sel.dataset.k]||'';
+    sel.addEventListener('change',function(){ st[sel.dataset.k]=sel.value; save(); checkDup(); });
+  });
+  function checkDup(){
+    var counts={},vals=[];
+    sels.forEach(function(s){
+      var v=s.value; vals.push(v);
+      if(v) counts[v]=(counts[v]||0)+1;
+    });
+    var dups=0;
+    sels.forEach(function(s){
+      var bad=s.value && counts[s.value]>1;
+      s.closest('.q').classList.toggle('dup',!!bad);
+      if(bad) dups++;
+    });
+    var chosen=vals.filter(function(v){return v;}).length;
+    var uniq=Object.keys(counts).length;
+    var v=document.getElementById('ccrVerdict');
+    if(chosen===0){
+      v.style.display='none'; return;
+    }
+    v.style.display='block';
+    if(chosen<4){
+      v.style.background='#f5f4f0'; v.style.color='#52514e';
+      v.textContent=chosen+' of 4 chosen. Keep going.';
+    } else if(uniq===1){
+      v.style.background='#fdf0ea'; v.style.color='#b5461a';
+      v.textContent='One format for all four. This is the exact choice that cost both of Cambridge’s published exemplars marks. Change at least two.';
+    } else if(uniq<4){
+      v.style.background='#fdf6f2'; v.style.color='#b5461a';
+      v.textContent=uniq+' different formats across four questions. Workable, but a wider range scores higher. Aim for four.';
+    } else {
+      v.style.background='#eef8f3'; v.style.color='#0f7a55';
+      v.textContent='Four questions, four different formats. This is the wide range the top band asks for.';
+    }
+  }
+  checkDup();
+
+  /* ---- strand explorer ---- */
+  var STRANDS=[
+    {id:1,ao:'AO3',name:'Media language',short:'Strand 1',
+     bands:[
+      ['9–10','Sophisticated','Sophisticated use of media language, insightful engagement with the audience. Entirely convincing as a film opening or magazine.'],
+      ['7–8','Effective','Effective use of media language, appropriate engagement. Targets the audience effectively and is effective in convincing.'],
+      ['5–6','Clear','Clear use of media language, some engagement. Targets the audience appropriately and is mostly convincing.'],
+      ['3–4','Limited','Limited use of media language, general engagement. Simply targets an audience, generally appropriate.'],
+      ['1–2','Basic','Basic use, minimal engagement. May lack relevance as a film opening or magazine.']]},
+    {id:2,ao:'AO3',name:'Technical skills',short:'Strand 2',
+     bands:[
+      ['9–10','Sophisticated','Production is sophisticated and highly appropriate, accurately following or knowingly subverting genre codes. Finished to a high standard.'],
+      ['7–8','Effective','Effective, effectively following or subverting codes. Mostly finished to a high standard.'],
+      ['5–6','Clear','Appropriate, mostly following or subverting codes. Sometimes finished to a high standard.'],
+      ['3–4','Limited','Limited, following or subverting codes with limited success. Production is complete.'],
+      ['1–2','Basic','Basic, minimal understanding of codes. Production may not be complete.']]},
+    {id:3,ao:'AO3',name:'Research and planning',short:'Strand 3',
+     bands:[
+      ['9–10','Sophisticated','Sophisticated research into professional products. Varied and detailed planning fully meeting the brief. Insightful understanding of the key concepts.'],
+      ['7–8','Thorough','Thorough research, effective planning appropriate to the brief, thorough implementation.'],
+      ['5–6','Clear','Clear research, appropriate planning meeting the brief, clear understanding.'],
+      ['3–4','Limited','Limited research, generally appropriate planning meeting some requirements.'],
+      ['1–2','Basic','Basic research, limited planning meeting few requirements.']]},
+    {id:4,ao:'AO3',name:'Reflection skills',short:'Strand 4',
+     bands:[
+      ['9–10','Sophisticated','Sophisticated technical skills throughout, with a wide range of creative approaches, sophisticatedly engaging the audience.'],
+      ['7–8','Effective','Effective technical skills throughout, with a range of creative approaches.'],
+      ['5–6','Clear','Clear technical skills, with more than one creative approach, mostly engaging.'],
+      ['3–4','Limited','Limited technical skills, often only one creative approach.'],
+      ['1–2','Basic','Basic technical skills, only one creative approach, limited appeal.']]},
+    {id:5,ao:'AO2',name:'Evaluation',short:'Strand 5',
+     bands:[
+      ['9–10','Sophisticated','Sophisticated understanding of how meaning is created. Insightful critical comment on your own successes, fully supported with a wide range of examples. Sophisticated engagement with all four questions.'],
+      ['7–8','Thorough','Thorough understanding, appropriate critical comment effectively supported. Thorough engagement with all four questions.'],
+      ['5–6','Clear','Clear understanding, appropriate comment supported with examples. Clear engagement with all four questions.'],
+      ['3–4','Limited','Limited understanding, limited examples, uneven coverage of the questions.'],
+      ['1–2','Basic','Minimal understanding, basic or obvious comment, uneven coverage likely.']]}
+  ];
+  var chips=document.getElementById('chips'), bands=document.getElementById('bands'), cur=0;
+  STRANDS.forEach(function(s,i){
+    var b=document.createElement('button');
+    b.className='chip'+(i===0?' on':'');
+    b.innerHTML=s.short+' · '+s.name+' <span style="opacity:.6;font-weight:400">'+s.ao+'</span>';
+    b.addEventListener('click',function(){
+      cur=i;
+      chips.querySelectorAll('.chip').forEach(function(c,j){ c.classList.toggle('on',j===i); });
+      render();
+    });
+    chips.appendChild(b);
+  });
+  function render(){
+    var s=STRANDS[cur];
+    bands.innerHTML='';
+    s.bands.forEach(function(b,i){
+      var d=document.createElement('div');
+      d.className='band'+(i===0?' top':'');
+      d.innerHTML='<div><div class="band-m">'+b[0]+'</div><div class="band-w">'+b[1]+'</div></div><div class="band-d">'+b[2]+'</div>';
+      bands.appendChild(d);
+    });
+  }
+  render();
+
+  /* ---- toc scrollspy ---- */
+  var links=document.querySelectorAll('.toc a');
+  var secs=Array.prototype.map.call(links,function(a){ return document.querySelector(a.getAttribute('href')); });
+  function spy(){
+    var y=window.scrollY+120, best=0;
+    secs.forEach(function(s,i){ if(s && s.offsetTop<=y) best=i; });
+    links.forEach(function(a,i){ a.classList.toggle('on',i===best); });
+  }
+  window.addEventListener('scroll',spy,{passive:true}); spy();
+
+  /* ---- reset ---- */
+  document.getElementById('reset').addEventListener('click',function(){
+    if(!confirm('Clear every tick and format choice on this page?')) return;
+    st={}; save();
+    document.querySelectorAll('.check li').forEach(function(li){ li.classList.remove('done'); });
+    sels.forEach(function(s){ s.value=''; });
+    ['posts','plan','sub'].forEach(function(id){
+      var bar=document.getElementById(id+'Bar'); if(bar) bar.style.width='0%';
+    });
+    document.getElementById('postsLab').textContent='0 of 7 complete';
+    document.getElementById('planLab').textContent='0 of 6 complete';
+    document.getElementById('subLab').textContent='0 of 5 complete';
+    checkDup();
+  });
+})();
+</script>
+</body>
+</html>
