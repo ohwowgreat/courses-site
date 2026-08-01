@@ -1521,7 +1521,16 @@ try {
 } catch {
   /* library-images.mjs not run yet — gallery shows the heroes only */
 }
-await writeFile(join(OUT, "library.md"), libraryMarkdown(credits, libCredits))
+// Era / medium / movement per plate, for the filter rows. Regenerate with
+// `node taxonomy.mjs` after a new batch of plates; until every plate is in it the
+// gallery falls back to the unfiltered wall rather than hiding the new ones.
+let taxonomy = {}
+try {
+  taxonomy = JSON.parse(await readFile(join(import.meta.dirname, "library-taxonomy.json"), "utf8"))
+} catch {
+  /* taxonomy.mjs not run yet — gallery shows one ungrouped wall */
+}
+await writeFile(join(OUT, "library.md"), libraryMarkdown(credits, libCredits, taxonomy))
 written.add("library.md")
 
 // Inject a structured course map into each overview, replacing the old inline

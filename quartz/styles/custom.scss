@@ -131,6 +131,100 @@ h6 {
   }
 }
 
+// ── Image-library filters ────────────────────────────────────────────────────
+// Three rows of chips over the plate wall — era, medium, movement — driven by
+// hidden radios and <label>s, so filtering costs no JavaScript and survives an SPA
+// navigation. The rules that do the filtering are generated into the page by
+// gallery.mjs, because they name every value in the vocabulary and that vocabulary
+// lives in taxonomy.mjs; everything vocabulary-independent is here.
+
+.gal-r {
+  display: none;
+}
+.gal-filters {
+  margin: 1.6rem 0 0.6rem;
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  background: var(--light);
+}
+.gal-row {
+  display: flex;
+  align-items: baseline;
+  gap: 0.7rem;
+
+  & + & {
+    margin-top: 0.5rem;
+    padding-top: 0.5rem;
+    border-top: 1px solid color-mix(in srgb, var(--lightgray) 55%, transparent);
+  }
+}
+// Fixed, so the three rows of chips start on one line down the left edge.
+.gal-row-name {
+  flex: 0 0 4.4rem;
+  font-size: 0.66rem;
+  font-weight: 650;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--gray);
+}
+.gal-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+}
+.gal-chip {
+  cursor: pointer;
+  user-select: none;
+  font-size: 0.74rem;
+  line-height: 1.35;
+  padding: 0.16rem 0.6rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 11px;
+  color: var(--darkgray);
+  background: var(--light);
+  transition:
+    border-color 0.12s ease,
+    color 0.12s ease;
+
+  // The count inherits the chip's colour rather than setting its own — the
+  // selected chip inverts, and a fixed grey would go unreadable against it.
+  i {
+    font-style: normal;
+    font-size: 0.68rem;
+    opacity: 0.62;
+  }
+
+  &:hover {
+    border-color: var(--secondary);
+    color: var(--secondary);
+  }
+}
+// Reachable by keyboard: the radio is hidden, so the ring has to be drawn here.
+.gal-r:focus-visible + .gal-filters .gal-chip,
+.gal-chip:focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: 1px;
+}
+.gal-empty {
+  margin: 2.2rem 0 3rem;
+  font-size: 0.9rem;
+  font-style: italic;
+  color: var(--gray);
+}
+
+// Narrow: the axis label sits above its own row of chips rather than stealing a
+// quarter of the width from them.
+@media all and (max-width: 600px) {
+  .gal-row {
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+  .gal-row-name {
+    flex: none;
+  }
+}
+
 // A cited (not shown) in-copyright work: a compact, image-free line in a lesson.
 .cite {
   margin: 1.4rem 0;
