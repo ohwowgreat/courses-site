@@ -688,8 +688,13 @@ blockquote.callout {
 .cal-paged .cal-month {
   display: none;
 }
-@for $i from 0 through 7 {
-  .cal-paged #cal-m#{$i}:checked ~ .cal-month[data-m="#{$i}"] {
+// Positional, not id-based: a hover popover injects a whole second copy of a calendar
+// page into this document and namespaces every id it brings, so `#cal-m0:checked` would
+// never match inside a preview and the previewed grid would sit there empty. The radios
+// are the only <input>s under .cal and the months the only <div>s, so :nth-of-type pairs
+// the two runs 1:1.
+@for $i from 1 through 8 {
+  .cal-paged .cal-radio:nth-of-type(#{$i}):checked ~ .cal-month:nth-of-type(#{$i}) {
     display: block;
   }
 }

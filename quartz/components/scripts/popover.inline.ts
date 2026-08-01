@@ -91,10 +91,21 @@ async function mouseEnterHandler(
       const contents = await response.text()
       const html = p.parseFromString(contents, "text/html")
       normalizeRelativeURLs(html, targetUrl)
-      // prepend all IDs inside popovers to prevent duplicates
+      // A popover is a second copy of a page living inside the live document, so every
+      // name the browser scopes document-wide collides with the page behind it. IDs were
+      // already namespaced; `for` and control `name`s have to follow them or the copy
+      // reaches back into the real page — a preview's <label> would drive the page's
+      // input, and a checked radio in the copy joins the page's radio group and silently
+      // unchecks the real one (which is what emptied the paged month calendars).
+      const ns = (v: string) => `popover-internal-${v}`
       html.querySelectorAll("[id]").forEach((el) => {
-        const targetID = `popover-internal-${el.id}`
-        el.id = targetID
+        el.id = ns(el.id)
+      })
+      html.querySelectorAll("label[for]").forEach((el) => {
+        el.setAttribute("for", ns(el.getAttribute("for")!))
+      })
+      html.querySelectorAll("input[name], select[name], textarea[name]").forEach((el) => {
+        el.setAttribute("name", ns(el.getAttribute("name")!))
       })
       const elts = [...html.getElementsByClassName("popover-hint")]
       if (elts.length === 0) return
