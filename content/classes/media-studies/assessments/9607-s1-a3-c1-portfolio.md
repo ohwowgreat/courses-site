@@ -7,7 +7,7 @@ related:
   - "[[concepts/production-craft]]"
   - "[[concepts/process-evidence-and-reflection]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-30
+modified: 2026-07-31
 ---
 # Media Studies · S1 A3: Component 1 Portfolio
 
@@ -44,7 +44,7 @@ This assessment asks you to show that you can:
 
 ## The task
 
-A3 is the whole of Component 1. You submit three things together:
+A3 is the whole of Component 1. Three things are submitted together:
 
 **1. The product.** Your finished film opening or magazine, exported and playable, in the genre you registered.
 
@@ -61,7 +61,7 @@ A3 is the whole of Component 1. You submit three things together:
 3. **Fri 11-27: submission.** Final checks against the checklist, URLs and files logged on the submission sheet, confirmation shown on screen per group.
 4. **No edits after.** This is absolute. Friday is logistics, not heroics.
 
-**Run this at the close of the Wednesday session**, not on Friday morning. Friday is logistics, not heroics.
+**Run this at the close of the Wednesday session**, not on Friday morning.
 
 - [ ] <span class="ct">Product exported and playable<span class="ct-sub">Open it on a different machine than the one you edited on</span></span>
 - [ ] <span class="ct">Reflection posted, in its creative format<span class="ct-sub">All four questions, embedded and working</span></span>
@@ -108,7 +108,7 @@ Marks are curved under [[shared/bnds-assessment-framework|the BNDS framework]] r
 
 ## After the sit
 
-- **Returned Tue 2026-12-01.** You band your own portfolio against these criteria before any mark is discussed. The conversation is about the gap between your band and the mark, not about the mark.
+- **Returned Tue 2026-12-01**, and the protocol is fixed: **you band your own portfolio against these criteria before any mark is discussed.** The conversation is about the gap between your band and the mark, not about the mark.
 - You then write **one production target**: specific, evidenced from the feedback, achievable in Semester 2. "Hold focus in low light" beats "get better at filming". It is logged as LB4 and collected on in S2.
 - The next assessment, [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]], sits Wed 2026-12-16.
 
@@ -121,3 +121,4 @@ Marks are curved under [[shared/bnds-assessment-framework|the BNDS framework]] r
 | The **Mon 11-02 screening and Tue 11-03 audit** | Real audience testimony on your product, and the pickup list from it |
 | Wednesday's **submission checklist** | Run it yourself before Wednesday, so surgery time goes on the CCR rather than on admin |
 | The four CCR questions | Coverage of all four is what strand 5's top bands require |
+| **Cambridge's Level 3 exemplar** | What a mid-band portfolio actually looks like, and the three reasons it stopped there |

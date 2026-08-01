@@ -7,7 +7,7 @@ related:
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission]]"
   - "[[classes/media-studies/9607-resource-library]]"
   - "[[concepts/process-evidence-and-reflection]]"
-modified: 2026-07-26
+modified: 2026-07-31
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/rivera-self-portrait.jpg" alt="Diego Rivera, Self-Portrait, 1907 — the maker examining himself" loading="lazy" />

@@ -9,7 +9,7 @@ related:
   - "[[concepts/the-viewing-protocol]]"
   - "[[concepts/process-evidence-and-reflection]]"
   - "[[entities/roland-barthes]]"
-modified: 2026-07-26
+modified: 2026-07-31
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/wanderer.jpg" alt="Caspar David Friedrich, Wanderer Above the Sea of Fog, 1818 — who is he? what does he see? the enigma code at work" loading="lazy" />

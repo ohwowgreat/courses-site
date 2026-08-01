@@ -8,51 +8,60 @@ related:
   - "[[entities/marshall-mcluhan]]"
   - "[[entities/neil-postman]]"
   - "[[classes/media-studies/unit-plans/9607-course-map]]"
-modified: 2026-07-20
+  - "[[classes/media-studies/9607-resource-library]]"
+modified: 2026-07-31
 ---
 # Media Ecology
 
-This is compulsory A Level content. In the syllabus you sit (2028–30), the topic is called **Changing media environments**. It is examined as a synoptic question; the exact exam format will be confirmed in class. See [[classes/media-studies/media-studies|Media Studies]].
+This is a compulsory A Level topic — the only Component 4 topic with no choice attached. It is examined in Component 4 Section B: one 30-mark synoptic question, which is half the paper.
+
+In the 2028–30 syllabus that G12 sits, this topic is renamed **Changing media environments**. The content carries over. See [[classes/media-studies/media-studies|Media Studies]].
 
 ## The syllabus definition
 
 > "Media ecology refers to the complex environments within which media texts, producers, distributors, technologies and audiences exist. It is a way of conceiving the structure of these environments, their content, and impact on people."
 
-## What "synoptic" means here
+## What "synoptic" means
 
-The exam requires you to:
+Section B is synoptic. You synthesise your knowledge of the four key concepts — language, representation, industry and audience — studied across the whole course, and apply it to contemporary examples from **at least two media forms** to explore evolving media environments.
 
-> "synthesise their knowledge and understanding of the key concepts of language, representation, industry and audience, studied throughout the course. Candidates are expected to adapt and apply this knowledge and understanding to contemporary examples from **at least two media forms** in order to explore evolving media environments."
+> [!important] The two-media-form requirement
+> This is the hardest constraint in Component 4. Studying one media *area* at AS does not satisfy it — see [[concepts/case-study-method|Case Study Method]].
 
-The two-media-form requirement is the hardest constraint in this component: you must draw on **at least two media forms**. Per [[concepts/case-study-method|Case Study Method]], studying one media *area* at AS does not satisfy it.
+Two learning objectives are unique to this topic: **synthesising** your knowledge of the key concepts, and **adapting and applying** it to a variety of media environments. You can and should draw on examples from other components, particularly those that show changes in power, technology and audience engagement.
 
-You are also expected to draw on examples from other components — "particularly those that illustrate changes in power, technology and audience engagement."
+## How the topic opens
 
-Nothing entirely new is taught here; everything you have already learned is re-aimed at these environments.
-
-## How the topic opens: the media diary
-
-A one-day **media diary** of your own media habits opens this topic. Its attention-economy extension looks at how you use Facebook / X / BlueSky / Snapchat / Instagram.
+The topic opens with a one-day **media diary** of your own media habits (carried over from earlier audience work — see [[concepts/media-audience|Media Audience]]), extended into the attention economy across platforms such as Facebook / X / BlueSky / Snapchat / Instagram.
 
 ## Three eras of audience behaviour
 
-You compare audience behaviour across three periods:
+You compare audience behaviour across three eras:
 
-- **Broadcast era** — to the late 1980s (up to the launch of Sky in the UK)
-- **Early digital era** — late 1980s to early 2000s (to the arrival of Netflix in the UK and the launch of BBC iPlayer)
-- **Contemporary platform era** — 2000s onwards
+- **broadcast era** — to the late 1980s
+- **early digital era** — late 1980s to the early 2000s
+- **contemporary platform era** — 2000s onwards
+
+For the BNDS cohort these map onto a CCTV-dominant broadcast era, a portal/BBS era, and a WeChat/Bilibili/Douyin platform era.
 
 ## Four focus areas
 
 1. **Audience behaviour** — engagement with evolving environments; changing modes of reception; changes to audiences' perception of knowledge, truth and reality; fan and "prosumer" culture
 2. **Economics of media** — ownership and distribution models; funding models; globalisation and the responses of audiences and institutions
 3. **Ethics** — platform responsibility for what is "published"; technological change including data collection and protection; public and private personae
-4. **Technological convergence** — old/new media blurring; personal + mass communication convergence; software/hardware/audience relationships; impact on media language, codes and conventions
+4. **Technological convergence** — old/new media blurring; personal and mass communication convergence; software/hardware/audience relationships; impact on media language, codes and conventions
 
-Each focus-area activity closes with links to the Section A topics. For example, Audience behaviour links to: "Power: Audience agency versus institutional control; Postmodern Media: Hyperreality and fragmented identity; Regulation: Challenges in moderating user-generated content."
+## The 30-mark question
 
-## Resources
+The mark scheme is **AO1 18 / AO2 12**, five criteria at 6 marks each — the same shape as elsewhere in 9607.
 
-- Nielsen Norman Group (attention economy)
-- Pew Research Centre
-- Ofcom Online Nation Report
+A worked example of a Section B question is in the [[classes/media-studies/9607-resource-library|Resource Library]]:
+
+> "Explain how changes in technology and audience behaviour have had an impact on how the media is funded" [30]
+
+What separates a high answer from a middle one:
+
+- **The high answer is periodized** — legacy advertising/licence-fee funding, then fragmentation, then subscription and surveillance models, each anchored to a concrete case, with a clear "then versus now" comparison.
+- **The middle answer is a list of companies** — real material, but it treats funding only as a business question and ignores political, social and cultural factors. Funding here is a media-environment question.
+
+Strong answers use named theory (for example Hesmondhalgh, Zuboff, boyd, Pariser, Shirky, Gauntlett, Doctorow, Lanier), even though the syllabus itself names no theorists for this topic. **AI is now live material** here — SAG-AFTRA, training-data rights, audience backlash to AI imagery, Netflix using AI in production.

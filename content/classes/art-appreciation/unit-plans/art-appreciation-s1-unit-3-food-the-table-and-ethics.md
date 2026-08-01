@@ -56,6 +56,7 @@ Ready-made documents support seven of this unit's activities — vocabulary, pla
 
 
 <p class="handouts"><strong>Handouts (PDF):</strong> <a href="../../../static/handouts/art-appreciation/eat-drink-man-woman.pdf">Eat Drink Man Woman</a> · <a href="../../../static/handouts/art-appreciation/heda-and-still-life.pdf">Heda and Still Life</a> · <a href="../../../static/handouts/art-appreciation/the-shared-meal.pdf">The Shared Meal</a> · <a href="../../../static/handouts/art-appreciation/the-moral-image-of-work.pdf">The Moral Image of Work</a> · <a href="../../../static/handouts/art-appreciation/martha-rosler-intro.pdf">Martha Rosler Intro</a> · <a href="../../../static/handouts/art-appreciation/semiotics-of-the-kitchen.pdf">Semiotics of the Kitchen</a> · <a href="../../../static/handouts/art-appreciation/hyperreality-and-paratheatre.pdf">Hyperreality + Paratheatre</a> · <a href="../../../static/handouts/art-appreciation/lunch-and-discussion.pdf">Lunch and discussion</a> · <a href="../../../static/handouts/art-appreciation/culinary-aesthetics.pdf">Culinary Aesthetics</a></p>
+
 > [!note] Screening format
 > *Eat Drink Man Woman* runs 123 minutes and is viewed in class or split across sessions. Three questions carry across the split: how food works as communication; what moral meanings attach to cooking; and how eating together both unites and divides.
 
