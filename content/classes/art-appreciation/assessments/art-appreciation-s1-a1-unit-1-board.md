@@ -5,7 +5,7 @@ related:
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-03-the-first-board]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-1-origins-and-ancestral-memory]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-30
+modified: 2026-08-02
 ---
 # Art Appreciation · S1 A1: The Unit 1 Board
 

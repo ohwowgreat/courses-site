@@ -6,7 +6,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory]]"
   - "[[classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-30
+modified: 2026-08-02
 ---
 # Art Appreciation · S1 A2: The Titian and Manet Comparison
 

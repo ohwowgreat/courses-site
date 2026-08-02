@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-05-recording-pages-and-a1]]"
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-30
+modified: 2026-08-02
 ---
 # A Level Art & Design · S1 A1: Recording Milestone
 

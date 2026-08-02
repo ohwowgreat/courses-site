@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-09-artist-2-bridge-piece-and-a2]]"
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-30
+modified: 2026-08-02
 ---
 # A Level Art & Design · S1 A2: Exploration and Artist Study
 

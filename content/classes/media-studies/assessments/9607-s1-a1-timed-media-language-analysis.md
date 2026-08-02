@@ -9,7 +9,7 @@ related:
   - "[[concepts/media-language]]"
   - "[[concepts/technical-elements]]"
   - "[[concepts/the-viewing-protocol]]"
-modified: 2026-07-30
+modified: 2026-08-02
 ---
 # Media Studies · S1 A1: Timed Media Language Analysis
 

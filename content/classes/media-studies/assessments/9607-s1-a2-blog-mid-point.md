@@ -7,7 +7,7 @@ related:
   - "[[classes/media-studies/assessments/9607-s1-a3-c1-portfolio]]"
   - "[[concepts/process-evidence-and-reflection]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-30
+modified: 2026-08-02
 ---
 # Media Studies · S1 A2: Blog Mid-Point
 

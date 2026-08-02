@@ -8,7 +8,7 @@ related:
   - "[[classes/media-studies/9607-resource-library]]"
   - "[[concepts/the-viewing-protocol]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-30
+modified: 2026-08-02
 ---
 # Media Studies · S1 A4: Section A in Authentic Format
 

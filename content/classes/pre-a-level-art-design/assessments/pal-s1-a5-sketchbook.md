@@ -6,7 +6,7 @@ related:
   - "[[classes/pre-a-level-art-design/assessments/pal-s1-eot-semester-portfolio]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-01-introduction-the-sketchbook-and-first-marks]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-30
+modified: 2026-08-02
 ---
 # Pre A Level Art & Design · S1 A5: The Sketchbook
 

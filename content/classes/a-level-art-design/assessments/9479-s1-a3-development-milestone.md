@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-13-final-plan-and-a3]]"
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-4-development]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-30
+modified: 2026-08-02
 ---
 # A Level Art & Design · S1 A3: Development Milestone
 

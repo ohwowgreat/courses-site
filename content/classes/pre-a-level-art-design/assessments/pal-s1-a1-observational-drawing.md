@@ -5,7 +5,7 @@ related:
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-30
+modified: 2026-08-02
 ---
 # Pre A Level Art & Design · S1 A1: Final Observational Drawing
 

@@ -7,7 +7,7 @@ related:
   - "[[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-30
+modified: 2026-08-02
 ---
 # Media Studies · S1 End of Term: Component 2 Paper
 

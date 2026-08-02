@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s1-a4-final-portfolio]]"
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-5-final-outcome-and-portfolio]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-30
+modified: 2026-08-02
 ---
 # A Level Art & Design · S1 The Final
 

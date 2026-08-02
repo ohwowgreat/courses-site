@@ -7,7 +7,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-5-final-outcome-and-portfolio]]"
   - "[[classes/a-level-art-design/9479-c3-winter-brief]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-30
+modified: 2026-08-02
 ---
 # A Level Art & Design · S1 A4: Final Portfolio
 

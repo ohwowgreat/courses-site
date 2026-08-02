@@ -7,7 +7,7 @@ related:
   - "[[classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board]]"
   - "[[classes/art-appreciation/assessments/art-appreciation-s1-eot-retrospective]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-30
+modified: 2026-08-02
 ---
 # Art Appreciation · S1 A4: The Unit 4 Synthesis
 

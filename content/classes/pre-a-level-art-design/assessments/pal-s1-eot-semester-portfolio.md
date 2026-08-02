@@ -5,7 +5,7 @@ related:
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-17-the-portfolio-and-the-sketchbook]]"
   - "[[classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-30
+modified: 2026-08-02
 ---
 # Pre A Level Art & Design · S1 End of Term: Semester Portfolio
 

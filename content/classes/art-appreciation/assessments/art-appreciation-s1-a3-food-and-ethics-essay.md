@@ -6,7 +6,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics]]"
   - "[[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-30
+modified: 2026-08-02
 ---
 # Art Appreciation · S1 A3: The Food and Ethics Essay
 
