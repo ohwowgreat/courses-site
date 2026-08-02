@@ -1190,6 +1190,9 @@ function cleanFrontmatter(fm, publishedTargets) {
   let inSources = false
   for (const line of lines) {
     if (/^tags:/.test(line)) continue
+    // Marking-queue keys on the assessment pages (assessment/due/returned) are
+    // teacher workflow, not student content. Added vault-side 2026-08-02.
+    if (/^(assessment|due|returned):/.test(line)) continue
     if (/^sources:/.test(line)) {
       inSources = true
       continue
