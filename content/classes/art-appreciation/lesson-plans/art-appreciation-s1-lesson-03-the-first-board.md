@@ -5,7 +5,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-1-origins-and-ancestral-memory]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-02-what-survives-and-why]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-04-telling-it-without-words]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # Lesson 03: The First Board
 
@@ -78,3 +78,41 @@ Check you can:
 - Describe a **ritual object** by what it does, not only what it depicts.
 - Justify an **adjacency** with a reason that could not be moved to a different pair.
 - Arrange a board so the argument is legible from the layout before anyone reads a word.
+
+## Practice
+
+Try each question before you open its answer. The board is the course in miniature, and this is the first one.
+
+**1.** What separates a board from a mood board?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Reasons. A board without reasons is a mood board, however good it looks. The justification is where the board becomes an argument: every pairing carries a why that you wrote down.
+
+</details>
+
+**2.** Say the adjacency test.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Every adjacency is justified with a reason that could not be moved to a different pair. Test your own: if the sentence explaining why these two sit together would work just as well under two other images, it is not yet a reason. "Both are animals" moves anywhere. "Both put the herd in motion across a wall that curves" does not.
+
+</details>
+
+**3.** Why must the build not start before day four?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because students who begin arranging before they have enough candidates arrange what they have. Selection is only a real decision when there is more than fits. The nightly gathering exists to create that surplus, and the workshop tests pairings before anything is pinned.
+
+</details>
+
+**4.** What must the layout do before anyone reads a word?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Make the argument legible. A stranger at the door should see what goes with what, and roughly why, from the arrangement alone. The writing confirms what the wall already claims. If the wall claims nothing, the writing is carrying a board that did not do its job.
+
+</details>
+
+**5.** A1 marks three things: adjacencies justified with immovable reasons, an argument legible from the layout, and objects described by what they do rather than what they show. Gather candidates thirty minutes a night, more than you can use. The board stays on the wall after Friday, and the rest of the course argues next to it.

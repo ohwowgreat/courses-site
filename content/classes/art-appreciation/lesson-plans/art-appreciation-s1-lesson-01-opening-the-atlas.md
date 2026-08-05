@@ -4,7 +4,7 @@ related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-1-origins-and-ancestral-memory]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-02-what-survives-and-why]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # Lesson 01: Opening the Atlas
 
@@ -77,3 +77,41 @@ Check you can:
 - Say what **Warburg's panels** show about resemblance across time.
 - Describe an image for a full minute without interpreting it once.
 - Name a physical decision in your darkroom reflection instead of a feeling about the result.
+
+## Practice
+
+Try each question before you open its answer. The course's strangest ideas arrive in week one.
+
+**1.** Why is this course arranged by resemblance instead of by date?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because the atlas method, from Warburg's panels, puts images next to each other by what they share, and lets the pairing make an argument. Chronology was not taken away from you. It is simply not the tool here. A date tells you when. A resemblance asks why.
+
+</details>
+
+**2.** What is the describe drill, and what counts as breaking it?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Describing an image for a full minute without interpreting it once. Interpreting is any word about meaning or feeling: sad, powerful, about loneliness. Describing stays with what is there: a figure, a light source, an edge. Looking runs out of easy things after twenty seconds. The drill is for what comes after that.
+
+</details>
+
+**3.** What did the darkroom prove about an image?
+
+<details class="reveal"><summary>Show answer</summary>
+
+That a photograph is a thing light did to a surface: a physical trace, not a screen. The print in your hand exists because light touched paper. Hold onto that distinction. It carries a whole unit in December.
+
+</details>
+
+**4.** What was CS1 marked on?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Naming a physical decision rather than a feeling about the result. "I placed the object off-center so its shadow crossed the edge" is a decision. "I like how it came out" is a feeling. The course grades the first kind of sentence all semester.
+
+</details>
+
+**5.** Replay the looking drill at home: any image, title covered, ten minutes of silence, then two minutes of written description. Then ask what minute nine saw that minute one missed. That gap is the whole point of the method.

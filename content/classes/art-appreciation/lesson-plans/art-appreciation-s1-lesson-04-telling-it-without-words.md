@@ -5,7 +5,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-03-the-first-board]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # Lesson 04: Telling It Without Words
 
@@ -91,3 +91,41 @@ Check you can:
 - Explain how myth works as shared shorthand, and what happens when the audience does not know it.
 - Read a cycle across panels rather than inside one.
 - Make ten frames a stranger can read in the right order with no captions and no dialogue.
+
+## Practice
+
+Try each question before you open its answer. Eight days of vocabulary, and then you make the thing.
+
+**1.** Recite the critique flow, and say why the order matters.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Describe, account, judge. In that order, always. Describing first stops the judgment from arriving before the looking. Accounting, saying why the image is the way it is, earns the right to judge. A judgment without the first two steps is just a preference with confidence.
+
+</details>
+
+**2.** What does a narrative image have to solve, and what is the skill?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Where to put time. A still image gets one moment, and the story needs more than one. The skill is pointing at the exact place time hides: the part of the picture that implies what came before or what comes next. Find it, point at it, say how it works.
+
+</details>
+
+**3.** What is the allegory rule?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Separate what is shown from what it stands in for, without collapsing one into the other. Collapsing is reading the skull only as death and forgetting it is also a skull, painted. Both layers stay live: the thing, and what it carries. Lose either and the allegory stops working.
+
+</details>
+
+**4.** What is the test of the ten-frame storyboard?
+
+<details class="reveal"><summary>Show answer</summary>
+
+A stranger can read it in the right order with no captions and no dialogue. The swap on day seven is the test run: if your reader stalls at frame six, frame six is the problem, whatever you meant by it.
+
+</details>
+
+**5.** The storyboard is practice for A2, and the link is invisible unless said: both are about reading what a picture decided. Over the break, the sequence takes three to four hours and no more. A2 sits Tue 10-13.

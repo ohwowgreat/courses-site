@@ -5,7 +5,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-08-heda-and-the-image-of-work]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-10-berger-and-the-reproduction]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # Lesson 09: Food, the Table and Ethics
 
@@ -79,3 +79,41 @@ Check you can:
 - Explain how *Semiotics of the Kitchen* turns a kitchen into an alphabet of rage.
 - Define hyperreality and say what a food image is for when nobody intends to eat.
 - Argue one claim about food and ethics from the pictures themselves, not from the ethics.
+
+## Practice
+
+Try each question before you open its answer. Three artists, each doing something the paintings could not.
+
+**1.** What changes when Cassatt's interior is read as a workplace?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Domestic labor becomes labor. The room's furniture becomes equipment, the routines become shifts, and the woman in the picture is working, not posing. The reading does not add anything to the painting. It stops subtracting something that was always there.
+
+</details>
+
+**2.** Why is Rosler shown twice in a row?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because it lands on the second viewing. The first pass reads as strange comedy: a cooking show gone wrong. The second, with the surprise spent, shows the system: a kitchen turning into an alphabet of rage, one utensil at a time. Some works are built for the second look, and this course keeps giving it.
+
+</details>
+
+**3.** What does the Weems series prove that one image could not?
+
+<details class="reveal"><summary>Show answer</summary>
+
+One image from the Kitchen Table series is a portrait. Six in sequence are an argument. The table never moves, and its sameness is the instrument: everything that changes around it becomes visible because it does not. This is the board logic again, made by one artist at one table.
+
+</details>
+
+**4.** Say the A3 rule.
+
+<details class="reveal"><summary>Show answer</summary>
+
+One claim about food and ethics, argued from the pictures themselves, not from the ethics. The ethics arrives through the evidence: what the pictures show about who is fed and who serves. An essay that starts from the moral and decorates it with pictures has the arrow pointing the wrong way.
+
+</details>
+
+**5.** Carry Friday's question into the next unit: what is a food image for when nobody intends to eat? Your feed is full of the answer. Unit 4 hands the question to Berger, and the reproduction argument starts there.

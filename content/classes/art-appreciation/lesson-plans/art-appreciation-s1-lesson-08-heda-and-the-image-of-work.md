@@ -5,7 +5,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-07-the-split-weeks]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-09-food-the-table-and-ethics]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # Lesson 08: Heda and the Image of Work
 
@@ -86,3 +86,41 @@ Check you can:
 - Follow food along the length of the Qingming scroll.
 - Explain the moral image of work: when work became worth painting, and for whom.
 - Write one paragraph in which every adjective is earned.
+
+## Practice
+
+Try each question before you open its answer. One painting looked at twice, then a fortnight of tables.
+
+**1.** What does it mean to read a still life as an inventory?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Name every object and who owns it, before you say anything about the arrangement. The tipped silver, the half-peeled lemon, the imported glass: each is a possession, and the painting is also a list of what somebody could afford. The composition comes second, because the inventory is what the composition is arranging.
+
+</details>
+
+**2.** Why does Heda get two days in a row?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because day two sees what day one could not. The first look spends itself on recognizing things. The second, with nothing new to recognize, has to look harder. The complaint at the start of day two is part of the design, and so is what happens ten minutes after it.
+
+</details>
+
+**3.** What is the Leonardo question?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Find the moment Leonardo chose, and say why that one and not the one before it. A narrative painter gets one instant of the story. Seeing the choice as a choice, rather than the only option, is the skill, and it is the storyboard problem from Unit 2 at the scale of a masterpiece.
+
+</details>
+
+**4.** Say the rule of the Heda paragraph.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Every adjective is earned. An adjective is earned when the picture forces it: "the lemon's peel hangs in one unbroken spiral" earns its words. "The beautiful, masterful still life" earns none of them. Friday's swap cuts one unearned adjective from someone else's paragraph, and yours gets the same treatment.
+
+</details>
+
+**5.** Run the inventory move once at home: any advertisement with a table in it. Name every object and who it says you could be if you owned it. The move transfers, which is why a Dutch merchant's lunch can teach you to read a lifestyle ad.

@@ -5,7 +5,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-5-semester-close-and-retrospective]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-15-return]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # Lesson 14: The Retrospective
 
@@ -75,3 +75,41 @@ Check you can:
 - Defend your three works to someone who chose differently without just conceding.
 - Build a **constellation retrospective** where the argument lives in the layout.
 - Name the question you want Semester 2 to answer.
+
+## Practice
+
+Read these before the week begins. The semester reads back as one argument, and you build it.
+
+**1.** Day one is inventory and nothing else. Why is arranging banned?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because once you begin arranging you stop seeing. The first pairing you commit to starts recruiting evidence for itself, and everything you have not looked at yet becomes background. Thirty-five minutes of pure looking at your own semester is the last data-gathering of the year. Spend it looking.
+
+</details>
+
+**2.** What is the defense drill on day two?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Your three works from the break, defended to someone who chose differently, who does not just concede. Polite agreement teaches nothing. The partner's job is to hold their choices against yours, and yours is to argue the change each work made in how you see, with the work in front of you both.
+
+</details>
+
+**3.** What should be different about this third constellation?
+
+<details class="reveal"><summary>Show answer</summary>
+
+This is the one where the method finally looks like a method rather than a rule. The first board obeyed instructions. This one thinks in adjacencies because you do now. The Unit 1 boards are on the wall as the measure, and the distance between September and January should be legible from the door.
+
+</details>
+
+**4.** State the retrospective's standard, and its weight.
+
+<details class="reveal"><summary>Show answer</summary>
+
+A semester of looking shown as one argument, with the argument in the layout. It is the End of Term category, twenty percent. Everything you made all term is available material, and the question is no longer "what goes together" but "what did this semester find out."
+
+</details>
+
+**5.** Before Monday: reread your own Unit 1 justification once. Not to admire it. To notice what you would never write now. That noticing is the retrospective's real content, and you are the only person who can supply it.

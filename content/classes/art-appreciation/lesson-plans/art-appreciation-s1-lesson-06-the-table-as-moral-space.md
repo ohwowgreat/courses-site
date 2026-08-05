@@ -5,7 +5,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-07-the-split-weeks]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # Lesson 06: The Table as Moral Space
 
@@ -74,3 +74,41 @@ Check you can:
 - Read the table as a site of enforcement, not just a setting.
 - Read one meal as an argument nobody can make aloud, and name what the argument is about.
 - Say who is fed, who serves, and who is not in the picture.
+
+## Practice
+
+Try each question before you open its answer. The unit's frame fits in one sentence, and it is the first question.
+
+**1.** What is the table, in this unit?
+
+<details class="reveal"><summary>Show answer</summary>
+
+A site of enforcement, not a setting. The table is where rules become visible: who sits where, who is served first, who serves, who may speak. A meal is never just food, because the seating chart is doing work before anyone eats.
+
+</details>
+
+**2.** Why does a unit about paintings open with a film?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because the table is easier to see when it is moving. Ang Lee's cooking scenes make the structure visible in real time: everything the family cannot say is said through food. Once you have seen it move, you can find the same structure frozen in a painting.
+
+</details>
+
+**3.** What is the meal-reading move?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Read one meal as an argument the characters cannot make aloud, and name what the argument is about. Who cooked for whom, what was refused, what was offered twice. The written reading points at moments in the sequence the way an essay points at passages in a picture.
+
+</details>
+
+**4.** Say the seminar's three questions.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Who is fed. Who serves. Who is not in the picture. The third is the quiet one, and it carries the class dimension: every image of a table is also an image of the people it left out.
+
+</details>
+
+**5.** Run the method on a real meal this week: one family dinner or one canteen lunch, read with the three questions. Nothing is handed in. The point is that the method works everywhere, which is what makes it a method.

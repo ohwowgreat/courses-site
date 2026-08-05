@@ -5,7 +5,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # Lesson 12: Photography and After
 
@@ -83,3 +83,41 @@ Check you can:
 - Test Greenberg's split between avant-garde and kitsch, and find where it stops holding.
 - Explain what a poor image gains through circulation and what it loses in quality.
 - Build a constellation that argues across the whole unit.
+
+## Practice
+
+Try each question before you open its answer. The unit closes by asking what the whole semester planted.
+
+**1.** Why do we believe photographs?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because a photograph is a physical trace: light really did touch a surface, which is what the darkroom proved in week one. The course planted that fact in September so that December could ask the harder half: whether the trace deserves the belief, given everything a photograph chooses, frames, and leaves out.
+
+</details>
+
+**2.** What is Sontag's charge?
+
+<details class="reveal"><summary>Show answer</summary>
+
+That photographing is an act on the world, not a neutral recording of it. To photograph something is to do something to it: to claim it, to hold it still, to take it. The charge is taken seriously rather than agreed with, and your position needs evidence either way.
+
+</details>
+
+**3.** What do you do with Greenberg's line?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Test it and find the place it stops holding, rather than agreeing with it. Avant-garde and kitsch is a sharp division, and sharp divisions are instruments: useful exactly until the case that will not sort. Finding that case is the assignment. Reciting the division is not.
+
+</details>
+
+**4.** What is A4's standard?
+
+<details class="reveal"><summary>Show answer</summary>
+
+A constellation that argues across the whole unit, not a selection of favorites. And visibly better than your first board, which is why the Unit 1 boards come back onto the wall: the September version of you is the comparison, and the improvement should be legible from across the room.
+
+</details>
+
+**5.** A4 is the last submission of the semester, placed well before the late-work cutoff, which means nothing about it can be handed in late. Prepare the way the course taught: gather more candidates than you need, test adjacencies out loud, and let the layout make the argument before the writing confirms it.

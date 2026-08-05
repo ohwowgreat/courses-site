@@ -4,7 +4,7 @@ related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-5-semester-close-and-retrospective]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-14-the-retrospective]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # Lesson 15: Return
 
@@ -70,3 +70,41 @@ Check you can:
 - Set a Semester 2 goal that is about a **practice** rather than a grade.
 - Act on feedback by making the change in class.
 - Explain **patronage** and **the market** as two ways art gets paid for.
+
+## Practice
+
+Read these before the return days. Nothing here carries weight into the Semester 1 grade, which is exactly why it is worth doing well.
+
+**1.** What is the one-move question?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Name the one move that would have made your strongest piece sharper, without being told it. Not three moves, and not a confession of everything wrong. One, chosen by you, before the feedback conversation. Arriving with it turns eight minutes of feedback into a working session.
+
+</details>
+
+**2.** What separates a practice goal from a grade goal?
+
+<details class="reveal"><summary>Show answer</summary>
+
+A practice goal names something you will do: "describe before judging, every seminar, even when I am sure." A grade goal names something you want to receive. You control the first kind. The second kind is downstream of it, which is why the course only accepts the first.
+
+</details>
+
+**3.** What does acting on feedback in the room look like?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Doing one thing with it before filing it: rewriting the sentence, re-pairing the two images, saying back the point in your own words. Feedback filed unacted is a compliment or an injury, depending on mood. Feedback acted on is teaching.
+
+</details>
+
+**4.** Why does LB9 count toward Semester 2?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because it is posted after the grades deadline, so it cannot count here, and it is said openly so it does not look like a trick. The behavior it watches is the same one as always: taking a position and moving when someone is right.
+
+</details>
+
+**5.** For the trailer: Semester 2 is a genuinely different course. Patronage, the market, and who decides what is worth money. Bring one question you want it to answer, written down. The best goals for the spring start as questions the autumn could not close.

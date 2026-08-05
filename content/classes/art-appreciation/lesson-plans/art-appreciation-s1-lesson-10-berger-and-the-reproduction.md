@@ -5,7 +5,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-09-food-the-table-and-ethics]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # Lesson 10: Berger and the Reproduction
 
@@ -89,3 +89,41 @@ Check you can:
 - Read a reproduction as an object with its own decisions.
 - Write a caption that changes a picture, then write the honest one.
 - Describe the floating world as a market, not a mood.
+
+## Practice
+
+Try each question before you open its answer. Berger's argument is one sentence, and it changes everything after it.
+
+**1.** State Berger's argument flat, and say what your job with it is.
+
+<details class="reveal"><summary>Show answer</summary>
+
+A reproduction is not a neutral copy. Your job is to say what it added: the words around it, the size it arrived at, the crop, the company it keeps on the page or the screen. The painting did not travel alone, and what traveled with it is readable.
+
+</details>
+
+**2.** What is the four-contexts drill?
+
+<details class="reveal"><summary>Show answer</summary>
+
+One painting, four different settings, and you describe precisely what moved. Not "it feels different" but which meaning appeared, which disappeared, and what in the surrounding words or placement did it. The image held still. Everything around it was the variable.
+
+</details>
+
+**3.** Say the seminar's double question.
+
+<details class="reveal"><summary>Show answer</summary>
+
+What did the painting lose, and what did it gain, by becoming reproducible? Both halves are real. The loss is not the whole story, and the gain is not free. An answer that only mourns or only celebrates has done half the reading.
+
+</details>
+
+**4.** What does the caption exercise teach?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Write the caption that changes the picture, then write the honest one. The first proves words steer images. The second proves honesty is also written: the honest caption is still a choice of words, made by someone. There is no caption-free picture once a caption exists.
+
+</details>
+
+**5.** Run the caption pair on one photograph of your own. One caption that makes it lie, one that makes it as true as you can manage. Keep both in your notes. The gap between them is Berger's argument, demonstrated on your own camera roll.

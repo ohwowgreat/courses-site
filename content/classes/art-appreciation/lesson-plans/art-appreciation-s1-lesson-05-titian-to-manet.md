@@ -5,7 +5,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-04-telling-it-without-words]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-06-the-table-as-moral-space]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # Lesson 05: Titian to Manet
 
@@ -87,3 +87,41 @@ Check you can:
 - Argue one claim, evidenced from the pictures rather than the reception.
 - Say who a picture places you next to as its witness, using Gentileschi's *Judith Slaying Holofernes*.
 - Name what Titian's *Venus of Urbino* asks you to accept as natural.
+
+## Practice
+
+Try each question before you open its answer. The comparison is the whole point of the fortnight.
+
+**1.** A list is not a comparison. What is?
+
+<details class="reveal"><summary>Show answer</summary>
+
+One claim about two pictures, built from differences that carry meaning. "Titian's figure looks away and Manet's looks at you" is a list entry. The comparison begins when you say what that difference does, and every difference you cite serves the one claim.
+
+</details>
+
+**2.** What is the refusal drill on Olympia?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Locate the exact refusals Manet makes of Titian, one by one, and say what each costs. Not "it is more modern" but the specific thing offered by the Venus that Olympia declines, and the comfort the viewer loses because of it. The refusal is findable in the paint. Point at it.
+
+</details>
+
+**3.** Where must the essay's evidence come from?
+
+<details class="reveal"><summary>Show answer</summary>
+
+From the pictures, not from the reception. The scandal around Olympia is real and the reading covers it, but the essay's proof is what is on the two canvases. Reception tells you people were shocked. The picture has to show you what shocked them.
+
+</details>
+
+**4.** What is the witness question?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Who does the picture put you next to? Gentileschi's Judith makes the question unavoidable: where are you standing, and whose side of the action is that? Describe the violence in the painting before you describe the painter. The picture positions you before you have opinions about it.
+
+</details>
+
+**5.** Carry Monday's question with you: what does this image ask you to accept as natural? It works on a Titian, and it works on every advertisement you will see this week. Ask it three times before Tuesday's essay. The habit is the preparation.

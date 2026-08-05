@@ -5,7 +5,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-06-the-table-as-moral-space]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-08-heda-and-the-image-of-work]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # Lesson 07: The Split Weeks
 
@@ -82,3 +82,41 @@ Check you can:
 - Plan a meal as a work, defending your decisions rather than stating preferences.
 - Ask, of a still life, what the abundance cost and who paid, using the ethics of abundance.
 - Write about your own table without turning it into a memory piece.
+
+## Practice
+
+Try each question before you open its answer. Five doors into one question; any door works alone.
+
+**1.** Why do these five days deliberately not build on each other?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because half the room is away all week, and a sequence would punish absence. Each day is complete in itself: five different ways into the same question. Missing a day here means missing content, not losing the thread of an argument.
+
+</details>
+
+**2.** What does it mean to plan a meal as a work?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Every choice is a decision that can be defended, not a preference. "Because I like it" is a preference. "Because the sour dish makes the sweet one legible" is a decision. The same standard the course applies to paintings, applied to a menu.
+
+</details>
+
+**3.** Say the abundance question, and why the picture resists it.
+
+<details class="reveal"><summary>Show answer</summary>
+
+What did this cost, and who paid? A still life of silver and fruit is built to show owning, not paying: the labor and the money that assembled the table are exactly what the picture leaves out. Asking anyway is the reading.
+
+</details>
+
+**4.** What is the memory-piece trap in writing about your own table?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Nostalgia instead of reading: warm memories of family dinners, described fondly. The fix is to use the unit's questions on your own table, honestly. Who cooks, who serves, who sits where, who is missing. Your table is evidence, not a postcard.
+
+</details>
+
+**5.** Carry the seminar question for the week: is hospitality generosity or obligation? Hold a position for two days, and write down the strongest thing someone said against it. Moving when someone is right is still the graded behavior, here and all semester.

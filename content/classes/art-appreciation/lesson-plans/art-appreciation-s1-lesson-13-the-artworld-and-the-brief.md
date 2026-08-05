@@ -5,7 +5,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-12-photography-and-after]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-14-the-retrospective]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # Lesson 13: The Artworld and the Brief
 
@@ -68,3 +68,41 @@ Check you can:
 - Use **Duchamp** and **Warhol** to show how the institution decides what counts as art.
 - Define **pluralism** and why many kinds of art can exist at once.
 - Name the three works you will argue for in January, and say why those three.
+
+## Practice
+
+Try each question before you open its answer. The story that started in the caves ends here.
+
+**1.** What question does Danto answer, and where does the answer live?
+
+<details class="reveal"><summary>Show answer</summary>
+
+What makes something art when looking cannot settle it. Two identical objects, one of them art: the difference is not visible, so it must live outside the object, in the artworld. The institution, the theory, the people who can say "this counts." Follow the object out of the studio, and name who decided.
+
+</details>
+
+**2.** Why are Duchamp and Warhol the punchline of the semester?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because the course has watched meaning come from outside the image all term: from pairings, captions, contexts, reproductions. A urinal signed and submitted, a soap box on a plinth, push that to the end. If placement and declaration can make art, then the semester's method was never decoration. It was the mechanism.
+
+</details>
+
+**3.** What is the break homework, and what else is it?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Three works that changed how you see, with reasons, three to four hours across the holiday and no more. It is also the retrospective brief: one document, one piece of paper into the break. The January constellation is built from what you bring back.
+
+</details>
+
+**4.** Say the choosing rule for the three works.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Changed how you see, not liked the most. The reason has to name the change: what you could not see before the work, and can now. A favorite without a change is a poster. The retrospective argues development, and these three are its anchors.
+
+</details>
+
+**5.** Over the break, write the three reasons properly, one paragraph each, in the course's register: describe, account, judge. You will defend them in January to someone who chose differently. Reasons written in December argue better than reasons remembered in January.
