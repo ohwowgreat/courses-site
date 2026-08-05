@@ -23,22 +23,22 @@ modified: 2026-07-25
 
 Money is real, borders are real, weekends are real, and none of them would survive if everyone stopped agreeing.
 
-The session runs on one exercise: sort ten items into *real independently* and *real by agreement* — **gravity, money, a nation, Tuesday, a species, a debt, a disease, a genre, a race, a language.** Gravity and Tuesday sort themselves; the hard ones are the point.
+The session runs on one exercise. You sort ten items into *real independently* and *real by agreement*: **gravity, money, a nation, Tuesday, a species, a debt, a disease, a genre, a race, a language.** Gravity and Tuesday sort themselves. The hard ones are the point.
 
-Then the harder version, which is the unit's actual subject: **agreement is never equally weighted. Whose agreement counts?**
+> [!note]
+> The sorting will break down, and that breakdown is the lesson.
 
-In the final movement you name one thing you believe is real that most people around you do not, and say what would make it count.
+Then comes the harder version, which is the unit's real subject: **agreement is never equally weighted. Whose agreement counts?**
 
 ## Week 12: Emmelhainz
 
-[[entities/irmgard-emmelhainz|Irmgard Emmelhainz]], "Can We Share a World Beyond Representation", argues that the shared world has fragmented into private, algorithmically shaped worlds, and asks whether a common ground can be found that does not depend on representation at all. This is the most contemporary text in the course.
+[[entities/irmgard-emmelhainz|Irmgard Emmelhainz]], "Can We Share a World Beyond Representation", argues that the shared world has fragmented into private, algorithmically shaped worlds. She asks whether a common ground can be found that does not depend on representation at all.
 
-The session is structured differently from every other: one central question with eight angle questions beneath it, printed on a student sheet. Each student picks an angle, brings a position, and presents it — answering one question from the room before the next speaks. **Movement 2 is student-led.**
+The session is built differently from every other. There is one central question with eight angle questions beneath it, printed on a sheet. You pick an angle, bring a position, and present it, answering one question from the room before the next speaker begins. **Movement 2 is student-led.**
 
-> [!note] Your framing for W12
+The framing sent to the group chat:
+
 > There is one central question the whole discussion builds toward, and eight smaller questions beneath it approaching the same problem from different directions. Pick one angle. You do not need a final answer, just a position you are willing to defend and have challenged.
-
-The question is not whether the feed is bad, but whether **sharing a world** requires representation at all.
 
 ## Sessions
 
@@ -47,17 +47,24 @@ The question is not whether the feed is bad, but whether **sharing a world** req
 
 ## Concepts introduced
 
-None new. The unit is [[concepts/the-ontological-turn|the ontological turn]] applied collectively — realness as a relation rather than a property, now with the question of who holds the relation.
+None new. The unit applies [[concepts/the-ontological-turn|the ontological turn]] collectively: realness as a relation rather than a property, now with the question of who holds the relation.
 
 ## Preparation
 
-This unit carries the heaviest student preparation in the course, and it is all spoken.
-
-- **W11:** nothing in advance.
-- **W12:** read Emmelhainz, choose one of the eight angle questions, and arrive with a position on it. Movement 2 *is* the students, so come prepared.
+This unit has the most student preparation in the course, and it is all spoken. W11 needs nothing in advance. For W12, read Emmelhainz, choose one of the eight angle questions, and arrive with a position on it. Movement 2 *is* the students, so the session depends on you coming ready.
 
 Nothing is written or collected ([[classes/oxbridge/assessments/oxbridge-writing-and-assessment|discussion only]]).
 
+## Teaching notes
+
+- The lesson is not in either column of the sorting exercise. It is in watching items move between them, and in the moment when you move something and cannot say what moved it.
+- W11's Movement 3 asks you to name one thing you believe is real that most people around you do not, and to say what would make it count. This forces you to describe the mechanism of realness rather than assert an instance of it.
+- In W12, the question is not whether social media is bad. It is whether **sharing a world** requires representation at all.
+- Watch for the answer "it is not agreement, it is power" in W11. That is the entry to Unit 7.
+
 ## Bridge to Unit 7
 
-If agreement is unequally weighted, the next question is who holds the weight — [[classes/oxbridge/unit-plans/oxbridge-unit-7-power-and-visibility|Unit 7]].
+> [!note]
+> If agreement is unequally weighted, the next question is who holds the weight.
+
+[[classes/oxbridge/unit-plans/oxbridge-unit-7-power-and-visibility|Unit 7]].

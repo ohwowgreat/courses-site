@@ -18,11 +18,11 @@ modified: 2026-07-18
 
 ## What this unit does
 
-This unit opens the Component 2 Externally Set Assignment on the Cambridge paper itself, distributed over the vacation. You read the paper closely and work out what each question permits and quietly forbids; you match your choice to proven strengths from C1 and C3 (shown by your drawing regimen and past work, not by hopes); you defend two candidate questions one to one; and you lock one question in writing with a rationale by Friday. The whole semester runs on it. This is the exam.
+This unit opens the Component 2 Externally Set Assignment. You work from the Cambridge paper itself, given out over the vacation. You read the paper closely. You name each question for what it permits and what it quietly forbids. You match your choice to your **proven strengths from C1 and C3**, shown by your drawing regimen and past work, not by hopes. You defend two candidate questions one to one. You lock one question in writing with a rationale by Friday. The whole semester runs on it. This is the exam.
 
 ## Dates & span
 
-Week S1 (Mon 2028-02-21 → 2028-02-25), 5 sessions. These dates are projected and may shift when the school publishes the calendar for that period.
+Week S1 (Mon 2028-02-21 to 2028-02-25), 5 sessions. These S4 dates are projected. They may shift when the school publishes the calendar for this period.
 
 ## Sequence of work
 
@@ -32,14 +32,14 @@ Week S1 (Mon 2028-02-21 → 2028-02-25), 5 sessions. These dates are projected a
 | U1·L2 | Question analysis | What each question permits, and what it quietly forbids |
 | U1·L3 | Strengths audit | Match questions to proven strengths from C1 and C3, not to hopes |
 | U1·L4 | Question shortlist, one to one | Two candidate questions defended |
-| U1·L5 | Question locked with rationale | In writing, with the lock |
+| U1·L5 | Question locked with rationale | Locked in writing |
 
 ## Assessment
 
-There are no attainment gates in this unit — the first, **A1**, sits Fri 2028-03-10 in [[classes/a-level-art-design/unit-plans/9479-s4-unit-2-recording|Unit 2]]. One CS task: **CS1** Fri 2028-02-25 (question choice with written rationale, locked one to one). See the [[classes/a-level-art-design/assessments/9479-s4-assessments|full register]].
+There are no attainment gates in this unit. The first, **A1**, is on Fri 2028-03-10 in [[classes/a-level-art-design/unit-plans/9479-s4-unit-2-recording|Unit 2]]. One CS task: **CS1** on Fri 2028-02-25 (question choice with written rationale, locked one to one). See the [[classes/a-level-art-design/assessments/9479-s4-assessments|full register]].
 
 ## Key content
 
-- ◆ The strengths audit runs on **what your portfolio shows, not on preference** — the exam rewards what you can already do at pace.
-- You lock the question in writing by Friday with a rationale grounded in evidence.
-- The winter regimen closes here: your past-paper review notes and drawing-regimen evidence feed the audit directly.
+- The strengths audit runs on **what your portfolio shows, not on preference**. The exam rewards what you can already do at pace.
+- You lock the question in writing by Friday, with a rationale grounded in evidence.
+- The winter regimen closes here. Your past-paper review notes and drawing-regimen evidence feed the audit directly.

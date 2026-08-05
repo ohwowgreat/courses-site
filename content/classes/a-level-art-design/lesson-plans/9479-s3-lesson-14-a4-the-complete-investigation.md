@@ -10,13 +10,13 @@ modified: 2026-07-26
 ---
 # S3 Lesson 14: A4 — The Complete Investigation
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s3-unit-6-assembly-and-submission|Unit 6]] · Lesson 14 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-13-the-viva-rehearsal-critique|L13]] | [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-15-submission-qc-the-return-and-into-c2|L15]] →
+[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s3-unit-6-assembly-and-submission|Unit 6]] · Lesson 14 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-13-the-viva-rehearsal-critique|Lesson 13]] | [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-15-submission-qc-the-return-and-into-c2|Lesson 15]] →
 
 ## At a glance
 
 <dl class="stat-strip">
   <div class="stat"><dt>Sessions</dt><dd>3 days<span class="stat-x">W17, reduced — Christmas break follows</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-12-20 → Wed 2027-12-22</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-12-20 → Wed 2027-12-22 <em>(projected)</em></dd></div>
   <div class="stat"><dt>AO focus</dt><dd>AO1–AO4 (the whole investigation)</dd></div>
 </dl>
 
@@ -26,19 +26,15 @@ modified: 2026-07-26
 | Graded | **A4** Wed 2027-12-22 (AO1–AO4) — the complete investigation, **no edits after** |
 | Homework | None over the break beyond the winter homework for [[classes/a-level-art-design/unit-plans/9479-semester-4-plan\|Semester 4]] (the C2/ESA past-paper review) |
 
-These dates may shift when the school publishes the calendar for this period.
+## Overview
 
-## Objectives
+This lesson brings your Personal Investigation to its Component 3 internal submission. On Monday and Tuesday you do the final page-by-page AO check. On Wednesday you submit at **A4**: the complete Personal Investigation, both outcomes with the supporting portfolio and the research paper, marked across AO1–AO4. There are no edits after A4. You begin submission photography while the work is still at hand, before the Christmas break. These dates are projected and may shift when the school publishes the calendar. The digital submission is assembled to the Cambridge screen limits and passes QC in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-15-submission-qc-the-return-and-into-c2|Lesson 15]].
 
-By the end of this lesson, you can:
+## The ideas
 
-1. Complete a final page-by-page AO check
-2. Submit the complete Personal Investigation at A4 — both outcomes with portfolio and paper, with no edits after
-3. Begin submission photography while the work is still at hand
+### A4: the complete investigation
 
-## Goal
-
-This is the Component 3 internal submission. Monday and Tuesday are the final page-by-page AO check; Wednesday is **A4** — the complete Personal Investigation, both outcomes with the supporting portfolio and the research paper, marked across AO1–AO4, with **no edits after**. Submission photography begins while the work is at hand, before the Christmas break.
+**A4** is the complete Personal Investigation, judged as a whole. It brings together both outcomes, the supporting portfolio, and the research paper, marked across AO1–AO4 at once. This is the Component 3 internal submission.
 
 
 <figure class="plate">
@@ -46,15 +42,29 @@ This is the Component 3 internal submission. Monday and Tuesday are the final pa
   <figcaption>Gustave Le Gray, <em>The Great Wave, Sète</em>, 1857</figcaption>
 </figure>
 
-## How it runs
+### The AO check
 
-- **Mon 12-20 — pre-submission check.** The AO check, page by page: all four descriptors evidenced, in writing.
-- **Tue 12-21 — pre-submission check continues.** Close the last named gaps — the last marks you can still earn.
-- **Wed 12-22 — A4: complete Personal Investigation due.** Both outcomes, the portfolio, the paper. You submit in session, and it is marked across AO1–AO4; **no edits after**. Submission photography begins while the work is at hand.
-- The Christmas break follows, and the QC tail resumes after it.
+Before you submit, you do a final AO check, page by page. You confirm in writing that all four descriptors, AO1–AO4, are evidenced. Use Monday and Tuesday to close the last named gaps, the last marks you can still earn.
 
-## Key content: the whole investigation, no edits after
+### No edits after A4
 
-- A4 is the **complete** investigation — outcomes, portfolio and paper judged together across AO1–AO4.
-- **No edits after A4** — the submission is fixed; what remains is assembly and QC of what already exists.
-- The digital submission is assembled to the Cambridge screen limits and passes QC in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-15-submission-qc-the-return-and-into-c2|L15]].
+Once you submit at A4, the submission is fixed. There are **no edits after A4**. What remains after this is assembly and QC of work that already exists, not new work.
+
+### Submission photography
+
+You begin **submission photography** on Wednesday, while the physical work is still at hand. This captures the outcomes before the Christmas break.
+
+## Day by day
+
+- **Mon 12-20.** Pre-submission AO check, page by page: confirm all four descriptors are evidenced in writing.
+- **Tue 12-21.** Continue the AO check. Close the last named gaps and earn the last available marks.
+- **Wed 12-22.** Sit **A4**: submit the complete Personal Investigation, both outcomes with portfolio and paper, marked across AO1–AO4. No edits after. Begin submission photography while the work is at hand.
+
+## Review
+
+Check you can:
+
+- Complete a final page-by-page AO check across AO1–AO4, evidenced in writing.
+- Submit the complete Personal Investigation at **A4**: both outcomes, the portfolio, and the research paper.
+- Explain that there are no edits after A4, so the submission is fixed.
+- Begin submission photography while the work is still at hand.

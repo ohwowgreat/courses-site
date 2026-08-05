@@ -78,9 +78,11 @@ Under the [[shared/bnds-assessment-framework|BNDS framework]] this becomes a cur
 
 ## Why there is no exam
 
-A studio course has nothing to sit: there is no paper and no content to recall under timed conditions. The 20% is met by **the portfolio you submit on the last teaching session, reviewed during the exam window.** You do not sit anything, and there is no PAL session during the window. It is a submission, not a sitting.
+The End of Term Exam category expects something summative, on previously covered content, sat in the exam window. A studio course has nothing to sit: there is no paper and no content to recall under timed conditions that would tell anyone anything useful about a G10 art student.
 
-## After submission
+So the 20% is met by **the portfolio you submit on the last teaching session, reviewed during the exam window.** You do not sit anything, and there is no PAL session during the window. It is a submission, not a sitting.
+
+## After the sit
 
 - Reviewed during the window, Mon 2027-01-11 to Mon 2027-01-18.
 - Returned **Wed 2027-01-20** with grades, comments and one-to-one feedback, alongside A5.
@@ -89,9 +91,9 @@ A studio course has nothing to sit: there is no paper and no content to recall u
 
 ## How to prepare
 
-| Where to look | What to use it for |
+| Where it came from | What to use it for |
 |---|---|
-| The portfolio spec | The 4 to 5 works rule, the image-quality rules, and the checklist. Read it over the break |
+| **The portfolio spec** | The 4 to 5 works rule, the image-quality rules, and the checklist. Read it over the break |
 | All four attainment reflections | You have already written about each piece. Mine them for the argument |
 | Your sketchbook | Where the supporting material lives. This is why the rejects and drafts were kept |
-| A2's selection and sequencing work | The same skill at semester scale. You have done this once already, with six to eight photographs |
+| **A2's selection and sequencing work** | The same skill at semester scale. You have done this once already, with six to eight photographs |

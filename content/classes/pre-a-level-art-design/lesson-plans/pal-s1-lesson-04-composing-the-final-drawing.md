@@ -17,42 +17,59 @@ modified: 2026-07-26
 
 # Lesson 04: Composing the Final Drawing
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1]] · U1·L4 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-03-texture-mark-making-and-negative-space|L03]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing|L05]] →
+[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1]] · U1·L4 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-03-texture-mark-making-and-negative-space|Lesson 03]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing|Lesson 05]] →
 
 ## At a glance
 
 <dl class="stat-strip">
   <div class="stat"><dt>Session</dt><dd>W4<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
-  <div class="stat"><dt>Date</dt><dd>Wed 2026-09-23</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Wed 2026-09-23</dd></div>
 </dl>
 
 | | |
 |---|---|
 | Focus | Composition; the final observational drawing begun |
 | Deliverable | Three viewfinder thumbnails with one chosen in writing; the final drawing constructed and underway |
-| Feeds | **CS1 is collected and graded this session**; the drawing continues into A1 (W5, 09-30) |
+| Feeds | **CS1 collected and graded this session**; the drawing continues into A1 (W5, 09-30) |
 | Homework | One 10-minute observational sketch of a home object; MB posting |
 
-## Objectives
+## Overview
 
-By the end of this lesson you can:
+This lesson is about composition: deciding a drawing before you make it. You compare three viewfinder thumbnails and choose one in writing, with a reason. Then you begin the final observational drawing on good paper, building it from your chosen thumbnail using the tone and texture from Lessons 02 and 03. Your **CS1** exercise set is collected and graded this session. The drawing you start today is finished as **A1** next session (W5, 09-30).
 
-1. Compare three viewfinder thumbnails and choose one in writing, with a reason
-2. Decide viewpoint, placement and scale to frame before a mark goes on the good paper
-3. Construct the final drawing from the chosen thumbnail, using the tone and texture of L02–L03
+## The ideas
 
-## Goal
+**Composition** is how you arrange what you draw inside the page. You decide it before a mark goes on the good paper, and you decide it by comparing options, not by defaulting to the middle. Four decisions do the work.
 
-Before a mark goes on the good paper, decide the composition — viewpoint, placement, scale to frame — by comparing options, not by defaulting to the middle. The second hour puts the elements of the last three weeks to work on the drawing that A1 will finish.
+**Viewpoint** is where you look from. Move before you draw. Three steps left changes everything you see.
 
-## How it runs
+**Placement** is where the object sits on the page. Off-center beats dead-center. Use what you learned in the negative-space study.
 
-- **Warm-up (5 min)** — sketchbooks open to the week's pages; a two-minute pair check against the CS1 list before collection.
-- **Teach (15 min)** — composition for an observational drawing, in four decisions: **viewpoint** (move before you draw — three steps left changes everything), **placement** (off-center beats dead-center; look back at the negative-space study), **scale to frame** (fill it or use emptiness on purpose; never a small object floating in white), **cropping** (the edge of the page is a tool). Demonstrated with a viewfinder — two L-shaped cards — on the still life.
-- **Studio 1 (20 min)** — still-life stations (3–4 objects each, one lamp, varied surfaces: cloth, metal, ceramic). Make **three thumbnail compositions** through the viewfinder — small, fast, tonal masses only, no detail — then circle one and write a one-line reason: "I chose this one because …"
-- **Studio 2 (40 min)** — the final drawing begins on good paper: light construction lines, proportions blocked against the thumbnail, main masses of tone laid. No detail, no texture yet — structure first. By close, aim for a drawing that is *decided* everywhere and finished nowhere.
-- **Close (10 min)** — **CS1 is collected**: the exercise set (contour work, value scale + tonal study, texture pieces, negative-space study). Drawings are parked flat and labeled.
+**Scale to frame** is how much of the page the object fills. Fill it, or use the empty space on purpose. Never leave a small object floating in white.
+
+**Cropping** is cutting the object at the edge of the page. The edge of the page is a tool you can use.
+
+A **viewfinder** is two L-shaped cards you hold up to frame a view. You look through it to test different compositions.
+
+A **thumbnail composition** is a small, fast sketch of tonal masses only, with no detail. You make **three thumbnail compositions** through the viewfinder, then circle one and write a one-line reason: "I chose this one because ...".
+
+When you start the final drawing, structure comes first. Use light construction lines, block proportions against your thumbnail, and lay the main masses of tone. No detail and no texture yet. By the end of the session the drawing should be decided everywhere and finished nowhere.
+
+## Day by day
+
+- **Wed 09-23.** You learn composition through four decisions (viewpoint, placement, scale to frame, cropping) and a viewfinder demo. At the still-life stations you make three thumbnail compositions, circle one, and write your reason. Then you begin the final drawing on good paper: construction lines, proportions, main masses of tone. **CS1 is collected** at the close. Homework: one 10-minute observational sketch of a home object, posted to MB.
 
 ## Assessment
 
-**CS1** (exercise-set check) is collected and graded today — marked for completeness and honest looking, not polish; returned within five working days. Your thumbnails and today's construction work are process evidence for **A1**, which finishes next session. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+**CS1** (exercise-set check) is collected and graded today. It covers your contour work, value scale and tonal study, texture pieces, and negative-space study. It is marked for completeness and honest looking, not polish, and returned within five working days. Your thumbnails and today's construction work are process evidence for **A1**, which you finish next session. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+
+## Review
+
+Check you can:
+
+- Compare three viewfinder thumbnails and choose one in writing, with a reason.
+- Choose a **viewpoint** by moving before you draw.
+- Set **placement** off-center rather than dead-center.
+- Use **scale to frame** so the object fills the page or uses empty space on purpose.
+- Use **cropping** at the edge of the page as a tool.
+- Construct the final drawing from your chosen thumbnail, structure first, using tone and texture from Lessons 02 and 03.

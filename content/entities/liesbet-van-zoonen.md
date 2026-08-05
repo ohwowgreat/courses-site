@@ -9,16 +9,14 @@ modified: 2026-07-20
 ---
 # Liesbet van Zoonen
 
-Liesbet van Zoonen is a media theorist associated with feminist media theory and the representation of gender.
+**Liesbet van Zoonen** is a representation theorist. Her work in feminist media theory is the standard media-studies reference for the gender strand of **Representation**.
 
-## Representation theory
+## What Cambridge attributes to her
 
-The concept of Representation is best studied with reference to theories of representation, for which student-friendly materials are available. The theorists you may work with include:
+> "candidates need to learn the concept of Representation - best done with reference to theories of representation where there is a variety of student-friendly materials available - such as **Hall, Van Zoonen, hooks, Gilroy, Alvarado**." (2028 SoW, C2 Section A camera row)
 
-> **Hall, Van Zoonen, hooks, Gilroy, Alvarado**
+This clause is about representation of class, age, gender, and ethnicity. Van Zoonen is the reference for the gender strand.
 
-This covers the representation of class, age, gender, ethnicity; van Zoonen is the standard reference for the gender strand.
+## BNDS usage
 
-## Where you meet her
-
-You study van Zoonen in [[classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze|L09]], parts 1–2: gender as performance, worked on two advertisements, before Mulvey's three looks are stated precisely.
+In [[classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze|L09]] you study **gender as performance**, worked on two advertisements, before Mulvey's three looks are stated precisely.

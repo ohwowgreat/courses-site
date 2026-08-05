@@ -18,7 +18,7 @@ modified: 2026-07-25
 
 **What survives forgetting?**
 
-This is a one-session unit. It tests one claim: that human memory is repainted while machine memory is a clean record.
+This is a one-session unit. It tests one claim: that human memory is repainted while machine memory is a clean record. This is the last distinction left standing after Week 9, so it gets a session of its own.
 
 ## The image to work from
 
@@ -26,38 +26,37 @@ This is a one-session unit. It tests one claim: that human memory is repainted w
 
 ## The two philosophers
 
-Two incompatible accounts that arrive at the same conclusion from opposite directions:
+Two accounts that disagree with each other, yet reach the same conclusion from opposite directions:
 
-- **[[entities/henri-bergson|Henri Bergson]]** separates *habit memory*, which the body performs, from *pure memory*, which survives whole and is filtered out by attention rather than lost. On this account we forget nothing; we simply cannot attend to most of it.
+- **[[entities/henri-bergson|Henri Bergson]]** separates **habit memory**, which the body performs, from **pure memory**, which survives whole and is filtered out by attention rather than lost. On this account you forget nothing. You simply cannot attend to most of it.
 - **[[entities/sigmund-freud|Sigmund Freud]]** proposes that forgetting is not decay but active work: things are pushed down, and they return in distorted form.
 
-> [!note] The shared conclusion
-> The same conclusion arrives from two directions. **Forgetting is not the failure of memory. It is a function of it.**
+> Between them, the same conclusion arrives from two directions. **Forgetting is not the failure of memory. It is a function of it.**
 
-The two accounts are incompatible and converge anyway. This is the course's cleanest example of an argument that does not depend on picking a winner.
+The two accounts are incompatible and converge anyway. That is the point. It is the cleanest example in the course of an argument that does not depend on picking a winner.
 
 ## Session
 
-- [[classes/oxbridge/lesson-plans/oxbridge-w10-what-survives-forgetting|W10: What survives forgetting?]] — you bring a memory from before you were ten, and discover how many people are describing a photograph or a story.
+- [[classes/oxbridge/lesson-plans/oxbridge-w10-what-survives-forgetting|W10: What survives forgetting?]] — you bring a memory from before you were ten, and discover how many of you are describing a photograph or a story.
 
 ## Concepts introduced
 
-None new. The unit works with concepts already introduced — [[concepts/the-gap|the gap]] applied to your own past, and [[concepts/framework|framework]] applied to attention.
+None new. The unit works the concepts you already have: [[concepts/the-gap|the gap]] applied to your own past, and [[concepts/framework|framework]] applied to attention.
 
 ## Preparation
 
 No reading. Bring **one memory from before you were ten**, and be willing to describe it out loud. This is the only session whose preparation is personal rather than textual.
 
-Nothing is written or collected: the course is [[classes/oxbridge/assessments/oxbridge-writing-and-assessment|discussion only]].
+Nothing is written or collected. The course is [[classes/oxbridge/assessments/oxbridge-writing-and-assessment|discussion only]]. One question to hold: is forgetting a failure of memory or a function of it?
 
-## In this session
+## Focus
 
-- The session is personal, which is a resource. You describe rather than argue, then convert that into argument later in the session.
-- This is not a discussion of memory techniques or exam revision. The question is not how to remember better; it is what memory is for.
-- The session builds on Week 9: if a machine forgot the way a body forgets — by accumulating distortion rather than deleting files — would the human/machine line still hold?
+This is not about how to remember better or how to revise for exams. The question is what memory is for.
+
+The session returns to Week 9. It asks the harder version: if a machine forgot the way a body forgets, by accumulating distortion rather than deleting files, would the human/machine line still hold? Bergson's objection from Week 9 is on trial here.
 
 ## Bridge to Unit 6
 
 > If each person's past is repainted privately, the question becomes how any two people share anything at all.
 
-W10 closes on the question that opens the next unit: *money is real, borders are real, weekends are real — who agreed?* [[classes/oxbridge/unit-plans/oxbridge-unit-6-collective-reality|Unit 6]].
+W10 closes on the question that opens the next unit: money is real, borders are real, weekends are real, who agreed? [[classes/oxbridge/unit-plans/oxbridge-unit-6-collective-reality|Unit 6]].

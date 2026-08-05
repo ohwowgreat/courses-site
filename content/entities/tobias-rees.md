@@ -25,15 +25,17 @@ Two further lines:
 
 > Deep learning systems have qualities that, up until recently, were considered possible only for living organisms in general and for humans in particular.
 
-## How this course uses him
+## How the course uses him
 
-Rees is the set text for week 9.
+**The set text for week 9.**
 
-The question his lines are aimed at: *if agency and understanding can come apart from being alive, were they ever properties of life — or properties we assigned to life because we had no other examples?*
+Rees is useful because his claim is strong enough that you may want to resist it. That forces you to say what the human property actually is.
 
-## The counterweight
+The question his lines aim at: if agency and understanding can come apart from being alive, were they ever properties of life, or properties we assigned to life because we had no other examples?
 
-The session does not leave Rees unopposed. [[entities/henri-bergson|Henri Bergson]] supplies duration (a system that can be reset has no duration) and [[entities/sigmund-freud|Sigmund Freud]] supplies the unconscious (a system whose weights can be inspected has none). Both objections are then put under the same test: **are these differences in kind, or in current engineering?**
+## The counterweight, built in
+
+The session does not leave Rees unopposed. [[entities/henri-bergson|Henri Bergson]] supplies duration: a system that can be reset has no duration. [[entities/sigmund-freud|Sigmund Freud]] supplies the unconscious: a system whose weights can be inspected has none. Both objections face the same test: **are these differences in kind, or in current engineering?**
 
 ## The Snell move
 
@@ -41,15 +43,15 @@ Rees points toward the claim that the interior self was not available to Homeric
 
 ## Preparation
 
-Three guiding questions come with the text:
+Three guiding questions come with the text. The third does the real work:
 
 1. What concept does Rees think AI breaks?
 2. Is his claim about machines or about us?
-3. Where does his argument go too far?
+3. **Where does his argument go too far?**
 
 ## Set text
 
-The Noema essay on AI and the concepts of the modern period — see [[classes/oxbridge/oxbridge-reading-list|the reading list]].
+The Noema essay on AI and the concepts of the modern period. See [[classes/oxbridge/oxbridge-reading-list|the reading list]].
 
 ## Links
 

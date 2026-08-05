@@ -18,11 +18,14 @@ export function citationHtml(entry) {
   return `<p class="cite"><span class="cite-tag">Shown in class</span>${work}${link}</p>\n`
 }
 
-export function insertCitations(body, entries) {
+export function insertCitations(body, entries, rel) {
   for (const entry of entries) {
     const html = citationHtml(entry)
     const at = entry.anchor ? body.search(entry.anchor) : -1
     if (at === -1) {
+      // Anchorless entries append by design; a *failed* anchor is drift worth a
+      // log line. Plain text, no ⚠ — advisory, never publish-blocking.
+      if (entry.anchor && rel) console.log(`anchor fallback: ${rel} — citation "${entry.cite}"`)
       body = body.trimEnd() + "\n\n" + html
       continue
     }

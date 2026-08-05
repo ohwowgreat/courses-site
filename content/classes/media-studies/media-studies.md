@@ -8,7 +8,7 @@ related:
   - "[[concepts/four-key-concepts]]"
   - "[[concepts/process-evidence-and-reflection]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-31
+modified: 2026-08-03
 ---
 <figure class="plate plate--hero">
   <img src="../../static/img/media-studies.jpg" alt="Édouard Manet, A Bar at the Folies-Bergère, 1882" loading="lazy" />
@@ -17,7 +17,9 @@ modified: 2026-07-31
 
 # Media Studies
 
-**Cambridge International AS & A Level Media Studies (9607)** at BNDS, cohort 2026–2028: G11 = AS year (2026-27), G12 = A2 year (2027-28). 5 × 45-min lessons/week, with EN/ZH scaffolding throughout and a strong China-context strand (WeChat/Bilibili/Douyin/iQIYI, NRTA vs BBC, *Dying to Survive*, *Ne Zha*). Graded per [[shared/bnds-assessment-framework|BNDS Assessment Framework]].
+This is **Cambridge International AS & A Level Media Studies (9607)** at BNDS, for the 2026–2028 cohort. G11 is the AS year (2026-27). G12 is the A2 year (2027-28). You have 5 lessons of 45 minutes each week. Language support runs through the course in English and Chinese: the lexicon, sentence frames, and oral rehearsal before writing. You are graded per [[shared/bnds-assessment-framework|BNDS Assessment Framework]].
+
+> ⚠ **How examples are chosen.** The exam is set by Cambridge, and it never asks about Chinese media. So your core taught examples, worked activities, case studies, and assessed tasks use exam-eligible examples, usually international and English-language. Chinese examples (WeChat, Bilibili, Douyin, iQIYI, NRTA, *Dying to Survive*, *Ne Zha*) may appear as brief spoken asides that connect the course to your own media landscape, but never as the core of a taught example or an assessed task. Language support is not affected by this rule.
 
 <dl class="stat-strip">
   <div class="stat"><dt>Cohort</dt><dd>Grade 11<span class="stat-x">CIE 9607</span></dd></div>
@@ -36,7 +38,7 @@ modified: 2026-07-31
 | Weight | 50% AS / 25% AL | 50% AS / 25% AL | 25% AL | 25% AL |
 | Nature | Coursework: media product + process evidence + reflection | 2h exam: A = unseen TV-drama extract analysis (25); B = contexts, one of two, case-study-based (25) | Coursework: promotional **campaign** across video + print + web + ~2000-word evaluation (2028-30) | 2h exam: A = media debates, two of three × 15; B = Changing media environments, 30, ≥2 media forms |
 
-C3 briefs (2028-30): music promotion / film promotion / documentary / short film — each = one major video task (group ≤4 allowed) + two individual minor tasks, including a website home page that must stay live and unchanged through moderation. Case studies must be majority contemporary (≤ ~5 years before the exam year). AI-generated images only with your role demonstrated and justified.
+C3 briefs (2028-30): music promotion, film promotion, documentary, or short film. Each is one major video task (a group of up to 4 is allowed) plus two individual minor tasks, including a website home page that must stay live and unchanged through moderation. Case studies must be mostly contemporary, within about 5 years before the exam year. You may use AI-generated images only if you show and justify your own role in making them.
 
 ## Course shape
 
@@ -47,11 +49,11 @@ C3 briefs (2028-30): music promotion / film promotion / documentary / short film
 | S3 autumn 2027 (G12) | Postmodern media + Power topics; **C3 launch + production** |
 | S4 spring 2028 (G12) | C3 completion + submission (~end Apr); Changing media environments; **Paper 4 June 2028** |
 
-Dates for S2–S4 are provisional and may shift when the school publishes the calendar for those periods. See the [[classes/media-studies/unit-plans/9607-course-map|Course Map]] for detail.
+Dates in S3 and S4 are projected and may shift when the school publishes the calendar for that period. Full detail is in the [[classes/media-studies/unit-plans/9607-course-map|Course Map]].
 
 ## Subject knowledge
 
-The concept layer. Each page marks what Cambridge prescribes, what it merely suggests, and what it leaves out.
+These pages are the concept layer of the course. Each page marks what Cambridge requires, what it only suggests, and what it leaves out.
 
 **The spine** — [[concepts/four-key-concepts|Four Key Concepts]] → [[concepts/media-language|Language]] · [[concepts/representation|Representation]] · [[concepts/media-industry|Industry]] · [[concepts/media-audience|Audience]]
 
@@ -63,5 +65,4 @@ The concept layer. Each page marks what Cambridge prescribes, what it merely sug
 
 **Method** — [[concepts/case-study-method|Case Study Method]] · Theory Provenance
 
-> [!note] Theory
-> Theory is required, but the syllabus does not prescribe specific theorists. The theorists you study are [[entities/roland-barthes|Barthes]], [[entities/stuart-hall|Hall]] (representation), [[entities/guy-debord|Debord]], [[entities/fredric-jameson|Jameson]], [[entities/slavoj-zizek|Žižek]], [[entities/bill-nichols|Nichols]], [[entities/liesbet-van-zoonen|Van Zoonen]], [[entities/bell-hooks|hooks]], [[entities/paul-gilroy|Gilroy]] and [[entities/manuel-alvarado|Alvarado]], plus Propp, Todorov and Mulvey.
+> ⚠ **Theory in this course.** Theory is required, but the syllabus does not name any theorist. The named thinkers come from Cambridge's Scheme of Work as suggestions. The theorists you study are [[entities/roland-barthes|Barthes]], [[entities/stuart-hall|Hall]] (on representation), [[entities/guy-debord|Debord]], [[entities/fredric-jameson|Jameson]], [[entities/slavoj-zizek|Žižek]] and [[entities/bill-nichols|Nichols]], with [[entities/liesbet-van-zoonen|Van Zoonen]], [[entities/bell-hooks|hooks]], [[entities/paul-gilroy|Gilroy]] and [[entities/manuel-alvarado|Alvarado]] as representation theorists. Propp, Todorov and Mulvey are BNDS additions. For more, see 9607 theory provenance.

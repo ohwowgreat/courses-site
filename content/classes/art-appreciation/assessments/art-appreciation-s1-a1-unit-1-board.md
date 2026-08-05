@@ -24,8 +24,6 @@ modified: 2026-08-02
 | Materials | Wall space, pins. **No glue** |
 | Unit | [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-1-origins-and-ancestral-memory\|U1 Origins and Ancestral Memory]] |
 
-This date is provisional and may shift when the school publishes its calendar for the term.
-
 ## Objectives
 
 This assessment asks you to show that you can:
@@ -37,7 +35,7 @@ This assessment asks you to show that you can:
 
 ## The task
 
-Your group builds a board on the wall from the print pool: images spanning Chauvet, Lascaux, Neolithic figures and ritual objects, deliberately over-supplied so that selection is a real decision rather than a scramble.
+Your group builds a board on the wall from the print pool: images spanning Chauvet, Lascaux, Neolithic figures and ritual objects. The pool is over-supplied on purpose, so selection is a real decision rather than a scramble.
 
 Then each of you writes your own justification of it.
 

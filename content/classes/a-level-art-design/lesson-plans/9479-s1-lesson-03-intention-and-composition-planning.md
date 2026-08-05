@@ -15,7 +15,7 @@ modified: 2026-07-26
   <figcaption>Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from</figcaption>
 </figure>
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study|Unit 2]] · Lesson 03 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-02-formal-elements-on-the-theme|L02]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-04-the-sustained-study|L04]] →
+[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study|Unit 2]] · Lesson 03 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-02-formal-elements-on-the-theme|Lesson 02]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-04-the-sustained-study|Lesson 04]] →
 
 ## At a glance
 
@@ -31,25 +31,44 @@ modified: 2026-07-26
 | Feeds | CS2 collected Fri 2026-09-18 — direct practice for A1 |
 | Homework | Written annotation: expand the intention to a paragraph a stranger could follow |
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can:
+This lesson turns the theme into an investigation. You write what you are looking at and why, open the theme wider than your first idea, and choose one composition to sustain. You produce a CS2 sheet: a written intention, a mind map, and a thumbnail sheet with one composition chosen and every rejection annotated. It is collected on Fri 2026-09-18. This is direct practice for A1: the intention and mind map return inside the recording milestone.
 
-1. State in writing what you are looking at and why
-2. Open the theme wider than your first idea, evidenced on a mind map
-3. Choose one composition to sustain and annotate the rejected thumbnails with reasons
+## The ideas
 
-## Goal
+### The intention statement
 
-The theme becomes an investigation. By Friday you can say, in writing, what you are looking at and why, have opened the theme wider than your first idea, and have chosen one composition to sustain — with the rejections written down. Choosing and rejecting in writing is the top-band habit this lesson installs.
+An **intention statement** is a written statement of what you are investigating and why. Use this frame: *I am investigating / because / I will record*. Cut every empty word so a stranger could follow it. Your homework is to expand this into a full paragraph.
 
-## How it runs
+### The mind map
 
-- **Tue 09-15** — two exemplar intentions read aloud (one strong, one vague); drafting frame on the board: *I am investigating / because / I will record*; write, swap, tighten — your partner strikes every empty word.
-- **Wed 09-16** — mind mapping from the object outward (material, function, memory, opposite); A3 mind map, at least three branches past the first idea; circle the branch that surprised you.
-- **Thu 09-17** — the thumbnail as a cheap test (5×7 cm, tone blocked, thirty seconds of decision each); six or more thumbnails from the mind map's strongest branches; squint-test pin-up.
-- **Fri 09-18** — re-read your intention against the surviving thumbnails; choose one; annotate every rejection with one honest line; assemble the CS2 sheet. **CS2 collected.** Preview: the sustained study begins Sunday.
+A **mind map** opens the theme wider than your first idea. Start from the object and work outward: material, function, memory, opposite. Push at least three branches past your first idea. The branch that surprises you is often the strongest one to develop.
+
+### The thumbnail
+
+A **thumbnail** is a cheap, fast test of a composition, drawn small (5×7 cm) with the tone blocked in and about thirty seconds of decision each. Make six or more from the strongest branches of your mind map. Thumbnails let you try many compositions before you commit to one.
+
+### Choosing and rejecting in writing
+
+Choose one composition to sustain. Then annotate every rejected thumbnail with one honest line saying why it did not survive. Writing down what you reject, and why, is the top-band habit this lesson installs.
+
+## Day by day
+
+- **Tue 09-15.** Read two exemplar intentions, one strong and one vague. Draft your own intention using the frame *I am investigating / because / I will record*, then tighten it.
+- **Wed 09-16.** Build an A3 mind map from the object outward: material, function, memory, opposite. Push at least three branches past your first idea and circle the branch that surprised you.
+- **Thu 09-17.** Make six or more thumbnails (5×7 cm, tone blocked) from the mind map's strongest branches.
+- **Fri 09-18.** Re-read your intention against the surviving thumbnails, choose one, and annotate every rejection with one honest line. Assemble the CS2 sheet. **CS2 collected.** The sustained study begins Sunday.
 
 ## Assessment
 
-**CS2** (intention statement + mind map, written annotation) is collected Fri 2026-09-18 — see the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. It is direct practice for A1: the intention and mind map reappear inside the recording milestone.
+**CS2** (intention statement, mind map, written annotation) is collected Fri 2026-09-18. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. It is direct practice for A1: the intention and mind map reappear inside the recording milestone.
+
+## Review
+
+Check you can:
+
+- State in writing, using an **intention statement**, what you are investigating and why.
+- Build a **mind map** that opens the theme at least three branches past your first idea.
+- Make **thumbnails** to test compositions quickly.
+- Choose one composition to sustain and annotate each rejected thumbnail with a reason.

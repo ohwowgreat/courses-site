@@ -18,14 +18,13 @@ modified: 2026-07-18
 
 ## What this unit does
 
-This unit reopens the Personal Investigation after the summer production window. You lay out all your summer output and audit it honestly against the targets you set in June — met, missed, missing — and defend it one to one, piece by piece. You then turn the audit into goals that name specific pages, pieces and dates, and the unit closes with a **written, dated, signed action plan** that governs the semester to the December submission.
+This unit reopens your Personal Investigation after the summer. You lay out all your summer work and audit it honestly against the targets you set in June: met, missed, missing. You defend it one to one, piece by piece. You then turn the audit into goals that name pages, pieces, and dates. The unit closes with a **written, dated, signed action plan** that governs the semester up to the December submission.
 
-> [!note] Where this unit sits
-> S3 skips U2 and U3. Recording and exploration were completed in Semester 2, so the work resumes here at review, then jumps straight to **U4, the development second pass**. The unit numbering (U1, U4, U5, U6) follows the pipeline stages.
+> **Semester 3 skips U2 and U3.** You finished recording and exploration in Semester 2. Work resumes here at review, then jumps to **U4, the development second pass**. That is why the unit numbers run U1, U4, U5, U6.
 
 ## Dates & span
 
-Weeks W1–W2 (Wed 2027-09-01 → ~2027-09-08), 5 sessions. These dates are provisional and may shift once the school publishes the calendar for this period.
+Weeks W1–W2, Wed 2027-09-01 to about 2027-09-08, 5 sessions. These dates are projected. They may shift when the school publishes the calendar. See the [[classes/a-level-art-design/unit-plans/9479-semester-3-plan|semester plan]].
 
 ## Sequence of work
 
@@ -39,11 +38,11 @@ Weeks W1–W2 (Wed 2027-09-01 → ~2027-09-08), 5 sessions. These dates are prov
 
 ## Assessment
 
-There are no attainment gates in this unit. The first, **A1**, sits Thu 2027-10-14 in [[classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass|Unit 4]]. One CS task falls here: **CS1** Fri 2027-09-03 (summer portfolio audit against the set targets, marked piece by piece). See the [[classes/a-level-art-design/assessments/9479-s3-assessments|full register]].
+No attainment tasks fall in this unit. The first, **A1**, sits Thu 2027-10-14 in [[classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass|Unit 4]]. One CS task falls here: **CS1** on Fri 2027-09-03. It is a summer portfolio audit against the set targets, marked piece by piece. See the [[classes/a-level-art-design/assessments/9479-s3-assessments|full register]].
 
 ## Key content
 
-- ◆ The audit marks against your **June targets, not against effort** — what was set in writing in June is what counts in September.
-- Every summer piece must be present, annotated and judged against a named target. Unannotated work fails the audit standard and costs AO1.
-- The action plan is the semester's contract: written, dated, signed and specific.
+- ◆ The audit marks against the **June targets**, not against effort. What you set in writing in June is what counts in September.
+- Every summer piece must be present, annotated, and judged against a named target. Unannotated work fails the audit standard and costs AO1.
+- The action plan is the semester's contract: written, dated, signed, and specific.
 - Your summer reading reflections open **research paper draft 2** in Unit 4.

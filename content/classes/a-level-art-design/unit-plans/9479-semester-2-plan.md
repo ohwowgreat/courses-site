@@ -13,10 +13,9 @@ modified: 2026-07-18
 
 > [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · Semester 2 of 4 ([[classes/a-level-art-design/unit-plans/9479-course-map|course map]]) · ← [[classes/a-level-art-design/unit-plans/9479-semester-1-plan|S1 C1 Portfolio]] · [[classes/a-level-art-design/unit-plans/9479-semester-3-plan|S3 C3 part 2]] →
 
-**Component 3 (Personal Investigation), part 1, G11, spring 2026-27.** You have one session every teaching day from Mon 2027-02-22 to Fri 2027-06-11 — 72 sessions in all. You propose your own theme and lock it in writing through consultation by week S3. You then move through recording, exploration, development and a mid-point portfolio, and you draft the C3 research paper alongside this work.
+**Component 3 (Personal Investigation), part 1, G11, spring 2026-27.** You have one session every teaching day, Mon 2027-02-22 to Fri 2027-06-11: 72 sessions. You propose your own theme and lock it in writing through consultation by week S3. After that, recording, exploration, development, and a mid-point portfolio run in order, and you draft the C3 research paper alongside.
 
-> [!note] Dates may change
-> The week labels (S1–S18) and the dates in the tables below are provisional. They may shift once the school publishes the 2026-27 spring calendar. The A1–A4 sitting dates fall on real 2027 weekdays.
+These spring dates are provisional. They may shift when the school publishes the 2026-27 spring calendar. The A1–A4 sittings fall on real 2027 weekdays; the week labels S1–S18 and the tail (mock week, EoT window, close) will settle when that calendar publishes.
 
 ## The five units
 
@@ -24,11 +23,11 @@ modified: 2026-07-18
 |---|---|---|
 | [[classes/a-level-art-design/unit-plans/9479-s2-unit-1-foundations-on-the-investigation\|U1 Foundations on the Investigation]] | S1–S3 | theme locked in writing |
 | [[classes/a-level-art-design/unit-plans/9479-s2-unit-2-recording-and-sustained-study\|U2 Recording & Sustained Study]] | S4–S5 | **A1** Fri 2027-03-19 |
-| [[classes/a-level-art-design/unit-plans/9479-s2-unit-3-exploration-and-artist-study\|U3 Exploration & Artist Study]] | S6, S8–S9 (elastic around the S7 mock float) | **A2** Fri 2027-04-23 |
+| [[classes/a-level-art-design/unit-plans/9479-s2-unit-3-exploration-and-artist-study\|U3 Exploration & Artist Study]] | S6, S8–S9 (elastic around the S7 mock week) | **A2** Fri 2027-04-23 |
 | [[classes/a-level-art-design/unit-plans/9479-s2-unit-4-development\|U4 Development]] | S10–S14 | **A3** Fri 2027-05-28 |
 | [[classes/a-level-art-design/unit-plans/9479-s2-unit-5-mid-point-portfolio\|U5 Mid-Point Portfolio]] | S15–S16 | **A4** Fri 2027-06-11 |
 
-Each unit page reproduces its own session table; the day-by-day teaching detail lives in the lesson docs [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-01-opening-the-investigation|L01]]–[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-15-submission-week-and-a4|L15]], reached from each unit page and from the [[classes/a-level-art-design/9479-c3-winter-brief|C3 Winter Brief]] that bridges S1's A4 into the theme proposal. The full attainment/CS register: [[classes/a-level-art-design/assessments/9479-s2-assessments|9479 S2 Assessments]].
+Each unit page carries its own session table. The day-by-day teaching detail lives in 15 lesson pages, [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-01-opening-the-investigation|L01]]–[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-15-submission-week-and-a4|L15]], reached from each unit page and from the [[classes/a-level-art-design/9479-c3-winter-brief|C3 Winter Brief]] that bridges S1's A4 into the theme proposal. The full attainment and CS register is at [[classes/a-level-art-design/assessments/9479-s2-assessments|9479 S2 Assessments]].
 
 ## Week by week
 
@@ -37,18 +36,18 @@ Each unit page reproduces its own session table; the day-by-day teaching detail 
 | S1 | 02-21 → 27 | U1 opens: read a 90/100 investigation; defend three candidate themes 1:1; consultation round 1 |
 | S2 | 02-28 → 03-06 | Proposal drafts (theme, aims, source plan, artist shortlist); consultation 2 Fri 03-05; CS1 |
 | S3 | 03-07 → 13 | **Theme locked in writing**; statement of intent; research plan; first primary-source shoot; CS2 |
-| S4 | 03-14 → 20 | U2: Stage 1 page; sustained study 1 (2-day); **A1 Fri 03-19** — recording milestone (AO1) |
-| S5 | 03-21 → 27 | A1 feedback + three actions; sustained study 2 (2-day); build recording pages; CS3 |
+| S4 | 03-14 → 20 | U2: Stage 1 page; sustained study 1 (2-day); **A1 Fri 03-19**, recording milestone (AO1) |
+| S5 | 03-21 → 27 | A1 feedback plus three actions; sustained study 2 (2-day); build recording pages; CS3 |
 | S6 | 03-28 → 04-03 | U3: twelve media experiments (3-day run); keep-or-change Fri 04-02; CS4 |
-| S7 | 04-04 → 10 | **Qingming mock week — no regular classes**; independent sketchbook brief if permitted |
+| S7 | 04-04 → 10 | **Qingming mock week, no regular classes**; independent sketchbook brief if permitted |
 | S8 | 04-11 → 17 | Artist 1 in full (analysis, context, method, response); CS5 |
-| S9 | 04-18 → 24 | Artist 2 + bridge piece + scale trial; Stage 3 pages; **A2 Fri 04-23** (AO2+AO3) |
-| S10 | 04-25 → 05-01 | U4: compose + build composition 1 (2-day); research paper outline issued; CS6 Thu 04-29 |
-| S11 | 05-02 → 08 | May Day (~05-01 → 05); resolve + photograph composition 1 — **reduced week** |
-| S12 | 05-09 → 15 | Composition 2 (compose/build/resolve); paper section drafts Fri 05-14; CS7 |
-| S13 | 05-16 → 22 | Critique both; act on it; targeted tests (2-day); choose direction + written rejection; CS8 |
-| S14 | 05-23 → 29 | Evaluation + Stage 6 + paper draft 1; **A3 Fri 05-28** (AO3) same day |
-| S15 | 05-30 → 06-05 | U5: choose + refine mid-point piece (2-day); integrate bibliography; page architecture; CS9 Thu 06-03 |
+| S9 | 04-18 → 24 | Artist 2 plus bridge piece plus scale trial; Stage 3 pages; **A2 Fri 04-23** (AO2+AO3) |
+| S10 | 04-25 → 05-01 | U4: compose and build composition 1 (2-day); research paper outline issued; CS6 Thu 04-29 |
+| S11 | 05-02 → 08 | May Day (~05-01 → 05); resolve and photograph composition 1, **Reduced** |
+| S12 | 05-09 → 15 | Composition 2 (compose, build, resolve); paper section drafts Fri 05-14; CS7 |
+| S13 | 05-16 → 22 | Critique both; act on it; targeted tests (2-day); choose direction and write rejection; CS8 |
+| S14 | 05-23 → 29 | Evaluation plus Stage 6 plus paper draft 1; **A3 Fri 05-28** (AO3) |
+| S15 | 05-30 → 06-05 | U5: choose and refine mid-point piece (2-day); integrate bibliography; page architecture; CS9 Thu 06-03 |
 | S16 | 06-06 → 12 | Submission week: photograph, sequence, edit, supervised QC; **A4 Fri 06-11** (AO1–AO4), no edits after |
-| S17 | 06-13 → 19 | Exams & close: EoT sitting (**the Final**); mid-point returned 1:1. The exam format will be confirmed in class |
-| S18 | 06-20 → 26 | **Summer production briefing** — teacher-set targets, piece by piece; semester close. Exact dates will be confirmed in class |
+| S17 | 06-13 → 19 | Exams and close: EoT sitting (**the Final**); mid-point returned 1:1. Format confirmed in class. |
+| S18 | 06-20 → 26 | **Summer production briefing**: teacher-set targets, piece by piece; semester close. Dates confirmed in class. |

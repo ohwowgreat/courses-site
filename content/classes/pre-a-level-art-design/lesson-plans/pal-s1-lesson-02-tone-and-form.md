@@ -17,13 +17,13 @@ modified: 2026-07-26
 
 # Lesson 02: Tone and Form
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1]] · U1·L2 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-01-introduction-the-sketchbook-and-first-marks|L01]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-03-texture-mark-making-and-negative-space|L03]] →
+[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1]] · U1·L2 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-01-introduction-the-sketchbook-and-first-marks|Lesson 01]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-03-texture-mark-making-and-negative-space|Lesson 03]] →
 
 ## At a glance
 
 <dl class="stat-strip">
   <div class="stat"><dt>Session</dt><dd>W2<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
-  <div class="stat"><dt>Date</dt><dd>Wed 2026-09-09</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Wed 2026-09-09</dd></div>
 </dl>
 
 | | |
@@ -33,26 +33,54 @@ modified: 2026-07-26
 | Feeds | CS1 (the exercise-set check, W4) — the value scale and tonal study are two of its four pieces |
 | Homework | Two tonal studies of one home object in two different lightings; MB posting |
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can:
+This lesson is about value and how to make an object look solid with light and dark instead of lines. You produce three pieces in your sketchbook on Wed 2026-09-09: a 10-step value scale, one shaded-form study from the chart, and one tonal study of a lit object. The value scale and the tonal study are two of the four pieces checked at CS1 in W4.
 
-1. Build a 10-step value scale with even, readable steps
-2. Make a form look solid using tone alone, without drawing its outline
-3. Locate the light source on an observed object and place its highlight, core shadow and cast shadow
+## The ideas
 
-## Goal
+### Value and the value scale
 
-The rule of the session: **build form with tone, not outline.** You will make an object look solid using only light and dark. The scale, the chart and the lamp all exist to make that shift happen.
+**Value** is how light or dark a mark is. A **value scale** is a strip built in even steps from lightest to darkest. The steps must be even, and each step must clearly differ from the ones next to it. In this lesson you build a 10-step value scale.
 
-## How it runs
+### Building form with tone, not outline
 
-- **Warm-up (10 min)** — value mark-making ladder: fill a strip from lightest to darkest as fast as control allows, pencil only.
-- **Demo (15 min)** — one object under one lamp, showing the five things tone does: highlight, light, shadow side, cast shadow, reflected light. Then the four ways to lay tone — smooth shading, hatching, cross-hatching, blending — named on the *Drawing Exercises 3* chart (cylinder, cube, cone, sphere).
-- **Studio 1 (20 min)** — *Drawing Exercises 2*: the 10-step value scale (fill the columns cleanly — steps must be even, neighbors must differ), then one form from the shading chart rendered in a chosen technique.
-- **Studio 2 (35 min)** — the tonal study: one simple object per table (egg, paper cup, sphere) under a lamp. Draw it **with no outline at all** — masses of tone only. Larger than feels comfortable; push the darks darker than feels safe.
-- **Close (10 min)** — pin-up. One question is asked of each drawing: *where is the light coming from?* Annotate in your sketchbook using the frames: "The light comes from … " / "The darkest value is in … " / "Next time I will …"
+The main idea is to **build form with tone, not outline**. You make an object look solid using masses of light and dark, with no drawn edges at all.
+
+On a lit form, tone does five things:
+
+- **Highlight**: the brightest spot, where light hits most directly.
+- **Light**: the lit side of the form.
+- **Core shadow** (the shadow side): the darkest band on the form itself, where the light turns away.
+- **Cast shadow**: the shadow the object throws onto the surface around it.
+- **Reflected light**: light bouncing back into the shadow side, a little lighter than the core shadow.
+
+To place these well, first find the **light source**: work out where the light comes from, then set the highlight, core shadow, and cast shadow to match it.
+
+### Ways to lay tone
+
+There are four ways to lay tone:
+
+- **Smooth shading**: even, blended-looking tone.
+- **Hatching**: parallel lines.
+- **Cross-hatching**: crossed sets of lines for darker tone.
+- **Blending**: rubbing or smoothing tone together.
+
+You practice these on the chart forms: cylinder, cube, cone, and sphere.
+
+## Day by day
+
+- **Wed 09-09.** Warm-up value ladder, then a demo of one object under one lamp showing the five things tone does and the four ways to lay tone. You build the 10-step value scale, render one form from the chart in a chosen technique, then draw a lit object (egg, paper cup, or sphere) with no outline, large, pushing the darks dark. At the pin-up, each drawing is asked one question: where is the light coming from? Annotate the study in your sketchbook: "The light comes from … " / "The darkest value is in … " / "Next time I will … ". Homework: two tonal studies of one home object in two different lightings, plus an MB posting.
 
 ## Assessment
 
-Nothing is graded today. The value scale and tonal study go into your sketchbook as two of CS1's four pieces (checked W4, 09-23). Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+Nothing is graded today. The value scale and tonal study go into your sketchbook as two of CS1's four pieces, checked in W4 on 09-23. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+
+## Review
+
+Check you can:
+
+- Build a 10-step value scale with even steps where each step differs from its neighbors.
+- Make a form look solid using tone alone, with no outline.
+- Find the light source on an object and place its highlight, core shadow, and cast shadow.
+- Name and use smooth shading, hatching, cross-hatching, and blending.

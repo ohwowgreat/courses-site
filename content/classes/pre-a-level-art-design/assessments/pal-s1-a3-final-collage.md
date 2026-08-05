@@ -41,7 +41,7 @@ This assessment asks you to show that you can:
 
 You finish the collage. The last layer goes down and the work starts speaking for itself.
 
-The test from Lesson 10, asked one final time before you submit:
+Use the test from Lesson 10 one final time before you submit:
 
 **Cover any one element with your hand. Does the collage lose part of its sentence?**
 
@@ -79,13 +79,13 @@ Under the [[shared/bnds-assessment-framework|BNDS framework]] this becomes a cur
 
 - Back within **five working days**, with written feedback.
 - Your process material is sketchbook evidence for **SB2** and **A5**.
-- U4 opens next week with a route decision: **Graphic Design (the poster) or Printmaking (linocut)**. A4 follows whichever route the class takes; which route runs will be confirmed in class.
+- U4 opens next week, and it opens with a route decision: **Graphic Design (the poster) or Printmaking (linocut)**. A4 follows whichever route the class takes.
 
 ## How to prepare
 
 | Where it came from | What to use it for |
 |---|---|
-| **CS3**, the collage experiment set | Juxtaposition and combination, already practised and marked |
+| **CS3**, the collage experiment set | Juxtaposition and combination, already practiced and marked |
 | **L10**, juxtaposition and scale | The covering test, which is the assessment's own standard |
 | **L11**, layering, text and image | Layering, and how words behave inside an image |
 | **L12**, theme and composition drafts | Your main-idea sentence and your chosen draft |

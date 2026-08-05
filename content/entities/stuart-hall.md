@@ -8,20 +8,26 @@ modified: 2026-07-20
 ---
 # Stuart Hall
 
-Stuart Hall's ideas come up in this course in two ways: **encoding and decoding**, and **representation**.
+Stuart Hall is a media theorist. You study him for two ideas: **encoding and decoding**, and **representation**.
 
-## Encoding and decoding
+## What Cambridge attributes to him
 
-This is an extension activity: exploring Stuart Hall's ideas of encoding and decoding when making sense of a media text. Extension activities are differentiated content for stronger learners, not core AS content.
+**Encoding and decoding** is Hall's model of how you make sense of a media text. The producer encodes a message; you decode it, and you may not read it the way the producer intended. This is offered as an Extension activity, with a video to explore.
 
-The standard three reading positions — **dominant, negotiated, oppositional** — are widely taught. Treat them as course-standard knowledge.
+**Representation** is the second idea. Hall is one of the named theories of representation you can use, alongside Van Zoonen, hooks, Gilroy, and Alvarado. His work here covers stereotyping and the racialized regime of representation.
 
-Hall's model is a way of thinking about how audiences interpret the media, including how they may interpret the same text in different ways, using a variety of theories or ideologies.
+## Why he matters here
 
-## Representation
+The syllabus asks you to understand:
 
-Hall is also studied as a **representation theorist**. When you learn the concept of Representation, you can do this with reference to theories of representation, including **Hall, Van Zoonen, hooks, Gilroy, Alvarado**.
+> "how audiences interpret the media, including how they may interpret the same texts in different ways, using a variety of theories or ideologies" (Syllabus 2027 p.15)
 
-## Where it leads
+Hall's model is one answer to that. His three reading positions are **dominant** (you accept the intended message), **negotiated** (you partly accept it, partly resist), and **oppositional** (you reject it and read against it). Treat these three positions as course-standard knowledge.
 
-Encoding/decoding is the bridge from thinking about audiences as a target to thinking about audiences as interpreters. It feeds forward into [[concepts/power-and-the-media|Power and the Media]], where the question of whose reading counts becomes the topic itself.
+## Its status in the course
+
+Encoding and decoding is an Extension activity: extra content for stronger learners, not core AS material. It is still the cleanest bridge from thinking of the audience as a target to thinking of the audience as an interpreter. It feeds forward into [[concepts/power-and-the-media|Power and the Media]], where the question of whose reading counts becomes the topic itself.
+
+## The teaching move
+
+Take one text the class disagrees about. Map the actual readings onto the three positions: dominant, negotiated, oppositional. Your own argument becomes the evidence, and a disagreement turns into exam-usable analysis.

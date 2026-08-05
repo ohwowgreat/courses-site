@@ -9,7 +9,7 @@ modified: 2026-07-26
 ---
 # S2 Lesson 09: Composition 1
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-4-development|Unit 4]] · Lesson 09 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-08-artist-2-bridge-and-a2|L08]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-10-resolving-composition-1|L10]] →
+[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-4-development|Unit 4]] · Lesson 09 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-08-artist-2-bridge-and-a2|Lesson 08]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-10-resolving-composition-1|Lesson 10]] →
 
 ## At a glance
 
@@ -25,32 +25,49 @@ modified: 2026-07-26
 | Graded | **CS6** (research paper outline populated) Thu 2027-04-29 — written annotation. **A3** (development + paper draft 1, AO3) sits Fri 2027-05-28 |
 | Homework | ≤30 min: over the May Day holiday (~05-01 → 05), read toward one paper section; no new studio work required |
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can:
+This lesson opens Unit 4 and the development stage. You compose your first full composition, **composition 1**, from your A2 feedback and your own studies. You build it across two studio days and push it as far as it goes before the May Day break. Midway through the week you receive the research paper outline and populate it with your own material. That is your **CS6**, a written annotation due Thu 2027-04-29. Composition 1 continues in Lesson 10, and this development work feeds **A3**, which you sit Fri 2027-05-28.
 
-1. Compose composition 1 from the A2 feedback and your own studies
-2. Hold one idea across two studio days rather than starting over
-3. Populate the research paper outline with your own content (CS6)
+## The ideas
 
+### The development stage
+
+Unit 4 opens the **development stage**, the longest stretch of the semester. Its assessment objective is **AO3 Develop**. Development means carrying an idea forward, deeper and further, rather than starting new ideas.
+
+### Composition 1
+
+**Composition 1** is your first full composition. You compose it from your A2 feedback and your own studies. It is not a new idea. It is the development your own exploration pointed to.
+
+Development rewards **holding one idea**. You commit to a single idea and build it across two studio days. One idea held across two days goes deeper than two ideas started and abandoned. Hedging across three ideas at once weakens the work.
+
+### The research paper outline
+
+The **research paper outline** gives you the structure of your research paper. The structure is set for you; the content is yours. You populate it with the artist material you began in Unit 3: artist context, sources, and argument. From here the paper drafts alongside your studio work, integrated, so the writing keeps pace with the making. **CS6** checks that the outline carries your own material, not an empty template.
+
+## Day by day
+
+- **Mon 04-26.** Use your A2 feedback and your own studies to compose composition 1, the development your exploration pointed to.
+- **Tue 04-27.** Commit to one idea and build composition 1, day 1.
+- **Wed 04-28.** Carry the same composition further, day 2.
+- **Thu 04-29.** The research paper outline is issued. Populate it with your artist material from Unit 3. This is CS6.
+- **Fri 04-30.** Push composition 1 as far as it goes before the break. Resolve what you can, and mark what still needs resolving when studio resumes. Over the May Day holiday (~05-01 → 05), read toward one paper section; no new studio work is required.
+
+## Assessment
+
+**CS6** (research paper outline populated) is due **Thu 2027-04-29**. It is a written annotation that starts your paper drafting in step with the development work. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It is marked on whether the outline carries your own material, artist context, sources, and argument, not an empty template. Studio resumes in the reduced May Day week (S11, ~05-01 → 05) in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-10-resolving-composition-1|Lesson 10]], where composition 1 is resolved and photographed. The third attainment, **A3** (development + research paper draft 1, AO3), sits **Fri 2027-05-28**. These spring dates may shift when the school publishes the calendar for that period.
+
+## Review
+
+Check you can:
+
+- Compose **composition 1** from your A2 feedback and your own studies.
+- Hold one idea across two studio days instead of starting over.
 
 <figure class="plate">
   <img src="../../../static/img/composition.jpg" alt="Clara Peeters, Still Life with Cheeses, Almonds and Pretzels, c. 1613" loading="lazy" />
   <figcaption>Clara Peeters, <em>Still Life with Cheeses, Almonds and Pretzels</em>, c. 1613</figcaption>
 </figure>
 
-## Goal
-
-Unit 4 opens the development stage — the longest stretch of the semester — and it begins with your first full composition. From the A2 feedback and your own studies, you compose composition 1, hold one idea across two studio days rather than starting over, and push it as far as it goes before the May Day break. Midweek the research paper outline is issued: the structure is set for you, the content is yours, and you populate it as CS6 so the writing keeps pace with the making.
-
-## How it runs
-
-- **Mon 04-26 — feedback; compose composition 1.** Take your A2 feedback and compose the first full composition **from your own studies** — not a new idea, but the development your exploration pointed to.
-- **Tue 04-27 — build composition 1, day 1.** Commit to one idea and build it. Development rewards holding a decision, not hedging across three.
-- **Wed 04-28 — build composition 1, day 2.** Carry the same composition further. One idea held across two days goes deeper than two started and abandoned.
-- **Thu 04-29 — research paper outline issued + CS6.** You receive the outline and populate it with the artist material you began in Unit 3. **CS6** checks the outline is populated, not blank: from here the paper drafts alongside the work, integrated.
-- **Fri 04-30 — push composition 1.** Take it as far as it goes before the break — resolve what you can, and mark what still needs resolving when studio resumes.
-
-## Assessment
-
-**CS6** (research paper outline populated) is due **Thu 2027-04-29**, a written annotation that starts the paper drafting in step with the development work — see the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It is marked on whether the outline carries *your own material* — artist context, sources, argument — not an empty template. Studio then resumes in the reduced **May Day week** (S11, ~05-01 → 05) in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-10-resolving-composition-1|L10]], where composition 1 is resolved and photographed. The third attainment, **A3** (development + research paper draft 1, AO3), sits **Fri 2027-05-28**. These spring dates may shift when the school publishes the calendar for that period.
+- Explain what the **development stage** (AO3 Develop) asks of your work.
+- Populate the **research paper outline** with your own artist material for **CS6**.

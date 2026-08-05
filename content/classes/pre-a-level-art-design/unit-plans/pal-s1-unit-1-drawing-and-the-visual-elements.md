@@ -23,28 +23,26 @@ modified: 2026-07-20
 
 ## What this unit does
 
-Spine: **"Observe · the elements."** Five Wednesday double sessions (W1–5) open the Grade 10 year by working through the visual elements — line, tone and form, texture, mark-making, negative space — entirely from observation. The unit closes on the semester's first Attainment: one final observational drawing made in class, with a written reflection.
+Spine: **"Observe · the elements."** Five Wednesday double sessions (W1–5) open the Grade 10 year. You work through the visual elements: line, tone and form, texture, mark-making, negative space, all from observation. The unit closes on the semester's first Attainment: one final observational drawing made in class, with a written reflection.
 
 ## Session-by-session
 
-One lesson per session, linked below.
+Dates below may shift if the school publishes a different calendar for this period.
 
-| Wk | Wednesday | Lesson | Content | Assessment |
+| Wk | Wednesday | Lesson | Content | Marker |
 |---|---|---|---|---|
-| W1 | 2026-09-02 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-01-introduction-the-sketchbook-and-first-marks\|U1·L1]] · S1/17 | Course intro; the sketchbook contract; the visual elements; line studies. | — |
+| W1 | 2026-09-02 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-01-introduction-the-sketchbook-and-first-marks\|U1·L1]] · S1/17 | Course intro; the sketchbook contract; the visual elements; line studies | — |
 | W2 | 2026-09-09 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-02-tone-and-form\|U1·L2]] · S2 | Tone and form — "build form with tone, not outline" | — |
 | W3 | 2026-09-16 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-03-texture-mark-making-and-negative-space\|U1·L3]] · S3 | Texture, mark-making, negative space | |
 | W4 | 2026-09-23 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-04-composing-the-final-drawing\|U1·L4]] · S4 | Compose and begin the final drawing | **CS1** exercise set graded |
 | W5 | 2026-09-30 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing\|U1·L5]] · S5 | **A1: final observational drawing** + reflection, in class | **A1**; HW1 set |
 
-These dates may shift when the school publishes its calendar for this period.
-
 ## Assessment
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing|A1 Drawing]].
 
-- **A1 (Attainment)** — 2026-09-30 (W5): final observational drawing + reflection, made in class across W4–W5. Announced 2026-09-16 (W3), two classes ahead. Marking focus: **observation, tone, composition**. A1 also feeds the mid-term grades due 2026-10-29.
-- **CS1 (Course Skills)** — 2026-09-23 (W4): exercise-set check (contour, tonal, texture, negative-space studies). Focus: the visual elements.
+- **A1 (Attainment):** 2026-09-30 (W5). Final observational drawing plus reflection, made in class across W4–W5. It is announced on 2026-09-16 (W3). Marking focus: **observation, tone, composition**. A1 also feeds the mid-term grades due 2026-10-29.
+- **CS1 (Course Skills):** 2026-09-23 (W4). Exercise-set check (contour, tonal, texture, negative-space studies). Focus: the visual elements.
 - **HW1** (break photo task, ≥20 photos of one subject in varied viewpoint/light) is *set* at W5 but belongs to Unit 2, due 2026-10-14.
 
 Full details: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|full register]].

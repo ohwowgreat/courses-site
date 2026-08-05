@@ -25,14 +25,14 @@ modified: 2026-08-02
 | Format | Your sketchbook, submitted as it is. **Nothing is made for it on the day** |
 | Covers | The whole semester, all four units |
 | Marked on | Ideas and creativity · Experimentation · Visual research · Reflection · Presentation |
-| Announced | Week 1 |
+| Known since | Week 1 |
 | Submitted alongside | The [[classes/pre-a-level-art-design/assessments/pal-s1-eot-semester-portfolio\|End of Term portfolio]] |
 
 ## Objectives
 
-The sketchbook is the only assessment in this course that cannot be produced in a session. It asks one question: **is there evidence, across a whole semester, of somebody thinking in a book?**
+The sketchbook is the only assessment in this course that you cannot produce in a session. It asks one question: is there evidence, across a whole semester, of somebody thinking in a book?
 
-Specifically it asks whether you can show:
+It asks whether you can show:
 
 1. Ideas that developed rather than arrived.
 2. Experiments, including the ones that failed.
@@ -44,7 +44,7 @@ Specifically it asks whether you can show:
 
 Hand in the sketchbook. That is the whole task.
 
-What should be in it, accumulated since Week 1:
+What should be in it, built up since Week 1:
 
 - Weekly work from every session, dated.
 - Your tonal scales, texture studies and negative-space exercises from U1.
@@ -54,13 +54,13 @@ What should be in it, accumulated since Week 1:
 - The reflections written after each attainment.
 - Whatever you did over the National Day and winter breaks, dated.
 
-**You have already been shown this standard twice**, at the SB1 and SB2 spot-checks. A5 is the same book, judged completely rather than sampled.
+You have already seen this standard twice, at the SB1 and SB2 spot-checks. A5 is the same book, judged completely rather than sampled.
 
 ## Instructions
 
 1. Bring the book on Wed 2027-01-06.
 2. Before you hand it in, **number your pages** if they are not numbered, and make sure everything is dated.
-3. Do not tidy it by removing failures. A sketchbook with no failed experiments in it evidences less, not more.
+3. Do not tidy it by removing failures. A sketchbook with no failed experiments in it shows less, not more.
 4. Do not add three weeks of work the night before. Dated work made on the day is the point, and the difference is visible.
 5. Hand it in at the close, with the portfolio.
 
@@ -90,7 +90,7 @@ Under the [[shared/bnds-assessment-framework|BNDS framework]] this becomes a cur
 
 ## How the sketchbook is graded across the semester
 
-The book earns marks **three different ways**, so upkeep pays three times:
+The book earns marks **three different ways**. This is worth understanding, because it means upkeep pays three times:
 
 | When | What | Category |
 |---|---|---|
@@ -108,6 +108,6 @@ The spot-checks are **not** mini-versions of A5. They look at progress and upkee
 
 ## How to prepare
 
-There is no preparing for A5 in the last week. It is prepared by keeping it every week, which is the reason the weekly MB posting exists.
+There is no preparing for A5 in the last week. You prepare it by keeping it every week, which is the reason the weekly MB posting exists.
 
 The one useful thing to do before submission: **read your own book front to back.** Then number and date anything that is missing either. You will find the gaps faster than your teacher will, and that is a page of reflection in itself.

@@ -19,11 +19,11 @@ modified: 2026-07-18
 
 ## What this unit does
 
-This is the exploration and artist-study stage at exam pace, across AO2 Explore and AO3 Develop. You turn your A1 feedback into targets; run **eight** experiments (drawn from selections you have already proven) to a written keep-or-change decision; analyse two artists and answer them in visible work within single sessions; and produce a bridge piece and a scale trial — at the supervised-test dimensions — to carry your study into development. The unit closes with **A2**, marked across AO2 and AO3.
+This unit is the exploration and artist-study stage, worked at exam pace, across **AO2 Explore** and **AO3 Develop**. You turn your A1 feedback into targets. You run **eight** experiments, drawn from selections you have already proven, and end each one with a written keep-or-change decision. You analyze two artists and answer each in visible work within single sessions. A **bridge piece** and a **scale trial**, made at the supervised-test dimensions, carry your study toward development. The unit closes with **A2**, marked across AO2 and AO3.
 
 ## Dates & span
 
-Weeks S4–S5 (about 2028-03-12 → 2028-03-25), 10 sessions. These dates may shift when the school publishes the calendar for this period.
+Weeks S4–S5, about 2028-03-12 to 2028-03-25, 10 sessions. These dates are projected. They may shift when the school publishes the calendar for this period. See the [[classes/a-level-art-design/unit-plans/9479-semester-4-plan|semester plan]].
 
 ## Sequence of work
 
@@ -31,8 +31,8 @@ Weeks S4–S5 (about 2028-03-12 → 2028-03-25), 10 sessions. These dates may sh
 |---|---|---|
 | U3·L1 | Feedback; plan the experiments | Targets first, then risk |
 | U3·L2–L3 | Studio: media experiments (2-day session) | Eight experiments; what carries the question |
-| U3·L4 | Artist 1: analysis and response in one pass | Analyse, then answer in work |
-| U3·L5 | Artist 1 response work | Influence in the work |
+| U3·L4 | Artist 1: analysis and response in one pass | Analyze, then answer in work |
+| U3·L5 | Artist 1 response work | Influence in the work. |
 | U3·L6 | Artist 2: analysis and response | Two angles, one question |
 | U3·L7 | Studio: bridge piece | From study into development |
 | U3·L8 | Studio: scale trial | At the test scale; fix what broke |
@@ -41,16 +41,10 @@ Weeks S4–S5 (about 2028-03-12 → 2028-03-25), 10 sessions. These dates may sh
 
 ## Assessment
 
-**A2 — Fri 2028-03-24:** exploration and artist study (experiments, media selection, two artists with visible work responses, bridge piece, scale trial), marked against AO2+AO3.
-
-CS tasks:
-- **CS4** — Fri 2028-03-17: experiment documentation + artist 1 response
-- **CS5** — Tue 2028-03-21: artist pages + bridge piece check
-
-See the [[classes/a-level-art-design/assessments/9479-s4-assessments|full register]].
+You sit **A2 on Fri 2028-03-24**: exploration and artist study (experiments, media selection, two artists with visible work responses, bridge piece, scale trial), marked against AO2+AO3. Two CS tasks come first: **CS4** on Fri 2028-03-17 (experiment documentation and artist 1 response), and **CS5** on Tue 2028-03-21 (artist pages and bridge piece check). See the [[classes/a-level-art-design/assessments/9479-s4-assessments|full register]].
 
 ## Key content
 
-- ◆ Your media choices carry conceptual logic **even at exam pace**.
-- ◆ Citation without response earns nothing — **the response is the evidence**.
-- The scale trial happens at the dimensions the supervised test will use: surprises belong here, not in the test room.
+- ◆ Media choices carry conceptual logic **even at exam pace**.
+- ◆ Citation without response earns nothing: **the response is the evidence**.
+- The scale trial happens at the dimensions the supervised test will use. Surprises belong here, not in the test room.

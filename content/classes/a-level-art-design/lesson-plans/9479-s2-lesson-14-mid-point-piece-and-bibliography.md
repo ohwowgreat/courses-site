@@ -9,7 +9,7 @@ modified: 2026-07-26
 ---
 # S2 Lesson 14: Mid-Point Piece and Bibliography
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-5-mid-point-portfolio|Unit 5]] · Lesson 14 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-13-evaluation-draft-1-and-a3|L13]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-15-submission-week-and-a4|L15]] →
+[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-5-mid-point-portfolio|Unit 5]] · Lesson 14 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-13-evaluation-draft-1-and-a3|Lesson 13]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-15-submission-week-and-a4|Lesson 15]] →
 
 ## At a glance
 
@@ -25,13 +25,9 @@ modified: 2026-07-26
 | Graded | **CS9** (bibliography + source integration check) Thu 2027-06-03 — written annotation. **A4** (mid-point portfolio, AO1–AO4) sits Fri 2027-06-11 |
 | Homework | ≤30 min: over the weekend, prepare images and page order for the build, ahead of submission week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-15-submission-week-and-a4\|L15]] |
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can:
-
-1. Choose and refine the piece that carries the investigation
-2. Integrate the bibliography into the body of the work rather than parking it at the back
-3. Plan the page architecture before assembly begins
+This lesson opens the final unit, the mid-point portfolio. You choose the one piece that carries your investigation and refine it to a standard the mid point can stand on. You then integrate your bibliography into the body of the work and plan the page architecture. Your graded deliverable is **CS9**, a written annotation due Thu 2027-06-03. The work you sequence this week feeds directly into submission week, so next week is assembly, not invention. These dates may shift if the school publishes a revised calendar for this period.
 
 
 <figure class="plate">
@@ -39,18 +35,37 @@ By the end of this lesson, you can:
   <figcaption>Vincent van Gogh, <em>The Potato Peeler</em>, 1885</figcaption>
 </figure>
 
-## Goal
+## The ideas
 
-This final unit builds the mid-point portfolio, and it opens by choosing the piece that carries the investigation and bringing it to a standard the mid point can stand on. From your A3 feedback you choose and refine the resolved piece, then integrate the bibliography **into the body of the work** — not a detached list at the back, which loses AO1 marks — and plan the page architecture before you build it. You plan the sequence this week so that next week is assembly, not invention.
+### The mid-point piece
 
-## How it runs
+The **mid-point piece** is the single resolved piece that carries your investigation. It is the work the whole portfolio is built around. You choose it from your A3 feedback, then refine it. This is refinement, not a restart: the piece is already chosen, and now you finish it properly. It has to hold as the strongest single thing in the portfolio.
 
-- **Mon 05-31 — feedback; choose the mid-point piece.** Take your A3 feedback and choose the one resolved piece that carries the investigation — the work the portfolio is built around.
-- **Tue 06-01 — refine the resolved piece, day 1.** Bring it to a standard the mid point can stand on. This is refinement, not a restart: the piece is chosen, now it is finished properly.
-- **Wed 06-02 — refine the resolved piece, day 2.** Finish the refinement; the mid-point piece has to hold as the strongest single thing in the portfolio.
-- **Thu 06-03 — integrate the bibliography + CS9.** Weave the sources into the body of the work — cited where they did their work, in the pages, not listed at the back. **A detached bibliography loses AO1 marks.** CS9 checks the integration.
-- **Fri 06-04 — page architecture.** Plan the sequence of the whole mid-point portfolio before building it: the journey in order, decided on paper, so next week is assembly, not invention.
+### Integrating the bibliography
+
+**Bibliography integration** means weaving your sources into the body of the work, cited where they did their work, in the pages themselves. Do not park a detached list at the back. A detached bibliography loses AO1 marks. CS9 checks whether your sources are integrated into the body rather than listed at the end.
+
+### Page architecture
+
+**Page architecture** is the planned sequence of the whole mid-point portfolio, decided before you build it. You set the journey in order, on paper, so that assembly next week follows a plan instead of inventing as it goes.
+
+## Day by day
+
+- **Mon 05-31.** Read your A3 feedback and choose the one resolved piece that carries the investigation.
+- **Tue 06-01.** Refine the chosen piece, day 1, bringing it toward the mid-point standard.
+- **Wed 06-02.** Finish the refinement, day 2, so the mid-point piece holds as the strongest single work.
+- **Thu 06-03.** Integrate the bibliography into the body of the work. CS9 is due today. Remember a detached bibliography loses AO1 marks.
+- **Fri 06-04.** Plan the page architecture: the sequence of the whole portfolio, decided on paper. Over the weekend, prepare your images and page order for the build (≤30 min).
 
 ## Assessment
 
-**CS9** (bibliography + source integration check) is due **Thu 2027-06-03**, a written annotation marked on whether your sources are integrated into the body of the work rather than detached at the back — see the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It is the last CS of the semester, and it protects the AO1 marks a back-of-portfolio bibliography would throw away. Next week is submission in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-15-submission-week-and-a4|L15]]: the portfolio photographed, sequenced, edited and submitted, with **A4** (mid-point portfolio, AO1–AO4) on **Fri 2027-06-11**.
+**CS9** (bibliography + source integration check) is due **Thu 2027-06-03**. It is a written annotation, marked on whether your sources are integrated into the body of the work rather than detached at the back. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It is the last CS of the semester, and it protects the AO1 marks a back-of-portfolio bibliography would lose. Next week is submission in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-15-submission-week-and-a4|L15]]: the portfolio photographed, sequenced, edited and submitted, with **A4** (mid-point portfolio, AO1–AO4) on **Fri 2027-06-11**.
+
+## Review
+
+Check you can:
+
+- Choose the **mid-point piece** that carries your investigation from your A3 feedback.
+- Refine that resolved piece to a standard the mid point can stand on.
+- Explain **bibliography integration** and why a detached list at the back loses AO1 marks.
+- Plan the **page architecture** for the whole portfolio before assembly begins.

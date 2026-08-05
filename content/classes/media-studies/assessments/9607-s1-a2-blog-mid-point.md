@@ -56,7 +56,7 @@ The seven posts:
 
 Three rules apply to all seven: **every post dated on the day it happened**, **individual contributions labeled**, and **no gaps**.
 
-Submission is undramatic. You post the URL in the first five minutes of class on Monday. There is no ceremony and no presentation.
+Submission is simple. You post the URL in the first five minutes of class on Monday. There is no ceremony and no presentation.
 
 ## Instructions
 
@@ -94,7 +94,7 @@ Your mark is curved under [[shared/bnds-assessment-framework|the BNDS framework]
 ## After the sit
 
 - Marking starts the same night, because **mid-term grades are due Thu 2026-10-29**. A2 is the attainment that feeds them.
-- Whatever A2 finds is the thing to fix before A3 on Fri 2026-11-27, when the same blog is marked again as part of the complete portfolio. Nothing about A2 is final: it is a mid-point precisely so the second half can be better.
+- Whatever A2 finds is the thing to fix before A3 on Fri 2026-11-27, when the same blog is marked again as part of the complete portfolio. Nothing about A2 is final: it is a mid-point, so the second half can be better.
 
 ## How to prepare
 

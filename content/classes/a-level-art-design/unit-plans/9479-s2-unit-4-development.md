@@ -19,11 +19,11 @@ modified: 2026-07-18
 
 ## What this unit does
 
-This is the development stage, under AO3 Develop, with the research paper drafted alongside it. You build two competing compositions to the same resolved standard — the direction you choose and the alternative you genuinely reject — and critique both against your intention. Targeted tests answer only what the critique left unresolved. You then choose the final direction, write out why you rejected the other, and assemble the written evaluation and the Stage 6 page as a record of your decisions. You also complete **draft 1** of the research paper from your contextual writing, following a teacher-set outline. The unit closes with **A3**, marked against AO3.
+This is the development stage, under **AO3 Develop**, with the research paper drafted at the same time. You build two competing compositions to the same resolved standard: your chosen direction and a genuinely rejected alternative. You critique both against your intention. Targeted tests then answer only what the critique left unresolved. You choose the final direction and write out why you rejected the other. You write the evaluation and assemble the Stage 6 page, which is the record of your decisions. You also complete research paper **draft 1** from your contextual writing, following a teacher-set outline. The unit closes with **A3**, marked against AO3 with written and practical work seen together.
 
 ## Dates & span
 
-Weeks S10–S14 (Mon 2027-04-25 → ~2027-05-29), 22 sessions, including the reduced May Day week (S11). These spring dates are provisional and may shift when the school publishes the calendar for that period.
+Weeks S10–S14 (Mon 2027-04-25 to about 2027-05-29), 22 sessions, across the May Day reduced week (S11). These spring dates are provisional and may shift when the school publishes the calendar. See the [[classes/a-level-art-design/unit-plans/9479-semester-2-plan|semester plan]].
 
 ## Sequence of work
 
@@ -51,17 +51,10 @@ Weeks S10–S14 (Mon 2027-04-25 → ~2027-05-29), 22 sessions, including the red
 
 ## Assessment
 
-**A3, Fri 2027-05-28** — the development milestone plus research paper draft 1 (compositions 1 and 2, targeted tests, evaluation, Stage 6 page), marked against AO3. This is the last session before the 14 days leading to A4.
-
-CS tasks:
-- **CS6** Thu 2027-04-29 — paper outline populated
-- **CS7** Fri 2027-05-14 — paper section drafts
-- **CS8** Fri 2027-05-21 — targeted tests + critique response
-
-See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]].
+You sit **A3 on Fri 2027-05-28**: the development milestone plus research paper draft 1. This covers compositions 1 and 2, the targeted tests, the evaluation, and the Stage 6 page, marked against AO3. This is the last session that gives 14 days before A4. CS tasks: **CS6** Thu 2027-04-29 (paper outline populated), **CS7** Fri 2027-05-14 (paper section drafts), **CS8** Fri 2027-05-21 (targeted tests plus critique response). See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]].
 
 ## Key content
 
-- Both compositions must reach the same resolved standard, so the comparison is fair; composition 2 is not built to fail.
-- A draft comparison page with clearly articulated rejections earns top AO4 in the exemplars, and you build it here.
-- Draft 1 grows from your artist writing, not bolted on: argue before you polish the prose.
+- Both compositions reach the same resolved standard, so the comparison is fair. Composition 2 is not built to fail.
+- A draft comparison page with the rejections written out earns top **AO4** in the exemplars. You build it here.
+- Draft 1 grows from your artist writing, not bolted on. Argue before you polish the prose.

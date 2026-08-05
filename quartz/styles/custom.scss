@@ -1372,3 +1372,38 @@ footer {
     filter: brightness(0.9) saturate(0.95);
   }
 }
+
+// ── Practice reveals ─────────────────────────────────────────────────────────
+// The tap-to-reveal answer blocks in the "## Practice" section of lesson pages
+// (sync.mjs folds "> **Answer:**" quotes into these). details/summary only, so
+// they work in the static build with no script. Summary set in the site's
+// micro-caps instrument, same as the At-a-glance labels.
+
+details.reveal {
+  margin: 0.6rem 0 1.5rem;
+  padding: 0.45rem 0.9rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+
+  & > summary {
+    cursor: pointer;
+    font-size: 0.7rem;
+    font-weight: 650;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    color: var(--gray);
+    user-select: none;
+
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+
+  &[open] > summary {
+    margin-bottom: 0.5rem;
+  }
+
+  & > p:last-child {
+    margin-bottom: 0.35rem;
+  }
+}

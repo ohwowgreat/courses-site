@@ -7,7 +7,7 @@ related:
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-12-institutions-and-section-a-craft]]"
   - "[[classes/media-studies/9607-resource-library]]"
   - "[[concepts/media-audience]]"
-modified: 2026-07-26
+modified: 2026-08-03
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/good-glass-of-beer.jpg" alt="Édouard Manet, A Good Glass of Beer, 1873 — gratification, personified" loading="lazy" />
@@ -16,9 +16,9 @@ modified: 2026-07-26
 
 # Lesson 11: Audiences and the Portfolio Submission
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts|Unit 5]] · Lesson 11 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-10-the-creative-critical-reflection|L10]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-12-institutions-and-section-a-craft|L12]] →
+[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts|Unit 5]] · Lesson 11 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-10-the-creative-critical-reflection|Lesson 10]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-12-institutions-and-section-a-craft|Lesson 12]] →
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-11-audiences-and-the-portfolio-submission.pptx">Download the deck (PowerPoint, 736 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-11-audiences-and-the-portfolio-submission.pptx">Download the deck (PowerPoint, 728 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
 ## At a glance
 
@@ -31,60 +31,47 @@ modified: 2026-07-26
 | | |
 |---|---|
 | Band/Unit | U5 Media Contexts ([[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts\|S1 Unit 5]]) |
-| Deliverable | A3 portfolio submitted Fri 11-27 (product, CCR, blog); production target set day 6 (LB4) |
+| Deliverable | A3 portfolio submitted Fri 11-27 (product, CCR, blog); response-to-feedback target set day 6 (LB4) |
+| Feeds | Component 1 grade; Semester 2 production targets |
 | Homework | None across the submission; feedback response after |
-
-## Objectives
-
-By the end of this lesson you can:
-
-1. Distinguish mass, niche and target audiences on real examples and explain why effects models oversimplify
-2. Identify your CCR's weakest section and improve it in the surgery session
-3. Submit a complete portfolio on time: finished product, CCR, dated blog, nothing missing
-4. Write one specific, evidenced production target from the A3 feedback (LB4)
 
 ## Overview
 
-This week closes the Component 1 work and starts audience theory. The Wednesday double is the last session where help is available on your CCR, so Friday's submission is logistics only — no edits after it goes in. The two days that follow apply uses and gratifications to your own media use, then turn your returned portfolio into one production target for Semester 2.
+This lesson closes the Component 1 arc and starts audience theory. Your deliverable is the A3 portfolio: your finished product, your CCR, and your dated blog, all submitted on Fri 11-27 with no edits after. The Wednesday double is your last help window before you submit. After submission you learn uses and gratifications, then turn your returned portfolio into one production target for Semester 2, logged as LB4. That grade feeds your Component 1 result.
 
-## How it runs
+## The ideas
 
-### D1 — Mon 11-23: mass, niche, target
+### Mass, niche, and target audiences
 
-- **Starter (5 min)** — three real texts on screen (a CCTV gala, a bilibili niche channel, a K-pop comeback teaser). One question: *who is each one for — everyone, someone, or you specifically?*
-- **Input (15 min)** — **mass**, **niche**, and **target** audiences; demographics vs psychographics; why "everyone" is almost always a wrong answer and why advertisers pay for the difference.
-- **Mapping (20 min)** — in pairs, profile the three texts' audiences with evidence from the texts themselves (address, platform, scheduling, ad breaks).
-- **Close (5 min)** — whose audience did *your* C1 product actually reach, per the screening cards?
+A **mass audience** is aimed at everyone. A **niche audience** is aimed at a small, specific group. A **target audience** is the particular group a text is built for. "Everyone" is almost always the wrong answer, and advertisers pay for the difference.
 
-### D2 — Tue 11-24: what effects models can't explain
+You describe an audience two ways. **Demographics** are facts like age, gender, and income. **Psychographics** are values, interests, and lifestyle. You find the evidence in the text itself: its mode of address, its platform, its scheduling, and its ad breaks.
 
-- **Retrieval (5 min)** — mass/niche/target, one example each.
-- **Input (15 min)** — effects models stated fairly (hypodermic, cultivation), then their limits: what they cannot explain about your own viewing — the horror fan who sleeps fine, the ad seen a hundred times that never sold anything.
-- **The counter-evidence log (20 min)** — each student contributes one honest example of media that *failed* to affect them as the model predicts, and one that worked. The pattern: audiences do things with media; media does not simply do things to audiences.
-- **Close (5 min)** — that idea leads to Blumler and Katz, which you'll pick up Monday.
+The three worked examples are a Super Bowl half-time show (mass), a niche YouTube restoration channel (niche), and a K-pop comeback teaser (target). A CCTV gala or a bilibili example can serve the same point as an aside.
 
-### D3 — Wed 11-25 (double): CCR surgery
+### Effects models and their limits
 
-- **Brief application (15 min)** — one audiences exercise: the coursebook §6.7 screening-feedback activity run on two volunteers' near-final products.
-- **The surgery (60 min)** — the last help window before submission. The queue is ordered by CS7 severity; every student is seen; strongest drafts get peer support instead of teacher time. Each visit ends with one fix executed.
-- **The checklist (15 min)** — submission checklist run at the close: product exported and playable; CCR in its creative format, posted; blog complete, posts dated, contributions labeled; URLs correct.
+**Effects models** claim media does things to its audience. Two named versions: the **hypodermic** model, where a message is injected straight into the viewer, and **cultivation**, where repeated viewing slowly shapes what you believe about the world. These models oversimplify. They cannot explain the horror fan who sleeps fine, or the ad seen a hundred times that never sold anything. The pattern to hold: audiences do things with media; media does not simply do things to audiences.
 
-### D4 — Fri 11-27: A3 goes in
+### Uses and gratifications
 
-- **Submission protocol (25 min)** — final checks against the checklist; URLs and files logged in the submission sheet; confirmation shown on screen per group. **No edits after submission.**
-- **Then (15 min)** — quiet start on the uses-and-gratifications pre-read (coursebook §5.3). Nothing due.
+**Uses and gratifications** is the theory of **Blumler and Katz**. It treats audiences as active choosers who use media for jobs they need done. There are four gratifications:
 
-### D5 — Mon 11-30: Blumler and Katz
+- **diversion**: escape and entertainment.
+- **personal relationships**: company, or talk to share with others.
+- **personal identity**: seeing your own life reflected and tested.
+- **surveillance**: information about the world.
 
-- **Input (15 min)** — the four gratifications: **diversion**, **personal relationships**, **personal identity**, **surveillance**. Audiences as active choosers with jobs they need media to do.
-- **The honest map (20 min)** — map your own real weekly media use onto the four gratifications. The comfort re-watch and the 2 a.m. scroll are data, not confessions.
-- **Close (10 min)** — theory card: Blumler & Katz. One written sentence: which gratification does your own C1 product serve, and how would you know?
+Your own weekly media use maps onto these four. The comfort re-watch and the late-night scroll are data, not confessions.
 
-### D6 — Tue 12-01: the return, and the target
+## Day by day
 
-- **A3 returned (25 min)** — self-assessment first: band your own portfolio against the C1 criteria before marks are discussed; then the marked grade, with the gap between self-band and mark as the conversation.
-- **The target (15 min)** — write one production target — specific, evidenced from the feedback, achievable in S2 ("hold focus in low light" beats "get better at filming") — logged as **LB4**.
-- **Notice (5 min)** — Wed 12-16, Component 2 Section A in authentic format. This date is provisional and may shift when the school publishes the calendar for that period.
+- **Mon 11-23.** Mass, niche, and target audiences, with demographics and psychographics. In pairs you profile the three texts' audiences using evidence from the texts, then ask whose audience your own C1 product actually reached.
+- **Tue 11-24.** Effects models stated fairly (hypodermic, cultivation) and then limited. The class builds a counter-evidence log: one honest example of media that failed to affect you as the model predicts, and one that worked.
+- **Wed 11-25 (double).** CCR surgery: your last help window before submission. One short audiences exercise, then a run of the submission checklist so Friday is logistics, not repair.
+- **Fri 11-27.** You submit A3: product exported and playable, CCR posted in its creative format, blog complete with dated posts and labeled contributions, URLs correct. No edits after. Then you start the uses-and-gratifications pre-read (coursebook §5.3). Nothing is due.
+- **Mon 11-30.** The four gratifications from Blumler and Katz. You map your own real weekly media use onto them, then write one sentence: which gratification your C1 product serves, and how you would know.
+- **Tue 12-01.** A3 is returned. You band your own portfolio against the C1 criteria first, then see your mark. You write one production target for Semester 2, specific and evidenced from your feedback ("hold focus in low light" beats "get better at filming"), logged as LB4. You also get notice that you sit Component 2 Section A in authentic format on Wed 12-16.
 
 ## Assessment
 
@@ -95,4 +82,61 @@ This week closes the Component 1 work and starts audience theory. The Wednesday 
 | A3 | Fri 2026-11-27 | C1 portfolio complete — product + CCR + dated blog; official C1 criteria (AO2 20 + AO3 80, scaled to 50); no edits after | AO2+AO3 |
 | LB4 | Tue 2026-12-01 | Response to feedback: one specific, evidenced production target | — |
 
-A3 returned Tue 12-01. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+A3 is returned Tue 12-01. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+
+## Review
+
+Check you can:
+
+- Distinguish mass, niche, and target audiences on real examples.
+- Explain the difference between demographics and psychographics.
+- Explain why effects models like the hypodermic model and cultivation oversimplify.
+- Name the four uses and gratifications from Blumler and Katz: diversion, personal relationships, personal identity, and surveillance.
+- Submit a complete A3 portfolio: finished product, CCR, and dated blog.
+- Write one specific, evidenced production target and log it as LB4.
+
+## Practice
+
+Try each question before you open its answer.
+
+**1.** Sort these three for audience: a Super Bowl half-time show, a niche restoration channel, a K-pop comeback teaser. Then say why "everyone" is almost always a wrong answer.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Mass, niche, target, in that order. "Everyone" is wrong because address, platform, scheduling, and advertising all price the difference: an advertiser pays for a profile, not for everyone. Evidence for the profile comes from the text itself.
+
+</details>
+
+**2.** Name two effects models, and the kind of evidence that limits them.
+
+<details class="reveal"><summary>Show answer</summary>
+
+The hypodermic model and cultivation theory. The limit is your own room: the horror fan who sleeps fine, the ad seen a hundred times that never sold anything. The pattern: audiences do things with media. Media does not simply do things to audiences.
+
+</details>
+
+**3.** Name Blumler and Katz's four gratifications, with one honest example of each from your own week.
+
+<details class="reveal"><summary>Show answer</summary>
+
+**Diversion**, **personal relationships**, **personal identity**, **surveillance**. The comfort re-watch is diversion. The group chat around a show is personal relationships. The playlist that says who you are is personal identity. The news scroll is surveillance. Honest examples are data, not confessions.
+
+</details>
+
+**4.** Which gratification does your C1 product serve, and how would you know?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The evidence is the screening response cards: what viewers said the product was doing for them, not what you hoped it would do. If the cards show attention dropping where you expected diversion, that gap is your answer.
+
+</details>
+
+**5.** One of these production targets is usable and one is not: "get better at filming" and "hold focus in low light". Why?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The second is specific, evidenced from feedback, and achievable in one semester. You can test it in a single shoot. The first cannot fail, so it cannot teach. LB4 collects the usable kind.
+
+</details>
+
+**6.** Before the Friday submission, run the checklist from memory: product exported and playable on a different machine, CCR posted in its creative format, blog complete with posts dated and contributions labeled, every URL checked from a signed-out browser, everything logged on the submission sheet. After Friday there are no edits. The rule is absolute.

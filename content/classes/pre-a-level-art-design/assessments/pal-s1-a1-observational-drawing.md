@@ -39,11 +39,11 @@ This assessment asks you to show that you can:
 
 ## The task
 
-You finish the observational drawing you have been building since W4. Same station, same objects, same drawing. One double to take it from decided-everywhere to finished.
+You finish the observational drawing you have been building since W4. Same station, same objects, same drawing. You have one double to take it from decided-everywhere to finished.
 
 Then you write one page of reflection in your sketchbook.
 
-Both are submitted together at the close. **A1 is a drawing and the evidence that you can see what you did.** The reflection is part of the assessment, not an afterthought.
+You submit both together at the close. **A1 is a drawing and the evidence that you can see what you did.** The reflection is part of the assessment, not an afterthought.
 
 ## Instructions
 
@@ -54,7 +54,7 @@ Both are submitted together at the close. **A1 is a drawing and the evidence tha
 3. Edges and cast shadows.
 4. Step back at arm's length **twice**: at about 20 minutes and about 50 minutes.
 
-**The rules for the day.** From the start of the double it is your eyes and your paper. No phones. No looking at your neighbour's drawing. Your teacher will circulate and ask questions ("where is your darkest dark?") but will not put hands on your drawing today.
+**The rules for the day.** From the start of the double it is your eyes and your paper. No phones. No looking at your neighbor's drawing. Your teacher will circulate and ask questions ("where is your darkest dark?") but will not put hands on your drawing today.
 
 **The reflection.** One page, full sentences, at least four of these five:
 
@@ -80,20 +80,20 @@ Four criteria, equally weighted. Each is judged on its own, so a strong tonal ra
 | **Adequate** | Some observation, some copying of what you assumed the object looks like | A narrow band of tone. Little separation between light and shadow | The drawing floats, or crowds one edge | Describes feelings about the result more than decisions in the work |
 | **Limited** | Little evidence of looking at the actual object | Tone is applied flatly or hardly at all | No compositional decision is visible | One or two sentences, unconnected to the work |
 
-Under the [[shared/bnds-assessment-framework|BNDS framework]] this becomes a **curved grade**, not a raw score. G10 curves are more generous than G11: the grade reflects where you are on the way somewhere, not what this drawing would score at A Level.
+Under the [[shared/bnds-assessment-framework|BNDS framework]] this becomes a **curved grade**, not a raw score. G10 curves are deliberately more generous than G11: the grade reflects where you are on the way somewhere, not what this drawing would score at A Level.
 
 ## After the sit
 
 - Back within **five working days**, with written feedback.
 - A1 feeds the **mid-term grades due Thu 2026-10-29**.
 - **Keep the drawing.** With your day-one garlic drawing it is the before-and-after pair for the mid-term conversation and for parents' evening.
-- **HW1 is set today:** at least 20 photographs of **one** subject over the National Day break, varied viewpoint and varied light, no editing, due Wed 2026-10-14. It opens Unit 2. No class next Wednesday.
+- **HW1 is set today:** at least 20 photographs of **one** subject over the National Day break, varied viewpoint and varied light, no editing, due Wed 2026-10-14. It opens Unit 2. There is no class next Wednesday.
 
 ## How to prepare
 
 | Where it came from | What to use it for |
 |---|---|
-| **CS1**, the exercise set (contour, tonal, texture, negative space) | The four skills A1 asks for, each already practised and marked |
+| **CS1**, the exercise set (contour, tonal, texture, negative space) | The four skills A1 asks for, each already practiced and marked |
 | **L04**, composing the final drawing | The viewpoint and placement decisions. They are assessed |
 | Weeks 1 to 4 of your sketchbook | The tonal scales and texture studies. Bring the book |
 | The reflection frames above | Write better sentences by knowing the frames in advance |

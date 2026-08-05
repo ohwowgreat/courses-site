@@ -17,7 +17,7 @@ modified: 2026-07-26
 
 # Lesson 16: A4 — The Final Poster
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster|Unit 4]] · U4·L2 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-15-the-poster-message-audience-hierarchy|L15]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-17-the-portfolio-and-the-sketchbook|L17]] →
+[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster|Unit 4]] · U4·L2 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-15-the-poster-message-audience-hierarchy|Lesson 15]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-17-the-portfolio-and-the-sketchbook|Lesson 17]] →
 
 ## At a glance
 
@@ -33,31 +33,46 @@ modified: 2026-07-26
 | Feeds | A4 is the semester's fourth attainment; the work returns as portfolio material at W19 |
 | Homework | Over the break: keep the sketchbook alive (2–3 pages a week — **A5 collects it on Jan 6**); read the portfolio spec; MB posting |
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can:
+In this lesson you make your final poster, handmade or digital, from the thumbnail you decided last week. The design thinking is done, so this double is execution with judgment. You produce two things by the close of class on Wed 2026-12-23: the finished poster and a one-page reflection. Both are submitted in class as A4, the semester's fourth attainment. Your process, all four thumbnails and your type studies, goes into your sketchbook. This work returns as portfolio material at W19.
 
-1. Execute your chosen thumbnail as a finished poster, handmade or digital
-2. Deliver one message to one audience within the unit's three seconds and three meters
-3. Write a reflection naming the hierarchy decisions you made
+## The ideas
 
-## What you do
+### The test your poster must pass
 
-You make one poster in one double, built from a thumbnail you already decided. The ninety minutes are execution with judgment. The standard is the unit's own test: pin it up, walk back three meters, count three seconds. If the message doesn't land in that window, no amount of craft saves it.
+Judge your poster by the unit's own standard: **three seconds and three meters**. Pin it up, walk back three meters, and count three seconds. One message must reach one audience in that window. If the message does not land, no amount of craft saves it.
 
-## How it runs
+### The four criteria
 
-- **Set-up (5 min)** — criteria on the board: **hierarchy · typography · message · audience.** Bring your circled thumbnails; use paper and pens or the lab machines, whichever route you declared.
-- **Studio (65 min)** — the build, with two standing checks. At **20 minutes**, the squint test — pin up or zoom out, stand three meters back, and ask what reads first. If it isn't the message, fix hierarchy before finishing anything. At **45 minutes**, the type pass — the title in its final voice, secondary text smaller than feels polite. **Text sets last.** If you are working digitally, save the layered working file; if you are working by hand, photograph the near-final state.
-- **Reflection (10 min)** — one page. You can use these frames: "My poster is for [audience] and says [message]" / "The first thing you read is … because I … " / "My type sounds … because … " / "If it hung in the hallway I would change …."
-- **Submit and close (10 min)** — submit your poster + reflection; put your process (all four thumbnails, type studies) into the sketchbook. Housekeeping: **no class the next two Wednesdays** (winter break 12-24 → 01-03); **Wed 2027-01-06 is the last session** — the EoT portfolio and the **A5 sketchbook** are both due that day. The portfolio spec goes home today.
+Your poster is marked on four things: **hierarchy**, the order in which parts of the poster are read; **typography**, how the type is set and how it sounds; **message**, the single thing the poster says; and **audience**, the one group it speaks to.
+
+### Checks while you build
+
+Use the **squint test** to check hierarchy: pin up or zoom out, stand three meters back, and see what reads first. If the first thing you read is not the message, fix hierarchy before you finish anything else.
+
+Use the **type pass** to set your words: put the title in its final voice, and make secondary text smaller than feels polite. **Text sets last**, the same speaker rule as the collage: decide the picture first, then let the type speak into it.
+
+### The reflection
+
+Write one page that names the decisions you made. You can use these frames: "My poster is for [audience] and says [message]" / "The first thing you read is ... because I ... " / "My type sounds ... because ... " / "If it hung in the hallway I would change ...."
+
+## Day by day
+
+- **Wed 2026-12-23.** You build your final poster from your chosen thumbnail, run the squint test and the type pass as you work, then write your reflection. Submit the poster and reflection in class, and put your four thumbnails and type studies into your sketchbook. This is the last session before the winter break: there is no class on the next two Wednesdays (winter break 12-24 to 01-03). Over the break, keep your sketchbook going at 2–3 pages a week, read the portfolio spec you take home today, and post to MB. **Wed 2027-01-06 is the last session**: the EoT portfolio and the **A5 sketchbook** are both due that day.
 
 ## Assessment
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/pre-a-level-art-design/assessments/pal-s1-a4-final-poster|A4 Poster]].
 
-**A4 — final poster + reflection**, sat and submitted in class. Marking focus: **hierarchy, typography, message, audience**. Returned with feedback within five working days.
+**A4 — final poster + reflection**, sat and submitted in class. Marking focus: **hierarchy, typography, message, audience**. Returned with feedback within five working days. If you are on the printmaking route, this session is instead the carve-ink-print double and A4 is the final linocut: same date, same notice, its own focus (see the [[classes/pre-a-level-art-design/lesson-plans/pal-s1-u4-printmaking-variant|variant]]). Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
 
-If your class is following the printmaking route, this session is instead the carve-ink-print double and **A4 is the final linocut** — same date, same focus in its own form (see the [[classes/pre-a-level-art-design/lesson-plans/pal-s1-u4-printmaking-variant|variant]]). Your teacher will confirm which route your class is taking in class.
+## Review
 
-Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+Check you can:
+
+- Execute your chosen thumbnail as a finished poster, handmade or digital.
+- Deliver one message to one audience within the poster's **three seconds and three meters**.
+- Use the **squint test** to check **hierarchy** and fix it before finishing.
+- Set your type with the **type pass**, keeping the rule that **text sets last**.
+- Write a reflection that names your **hierarchy**, **typography**, **message**, and **audience** decisions.

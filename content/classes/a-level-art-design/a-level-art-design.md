@@ -15,9 +15,9 @@ modified: 2026-07-29
 
 # A Level Art & Design
 
-**Cambridge International AS & A Level Art & Design (9479)** at BNDS, on the **revised 2028–2030 syllabus** (first examination 2028). This is the G11 course beginning autumn 2026 (Year 1 = 2026–27, Year 2 = 2027–28). It follows on from [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] (G10) and is graded per [[shared/bnds-assessment-framework|the BNDS framework]].
+**Cambridge International AS & A Level Art & Design (9479)** at BNDS. This is the G11 cohort starting autumn 2026 (Year 1 = 2026–27, Year 2 = 2027–28), on the revised 2028–2030 syllabus (first examination 2028). It follows on from [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] (G10). You are graded per [[shared/bnds-assessment-framework|the BNDS framework]].
 
-**Entry: linear A Level, June 2028.** All three components are entered in one series, so there is no separate AS award and no carry-forward step, and spring 2027 carries no Cambridge deadline. You submit at a single point, around **end April 2028**, where C1, C2 and C3 are handed in together ([[classes/a-level-art-design/unit-plans/9479-course-map|course map]], S4).
+**Entry: linear A Level, June 2028.** All three components are entered in one series, so there is no separate AS award and no carry-forward step, and spring 2027 carries no Cambridge deadline. There is a single submission point at about the end of April 2028, where C1, C2 and C3 land together ([[classes/a-level-art-design/unit-plans/9479-course-map|course map]], S4).
 
 <dl class="stat-strip">
   <div class="stat"><dt>Cohort</dt><dd>Grade 11 → 12<span class="stat-x">CIE 9479</span></dd></div>
@@ -39,7 +39,7 @@ modified: 2026-07-29
 | Weight | 60% AS / 30% AL | 40% AS / 20% AL | **50% AL** |
 | Nature | Internally set, externally marked; selection of work over the course | Question paper, **three themes** to choose from; supporting studies + final outcome in a **15-hour supervised test** | Theme-based investigation: **2000–2500-word written discourse** integrated with a body of visual work + bibliography |
 
-**AOs:** AO1 Record, AO2 Explore, AO3 Develop, AO4 Present. Marks per AO — C1: 15/15/20/10; C2: 15/15/15/15; C3: 20/20/25/10. Qualification weightings: AS 25/25/29/21, AL 25/25/31/19.
+**AOs:** AO1 Record, AO2 Explore, AO3 Develop, AO4 Present. Marks per AO. C1: 15/15/20/10. C2: 15/15/15/15. C3: 20/20/25/10. Qualification weightings: AS 25/25/29/21, AL 25/25/31/19.
 
 Areas of study: Fine art / Graphic communication / 3D design / Textiles-Fashion (these may differ per component; the same work may never go to two components). All submission is digital (no hyperlinks/QR). C1 can be carried forward alone; C3 cannot. Private candidates cannot enter. Annotation is assessed within AO3 and must be typed. Generative-AI misuse counts as plagiarism.
 
@@ -54,6 +54,6 @@ Every semester runs the same **eight-stage portfolio pipeline** (foundations →
 | S3 autumn 2027 | C3 part 2 (finish, internal submission) | [[classes/a-level-art-design/unit-plans/9479-semester-3-plan\|Semester 3 Plan]] |
 | S4 spring 2028 | C2 (15-hour test in Qingming mock week) + all-component submission | [[classes/a-level-art-design/unit-plans/9479-semester-4-plan\|Semester 4 Plan]] |
 
-Dates for S2 onward are provisional and may shift once the school publishes the calendar for those periods.
+Dates for S2, S3 and S4 may shift when the school publishes the calendar for those periods.
 
 Detail across all four: [[classes/a-level-art-design/unit-plans/9479-course-map|Course Map]].

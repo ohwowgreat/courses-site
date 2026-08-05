@@ -22,20 +22,17 @@ modified: 2026-07-22
 
 ## What this unit does
 
-A one-week induction. It sets up Language, Representation, Industry and Audience as the working spine of the two-year course, teaches media as mediation ("a version, not a window"), and drills the discipline A1 will be marked on — denotation before connotation — ending with the course's first graded task on day three.
+This is a one-week induction. It sets up **Language**, **Representation**, **Industry** and **Audience** as the working spine of the two-year course. You learn that media is **mediation**: a version, not a window. You also drill the skill A1 is marked on, **denotation** before **connotation**. The week ends with your first graded task on day three.
 
-*Note on numbering: "U1" here refers to the Semester 1 calendar. The coursebook uses a separate numbering system; its Unit 1 (Introduction to Media) covers similar ground at greater length.*
+A numbering note: "U1" here means the first band of the Semester 1 calendar. The coursebook uses a separate system, "Units 1–8". Its Unit 1 (Introduction to Media) covers similar ground in more depth.
 
 ## Dates & span
 
-**W1: Tue 2026-09-01 → Fri 09-04** — 3 teaching days (Tue single, Wed double, Fri single). This is a reduced week with school events around it. These dates may shift when the school publishes its calendar for this period.
+**W1: Tue 2026-09-01 → Fri 09-04**, 3 teaching days (Tue single, Wed double, Fri single). W1 is a short week with school events around it.
 
 ## Lessons
 
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-01-the-four-key-concepts|L01 The Four Key Concepts]]
-  - **Day 1:** the opener, the "I'm not impacted by media" wager, and the 24-hour media-use log.
-  - **Day 2:** the four tools applied to one shared text, then the mediation demo with three named mechanisms — staging (Gardner), selection (*Migrant Mother*), anchorage (the Underwood caption) — and the card sort.
-  - **Day 3:** denotation modeled live, then CS1, a pure-denotation paragraph that must survive a peer hunt for smuggled connotation.
+- [[classes/media-studies/lesson-plans/9607-s1-lesson-01-the-four-key-concepts|L01 The Four Key Concepts]]. Day 1: the opener, the "I'm not impacted by media" wager, and the 24-hour media-use log. Day 2: the four tools on one shared text, then the mediation demo with three named mechanisms, **staging** (Gardner), **selection** (*Migrant Mother*) and **anchorage** (the Underwood caption), plus the card sort. Day 3: denotation modeled live, then CS1, a pure-denotation paragraph that must survive a peer hunt for smuggled connotation.
 
 ## Assessment
 
@@ -47,7 +44,7 @@ See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
 ## Key content
 
-- The four Key Concepts applied orally to a shared text; card sort with justification (24 EN/ZH cards).
+- The four Key Concepts applied out loud to a shared text, with a card sort you justify (24 EN/ZH cards).
 - Mediation: the same event cropped, framed and captioned three ways.
 - Denotation-only writing modeled live, with ESL sentence frames.
-- C1 groundwork: blog set-up homework; EN/ZH lexicon opened (≥5 entries by Friday).
+- C1 groundwork: set up your blog for homework, and open your EN/ZH lexicon (at least 5 entries by Friday).

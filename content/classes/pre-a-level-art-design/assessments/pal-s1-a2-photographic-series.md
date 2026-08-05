@@ -81,11 +81,11 @@ Four criteria, equally weighted, each judged on its own.
 |---|---|---|---|---|
 | **Perceptive** | Every frame is composed on purpose. What is left out is as deliberate as what is in | Viewpoints vary because the subject needed them to, and you can say why each one was chosen | Light is used, not just present. The quality and direction of light does work in the images | Removing any image costs the series something. The order builds. The title makes a claim the pictures support |
 | **Confident** | Consistently well framed, with one or two frames that drifted | Real variety of viewpoint, mostly motivated | Light is noticed and mostly controlled | A clear series with a logic you can explain. The order is considered |
-| **Competent** | Competent framing. Some frames are centred by default rather than by choice | Some variety, but several frames share the same easy viewpoint | Light is adequate: correctly exposed, not yet used expressively | A group of related images. Order is sensible but not doing much work |
+| **Competent** | Competent framing. Some frames are centered by default rather than by choice | Some variety, but several frames share the same easy viewpoint | Light is adequate: correctly exposed, not yet used expressively | A group of related images. Order is sensible but not doing much work |
 | **Adequate** | Framing is inconsistent. Distracting elements are left in the frame | Little variety. The subject is photographed the same way repeatedly | Light is whatever it was on the day | Images share a subject but not an idea. Any one could be swapped out without loss |
 | **Limited** | Little evidence of framing decisions | One viewpoint throughout | Light is a problem the images have rather than a tool they use | A collection, not a series |
 
-**Series thinking is the criterion that separates this from a photo album.** The same judgment reappears at A3, at the portfolio, and in every A Level unit after it.
+**Series thinking is the criterion that separates this from a photo album.** It is also the one that carries forward: the same judgment reappears at A3, at the portfolio, and in every A Level unit after it.
 
 Under the [[shared/bnds-assessment-framework|BNDS framework]] this becomes a curved grade, not a raw score, with the more generous G10 curve.
 
@@ -95,13 +95,11 @@ Under the [[shared/bnds-assessment-framework|BNDS framework]] this becomes a cur
 - Your **contact sheet and annotated rejects** are now sketchbook process evidence. They count towards **SB2** (the second sketchbook spot-check, Wed 2026-12-02) and towards **A5** (the sketchbook attainment, Wed 2027-01-06). Nothing you did for A2 is wasted.
 - U3 Collage opens next week. Bring nothing: the unit supplies its own material.
 
-These dates may shift if the school publishes a revised calendar for that period.
-
 ## How to prepare
 
 | Where it came from | What to use it for |
 |---|---|
 | **HW1**, at least 20 photos of one subject over the break | Your raw material. Abundance is the point: selection needs something to select from |
-| **CS2**, composition practice set + contact-sheet edit | Framing and selection, already practised and marked |
+| **CS2**, composition practice set + contact-sheet edit | Framing and selection, already practiced and marked |
 | **L07**, light, shadow and the series theme | Your theme, and what light is doing in your frames |
 | **L08**, the theme shoot and the contact-sheet edit | The candidate set you are choosing from |

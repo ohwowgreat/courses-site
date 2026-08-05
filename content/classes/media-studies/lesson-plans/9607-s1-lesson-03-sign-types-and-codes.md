@@ -8,7 +8,7 @@ related:
   - "[[classes/media-studies/9607-resource-library]]"
   - "[[concepts/technical-elements]]"
   - "[[concepts/media-vocabulary]]"
-modified: 2026-07-26
+modified: 2026-08-03
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/calling-of-matthew.jpg" alt="Caravaggio, The Calling of Saint Matthew, 1599 — one light source, five gestures: a room you can read" loading="lazy" />
@@ -17,7 +17,7 @@ modified: 2026-07-26
 
 # Lesson 03: Sign Types and Codes
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] · Lesson 03 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-how-images-mean|L02]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-04-genre-and-camera|L04]] →
+[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] · Lesson 03 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-how-images-mean|Lesson 02]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-04-genre-and-camera|Lesson 04]] →
 
 <p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-03-sign-types-and-codes.pptx">Download the deck (PowerPoint, 754 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
@@ -36,25 +36,19 @@ modified: 2026-07-26
 | Feeds | A1 |
 | Homework | Lexicon revision toward CS3; no new tasks |
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can:
+This lesson pulls two weeks of terminology together into vocabulary you can use under pressure. You learn Peirce's triad, a second way to sort signs by how they mean, and the four code families, the checklist you will run on every extract for the next two years. You read unseen stills using that vocabulary, then sit CS3, a 20-item vocabulary quiz, on Fri 2026-09-18. The vocabulary you build here feeds A1.
 
-1. Sort unfamiliar signs into icon, index and symbol and defend each placement
-2. Name all four code families and give one example of each from a single still
-3. Read an unseen TV drama still for three minutes and produce code-labeled observations without prompts
-4. Score at least 15 of 20 on CS3, or log the missed terms in the lexicon with corrections
+## The ideas
 
-## Goal
+### Peirce's triad
 
-This lesson consolidates two weeks of terminology into vocabulary you can use under pressure. Peirce's triad gives a second way to sort signs — *how* a sign means, not just what; the four code families give the analytical checklist you will run on every extract for two years. Wednesday's cold read tests reading a text you have never seen using vocabulary alone; Friday's quiz puts the vocabulary on record.
+Peirce sorts signs by *how* they mean, not just what they mean. There are three types.
 
-## How it runs
-
-### D1 — Mon 09-14: Peirce's triad
-
-- **Starter (5 min)** — three images flashed: a portrait, a footprint, a national flag. *All three mean something. Do they mean the same way?*
-- **Input (15 min)** — Peirce: **icon** (means by resembling — the portrait), **index** (means by physical trace — the footprint, smoke, a photograph itself), **symbol** (means by convention alone — the flag, a word, a sacred deer). A photograph is the interesting case: an index that looks like an icon.
+- An **icon** means by resembling its object. Example: a portrait.
+- An **index** means by physical trace. Example: a footprint, smoke, or a photograph itself.
+- A **symbol** means by convention alone. Example: a flag, a word, a sacred deer.
 
 <div class="plate-row">
 <figure class="plate">
@@ -71,28 +65,30 @@ This lesson consolidates two weeks of terminology into vocabulary you can use un
 </figure>
 </div>
 
-- **Sorting gallery (20 min)** — twelve signs sorted by *how they mean*, in pairs, disagreements defended: emoji, X-ray, wedding ring, siren, brand logo, thumbprint, crucifix, weather vane… Most signs are blends; the argument is the learning.
-- **Close (5 min)** — theory card: Peirce, next to Saussure in the box.
 
-### D2 — Tue 09-15: the four code families
+A photograph is the interesting case: it is an index that looks like an icon. Most signs are blends, so the argument over where a sign belongs is the learning. Peirce sits alongside Saussure from the earlier lesson.
 
-- **Retrieval (5 min)** — icon / index / symbol, one example each, no notes.
-- **Input (10 min)** — the two-year checklist: **technical** codes (camera, light, edit), **symbolic** codes (objects, color, gesture, dress), **written** codes (any text in frame), **audio** codes (sound, music, silence). Every extract for the next two years gets run through all four.
-- **Mapping (25 min)** — two contrasting stills, all four families mapped on each in table form; then you build your **personal code checklist** — the pocket version you will carry into A1 and, eventually, Paper 2.
-- **Close (5 min)** — WS 2.2/2.3 drip begins: five sound terms tonight, five editing terms Thursday, toward CS3.
+### The four code families
 
-### D3 — Wed 09-16 (double): the cold read
+Every media extract can be read through four code families. This is the checklist you use for the next two years.
 
-- **Model (20 min)** — the protocol modeled once, slowly, on one dense image: three minutes of silent noticing, then the four families out loud — where is the light coming from and what does it do; who gestures at whom; what does each garment claim; what text is present *or deliberately absent*; what would this room sound like. The model still is an old master painting: no dialogue, no famous faces, nothing but codes.
-- **Cold reads (40 min)** — three unseen TV-drama stills, one at a time: three minutes silent noticing, then a code-labeled write-up per still. No conferring until all three are done.
-- **Review (25 min)** — readings compared; **precision beats quantity** — one exact technical observation with its effect outranks five vague ones.
-- **Exit (5 min)** — which code family do you reach for first, and which do you forget? Written, kept for A1 prep.
+- **Technical** codes: camera, light, edit.
+- **Symbolic** codes: objects, color, gesture, dress.
+- **Written** codes: any text in the frame.
+- **Audio** codes: sound, music, silence.
 
-### D4 — Fri 09-18: CS3
+You build your own **personal code checklist**, the pocket version you carry into A1 and, later, Paper 2.
 
-- **CS3 (20 min)** — twenty items, twenty minutes: define-the-term and label-the-example.
-- **Self-mark (15 min)** — immediate, against definitions on screen; missed terms corrected into the lexicon on the spot.
-- **Exit (5 min)** — one term taught back to a partner, partner confirms or corrects.
+### Reading a still
+
+The protocol is three minutes of silent noticing, then the four families read out loud: where the light comes from and what it does, who gestures at whom, what each garment claims, what text is present or deliberately absent, and what the room would sound like. The rule is **precision beats quantity**: one exact technical observation with its effect outranks five vague ones.
+
+## Day by day
+
+- **Mon 09-14.** Learn Peirce's triad: icon, index, and symbol. Sort a set of signs by how they mean, including blends like a photograph.
+- **Tue 09-15.** Learn the four code families and map all four on two contrasting stills. Build your personal code checklist. Homework: five sound terms tonight, five editing terms Thursday, toward CS3.
+- **Wed 09-16 (double).** Watch the reading protocol modeled once on a dense image, then do cold reads of three unseen TV-drama stills, three minutes of silent noticing and a code-labeled write-up each. Note which code family you reach for first and which you forget; keep this for A1 prep.
+- **Fri 09-18.** Sit CS3, 20 items in 20 minutes: define the term and label the example. Self-mark against the definitions on screen and correct any missed terms into your lexicon. Teach one term back to a partner.
 
 ## Assessment
 
@@ -101,3 +97,53 @@ This lesson consolidates two weeks of terminology into vocabulary you can use un
 | CS3 | Fri 2026-09-18 | Vocabulary quiz, 20 items in 20 min; target ≥15/20 or missed terms logged with corrections | AO1 |
 
 See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+
+## Review
+
+Check you can:
+
+- Sort an unfamiliar sign into icon, index, or symbol and defend the placement.
+- Explain why a photograph is an index that looks like an icon.
+- Name all four code families and give one example of each from a single still.
+- Read an unseen still and produce code-labeled observations on your own.
+- Score at least 15 of 20 on CS3, or log the missed terms with corrections.
+
+## Practice
+
+CS3 sits Friday: twenty terms, twenty minutes. Rehearse here first. The definitions live in the [[concepts/media-vocabulary|media vocabulary]] glossary and your lexicon.
+
+**1.** A portrait, a footprint, a national flag. Sort them into Peirce's three sign types, and say how each type means.
+
+<details class="reveal"><summary>Show answer</summary>
+
+The portrait is an **icon**: it means by resembling. The footprint is an **index**: it means by physical trace. The flag is a **symbol**: it means by convention alone.
+
+</details>
+
+**2.** Why is a photograph the interesting case?
+
+<details class="reveal"><summary>Show answer</summary>
+
+It is an index that looks like an icon. Light really did touch the film or sensor, which makes it a physical trace. But the result resembles what it shows, so it reads like an icon.
+
+</details>
+
+**3.** Name the four code families, and give one example of each from a single still.
+
+<details class="reveal"><summary>Show answer</summary>
+
+**Technical** codes: camera, light, edit. **Symbolic** codes: objects, color, gesture, dress. **Written** codes: any text in the frame. **Audio** codes: sound, music, silence. From one still: a low angle, a lit face, a black suit, a headline, and the hum the room would make.
+
+</details>
+
+**4.** A wedding ring. Icon, index, or symbol? Defend your placement in one sentence.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Symbol first: it means marriage by convention. A defended blend also counts. The worn metal is an index of years of wearing. Most real signs are blends, and the defense is the learning.
+
+</details>
+
+**5.** Run the cold read on any still you have never seen. Three minutes of silent noticing, then one written observation per code family. Precision beats quantity: one exact observation with its effect outranks five vague ones.
+
+**6.** Self-test toward CS3: define anchorage, polysemy, convention, mediation, and mode of address without notes. Check yourself, and log any missed term in your lexicon with its correction, the same rule CS3 uses.

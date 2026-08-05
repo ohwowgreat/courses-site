@@ -13,21 +13,21 @@ modified: 2026-07-25
 
 ## The argument in one move
 
-Resolution looks like a technical property but functions as a **marker of value, access, and institutional ownership.**
+Resolution looks like a technical property. It actually works as a **marker of value, access, and institutional ownership.**
 
 > An image degrades because it circulates. A pristine image is pristine because it was **kept** rather than shared.
 
-The poor image is therefore simultaneously **evidence of exclusion and of defiance** — what remains when something travels far enough to reach people who were never the intended audience.
-
-Steyerl uses vocabulary from science and computing — resolution, compression — and then turns it philosophically.
+The poor image is therefore both **evidence of exclusion and of defiance**: what remains when something travels far enough to reach people who were never the intended audience.
 
 ## Questions to consider
 
 > Is a poor image democratic, or only cheaper to distribute? **Are those the same thing?**
 
-If an image loses quality every time it is shared, what does high quality tell us about how much it was shared?
+A pairing to go with it: if an image loses quality every time it is shared, what does high quality tell us about how much it was shared?
 
-One claim to test: "They are the same image." If two versions produce different feelings, different levels of trust, and different audiences, **in what sense are they the same?** To hold this line, you have to argue that an image is its file rather than its effects — a defensible position, but a hard one.
+## A claim to test
+
+It is tempting to say the low-resolution version and the pristine version are "the same image." But if the two versions produce different feelings, different levels of trust, and different audiences, **in what sense are they the same?** To hold this line, you have to argue that an image is its file rather than its effects. That is a defensible position, and a harder one than it first looks.
 
 ## Appears in
 
@@ -37,4 +37,4 @@ Steyerl's account of [[concepts/linear-perspective|linear perspective]] carries 
 
 ## Also taught in Art Appreciation
 
-The same Steyerl essay is an assigned text in Art Appreciation's [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image|L11]], paired with Benjamin on aura. The Oxbridge course does not hold it — see [[classes/oxbridge/oxbridge-reading-list|the reading list]]. The two treatments differ: Art Appreciation runs a degradation lab (degrade an image on purpose, describe exactly what changed); Oxbridge runs it as an argument about who could afford a neutral image.
+The same Steyerl essay is an assigned text in Art Appreciation's [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image|L11]], paired with Benjamin on aura. The Oxbridge course does not hold it: see [[classes/oxbridge/oxbridge-reading-list|the reading list]]. The two courses treat it differently. Art Appreciation runs a degradation lab: you degrade an image on purpose, then describe exactly what changed. Oxbridge runs it as an argument about who could afford a neutral image.

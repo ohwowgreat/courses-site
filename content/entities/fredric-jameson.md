@@ -7,7 +7,7 @@ modified: 2026-07-20
 ---
 # Fredric Jameson
 
-Jameson is the only theorist in Component 4 given a full analytical framework rather than just a name.
+Fredric Jameson is the theorist Cambridge develops most fully in the Scheme of Work. Cambridge gives him a full analytical framework, not just a name and a link.
 
 ## What Cambridge attributes to him
 
@@ -21,12 +21,12 @@ Jameson is the only theorist in Component 4 given a full analytical framework ra
 | **Affectlessness** | "the predominant mode of irony and 'knowingness' leaves little room for real emotion, but short, sharp intense emotional responses are elicited through surface representations of things of which people have no first-hand experience, e.g.: Brexit, the death of Diana, refugees" |
 | **Technologies of reproduction and recirculation** | "e.g.: all social media" |
 
-## How to use this list
+## Why this list is worth learning
 
-Each symptom converts into an essay paragraph: name the symptom, supply a contemporary text, show the symptom operating, and evaluate whether the diagnosis holds.
+It is the most usable analytical tool in Component 4. Each symptom becomes an essay paragraph: name the symptom, supply a contemporary text, show the symptom operating, then judge whether the diagnosis holds.
 
-The list is also exhaustive enough to argue against. The syllabus requires "the arguments for and against understanding some forms of media as postmodern" (Syllabus 2027 p.18), and a five-point checklist gives you a way to show where a text fails to fit.
+The list is also complete enough to argue against. The syllabus asks for "the arguments for and against understanding some forms of media as postmodern" (Syllabus 2027 p.18). A five-point checklist is exactly what you need to show where a text does not fit.
 
 ## Relation to Debord
 
-Cambridge sequences these deliberately: [[entities/guy-debord|Guy Debord]] first (1967, spectacle), then "similarly, and more recently, Fredric Jameson." The implied argument is continuity — a diagnosis of image-saturated culture restated for a later moment. Cambridge does not develop the comparison, but you could.
+Cambridge places the two theorists in order: [[entities/guy-debord|Guy Debord]] first (1967, spectacle), then "similarly, and more recently, Fredric Jameson." The implied argument is continuity: a diagnosis of image-saturated culture, restated for a later moment. Cambridge does not develop the comparison. You can.

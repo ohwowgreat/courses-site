@@ -17,43 +17,63 @@ modified: 2026-07-26
 
 # Lesson 13: Final Collage Production
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|Unit 3]] · U3·L4 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-12-theme-and-composition-drafts|L12]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage|L14]] →
+[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|Unit 3]] · U3·L4 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-12-theme-and-composition-drafts|Lesson 12]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage|Lesson 14]] →
 
 ## At a glance
 
 <dl class="stat-strip">
   <div class="stat"><dt>Session</dt><dd>W14<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
-  <div class="stat"><dt>Date</dt><dd>Wed 2026-12-02</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Wed 2026-12-02</dd></div>
 </dl>
 
 | | |
 |---|---|
 | Focus | The final collage built — the assembly session |
 | Deliverable | The final collage substantially built (background and middle layers glued, top layer dry-fit); build photographed in stages |
-| Assessment | **SB2 sketchbook spot-check runs today**; the collage finishes under A3 conditions next week |
+| Feeds | **SB2 sketchbook spot-check runs today**; the collage finishes under A3 conditions next week |
 | Homework | A written finishing list (what remains, in order); missing material gathered; MB posting |
 
-This date may shift once the school publishes its calendar for that period.
+## Overview
 
-## What you will do
+Today you build your final collage. You take the circled draft from last lesson and assemble it layer by layer, in the order you set. By the close, the work should be decided everywhere and finished except the top layer. You photograph the build in stages, which is process evidence for your sketchbook. **SB2**, your second sketchbook spot-check, runs during the studio block. You finish the collage next week under A3 conditions, so today's job is to leave the strongest move still live.
 
-By the end of this lesson you can:
+## The ideas
 
-1. Build in layer order, background first, gluing only behind certainty
-2. Photograph the build in stages as process evidence
-3. Leave the work decided everywhere and finished except the top layer
+### Building in layer order
 
-## Goal
+Build **in layer order**: background first, then large shapes, then middle layers, then the speaker, then text last. You **glue only behind certainty**. Before you glue any layer, **dry-fit** it, place it without glue to check it works. If your draft no longer convinces you, re-compose now. Gluing a doubt wastes the whole session.
 
-This is an assembly session with a plan. Your circled draft becomes the built thing, layer by layer, in the L11 order — background first, the speaker last, glue only behind certainty. By the close your collage should be **decided everywhere and finished except the top**. Next week's A3 double is for the final layer, the edges, and the words — not for starting over.
+### Stopping at the speaker
 
-## How it runs
+**Stop at the speaker.** The top element and any text stay unglued today. This leaves your strongest move live so next week's A3 double opens with real decisions, not a finished piece. Next week is for the final layer, the edges, and the words, not for starting over.
 
-- **Set-up (5 min)** — drafts and dry-fit photographs out; materials stations open; the build order on the board: **background → large shapes → middle layers → the speaker → text last.**
-- **Checkpoint (10 min)** — before glue: sixty seconds per student at tables — restate your main idea, show your draft, name your first three moves. If your draft no longer convinces you, re-compose now; gluing a doubt wastes a double.
-- **Studio: the build (60 min)** — production, with three standing rules: **dry-fit each layer before gluing it** (and photograph every stage — the build sequence is sketchbook process evidence); **stop at the speaker** — the top element and any text stay unglued today so A3 opens with the strongest move still live; **edges are decisions** (torn vs cut, carried from L11). Digital-remix students work in Photoshop/Affinity, where the same order applies and layers are literal — save the working file, never flatten.
-- **Close (15 min)** — write the finishing list: what remains, in what order, needing what. Park work flat, bag and name your scraps (next week's spares). Next week runs under A3 conditions — your hands, your board, your reasons.
+### Edges are decisions
+
+**Edges are decisions.** Whether an edge is torn or cut is a choice you carry from your earlier planning, and you keep it consistent as you build.
+
+### Photographing the build
+
+Photograph every stage as you go. The build sequence is process evidence for your sketchbook.
+
+### Digital remix
+
+If you work in digital remix, use Photoshop or Affinity. The same layer order applies, and your layers are literal. Save the working file. Never flatten it.
+
+## Day by day
+
+- **Wed 12-02.** You build the final collage in layer order: background, large shapes, middle layers, then stop at the speaker. Dry-fit each layer before gluing, and photograph every stage. Homework: write a finishing list of what remains, in order, and what you need for it; gather any missing material; post to MB.
 
 ## Assessment
 
-**SB2** — the second sketchbook spot-check — runs table by table during the studio block: progress and upkeep since SB1 (10-21), two-minute looks, marks entered the same day; the room never stops. The build itself is assessed next week as **A3**. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+**SB2**, the second sketchbook spot-check, runs table by table during the studio block. It looks at your progress and upkeep since SB1 (10-21), in short two-minute looks, with marks entered the same day. The build itself is assessed next week as **A3**. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+
+## Review
+
+Check you can:
+
+- Build in layer order, background first, gluing only behind certainty.
+- Dry-fit each layer before you glue it.
+- Stop at the speaker, leaving the top element and text unglued.
+- Photograph the build in stages as sketchbook process evidence.
+- Explain why an edge is a decision, torn or cut.
+- Save a digital working file without flattening it.

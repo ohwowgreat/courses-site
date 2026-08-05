@@ -24,7 +24,7 @@ modified: 2026-08-02
 
 | | |
 |---|---|
-| Category | Attainment, the last of four in the 50% category. The Forecast Grade anchor |
+| Category | Attainment, the last of four in the 50% category. **The Forecast Grade anchor** |
 | Format | Component 2 Section A in the real examination format |
 | Timing | **30 minutes viewing and note-making, then 45 minutes writing** |
 | Extract | Unseen TV-drama extract. Not a text taught to this class |
@@ -43,20 +43,20 @@ This assessment asks you to show that you can:
 
 ## The task
 
-The same Section A question as A1, in the **authentic examination format**. That difference is the point of this assessment.
+You answer the same Section A question as A1, but in the **authentic examination format**. That difference is the point of this assessment.
 
-A1 was one hour of continuous writing. A4 splits the time the way the real paper does: **half an hour with the extract and your notes, then three quarters of an hour writing.** These are different skills. The viewing window rewards a note system; the writing window rewards working from that system instead of trying to re-watch the extract in your head.
+A1 was one hour of continuous writing. A4 splits the time the way the real paper does: **half an hour with the extract and your notes, then three quarters of an hour writing.** These are different skills. The viewing window rewards a note system. The writing window rewards working from that system instead of trying to re-watch the extract in your head.
 
 The prompt is the Paper 2 Section A stem: analyze how the extract constructs meaning through camera, sound, mise-en-scène and editing.
 
 ## Instructions
 
-1. **Conditions briefed once.** The format difference from A1 is stated explicitly, because it is what is being tested.
-2. **30 minutes: viewing and notes.** The extract is screened on the examination's protocol. Build structured notes: a note grid or four-column chart by code family, not a running commentary. A transcript is a wasted half hour.
-3. **45 minutes: writing.** From your notes. Do not expect another screening.
+1. **Conditions briefed once.** The format difference from A1 is stated to you, because it is what is being tested.
+2. **30 minutes: viewing and notes.** The extract is screened under examination protocol. Build structured notes: a note grid or four-column chart by code family, not a running commentary. A transcript wastes half an hour.
+3. **45 minutes: writing.** Write from your notes. Do not expect another screening.
 4. Hand in your script.
 
-**How to spend the viewing window.** One pass to watch. Then passes that isolate one code family at a time. Count cuts where editing matters. Note the exact moment for anything you intend to quote, because strand 5 of the rubric is *use of examples* and a marker has to be able to find what you cite.
+**How to spend the viewing window.** Watch once. Then make passes that isolate one code family at a time. Count cuts where editing matters. Note the exact moment for anything you intend to quote, because strand 5 of the rubric is *use of examples*, and a marker has to be able to find what you cite.
 
 **If you are absent.** Contact your teacher **at least 24 hours before** the sitting. Illness needs a doctor's note. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8).
 
@@ -76,7 +76,7 @@ Totals: **AO1 15, AO2 10.** Band words per criterion: **5** sophisticated or ins
 
 ### What each band looks like in this task
 
-The criteria and band words are Cambridge's; the descriptions below are written for this course. They are the same descriptors used for A1, with one addition: at A4 the note-taking window is part of what is being assessed, so the top bands expect the coverage a note grid makes possible.
+The criteria and band words are Cambridge's. The descriptions below are **ours**, written for this course. They are the same descriptors used for A1, with one addition: at A4 the note-taking window is part of what is being assessed, so the top bands expect the coverage a note grid makes possible.
 
 | Criterion | Band 5 | Band 3 | Band 1 |
 |---|---|---|---|
@@ -93,7 +93,7 @@ Marks are curved under [[shared/bnds-assessment-framework|the BNDS framework]] r
 - Scripts back within **five working days**, with **AO splits recorded** so you can see which AO is your gap rather than only your total.
 - Self-assessment against the mark scheme before any discussion of marks, as at A1.
 - One logged target, retrieved at the End of Term Exam.
-- The [[classes/media-studies/assessments/9607-s1-eot-component-2-paper|End of Term Exam]] sits in the window Mon 2027-01-11 to Mon 01-18. A4 is its rehearsal in miniature: Section A of the same paper. These dates may shift when the school publishes the calendar for that period.
+- The [[classes/media-studies/assessments/9607-s1-eot-component-2-paper|End of Term Exam]] sits in the window Mon 2027-01-11 to Mon 01-18. A4 is its rehearsal in miniature: Section A of the same paper.
 
 ## How to prepare
 
@@ -101,6 +101,6 @@ Marks are curved under [[shared/bnds-assessment-framework|the BNDS framework]] r
 |---|---|
 | **A1** and its feedback | The same question, different clock. Your A1 target is checked here |
 | **CS8**, guided Section A with the mark scheme open (Wed 12-09) | The direct rehearsal, one week before, with the rubric visible |
-| Your note grid or four-column chart | The viewing window's whole purpose. Practise it before the day |
+| Your note grid or four-column chart | The viewing window's whole purpose. Practice it before the day |
 | The **strain log** and your theory cards | Criterion 2, contexts and critical debates |
 | Mon and Tue of Lesson 13, one institution end to end | Industry context you can actually use on an extract |

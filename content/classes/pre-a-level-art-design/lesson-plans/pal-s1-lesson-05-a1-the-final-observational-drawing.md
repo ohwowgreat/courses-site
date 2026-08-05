@@ -16,43 +16,66 @@ modified: 2026-07-26
 
 # Lesson 05: A1 — The Final Observational Drawing
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1]] · U1·L5 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-04-composing-the-final-drawing|L04]] | next unit: [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography|U2 Photography]] →
+[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1]] · U1·L5 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-04-composing-the-final-drawing|Lesson 04]] | next unit: [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography|U2 Photography]] →
 
 ## At a glance
 
 <dl class="stat-strip">
-  <div class="stat"><dt>Session</dt><dd>Week 5<span class="stat-x">one Wednesday double (~90 min) — Unit 1 closes</span></dd></div>
-  <div class="stat"><dt>Date</dt><dd>Wed 2026-09-30</dd></div>
+  <div class="stat"><dt>Session</dt><dd>W5<span class="stat-x">one Wednesday double (~90 min) — Unit 1 closes</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Wed 2026-09-30</dd></div>
 </dl>
 
 | | |
 |---|---|
-| Focus | **You sit A1**: the final observational drawing finished under assessment conditions, plus the written reflection |
-| Deliverable | Your final drawing + reflection, submitted at the close of class |
-| Feeds | A1 feeds the mid-term grades (due Thu 2026-10-29); **HW1 is set** (due Wed 10-14, opens Unit 2) |
-| Homework | **HW1**: at least 20 photos of one subject in varied viewpoint and light, over the National Day break; post to MB |
+| Focus | **A1 sat**: the final observational drawing finished under assessment conditions, plus the written reflection |
+| Deliverable | The final drawing + reflection, submitted at close |
+| Feeds | A1 feeds the mid-term grades (due Thu 2026-10-29); **HW1 set** (due Wed 10-14, opens U2) |
+| Homework | **HW1**: ≥20 photos of one subject in varied viewpoint and light, over the National Day break; MB posting |
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can:
+This lesson closes Unit 1. You bring your final observational drawing to a finish under assessment conditions, then write a short reflection. Together they are A1, submitted at the end of the double on Wed 2026-09-30. A1 feeds the mid-term grades due Thu 2026-10-29. You also get HW1, which opens Unit 2.
 
-1. Bring the final drawing to a full tonal range with edges resolved, under assessment conditions
-2. Use texture only where it earns its place
-3. Write a reflection that names what you did rather than how you felt about the result
+## The ideas
 
-## What you do
+The drawing is marked on three criteria: **observation** (how closely the drawing matches what you see), **tone** (light and dark), and **composition** (how the drawing sits on the page). Work today from your own eyes and your own paper: no phones, no copying a neighbor's drawing.
 
-This is a working session with a deadline. You use the same station and the same drawing, and you have one double to bring it from decided-everywhere to finished — full tonal range, texture where it earns its place, edges resolved. The reflection is part of the submission, not an afterthought: A1 is a drawing *and* your evidence that you can see what you did.
+### Finishing the drawing
 
-## How it runs
+**Full tonal range** means the drawing runs from the lightest lights to the darkest darks. Push the darkest darks in early, before caution sets in.
 
-- **Set-up (5 min)** — stations are rebuilt from last week's photographs; get your drawing out. Criteria on the board: **observation · tone · composition**. From here it is your eyes and your paper — no phones, no looking at a neighbor's drawing.
-- **Studio (60 min)** — finish the drawing. A suggested order, as a checklist not a script: push the full tonal range first (get the darkest darks in before caution sets in) → texture passes where the surface demands it → edges and cast shadows → step back at arm's length twice, at 20 and 50 minutes. The teacher circulates and prompts ("where is your darkest dark?"), but no hands on drawings today.
-- **Reflection (15 min)** — one page in your sketchbook. Use the frames: "I chose this viewpoint because …" / "The light comes from …, so the darkest tones are …" / "The texture I am most happy with is … because …" / "The hardest part was …" / "Next time I will …" Write full sentences, and complete at least four of the five frames.
-- **Close (10 min)** — submit your drawing and reflection together. **HW1 is briefed**: over the break, take at least 20 photographs of *one* subject — varied viewpoint, varied light, no editing — due Wed 10-14; it opens Unit 2. There is no class next Wednesday (National Day, 10-07).
+**Texture** is the mark that shows a surface. Use it only where the surface demands it, not everywhere.
+
+Resolve your edges, and put in the **cast shadows**, the dark shapes an object throws onto the surface next to it. Step back at arm's length to check the whole drawing.
+
+### The reflection
+
+The **reflection** is one page in your sketchbook, submitted with the drawing. It names what you did, not how you felt about the result. Write full sentences and answer at least four of these five prompts:
+
+- "I chose this viewpoint because …"
+- "The light comes from …, so the darkest tones are …"
+- "The texture I am most happy with is … because …"
+- "The hardest part was …"
+- "Next time I will …"
+
+A1 is a drawing and the evidence that you can see what you did.
+
+## Day by day
+
+- **Wed 09-30.** You finish the final drawing under assessment conditions and write the reflection. Submit both together at the close. HW1 is set: over the National Day break, take at least 20 photos of one subject in varied viewpoint and light, no editing, and post them to MB. HW1 is due Wed 10-14 and opens Unit 2. There is no class on Wed 10-07 (National Day).
 
 ## Assessment
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing|A1 Drawing]].
 
-**A1 — final observational drawing + reflection**, sat in class today. Marking focus is **observation, tone, composition**; marked against the criteria as announced, returned with feedback within five working days, and it feeds the mid-term grades due Thu 2026-10-29. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+**A1 — final observational drawing + reflection**, sat in class today. Marking focus is **observation, tone, composition**. It is marked against the criteria as announced, returned with feedback within five working days, and feeds the mid-term grades due Thu 2026-10-29. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+
+## Review
+
+Check you can:
+
+- Bring a drawing to a **full tonal range**, with the darkest darks in place.
+- Use **texture** only where the surface demands it.
+- Resolve your edges and place the **cast shadows**.
+- Read a drawing against the criteria **observation**, **tone**, and **composition**.
+- Write a **reflection** that names what you did, using at least four of the five prompts.

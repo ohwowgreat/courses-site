@@ -18,13 +18,13 @@ modified: 2026-07-29
 
 # Oxbridge
 
-The **Oxbridge Discussion Group** is a fourteen-week seminar in discussion, close reading, and argument, for **Grade 11 ESL** students preparing for Oxbridge-style interviews. It is organized around escalating discussion questions rather than lecture topics. The aim: "Students arrive with positions and leave with better ones."
+The **Oxbridge Discussion Group** is a fourteen-week seminar in discussion, close reading, and argument. It is built for Grade 11 ESL students preparing for Oxbridge-style interviews. It is organized around escalating discussion questions, not lecture topics. You arrive with positions and leave with better ones.
 
 **Throughline:**
 
 > Frameworks conceal their own constructed edges, and they actively shape reality rather than merely representing it.
 
-Every unit tests that claim against a different domain — the image, measurement, history, the body, the machine, memory, the shared world, power — and the final session turns the claim back on the course itself.
+Every unit tests that claim against a different domain: the image, measurement, history, the body, the machine, memory, the shared world, power. The final session turns the claim back on the course itself.
 
 <dl class="stat-strip">
   <div class="stat"><dt>Cohort</dt><dd>Grade 12</dd></div>
@@ -48,41 +48,38 @@ Eight units. Full detail in the [[classes/oxbridge/unit-plans/oxbridge-seminar-p
 | [[classes/oxbridge/unit-plans/oxbridge-unit-7-power-and-visibility\|U7 Power and Visibility]] | W13 | Who gets to show us the world? |
 | [[classes/oxbridge/unit-plans/oxbridge-unit-8-synthesis\|U8 Synthesis]] | W14 | Is a view from nowhere possible? |
 
-**Thinker spine in teaching order:** Berger → Steyerl → Plato → Sartre/Camus → Barthes → Merleau-Ponty → Rees (with Bergson and Freud as counterweight) → Bergson/Freud again → Emmelhainz → Foucault/Fanon → Haraway and Nagel at the close.
+**Thinker spine, in teaching order:** Berger → Steyerl → Plato → Sartre/Camus → Barthes → Merleau-Ponty → Rees (with Bergson and Freud as counterweight) → Bergson/Freud again → Emmelhainz → Foucault/Fanon → Haraway and Nagel at the close.
 
 ## Method
 
-Four rules from [[classes/oxbridge/oxbridge-course-design-principles|Course Design Principles]] govern everything else:
+Four rules from [[classes/oxbridge/oxbridge-course-design-principles|Course Design Principles]] shape everything else:
 
-1. **The question does the work.** "If the teacher is talking for more than a third of the session, the question was too closed."
-2. **Scaffold from what you already own.** "Never open with a philosopher." Sessions open with a map, a thermometer, a screenshot, a video-game boundary. The philosopher arrives later, and only to **name** what you have already been arguing.
-3. **Complicate from inside your own commitment** — the consequence you have not noticed inside your own claim, rather than an imported counterexample.
-4. **Register.** You are ESL. "A hard concept in easy words is the target. An easy concept in hard words is failure."
+1. **The question does the work.** Each session is built around a question, not a lecture.
+2. **Scaffold from what you already own.** Sessions never open with a philosopher. They open with something familiar: a map, a thermometer, a screenshot, a video-game boundary. The philosopher arrives later, only to **name** what you have already been arguing. This is the most important sequencing rule in the course.
+3. **Complicate from inside your own commitment.** The push comes from a consequence inside your own claim, not from an outside counterexample.
+4. **Register.** You are ESL. A hard concept in easy words is the target. An easy concept in hard words is failure.
 
-Every session runs the same five-part shape — silent opening, elicit, complicate, commit, closing question carried out of the room. See [[classes/oxbridge/oxbridge-session-structure-template|Session Structure Template]]. **Neutrality is the one banned position in the room.**
+Every session runs the same five-part shape: silent opening, elicit, complicate, commit, closing question carried out of the room. See [[classes/oxbridge/oxbridge-session-structure-template|Session Structure Template]]. **Neutrality is the one banned position in the room.**
 
-## Assessment — none
+## Assessment: none
 
-**The course is discussion only. Nothing is set, collected, or graded.** No attainments, no Course Skills, no Learning Behaviour postings, no End of Term, and no written work of any kind. It sits outside [[shared/bnds-assessment-framework|the 50/20/10/20 framework]].
+The course is discussion only. Nothing is set, collected, or graded. There are no attainments, no Course Skills, no Learning Behaviour postings, no End of Term, and no written work of any kind. It sits outside [[shared/bnds-assessment-framework|the 50/20/10/20 framework]].
 
-Preparation is **reading and arriving with a position**, spoken. The only thing carried between sessions is the closing question, posted to the group chat with a quote attached.
+Preparation is reading and arriving with a spoken position. The only thing carried between sessions is the closing question, posted to the group chat with a quote attached.
 
-Four criteria — commitment, pressure, precision, movement — are **what to name aloud in the commit movement** as spoken feedback. See [[classes/oxbridge/assessments/oxbridge-writing-and-assessment|Assessment — none]].
+Four criteria shape the spoken feedback: commitment, pressure, precision, movement. These are what to name aloud in the commit movement. Every essay prompt from the prior run survives as a discussion question in [[classes/oxbridge/oxbridge-question-bank|the question bank]]. A superseded writing scheme is recorded, marked as not in force, in [[classes/oxbridge/assessments/oxbridge-writing-and-assessment|Assessment — none]].
 
 ## Course apparatus
 
-- [[classes/oxbridge/oxbridge-course-design-principles|Course Design Principles]] — the six pedagogical rules, including the ESL register rule
-- [[classes/oxbridge/oxbridge-session-structure-template|Session Structure Template]] — the 45-minute shape, and what to send the group chat afterward
-- [[classes/oxbridge/oxbridge-question-bank|Question Bank]] — ~60 single-line questions across eleven topics, plus five worked opening-and-push pairs
-- [[classes/oxbridge/oxbridge-interview-preparation|Interview Preparation]] — the three moves, the push-line format, the 12-minute mock
-- [[classes/oxbridge/oxbridge-reading-list|Reading List]] — 7 set texts, 5 live quotations, 10 extension readings, the visual references and the case bank
-- [[classes/oxbridge/assessments/oxbridge-writing-and-assessment|Assessment — none]] — states the ungraded, discussion-only ruling; keeps the four criteria as spoken feedback
+- [[classes/oxbridge/oxbridge-course-design-principles|Course Design Principles]]: the six pedagogical rules, including the ESL register rule
+- [[classes/oxbridge/oxbridge-session-structure-template|Session Structure Template]]: the 45-minute shape, and what to send the group chat afterward
+- [[classes/oxbridge/oxbridge-question-bank|Question Bank]]: about 60 single-line questions across eleven topics, plus five worked opening-and-push pairs
+- [[classes/oxbridge/oxbridge-interview-preparation|Interview Preparation]]: the three moves, the push-line format, the 12-minute mock
+- [[classes/oxbridge/oxbridge-reading-list|Reading List]]: 7 set texts, 5 live quotations, 10 extension readings, the visual references and the case bank
+- [[classes/oxbridge/assessments/oxbridge-writing-and-assessment|Assessment — none]]: states the ungraded, discussion-only ruling; keeps the four criteria as spoken feedback
 
-## Schedule
+## Schedule: provisional
 
-**Spring semester, teaching resumes ≈ Mon 2027-02-22** ([[calendar|calendar]]; winter vacation 2027-01-24 → 2027-02-21). Fourteen weekly sessions run to roughly the week of **2027-05-24** if unbroken, and to roughly **2027-06-07** once the two known spring disruptions are absorbed:
+The course runs in the spring semester. Teaching resumes about Mon 2027-02-22, after the winter vacation (2027-01-24 to 2027-02-21). The fourteen weekly sessions run to about the week of 2027-05-24 if unbroken, and to about 2027-06-07 once the two known spring breaks are absorbed. Qingming (about Mon 2027-04-05) and May Day (about 05-01 to 05-05) both fall inside the fourteen weeks.
 
-- **Qingming** ≈ Mon 2027-04-05 (date floats)
-- **May Day** ≈ 2027-05-01 → 2027-05-05
-
-Session pages carry week numbers (W01–W14) and no dates. These dates are provisional and may shift when the school publishes the spring calendar; the day and period for the course will be confirmed in class.
+These dates may shift once the school publishes the spring calendar. Sessions are numbered by week (W01–W14); the exact day and period will be confirmed in class.

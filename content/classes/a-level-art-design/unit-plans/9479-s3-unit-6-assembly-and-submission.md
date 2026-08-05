@@ -19,11 +19,11 @@ modified: 2026-07-18
 
 ## What this unit does
 
-This is the assembly and submission stage, under AO4 Present. You sequence the complete Personal Investigation so the argument reads in order to a stranger; you verify your documentation page by page (photographed, labeled, legible); you integrate the bibliography into the body of the work; and you present and defend the investigation in a viva-style critique, then fix what breaks. You assemble the digital submission to the Cambridge screen limits and pass QC. The unit closes with **A4** — the complete investigation, marked across AO1–AO4, with no edits after. The C3 internal submission lands here; C2 begins in [[classes/a-level-art-design/unit-plans/9479-semester-4-plan|Semester 4]].
+This is the assembly and submission stage, under **AO4 Present**. You put the complete Personal Investigation in order so the argument reads to a stranger. You check your documentation page by page: each piece photographed, labeled, and legible. You integrate the bibliography into the body of the work, not the back. You present and defend the investigation in a viva-style critique, then fix what breaks. You assemble the digital submission to the Cambridge screen limits and pass QC. The unit closes with **A4**, the complete investigation, marked across AO1–AO4, with no edits after. The C3 internal submission lands here. C2 begins in [[classes/a-level-art-design/unit-plans/9479-semester-4-plan|Semester 4]].
 
 ## Dates & span
 
-Weeks W15–W18 (2027-12-05 → ~2028-01-01), 16 sessions, running into the Christmas break and the ≈Fri 2027-12-31 cutoff. These dates may shift when the school publishes the calendar for this period.
+Weeks W15–W18 (2027-12-05 to about 2028-01-01), 16 sessions, running into the Christmas break and the cutoff around Fri 2027-12-31. These S3 dates are projected. They may shift when the school publishes the calendar for that period. See the [[classes/a-level-art-design/unit-plans/9479-semester-3-plan|semester plan]].
 
 ## Sequence of work
 
@@ -47,11 +47,11 @@ Weeks W15–W18 (2027-12-05 → ~2028-01-01), 16 sessions, running into the Chri
 
 ## Assessment
 
-**A4** is due **Wed 2027-12-22** — the complete Personal Investigation (both outcomes, the supporting portfolio, the research paper), marked against AO1–AO4; no edits after. CS tasks: **CS9** Fri 2027-12-10 (sequencing and documentation check), **CS10** Thu 2027-12-16 (presentation critique response — the viva rehearsal, answered in writing). See the [[classes/a-level-art-design/assessments/9479-s3-assessments|full register]].
+You sit **A4 on Wed 2027-12-22**: the complete Personal Investigation, meaning both outcomes, the supporting portfolio, and the research paper. It is marked against AO1–AO4. There are no edits after. Two CS tasks come first: **CS9** on Fri 2027-12-10 (sequencing and documentation check), and **CS10** on Thu 2027-12-16 (presentation critique response, the viva rehearsal, answered in writing). These dates are projected and may shift when the calendar is published. See the [[classes/a-level-art-design/assessments/9479-s3-assessments|full register]].
 
 ## Key content
 
-- The investigation must read in order without you in the room.
-- **Integrate your bibliography into the body of the work, not the back** — a detached bibliography cost AO1 marks in the 90/100 C3 exemplar.
-- Every decision you name in the viva must be visible on a page.
-- The two W18 sessions finalize the digital submission before the break. Carnival and New Year holidays may each take one W18 session; this will be confirmed in class.
+- The investigation should read in order without you in the room to explain it.
+- Integrate the bibliography into the body of the work. A detached bibliography cost AO1 marks in the 90/100 C3 exemplar.
+- Every decision you name in the viva should be visible on a page.
+- The submission must be board-ready before the break. The W18 QC sessions are your last chance to earn marks.

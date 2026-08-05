@@ -9,7 +9,7 @@ modified: 2026-07-26
 ---
 # Lesson 04: Telling It Without Words
 
-[[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory|Unit 2]] · Lesson 04 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-03-the-first-board|L03]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet|L05]] →
+[[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory|Unit 2]] · Lesson 04 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-03-the-first-board|Lesson 03]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet|L05]] →
 
 <p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-04-telling-it-without-words.pptx">Download the deck (PowerPoint, 1.7 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
@@ -17,7 +17,7 @@ modified: 2026-07-26
 
 <dl class="stat-strip">
   <div class="stat"><dt>Session codes</dt><dd>`U2·L1`–`U2·L8`</dd></div>
-  <div class="stat"><dt>Days</dt><dd>8<span class="stat-x">the longest lesson of the semester</span></dd></div>
+  <div class="stat"><dt>Days</dt><dd>8<span class="stat-x">longest lesson of the semester</span></dd></div>
   <div class="stat"><dt>Dates</dt><dd>Sun 2026-09-20 to Wed 2026-09-30</dd></div>
 </dl>
 
@@ -26,17 +26,21 @@ modified: 2026-07-26
 | Template | MAKE |
 | Deliverable | CS2 ten-frame storyboard, set as the break homework |
 | Feeds | A2 |
-| Homework | Break homework: the ten-frame sequence, 3–4 h across the twelve-day holiday, set on day 8 |
+| Homework | BREAK HOMEWORK: the ten-frame sequence, 3–4 h across the twelve-day holiday, set day 8 |
 
-These dates may shift when the school publishes the calendar for this period.
+## Overview
 
-## Objectives
+This lesson runs over eight days. You spend five days building the vocabulary of visual storytelling: narrative, myth, allegory, and the cycle. Then you spend three days making. You produce **CS2**, a ten-frame storyboard that a stranger can read in the right order with no captions and no dialogue. CS2 is set as your break homework on day 8, Wed 2026-09-30, and it should take 3 to 4 hours across the twelve-day holiday. The same day, the A2 brief goes out: Titian against Manet, due Tue 13 October. This lesson feeds A2.
 
-By the end of this lesson, you can:
+## The ideas
 
-1. Find where a still image puts time, and point at it
-2. Separate what is shown from what it stands in for, without collapsing one into the other
-3. Make ten frames a stranger can read in the right order with no captions and no dialogue
+### The critique flow
+
+The **critique flow** is a fixed order for talking about an image: **describe**, **account**, **judge**. First you describe what is there. Then you account for how it works and what it does. Only then do you judge it. You practice this cold, on an image no one has seen before.
+
+### Narrative in a still image
+
+A **narrative image** tells a story even though it cannot move. The problem it has to solve is time: it must show a sequence of events in a single frozen frame. Learn to find where a still image puts time, and be able to point at it.
 
 
 <figure class="plate">
@@ -44,23 +48,46 @@ By the end of this lesson, you can:
   <figcaption>Caravaggio, <em>The Calling of Saint Matthew</em>, 1599 — one light source, five gestures: a room you can read</figcaption>
 </figure>
 
-## Goal
+### Myth
 
-Eight days, ending on the last session before a twelve-day holiday. The storyboard is your break homework, and the A2 brief goes out with it. Five days build the vocabulary — narrative, myth, allegory, cycle — then three days turn it into something you make.
+**Myth** is shared shorthand. A myth is a story the audience already knows, so the image can point to it instead of spelling it out. This only works when the audience holds that knowledge. When the audience does not know the myth, the shorthand fails and the image goes quiet.
 
-## How it runs
+### Allegory
 
-- **Day 1 · Sun 20 Sept · `U2·L1`** — the critique flow taught explicitly and cold: describe, account, judge, run on an image nobody has seen. This is a Sunday make-up day.
-- **Day 2 · Mon 21 Sept · `U2·L2`** — what a narrative image has to solve: find where a still image puts time.
-- **Day 3 · Tue 22 Sept · `U2·L3`** — myth as shared shorthand; what happens when the audience does not know.
-- **Day 4 · Wed 23 Sept · `U2·L4`** — allegory: separate what is shown from what it stands in for.
-- **Day 5 · Thu 24 Sept · `U2·L5`** — reading a cycle across panels, not inside one. LB2 posted.
-- **Day 6 · Mon 28 Sept · `U2·L6`** — storyboarding without words: one story, three framings.
-- **Day 7 · Tue 29 Sept · `U2·L7`** — make the ten frames; swap and read a stranger's. CS2 collected.
-- **Day 8 · Wed 30 Sept · `U2·L8`** — A2 announced first (Titian against Manet, Tue 13 Oct), then the break homework set: the sequence, 3–4 hours, no more.
+**Allegory** is when what is shown stands in for something else. The skill is to separate what is shown from what it stands in for without collapsing one into the other. The literal thing and its meaning both stay in view at once.
+
+### The cycle
+
+A **cycle** is a story told across several panels rather than inside a single one. You read it by moving from panel to panel. The meaning lives in the sequence, not in any one frame.
+
+### Storyboarding without words
+
+A storyboard carries a story through framing alone. One story can be told in three different framings, and each choice changes what the viewer reads. Your goal is ten frames a stranger can put in the right order with no captions and no dialogue.
+
+## Day by day
+
+- **Sun 09-20.** Make-up day. The critique flow is taught cold: describe, account, judge, run on an image nobody has seen.
+- **Mon 09-21.** What a narrative image has to solve: finding where a still image puts time.
+- **Tue 09-22.** Myth as shared shorthand, and what happens when the audience does not know it.
+- **Wed 09-23.** Allegory: separating what is shown from what it stands in for.
+- **Thu 09-24.** Reading a cycle across panels, not inside one. LB2 is posted.
+- **Mon 09-28.** Storyboarding without words: one story told in three framings.
+- **Tue 09-29.** You make the ten frames, then swap and read a stranger's. CS2 is collected.
+- **Wed 09-30.** A2 is announced first, Titian against Manet, due Tue 13 October. Then the break homework is set: the ten-frame sequence, 3 to 4 hours, no more.
 
 ## Assessment
 
-- **LB2** — Wed 2026-09-23, posting from the cycle session.
-- **CS2** — Tue 2026-09-29, ten-frame storyboard a stranger can read in the right order, with no captions and no dialogue.
-- The break homework is set Wed 2026-09-30 and debriefed as CS3 on Fri 2026-10-09 in lesson 05.
+- **LB2.** Wed 2026-09-23, posting from the cycle session.
+- **CS2.** Tue 2026-09-29. A ten-frame storyboard a stranger can read in the right order, with no captions and no dialogue.
+- CS2 is debriefed as CS3 on Fri 2026-10-09 in lesson 05.
+
+## Review
+
+Check you can:
+
+- Run the critique flow in order: describe, account, judge.
+- Find where a still image puts time, and point at it.
+- Separate what an image shows from what it stands in for, using allegory.
+- Explain how myth works as shared shorthand, and what happens when the audience does not know it.
+- Read a cycle across panels rather than inside one.
+- Make ten frames a stranger can read in the right order with no captions and no dialogue.

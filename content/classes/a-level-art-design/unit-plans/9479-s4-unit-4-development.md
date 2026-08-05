@@ -19,17 +19,17 @@ modified: 2026-07-18
 
 ## What this unit does
 
-This is the development stage, under AO3 Develop closing into AO4 Present — the tightest unit in the course. You compose your final-piece candidates from your own studies (the test will realise one of them); you compare them on a **draft comparison page** and write out why you reject the others; you fix a final composition plan so nothing has to be invented under supervision; and you complete every supporting study and decide the mounted order. **Content closes at A3** — nothing new is taught after it.
+This is the development stage. It covers **AO3 Develop** closing into **AO4 Present**. You compose your final-piece candidates from your own studies. The test then realizes one of them. You compare the candidates on a **draft comparison page** and write out why you rejected the others. You fix a final composition plan so nothing is invented under supervision. You complete every supporting study and decide the mounted order. Content closes at A3. Nothing new is taught after it. There is one taught development week, widened only by the elastic window (reading B, or any earlier CNY opening).
 
 ## Dates & span
 
-Week S6 plus the elastic window (2028-03-26 → 2028-03-31 for the coded sessions; the S7 window can add up to four days on reading B). These S4 dates are projected and may shift when the school publishes the calendar for this period — see the [[classes/a-level-art-design/unit-plans/9479-semester-4-plan|semester plan]].
+Week S6 plus the elastic window. The coded sessions run 2028-03-26 to 2028-03-31. The S7 window adds up to four days on reading B. These dates may shift when the school publishes the calendar. See the [[classes/a-level-art-design/unit-plans/9479-semester-4-plan|semester plan]].
 
 ## Sequence of work
 
 | Code | Session | Focus |
 |---|---|---|
-| U4·L1 | Feedback; compose the final piece candidates | From your own studies |
+| U4·L1 | Feedback; compose the final piece candidates | From own studies |
 | U4·L2 | Draft comparison page | Rejections articulated in writing |
 | U4·L3 | Final composition plan | Nothing invented under supervision |
 | U4·L4 | Supporting studies completed | Every gap closed |
@@ -38,14 +38,10 @@ Week S6 plus the elastic window (2028-03-26 → 2028-03-31 for the coded session
 
 ## Assessment
 
-**A3, Fri 2028-03-31** — complete supporting studies (draft comparison page with articulated rejections, final composition plan, mounted order), marked against AO3+AO4. This is the content close: nothing new is taught after it.
-
-One CS task: **CS6**, Thu 2028-03-30 (composition critique response + draft comparison page).
-
-See the [[classes/a-level-art-design/assessments/9479-s4-assessments|full register]].
+**A3** is due **Fri 2028-03-31**. You submit your complete supporting studies: the draft comparison page with rejections written out, the final composition plan, and the mounted order. It is marked against AO3 and AO4. This is the content close. Nothing new is taught after it. One CS task: **CS6** on Thu 2028-03-30 (composition critique response plus draft comparison page). See the [[classes/a-level-art-design/assessments/9479-s4-assessments|full register]].
 
 ## Key content
 
-- ◆ **The draft comparison page with articulated rejections earns top AO4** — it is the center of this unit.
+- A strong **draft comparison page**, with your rejections written out, is what earns top AO4 in the exemplars. It is the center of this unit.
 - Your final plan should be complete enough that the test is execution, not invention.
-- This unit is compressed into one taught development week, widened only by the elastic window. Every day here counts, so attendance matters.
+- There is one taught development week, widened only by the elastic window. Every gained day lands here.

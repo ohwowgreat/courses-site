@@ -14,7 +14,7 @@ modified: 2026-07-26
   <figcaption>Paul Cézanne, <em>A Painter at Work</em>, 1875</figcaption>
 </figure>
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-1-foundations-on-the-theme|Unit 1]] · Lesson 01 of 15 · [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-02-formal-elements-on-the-theme|L02]] →
+[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-1-foundations-on-the-theme|Unit 1]] · Lesson 01 of 15 · [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-02-formal-elements-on-the-theme|Lesson 02]] →
 
 ## At a glance
 
@@ -27,37 +27,49 @@ modified: 2026-07-26
 | | |
 |---|---|
 | Deliverable | Committed theme with signed commitment card; source folder with first photographs; first line studies |
-| Graded? | Nothing is graded in W1–W2. The day-3 diagnostic drawing is kept as your baseline, not marked. |
-| Homework | Reflection, 150 words: why your chosen theme can sustain four months (due Monday) |
+| Feeds | Nothing graded — no attainment in W1–W2; the day-3 diagnostic is the baseline for the mid-term narrative |
+| Homework | Reflection, 150 words: why the chosen theme can sustain four months (due Monday) |
 
-These dates are provisional and may shift when the school publishes the calendar for this period.
+## Overview
 
-## What you will be able to do
+This lesson introduces the course and the theme menu. Over four days you learn how the portfolio is marked, see a top-band portfolio, and commit to one theme. By Friday you produce a signed **commitment card** with your theme, a source folder with your first photographs, and your first line studies. Nothing is graded this week. Your day-3 diagnostic drawing is the baseline for your mid-term narrative. The theme decision is the most important choice of the semester, and you make it against criteria, not by mood.
 
-By the end of this lesson, you can:
+## The ideas
 
-1. Say how the portfolio is marked and name what a top-band portfolio actually does
-2. Commit to one theme from the menu against the criteria rather than by mood, and sign the commitment card
-3. Open a source folder with first photographs and first line studies on your committed theme
+### How the portfolio is marked
 
-## Goal
+The course is marked against four Assessment Objectives (**AOs**). This week focuses on **AO1 Record**. You see one finished 96/100 portfolio end to end, and you compare a top-band and a middle-band pair of pages side by side. You then read portfolios in pairs against the AO-language worksheet, so you can name what a top-band portfolio actually does.
 
-By Friday you will know how the portfolio is marked, have read what a top-band portfolio actually does, have committed to one theme from the menu, and have begun looking at it. The theme decision is the most consequential of the semester, and you make it against the criteria, not by mood.
+### The theme menu
 
-## How it runs
+A theme earns its place only if it passes all five criteria: (1) primary sources you can photograph within daily reach all semester; (2) it survives four months of looking; (3) it genuinely carries line, tone, texture and color; (4) it opens both 2D and 3D development; (5) it has a deep artist reference pool your teacher can prescribe from.
 
-- **Tue 09-01 — opener, no content.** Introductions, getting to know the group, why this subject, how the course runs. It closes with the semester map (five units, four attainments, and the fact that there are no spare days) and the four AOs in plain words — orientation only, no portfolio work and nothing graded. This course runs to a linear June 2028 entry: it is a two-year relationship.
-- **Wed 09-02 — the portfolio day.** One finished 96/100 portfolio shown end to end, top band vs middle band two pages side by side, then portfolio reading in pairs against the AO-language worksheet. The theme menu is presented with its criteria — no choosing yet. Exit with a shortlist of two themes, one line of reasoning each.
-- **Thu 09-03 — diagnostic drawing** (one observed object, pencil only; kept, not marked). Then you **commit to your theme** one-to-one against the five criteria and sign the commitment card: theme, three source locations, first shoot date.
-- **Fri 09-04 — source folder setup** (one phone folder, one physical); line-study demo (continuous then structural); line studies from first-hand objects within your theme.
+- **Reflections and Surfaces**: glass, water, screens, mirrors, polished metal in daily reach. Distortion gives instant composition.
+- **Worn and Weathered**: rust, peeling paint, cracked walls, mended objects. This is the strongest texture theme, with a good 3D loop into casting and relief.
+- **Hands at Work**: people making and doing. This is figure drawing with a reason. It needs willing subjects, so check access before you sign off.
+- **Structures of the Everyday**: the stacked, shelved and scaffolded. A line and shape powerhouse. The risk is coldness, so your annotation must carry the why.
 
-## Key content: the theme menu
+### Line studies
 
-A theme earns its place only if it passes all five criteria: (1) primary sources photographable within daily reach all semester; (2) survives four months of looking; (3) genuinely carries line, tone, texture and color; (4) opens both 2D and 3D development; (5) has a deep artist reference pool to draw from.
+You work in two kinds of line. **Continuous line** is drawn without lifting the pencil. **Structural line** builds the object's underlying form. You make your first line studies from first-hand objects within your theme.
 
-- **Reflections and Surfaces** — glass, water, screens, mirrors, polished metal in daily reach; distortion gives instant composition.
-- **Worn and Weathered** — rust, peeling paint, cracked walls, mended objects; the strongest texture theme, excellent 3D loop into casting and relief.
-- **Hands at Work** — people making and doing; figure drawing with a reason. This one needs willing subjects, so check your access before you sign off.
-- **Structures of the Everyday** — the stacked, shelved and scaffolded; a line and shape powerhouse. The risk is coldness, so your annotation must carry the why.
+### Diagnostic drawing
 
-The final list of themes will be confirmed in class.
+The **diagnostic drawing** is one observed object in pencil only. It is kept, not marked. It sets your baseline.
+
+## Day by day
+
+- **Tue 09-01.** Introductions and orientation. You meet the group and learn how the course runs. You see the semester map: five units, four attainments, and no spare days. You meet the four AOs in plain words. This cohort runs to a linear June 2028 entry, so it is a two-year course. No portfolio work, nothing graded.
+- **Wed 09-02.** Portfolio day. One finished 96/100 portfolio is shown end to end, then a top-band and middle-band comparison. You read portfolios in pairs against the AO-language worksheet. The theme menu is presented with its criteria. You leave with a shortlist of two themes, each with one line of reasoning.
+- **Thu 09-03.** Diagnostic drawing (one observed object, pencil only, kept not marked). You commit to one theme, signed off one-to-one against the five criteria. Your commitment card records your theme, three source locations, and your first shoot date.
+- **Fri 09-04.** You set up a source folder: one phone folder, one physical. You watch a line-study demo, continuous then structural, then make line studies from first-hand objects within your theme. Homework: a 150-word reflection on why your theme can sustain four months, due Monday.
+
+## Review
+
+Check you can:
+
+- Say how the portfolio is marked and name what a top-band portfolio does.
+- Name the five criteria a theme must pass.
+- Commit to one theme from the theme menu against those criteria and sign the commitment card.
+- Open a source folder with your first photographs.
+- Make first line studies in continuous line and structural line on your theme.

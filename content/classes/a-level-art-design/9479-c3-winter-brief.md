@@ -14,7 +14,7 @@ modified: 2026-07-23
 
 ## The one thing to do
 
-**Come back on Mon 2027-02-22 with three candidate themes for your Personal Investigation, each with annotated references.** That is the whole task. Everything below is how to make those three strong enough to defend.
+**Come back on Mon 2027-02-22 with three candidate themes for your Personal Investigation, each with annotated references.** That is the whole task. Everything below is how to make those three good enough to defend.
 
 | | |
 |---|---|
@@ -26,33 +26,33 @@ modified: 2026-07-23
 
 ## Why this matters more than a normal homework
 
-In Component 1 you chose a theme from a menu. **Component 3 is different: you propose the theme yourself, and once it is locked in writing it runs all the way to submission in December** — through recording, exploration, artists, development, a mid-point portfolio, and a 2000–2500 word research paper woven through the work.
+In Component 1 you chose a theme from a menu you were given. **Component 3 is different: you propose the theme yourself, and once it is locked in writing it runs all the way to submission in December:** through recording, exploration, artists, development, a mid-point portfolio, and a 2000–2500 word research paper woven through the work. It is the single decision the whole year rests on.
 
-The first three weeks of Semester 2 are consultation: you put your candidates forward, defend them one to one, and refine and choose. That process only works if you arrive with **real, tested candidates**. With one idea, you spend the first fortnight inventing under pressure; with nothing, you lose it outright. Three screened candidates let you have a proper conversation on day one.
+The first three weeks of Semester 2 are consultation: you put your candidates forward, defend them one to one, and we refine and choose. That process only works if you arrive with **real, tested candidates**. Walk in with one idea and you spend the first fortnight inventing under pressure. Walk in with nothing and you lose it outright. Three screened candidates is what lets us have a proper conversation on day one.
 
 ## What a candidate theme must contain
 
 Each of your three candidates gets its own page. On it:
 
 1. **A working title and one sentence** saying what the investigation would look at.
-2. **Why it pulls you** — a line or two, honest. You will look at this for four months.
-3. **Primary sources you can reach** — the specific places, objects, or people you can **photograph or sit with yourself**, within daily reach, right through to December. Name them. A theme you could only build from other people's images off the internet is already failing AO1.
-4. **Two or three artists** who work in this territory, one line each on **the problem they solve** — not your favourites, but artists whose methods you could actually learn from.
+2. **Why it pulls you**: a line or two, honest. You will look at this for four months.
+3. **Primary sources you can reach**: the specific places, objects, or people you can **photograph or sit with yourself**, within daily reach, right through to December. Name them. *Nothing found, nothing borrowed*: a theme you could only build from other people's images off the internet is already failing AO1.
+4. **Two or three artists** who work in this territory, one line each on **the problem they solve**, not your favorites, but artists whose methods you could actually learn from.
 5. **A first-hand image or two** you have already taken over the break (or a clear note of the shoot you will do), annotated for **what it shows**, not what it makes you feel.
 
 ## Test each idea against the five screens
 
-Before an idea earns a candidate page, run it through the same five screens used in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-01-opening-the-investigation|L01]]. If it fails one, it is not a candidate yet.
+Before an idea earns a candidate page, run it through the same five screens we use in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-01-opening-the-investigation|L01]]. If it fails one, it is not a candidate yet.
 
-1. **Reachable sources, all semester** — can you keep photographing or observing it first-hand until December?
-2. **Sustains the scale** — is there enough here for the full pipeline and a research paper, not just one strong page?
-3. **Carries a written element** — is there a real question and something to read behind it?
-4. **Opens development** — more than one direction, in 2D and 3D?
-5. **Has artists who help** — a reference pool chosen for the problems they solve?
+1. **Reachable sources, all semester**: can you keep photographing or observing it first-hand until December?
+2. **Sustains the scale**: is there enough here for the full pipeline and a research paper, not just one strong page?
+3. **Carries a written element**: is there a real question and something to read behind it?
+4. **Opens development**: more than one direction, in 2D and 3D?
+5. **Has artists who help**: a reference pool chosen for the problems they solve?
 
 ## A rhythm for the month
 
-Don't leave it to the last night — a theme invented in one evening always fails screen 1. Spread it across the break:
+Don't leave it to the last night. A theme invented in one evening always fails screen 1. Spread it across the break:
 
 | Week | Do this |
 |---|---|
@@ -61,15 +61,15 @@ Don't leave it to the last night — a theme invented in one evening always fail
 | Wk 3 | **Test.** Run each direction through the five screens; drop the ones with no reachable sources. |
 | Wk 4 (to 02-21) | **Write up** your three strongest as candidate pages with annotated references. |
 
-A steady 20–30 minutes every few days across the break is far more use than one long push at the end — because the part that can't be rushed is the **shooting**, and shooting needs daylight and repeat visits.
+A steady 20–30 minutes every few days across the break is far more use than one long push at the end, because the part that can't be rushed is the **shooting**, and shooting needs daylight and repeat visits.
 
 ## What happens when you return
 
-- **Mon 2027-02-22** — the C3 briefing: how the investigation is marked, and one strong exemplar read against the criteria.
-- **Wed 2027-02-24** — you put your three candidates forward.
-- **Thu 2027-02-25** — consultation round 1: you defend each one, and each is marked keep, fix, or drop.
+- **Mon 2027-02-22.** The C3 briefing: how the investigation is marked, and one strong exemplar read against the criteria.
+- **Wed 2027-02-24.** You put your three candidates forward.
+- **Thu 2027-02-25.** Consultation round 1: you defend each one, and each is marked keep, fix, or drop.
 - Then a second consultation, the proposal draft (**CS1**, Fri 2027-03-05), and the **theme locked in writing** in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked|L03]]. After the lock, there are no restarts.
 
-Full detail: [[classes/a-level-art-design/unit-plans/9479-s2-unit-1-foundations-on-the-investigation|S2 Unit 1]] · [[classes/a-level-art-design/unit-plans/9479-semester-2-plan|Semester 2 Plan]].
+The stronger your three candidates, the more that fortnight refines a good theme instead of scrambling for any theme. Full detail: [[classes/a-level-art-design/unit-plans/9479-s2-unit-1-foundations-on-the-investigation|S2 Unit 1]] · [[classes/a-level-art-design/unit-plans/9479-semester-2-plan|Semester 2 Plan]].
 
 *These winter and spring dates are provisional and may shift when the school publishes the 2026-27 spring calendar; any change will be confirmed in class.*

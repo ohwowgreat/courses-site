@@ -18,12 +18,12 @@ modified: 2026-07-26
 
 # Lesson 15: The Poster — Message, Audience, Hierarchy
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster|Unit 4]] · U4·L1 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage|L14]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-16-a4-the-final-poster|L16]] →
+[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster|Unit 4]] · U4·L1 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage|Lesson 14]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-16-a4-the-final-poster|Lesson 16]] →
 
 ## At a glance
 
 <dl class="stat-strip">
-  <div class="stat"><dt>Session</dt><dd>W16<span class="stat-x">one Wednesday double (~90 min) — Unit 4 opens</span></dd></div>
+  <div class="stat"><dt>Session</dt><dd>W16<span class="stat-x">one Wednesday double (~90 min) — Unit 4 opens; the compressed double (two former sessions in one)</span></dd></div>
   <div class="stat"><dt>Dates</dt><dd>Wed 2026-12-16</dd></div>
 </dl>
 
@@ -31,25 +31,25 @@ modified: 2026-07-26
 |---|---|
 | Focus | What a poster must do: message, audience, hierarchy, type as voice; thumbnails for the final |
 | Deliverable | **CS4**: one annotated poster analysis + a four-thumbnail set with type studies, one circled with a reason |
-| Feeds | A4 (you sit it next Wednesday, Wed 2026-12-23) |
-| Homework | Gather or make anything your circled thumbnail needs (images, lettering references, files); MB posting |
+| Feeds | this session** (sits next Wednesday, 12-23) |
+| Homework | Gather or make anything the circled thumbnail needs (images, lettering references, files); MB posting |
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can:
+This lesson opens Unit 4 and asks what a poster must do. You learn the four questions to ask any poster, then annotate one poster and design your own final poster in thumbnail. Your deliverable is **CS4**: one annotated poster analysis plus a four-thumbnail set with type studies, one circled with a reason. You produce and hand it in on Wed 2026-12-16. It rehearses A4, the final poster, which you make in class on Wed 2026-12-23.
 
-1. Ask a poster its four questions: what does it say, who is it for, what reads first, what does the type sound like
-2. Produce one annotated poster analysis (CS4)
-3. Design four thumbnails with type studies and circle one with a reason
+## The ideas
 
-## Goal
+A poster works differently from the images you made earlier this semester. Those could wait to be understood. A poster has **three seconds and three meters**: it has that long to deliver one message to one audience, or it fails. To design one, ask it four questions.
 
-Every unit this semester made images that could wait to be understood. A poster cannot wait: it has **three seconds and three meters** to deliver one message to one audience, or it has failed. Today compresses the whole discipline into its four questions — *what does it say? who is it for? what reads first? what does the type sound like?* — and ends with the final poster designed in thumbnail.
+### Message
 
-## How it runs
+**Message** is what the poster says. State it in one sentence, or it is not a message.
 
-- **Warm-up (10 min)** — A3 collages returned with feedback; one written action each. Then the unit question, cold: *a poster in the hallway — what decides whether anyone reads it?*
-- **Teach: the four questions (20 min)** — worked on exemplars, one question at a time. **Message**: one sentence or it isn't one. **Audience**: Mucha selling cherry-blossom calendars to Parisians; a print made cheap to travel to thousands (the Ukiyo-e argument from the printmaking deck). **Hierarchy**: the 1860s Gsell advertisement — one name card commanding a hundred small photographs; first read, second read, third read. **Type as voice**: the same word in three letterings sounds like three people — L11's text-as-image, now in charge.
+### Audience
+
+**Audience** is who the poster is for. Mucha sold cherry-blossom calendars to Parisians. A print made cheap could travel to thousands, the same argument as the Ukiyo-e print. The audience decides the design.
+
 
 <div class="plate-row">
 <figure class="plate">
@@ -62,10 +62,30 @@ Every unit this semester made images that could wait to be understood. A poster 
 </figure>
 </div>
 
-- **Studio 1: the analysis (20 min)** — CS4 part one: take one poster from the spread (printed exemplars + the classroom deck), annotate it against the four questions, and state the first/second/third read with arrows. Plain sentences beat design words.
-- **Studio 2: thumbnails and type (30 min)** — CS4 part two. The task: **a poster for an exhibition of your own work** — your A2 photo series or your A3 collage — for a real audience (this school, this hallway). Draw four thumbnails of the same poster with four different hierarchies (image-led, type-led, split, crowded-to-sparse); hand-letter the title word in two voices. **Circle one thumbnail, one line why.**
-- **Close (10 min)** — **CS4 collected** (analysis + thumbnails + type studies).
+### Hierarchy
+
+**Hierarchy** is what reads first. In the 1860s Gsell advertisement, one name card commands a hundred small photographs: there is a first read, a second read, and a third read. You control the order the eye moves in.
+
+### Type as voice
+
+**Type as voice** means the lettering carries a tone. The same word in three different letterings sounds like three different people. This is the text-as-image idea from Lesson 11, now in charge of the poster.
+
+## Day by day
+
+- **Wed 12-16.** Your A3 collages are returned with feedback and one written action each. You learn the four poster questions on worked exemplars, then take one poster and annotate it against the four questions, marking the first, second, and third read with arrows (CS4 part one). Then you design four thumbnails of a poster for an exhibition of your own work, your A2 photo series or A3 collage, for a real audience: this school, this hallway. Give the four thumbnails four different hierarchies (image-led, type-led, split, crowded-to-sparse), hand-letter the title word in two voices, and circle one thumbnail with one line saying why (CS4 part two). CS4 is collected in class. Homework: gather or make anything your circled thumbnail needs (images, lettering references, files), and post to MB.
 
 ## Assessment
 
-**CS4 — thumbnail set + poster analysis** — is sat and collected in this double (focus: hierarchy and audience), one week ahead of the sitting it rehearses. **A4** — the final poster, handmade or digital, made in class next Wednesday (Wed 2026-12-23), marked on **hierarchy, typography, message, audience** — is announced today, with a week's notice. Bring what your thumbnail needs. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+**CS4**, the thumbnail set plus poster analysis, is sat and collected in this double, with a focus on hierarchy and audience. It rehearses **A4**, the final poster, one week ahead. You sit A4 on Wed 2026-12-23: you make it in class, handmade or digital, and it is marked on hierarchy, typography, message, and audience. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+
+## Review
+
+Check you can:
+
+- Ask a poster its four questions: what it says, who it is for, what reads first, and what the type sounds like.
+- State a poster's **message** in one sentence.
+- Identify the **audience** a poster is designed for.
+- Explain **hierarchy** as a first, second, and third read.
+- Describe **type as voice** and how one word can sound like different people.
+- Produce an annotated poster analysis (CS4).
+- Design four thumbnails with type studies and circle one with a reason.

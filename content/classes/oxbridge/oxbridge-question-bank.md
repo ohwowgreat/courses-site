@@ -11,7 +11,7 @@ modified: 2026-07-25
 
 > [[classes/oxbridge/oxbridge|Oxbridge]] · course apparatus
 
-Single-line questions covering the full course arc — "plain on the surface, catalytic underneath." Use them as openers, as closing questions, or as interview prompts. The single-line form is deliberate: the printed question stays plain, and the complication comes in the spoken follow-up.
+Single-line questions covering the full course arc: plain on the surface, catalytic underneath. Use them as openers, as closing questions, or as interview prompts. The single-line form is deliberate. [[classes/oxbridge/oxbridge-course-design-principles|Principle 3]] keeps all scaffolding out of the printed question and puts the complication in the spoken follow-up.
 
 ## Image and perception
 
@@ -63,7 +63,7 @@ Single-line questions covering the full course arc — "plain on the surface, ca
 ## Human and machine
 
 - What can you do that a machine cannot?
-- Is the line between people and machines essential or contingent?
+- Is the human and machine line essential or contingent?
 - Can there be understanding without life?
 - What would a machine have to do for you to withdraw your answer?
 - Could a machine have a past?
@@ -136,4 +136,4 @@ Each block belongs to a session, so you can use the bank for revision as well as
 | Power and visibility | [[classes/oxbridge/lesson-plans/oxbridge-w13-who-gets-to-show-us-the-world\|W13]] |
 | Synthesis | [[classes/oxbridge/lesson-plans/oxbridge-w14-is-a-view-from-nowhere-possible\|W14]] |
 
-[[classes/oxbridge/lesson-plans/oxbridge-w07-argument-workshop|W07]] has no block of its own — it works on whatever you argued in the first six weeks.
+[[classes/oxbridge/lesson-plans/oxbridge-w07-argument-workshop|W07]] has no block of its own. It works on whatever you argued in the first six weeks.

@@ -17,7 +17,7 @@ modified: 2026-07-26
 
 # Lesson 03: Texture, Mark-Making and Negative Space
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1]] · U1·L3 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-02-tone-and-form|L02]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-04-composing-the-final-drawing|L04]] →
+[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1]] · U1·L3 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-02-tone-and-form|Lesson 02]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-04-composing-the-final-drawing|Lesson 04]] →
 
 ## At a glance
 
@@ -30,30 +30,40 @@ modified: 2026-07-26
 |---|---|
 | Focus | Texture and the mark that makes it; negative space |
 | Deliverable | Traced-hand texture sheet; observed texture grid; one negative-space study |
-| Assessments announced | **A1 and CS1** (you sit A1 on Wed 2026-09-30; CS1 checks Wed 2026-09-23) |
+| Feeds | **A1 and CS1 announced this session** (A1 sits W5, 09-30; CS1 checks W4, 09-23) |
 | Homework | Finish the texture worksheet; MB posting |
 
-## What you will be able to do
+## Overview
 
-By the end of this lesson, you can:
+This lesson teaches two ways of looking that beginners often skip: drawing a surface by choosing the right mark, and drawing the shape of the air around an object. You produce a traced-hand texture sheet, an observed texture grid, and one negative-space study. The texture grid and the negative-space study complete your CS1 set. Both skills feed straight into the final observational drawing that starts next week, and this session is when A1 and CS1 are announced.
 
-1. Choose the mark that makes a texture rather than labeling the surface
-2. Draw the shape of the air around an object and use it to check the object's accuracy
-3. Pair marks to textures and say which mark made which surface
+## The ideas
 
-## Focus
+### Texture and mark-making
 
-Two ways of looking that beginners skip. First: a surface is drawn by *choosing the right mark*, not by labeling it — so marks and textures are taught as pairs. Second: the shape of the air around an object is as drawable as the object — and often more accurate. Both feed straight into the final drawing that starts next week, and A1 is announced at the end of this session.
+**Mark-making** is drawing a surface by choosing the mark that makes it, not by labeling the surface. Each texture has a mark that produces it, so you learn marks and textures as pairs.
 
-## How it runs
+Build a vocabulary of marks first. Copy eight marks from the *Drawing Basics* taxonomy and name each one: cross-hatch left and right, zigzag, dragged side-of-pencil, spaced dashes, herringbone, serrated rows, and wavy horizontals. These eight are the vocabulary you use for the rest of the session.
 
-- **Warm-up (10 min)** — mark inventory: copy eight marks from the *Drawing Basics* taxonomy fast (cross-hatch left and right, zigzag, dragged side-of-pencil, spaced dashes, herringbone, serrated rows, wavy horizontals). Name each; they are the vocabulary for the next hour.
-- **Studio 1 (25 min)** — *Drawing Exercises 4*, the traced-hand sheet: trace your hand, give each finger a different texture, following the sheet's how-to notes. This forces five distinct mark decisions.
-- **Studio 2 (20 min)** — the texture grid: four to six cells, each a real surface from the table (fabric, wood grain, metal, sponge, skin), drawn from observation. Match the mark to the surface; a peer should be able to point from cell to object.
-- **Teach (10 min)** — negative space: hold up a chair; the drawing subject is the *holes* — the shapes the chair cuts out of the air. Figure and ground flip. One demo silhouette.
-- **Studio 3 (15 min)** — negative-space study: a chair or stool against a plain wall; draw only the spaces, shade them solid, never draw the chair itself.
-- **Close (10 min)** — A1 and CS1 are announced. A1 is one final observational drawing plus a short written reflection, made in class W4–W5, marked on **observation, tone, composition**. CS1 next week checks the four exercise pieces: contour work, the value scale/tonal study, texture, and negative space. Both are posted on MB.
+**Texture** is the look of a surface, drawn by matching a mark to it. On the traced-hand sheet you give each finger a different texture, which forces five distinct mark decisions. On the texture grid you draw four to six cells, each a real surface from the table (fabric, wood grain, metal, sponge, skin), from observation. The match should be clear enough that a peer can point from a cell to the object that made it.
+
+### Negative space
+
+**Negative space** is the shape of the air around an object. It is as drawable as the object itself, and often more accurate. When you draw a chair, the subject becomes the holes: the shapes the chair cuts out of the air. Figure and ground flip. In the negative-space study, you draw a chair or stool against a plain wall, draw only the spaces, shade them solid, and never draw the chair itself. Drawing the negative space is also a way to check the object's accuracy.
+
+## Day by day
+
+- **Wed 09-16.** Copy and name eight marks, complete the traced-hand texture sheet and the observed texture grid, then draw one negative-space study. A1 and CS1 are announced today. Homework: finish the texture worksheet and post to MB.
 
 ## Assessment
 
-**A1** (Wed 2026-09-30) and **CS1** (Wed 2026-09-23) are announced today. Today's texture grid and negative-space study complete the CS1 set. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+A1 (Wed 2026-09-30) and CS1 (Wed 2026-09-23) are both announced today. Today's texture grid and negative-space study complete the CS1 set. A1 is one final observational drawing plus a short written reflection, made in class across W4 and W5, marked on **observation, tone, composition**. CS1 checks four exercise pieces: contour work, the value scale/tonal study, texture, and negative space. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+
+## Review
+
+Check you can:
+
+- Choose the mark that makes a texture rather than labeling the surface.
+- Pair marks to textures and say which mark made which surface.
+- Draw the negative space, the shape of the air around an object.
+- Use negative space to check the object's accuracy.

@@ -64,16 +64,16 @@ All three components are **externally assessed by Cambridge**. Component 1 is in
 | AO4 Present | **10** |
 | **Total** | **60** |
 
-Component 1 has a greater focus on AO3 Develop and a smaller focus on AO4 Present.
+Component 1 puts a greater focus on AO3 Develop and a smaller focus on AO4 Present. This is a change from the previous specification, which weighted the AOs equally.
 
 ## Component 1: what you must evidence
 
-Cambridge's elaboration of each AO for the portfolio (syllabus pp.14 to 16), by criterion and the evidence it asks for.
+Cambridge's elaboration of each AO for the portfolio (syllabus pp.14 to 16), given as the criterion and the evidence it asks for.
 
 ### AO1 Record
 
 - **Selected relevant subject matter from a variety of sources.** Recording from a range of primary and secondary sources such as places, people and objects, to visually investigate a chosen theme, media or area of study. This should include research into relevant artists, designers and craftspeople, cultural investigation, and museum, gallery, workshop or studio visits.
-- **Recorded ideas, insights and observations using different methods.** Observational study using the most effective processes available: drawing, sketching, painting, samples, prints, modelling, maquettes, photography. Cambridge asks specifically whether different angles, viewpoints, close-up study, surface quality, colour, tone and form have been investigated.
+- **Recorded ideas, insights and observations using different methods.** Observational study using the most effective processes available: drawing, sketching, painting, samples, prints, modeling, maquettes, photography. Cambridge asks specifically whether different angles, viewpoints, close-up study, surface quality, color, tone and form have been investigated.
 - **Communicated intentions through critical reflection.** The selected sources and observational studies are relevant to intention, with clear personal engagement visible in the selections.
 
 ### AO2 Explore
@@ -92,7 +92,7 @@ Cambridge's elaboration of each AO for the portfolio (syllabus pp.14 to 16), by 
 ### AO4 Present
 
 - **Realises intentions.** Evidence across the portfolio that intentions were realised, and that work was thoughtfully and appropriately selected and presented so ideas and progress read clearly.
-- **Considers application of visual language to communicate ideas.** Understanding of visual elements such as colour, tone, line, form, texture and composition to create a personal visual language, explored throughout the portfolio and used thoughtfully.
+- **Considers application of visual language to communicate ideas.** Understanding of visual elements such as color, tone, line, form, texture and composition to create a personal visual language, explored throughout the portfolio and used thoughtfully.
 
 ## Component 1: the marking grid
 
@@ -107,11 +107,11 @@ Cambridge's five levels, syllabus pp.31 to 33. Each AO is marked on its own leve
 | **1** | **1–3.** Limited selection from sources · limited methods of recording · basic ability to communicate intention through critical reflection | **1–3.** Limited selection of media · basic understanding of appropriate skills · limited experimentation to review and refine | **1–4.** Limited evidence of connections · limited investigation demonstrating basic analytical and critical understanding · limited exploration of visual elements · basic reflection on own strengths and weaknesses | **1–2.** Basic portfolio that does not fully realise intentions · limited application of visual language |
 | **0** | 0. No creditable response | 0. No creditable response | 0. No creditable response | 0. No creditable response |
 
-Reading down any column, the level words run: **perceptive · confident · competent · sufficient or adequate · limited or basic.** The same ladder runs through all three components.
+Reading down any column, the level words run: **perceptive, confident, competent, sufficient or adequate, limited or basic.** The same ladder runs through all three components.
 
 ## How this maps onto the semester
 
-Component 1 is marked **as a whole portfolio, once, by Cambridge**. The attainments in [[classes/a-level-art-design/assessments/9479-s1-assessments|the register]] are BNDS milestones sampling that portfolio as it is built, so each one is marked against the AO columns it draws on rather than against all four:
+Component 1 is marked **as a whole portfolio, once, by Cambridge**. The attainments in [[classes/a-level-art-design/assessments/9479-s1-assessments|the register]] are BNDS milestones that sample the portfolio as you build it, so each one is marked against the AO columns it draws on rather than against all four:
 
 | Attainment | AO columns used | Marks available |
 |---|---|---|
@@ -120,4 +120,4 @@ Component 1 is marked **as a whole portfolio, once, by Cambridge**. The attainme
 | A3 Development | AO3 | 20 |
 | A4 Final portfolio | AO1 to AO4 | 60 |
 
-Under [[shared/bnds-assessment-framework|the BNDS framework]] these marks are then curved rather than reported raw, so a milestone mark is a Forecast Grade signal, not a Cambridge score.
+Under [[shared/bnds-assessment-framework|the BNDS framework]] these marks are curved rather than reported raw, so a milestone mark is a Forecast Grade signal, not a Cambridge score.

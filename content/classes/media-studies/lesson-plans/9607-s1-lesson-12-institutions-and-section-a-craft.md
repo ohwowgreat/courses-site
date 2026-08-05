@@ -8,7 +8,7 @@ related:
   - "[[classes/media-studies/9607-resource-library]]"
   - "[[concepts/media-industry]]"
   - "[[concepts/case-study-method]]"
-modified: 2026-07-26
+modified: 2026-08-03
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/above-fifth-avenue.jpg" alt="Underwood & Underwood, Above Fifth Avenue, Looking North, c. 1905 — the industry at work: somebody pays for this vantage" loading="lazy" />
@@ -17,9 +17,9 @@ modified: 2026-07-26
 
 # Lesson 12: Institutions and Section A Craft
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts|Unit 5]] · Lesson 12 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission|L11]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-13-a4-section-a-in-authentic-format|L13]] →
+[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts|Unit 5]] · Lesson 12 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission|Lesson 11]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-13-a4-section-a-in-authentic-format|Lesson 13]] →
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-12-institutions-and-section-a-craft.pptx">Download the deck (PowerPoint, 837 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-12-institutions-and-section-a-craft.pptx">Download the deck (PowerPoint, 819 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
 ## At a glance
 
@@ -36,57 +36,106 @@ modified: 2026-07-26
 | Feeds | A4 |
 | Homework | First case-study entries (30-min cap) |
 
-## Objectives
+## Overview
 
-By the end of this lesson you can:
+This lesson turns toward Component 2. You learn why the same text reads differently, and why texts say what they say. In the Wednesday double you write a guided Section A response, CS8, with the mark scheme open on the desk. On Friday you open your C2 case-study document, the file you will still use in May. CS8 is direct practice for A4. Your case study feeds A4, the End of Term Exam, and Paper 2.
 
-1. Explain differential readings using Morley and one example from the room
-2. Trace one editorial or content decision back to an ownership structure
-3. Write a Section A response while consulting the mark scheme and say which band each paragraph targets
-4. Open a case study document with the full structure in place and first entries dated
+## The ideas
 
-## Goal
+### Different readings of the same text
 
-Component 2 is the destination. Morley explains why the same text reads differently; ownership explains **why texts say what they say** — funding follows content. The double lesson demystifies Section A by writing one **with the mark scheme open on the desk**. Friday opens the case-study file that A4, the End of Term Exam and Paper 2 will all draw from.
+**Morley**, in the *Nationwide* study, showed that real audiences, in groups, produce systematically different readings of the same broadcast. The differences track their situations, not their intelligence. In class you produce a small version of this data: one short text is screened, readings are gathered anonymously, then grouped and explained. Because readings differ by situation, who makes the text matters even more.
 
-## How it runs
+### Ownership: funding follows content
 
-### D1 — Mon 12-07: Morley in miniature
+Public service broadcasting and commercial media differ in who pays: the license fee, advertisers, subscribers, or the state. What each payer buys shapes the content.
 
-- **Input (15 min)** — Morley's *Nationwide* study: real audiences, in groups, produce **systematically different readings** of the same broadcast — and the differences track their situations, not their intelligence.
-- **The replication (25 min)** — the class replicates it in miniature: one short text screened; readings gathered anonymously on cards; grouped on the board; the groupings explained.
-- **Close (5 min)** — theory card: Morley. If readings differ by situation, *who makes the text* matters even more — tomorrow, ownership.
+**Curran & Seaton** argue that ownership concentration narrows the stories that get told. The historical proof is one image: Gustave Le Gray photographed the Emperor's camp on commission in 1857, and the frame belonged to the payer, then as now.
 
-### D2 — Tue 12-08: ownership — funding follows content
-
-- **Input (15 min)** — PSB vs commercial: who pays (license, advertisers, subscribers, the state), and what each payer buys. Curran & Seaton: **ownership concentration narrows the stories that get told.** The historical proof: Le Gray photographed the Emperor's camp on commission — the frame belonged to the payer, in 1857 as now.
 
 <figure class="plate">
   <img src="../../../static/img/emperors-table.jpg" alt="Gustave Le Gray, Preparation of the Emperor's Table, Camp de Châlons, 1857 — photographed on imperial commission: the frame belonged to the payer" loading="lazy" />
   <figcaption>Gustave Le Gray, <em>Preparation of the Emperor's Table, Camp de Châlons</em>, 1857 — photographed on imperial commission: the frame belonged to the payer</figcaption>
 </figure>
 
-- **The trace (20 min)** — in pairs, take one text and trace **one visible decision** back to who pays for it: the ad break's placement, the family-friendly cut, the product in shot, the story not covered. Write out the chain: decision ← incentive ← payer.
-- **Close (10 min)** — theory card: Curran & Seaton. The China hour: who funds what you actually watch (CCTV, Tencent, bilibili's model) — same chain, local links.
+The mechanism is a chain: decision ← incentive ← payer. Take one visible decision, an ad break's placement, a family-friendly cut, a product in shot, a story not covered, and trace it back to who pays for it. This is the exam answer when run on your case-study institution's own funding.
 
-### D3 — Wed 12-09 (double): CS8 — Section A with the answers open
+As an aside, the same chain runs on what you watch (CCTV, Tencent, bilibili). This is a local link, not exam material.
 
-- **The demystification (15 min)** — the official five-criteria rubric on every desk (concepts / contexts / terminology / analysis / examples, 0–5 each), read aloud. Deck U5.2's context-terms quiz as the warm-up.
-- **CS8 (50 min)** — write a Section A response **with the mark scheme visible and consultable**. Draft paragraphs solo, but you may stop, check the band language, and annotate your own margin ("this sentence is my terminology evidence").
-- **The mapping (20 min)** — map your paragraphs to bands: label which criterion each paragraph was earning, and find the criterion you never fed. That gap is next week's target — the scaffold is removed at A4.
+### The Section A mark scheme
 
-### D4 — Fri 12-11: the May document
+Section A is marked on five criteria: concepts, contexts, terminology, analysis, examples, each scored 0–5. Keep the rubric visible while you write. Label which criterion each paragraph is earning, and find the criterion you never fed. That gap is your target for A4, where the scaffold is removed.
 
-The institution committed in L02 is the one you track from now to Paper 2. (Whether this session falls on Foreign Culture Day will be confirmed in class.)
+### The case-study document
 
-- **The pitch (10 min)** — start a case study you will still be using in May: one institution, tracked from now to Paper 2.
-- **The build (30 min)** — open the **C2 case-study document from the template**: identity and ownership; production patterns; distribution and marketing; audience and consumption; regulation; technology; dated key facts; and a final row mapping coverage against the four Key Concepts. Build the structure and make your first entries, **dated** — the ≤5-year contemporaneity rule starts mattering today.
-- **Close (5 min)** — homework: two entries a week, 30-minute cap, from public sources a G11 ESL student can read. WS 5.3's National Geographic sheet is the model of what good entries become.
+Your **C2 case-study document** tracks one institution from now to Paper 2. Its structure: identity and ownership; production patterns; distribution and marketing; audience and consumption; regulation; technology; dated key facts; and a final row mapping coverage against the four Key Concepts. Every entry is dated, because a contemporaneity rule applies: key facts should be no more than five years old.
+
+## Day by day
+
+- **Mon 12-07.** Morley in miniature. A short text is screened, readings are gathered anonymously and grouped on the board, and the groupings are explained.
+- **Tue 12-08.** Ownership and funding. In pairs you trace one visible decision back to who pays for it and write out the chain: decision ← incentive ← payer.
+- **Wed 12-09 (double).** CS8: you write a Section A response with the mark scheme visible on the desk, then map each paragraph to the criterion it was earning.
+- **Fri 12-11.** You open your C2 case-study document from the template, build the structure, and make your first dated entries. Homework: two case-study entries a week, 30-minute cap, from public sources you can read.
 
 ## Assessment
 
 | Item | Date | What | AO |
 |---|---|---|---|
-| CS8 | Wed 2026-12-09 | Guided Section A script, mark scheme open; direct practice for A4 — same format family, scaffold removed next week | AO1+AO2 |
+| CS8 | Wed 2026-12-09 | Guided Section A script, mark scheme open; direct practice for A4, same format family, scaffold removed next week | AO1+AO2 |
 
 See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+
+## Review
+
+Check you can:
+
+- Explain differential readings using **Morley** and one example.
+- Trace one editorial or content decision back to an ownership structure.
+- Write a Section A response while consulting the mark scheme, and name the band each paragraph targets.
+- Open a case study document with its full structure in place and first entries dated.
+
+## Practice
+
+Try each question before you open its answer. Keep your case-study document open; several answers belong in it.
+
+**1.** State Morley's usable claim in one sentence. What do the different readings track?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Real audiences, in groups, produce systematically different readings of the same broadcast. The differences track their situations, not their intelligence. Your class replicated this with one screened text and a board of grouped readings: that was Morley's data, produced in the room.
+
+</details>
+
+**2.** State Curran and Seaton's claim, then give the 1857 proof that funding shapes the frame.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Ownership concentration narrows the stories that get told. Le Gray photographed the Emperor's camp on commission: the frame belonged to the payer, in 1857 as now. Who pays is never decoration. It is the reason the text looks the way it does.
+
+</details>
+
+**3.** Who pays for public service broadcasting, for commercial TV, and for a streamer, and what does each payer buy?
+
+<details class="reveal"><summary>Show answer</summary>
+
+A license fee, advertisers, subscribers. The license buys a public remit. Advertisers buy audiences delivered at scheduled times. Subscribers buy retention, which buys autoplay and the season drop. Name the payer and you can predict the schedule.
+
+</details>
+
+**4.** Trace one visible decision back down the chain: decision, incentive, payer. Use a text you watched this week.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Any complete chain works. Example shape: the ad break lands on a cliffhanger (decision), because the broadcaster must hold you through the break (incentive), because advertisers pay for delivered audiences (payer). A chain that survives a challenge is exam material.
+
+</details>
+
+**5.** Name the five criteria a Section A script is marked on, and the marks each carries.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Concepts, contexts, terminology, analysis, examples. Five marks each. This is the whole secret. Label your own paragraphs with the criterion each one feeds, and find the criterion you never feed. That gap is your A4 target.
+
+</details>
+
+**6.** Keep the May document alive: two dated entries a week, thirty minutes, public sources you can actually read. Date every entry. The exam's contemporaneity rule means an undated fact is a fact you cannot safely use in May.

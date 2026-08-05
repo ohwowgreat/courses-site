@@ -30,34 +30,34 @@ modified: 2026-08-02
 | Then | Wed 2027-01-20 double: your one-page Semester 2 target sheet (LB7) |
 | Unit | [[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation\|U6 Revision and Consolidation]] |
 
-These dates may shift when the school publishes the exam calendar for this period.
-
 ## Objectives
 
 This exam asks you to show that you can:
 
-1. Sit a full two-hour paper applying the minute budget you rehearsed, rather than working it out under pressure.
+1. Sit a full two-hour paper using the **minute budget** you rehearsed, rather than working one out under pressure.
 2. Analyze an unseen extract to the Section A standard you reached at A4.
-3. Write a Section B contexts essay: a sustained argument using your own case study, built from research rather than recall.
-4. Read your own AO breakdown afterwards and state your gap without prompting.
+3. Write a Section B contexts essay: a sustained argument built from your own case study and your research, not from recall.
+4. Read your own AO breakdown afterward and state your gap on your own.
 
 ## The task
 
-The full Component 2 paper, in the format and duration of the real examination. This is the only genuine two-hour sitting of the semester, which is why it happens in the school exam window rather than in a lesson.
+The full Component 2 paper, in the format and duration of the real examination. This is the only genuine two-hour sitting of the semester. That is why it happens in the school exam window rather than in a lesson.
 
-**Section A**, 25 marks. An unseen moving-image extract, analyzed for how it constructs meaning through camera, sound, mise-en-scène and editing. The same task as A1 and A4, with the same rubric.
+**Section A**, 25 marks. An unseen moving-image extract, analyzed for how it constructs meaning through camera, sound, mise-en-scène and editing. This is the same task as A1 and A4, with the same rubric.
 
-**Section B**, 25 marks. A contexts essay. This part is new: it draws on your own case study, which must be **student-built and less than five years old**, and on the audience, industry and regulation material from Unit 5.
+**Section B**, 25 marks. A contexts essay. This part is new: it draws on your own **case study**, which must be student-built and less than five years old, and on the audience, industry and regulation material from Unit 5.
 
 ## Instructions
 
 1. **Your slot and venue come from the exam office.** Check them.
 2. **Bring nothing.** No notes, no case-study document. Section B runs on what you built and learned.
-3. **Apply the minute budget from the Lesson 15 rehearsal.** Two hours across two 25-mark sections means neither section can be allowed to eat the other.
+3. **Apply the minute budget from the Lesson 15 rehearsal.** Two hours across two 25-mark sections means neither section can eat into the other. The rehearsal makes the budget a habit, not a decision you make at minute 70.
 4. **Section A**: use the screening protocol as at A4. Notes first, then write.
-5. **Section B**: plan before writing. HW2's essay plan was practice for exactly this.
+5. **Section B**: plan before you write. Your HW2 essay plan was practice for exactly this.
 
-**If you are absent.** An exam-window absence goes through the exam office as well as your teacher, and the 24-hour advance-contact rule still applies (AL Student Guide p.8). This is a 20% category: a missed sitting is not a small problem.
+**Screening.** Section A needs playback in the venue. If your slot's room cannot screen the extract, say so at once, not on the day.
+
+**If you are absent.** An exam-window absence goes through the exam office as well as your teacher, and the 24-hour advance-contact rule still applies (AL Student Guide p.8). This is a 20% category. A missed sitting is not a small problem.
 
 ## Rubric
 
@@ -75,11 +75,11 @@ The **official Paper 2 five-criteria rubric**, identical to A1 and A4:
 
 ### Section B, 25 marks
 
-The **same five criteria**, applied to the contexts essay. Section B is marked on the identical grid, so the habits that earn marks in extract analysis earn them in the essay too. Terminology, examples and analysis-tied-to-effect are assessed either way. What changes is where the evidence comes from: your case study rather than an extract on screen.
+The **same five criteria**, applied to the contexts essay. This is worth knowing: Cambridge marks Section B on the identical grid, so the habits that earn marks in extract analysis earn them in the essay too. Terminology, examples and analysis tied to effect are assessed either way. What changes is where the evidence comes from: your case study rather than an extract on screen.
 
 ### The bands
 
-Per criterion, on both sections: **5** sophisticated or insightful · **4** thorough or effective · **3** clear or appropriate · **2** limited · **1** basic · **0** no creditable content. Best fit, and each criterion is banded independently.
+Per criterion, on both sections: **5** sophisticated or insightful · **4** thorough or effective · **3** clear or appropriate · **2** limited · **1** basic · **0** no creditable content. Best fit, and each criterion is banded on its own.
 
 Across the paper: **AO1 60%, AO2 40%.**
 
@@ -88,7 +88,8 @@ Marks are curved under [[shared/bnds-assessment-framework|the BNDS framework]] r
 ## After the exam
 
 - **Tue 2027-01-19: scripts returned** with **question-level AO breakdowns**, not just a total.
-- **Wed 2027-01-20, the double:** you convert that data into a **one-page Semester 2 target sheet**: where the marks went, which AO is your gap, and one action. It is logged as LB7, and it needs to be specific enough to act on months later.
+- **Wed 2027-01-20, the double:** you turn that data into a **one-page Semester 2 target sheet**: where the marks went, which AO is your gap, and one action. It is logged as LB7. Write it to be read in February, so make it specific enough to act on months later.
+- Grades and comments are due Wed 2027-01-20.
 
 ## How to prepare
 

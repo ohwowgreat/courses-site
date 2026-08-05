@@ -9,13 +9,13 @@ modified: 2026-07-26
 ---
 # S3 Lesson 03: Candidate Compositions and the Paper Reopens
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass|Unit 4]] · Lesson 03 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-02-the-action-plan-and-development-resumes|L02]] | [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-04-development-studies-and-targeted-tests|L04]] →
+[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass|Unit 4]] · Lesson 03 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-02-the-action-plan-and-development-resumes|Lesson 02]] | [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-04-development-studies-and-targeted-tests|Lesson 04]] →
 
 ## At a glance
 
 <dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>4 days<span class="stat-x">Week 3, reduced — no class on Wed 09-15 for Mid-Autumn</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-09-13 → Fri 2027-09-17</dd></div>
+  <div class="stat"><dt>Sessions</dt><dd>4 days<span class="stat-x">W3, reduced — Mid-Autumn takes Wed 09-15</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-09-13 → Fri 2027-09-17 <em>(projected)</em></dd></div>
   <div class="stat"><dt>AO focus</dt><dd>AO3 Develop<span class="stat-x">C3 written criteria (paper draft 2)</span></dd></div>
 </dl>
 
@@ -25,19 +25,11 @@ modified: 2026-07-26
 | Graded | **CS3** Fri 2027-09-17 — research paper draft 2 sections (written annotation). No attainment this week |
 | Homework | ≤30 min: outline the next draft-2 section — the argument, not the prose |
 
-These dates are projected and may shift when the school publishes the calendar for this period.
+These dates are projected. They may shift when the school publishes the calendar for this period.
 
-## What you will be able to do
+## Overview
 
-By the end of this lesson, you can:
-
-1. Carry two candidates forward, developed to the same standard so the eventual choice is fair
-2. Say why a single idea cannot be compared
-3. Open research paper draft 2 with structure and argument before prose, weaving your summer reading in rather than summarizing it
-
-## Goal
-
-Narrow and deepen. You sequence your candidate compositions and **carry two forward** — one is not a choice, because a single idea can't be compared — and you develop both to the same standard so the eventual decision is fair. Alongside the studio work, your **research paper draft 2** reopens: structure first, argument before prose, your summer reading woven in rather than summarized.
+This week you narrow and deepen. In the studio you carry two candidate compositions forward and develop both to the same standard, so your later choice is fair. Alongside the studio, you reopen the research paper as draft 2: structure first, then argument, with your summer reading woven in. Your deliverable is the set of draft 2 sections, graded as **CS3** on Fri 2027-09-17. Both candidates feed the honest critique in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-04-development-studies-and-targeted-tests|Lesson 04]], and the paper's written thread runs on through CS3 here toward **A3**.
 
 
 <figure class="plate">
@@ -45,17 +37,34 @@ Narrow and deepen. You sequence your candidate compositions and **carry two forw
   <figcaption>Ilya Repin, <em>Studies for Figures on the Nevsky Prospect</em>, 1891</figcaption>
 </figure>
 
-## How it runs
+## The ideas
 
-- **Mon 09-13 — studio: candidate sequence.** Lay your candidates in order and carry **two** forward; developing only one leaves nothing to compare.
-- **Tue 09-14 — studio: candidate development.** Push both candidates to the same standard, so neither wins by neglect of the other.
-- *(Wed 09-15 — Mid-Autumn, no class.)*
-- **Thu 09-16 — research paper draft 2 opens.** Structure first: the sections and what each must prove. Argument before prose.
-- **Fri 09-17 — draft 2 sections continue; CS3.** Your summer reading appears **woven into the argument, not as summary**. CS3 marks the sections you draft.
+### Two candidates carried forward
 
-## Key content: two candidates, one argument
+**Carrying two candidates forward** means you develop two compositions, not one. Keep two, because a single idea cannot be compared. With only one, there is nothing to judge it against. Develop both to the same standard so neither wins by neglect of the other. When you finally choose, write down the rejection: record which candidate you drop and why. Because both reach a judgeable standard, the comparison in the Lesson 04 critique stays honest.
 
-- Two candidates reach a judgeable standard; you will choose one, and write down why you rejected the other.
-- ◆ Draft 2 **argues** — your summer reading is evidence inside the argument, not a book report at the back.
-- Develop both candidates equally so the comparison in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-04-development-studies-and-targeted-tests|L04]]'s critique is honest.
-- The paper's written thread runs through CS3 here and the U5 final-text sessions toward **A3**; the research paper has no CS of its own.
+### Research paper draft 2
+
+**Research paper draft 2** is built structure first. Set out the sections and decide what each one must prove before you write the prose. Argument comes before prose.
+
+Your summer reading appears **woven into the argument, not as summary**. Use each source as evidence inside your argument. Do not add a book report at the back.
+
+The research paper has no coursework sitting of its own. Its written thread runs through CS3 here and continues in the Unit 5 final-text sessions toward A3.
+
+## Day by day
+
+- **Mon 09-13.** Studio. Lay the candidates in order and carry two forward. Developing only one leaves nothing to compare.
+- **Tue 09-14.** Studio. Push both candidates to the same standard, so neither wins by neglect of the other.
+- **Wed 09-15.** No class. Mid-Autumn.
+- **Thu 09-16.** Research paper draft 2 opens. Structure first: the sections and what each must prove. Argument before prose.
+- **Fri 09-17.** Draft 2 sections continue, with the summer reading woven into the argument. CS3 marks the sections drafted. Homework (≤30 min): outline the next draft-2 section, the argument, not the prose.
+
+## Review
+
+Check you can:
+
+- Explain why you carry two candidates forward and why a single idea cannot be compared.
+- Develop two candidate compositions to the same standard.
+- Write down the rejection when you choose one candidate.
+- Open research paper draft 2 with structure and argument before prose.
+- Weave your summer reading into the argument as evidence, not as summary.

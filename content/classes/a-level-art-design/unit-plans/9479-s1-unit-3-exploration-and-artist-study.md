@@ -19,35 +19,27 @@ modified: 2026-07-17
 
 ## What this unit does
 
-This is the exploration and artist-study stage. In the first half you work on AO2 (Explore): twelve prescribed media experiments, evidence-based selection, and a scale trial at outcome size. In the second half AO3 opens: two artist studies chosen to solve — and then argue about — your problem, plus a bridge piece that carries the study into development. The unit closes with A2, marked against AO2 and AO3 together.
+This is the exploration and artist-study stage. The front half carries **AO2 Explore**: twelve prescribed media experiments, evidence-based selection, and a scale trial at outcome size. The back half opens **AO3**: two artist studies chosen to solve, then argue about, your problem, plus the bridge piece that carries the study into development. The unit closes with A2, marked against AO2 and AO3 together.
 
 ## Dates & span
 
-Mon 2026-10-12 → Tue 2026-11-10 (W7 → W11), with the G11 Juniors Days on Wed–Fri of W10. You sit A2 on Mon of W11, and Unit 4 opens mid-week after the feedback day.
+Mon 2026-10-12 to Tue 2026-11-10 (W7 to W11). The G11 Juniors Days fall on Wed to Fri of W10. You sit A2 on Mon of W11, and Unit 4 opens mid-week after the feedback day.
 
 ## Lessons
 
-- [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-06-media-exploration|Lesson 06: Media Exploration]] — the twelve prescribed experiments as one three-day run; keep-or-change decided with evidence.
-- [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-07-selection-and-scale|Lesson 07: Selection and Scale]] — critique of the grids, media selected for writable reasons, scale trial (name what broke and repair it — that is your AO2 evidence), Stage 3 page.
-- [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-08-artist-study-1|Lesson 08: Artist Study 1]] — from the prescribed pool: analysis → meaning and context → method copy → personal response → influence note.
-- [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-09-artist-2-bridge-piece-and-a2|Lesson 09: Artist 2, Bridge Piece and A2]] — Artist 2 chosen to argue with Artist 1; bridge piece finished across the Juniors Days gap; A2 sat; one defensible direction.
+- [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-06-media-exploration|Lesson 06: Media Exploration]]: the twelve prescribed experiments as one three-day run. You decide keep-or-change with evidence.
+- [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-07-selection-and-scale|Lesson 07: Selection and Scale]]: critique the grids, select media for reasons you can write down, run the scale trial, and make the Stage 3 page. You name what broke and repair it. That is the AO2 evidence.
+- [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-08-artist-study-1|Lesson 08: Artist Study 1]]: from the prescribed pool, work through analysis, meaning and context, method copy, personal response, and an influence note.
+- [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-09-artist-2-bridge-piece-and-a2|Lesson 09: Artist 2, Bridge Piece and A2]]: choose Artist 2 to argue with Artist 1, finish the bridge piece across the Juniors Days gap, sit A2, and settle one defensible direction.
 
 ## Assessment
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study|A2 Exploration & Artist Study]].
 
-You sit **A2 on Mon 2026-11-09** — exploration and artist study (twelve experiments, media selection, scale trial, artist pages, bridge piece), marked against AO2+AO3. CS tasks, each direct practice for A2:
-
-- **CS5** Fri 2026-10-16 — experiments documented
-- **CS6** Fri 2026-10-23 — Stage 3 page + selection note
-- **CS7** Fri 2026-10-30 — artist pages
-
-See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]].
+You gate on **A2, Mon 2026-11-09**: exploration and artist study (twelve experiments, media selection, scale trial, artist pages, bridge piece), marked against AO2 and AO3. CS tasks give you direct practice for A2: **CS5** Fri 2026-10-16 (experiments documented), **CS6** Fri 2026-10-23 (Stage 3 page and selection note), **CS7** Fri 2026-10-30 (artist pages). See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]].
 
 ## Key content
 
-- **The twelve experiments (prescribed):** ink+stick blind/sighted · charcoal erased back · wet-in-wet watercolor · collage from own photos · monoprint · frottage · wax resist · impasto+scraper · stippling/cross-hatch · three-media layering · low-relief maquette in raking light · digital threshold/overlay. Experiment 11 is not optional: the 2D-to-3D loop differentiates AO2 and AO3 at the top band.
-- **Artist pools per theme (prescribed):** Reflections → Estes, Fish, Escher · Worn → Tàpies, Siskind, Kiefer · Hands → Kollwitz, Dürer, Yoshitoshi/craft photographer · Structures → Sheeler, Feininger, Whiteread. Each pool spans period and culture and contains one 3D-capable anchor. The choice principle: "an artist who solves your problem, not one you simply like."
+- **The twelve experiments (prescribed):** ink+stick blind/sighted · charcoal erased back · wet-in-wet watercolor · collage from own photos · monoprint · frottage · wax resist · impasto+scraper · stippling/cross-hatch · three-media layering · low-relief maquette in raking light · digital threshold/overlay. Experiment 11 is not optional: the 2D-to-3D loop separates AO2 and AO3 at the top band.
+- **Artist pools per theme (prescribed):** Reflections: Estes, Fish, Escher · Worn: Tàpies, Siskind, Kiefer · Hands: Kollwitz, Dürer, Yoshitoshi/craft photographer · Structures: Sheeler, Feininger, Whiteread. Every pool spans period and culture and contains one 3D-capable anchor. The choice principle: "an artist who solves your problem, not one you simply like."
 - The one-sentence defensible direction from the A2 feedback day is your entry ticket to Lesson 10: no direction, no composition.
-
-Note: these dates fall in a future term and may shift when the school publishes the calendar for that period.

@@ -14,15 +14,18 @@ modified: 2026-08-02
 
 ## At a glance
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Sits</dt><dd>Tue 2026-10-13<span class="stat-x">the Tuesday double</span></dd></div>
+  <div class="stat"><dt>Returned</dt><dd>Inside a week<span class="stat-x">because mid-terms need it</span></dd></div>
+</dl>
+
 | | |
 |---|---|
-| You sit it | Tue 2026-10-13, the Tuesday double |
 | Category | Attainment, the second of four in the 50% category |
 | Format | **In-class essay, closed.** No notes, no phones, no reading brought in |
 | The task | One claim about Titian against Manet, evidenced from the pictures |
 | Marked on | The claim · Evidence from the pictures · Comparison as argument · Precision of language |
 | Feeds | The mid-term grades due Thu 2026-10-29 |
-| Returned | Inside a week |
 | Unit | [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory\|U2 Narrative, Myth and Allegory]] |
 
 ## Objectives
@@ -36,7 +39,7 @@ This assessment asks you to show that you can:
 
 ## The task
 
-An in-class essay on two paintings, closed book.
+You write an in-class essay on two paintings, closed book.
 
 You make **one claim** about Titian against Manet and you argue it from what is in the pictures.
 
@@ -44,9 +47,9 @@ The trap, and it is the whole reason this assessment exists:
 
 **A list is not a comparison.**
 
-Everybody can produce a list of differences: the gaze, the maid, the cat, the shoes, the flowers, the hand. A list is inventory. A comparison identifies which difference matters and argues what it does. One difference, followed properly, beats six differences noted.
+Anyone can produce a list of differences: the gaze, the maid, the cat, the shoes, the flowers, the hand. A list is inventory. A comparison identifies which difference matters and argues what it does. One difference, followed properly, beats six differences noted.
 
-The second trap is arguing from **reception**. What critics said in 1865 is interesting and it is not evidence about the picture. You read on *Olympia*'s reception as homework precisely so you know the difference between the painting and the noise around it.
+The second trap is arguing from **reception**. What critics said in 1865 is interesting, and it is not evidence about the picture. You read on *Olympia*'s reception as homework so you know the difference between the painting and the noise around it.
 
 ## Instructions
 
@@ -76,9 +79,9 @@ Under the [[shared/bnds-assessment-framework|BNDS framework]] this becomes a cur
 
 ## After the sit
 
-Review protocol: **the criteria** in front of you, **ten minutes of silence** with your own work, **one named strength**, **one move.**
+The course's review protocol: **the criteria** in front of you, **ten minutes of silence** with your own work, **one named strength**, **one move.**
 
-Marking is inside a week, because A2 carries the mid-term grades due Thu 2026-10-29 along with participation.
+Marking is inside a week rather than the usual five working days, because **A2 carries the mid-term grades due Thu 2026-10-29** along with participation.
 
 ## How to prepare
 

@@ -13,27 +13,27 @@ modified: 2026-07-25
 
 ## The claim in one line
 
-Power operates through **visibility and classification** rather than only through force; the panopticon works because the watched person, uncertain when they are seen, **watches themselves.**
+Power works through **visibility and classification**, not only through force. The panopticon works because the watched person, unsure when they are seen, **watches themselves.**
 
-## Quote
+## Quote to put on the board
 
 > Visibility is a trap.
 
-## How the course uses him
+## How the Oxbridge course uses him
 
-**Week 13.** The central point is not to treat the panopticon as a simple metaphor for surveillance cameras, but to press the harder claim: **power that makes you police yourself needs no operator at all.**
+**Week 13.** The point is not to treat the panopticon as a metaphor for surveillance cameras. The harder claim is this: **power that makes you police yourself needs no operator at all.**
 
-Questions to carry it: *if power works best when nobody has to exercise it, where is it located?* · *is visibility a trap — who set it?* · *is a framework that makes you police yourself more or less powerful than one that punishes you?*
+Questions to hold onto: if power works best when nobody has to exercise it, where is it located? Is visibility a trap, and who set it? Is a framework that makes you police yourself more or less powerful than one that punishes you?
 
-The opening prompt sets it up without naming him: describe a situation in which being watched changed what you did, even though nobody said anything. You will supply the panopticon before you read it.
+An opening prompt sets this up without naming him: describe a situation in which being watched changed what you did, even though nobody said anything. You supply the panopticon before you read it.
 
 ## Paired with Fanon
 
-Foucault describes a general condition; [[entities/frantz-fanon|Fanon]] describes a distributed one. Not everyone is seen the same way, and a theory of visibility that cannot register that difference is one this course sets out to question. Fanon is not simply an illustration of Foucault.
+**Fanon is not just an illustration of Foucault.** Foucault describes a general condition. [[entities/frantz-fanon|Fanon]] describes a distributed one. Not everyone is seen the same way, and a theory of visibility that cannot register that difference is exactly the kind of framework this course has been taking apart.
 
 ## Set text
 
-The panopticon extract from *Discipline and Punish* — see [[classes/oxbridge/oxbridge-reading-list|the reading list]].
+The panopticon extract from *Discipline and Punish*. See [[classes/oxbridge/oxbridge-reading-list|the reading list]].
 
 ## Links
 

@@ -9,7 +9,7 @@ modified: 2026-07-17
 
 > [[classes/art-appreciation/art-appreciation|Art Appreciation]] · Semester 2 · previous: [[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan|Semester 1 Plan]]
 
-Spring 2027 (roughly Feb 22 – Jun), mixed G11 and G12. This semester moves from *reading images* to *the structures of the art world* — patronage, markets, and visibility — and closes on the **Atlas Book capstone**, which is also your Semester 2 End-of-Term piece. There is no sit-down mock exam for this course.
+This is Semester 2. It runs in Spring 2027, from about Feb 22 to June, for mixed G11 and G12 students. These dates may shift when the school publishes the spring calendar. The semester moves from reading images to the structures of the art world: patronage, markets, and visibility. It ends with the **Atlas Book** capstone. The Atlas Book is also the Semester 2 End-of-Term piece. This course has no sit-down mock exam.
 
 ## Unit sequence (U5–U14)
 
@@ -26,9 +26,7 @@ Spring 2027 (roughly Feb 22 – Jun), mixed G11 and G12. This semester moves fro
 | U13 | How to Make It as an Artist |
 | U14 | Capstone: the Atlas Book |
 
-## The five Semester 2 majors
-
-The teaching-week slots below (T4, T7, etc.) will be matched to calendar dates and confirmed in class.
+## The five S2 majors
 
 | Major | Slot |
 |---|---|
@@ -38,10 +36,10 @@ The teaching-week slots below (T4, T7, etc.) will be matched to calendar dates a
 | Career submission packet | T12 |
 | **Atlas Book** (capstone = S2 EoT) | T16 |
 
-## Semester notes
+The slot timing will be confirmed in class once the spring calendar publishes.
 
-- There is no external paper and no mock exam. The whole semester builds toward the **Atlas Book**, your capstone and End-of-Term piece.
-- **Qingming week** (Qingming falls Mon 2027-04-05, but the holiday date floats): a free Atlas-Book production block.
-- **May Day** (roughly 05-01 to 05-05): revision and Atlas-Book production only.
+## What to know
 
-These spring dates may shift when the school publishes the calendar for that period.
+- There is no external paper and no mock. The **Atlas Book** is the anchor of the semester, and the spring is built backwards from it.
+- During **Qingming** week (Qingming falls on Mon 2027-04-05 but the date floats), you get a free Atlas-Book production block, not a mock.
+- May Day (about 05-01 to 05-05) is for revision and Atlas-Book production only.

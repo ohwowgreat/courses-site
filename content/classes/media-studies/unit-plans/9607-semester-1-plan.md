@@ -11,10 +11,9 @@ modified: 2026-07-28
 
 > [[classes/media-studies/media-studies|Media Studies]] · Semester 1 of 4 ([[classes/media-studies/unit-plans/9607-course-map|course map]]) · next: S2 C1 submission + Paper 2
 
-**G11 (AS year), autumn 2026-27.** 16 deliverable-based lessons across **64 teaching days in 21 weeks**. By the end of the semester you will have covered media language and textual analysis, launched, produced and internally completed **Component 1 by Fri 2026-11-27**, and established C2 Section A craft. Dates follow the [[calendar|school calendar]].
+**G11 (AS year), autumn 2026-27.** This semester runs 16 lessons across **64 teaching days in 21 weeks**. By the end you will have mastered media language and textual analysis, **completed Component 1 by Fri 2026-11-27**, and built your C2 Section A craft. Dates follow the [[calendar|school calendar]].
 
-> [!note] Timing of in-class assessments
-> Classes run as Mon/Tue/Fri singles plus a **Wed double**. Every in-class assessment sits in the Wednesday double. All dates below are provisional and may shift when the school publishes the calendar for this period.
+You have single lessons on Mon, Tue, and Fri, plus a **Wednesday double**. Every in-class assessment sits in the Wednesday double. These dates may shift when the school publishes the calendar for this period.
 
 ## The six units
 
@@ -40,9 +39,9 @@ Dates, notice and the CS/LB layers are in the register.
 | Wk | Dates | What happens |
 |---|---|---|
 | W1 | 09-01 → 04 | The four Key Concepts on a known text; blog set-up; CS1 |
-| W2 | 09-07 → 11 | Semiotics (Saussure); **media area decided Wed**; CS2 |
+| W2 | 09-07 → 11 | Semiotics (Saussure); **you decide your media area Wed**; CS2 |
 | W3 | 09-14 → 18 | Peirce + code families; cold-read TV-drama stills; CS3 quiz |
-| W4 | 09-20 → 23 | Genre + camera; CS4 + cameras-in-hand technical rehearsal Wed (Fri lost to Mid-Autumn) |
+| W4 | 09-20 → 23 | Genre + camera; CS4 + cameras-in-hand technical rehearsal Wed (no Friday class for Mid-Autumn; a Sunday make-up day will be confirmed in class) |
 | W5 | 09-28 → 30 | Narrative; **C1 planning locked**; **HW1 + Wed** (window spans the holiday) |
 | W6 | 10-09 | Single post-holiday day: sound/editing vocab, HW1 debrief |
 | W7 | 10-12 → 16 | Propp/Todorov stress-test; **A1 Wed 10-14** (60-min unseen analysis) |
@@ -56,7 +55,7 @@ Dates, notice and the CS/LB layers are in the register.
 | W15 | 12-07 → 11 | Morley; institutions; CS8 guided Section A; C2 case-study document opened |
 | W16 | 12-14 → 18 | Integration/synergy/convergence; **A4 Wed 12-16** (authentic Section A format) |
 | W17 | 12-21 → 23 | A4 self-assessment; coverage matrix; **EoT announced**; HW2 set |
-| W18 | 12-29 → 30 | Whether G11 teaches this week is not yet decided; it will be confirmed in class |
+| W18 | 12-29 → 30 | Whether G11 has class this week is not yet decided; it will be confirmed in class |
 | W19 | 01-04 → 08 | Exam rehearsal; HW2 due Mon; CS9 timed Section B; Fri = last teaching day |
 | W20 | 01-11 → 18 | **EoT: full 2-hour Component 2** in the exam window |
-| W21 | 01-19 → 20 | Scripts + AO breakdowns; S2 target sheets; grades due Wed 01-20 |
+| W21 | 01-19 → 20 | Scripts + AO breakdowns; S2 target sheets |

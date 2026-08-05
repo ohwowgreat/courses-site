@@ -22,13 +22,13 @@ A framework is **any system that makes something knowable by excluding most of w
 2. **It is productive, not merely descriptive.** [[concepts/linear-perspective|Linear perspective]] did not record how vision works. It trained vision to work that way.
 3. **It hides its own edges.** This is the property the whole course turns on. See [[concepts/naturalization|Naturalization]].
 
-Property 3 is what makes the term non-trivial. Everyone accepts that frameworks exist; the claim that does the work is that they **systematically conceal that they are frameworks.**
+Property 3 is what makes the term non-trivial. Everyone accepts that frameworks exist. The claim that does real work is that they **systematically conceal that they are frameworks.**
 
 ## Test question
 
 > Name a framework you use every day that claims not to be one.
 
-You answer this in [[classes/oxbridge/lesson-plans/oxbridge-w06-does-reality-have-a-history|W06]], where every student responds. Possible answers: exam grades, the calendar, the news feed, "common sense", the school timetable, the map app. Your answer becomes your essay topic in [[classes/oxbridge/lesson-plans/oxbridge-w07-argument-workshop|W07]].
+You answer this in [[classes/oxbridge/lesson-plans/oxbridge-w06-does-reality-have-a-history|W06]], and everyone answers. Common answers: exam grades, the calendar, the news feed, "common sense", the school timetable, the map app. Your answer becomes your essay topic in [[classes/oxbridge/lesson-plans/oxbridge-w07-argument-workshop|W07]].
 
 ## Where the term gets its edges
 
@@ -45,8 +45,8 @@ The concept is built across the course rather than defined once:
 
 ## The self-application problem
 
-The course's final question is whether the concept survives being applied to itself. Two live answers, both developed in [[concepts/view-from-nowhere]]: either the demand for an unframed view is incoherent rather than merely unsatisfied, or frames can be compared by their consequences without any access to an unframed reality — which is [[concepts/situated-knowledge|Haraway's route]].
+The course's final question is whether the concept survives being applied to itself. There are two live answers, both developed in [[concepts/view-from-nowhere]]. Either the demand for an unframed view is incoherent rather than merely unsatisfied, or frames can be compared by their consequences without any access to an unframed reality. The second is [[concepts/situated-knowledge|Haraway's route]].
 
 ## Related in other courses
 
-Media Studies reaches the same territory through [[concepts/representation|representation]] and mediation — media do not show the world, they go between us and it, selecting and shaping on the way. The vocabulary differs; the claim about selection is the same one.
+Media Studies reaches the same territory through [[concepts/representation|representation]] and mediation. Media do not show the world. They go between us and it, selecting and shaping on the way. The vocabulary differs. The claim about selection is the same one.

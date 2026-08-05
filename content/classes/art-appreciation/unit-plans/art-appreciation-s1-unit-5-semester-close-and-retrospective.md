@@ -21,15 +21,15 @@ modified: 2026-07-19
 
 ## What this unit does
 
-You read the whole semester back as one argument. The End-of-Term retrospective is the third constellation of the year — after the A1 board and the A4 synthesis, the same move at its largest scale. You inventory everything first (everything on the wall, no arranging), then defend the three works from your break homework against someone who chose differently, do a last workshop, sit the retrospective, and take a forward look. After the exam window (which holds no exam for this course — it is the marking window), there are three uncoded, weightless return days: one-to-one feedback, Semester 2 goals about your practice rather than a grade, and a look ahead to Semester 2.
+The whole semester reads back as one argument. The End-of-Term retrospective is the third constellation of the year, after the A1 board and the A4 synthesis, now at its largest scale. You inventory first: everything on the wall, no arranging. Then you defend the three works from the break homework against someone who chose differently. Then a last workshop, the sit, and a forward look. The exam window holds no exam for this course. It is the marking window. After it come three return days with no code and no weight: one-to-one feedback, Semester 2 goals about a practice rather than a grade, and a look ahead to Semester 2.
 
 ## Dates and span
 
-- **Weeks 18–19 + return**: Mon 2027-01-04 to Fri 2027-01-08, then Tue 2027-01-19. 8 sessions (5 + 3).
-- You sit the retrospective **Tue 2027-01-05, in class** — outside the exam window. This date will be confirmed in class.
+- **Weeks 18–19 plus return**: Mon 2027-01-04 to Fri 2027-01-08, then Tue 2027-01-19. 8 sessions (5 + 3).
+- You sit the retrospective **Tue 2027-01-05, in class**. It falls outside the exam window.
 - Fri 2027-01-08 is the last teaching day of the semester.
-- Exam window Mon 2027-01-11 to Mon 2027-01-18: no exam for this course; used to mark the retrospective.
-- **Grades and comments due Wed 2027-01-20.** LB9 (Tue 2027-01-19) lands after that deadline and carries no Semester 1 weight — it counts toward Semester 2.
+- Exam window Mon 2027-01-11 to Mon 2027-01-18: no exam for this course. It is used to mark the retrospective.
+- **Grades and comments due Wed 2027-01-20.** LB9 (Tue 2027-01-19) lands after this deadline. It carries no Semester 1 weight and counts toward Semester 2.
 - Last school day Fri 2027-01-22. Winter vacation 2027-01-24 to 02-21.
 
 These dates may shift when the school publishes the calendar for this period.
@@ -37,7 +37,7 @@ These dates may shift when the school publishes the calendar for this period.
 ## Lessons
 
 - [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-14-the-retrospective|Lesson 14: The Retrospective]] — 5 days; inventory wall, three-works debrief, constellation workshop, EoT sits Tue 2027-01-05, forward look.
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-15-return|Lesson 15: Return]] — 3 uncoded days; work returned one-to-one (≈8 minutes per student), Semester 2 goals; LB9.
+- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-15-return|Lesson 15: Return]] — 3 uncoded days; work returned one-to-one, Semester 2 goals; LB9.
 
 ## Assessment
 

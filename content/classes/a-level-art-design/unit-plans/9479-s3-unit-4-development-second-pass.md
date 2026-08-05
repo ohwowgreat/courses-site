@@ -19,14 +19,13 @@ modified: 2026-07-18
 
 ## What this unit does
 
-This unit finishes the development pass, under AO3 Develop. You compose final-outcome candidates from your summer production (not from memory), carry two forward, and build both to the same standard. Targeted tests change the composition based on evidence. A structured critique and a written evaluation assemble your decision trail on the Stage 6 page. You complete **research paper draft 2** section by section, teacher-marked. A self-check against the AO3 descriptors comes before the milestone. The unit closes with **A1**, marked against AO3.
+This unit finishes the development pass, under **AO3 Develop**. You compose final-outcome candidates from your summer production, not from memory. You carry two candidates forward and build both to the same standard. Targeted tests change the composition based on evidence. A structured critique and a written evaluation build the decision trail on your **Stage 6** page. You complete **research paper draft 2** section by section, and your teacher marks it. Before the milestone, you run a self-check against the AO3 descriptors. The unit closes with **A1**, marked against AO3.
 
-> [!note] Where this fits
-> This is the second pass of the development stage — Semester 2 built the first-pass compositions; Semester 3 develops the final-outcome candidates. Semester 3 has no recording or exploration units, as those are complete.
+> This is the **second pass** of the pipeline's development stage. Semester 2 built the first-pass compositions; Semester 3 develops the final-outcome candidates. Semester 3 has no U2 or U3, because recording and exploration are already complete.
 
 ## Dates & span
 
-Weeks W2–W7 (2027-09-08 → ~2027-10-14), 22 sessions, spanning the Mid-Autumn (W3) and National Day (W5–W6) reduced weeks. These dates may shift when the school publishes the calendar for this period.
+Weeks W2–W7 (2027-09-08 to about 2027-10-14), 22 sessions, across the Mid-Autumn (W3) and National Day (W5–W6) reduced weeks. These dates are projected and may shift when the school publishes the calendar for this period. See the [[classes/a-level-art-design/unit-plans/9479-semester-3-plan|semester plan]].
 
 ## Sequence of work
 
@@ -34,7 +33,7 @@ Weeks W2–W7 (2027-09-08 → ~2027-10-14), 22 sessions, spanning the Mid-Autumn
 |---|---|---|
 | U4·L1 | Compose final outcome candidates | From the summer work, not memory |
 | U4·L2–L3 | Studio: build candidate compositions (2-day session) | Far enough to judge |
-| U4·L4 | Studio: candidate sequence | Two carried forward |
+| U4·L4 | Studio: candidate sequence | Two carried forward; one is not a choice |
 | U4·L5 | Research paper draft 2 opens | Structure first, section by section |
 | U4·L6 | Studio: candidate development | Both to the same standard |
 | U4·L7 | Draft 2 sections continue | Argument before prose |
@@ -45,7 +44,7 @@ Weeks W2–W7 (2027-09-08 → ~2027-10-14), 22 sessions, spanning the Mid-Autumn
 | U4·L13 | Studio: draft the evaluation | In writing, against the intention |
 | U4·L14 | Studio: assemble the Stage 6 page | A trail of decisions |
 | U4·L15 | Studio: candidate refinement | The chosen candidate, up before the break |
-| U4·L16 | Development push | Before the holiday |
+| U4·L16 | Development push | A1 push, before the holiday |
 | U4·L17 | Studio: development gap repair | Everything to the same standard |
 | U4·L18 | Studio: finalise the evaluation | Portfolio material |
 | U4·L19 | Studio: pre-milestone repair | Close the named gaps |
@@ -55,10 +54,10 @@ Weeks W2–W7 (2027-09-08 → ~2027-10-14), 22 sessions, spanning the Mid-Autumn
 
 ## Assessment
 
-**A1, Thu 2027-10-14** — development milestone plus research paper draft 2, marked against AO3; feeds the mid-term grade at the two-week minimum. CS tasks: **CS2** Fri 2027-09-10 (composition studies), **CS3** Fri 2027-09-17 (draft 2 sections), **CS4** Fri 2027-09-24 (targeted tests). See the [[classes/a-level-art-design/assessments/9479-s3-assessments|full register]]. These dates may shift when the school publishes the calendar for this period.
+You sit **A1 on Thursday 2027-10-14**: the development milestone plus research paper draft 2, marked against AO3. It feeds the mid-term grade at the two-week minimum. CS tasks: **CS2** Fri 2027-09-10 (composition studies), **CS3** Fri 2027-09-17 (draft 2 sections), **CS4** Fri 2027-09-24 (targeted tests). See the [[classes/a-level-art-design/assessments/9479-s3-assessments|full register]].
 
 ## Key content
 
-- Two candidates reach a judgeable standard; you choose one and write the rejection.
-- Development should read as tested, rejected, decided on the Stage 6 page — not a gallery of effort.
-- Draft 2 argues; the summer reading appears woven into the argument, not as summary.
+- Two candidates reach a judgeable standard. You choose one and write the reason you reject the other.
+- Development should read as tested, rejected, decided on the Stage 6 page, not as a gallery of effort.
+- Draft 2 makes an argument. The summer reading appears woven into that argument, not as summary.

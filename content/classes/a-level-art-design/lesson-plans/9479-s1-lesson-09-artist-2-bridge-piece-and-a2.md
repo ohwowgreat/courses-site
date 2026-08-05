@@ -9,12 +9,12 @@ modified: 2026-07-26
 ---
 # S1 Lesson 09: Artist 2, Bridge Piece and A2
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study|Unit 3]] · Lesson 09 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-08-artist-study-1|L08]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-10-composition-1|L10]] →
+[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study|Unit 3]] · Lesson 09 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-08-artist-study-1|Lesson 08]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-10-composition-1|Lesson 10]] →
 
 ## At a glance
 
 <dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>4 days<span class="stat-x">5 sessions (W10–W11, split by the G11 Juniors Days); this closes Unit 3</span></dd></div>
+  <div class="stat"><dt>Sessions</dt><dd>4 days<span class="stat-x">5 sessions (W10–W11, split by the G11 Juniors Days) — Unit 3 closes; attainment review protocol</span></dd></div>
   <div class="stat"><dt>Dates</dt><dd>Mon 2026-11-02 + Tue 2026-11-03<span class="stat-x">then Mon 2026-11-09 + Tue 2026-11-10</span></dd></div>
   <div class="stat"><dt>AO focus</dt><dd>AO2 and AO3</dd></div>
 </dl>
@@ -23,15 +23,11 @@ modified: 2026-07-26
 |---|---|
 | Deliverable | A second artist set against the first; the bridge piece made and finished; A2 sat; one defensible direction |
 | Feeds | **A2 Mon 2026-11-09**: exploration and artist study, marked against AO2+AO3 |
-| Homework | Sketchbook: finish the bridge piece across the six-day Juniors Days gap |
+| Homework | Sketchbook: finish the bridge piece across the six-day Juniors Days gap — the deliberate finishing window |
 
-## What you will be able to do
+## Overview
 
-By the end of this lesson you can:
-
-1. Set a second artist against the first and name what the difference offers
-2. Make and finish a bridge piece that carries your study into development
-3. Sit A2 and leave with one direction you can defend
+This lesson closes Unit 3. You study a second artist against your first, then make a piece that carries your study into development. You produce a **bridge piece**: start it Tue 2026-11-03 and finish it across the six-day Juniors Days gap. On Mon 2026-11-09 you sit **A2**, a review of your whole Unit 3 portfolio against AO2 and AO3. You leave with one direction you can defend, which sets up Unit 4.
 
 
 <figure class="plate">
@@ -39,20 +35,38 @@ By the end of this lesson you can:
   <figcaption>Ilya Repin, study for <em>Reply of the Zaporozhian Cossacks</em>, 1878</figcaption>
 </figure>
 
-## Overview
+## The ideas
 
-A short, dense lesson built around the Juniors Days. Monday sets a second artist against the first and plans the piece that carries you from study into development; Tuesday you make it; the gap is where you finish it. A2 reviews the whole of Unit 3, and the feedback day ends with one direction you can defend.
+### Artist 2 against Artist 1
 
-## How it runs
+You choose your second artist to argue with your first. **Artist 2** is set against Artist 1 so the comparison names a tension, not a similarity. Analyze the two quickly and name where they disagree about the theme. The point is the difference and what that difference offers you.
 
-- **Mon 11-02** (two beats) — Artist 2: rapid analysis against Artist 1, where they disagree about the theme; the bridge plan: composition, media, and what it carries from each artist — signed off before you leave.
-- **Tue 11-03** — make the bridge piece: one sustained session, no restarts; then the finishing schedule for the gap, dated in your sketchbook.
-- *(Juniors Days gap, six days — your finishing window.)*
-- **Mon 11-09** — **A2 attainment.** Portfolio review in session: everything from Unit 3 (twelve experiments, media selection, scale trial, artist pages, bridge piece) against the published AO2 and AO3 criteria. Nothing may be added during the review.
-- **Tue 11-10** — A2 returned, banded; you write your one-sentence direction and defend it in a two-minute stand-up; Unit 4 preview.
+### The bridge piece
+
+A **bridge piece** is one work that carries your artist study into your own development. You plan it from the two artists: its composition, its media, and what it takes from each artist. Make it in one sustained session with no restarts, then finish it during the six-day gap. This is the deliberate finishing window.
+
+### A2 attainment and the defensible direction
+
+**A2** is the exploration and artist study milestone, marked against AO2 and AO3. It reviews everything from Unit 3: your twelve experiments, media selection, scale trial, artist pages, and bridge piece, against the published AO2 and AO3 criteria. Nothing is added during the review. After A2 is returned and banded, you write one-sentence **direction** and defend it in a two-minute stand-up. A defensible direction is a single choice you can explain and stand behind.
+
+## Day by day
+
+- **Mon 11-02.** Analyze Artist 2 against Artist 1 and name where they disagree about the theme. Plan the bridge piece: its composition, media, and what it carries from each artist. Get the plan signed off before you leave.
+- **Tue 11-03.** Make the bridge piece in one sustained session, no restarts. Set your finishing schedule and date it in your sketchbook.
+- *(Juniors Days gap, six days.)* Homework: finish the bridge piece in your sketchbook.
+- **Mon 11-09.** Sit **A2**. Your Unit 3 portfolio is reviewed in session against the published AO2 and AO3 criteria. Nothing is added during the review.
+- **Tue 11-10.** A2 is returned and banded. Write your one-sentence direction and defend it in a two-minute stand-up. Preview of Unit 4.
 
 ## Assessment
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study|A2 Exploration & Artist Study]].
 
-**A2** (exploration and artist study milestone, AO2+AO3) is sat Mon 2026-11-09 — see the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. Choose Artist 2 to argue with Artist 1: the comparison should name a tension, not a similarity.
+**A2** (exploration and artist study milestone, AO2+AO3) sits Mon 2026-11-09 — see the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. Choose Artist 2 to argue with Artist 1: the comparison names a tension, not a similarity.
+
+## Review
+
+Check you can:
+
+- Set a second artist against your first and name what the difference offers.
+- Make and finish a **bridge piece** that carries your study into development.
+- Sit A2 and leave with one direction you can defend.

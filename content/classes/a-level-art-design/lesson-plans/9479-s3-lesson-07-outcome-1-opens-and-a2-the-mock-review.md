@@ -16,7 +16,7 @@ modified: 2026-07-26
 
 <dl class="stat-strip">
   <div class="stat"><dt>Sessions</dt><dd>5 days (W8)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-10-18 → Fri 2027-10-22</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-10-18 → Fri 2027-10-22 <em>(projected)</em></dd></div>
   <div class="stat"><dt>AO focus</dt><dd>AO1–AO4 (whole-investigation review)<span class="stat-x">AO3/AO4 (outcome 1 build)</span></dd></div>
 </dl>
 
@@ -26,19 +26,11 @@ modified: 2026-07-26
 | Graded | **CS5** Tue 2027-10-19 (outcome 1 plan) · **A2** Thu 2027-10-21 (AO1–AO4, mock portfolio review) |
 | Homework | ≤30 min: act on one A2 target before the Seniors week |
 
-These dates are projected and may shift when the school publishes the calendar for this period.
+These dates are projected. They may shift when the school publishes the calendar for that period.
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can:
-
-1. Plan final outcome 1 so that composition, palette and materials are decided before the build
-2. Sequence the whole investigation as if submitting it
-3. Sit A2 as a dress rehearsal, and use it as portfolio material for applicants
-
-## Goal
-
-Unit 5 opens, and the whole investigation gets its dress rehearsal this week, before the Seniors' Days remove all of next week. You plan outcome 1 so nothing is left to the day — composition, palette and materials decided — and begin its build. On Thursday, A2 reviews the entire investigation to date, sequenced as if submitting. A2 also serves as portfolio material for applicants.
+This week opens Unit 5. You plan final outcome 1 in full, then begin its build. You also sit **A2**, a mock portfolio review of your whole investigation. You produce two graded pieces: **CS5** on Tue 2027-10-19, your outcome 1 plan, and **A2** on Thu 2027-10-21, your investigation reviewed against AO1–AO4. The build you open this week continues in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-08-building-outcome-1|L08]].
 
 
 <figure class="plate">
@@ -46,17 +38,38 @@ Unit 5 opens, and the whole investigation gets its dress rehearsal this week, be
   <figcaption>Aoki Shukuya, <em>Double Album of Landscape Studies after Ikeno Taiga</em>, 18th century</figcaption>
 </figure>
 
-## How it runs
+## The ideas
 
-- **Mon 10-18 — plan final outcome 1.** Decide composition, palette and materials now; solve it small first with supporting thumbnails.
-- **Tue 10-19 — studio: supporting thumbnails; CS5.** Prove the plan at thumbnail scale. CS5 is the outcome 1 plan, marked.
-- **Wed 10-20 — studio: outcome 1 build opens.** The build starts before the Seniors week removes W9.
-- **Thu 10-21 — A2: mock portfolio review.** The whole investigation, sequenced as if submitting, marked against AO1–AO4 — the dress rehearsal and an application asset.
-- **Fri 10-22 — feedback and independent targets.** Targets set for the Seniors week, when there is no class.
+### Planning outcome 1
 
-## Key content: the dress rehearsal, timed before W9
+Plan final outcome 1 so nothing is left to the build day. Decide your composition, palette, and materials in advance. The build day is then execution, not invention. Prove your plan first at small scale with **supporting thumbnails**: quick studies that test the composition before you commit to the full outcome. CS5 marks this plan.
 
-- You sit A2 on Thursday, before the Seniors week removes W9.
-- The A2 review is sequenced as a real submission: it is both the rehearsal and the portfolio-application asset for Oxbridge/ED applicants.
-- Outcome 1 is planned so the day itself is execution, not invention — composition, palette and materials fixed in advance.
-- **W9 (Seniors' Days) has no teaching.** It is an independent-production week, with your targets set today. Building resumes in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-08-building-outcome-1|L08]].
+### The dress rehearsal
+
+**A2** is a **dress rehearsal**: you sequence your whole investigation as if you were submitting it, and it is marked against AO1–AO4. The point is to see the full investigation as a real submission before the real thing. A2 also works as a portfolio asset for Oxbridge and Early Decision applicants.
+
+A2 sits on Thursday because it must land before the Seniors week. That week, W9 (Seniors' Days), has no teaching. It becomes an independent-production week, so A2 cannot fall inside it. This is why attendance and the plan matter: a missed week costs build time, and the studio does not wait.
+
+## Day by day
+
+- **Mon 10-18.** Plan final outcome 1. Decide composition, palette, and materials. Solve it small first with supporting thumbnails.
+- **Tue 10-19.** Studio work on supporting thumbnails. Sit **CS5**, your marked outcome 1 plan.
+- **Wed 10-20.** Open the outcome 1 build.
+- **Thu 10-21.** Sit **A2**, the mock portfolio review: your whole investigation sequenced as if submitting, marked against AO1–AO4.
+- **Fri 10-22.** Feedback, and set your independent targets for the Seniors week, when there is no class. Homework: act on one A2 target before that week.
+
+## Assessment
+
+| Code | Day | Covers |
+|---|---|---|
+| **CS5** | Tue 2027-10-19 | Outcome 1 plan |
+| **A2** | Thu 2027-10-21 | AO1–AO4, mock portfolio review |
+
+## Review
+
+Check you can:
+
+- Plan final outcome 1 with composition, palette, and materials decided before the build.
+- Test a plan at small scale using supporting thumbnails.
+- Sequence your whole investigation as if submitting it.
+- Sit A2 as a dress rehearsal and use it as portfolio material for applications.

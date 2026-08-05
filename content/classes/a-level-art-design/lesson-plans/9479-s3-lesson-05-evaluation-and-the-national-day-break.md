@@ -10,35 +10,25 @@ modified: 2026-07-26
 ---
 # S3 Lesson 05: Evaluation and the National Day Break
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass|Unit 4]] · Lesson 05 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-04-development-studies-and-targeted-tests|L04]] | [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-06-a1-the-development-milestone|L06]] →
+[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass|Unit 4]] · Lesson 05 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-04-development-studies-and-targeted-tests|Lesson 04]] | [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-06-a1-the-development-milestone|Lesson 06]] →
 
 ## At a glance
 
 <dl class="stat-strip">
   <div class="stat"><dt>Sessions</dt><dd>4 days (W5) + 1 day (W6) across the break<span class="stat-x">both reduced</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-09-27 → Thu 09-30<span class="stat-x">then Fri 2027-10-08</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-09-27 → Thu 09-30<span class="stat-x">then Fri 2027-10-08 <em>(projected; National Day from Fri 10-01)</em></span></dd></div>
   <div class="stat"><dt>AO focus</dt><dd>AO3 Develop<span class="stat-x">the decision trail</span></dd></div>
 </dl>
 
 | | |
 |---|---|
 | Deliverable | The evaluation drafted in writing; the Stage 6 page assembled; the chosen candidate up before the break |
-| Graded | No attainment. A1 and A2 are both announced Thu 2027-09-30 |
+| Graded | No attainment. **A1 and A2 are both announced Thu 2027-09-30** (see below) |
 | Homework | Over the break, ≤30 min total: a written note on what still needs closing on the chosen candidate, for the gap-repair session |
 
-These dates fall around the National Day break (from Fri 2027-10-01) and may shift when the school publishes the calendar for that period.
+## Overview
 
-## What you will do
-
-By the end of this lesson you can:
-
-1. Draft the evaluation in writing against the intention
-2. Assemble the Stage 6 page as a trail of tested, rejected and decided
-3. Bring the chosen candidate up to standard before the break
-
-## Goal
-
-Assemble the decision trail and carry it across the National Day break intact. Draft the evaluation **in writing against the intention**, build the **Stage 6 page** as a trail of decisions (tested, rejected, decided), and bring the chosen candidate up to standard before the break. Thursday carries important admin: **A1 and A2 are both announced**.
+This lesson closes out your development work before the National Day break. You draft your evaluation in writing, you assemble your Stage 6 page as a decision trail, and you bring your chosen candidate up to standard so it is ready when you return. A1 and A2 are both announced on Thu 2027-09-30. The work here feeds the development milestone, A1, in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-06-a1-the-development-milestone|L06]]. These dates are projected and may shift when the school publishes the calendar for this period.
 
 
 <figure class="plate">
@@ -46,18 +36,41 @@ Assemble the decision trail and carry it across the National Day break intact. D
   <figcaption>Edwaert Collier, <em>Vanitas Still Life</em>, 1662</figcaption>
 </figure>
 
-## How it runs
+## The ideas
 
-- **Mon 09-27 — studio: draft the evaluation.** In writing, against the intention — what the development found, not what it cost.
-- **Tue 09-28 — studio: assemble the Stage 6 page.** A trail of decisions: what was tested, what was rejected, what was decided and why.
-- **Wed 09-29 — studio: candidate refinement.** The chosen candidate brought up before the break.
-- **Thu 09-30 — development push; A1 and A2 announced.** Both notices go out today.
+### The evaluation
+
+The **evaluation** is your written judgment of the development against your intention. Write what the development found, not what it cost you to make it. Draft it in writing, against the intention.
+
+### The Stage 6 page
+
+The **Stage 6 page** is a trail of decisions: what you tested, what you rejected, and what you decided, and why. It is the evidence of **AO3 Develop**. Build it so it is legible without you in the room.
+
+Your **chosen candidate** is the option you carry forward. Bring it up to standard before the break, and set your own independent targets so it is ready for the milestone when you return.
+
+### A1 and A2
+
+The **14-day rule** means an assessment is announced at least 14 days before it falls. Thu 2027-09-30 is the last session that clears the 14-day rule for both A1 and A2 before the holiday, because the National Day break sits inside both windows. Both notices go out that day.
+
+## Day by day
+
+- **Mon 09-27.** Draft your evaluation in writing, against your intention.
+- **Tue 09-28.** Assemble your Stage 6 page as a trail of what was tested, rejected, and decided.
+- **Wed 09-29.** Refine your chosen candidate and bring it up before the break.
+- **Thu 09-30.** Development push. A1 and A2 are both announced today. Over the break, spend up to 30 minutes on a written note on what still needs closing on your chosen candidate, for the gap-repair session.
 - *(Fri 10-01 → National Day break.)*
-- **Fri 10-08 — studio: development gap repair.** Back from the break, everything brought to the same standard for the milestone.
+- **Fri 10-08.** Back from the break: development gap repair. Bring everything to the same standard for the milestone.
 
-## Key content: the decision trail, carried across the break
+## Assessment
 
-- ◆ **A1 and A2 are both announced Thu 2027-09-30.** See the [[classes/a-level-art-design/assessments/9479-s3-assessments|register]].
-- The Stage 6 page is the evidence of AO3: tested, rejected, decided — legible without you in the room.
-- The studio does not stop over the break — independent targets are set so the chosen candidate is ready for the milestone.
-- Next: the self-check against AO3 and **A1**, the development milestone, in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-06-a1-the-development-milestone|L06]].
+No attainment is graded this lesson. A1 and A2 are both announced Thu 2027-09-30, the last session that clears the 14-day rule for each before the holiday. See the [[classes/a-level-art-design/assessments/9479-s3-assessments|register]].
+
+## Review
+
+Check you can:
+
+- Draft an evaluation in writing against your intention.
+- Assemble a Stage 6 page as a trail of what you tested, rejected, and decided.
+- Explain how the Stage 6 page evidences AO3 Develop.
+- Bring your chosen candidate up to standard before the break.
+- State that A1 and A2 are both announced on Thu 2027-09-30.

@@ -9,7 +9,7 @@ modified: 2026-07-26
 ---
 # S2 Lesson 13: Evaluation, Draft 1 and A3
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-4-development|Unit 4]] · Lesson 13 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-12-critique-and-targeted-tests|L12]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-14-mid-point-piece-and-bibliography|L14]] →
+[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-4-development|Unit 4]] · Lesson 13 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-12-critique-and-targeted-tests|Lesson 12]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-14-mid-point-piece-and-bibliography|Lesson 14]] →
 
 ## At a glance
 
@@ -23,15 +23,11 @@ modified: 2026-07-26
 |---|---|
 | Deliverable | Evaluation written; Stage 6 page assembled; research paper draft 1 completed and repaired; A3 sat |
 | Feeds | **A3 Fri 2027-05-28** — development milestone + research paper draft 1 (compositions 1+2, targeted tests, evaluation, Stage 6 page), marked against AO3 |
-| Homework | ≤30 min: after A3, act on the feedback toward the mid-point piece and begin integrating the bibliography, ahead of [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-14-mid-point-piece-and-bibliography\|L14]] |
+| Homework | ≤30 min: after A3, act on the feedback toward the mid-point piece and begin integrating the bibliography, ahead of [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-14-mid-point-piece-and-bibliography\|Lesson 14]] |
 
-## What you will be able to do
+## Overview
 
-By the end of this lesson, you can:
-
-1. Write the evaluation against your stated intention
-2. Assemble the Stage 6 page so your development reads as a trail of decisions
-3. Complete research paper draft 1 and repair what the full draft exposes, then sit A3
+This lesson closes Unit 4 on AO3. You write the evaluation against your intention, assemble the Stage 6 page so your development reads as a trail of decisions, and pull your drafted sections into research paper draft 1, then repair what the full draft exposes. You sit **A3** on **Fri 2027-05-28**, which marks the development milestone and draft 1 together against AO3. This is the last taught session before the two weeks that build the mid-point portfolio.
 
 
 <figure class="plate">
@@ -39,20 +35,37 @@ By the end of this lesson, you can:
   <figcaption>Vincent van Gogh, <em>On the Outskirts of Paris</em>, 1887</figcaption>
 </figure>
 
-## Overview
+## The ideas
 
-Unit 4 closes on the third attainment. You write the evaluation against your intention, assemble the Stage 6 page so the development reads as a trail of decisions, and complete research paper draft 1 by pulling your sections into one full draft — then repair what the full draft exposes. A3 marks development and draft 1 together, and it is the last taught session before the two weeks that build the mid-point portfolio.
+### Evaluation against intention
 
-## How it runs
+Your **evaluation** judges the development against your **intention, not your effort**. Say what the chosen direction achieves, what it cost, and what you would push next. Honest evaluation counts as AO3, not decoration.
 
-- **Mon 05-24 — write the evaluation.** Evaluate the development against your **intention, not the effort**: what the chosen direction achieves, what it cost, what you would push next. Honest evaluation is AO3, not decoration.
-- **Tue 05-25 — assemble the Stage 6 page.** Lay out the development so it reads as a *trail of decisions* — compositions, critique, tests, choice — each step visible, so a stranger follows the reasoning without you.
-- **Wed 05-26 — research paper draft 1 completed.** Pull your drafted sections into one full draft against the outline. This is the first time the paper exists end to end.
-- **Thu 05-27 — draft repair and gaps.** Fix what the full draft exposed: the thin section, the claim without a source, the join that does not hold. **Integrated with the work, not detached.**
-- **Fri 05-28 — A3 attainment.** Development milestone plus draft 1, marked in session against AO3: compositions 1 and 2, targeted tests, evaluation, Stage 6 page, and the full paper draft, together. Nothing is added during review.
+### The Stage 6 page
+
+The **Stage 6 page** lays out your development as a trail of decisions: compositions, critique, tests, choice. Each step stays visible, so a stranger can follow your reasoning without you there to explain it.
+
+### Research paper draft 1
+
+**Research paper draft 1** pulls your drafted sections into one full draft against your outline. This is the first time the paper exists end to end. Reading it whole exposes weak points: the thin section, the claim without a source, the join that does not hold. You fix these in the work itself, not as detached edits.
+
+## Day by day
+
+- **Mon 05-24.** Write the evaluation. Judge the development against your intention: what the direction achieves, what it cost, what you would push next.
+- **Tue 05-25.** Assemble the Stage 6 page so the development reads as a trail of decisions, each step visible.
+- **Wed 05-26.** Complete research paper draft 1 by pulling your drafted sections into one full draft against the outline.
+- **Thu 05-27.** Repair the full draft: the thin section, the claim without a source, the join that does not hold. Keep the fixes integrated with the work.
+- **Fri 05-28.** Sit A3. Nothing is added during the review. After A3, spend up to 30 minutes acting on the feedback toward the mid-point piece and beginning to integrate the bibliography.
 
 ## Assessment
 
-You sit **A3** (development milestone + research paper draft 1) on **Fri 2027-05-28**, marked against AO3 with integration in view — see the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It gathers all of Unit 4: two resolved compositions, the targeted tests, the evaluation, the Stage 6 page, and the paper's first full draft. This is the last taught session before A4 — the next two weeks (Unit 5) build the mid-point portfolio in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-14-mid-point-piece-and-bibliography|L14]], and **A4** (mid-point portfolio, AO1–AO4) sits **Fri 2027-06-11**.
+You sit **A3** (development milestone + research paper draft 1) on **Fri 2027-05-28**, marked against AO3 with integration in view. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. A3 gathers all of Unit 4: two resolved compositions, the targeted tests, the evaluation, the Stage 6 page, and the paper's first full draft. This is the last taught session before A4. The next two weeks (Unit 5) build the mid-point portfolio in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-14-mid-point-piece-and-bibliography|Lesson 14]], and **A4** (mid-point portfolio, AO1–AO4) sits **Fri 2027-06-11**.
 
-These dates may shift when the school publishes the calendar for this period; any change will be confirmed in class.
+## Review
+
+Check you can:
+
+- Write an evaluation that judges the development against your intention, not your effort.
+- Assemble the Stage 6 page so it reads as a trail of decisions a stranger can follow.
+- Complete research paper draft 1 by pulling your sections into one full draft against the outline.
+- Repair a full draft by fixing thin sections, unsourced claims, and joins that do not hold.

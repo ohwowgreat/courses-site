@@ -16,7 +16,7 @@ modified: 2026-07-26
 
 # Lesson 14: A3 — The Final Collage
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|Unit 3]] · U3·L5 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-13-final-collage-production|L13]] | next unit: [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster|U4 Graphic Design & the Poster]] →
+[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|Unit 3]] · U3·L5 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-13-final-collage-production|Lesson 13]] | next unit: [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster|U4 Graphic Design & the Poster]] →
 
 ## At a glance
 
@@ -32,27 +32,48 @@ modified: 2026-07-26
 | Feeds | A3 is the semester's third attainment; U4 opens next week with the A4 route decision |
 | Homework | None new — weekly MB posting continues; U4 Graphic Design / Printmaking opens Wed 12-16 |
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can, observably:
+In this lesson you finish your final collage under assessment conditions and write a reflection about it. You put down the top layer, resolve the edges, set the words, and sign the back. You then submit the collage and the reflection together. This is **A3**, the semester's third attainment, made in class. The mark rewards decisions you can point to, both in the work and in the reflection. Unit 3 closes here, and Unit 4 opens next Wednesday, 12-16, with the A4 route decision.
 
-1. Finish the top layer, the edges and the words under assessment conditions
-2. Remove any element that is only decoration, tested by covering it
-3. Write a reflection that points at decisions visible in the work
+## The ideas
 
-## Goal
+### The cover test
 
-The final layer goes down and the collage starts speaking for itself. Ask one last time before you submit: *cover any one element — does the collage lose part of its sentence? If a piece is only decoration, it comes off.* A3 is a made-in-class attainment: the mark rewards decisions you can point to, in the work and in the reflection.
+Use the **cover test** one last time before you submit: cover any single element with your hand. If the collage loses part of its meaning, that element is doing work and stays. If nothing is lost, the piece is only decoration, so take it off. Every part of the finished collage should earn its place.
 
-## How it runs
+### The four marking criteria
 
-- **Set-up (5 min)** — work out, finishing lists out, criteria on the board: **juxtaposition · layering · composition · meaning.** From here: your board, your scraps, your reasons.
-- **Studio (55 min)** — the finishing list, in order: the speaker placed and glued; text set last; edges resolved (every torn edge on purpose, every cut edge clean); the back signed with title and date. If you are working digitally, export your final and print or submit the file with the layered working version.
-- **Reflection (15 min)** — one page, full sentences. Frames you can use: "My collage is about … " / "The juxtaposition of … and … says … " / "My layering decision that works best is … because … " / "I placed … at … so that … " / "If I made it again I would …."
-- **Submit and close (15 min)** — submit your collage + reflection; put your process trail into the sketchbook: both drafts, the dry-fit photographs, and the best rejected scraps, annotated. Next Wednesday the course turns to **communicating to an audience** — graphic design and the poster, or the linocut route — and the A4 route is announced then.
+Your collage is judged on four named criteria.
+
+- **Juxtaposition**: placing different elements side by side so their contrast carries meaning.
+- **Layering**: building the collage in layers so some parts sit over others.
+- **Composition**: how the whole is arranged on the page.
+- **Meaning**: what the collage says. Meaning is judged on the work and on the reasons you give in your reflection.
+
+### The finishing list
+
+Finish in order. Place and glue the speaker, the strongest element. Set the text last. Resolve the edges: every torn edge on purpose, every cut edge clean. Sign the back with the title and the date. The strongest move is best made now, fresh, rather than early. If you are working in digital remix, export your final version and either print it or submit the file together with the layered working version.
+
+### The reflection
+
+Write one page in full sentences. These sentence frames can start you off: "My collage is about … ", "The juxtaposition of … and … says … ", "My layering decision that works best is … because … ", "I placed … at … so that … ", "If I made it again I would …."
+
+## Day by day
+
+- **Wed 2026-12-09.** Finish the top layer, edges, and words under assessment conditions. Apply the cover test and remove anything that is only decoration. Write your one-page reflection, then submit the collage and reflection. Put your process trail into the sketchbook: both drafts, the dry-fit photographs, and the best rejected scraps, annotated. No new homework; keep up your weekly MB posting.
 
 ## Assessment
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage|A3 Collage]].
 
-**A3 — final collage + reflection**, sat and submitted in class. Marking focus: **juxtaposition, layering, composition, meaning** — meaning is judged on the work *and* the reflection's reasons. Returned with feedback within five working days. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+**A3 — final collage + reflection**, sat and submitted in class. Marking focus: **juxtaposition, layering, composition, meaning**. Meaning is judged on the work and on the reasons in your reflection. Returned with feedback within five working days. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+
+## Review
+
+Check you can:
+
+- Finish the top layer, the edges, and the words under assessment conditions.
+- Apply the cover test to remove any element that is only decoration.
+- Explain how juxtaposition, layering, composition, and meaning show up in your collage.
+- Write a reflection that points at decisions visible in the work.

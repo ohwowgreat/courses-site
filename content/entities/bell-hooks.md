@@ -9,14 +9,14 @@ modified: 2026-07-20
 ---
 # bell hooks
 
-bell hooks (lowercase, as she styled it) is one of the representation theorists in this course.
+Named in the 2028 Scheme of Work as a representation theorist. She styled her name in lowercase, surname only.
 
-## Representation theory
+## What Cambridge attributes to her
 
-Cambridge lists her among the theorists you can use to study the concept of Representation, alongside **Hall, Van Zoonen, Gilroy, and Alvarado**. In media studies, hooks is most often used for the **oppositional gaze**.
+> "candidates need to learn the concept of Representation - best done with reference to theories of representation where there is a variety of student-friendly materials available - such as **Hall, Van Zoonen, hooks, Gilroy, Alvarado**." (2028 SoW, C2 Section A camera row)
 
-## In this course
+Cambridge names hooks but does not attach a work or a concept to her, not even the **oppositional gaze**, which is what a media-studies course reaches for when it reaches for hooks.
 
-You study hooks in [[classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze|L09]], Day 4 (Friday single). The lesson covers the oppositional gaze as refusal and rereading — "who the text never expected to be looking" — closing the gaze topic and leading into CS6.
+## BNDS usage
 
-There is a homework reading extract from hooks (300–400 words, in accessible English with Chinese support).
+You meet hooks in [[classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze|L09]], on the Friday single. The lesson teaches the **oppositional gaze**: the act of looking as refusal and rereading, by someone "who the text never expected to be looking." It closes the gaze arc and feeds CS6. Homework is a 300–400-word hooks extract in an accessible gloss, in English with Chinese support.

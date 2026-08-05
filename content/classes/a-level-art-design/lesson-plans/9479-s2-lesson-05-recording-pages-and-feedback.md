@@ -9,7 +9,7 @@ modified: 2026-07-26
 ---
 # S2 Lesson 05: Recording Pages and Feedback
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-2-recording-and-sustained-study|Unit 2]] · Lesson 05 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-04-recording-and-the-a1-milestone|L04]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-06-media-exploration|L06]] →
+[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-2-recording-and-sustained-study|Unit 2]] · Lesson 05 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-04-recording-and-the-a1-milestone|Lesson 04]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-06-media-exploration|Lesson 06]] →
 
 ## At a glance
 
@@ -25,13 +25,9 @@ modified: 2026-07-26
 | Graded | **CS3** (recording-pages build check) Fri 2027-03-26 — a sketchbook task consolidating your A1 feedback |
 | Homework | ≤30 min: keep recording from your own primary sources, ahead of the media experiments in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-06-media-exploration\|L06]] |
 
-## Objectives
+## Overview
 
-By the end of this lesson you can:
-
-1. Turn banded A1 feedback into three specific actions
-2. Push a second sustained study past the first
-3. Build and sequence recording pages that read as AO1 without explanation
+This week turns your A1 feedback into recording that an examiner would credit, and it closes Unit 2. You write three specific actions from your A1 banding, push a second sustained study past the first, shoot and annotate your own reference, and build your recording pages so they read in order. You produce **CS3**, the recording-pages build check, due Fri 2027-03-26. This recording feeds the media exploration that opens Unit 3 next week.
 
 
 <figure class="plate">
@@ -39,18 +35,41 @@ By the end of this lesson you can:
   <figcaption>Ilya Repin, <em>Studies for Figures on the Nevsky Prospect</em>, 1891</figcaption>
 </figure>
 
-## Goal
+## The ideas
 
-This week converts A1's feedback into recording an examiner would credit, and closes Unit 2. You turn the banded feedback into three specific actions, push a second sustained study past the first, shoot and annotate your own reference, and build the recording pages so they read in sequence — AO1 without explanation. By Friday CS3 checks the pages are built and the recording stage is complete.
+### Three actions from A1 feedback
 
-## How it runs
+Your A1 study was banded, and the feedback named specific gaps. Turn that feedback into **three specific actions**: the exact fixes the feedback named, not a general aim like "record more." These three actions drive your work for the whole week. By Friday they must be visibly done in your pages, not just written down.
 
-- **Mon 03-22 — feedback and targets.** Take your A1 banding and write **three specific actions** from it — not "record more," but the exact fixes the feedback named. These three drive the rest of the week.
-- **Tue 03-23 — sustained study 2, day 1.** A second study from your own sources, chosen to push *past* the first — a different angle, medium or scale, aimed at the gap A1 exposed.
-- **Wed 03-24 — sustained study 2, day 2.** Carry it far enough to record from. Two studies that genuinely differ show range; two that repeat show none.
-- **Thu 03-25 — photography and annotation.** Shoot your own reference — **nothing found, nothing borrowed** — and annotate it for what is seen. This is recording that feeds exploration next.
-- **Fri 03-26 — build the recording pages + CS3.** Sequence everything from the lock to here — intention, studies, reference — so a stranger reads your recording in order without narration. **CS3** checks the build: pages sequenced, and your three A1 actions visibly acted on.
+### A second sustained study
+
+A **sustained study** is a detailed study worked from your own primary sources over more than one day. Your second study should push *past* the first: a different angle, medium, or scale, aimed at the gap A1 exposed. Two studies that genuinely differ show range. Two that repeat show none. Carry the second study far enough that you can record from it.
+
+### Recording from your own primary sources
+
+**Primary sources** are your own reference: nothing found, nothing borrowed. Shoot your own photography and annotate it for what you can see. This is recording that feeds your exploration next week.
+
+### Recording pages that read as AO1
+
+**AO1 Record** is the assessment objective for recording ideas, observations, and insights. Build and sequence your **recording pages** so they read in order on their own: intention, studies, reference. A stranger should read your recording in sequence, without narration or explanation from you.
+
+## Day by day
+
+- **Mon 03-22.** Take your A1 banding and write your three specific actions from it.
+- **Tue 03-23.** Start sustained study 2 from your own sources, chosen to push past the first.
+- **Wed 03-24.** Carry sustained study 2 far enough to record from.
+- **Thu 03-25.** Shoot your own reference and annotate it for what is seen.
+- **Fri 03-26.** Sequence your recording pages from the lock to here, and submit CS3. Homework: keep recording from your own primary sources, ahead of the media experiments in Lesson 06 (≤30 min).
 
 ## Assessment
 
-**CS3** (recording-pages build check) is due **Fri 2027-03-26**, a sketchbook task that consolidates your A1 feedback into built, sequenced recording pages — see the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It is checked on two things: the pages read in order without explanation, and the **three actions** from A1 are visibly done, not just noted. This closes Unit 2's recording stage. Unit 3 opens next week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-06-media-exploration|L06]] on media exploration, and the second attainment — **A2** (exploration and artist study, AO2+AO3) — sits **Fri 2027-04-23**.
+**CS3** (recording-pages build check) is due **Fri 2027-03-26**. It is a sketchbook task that consolidates your A1 feedback into built, sequenced recording pages. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It is checked on two things: the pages read in order without explanation, and the three actions from A1 are visibly done, not just noted. This closes Unit 2's recording stage. Unit 3 opens next week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-06-media-exploration|L06]] on media exploration, and the second attainment, **A2** (exploration and artist study, AO2+AO3), sits **Fri 2027-04-23**.
+
+## Review
+
+Check you can:
+
+- Turn banded A1 feedback into three specific actions.
+- Push a second sustained study past the first in angle, medium, or scale.
+- Record from your own primary sources and annotate your own photography.
+- Build and sequence recording pages that read as AO1 without explanation.

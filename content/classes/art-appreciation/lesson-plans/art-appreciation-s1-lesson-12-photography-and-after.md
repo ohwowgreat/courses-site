@@ -9,7 +9,7 @@ modified: 2026-07-26
 ---
 # Lesson 12: Photography and After
 
-[[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity|Unit 4]] · Lesson 12 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image|L11]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief|L13]] →
+[[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity|Unit 4]] · Lesson 12 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image|Lesson 11]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief|Lesson 13]] →
 
 <p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-12-photography-and-after.pptx">Download the deck (PowerPoint, 3.1 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
@@ -28,13 +28,19 @@ modified: 2026-07-26
 | Feeds | The retrospective |
 | Homework | Sontag, first essay, 30 min, set day 2, due day 3 |
 
-## Objectives
+## Overview
 
-By the end of this lesson you can:
+This lesson closes Unit 4. You look at what a photograph claims when it claims to be true, read Susan Sontag on what a photograph does to the world, and test Clement Greenberg's split between avant-garde and kitsch. Then you build **A4**, the Unit 4 synthesis constellation: a single argument that runs across the whole unit. This is your second constellation of the year, and it is the last work you submit this semester. It feeds the retrospective. Because it clears the roughly 1 January late-work cutoff by two weeks, nothing here can be handed in late.
 
-1. Say why we believe photographs, and whether we should
-2. Test Greenberg's line and find the place it stops holding, rather than agreeing with it
-3. Build a constellation that argues across the whole unit, not a selection of favorites
+## The ideas
+
+### The poor image
+
+A **poor image** is a low-quality, widely shared copy. It trades resolution for reach. What circulation gives, quality takes: the more an image travels and gets copied, the more it loses in clarity, and the reverse is also true.
+
+### The photograph and the claim to truth
+
+A photograph carries a **claim to truth**: we tend to believe it shows what really happened. The question to hold is why we believe photographs, and whether we should.
 
 
 <figure class="plate">
@@ -42,22 +48,38 @@ By the end of this lesson you can:
   <figcaption>Gustave Le Gray, <em>The Great Wave, Sète</em>, 1857</figcaption>
 </figure>
 
-## Goal
+**Susan Sontag** argues that photographing is an act on the world, not a neutral record of it. To photograph something is to do something to it, not just to copy it. Take that charge seriously rather than waving it away. You read the first essay of her *On Photography* for this.
 
-You build the synthesis on day five and get feedback on day six. A4 is the last thing you submit this semester, so nothing can be handed in late. This is the second constellation of the year: the Unit 1 boards go back up on day four so you can compare.
+### Avant-garde and kitsch
 
-## How it runs
+**Clement Greenberg** draws a line between the **avant-garde**, art that pushes its medium forward, and **kitsch**, art made to be easy and to sell. Do not just agree with the line. Test it, and find the place where it stops holding.
 
-- **Day 1 · Fri 11 Dec · `U4·L12`** — what the poor image gains: what circulation gives that quality takes.
-- **Day 2 · Mon 14 Dec · `U4·L13`** — photography and the claim to truth: why we believe photographs, and whether we should. Sontag set.
-- **Day 3 · Tue 15 Dec · `U4·L14`** — Sontag: photographing as an act on the world.
-- **Day 4 · Wed 16 Dec · `U4·L15`** — avant-garde and kitsch: test Greenberg's line, find the place it stops holding rather than agreeing with it. Unit 1 boards back on the wall.
-- **Day 5 · Thu 17 Dec · `U4·L16`** — **A4 sits**: build the constellation and write the argument, 40 minutes.
-- **Day 6 · Fri 18 Dec · `U4·L17`** — synthesis debrief: work returned with the criteria, plus the one move that would have sharpened it.
+### The constellation
+
+A **constellation** arranges works and ideas so they argue together. A strong one argues across the whole unit. It is not a selection of your favorites. Your Unit 1 boards go back on the wall so you can see how far this one has moved past the first.
+
+## Day by day
+
+- **Fri 12-11.** What the poor image gains: what circulation gives and quality takes. No graded work is set this day.
+- **Mon 12-14.** Photography and the claim to truth: why we believe photographs, and whether we should. Homework set: read the first essay of Sontag, 30 min, due next lesson.
+- **Tue 12-15.** Sontag on photographing as an act on the world. Homework due.
+- **Wed 12-16.** Avant-garde and kitsch: test Greenberg's line and find where it stops holding. Your Unit 1 boards go back on the wall.
+- **Thu 12-17.** You sit **A4**: build the constellation and write the argument, 40 minutes.
+- **Fri 12-18.** Synthesis debrief. Work is returned with the criteria, and you look at the one move that would have sharpened it.
 
 ## Assessment
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis|A4 Unit 4 Synthesis]].
 
-- **A4 sits Tue 2026-12-15** — Unit 4 synthesis constellation. Marked on arguing across the whole unit, not a selection of favorites.
-- Review is in-lesson on day six — the only time that happens this term.
+- **A4 sits Tue 2026-12-15**: Unit 4 synthesis constellation. You are marked on arguing across the whole unit, not on picking your favorites.
+- Review happens in class on day six. This is the only in-lesson review this term, and it works because the work is still fresh.
+
+## Review
+
+Check you can:
+
+- Explain why we believe photographs, and whether we should.
+- Explain Sontag's claim that photographing is an act on the world.
+- Test Greenberg's split between avant-garde and kitsch, and find where it stops holding.
+- Explain what a poor image gains through circulation and what it loses in quality.
+- Build a constellation that argues across the whole unit.

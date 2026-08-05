@@ -14,9 +14,9 @@ modified: 2026-07-18
 
 [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-3-plan|Semester 3 Plan]] · full register, autumn 2027-28 (Component 3 Personal Investigation part 2, G12)
 
-Grading follows the [[shared/bnds-assessment-framework|BNDS assessment framework]]: **Attainment 50% · Course Skills 20% · Learning Behaviour 10% · End of Term Exam 20%**. A1–A4 are the attainment layer; CS1–CS10 are the course-skills layer, each direct practice for the attainment it precedes; the 20% End of Term category is met by **the Final** (below).
+Grading follows the [[shared/bnds-assessment-framework|BNDS assessment framework]]: **Attainment 50% · Course Skills 20% · Learning Behaviour 10% · End of Term Exam 20%**. A1–A4 are the attainment layer. CS1–CS10 are the course-skills layer, and each one is direct practice for the attainment it comes before. The 20% End of Term category is met by **the Final** (below).
 
-All S3 dates below may shift when the school publishes the 2027-28 calendar; any changes will be confirmed in class.
+**Dates.** The S3 dates below are provisional. They may shift when the school publishes the 2027-28 calendar.
 
 ## Attainments (50%) — A1–A4
 
@@ -42,8 +42,8 @@ All S3 dates below may shift when the school publishes the 2027-28 calendar; any
 | CS9 | Fri 2027-12-10 | Sequencing and documentation check | Written annotation | A4 |
 | CS10 | Thu 2027-12-16 | Presentation critique response (viva rehearsal, answered in writing) | Reflection | A4 |
 
-Ten CS tasks, one per non-attainment teaching week. A3 (the research paper) has no CS task of its own; its written thread runs through CS3 (draft 2 sections) and the Unit 5 final-text sessions.
+There are ten CS tasks, one per non-attainment teaching week. A3 (the research paper) has no CS task of its own. Its written work runs through CS3 (draft 2 sections) and the Unit 5 final-text sessions.
 
 ## The Final (End of Term Exam category, 20%)
 
-The 20% category is met by **the Final**: a **teacher-marked assessment of your portfolio-so-far against the Cambridge criteria** — no exam paper, no invigilation. This class **sits no department finals**. The date is set by the teacher and will be confirmed in class.
+The 20% category is met by **the Final**: a teacher-marked assessment of your portfolio-so-far against the Cambridge criteria. There is no exam paper and no invigilation. This class sits no department finals. The Final falls in the window Mon 2028-01-10 to Mon 2028-01-17, and your teacher sets the exact date.

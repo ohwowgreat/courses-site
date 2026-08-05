@@ -9,13 +9,13 @@ modified: 2026-07-26
 ---
 # S3 Lesson 09: Resolving Outcome 1 and the Final Paper Text
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s3-unit-5-final-outcomes|Unit 5]] · Lesson 09 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-08-building-outcome-1|L08]] | [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-10-a3-the-research-paper-and-outcome-2-opens|L10]] →
+[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s3-unit-5-final-outcomes|Unit 5]] · Lesson 09 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-08-building-outcome-1|Lesson 08]] | [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-10-a3-the-research-paper-and-outcome-2-opens|Lesson 10]] →
 
 ## At a glance
 
 <dl class="stat-strip">
   <div class="stat"><dt>Sessions</dt><dd>5 days (W11)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-11-08 → Fri 2027-11-12</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-11-08 → Fri 2027-11-12 <em>(projected)</em></dd></div>
   <div class="stat"><dt>AO focus</dt><dd>AO4 Present<span class="stat-x">C3 written criteria</span></dd></div>
 </dl>
 
@@ -23,21 +23,11 @@ modified: 2026-07-26
 |---|---|
 | Deliverable | Outcome 1 resolved and photographed to examiner standard; the research paper at final text, every claim evidenced |
 | Graded | No attainment. Runs toward **A3** Mon 2027-11-15 in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-10-a3-the-research-paper-and-outcome-2-opens\|L10]] |
-| Homework | ≤30 min: the integration check — list any paper claim not yet pointing at a real page |
+| Homework | ≤30 min: the integration check, list any paper claim not yet pointing at a real page |
 
-These dates may shift when the school publishes the calendar for this period.
+## Overview
 
-## Objectives
-
-By the end of this lesson, you can:
-
-1. Resolve the focal areas and unify the surface of outcome 1
-2. Photograph it as the version that gets marked
-3. Bring the research paper to final text, with every claim pointing at real work in the portfolio
-
-## Goal
-
-Finish outcome 1 to the standard the examiner will see, and bring the research paper to **final text**. Resolving means the focal areas are resolved and the surface unified — then it is **photographed as the version that gets marked**. In parallel the paper's argument is set and the prose is made to serve it, with an **integration check** confirming every claim points at real work in the portfolio.
+This week you bring outcome 1 to a finish and photograph it, and you take the research paper to its final text. You resolve the focal areas, unify the surface, then shoot the piece as the version that gets marked and lay it into your pages. In parallel you set the paper's argument and tighten the prose to serve it. All of this feeds **A3**, the final research paper, which you sit on Mon 2027-11-15. These dates are projected and may shift when the school publishes the calendar for that period.
 
 
 <figure class="plate">
@@ -45,16 +35,30 @@ Finish outcome 1 to the standard the examiner will see, and bring the research p
   <figcaption>Vincent van Gogh, <em>On the Outskirts of Paris</em>, 1887</figcaption>
 </figure>
 
-## How it runs
+## The ideas
 
-- **Mon–Tue 11-08/09 — studio: resolve outcome 1 (2-day run).** Focal areas resolved, surface unified — the piece brought to a markable finish.
-- **Wed 11-10 — photograph outcome 1.** The version the examiner sees: shot honestly, corrected without flattering it, laid into the pages.
-- **Thu 11-11 — research paper final text.** The argument is set; the prose now serves it, in exact specialist language.
-- **Fri 11-12 — final text and integration check. Every claim points at real work** — a claim with no page behind it is cut or evidenced before A3.
+### Resolving and photographing outcome 1
 
-## Key content: examiner standard, evidenced argument
+To **resolve** outcome 1 means the focal areas are resolved and the surface is unified, so the piece reaches a markable finish. You resolve it first, then you photograph it. **The photograph is the mark**: the examiner sees your photograph, not the piece itself, so the photograph must document the resolved work, not a hopeful angle. Shoot it honestly, correct the image without flattering it, then lay it into the pages.
 
-- Outcome 1 is resolved *then* photographed — **the photograph is the mark**, so it documents the resolved piece, not a hopeful angle.
-- ◆ In the paper, **every claim points at real work** in the portfolio — the integration check is what keeps the written element from bolting on.
-- The paper's specialist language is exact; the summer reading is evidence inside the argument.
-- A3 (the final research paper) sits Monday next week — [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-10-a3-the-research-paper-and-outcome-2-opens|L10]].
+### The research paper at final text
+
+**Final text** means the paper's argument is set and the prose now serves that argument, in exact specialist language. Use the correct specialist terms for what you did. Your summer reading is not decoration; it is evidence inside the argument.
+
+The **integration check** confirms that **every claim points at real work** in the portfolio. This is what stops the written element from bolting on. A claim with no page behind it is either cut or evidenced before A3.
+
+## Day by day
+
+- **Mon 11-08 and Tue 11-09.** Studio work across two days: resolve the focal areas of outcome 1 and unify the surface, bringing the piece to a markable finish.
+- **Wed 11-10.** Photograph outcome 1 as the version the examiner sees. Shoot it honestly, correct the image, and lay it into the pages.
+- **Thu 11-11.** Bring the research paper to final text. Set the argument and make the prose serve it, in exact specialist language.
+- **Fri 11-12.** Final text and integration check: make sure every claim points at real work, and cut or evidence any claim with no page behind it. Homework (≤30 min): list any paper claim not yet pointing at a real page.
+
+## Review
+
+Check you can:
+
+- Resolve the focal areas and unify the surface of outcome 1.
+- Explain why the photograph is the mark, and photograph outcome 1 as the version that gets marked.
+- Bring the research paper to final text in exact specialist language.
+- Run the integration check so every claim points at real work in the portfolio.

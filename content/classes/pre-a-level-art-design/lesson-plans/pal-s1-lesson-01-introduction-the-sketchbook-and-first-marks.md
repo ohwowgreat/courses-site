@@ -16,50 +16,66 @@ modified: 2026-07-26
 
 # Lesson 01: Introduction, the Sketchbook and First Marks
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1]] · U1·L1 · [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-02-tone-and-form|L02]] →
+[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1]] · U1·L1 · [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-02-tone-and-form|Lesson 02]] →
 
 ## At a glance
 
 <dl class="stat-strip">
   <div class="stat"><dt>Session</dt><dd>W1<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
-  <div class="stat"><dt>Date</dt><dd>Wed 2026-09-02</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Wed 2026-09-02</dd></div>
 </dl>
 
 | | |
 |---|---|
 | Focus | Course opening; the sketchbook contract; the visual elements; line and mark |
 | Deliverable | Introduction Survey completed (incl. the garlic drawing); sketchbook set up; first line studies |
+| Feeds | The survey baselines the mid-term narrative and carries the U4 demand signal; the sketchbook regime runs to A5 (Wed 2027-01-06) |
 | Homework | Finish the *Drawing Exercises 1* mark sheets; decorate the sketchbook cover; post the session's pages on MB (the weekly Learning Behaviour posting) |
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can:
+This lesson opens the course. You learn what the four units make and how your grade is built, you set up your sketchbook and learn the rules attached to it, and you start drawing. You complete the **Introduction Survey**, including a garlic drawing, and you leave with your first line studies on paper. The survey is your day-one baseline, made before any teaching. The sketchbook you set up today runs all the way to A5 on Wed 2027-01-06.
 
-1. Name the four units the course makes and how the grade is built
-2. Set up a working sketchbook and state the contract attached to it: what goes in, how often, and when it is checked
-3. Complete the Introduction Survey including the garlic drawing, and leave the session with first line studies on paper
+## The ideas
 
-## Goal
+### The course and the grade
 
-By the end of the double, you will know what the course is and how it grades, you will own a working sketchbook and know the contract attached to it, and you will already have started drawing — the session ends with marks on paper. The garlic drawing on the survey is your day-one baseline, made before any teaching happens.
+The course makes four units in order: **drawing**, then **photography**, then **collage**, then **poster**. Your grade is built from four parts: **Attainment** 50, **Course Skills** 20, **Learning Behaviour** 10, and **End of Term** 20.
 
-## How it runs
+### The Introduction Survey
 
-**First half — the opening (~45 min):**
+The **Introduction Survey** is a two-page survey: your favorites, your preferred area of study, skill self-ratings from 1 to 10, two open questions, and a garlic-bulb drawing you make any way you like. It is not a test and no one fails it. The garlic drawing is the semester's baseline, made before any teaching happens.
 
-- **Welcome and the course (10 min)** — what the four units make (drawing → photography → collage → poster), and how the grade is built (Attainment 50 / Course Skills 20 / Learning Behaviour 10 / End of Term 20).
-- **Introduction Survey (15 min)** — the two-page survey: favorites, preferred area of study, the 1–10 skill self-ratings, the two open questions, then the garlic-bulb drawing ("draw this any way you like"). This is not a test, nobody fails a survey.
-- **The sketchbook (15 min)** — receive or check your sketchbook. The contract: **2–3 pages every week**, checked twice for a Course Skills mark (**SB1 Wed 10-21, SB2 Wed 12-02**), submitted whole at the end as **A5 (Wed 2027-01-06)**; plus a photo of this week's pages posted on MB after every session. Cover decoration starts now, finishes at home.
-- **Questions (5 min).**
+### The sketchbook contract
 
-**Second half — U1·L1: the visual elements, starting with line (~45 min):**
+Your sketchbook has a set of rules. You fill **2–3 pages every week**. It is checked twice for a Course Skills mark: **SB1 on Wed 10-21** and **SB2 on Wed 12-02**. You submit the whole book at the end as **A5 on Wed 2027-01-06**. After every session, you post a photo of that week's pages on MB.
 
-- **The elements (10 min)** — the classroom element chart: line, shape, color, value, texture, space, form. One sentence each; this unit works through them from observation.
-- **Blind contour (10 min)** — two 3-minute blind-contour drawings of a partner's hand or your own shoe: eyes on the subject, pen never lifts, no looking at the page. The point is looking, not likeness.
-- **Continuous line (10 min)** — same subject, now looking allowed, still one unbroken line. Compare the pair: which one *looked* harder?
-- **The mark grids (10 min)** — start *Drawing Exercises 1*: copy the hard-pencil (6H–2H) and soft-pencil (2B–6B) mark grids into the sketchbook. Started in class so the format is understood; finished at home.
-- **Close (5 min)** — sketchbooks open on tables, one-minute walk-through; homework stated and posted on MB.
+### The visual elements
+
+The **visual elements** are line, shape, color, value, texture, space, and form. This unit works through them from observation. Line comes first.
+
+**Blind contour** is a drawing where you keep your eyes on the subject, never lift your pen, and never look at the page. You draw a partner's hand or your own shoe this way. The point is looking, not likeness.
+
+**Continuous line** uses the same subject, but now you may look at the page. You still draw with one unbroken line.
+
+The **mark grids** in *Drawing Exercises 1* are copied into your sketchbook: a hard-pencil grid (6H–2H) and a soft-pencil grid (2B–6B). They show the range each pencil can make.
+
+## Day by day
+
+- **Wed 09-02.** You meet the course and its grade, complete the Introduction Survey with the garlic drawing, set up your sketchbook and learn its rules, then draw: two blind contour studies, one continuous line study, and the start of the *Drawing Exercises 1* mark grids. Homework: finish the *Drawing Exercises 1* mark sheets, decorate your sketchbook cover at home, and post this session's pages on MB.
 
 ## Assessment
 
-Nothing is graded this session. The survey is a baseline instrument, not a mark. The sketchbook regime announced today is the standing notice for **A5** — the whole semester's book, submitted Wed 2027-01-06. Full register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+Nothing is graded this session. The survey is a baseline, not a mark. The sketchbook regime announced today is the standing notice for **A5**, the whole semester's book, submitted Wed 2027-01-06. Full register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+
+## Review
+
+Check you can:
+
+- Name the four units and the order they run: drawing, photography, collage, poster.
+- State how the grade is built: Attainment 50, Course Skills 20, Learning Behaviour 10, End of Term 20.
+- State the sketchbook contract: 2–3 pages weekly, SB1 on Wed 10-21, SB2 on Wed 12-02, and A5 on Wed 2027-01-06.
+- Post your weekly sketchbook pages on MB.
+- Name the visual elements: line, shape, color, value, texture, space, and form.
+- Make a blind contour drawing and a continuous line drawing, and say how they differ.
+- Copy the hard-pencil (6H–2H) and soft-pencil (2B–6B) mark grids into your sketchbook.

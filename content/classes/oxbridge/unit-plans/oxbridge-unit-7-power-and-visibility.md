@@ -21,23 +21,23 @@ modified: 2026-07-25
 
 ## The two positions
 
-**[[entities/michel-foucault|Michel Foucault]]:** visibility is a trap. The panopticon works because the prisoner does not know when he is watched, so he watches himself. Power does not need to look; it needs only to be *able* to look.
+**[[entities/michel-foucault|Michel Foucault]]:** visibility is a trap. The panopticon works because the prisoner does not know when he is watched, so he watches himself. Power does not need to look. It needs only to be *able* to look.
 
-**[[entities/frantz-fanon|Frantz Fanon]]:** being seen is not neutral either. The look can fix a person in place, arriving before they speak and deciding in advance what they are. Fanon adds what Foucault leaves out: **not everyone is seen the same way.**
+**[[entities/frantz-fanon|Frantz Fanon]]:** being seen is not neutral either. The look can fix a person in place. It arrives before they speak and decides in advance what they are. Fanon adds what Foucault leaves out: **not everyone is seen the same way.**
 
-## What this unit collects
+## The move that makes this the penultimate unit
 
-This unit pulls together everything that came before. The framework that hides its edges is now revealed to have an owner. Perspective has a position, and someone occupies it. The map has a maker. The category has an author.
+This unit collects everything. The framework that hides its edges is now revealed to have an owner. Perspective has a position, and someone occupies it. The map has a maker. The category has an author.
 
-The line at the centre of this session is the course's whole argument compressed:
+The line at the center of this unit is the course's whole argument in one sentence:
 
 > **Every framework has a maker, and the maker is not in the picture.**
 
-You re-read every earlier unit through it — [[concepts/linear-perspective|perspective]] from W04, the Mercator projection from W06, [[concepts/naturalization|naturalization]] itself. Nothing new is introduced; what changes is that the frameworks acquire owners.
+It re-reads every earlier unit: [[concepts/linear-perspective|perspective]] from W04, the Mercator projection from W06, [[concepts/naturalization|naturalization]] itself. Nothing new is introduced. What changes is that the frameworks acquire owners.
 
 ## Session
 
-- [[classes/oxbridge/lesson-plans/oxbridge-w13-who-gets-to-show-us-the-world|W13: Who gets to show us the world, and who has to be seen?]] — two short extracts, and the awareness-versus-action question pressed hard.
+- [[classes/oxbridge/lesson-plans/oxbridge-w13-who-gets-to-show-us-the-world|W13: Who gets to show us the world, and who has to be seen?]]: two short extracts, and the awareness-versus-action question pressed hard.
 
 ## Concepts introduced
 
@@ -45,17 +45,22 @@ None new. The unit supplies the political reading of [[concepts/framework|framew
 
 ## Preparation
 
-Read two short extracts, Foucault and Fanon. This is the densest reading in the course, so read closely — the session runs on discussion, not decoding.
+Read two short extracts, one from Foucault and one from Fanon. This is the densest reading in the course, so read closely.
 
-Nothing is written or collected: the course is [[classes/oxbridge/assessments/oxbridge-writing-and-assessment|discussion only]]. The session's central question is *who decides what is visible, and does knowing the answer change anything?*
+Nothing is written or collected. The course is [[classes/oxbridge/assessments/oxbridge-writing-and-assessment|discussion only]]. The session's central question is: who decides what is visible, and does knowing the answer change anything?
 
-## What to expect in discussion
+## The questions this unit asks
 
-- **Fanon is not an illustration of Foucault.** The point of putting them together is the asymmetry: Foucault describes a general condition, Fanon describes a distributed one. Not everyone is seen the same way, and a theory of visibility that cannot register that difference is exactly the kind of framework this course has been dismantling.
-- **The awareness question.** "Does knowing who made the frame change anything, or only how you feel about it?" If you say awareness is enough, be ready to say **enough for what**. W14 will apply this same question to the course itself.
-- **Two easy exits are closed.** "So the solution is not to be seen" meets *who can afford invisibility, and who is punished by it?* "Representation fixes this, more people on screen" meets W12: *does being represented give you the position of the one who shows, or only of the one shown?*
-- **The opening prompt is personal and low-cost:** describe a situation in which being watched changed what you did, even though nobody said anything.
+- **Foucault and Fanon are paired for their asymmetry, not to make Fanon an illustration of Foucault.** Foucault describes a general condition. Fanon describes a distributed one. Not everyone is seen the same way, and a theory of visibility that cannot register that difference is the kind of framework this course has been taking apart.
+
+- **Does knowing who made the frame change anything, or only how you feel about it?** If you say awareness is enough, ask: enough for what. Unit 8 applies this same question to the course itself.
+
+- **Two easy answers are closed.** "So the solution is not to be seen" meets the question: who can afford invisibility, and who is punished by it? "Representation fixes this, more people on screen" meets W12's question: does being represented give you the position of the one who shows, or only of the one shown?
+
+- **Opening question:** describe a situation in which being watched changed what you did, even though nobody said anything.
 
 ## Bridge to Unit 8
 
-W13 closes on the course's title question, and the final move turns the critique back on the course itself. [[classes/oxbridge/unit-plans/oxbridge-unit-8-synthesis|Unit 8]].
+The final move is to turn the critique back on the course.
+
+W13 closes on the course's title question. [[classes/oxbridge/unit-plans/oxbridge-unit-8-synthesis|Unit 8]].

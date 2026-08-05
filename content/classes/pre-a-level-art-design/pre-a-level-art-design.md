@@ -15,9 +15,9 @@ modified: 2026-07-29
 
 # Pre A Level Art & Design · Art & Design
 
-"PAL" is Grade 10 Art & Design at BNDS — a **non-exam, in-house studio course** with no external syllabus, graded under the BNDS A-Level Handbook ([[shared/bnds-assessment-framework]]). It is the Grade 10 feeder year before [[classes/a-level-art-design/a-level-art-design|CIE 9479 A Level]]. In 2026-27 the course meets in **one double session (two periods) every Wednesday**.
+**PAL** is Grade 10 Art & Design at BNDS. It is a non-exam, in-house studio course. There is no external syllabus. You are graded under the BNDS A-Level Handbook ([[shared/bnds-assessment-framework]]). PAL is the Grade 10 feeder year before [[classes/a-level-art-design/a-level-art-design|CIE 9479 A Level]]. In 2026-27 the class meets for one double session (two periods) every Wednesday.
 
-The course may run again in the spring, and some students may take it twice. The details will be confirmed in class.
+You may be able to take this course again in the spring semester. This will be confirmed in class.
 
 <dl class="stat-strip">
   <div class="stat"><dt>Cohort</dt><dd>Grade 10</dd></div>
@@ -32,7 +32,7 @@ The course may run again in the spring, and some students may take it twice. The
 
 ## Semester 1
 
-Four units, one final each, 18 Wednesday sessions (2026-09-02 → 2027-01-06). Full detail is in the [[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan|Semester 1 Plan]]:
+Four units, one final each, across 18 Wednesday sessions (2026-09-02 to 2027-01-06). See the [[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan|Semester 1 Plan]] for detail.
 
 | Unit | Weeks | Spine | Final (Attainment) |
 |---|---|---|---|
@@ -40,5 +40,3 @@ Four units, one final each, 18 Wednesday sessions (2026-09-02 → 2027-01-06). F
 | U2 Photography | W7–10 | "Compose · intention" | A2 photographic series, 2026-11-04 |
 | U3 Collage | W11–15 | "Combine · meaning" | A3 final collage, 2026-12-09 |
 | U4 Graphic Design **/ Printmaking** | W16–19 (3 sessions) | "Communicate · audience" | A4 final poster, **2026-12-23** — or linocut, see [[classes/pre-a-level-art-design/lesson-plans/pal-s1-u4-printmaking-variant\|variant]] |
-
-Whether U4 runs as the poster or the linocut variant will be confirmed in class.

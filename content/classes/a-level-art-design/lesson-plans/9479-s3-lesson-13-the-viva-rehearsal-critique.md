@@ -10,31 +10,27 @@ modified: 2026-07-26
 ---
 # S3 Lesson 13: The Viva-Rehearsal Critique
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s3-unit-6-assembly-and-submission|Unit 6]] · Lesson 13 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-12-assembly-sequence-documentation-bibliography|L12]] | [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-14-a4-the-complete-investigation|L14]] →
+[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s3-unit-6-assembly-and-submission|Unit 6]] · Lesson 13 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-12-assembly-sequence-documentation-bibliography|Lesson 12]] | [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-14-a4-the-complete-investigation|Lesson 14]] →
 
 ## At a glance
 
 <dl class="stat-strip">
   <div class="stat"><dt>Sessions</dt><dd>5 days (W16)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-12-13 → Fri 2027-12-17</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-12-13 → Fri 2027-12-17 <em>(projected)</em></dd></div>
   <div class="stat"><dt>AO focus</dt><dd>AO4 Present</dd></div>
 </dl>
 
 | | |
 |---|---|
-| Deliverable | You present and defend your investigation in a viva-style critique, then fix what breaks — start nothing new |
+| Deliverable | Every student presents and defends the investigation in a viva-style critique, then fixes what breaks — nothing new started |
 | Graded | No attainment. **CS10** Thu 2027-12-16 (presentation critique response, answered in writing) |
 | Homework | ≤30 min: write the answer to the hardest question the critique put to you |
 
-These dates are projected and may shift when the school publishes the calendar for this period.
+These dates are projected. They may shift when the school publishes the calendar for this period.
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can:
-
-1. Present and defend your investigation — its process, research and outcomes — under questioning
-2. Act on what the critique exposes: change what broke, log what held
-3. Start nothing new from this point on
+This week is the dress rehearsal for your submission and for any interview. You present and defend your whole investigation, the process, the research, and the outcomes, in a viva-style critique. Then you act on what the critique exposes: change what broke, log what held. You produce **CS10**, your critique response, answered in writing on Thu 2027-12-16. From this point you start nothing new. The remaining sessions are refinement toward A4, the complete investigation, due Wed 2027-12-22 in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-14-a4-the-complete-investigation|Lesson 14]].
 
 
 <figure class="plate">
@@ -42,20 +38,33 @@ By the end of this lesson, you can:
   <figcaption>Caravaggio, <em>The Musicians</em>, 1595 — rehearsal, mid-note</figcaption>
 </figure>
 
-## Goal
+## The ideas
 
-This is the dress rehearsal for your submission and for any interview. You present and defend your investigation — the process, the research, the outcomes — in a viva-style critique, then act on what it exposes: change what broke, log what held. From here nothing new starts; the remaining sessions are refinement toward A4.
+### Presenting and defending the investigation
 
-## How it runs
+To **present and defend** the investigation means you make the case for it out loud: you explain the process, the research, and the outcomes, and you answer questions on them. This is a viva-style critique, a live defense before an audience, and it is where your sequence is stress-tested before the examiner reads it cold.
 
-- **Mon 12-13 — presentation preparation.** Speak the process, the research and the outcomes — make the case for your investigation, out loud.
-- **Tue–Wed 12-14/15 — final critique presentations (2-day run).** The viva rehearsal: defend your decisions, take questions, trace every claim to a page.
-- **Thu 12-16 — act on the critique; CS10.** Change what broke, log what held. CS10 is the critique response, answered in writing.
-- **Fri 12-17 — studio: final refinement.** Nothing new starts now — last touches only, toward the A4 submission.
+Every decision you name in the viva must be **visible on a page**. A defense the pages do not support is not a defense. So trace every claim back to the work itself.
 
-## Key content: defend it, then fix it
+### Fixing what breaks
 
-- ◆ Every decision you name in the viva must be **visible on a page** — a defense the pages don't support is not a defense.
-- The critique is where your sequence is stress-tested by a live audience before the examiner reads it cold.
-- **Nothing new starts after the critique** — the run to A4 is refinement, not fresh work.
-- A4, the complete investigation, is due Wed 2027-12-22 — [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-14-a4-the-complete-investigation|L14]].
+After the critique you act on what it exposes. Change what broke. Log what held. **Nothing new starts after the critique.** The run to A4 is refinement, not fresh work, so from here you make last touches only.
+
+## Day by day
+
+- **Mon 12-13.** Prepare your presentation. Speak the process, the research, and the outcomes out loud, the case for your investigation.
+- **Tue 12-14.** Final critique presentations begin: defend your decisions, take questions, trace every claim to a page.
+- **Wed 12-15.** Critique presentations continue, the second day of the run.
+- **Thu 12-16.** Act on the critique: change what broke, log what held. You produce **CS10**, the critique response, answered in writing.
+- **Fri 12-17.** Studio time for final refinement. Nothing new starts now, last touches only, toward the A4 submission.
+
+Homework: in up to 30 minutes, write the answer to the hardest question the critique put to you.
+
+## Review
+
+Check you can:
+
+- Present and defend your investigation, its process, research, and outcomes, under questioning.
+- Trace every decision you name back to a page that supports it.
+- Act on the critique: change what broke and log what held.
+- Explain why nothing new starts after the critique, and refine only toward A4.

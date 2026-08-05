@@ -17,30 +17,66 @@ modified: 2026-07-26
 
 # Lesson 08: The Theme Shoot and the Contact-Sheet Edit
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography|Unit 2]] · U2·L3 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-07-light-shadow-and-the-series-theme|L07]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-09-a2-the-photographic-series|L09]] →
+[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography|Unit 2]] · U2·L3 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-07-light-shadow-and-the-series-theme|Lesson 07]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-09-a2-the-photographic-series|Lesson 09]] →
 
 ## At a glance
 
 <dl class="stat-strip">
   <div class="stat"><dt>Session</dt><dd>W9<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
-  <div class="stat"><dt>Date</dt><dd>Wed 2026-10-28</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Wed 2026-10-28</dd></div>
 </dl>
 
 | | |
 |---|---|
-| Focus | The main theme shoot, then the contact-sheet edit — "shoot many, keep few, know why" |
+| Focus | The main theme shoot; then the contact-sheet edit — "shoot many, keep few, know why" |
 | Deliverable | ≥20 new theme frames; a contact sheet with 12 selects and 6–8 series candidates marked |
-| Feeds | **CS2 is collected this session** (composition set + contact-sheet edit); everything feeds A2 next week |
+| Feeds | **CS2 collected this session** (composition set + contact-sheet edit); everything feeds A2 next week |
 | Homework | Finish edits on the 6–8 candidates; draft a sequence order; MB posting |
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can:
+This lesson works two skills back to back: shooting a lot, then choosing well. You go out on campus and shoot at least 20 new frames on your approved theme. Then you build a contact sheet, circle 12 keepers, and mark 6 to 8 series candidates, writing a reason for every keep and every cut. This session, with your Lesson 06 circuit frames, is collected as CS2 before the close. Everything you make here feeds A2, the photographic series, next week.
 
-1. Shoot to a hard quota of at least 20 frames on your approved theme
-2. Read a contact sheet: see everything small and together, keep few, write why
-3. Edit in the honest order: crop, then tone, then color, and never on the only copy
+## The ideas
 
+### Abundance and selection
+
+**Abundance** means shooting many frames so you have real choices later. Your quota this session is a minimum of 20 new frames on your theme.
+
+**Selection** means keeping few frames and knowing why. You do this with a **contact sheet**: all your frames shown small and together, so you can compare them before you choose. Look at everything, keep few, and write your reason. From all your theme frames, circle 12 keepers, then mark 6 to 8 series candidates. Each cut gets a reason. Each keep gets a reason. Honest reasons matter more than pretty frames.
+
+### One decision per frame
+
+Every frame should state **one composition decision and one light decision**. Composition: thirds or broken? High or low? Light: side-light or back-light? Before you press the shutter, know what you are deciding.
+
+### The edit order
+
+Edit in an honest order, the same in Photoshop, Affinity, or any editing platform, phone editors included:
+
+1. **Crop and straighten first.**
+2. **Exposure and contrast** next.
+3. **Color last.**
+
+Work **non-destructively**: never edit the only copy. In Photoshop or Affinity, use adjustment layers. On a phone, duplicate the image first, then edit the copy, so the original always survives.
+
+### File hygiene
+
+Your pictures are files. Know where they live.
+
+## Day by day
+
+- **Wed 10-28.** Say your theme and frame count so far; if you are stuck or have no theme, choose one now from your Lesson 07 shortlist. Shoot at least 20 new theme frames on campus, one composition decision and one light decision per frame. Back in the room, learn the contact sheet and the edit order, then build your contact sheet, circle 12 keepers, and mark 6 to 8 series candidates with reasons. CS2 is collected before the close. Homework: finish the edits on your candidates (crop, then tone, then color, originals kept), draft a sequence order for next week's A2 session, and post to MB.
+
+## Assessment
+
+**CS2, the composition practice set plus contact-sheet edit,** is collected today. The 72-hour notice is met by the MB posting. It is marked for **framing and selection**: honest reasons on your keeps and cuts count more than pretty frames. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+
+## Review
+
+Check you can:
+
+- Shoot to a hard quota of at least 20 frames on your approved theme.
+- Read a **contact sheet**: see everything small and together, keep few, and write why.
 
 <div class="plate-row">
 <figure class="plate">
@@ -53,18 +89,6 @@ By the end of this lesson, you can:
 </figure>
 </div>
 
-## Goal
-
-This session works the unit's two muscles back to back: **abundance** (a focused half-double shoot with a hard quota) and then **selection** (the contact-sheet ritual — see everything small and together, keep few, write why). Editing enters here too, in its honest order: crop first, then tone, then color — and never on the only copy.
-
-## How it runs
-
-- **Warm-up (5 min)** — theme pulse-check: state your theme and frame count so far. If you are stuck or without a theme, re-theme now from your L07 shortlist.
-- **The theme shoot (35 min)** — on campus, solo, on your theme: **minimum 20 new frames.** The discipline rule: every frame states **one composition decision and one light decision** (thirds or broken? high or low? side-light or back-light?). Ask yourself for each frame: "what am I deciding here?"
-- **Teach: the edit (15 min)** — back in the room. The contact sheet: why editors look at everything small, together, before choosing. Then the edit order — the same in **Photoshop, Affinity, or any editing platform**, phone editors included: **crop and straighten first → exposure and contrast → color last → work non-destructively** (adjustment layers in Photoshop/Affinity; on a phone, duplicate then edit — the original always survives). File hygiene in one line: your pictures are files; know where they live.
-- **The contact-sheet edit (25 min)** — assemble all your theme frames (last week's homework + today's shoot) into a contact sheet — a Bridge/Lightroom contact sheet, the gallery grid screenshotted into the sketchbook, or printed strips. **Circle 12 keepers, then mark 6–8 series candidates.** Each cut gets a reason; each keep gets a reason. This, plus your L06 circuit frames, is **CS2 — collected before the close.**
-- **Close (10 min)** — homework: finish the edits on your candidates (crop → tone → color, originals kept) and draft a sequence order for next week's A2 session.
-
-## Assessment
-
-**CS2 — composition practice set + contact-sheet edit** — is collected today. Marked for **framing and selection**: honest reasons on keeps *and* cuts count more than pretty frames. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+- Name **one composition decision and one light decision** in each frame.
+- Edit in the honest order: crop and straighten, then exposure and contrast, then color.
+- Work **non-destructively** so the original file always survives.

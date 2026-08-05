@@ -15,7 +15,7 @@ modified: 2026-07-26
 
 # Lesson 17: The Portfolio and the Sketchbook
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster|Unit 4]] · U4·L3 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-16-a4-the-final-poster|L16]] · **semester close**
+[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster|Unit 4]] · U4·L3 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-16-a4-the-final-poster|Lesson 16]] · **semester close**
 
 ## At a glance
 
@@ -31,28 +31,44 @@ modified: 2026-07-26
 | Feeds | EoT (20%) and A5 (the fifth attainment) — the semester's final grades; the survey feeds next semester's shape |
 | Homework | None — the semester's work is in. Return session Wed 2027-01-20: work back, grades, 1:1 feedback |
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can:
+This is the semester's last teaching session. You gather a whole semester of work, the four finals, your process work, and your sketchbooks, and turn it into one organized portfolio. You produce two things by the close on Wed 2027-01-06: the End-of-Term (EoT) portfolio as one organized file, and your sketchbook (A5). Both are submitted in session. The EoT portfolio is 20% of the grade and the sketchbook is the fifth attainment. Together they set your semester's final grades. You end by filling in a survey that shapes next semester. No class runs in exam week. Everything returns on Wed 2027-01-20 with grades and 1:1 feedback.
 
-1. Select and sequence a semester of work into one organized portfolio
-2. Submit the sketchbook as evidence of process across the semester (A5)
-3. Say what the portfolio argues about your development, not only what is in it
+## The ideas
 
-## Goal
+### The portfolio as an argument
 
-The semester ends the way every unit did: by choosing. Four finals, a term of process, forty-plus sketchbook pages — this double is for turning that pile into **one organized portfolio that argues you can see**, and for handing over the book that proves how you got there. Selection and sequence, one last time, at semester scale.
+A **portfolio** is not a folder. It is a claim with evidence. It argues that you can see and that you have developed across the semester. You choose your **4–5 strongest works**, and for each one you add self-chosen supporting material: intention, reflections, sketches, tests, or process photos. There is no single required formula for what supports a work. The whole thing goes into **one clearly organized PDF or slide file**, named properly. Choose the work that represents you, not the work that took longest.
 
-## How it runs
+A picture album from eighteenth-century Japan shows the point: a collection, sequenced with care, reads as one argument rather than a stack of separate pieces.
 
-- **Set-up (5 min)** — everything out: the four finals (drawing, series, collage, poster), process work, sketchbooks. The submission checklist from the portfolio spec goes on the board.
-- **Teach: what a portfolio argues (10 min)** — a portfolio is not a folder, it is a claim with evidence: **4–5 strongest works**, each with self-chosen supporting material (intention, reflections, sketches, tests, process photos — no single required formula), in **one clearly organized PDF or slide file**. An album page from eighteenth-century Japan makes the point: a collection, sequenced, reads as one argument. Choose what represents you, not what took longest.
-- **Studio: document and assemble (50 min)** — photograph or scan anything not yet digital (flat, even light, square-on — the image-quality rules from the spec); select; sequence (strongest first and last, the L09 rule at term scale); one line of intention per work; export as one file, named properly. **Submit before the close.**
-- **A5: the sketchbook (15 min)** — final pages settled, name on the spine, a paper slip marking the page you're proudest of. Books are collected: the fifth attainment, marked on **ideas, experimentation, visual research, reflection, presentation**.
-- **Close (10 min)** — the **End of Semester Survey**: themes you'd want next semester, formats, freedom, what worked, the dream project. Ten quiet minutes. Last words: exam week next Wednesday (no class); everything returns **Wed 2027-01-20** with grades and 1:1 feedback.
+### Selection and sequence
+
+You select and sequence at semester scale, the same choosing you did at the end of every unit. Put your strongest work first and last, so the portfolio opens and closes on strength. Give each work one line of intention. When you document work that is not yet digital, follow the image-quality rules from the portfolio spec: shoot or scan flat, with even light, square-on.
+
+### The sketchbook (A5)
+
+Your **sketchbook** is your evidence of process across the whole semester. Settle the final pages, put your name on the spine, and mark the page you are proudest of with a paper slip. The book is submitted as the fifth attainment. It is marked on five things: **ideas, experimentation, visual research, reflection, and presentation.**
+
+## Day by day
+
+- **Wed 2027-01-06.** Bring out the four finals (drawing, series, collage, poster), your process work, and your sketchbooks. Document anything not yet digital, then select, sequence, and export your portfolio as one named file, submitted before the close. Submit your sketchbook (A5) alongside it. Fill in the End of Semester Survey: themes, formats, freedom, what worked, and your dream project. No homework; the semester's work is in. There is no class in exam week. Work returns on Wed 2027-01-20 with grades and 1:1 feedback.
 
 ## Assessment
 
 **Full briefs** (objectives, task, instructions, rubric): [[classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook|A5 Sketchbook]] · [[classes/pre-a-level-art-design/assessments/pal-s1-eot-semester-portfolio|EoT Portfolio]].
 
-**EoT — the semester portfolio (20%)**, submitted in session and reviewed during the exam window (no sitting). **A5 — the sketchbook**, the whole semester's book, submitted alongside it. Both are marked to the published criteria; grades and comments land at the return session, Wed 2027-01-20. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+**EoT, the semester portfolio (20%)**, is submitted in session and reviewed during the exam window with no sitting. **A5, the sketchbook**, the whole semester's book, is submitted alongside it. Both are marked to the published criteria. Grades and comments arrive at the return session, Wed 2027-01-20. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+
+## Review
+
+Check you can:
+
+- Explain why a **portfolio** is a claim with evidence, not just a folder.
+- Select your **4–5 strongest works** and choose supporting material for each.
+- Sequence a semester of work so it opens and closes on strength.
+- Assemble and export the portfolio as **one clearly organized PDF or slide file**, named properly.
+- Document undigitized work using the spec's image-quality rules: flat, even light, square-on.
+- Submit your **sketchbook (A5)** as evidence of process, marked on ideas, experimentation, visual research, reflection, and presentation.
+- Say what your portfolio argues about your development, not only what is in it.

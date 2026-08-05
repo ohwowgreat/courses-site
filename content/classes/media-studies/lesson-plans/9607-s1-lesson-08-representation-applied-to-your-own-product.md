@@ -8,7 +8,8 @@ related:
   - "[[classes/media-studies/9607-resource-library]]"
   - "[[concepts/representation]]"
   - "[[entities/stuart-hall]]"
-modified: 2026-07-26
+  - "[[concepts/media-vocabulary]]"
+modified: 2026-08-03
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/kasebier-wild-west.jpg" alt="Gertrude Käsebier, American Indian Portrait, c. 1899 — a studio construction: who made the choices in this image, and for whom?" loading="lazy" />
@@ -17,9 +18,9 @@ modified: 2026-07-26
 
 # Lesson 08: Representation Applied to Your Own Product
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-4-representation|Unit 4]] · Lesson 08 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint|L07]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze|L09]] →
+[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-4-representation|Unit 4]] · Lesson 08 of 16 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint|Lesson 07]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze|Lesson 09]] →
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-08-representation-applied-to-your-own-product.pptx">Download the deck (PowerPoint, 897 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-08-representation-applied-to-your-own-product.pptx">Download the deck (PowerPoint, 860 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
 ## At a glance
 
@@ -32,67 +33,50 @@ modified: 2026-07-26
 | | |
 |---|---|
 | Band/Unit | U4 Representation ([[classes/media-studies/unit-plans/9607-s1-unit-4-representation\|S1 Unit 4]]) |
-| Deliverable | A2 submitted day 1; stereotype audit of your own rough cut, evidenced for LB3 |
+| Deliverable | A2 submitted day 1; stereotype audit of their own rough cut, evidenced for LB3 |
+| Feeds | A3 |
 | Homework | Production pickups identified by the audit |
-
-These dates fall in a future term and may shift when the school publishes its calendar for that period.
-
-## What you will be able to do
-
-By the end of this lesson you can:
-
-1. Explain construction versus reflection using an example from your own product, not a taught text
-2. Place a real reading of a real text into one of Hall's three positions and justify it
-3. Name who a chosen stereotype works for, and what work it does
-4. Produce an audit of your own rough cut naming at least one unintended representation and one planned fix (LB3 evidence)
 
 ## Overview
 
-Representation theory is taught, then turned on your own work. The week opens with A2 going in and closes, after the shortened Week 10, with two standalone sessions where the rough cuts are screened as an audience would see them and audited for stereotypes their makers did not notice. The theory earns its place by finding real problems while there is still production time to fix them.
+This lesson teaches representation theory and then turns it on your own work. The week opens with A2 going in on Mon 2026-10-26 and ends with two standalone sessions: your C1 rough cut is screened as an audience would see it, then you audit it for stereotypes you did not notice. You produce an audit of your own rough cut that names at least one unintended representation and one planned fix, and you convert those findings into dated production pickups. This is why the audit happens now, while there is still production time to fix problems. The audit feeds A3.
 
-## How it runs
+## The ideas
 
-### D1 — Mon 10-26: construction, not reflection
+### Construction, not reflection
 
-- **A2 in (5 min)** — submit your blog URL. Marking begins that night; mid-terms are Thursday.
-- **The claim (15 min)** — representation does not *reflect* the world; it **constructs** a version of it, by **selection** and **combination** (never objective). Proof by history: Lincoln and McClellan posed in a tent at Antietam, 1862 — the photo-op is older than the word. Every choice — the tent flaps, the table, who sits — is doing representation work.
+**Construction** means representation does not reflect the world. It builds a version of the world. It does this by **selection** (what you choose to show) and **combination** (how you place those choices together). The coursebook (§3.3) puts it this way: representation is "never objective". Every choice does representation work.
+
+The proof is older than the word. At Antietam in 1862, Lincoln and McClellan were posed in a tent. The tent flaps, the table, who sits: each choice constructs a meaning. A useful test: take one public figure and three found images, an official portrait, a news photo, and a meme or fan edit. List what each version selects, combines, and asks you to conclude. The person never changed. The construction did.
+
 
 <figure class="plate">
   <img src="../../../static/img/lincoln-mcclellan.jpg" alt="Alexander Gardner, Lincoln and McClellan at Antietam, 1862 — the photo-op is older than the word" loading="lazy" />
   <figcaption>Alexander Gardner, <em>Lincoln and McClellan at Antietam</em>, 1862 — the photo-op is older than the word</figcaption>
 </figure>
 
-- **Same person, three ways (20 min)** — one public figure, three found images (official portrait, news photo, meme or fan edit); in pairs, list what each version selects, combines, and asks you to conclude. The person never changed; the construction did.
-- **Close (5 min)** — one line in the sketchpad: "My C1 product represents … as …." You will interrogate it all week.
+### Hall's reading positions
 
-### D2 — Tue 10-27: Hall's reading positions
+**Hall's encoding/decoding** describes how meaning is finished. The maker encodes a preferred meaning into the text. Audiences then decode it from one of three positions: **dominant** (you accept the preferred meaning), **negotiated** (you accept part and resist part), or **oppositional** (you read against it). The meaning is completed in the audience, not in the text. This is why a room of viewers will not agree, and that disagreement is the theory working. Ask of your own C1 product: what position does it assume its audience will take, and could it survive an oppositional reading?
 
-- **Input (15 min)** — Hall's encoding/decoding: the maker encodes a preferred meaning; audiences decode from **dominant**, **negotiated**, or **oppositional** positions. The meaning is finished in the audience, not the text.
-- **Place yourself (20 min)** — one shared text; write your *honest* position on it and defend the placement with evidence from both the text and your own situation. The room will not agree — that disagreement is the theory working.
-- **Close (10 min)** — theory card: Hall. Then the turn inward: what position does your C1 product *assume* its audience will take? Could it survive an oppositional reading?
+### Stereotyping as power
 
-### D3 — Wed 10-28 (double): stereotyping as power
+A **stereotype** is not a lie. It is a shortcut with a beneficiary. For any stereotype, ask who benefits and who pays. A **counter-stereotype** is a representation that breaks the shortcut, like Carl in *UP*, and it registers as surprising only because the shortcut is so common. Every stereotype has a history and a beneficiary, and you can run Hall's positions across it: who reads it dominantly, who oppositionally.
 
-- **Input (20 min)** — a stereotype is not a lie, it is a **shortcut with a beneficiary** — who benefits, who pays; counter-stereotypes (*UP*'s Carl) and why they register as surprising at all.
-- **Case pair (35 min)** — two contrasting stereotype cases worked in groups (one Western media, one Chinese media): identify the shortcut, its history, its beneficiary; then run Hall's positions across both — who reads each dominantly, who oppositionally?
-- **Nation branding (25 min)** — *how is your country represented for global audiences?* (*Downton Abbey* Britain as the worked example). In groups, list the selections a "China brand" makes and what each leaves out.
-- **Close (10 min)** — WS 4.2 exit ticket: describe your own look today (micro); what does it represent (macro)?
+**Nation branding** is selection at national scale. *Downton Abbey* sells a "Britain brand" to global audiences: the selections it makes, and what each one leaves out. (As an aside, you can ask what a "China brand" would select by contrast.)
 
-### D4 — Fri 10-30: absence
+### Absence
 
-- **The instrument (10 min)** — selective construction's quietest tool: **absence**. What is never in the frame cannot be argued with; who never appears cannot complain.
-- **Absence inventory (25 min)** — inventory one text for its absences: who is missing, what work each absence does, what would change if it were repaired. Then the turn inward: run the inventory on your own C1 planning — who is absent from *your* product, and is it a choice or a default?
-- **Close (10 min)** — screening logistics for Monday: no introductions, no apologies.
+**Absence** is selective construction's quietest tool. What is never in the frame cannot be argued with. Who never appears cannot complain. Inventory a text for its absences: who is missing, what work each absence does, and what would change if it were repaired. Then run the same inventory on your own C1 planning: who is absent from your product, and is that a choice or a default?
 
-### D5 — Mon 11-02 (standalone): the screening
+## Day by day
 
-- **Rough cuts screened under audience conditions (35 min)** — the work speaks alone: no introductions, no apologies, no pausing. Complete **response cards** while watching: what did you understand the product to be saying; where did your attention drop; name one person or group and how the product positions them.
-- **Close (10 min)** — cards go to the makers, unread by anyone else. Tomorrow they become evidence.
-
-### D6 — Tue 11-03 (standalone): the audit
-
-- **The audit (30 min)** — each group audits its own product with the week's full toolkit: construction (what did we select and combine?), positions (what reading did we assume?), power (whose shortcut did we borrow?), absence (who is missing?). The response cards are the audience's testimony.
-- **The fix list (10 min)** — turn findings into production pickups with dates; **LB3 posted** (screening participation, response quality). The pickups are your homework — this is why the audit happens now, with production time left.
+- **Mon 10-26.** Submit A2 by blog URL: your C1 blog mid-point, posts 1–7. Then representation as construction, not reflection: selection, combination, and the Antietam example. Write one line: "My C1 product represents … as …."
+- **Tue 10-27.** Hall's encoding/decoding and the three reading positions. Commit to a position on a shared text, then defend your placement with evidence from the text and from your own situation. Make a theory card for Hall.
+- **Wed 10-28 (double).** Stereotyping as power: the shortcut and its beneficiary, and counter-stereotypes. Work two contrasting stereotype cases from international media, one from British TV and one from Hollywood film, and run Hall's positions across both. Then *Downton Abbey* as nation branding. Exit ticket: your own look today (micro), and what it represents (macro).
+- **Fri 10-30.** Absence. Inventory one text for who is missing and what each absence does, then run the same inventory on your own C1 planning. Screening conditions for Monday are stated: no introductions, no apologies.
+- **Mon 11-02 (standalone).** Rough cuts screened under audience conditions: no introductions, no apologies, no pausing. Complete response cards while watching: what you understood the product to be saying, where your attention dropped, and one person or group and how the product positions them. Cards go to the makers.
+- **Tue 11-03 (standalone).** Audit your own product with the full toolkit: construction (what did you select and combine?), positions (what reading did you assume?), power (whose shortcut did you borrow?), and absence (who is missing?). The response cards are the audience's testimony. Convert your findings into dated production pickups. These pickups are your homework. LB3 is posted for screening participation and response quality.
 
 ## Assessment
 
@@ -104,3 +88,62 @@ Representation theory is taught, then turned on your own work. The week opens wi
 | LB3 | Tue 2026-11-03 | Screening participation and peer response quality | — |
 
 See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+
+## Review
+
+Check you can:
+
+- Explain **construction** versus reflection using an example from your own product.
+- Show how **selection** and **combination** build a representation.
+- Place a real reading of a real text into one of **Hall's** three positions, dominant, negotiated, or oppositional, and justify it.
+- Name who a chosen **stereotype** works for and what work it does.
+- Explain a **counter-stereotype** and why it registers as surprising.
+- Read **nation branding** as selection, using the *Downton Abbey* "Britain brand".
+- Find an **absence** in a text and say what it does.
+- Audit your own rough cut, naming at least one unintended representation and one planned fix.
+
+## Practice
+
+Try each question before you open its answer. Have your Hall theory card beside you; representation itself is defined in the [[concepts/media-vocabulary|media vocabulary]] glossary.
+
+**1.** Representation constructs rather than reflects. Name the two operations it constructs with, and prove the point with a photograph from 1862.
+
+<details class="reveal"><summary>Show answer</summary>
+
+**Selection** and **combination**. Lincoln and McClellan posed in a tent at Antietam in 1862: the tent flaps, the table, who sits, all chosen and arranged. The photo-op is older than the word. A representation is never objective, because someone selected and combined it.
+
+</details>
+
+**2.** Name Hall's three reading positions, and state where he says meaning is finished.
+
+<details class="reveal"><summary>Show answer</summary>
+
+**Dominant** (you take the preferred meaning), **negotiated** (you take some and adjust the rest), **oppositional** (you read against it). Meaning is finished in the audience, not in the text. That is why a room honestly disagrees about the same text.
+
+</details>
+
+**3.** A stereotype is not a lie. What is it, and what two questions does that definition hand you?
+
+<details class="reveal"><summary>Show answer</summary>
+
+A shortcut with a beneficiary. Ask: who benefits from this shortcut, and who pays for it? That turns spotting a stereotype from a complaint into an analysis. It also explains why a counter-stereotype registers as surprising at all.
+
+</details>
+
+**4.** Why is absence the quietest tool of selective construction?
+
+<details class="reveal"><summary>Show answer</summary>
+
+What is never in the frame cannot be argued with, and who never appears cannot complain. An absence does its work without leaving evidence on screen, so you have to inventory for it deliberately: who is missing, and what work does the missing do?
+
+</details>
+
+**5.** Take one public figure and three images of them: an official portrait, a news photo, and a meme or fan edit. For each, note what it selects, what it combines, and what it asks you to conclude.
+
+<details class="reveal"><summary>Show answer</summary>
+
+No fixed answer. The test of a good response: the person never changes across the three images, and your three conclusions still differ. That gap is construction at work.
+
+</details>
+
+**6.** Finish the line "My C1 product represents... as..." Then audit it with the week's toolkit: what did we select and combine, what reading did we assume, whose shortcut did we borrow, who is missing? Convert one finding into a production pickup while there is still time to shoot it.

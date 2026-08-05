@@ -9,7 +9,7 @@ modified: 2026-07-20
 
 The only theorist Cambridge names in the [[concepts/power-and-the-media|Power and the Media]] debate.
 
-You are asked to consider his idea of the media's "Standard Operating Procedure," and also to test whether that diagnosis still holds: "In the years since the publication of this article, it is now also worth considering how much has changed in terms of increased representation of different ethnicities in media productions - and also analyse how and why degrees of change have occurred." Test the diagnosis rather than citing it as settled.
+The 2028 Scheme of Work keeps the Standard Operating Procedure passage below and adds one line: "In the years since the publication of this article, it is now also worth considering how much has changed in terms of increased representation of different ethnicities in media productions - and also analyse how and why degrees of change have occurred." Treat the diagnosis as something to test, not as settled fact.
 
 ## What Cambridge attributes to him
 
@@ -23,10 +23,10 @@ Three mechanisms, all usable as analytical categories:
 
 ## Why Cambridge reaches for him here
 
-The sentence structure is the argument: ownership and self-censorship are the obvious answers to "where does media power live," and Cambridge explicitly says something else is "more significant." The point is that power operates **without anyone issuing an instruction** — through the ordinary, unremarkable procedures by which stories get told.
+The sentence structure is the argument. Ownership and self-censorship are the obvious answers to where media power lives, and Cambridge says something else is "more significant." The point is that power operates **without anyone issuing an instruction**, through the ordinary, unremarkable procedures by which stories get told.
 
-In an essay, this is the move from a conspiratorial reading (owners dictate content) to a structural one (procedures reproduce common sense). The second is far more defensible and much harder to argue against.
+For your essay, this is the move from a conspiratorial reading (owners dictate content) to a structural one (procedures reproduce common sense). The structural reading is far more defensible and much harder to argue against.
 
 ## Connection to spectacle
 
-"Reduction of complex conflicts to spectacle" links directly to [[entities/guy-debord|Guy Debord]] in the [[concepts/postmodern-media|Postmodern Media]] topic — the same concept, used in two of the three debates. Cambridge does not flag the overlap: learn spectacle once and you can use it in both.
+"Reduction of complex conflicts to spectacle" links directly to [[entities/guy-debord|Guy Debord]] in the [[concepts/postmodern-media|Postmodern Media]] topic. It is the same concept, and it carries weight in two of the three debates. Cambridge does not flag the overlap. If you study Postmodern Media and Power together, you learn spectacle once and use it in both.

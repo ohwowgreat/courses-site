@@ -17,20 +17,20 @@ modified: 2026-07-26
 
 # Lesson 11: Layering, Text and Image
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|Unit 3]] · U3·L2 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-10-juxtaposition-and-scale|L10]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-12-theme-and-composition-drafts|L12]] →
+[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|Unit 3]] · U3·L2 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-10-juxtaposition-and-scale|Lesson 10]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-12-theme-and-composition-drafts|L12]] →
 
 ## At a glance
 
 <dl class="stat-strip">
   <div class="stat"><dt>Session</dt><dd>W12<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
-  <div class="stat"><dt>Date</dt><dd>Wed 2026-11-18</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Wed 2026-11-18</dd></div>
 </dl>
 
 | | |
 |---|---|
 | Focus | Layering (order, edges, transparency) and text as image — the unit's making session |
-| Deliverable | A layering study and a text-and-image study added to your experiment set |
-| Feeds | CS3 collects the experiment set next week (W13, 11-25) |
+| Deliverable | A layering study and a text-and-image study added to the experiment set |
+| Feeds | **CS3 collects the experiment set next week** (W13, 11-25) |
 | Homework | One more experiment at home in any technique; keep harvesting material; MB posting |
 
 
@@ -45,30 +45,49 @@ modified: 2026-07-26
 </figure>
 </div>
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can:
+This is the unit's making session. You learn two craft skills that separate a collage from a scrapbook page: **layering** and **text as image**. You produce two studies, a layering study and a text-and-image study, and add them to your experiment set. Those two studies, plus the two from Lesson 10 and your home experiment, complete the set that **CS3** collects next Wednesday, 2026-11-25. Dates here may shift when the school publishes its calendar for this period.
 
-1. Order layers deliberately, so that what is in front is what wins
-2. Choose between a torn and a cut edge, and say why that edge
-3. Use text as a shape with a voice rather than as a caption
+## The ideas
 
-## Goal
+### Layering
 
-Two craft skills separate a collage from a scrapbook page. **Layering**: what is in front is what wins — order, overlap, and edges (torn vs cut) are all decisions. **Text as image**: a word in a collage is not a caption, it is a shape with a voice — cut letters, headlines, and instructions carry tone before they carry information. Every exemplar today uses both at once.
+**Layering** means what is in front is what wins. Order, overlap, and edges are all decisions you make on purpose. Three decisions shape a layered study:
 
-## How it runs
+- **Order.** Build the background first and place the "speaker", the layer you most want seen, last.
+- **Edges.** A torn edge reads as soft and organic. A knife edge reads as hard and mechanical. Choose the edge that fits the layer, and be able to say why.
+- **Transparency.** Tissue, tracing paper, and thin magazine stock let layers show through and talk to each other.
 
-- **Warm-up (5 min)** — last week's studies on tables; thirty-second recall: what was your third thing?
-- **Teach: layering (15 min)** — three decisions demonstrated live as the dry-fit builds up: **order** (background first, the "speaker" last), **edges** (torn edge = soft/organic, knife edge = hard/mechanical — tear one, cut one, compare), **transparency** (tissue, tracing paper, thin magazine stock let layers talk). Exemplars: **Barbara Kruger** (text barking over found photographs) and **John Stezaker** (two images spliced so cleanly they become one wrong thing).
-- **Blade safety + materials (10 min)** — craft knives enter here: cut away from the hand, blade shallow, cutting mat always, cap when walking, one knife per table returned to the tin. Materials tour: adhesives (glue stick for paper, PVA thin-spread for card), surfaces (cartridge vs card), the tissue/tracing drawer.
-- **Studio: two studies (40 min)** — added to your experiment set: (1) a **layering study** — minimum three layers, at least one torn edge and one knife edge, one semi-transparent layer; (2) a **text-and-image study** — one found image + cut-out text that *changes what the image means* (not describes it). Dry-fit, photograph the dry-fit, then glue.
-- **Close (10 min)** — pairs swap text studies and read them aloud in the voice the text suggests — if the reading voice is obvious, the tone worked. Reminder: CS3 collects the whole experiment set next Wednesday.
+**John Stezaker** splices two images so cleanly they become one wrong thing. His work shows how order and edges can fuse separate pictures into a single image.
+
+### Text as image
+
+**Text as image** means a word in a collage is not a caption. It is a shape with a voice. Cut letters, headlines, and instructions carry tone before they carry information. In a strong text-and-image study, the words change what the image means rather than describe it.
+
+**Barbara Kruger** sets text barking over found photographs. Her work shows text used as image: the words carry a voice, not a label.
+
+## Day by day
+
+- **Wed 11-18.** You learn layering (order, edges, transparency) and text as image, using Barbara Kruger and John Stezaker as examples. In the studio you make two studies for the experiment set: a layering study with at least three layers, at least one torn edge and one knife edge, and one semi-transparent layer; and a text-and-image study using one found image plus cut-out text that changes what the image means. Dry-fit each study, photograph the dry-fit, then glue. At home, make one more experiment in any technique, keep harvesting material, and post to MB.
+
+> [!important] Blade safety
+> Craft knives are used today. Cut away from your hand. Keep the blade shallow. Always use a cutting mat. Cap the knife when you walk with it. One knife per table, returned to the tin.
 
 ## The digital option
 
-Editing platforms are Photoshop, Affinity, or any editor. You may **remix an analog study digitally** as an extra experiment, using layers, masking, and drawn interventions. Whether the *final* A3 can be digital will be confirmed in class.
+You may **remix an analog study digitally** as an extra experiment, using Photoshop, Affinity, or any editor, working with layers, masking, and drawn interventions. Whether the final A3 can be digital will be confirmed in class.
 
 ## Assessment
 
-Nothing is graded today; the two studies (plus L10's two and the home experiment) complete the **experiment set for CS3** (Wed 2026-11-25). Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+Nothing is graded today. Your two studies, together with Lesson 10's two studies and your home experiment, complete the **experiment set for CS3** (Wed 2026-11-25). Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+
+## Review
+
+Check you can:
+
+- Order layers deliberately, so that what is in front is what wins.
+- Choose between a torn edge and a cut edge, and say why that edge.
+- Use transparency so that layers show through and talk to each other.
+- Use text as image: a shape with a voice, not a caption.
+- Name Barbara Kruger and John Stezaker as examples of text and layering.

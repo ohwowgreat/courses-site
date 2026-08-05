@@ -22,7 +22,7 @@ modified: 2026-08-02
 | Format | **In-class constellation build plus a written argument** |
 | The task | A constellation that argues across the whole of Unit 4 |
 | Marked on | Adjacency reasoning · Legibility of the argument in the layout · Range across the unit · The written argument |
-| Note | **This is the last work you submit this semester.** It clears the late-work cutoff by a fortnight |
+| Note | **The last work submitted this semester.** It clears the late-work cutoff by a fortnight |
 | Review | In lesson, on day six. The only in-lesson review this term |
 | Unit | [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity\|U4 Images, Mediation and Modernity]] |
 
@@ -30,14 +30,14 @@ modified: 2026-08-02
 
 This assessment asks you to show that you can:
 
-1. Build a constellation that **argues across the whole unit**, not a selection of favorites.
+1. Build a **constellation** that argues across the whole unit, not a selection of favorites.
 2. Make adjacencies that carry reasons belonging to their own pair.
-3. Put Berger, Benjamin, Sontag and Steyerl in the same argument without flattening the differences between them.
+3. Put **Berger**, **Benjamin**, **Sontag** and **Steyerl** in the same argument without flattening the differences between them.
 4. Write the argument the layout implies.
 
 ## The task
 
-This is the second constellation of the year, and it should be **visibly better than the first.**
+This is the second constellation of the year, and it should be visibly better than the first.
 
 You build a constellation from Unit 4's material: reproduction, aura, the poor image, photography and what came after. Then you write the argument it makes.
 
@@ -45,7 +45,7 @@ The standard, and the trap:
 
 **A selection of favorites is not a synthesis.**
 
-Unit 4 covered positions that disagree with each other. Benjamin on aura and Steyerl on the poor image are not the same argument, and Sontag is not a footnote to either. A constellation that only holds the material you liked most has not argued across the unit; it has curated a preference. Range is a criterion here for exactly that reason.
+Unit 4 covered positions that disagree with each other. Benjamin on aura and Steyerl on the poor image are not the same argument, and Sontag is not a footnote to either. A constellation that only holds the material you liked most has not argued across the unit. It has curated a preference. Range is a criterion here for exactly that reason.
 
 The Unit 1 boards go back up on the wall on day four, before you build. Look at them. The distance between that board and this one is the semester so far.
 
@@ -57,11 +57,11 @@ The Unit 1 boards go back up on the wall on day four, before you build. Look at 
 4. **Read your own layout** before writing. Somebody arriving should see the shape of the claim.
 5. **Write the argument**: what the constellation claims, what each adjacency does, and what the arrangement leaves out.
 
-**If you are absent.** Tell your teacher **at least 24 hours before**. Illness needs a doctor's note. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8). **This is the last submission of the semester**, and it clears the late-work cutoff of about 1 January by a fortnight, which means nothing in this course can be handed in late after it.
+**If you are absent.** Tell your teacher at least 24 hours before. Illness needs a doctor's note. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8). This is the last submission of the semester. It clears the late-work cutoff of about 1 January by a fortnight, so nothing in this course can be handed in late after it.
 
 ## Rubric
 
-Four criteria, equally weighted. Two are carried over from A1 so you can see the growth; two are new.
+Four criteria, equally weighted. Two are carried over from A1 so you can see the growth. Two are new.
 
 | | **Adjacency reasoning** | **Layout legibility** | **Range across the unit** | **The written argument** |
 |---|---|---|---|---|
@@ -71,13 +71,13 @@ Four criteria, equally weighted. Two are carried over from A1 so you can see the
 | **Partial** | Grouped by theme or by looking similar | Reads as a collection | A selection of favorites | Narrates the constellation rather than arguing from it |
 | **Undeveloped** | No reasoning offered | No argument discernible | One or two works | Little or no written argument |
 
-**Compare this against your A1 board deliberately.** Adjacency reasoning and layout legibility are the same two criteria, applied three months later. The growth between them is the clearest single measure of what this course has taught you.
+Compare this against your A1 board deliberately. Adjacency reasoning and layout legibility are the same two criteria, applied three months later. The growth between them is the clearest single measure of what this course has taught you.
 
 Under the [[shared/bnds-assessment-framework|BNDS framework]] this becomes a curved grade rather than a raw score.
 
 ## After the sit
 
-- **Review is in lesson, on day six.** This is the only in-lesson review this term, and it works because the work is still live and still on the wall.
+- **Review is in lesson, on day six.** This is the only in-lesson review this term. It works because the work is still live and still on the wall, so come to that session.
 - The protocol is the same: **criteria**, **ten minutes of silence**, **one named strength**, **one move.**
 - The single move you are given here is the one you carry into the retrospective, which is the same skill at semester scale.
 

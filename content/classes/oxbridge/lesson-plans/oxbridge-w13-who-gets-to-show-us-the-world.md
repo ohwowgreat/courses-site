@@ -20,65 +20,41 @@ modified: 2026-07-26
 | Core question | Is being seen a form of recognition or a form of capture? |
 | Duration | 45 minutes, [[classes/oxbridge/oxbridge-session-structure-template\|standard template]] |
 | Reading | Two short extracts: [[entities/michel-foucault\|Foucault]] on the panopticon (*Discipline and Punish*); [[entities/frantz-fanon\|Fanon]], the look passage (*Black Skin, White Masks*) |
-| Carried forward | Is a view from nowhere possible? |
+| Carried out | Is a view from nowhere possible? |
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can:
+This lesson asks whether being seen is a form of recognition or a form of capture. You read two short extracts, [[entities/michel-foucault|Foucault]] on the panopticon and [[entities/frantz-fanon|Fanon]] on the look, and set them against each other. You leave with one question carried forward into W14: is a view from nowhere possible?
 
-1. Argue whether being seen is recognition or capture
-2. Set Foucault's panopticon against Fanon's look and say what each one catches that the other misses
-3. Name who holds the position of showing, and who is required to be seen
+## The ideas
 
-## Opening prompt (5 minutes)
+### Watched versus seen
 
-> Describe a situation in which being watched changed what you did, even though nobody said anything.
+There is a difference between being **watched** and being **seen**. Watching observes what you do. The look, in Fanon's sense, decides in advance what you are. There is also a difference between changing because you *were* watched and changing because you *might be* watched. If a camera changes the behavior of people who were never going to steal, the force at work is not the camera but the possibility of being watched.
 
-Two minutes, silent.
+### Foucault: the panopticon
 
-## Movement 1 · elicit (10 minutes)
+The **panopticon** is a design in which the prisoner cannot tell when he is being watched, so he watches himself. Power becomes automatic. It no longer needs an operator. This raises a question about where power is located: if power works best when nobody has to exercise it, it is no longer held by a person. Visibility becomes a trap, and someone set that trap. A framework that makes you police yourself may be more powerful than one that punishes you.
 
-Questions to discuss:
+### Fanon: the look
 
-- Did you change because you **were** watched, or because you **might be** watched?
-- Is there a difference between being **watched** and being **seen**?
+The **look** does not merely observe. It fixes. It arrives before you speak and decides in advance what you are. So invisibility is a trap too. Foucault says visibility is a trap; Fanon says invisibility is also one, and both can be true at once. This raises who can afford invisibility and who is punished by it, and who has the option of being unmarked, seen as simply a person rather than as a type. Demanding to be seen may be a demand for power, or it may be a request for permission.
 
-## Movement 2 · complicate (15 minutes)
+### The maker of the frame
 
-### Foucault
+One line holds the course together: every framework has a maker, and the maker is not in the picture. Being represented, having more people on screen, puts you in the position of the one shown, not the one who shows. This leads to the **awareness versus action question**: does knowing who made the frame change anything, or only how you feel about it? If you say awareness is enough, you must say enough for what.
 
-The panopticon works because the prisoner cannot tell when he is watched, so **he watches himself**. Power becomes automatic and no longer needs an operator.
+## Day by day
 
-Questions:
+- The session opens with a silent prompt: describe a time being watched changed what you did, though nobody said anything. You then work through Foucault's panopticon and Fanon's look, set the two against each other, and commit to the line that every framework has a maker who is not in the picture. It closes on the question carried into W14: is a view from nowhere possible?
 
-- If power works best when nobody has to exercise it, **where is it located**?
-- Is visibility a trap? **Who set it?**
-- Is a framework that makes you police yourself more or less powerful than one that punishes you?
+## Review
 
-### Fanon
+Check you can:
 
-The look does not merely observe. **It fixes.** It arrives before you speak and decides in advance what you are.
-
-Questions:
-
-- Foucault says visibility is a trap. Fanon says invisibility is also one. **Can both be true?**
-- Is demanding to be seen a demand for power or a request for permission?
-- Who in this room has the option of being unmarked, of being seen as simply a person rather than as a type?
-- Who can afford invisibility, and who is punished by it?
-- Does being represented give you the position of **the one who shows**, or only of the one shown?
-
-## Movement 3 · commit (10 minutes)
-
-One line to hold the whole course together:
-
-> **Every framework has a maker, and the maker is not in the picture.**
-
-Question: Does knowing who made the frame change anything, or only how you feel about it? If you think awareness is enough, say enough for what.
-
-## Closing question (5 minutes)
-
-> Is a view from nowhere possible?
-
-## Links
-
-[[entities/michel-foucault]] · [[entities/frantz-fanon]] · [[classes/oxbridge/unit-plans/oxbridge-unit-7-power-and-visibility|Unit 7]] · [[classes/oxbridge/lesson-plans/oxbridge-w14-is-a-view-from-nowhere-possible|W14]]
+- Argue whether being seen is recognition or capture.
+- Explain the **panopticon** and how it makes a person watch himself.
+- Explain Fanon's **look** and how it fixes a person before they speak.
+- Set the panopticon against the look and say what each one catches that the other misses.
+- Name who holds the position of showing and who is required to be seen.
+- State the **awareness versus action question** and answer "enough for what".

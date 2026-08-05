@@ -10,13 +10,13 @@ modified: 2026-07-26
 ---
 # S3 Lesson 02: The Action Plan and Development Resumes
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s3-unit-1-review-and-goal-setting|Unit 1]] → [[classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass|Unit 4]] · Lesson 02 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-01-reopening-and-the-summer-audit|L01]] | [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-03-candidate-compositions-and-the-paper-reopens|L03]] →
+[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s3-unit-1-review-and-goal-setting|Unit 1]] → [[classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass|Unit 4]] · Lesson 02 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-01-reopening-and-the-summer-audit|Lesson 01]] | [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-03-candidate-compositions-and-the-paper-reopens|Lesson 03]] →
 
 ## At a glance
 
 <dl class="stat-strip">
   <div class="stat"><dt>Sessions</dt><dd>5 days (W2)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-09-06 → Fri 2027-09-10</dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2027-09-06 → Fri 2027-09-10 <em>(projected)</em></dd></div>
   <div class="stat"><dt>AO focus</dt><dd>Closing review → AO3 Develop opens</dd></div>
 </dl>
 
@@ -26,36 +26,43 @@ modified: 2026-07-26
 | Graded | **CS2** Fri 2027-09-10 — composition studies for the outcome candidates (sketchbook). No attainment this week |
 | Homework | ≤30 min: composition thumbnails toward the candidates, feeding CS2 |
 
-These dates are projected and may shift when the school publishes the calendar for this period.
+These dates are projected. They may shift when the school publishes the calendar for this period.
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can:
+This week has two jobs. First, you turn your summer audit into a written, dated, signed action plan that names pages, pieces, and dates. This plan closes Unit 1 and governs the semester up to submission. Then the development pipeline resumes: you compose final-outcome candidates from your summer production and start building them far enough to be judged. Your graded deliverable is **CS2**, the composition studies for these candidates, due Fri 2027-09-10 in your sketchbook. The candidates you build here feed the choice made in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-03-candidate-compositions-and-the-paper-reopens|Lesson 03]], where two go forward and one is set aside.
 
-1. Turn your audit into a written, dated, signed action plan naming pages, pieces and dates
-2. Compose final-outcome candidates from your summer production rather than from memory
-3. Build the candidates far enough to be judged
-
-## Goal
-
-Two jobs, in order. First, turn your audit into a plan you are held to: a **written, dated, signed action plan** that names pages, pieces and dates and governs the semester to submission — this closes Unit 1. Then the pipeline resumes at development, the **second pass**: you compose final-outcome candidates from your summer production, not from memory, and begin building them far enough to be judged.
-
-## How it runs
-
-- **Mon 09-06 — goals from the audit.** Your met/missed/missing list becomes goals that name **pages, pieces and dates** — not intentions.
-- **Tue 09-07 — the written action plan.** Dated, signed, specific; it is the semester's contract and closes [[classes/a-level-art-design/unit-plans/9479-s3-unit-1-review-and-goal-setting|Unit 1]].
 
 <figure class="plate">
   <img src="../../../static/img/repin-cossacks-study.jpg" alt="Ilya Repin, study for Reply of the Zaporozhian Cossacks, 1878" loading="lazy" />
   <figcaption>Ilya Repin, study for <em>Reply of the Zaporozhian Cossacks</em>, 1878</figcaption>
 </figure>
 
-- **Wed 09-08 — Unit 4 resumes: compose final-outcome candidates.** From your summer work, not from memory. This is the development second pass — in Semester 2 you built first-pass compositions; now you develop outcome candidates.
-- **Thu–Fri 09-09/10 — studio: build candidate compositions (2-day run).** Carry each far enough to judge. **CS2** (composition studies) closes the week.
+## The ideas
 
-## Key content: the contract and the second pass
+### The action plan
 
-- The action plan is the semester's contract — written, dated, signed and specific; you are measured against it, not against effort.
-- Compose your candidates **from your summer production, not from memory** — an outcome from nowhere fails AO4 later, regardless of quality.
-- Two candidates will be carried forward and one set aside with the rejection written; you make that choice in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-03-candidate-compositions-and-the-paper-reopens|L03]].
-- This is the pipeline's development stage on its second pass — recording and exploration are already complete and are not repeated.
+The **action plan** is your contract for the semester. It is written, dated, signed, and specific. It names pages, pieces, and dates, not intentions. You are measured against this plan, not against effort. Turning the audit's met, missed, and missing list into goals that name pages, pieces, and dates is what makes it a plan and not a wish. This plan closes [[classes/a-level-art-design/unit-plans/9479-s3-unit-1-review-and-goal-setting|Unit 1]].
+
+### The development second pass
+
+The pipeline now returns to development on its **second pass**. In Semester 2 you built first-pass compositions. Now you develop outcome candidates. Recording and exploration, the earlier stages, are complete and are not repeated.
+
+You compose your final-outcome candidates **from the summer production, not from memory**. An outcome invented from nowhere fails AO4 later, no matter how good it looks. Build each candidate far enough that it can be judged.
+
+## Day by day
+
+- **Mon 09-06.** Turn the audit's met, missed, and missing list into goals that name pages, pieces, and dates.
+- **Tue 09-07.** Write the action plan: dated, signed, and specific. This closes Unit 1.
+- **Wed 09-08.** Unit 4 resumes. Compose final-outcome candidates from your summer work, not from memory.
+- **Thu–Fri 09-09/10.** Studio: build the candidate compositions over two days, each far enough to judge. **CS2** closes the week on Fri 2027-09-10. Homework: up to 30 minutes of composition thumbnails toward the candidates, feeding CS2.
+
+## Review
+
+Check you can:
+
+- Write a dated, signed **action plan** that names specific pages, pieces, and dates.
+- Explain why the action plan measures you against the plan, not against effort.
+- Compose final-outcome candidates **from the summer production, not from memory**, and say why memory-based outcomes fail AO4 later.
+- Build a candidate composition far enough to be judged.
+- Describe how this **second pass** develops outcome candidates from earlier first-pass compositions.

@@ -11,7 +11,7 @@ modified: 2026-07-25
 
 **The process by which a constructed thing comes to look like a natural fact.**
 
-## Three images to remember
+## Three images students remember
 
 - **The video game map.** The edge is disguised as a feature of the world. The mountain is too high. The road is closed. **A visible wall would remind you that you are inside something.**
 - **The history book that claims no bias.** A biased book is not the problem. The book that claims not to be is.
@@ -19,17 +19,17 @@ modified: 2026-07-25
 
 ## Why this concept and not just "framework"
 
-Naturalization is the mechanism that makes [[concepts/framework|framework]] the central term rather than a trivial one. **Everyone accepts that frameworks exist. The claim that matters is that they systematically conceal that they are frameworks.**
+> Naturalization is the mechanism that makes [[concepts/framework|framework]] the course's central term rather than a trivial one. **Everyone accepts that frameworks exist. The claim that matters is that they systematically conceal that they are frameworks.**
 
 Without naturalization, "everything is a framework" is a shrug. With it, the claim has a testable consequence: you should expect the most powerful frameworks to be the ones that feel least like choices.
 
 ## The demonstrable case
 
-[[concepts/linear-perspective|Linear perspective]] is naturalization you can watch rather than be told about — a technique, invented at a datable moment, that came to read as the structure of vision itself.
+[[concepts/linear-perspective|Linear perspective]] is naturalization you can watch rather than be told about: a technique, invented at a datable moment, that came to read as the structure of vision itself.
 
 ## Where it is developed
 
-In [[classes/oxbridge/lesson-plans/oxbridge-w06-does-reality-have-a-history|W06]], you build the concept out of maps and video-game boundaries first; the Barthes line comes at the end to name what you have made.
+Barthes goes on the board at the end of [[classes/oxbridge/lesson-plans/oxbridge-w06-does-reality-have-a-history|W06]], not the start. You build the concept out of maps and video-game boundaries first. The sentence then arrives to name what you have made. This ordering follows [[classes/oxbridge/oxbridge-course-design-principles|principle 2]].
 
 ## Appears in
 

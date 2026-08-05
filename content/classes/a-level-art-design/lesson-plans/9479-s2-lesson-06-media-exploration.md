@@ -9,7 +9,7 @@ modified: 2026-07-26
 ---
 # S2 Lesson 06: Media Exploration
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-3-exploration-and-artist-study|Unit 3]] · Lesson 06 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-05-recording-pages-and-feedback|L05]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-07-artist-1-in-full|L07]] →
+[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-3-exploration-and-artist-study|Unit 3]] · Lesson 06 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-05-recording-pages-and-feedback|Lesson 05]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-07-artist-1-in-full|Lesson 07]] →
 
 ## At a glance
 
@@ -31,26 +31,46 @@ modified: 2026-07-26
   <figcaption>Peter Paul Rubens, <em>Anatomical Studies</em>, pen and ink, c. 1605</figcaption>
 </figure>
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can:
+This lesson opens Unit 3, the exploration stage. You test which media can carry your investigation. You plan and run twelve **media experiments**, then select on evidence: keep what works, and name what you reject. You produce **CS4**, the twelve experiments documented in your sketchbook, due Fri 2027-04-02. The result is the two or three media you will develop, and a clear reason why. This feeds your artist study and **A2**, which sits Fri 2027-04-23.
 
-1. Plan and run twelve experiments built so that they could fail
-2. Select on evidence, keeping what works and naming what you reject
-3. Identify the two or three media you will develop, and say why
+## The ideas
 
-## Goal
+### Media experiments
 
-Unit 3 opens the exploration stage: which media can actually carry your investigation. This week you plan and run twelve media experiments — experiments built so they *could* fail, because a test that can only succeed tells you nothing — then select on evidence, keeping what works and naming what you reject. The point is not twelve tidy samples; it is finding the two or three media you will develop, and being able to say why.
+A **media experiment** is a test of one real question about your theme, such as mark, surface, color, transparency, or scale. You plan twelve of them across different media. The aim is not twelve tidy samples. The aim is to find the media that carry your theme.
 
-## How it runs
+### An experiment built to fail
 
-- **Mon 03-29 — plan the media exploration.** Design twelve experiments across media, each testing a real question about the theme — mark, surface, colour, transparency, scale. Build them so they could fail; a safe experiment proves nothing.
-- **Tue 03-30 — experiments, day 1.** Run the first block from your own recording. Work fast and document as you go — the record matters as much as the result.
-- **Wed 03-31 — experiments, day 2.** Push into less familiar media. The uncomfortable ones often carry the investigation furthest.
-- **Thu 04-01 — experiments, day 3.** Finish the twelve; photograph and label each with the question it tested and what it showed.
-- **Fri 04-02 — keep or change + CS4.** Select on evidence: which two or three media carry the theme, and which you reject — **name the rejections**, because a reasoned "no" is exploration too. CS4 documents the twelve.
+Build each experiment so that it *could* fail. A test that can only succeed tells you nothing. A safe experiment proves nothing. Push into less familiar media too, because the uncomfortable ones often carry the investigation furthest.
+
+### Selecting on evidence
+
+**Selecting on evidence** means choosing what to keep based on what the tests actually showed, not on what looks neat. Photograph and label each experiment with the question it tested and what it showed. Then decide which two or three media carry the theme.
+
+### Naming rejections
+
+**Naming rejections** means saying plainly which media you will not use and why. A reasoned "no" is exploration too. CS4 is marked on the range and honesty of your testing, not on tidy results.
+
+## Day by day
+
+- **Mon 03-29.** Plan twelve experiments across media, each testing a real question about the theme, and built so they could fail.
+- **Tue 03-30.** Run the first block of experiments. Work fast and document as you go; the record matters as much as the result.
+- **Wed 03-31.** Push into less familiar media.
+- **Thu 04-01.** Finish the twelve. Photograph and label each with the question it tested and what it showed.
+- **Fri 04-02.** Select on evidence: choose the two or three media that carry the theme, and name the rejections. Submit CS4, the twelve experiments documented.
 
 ## Assessment
 
-**CS4** (twelve experiments documented) is due **Fri 2027-04-02**, a sketchbook task marked on the *range and honesty* of the testing, not on tidy results — see the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. Unit 3 then breaks for the **Qingming mock week** (S7, Mon 2027-04-04 → 10): no regular Art & Design classes and no new content — if the school permits, an independent sketchbook brief keeps the exploration moving. Artist 1 begins when classes resume in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-07-artist-1-in-full|L07]] (S8), and the second attainment — **A2** (exploration + artist study, AO2+AO3) — sits **Fri 2027-04-23**. These spring dates may shift when the school publishes the calendar for that period.
+**CS4** (twelve experiments documented) is due **Fri 2027-04-02**, a sketchbook task marked on the range and honesty of the testing, not on tidy results. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. Unit 3 then breaks for the **Qingming mock week** (S7, Mon 2027-04-04 → 10): no regular Art & Design classes and no new content. If the school permits, an independent sketchbook brief keeps the exploration moving. Artist 1 begins when classes resume in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-07-artist-1-in-full|Lesson 07]] (S8), and **A2** (exploration + artist study, AO2+AO3) sits **Fri 2027-04-23**. These spring dates may shift when the school publishes the calendar for that period.
+
+## Review
+
+Check you can:
+
+- Plan and run twelve **media experiments**, each testing a real question about your theme.
+- Build an experiment so that it could fail, and explain why a safe test proves nothing.
+- Select on evidence, keeping the media that work.
+- Name the media you reject and give a reason.
+- Identify the two or three media you will develop, and say why.

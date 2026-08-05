@@ -44,7 +44,9 @@ One double, one poster, made from a thumbnail you decided last week. The design 
 
 The standard is the unit's own test:
 
-**Pin it up. Walk back three meters. Count three seconds. If the message does not land in that window, no amount of craft saves it.** That is the whole assessment in one sentence.
+**Pin it up. Walk back three meters. Count three seconds.**
+
+If the message does not land in that window, no amount of craft saves it. That is the whole assessment in one sentence.
 
 ## Instructions
 
@@ -72,9 +74,9 @@ Four criteria, equally weighted, each judged on its own.
 
 Under the [[shared/bnds-assessment-framework|BNDS framework]] this becomes a curved grade, not a raw score, with the more generous G10 curve.
 
-## If your class takes the printmaking route
+## If the class took the printmaking route
 
-Unit 4 runs **either** Graphic Design **or** Printmaking, in the same slot. The poster is the default; your teacher will confirm the route in class. If your class takes the [[classes/pre-a-level-art-design/lesson-plans/pal-s1-u4-printmaking-variant|printmaking variant]], then **A4 is the final linocut print** instead, on the same date, with the same notice and the same weight. Its criteria:
+Unit 4 runs **either** Graphic Design **or** Printmaking, in the same slot, chosen on student demand. The poster is the default; your teacher will confirm your route in class. If the class adopted the [[classes/pre-a-level-art-design/lesson-plans/pal-s1-u4-printmaking-variant|printmaking variant]], then **A4 is the final linocut print** instead, on the same date, with the same notice and the same weight. Its criteria:
 
 | | **Carving control** | **Ink and registration** | **Two-tone legibility** | **Reflection** |
 |---|---|---|---|---|

@@ -51,11 +51,11 @@ What is on the table:
 - **The final composition plan**: full-size or scaled, with structure, values and the sequence of work marked, plus the thumbnails that tested it and the annotated rejection.
 - **Palette and materials**, swatched and tested on the actual support you will use.
 
-This is the last review before the final outcome is built. Everything it asks for exists so that the build run is execution rather than invention.
+This is the last review before the final outcome is built. Everything it asks for exists so that the build run is execution, not invention.
 
 ## Instructions
 
-**Before the review.** On Wed 12-09, self-check against the AO3 criteria below, **in writing.** Settle your palette and materials, swatch them, test them on the real support, and name them for what they carry — before the review, not during the build.
+**Before the review.** On Wed 12-09 you self-check against the AO3 criteria below, **in writing.** Settle your palette and materials, swatch them, test them on the real support, and name them for what they carry, before the review, not during the build.
 
 **On the day.**
 
@@ -63,9 +63,9 @@ This is the last review before the final outcome is built. Everything it asks fo
 2. The review happens in session, with you present.
 3. **Nothing is added during the review.**
 
-**After.** A3 comes back banded on Fri 12-11 and you **physically amend the plan** from the feedback, initialling the changes. This is the one attainment whose feedback you can still spend: the outcome has not been built yet.
+**After.** A3 comes back banded on Fri 12-11. You then **physically amend the plan** from the feedback and initial the changes. This is the one attainment whose feedback you can still spend, because the outcome has not been built yet.
 
-**If Friday is lost.** Foreign Culture Day may take Fri 12-11. If it does, the feedback lesson slips to the next available session. **The assessment date does not move.**
+**If Friday is lost.** Foreign Culture Day may take Fri 12-11. If it does, the feedback lesson moves to the next available session. The assessment itself does not move.
 
 **If you are absent.** Contact your teacher **at least 24 hours before**. Illness needs a doctor's note. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8).
 

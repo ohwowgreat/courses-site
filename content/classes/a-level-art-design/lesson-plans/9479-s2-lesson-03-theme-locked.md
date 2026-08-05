@@ -9,7 +9,7 @@ modified: 2026-07-26
 ---
 # S2 Lesson 03: Theme Locked
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-1-foundations-on-the-investigation|Unit 1]] · Lesson 03 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-02-proposal-and-feasibility|L02]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-04-recording-and-the-a1-milestone|L04]] →
+[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-1-foundations-on-the-investigation|Unit 1]] · Lesson 03 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-02-proposal-and-feasibility|Lesson 02]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-04-recording-and-the-a1-milestone|Lesson 04]] →
 
 ## At a glance
 
@@ -22,16 +22,12 @@ modified: 2026-07-26
 | | |
 |---|---|
 | Deliverable | Theme locked in writing; statement of intent; research plan; first primary-source shoot, annotated |
-| Graded | **CS2** (statement of intent + annotated references) due Fri 2027-03-12. Your first attainment, **A1** (recording milestone, AO1), is on Fri 2027-03-19 in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-04-recording-and-the-a1-milestone\|L04]] |
-| Homework | ≤30 min: extend your primary-source shooting — first-hand, dated — ahead of the Stage 1 recording pages next week |
+| Graded | **CS2** (statement of intent + annotated references) due Fri 2027-03-12. The first attainment, **A1** (recording milestone, AO1), sits Fri 2027-03-19 in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-04-recording-and-the-a1-milestone\|L04]] |
+| Homework | ≤30 min: extend the primary-source shooting — first-hand, dated — ahead of the Stage 1 recording pages next week |
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can:
-
-1. Lock your theme in writing, signed — there are no restarts after it
-2. Write a statement of intent in your own words and a research plan with real reading and dates
-3. Run and annotate a first primary-source shoot you will draw from for months
+This week your theme stops being a proposal and becomes the thing you will make. On Monday you lock it in writing, signed, and there are no restarts after that. The rest of the week builds on the locked theme: a statement of intent in your own words, a research plan with real reading and dates, and your first primary-source shoot. You produce **CS2**, the statement of intent plus annotated references, due Fri 2027-03-12, and Unit 1 closes. These foundations feed the first attainment, A1, which sits Fri 2027-03-19.
 
 
 <figure class="plate">
@@ -39,18 +35,46 @@ By the end of this lesson, you can:
   <figcaption>Paul Cézanne, <em>A Painter at Work</em>, 1875</figcaption>
 </figure>
 
-## Goal
+## The ideas
 
-This week your theme stops being a proposal and becomes the thing you will make. On Monday you lock it in writing, signed — after this there are no restarts. The rest of the week lays the foundations on the locked theme: the statement of intent in your own words, a research plan with real reading and dates, and your first primary-source shoot, the reference you will draw from for months. By Friday, Unit 1 closes with everything the first attainment needs in place.
+### The theme lock
 
-## How it runs
+The **theme lock** is the point where your theme is fixed in writing and signed against the exemplar criteria. After it, the investigation runs on this theme all the way to submission in December. There are **no restarts**. The work from here is to make the theme well, not to keep searching for a better idea. The lock carries no mark, but it is the unit's real gate.
 
-- **Mon 03-08 — theme locked in writing.** You sign your locked theme against the exemplar criteria. This is the gate: after today, the investigation runs on this theme all the way to submission in December. **No restarts** — the work now is to make it well, not to keep looking for a better idea.
-- **Tue 03-09 — statement of intent finalised.** Write the investigation in your own words: what you will look at, why, and how you expect to work. Not borrowed exemplar language — the examiner reads this as *your* intent, so it has to be yours.
-- **Wed 03-10 — research plan.** The reading, sources and dates: what you will read, which primary sources you will shoot and when, and how the research paper begins gathering alongside the visual work — **integrated from the start, not bolted on** at the end.
-- **Thu 03-11 — first primary-source shoot.** Your first real shoot from first-hand sources — light, angle, series. This is reference you will draw from for months, so shoot far more than you think you need. Nothing found, nothing borrowed.
-- **Fri 03-12 — shoot review and annotation + CS2.** Select and annotate: name what each image *shows*, not what it makes you feel. **CS2** is due — statement of intent plus annotated references — and Unit 1 closes. Next week Unit 2 opens on the Stage 1 recording page and the run to A1.
+### Statement of intent
+
+The **statement of intent** is where you write your investigation in your own words: what you will look at, why, and how you expect to work. It must be yours, not borrowed exemplar language. The examiner reads it as your intent, so it has to be your own.
+
+### Research plan
+
+The **research plan** sets out your reading, sources, and dates: what you will read, which primary sources you will shoot and when, and how the research paper begins gathering alongside the visual work. Build the research in from the start, not bolted on at the end.
+
+### Primary-source shoot
+
+A **primary-source shoot** is photography from first-hand sources, your own: light, angle, and series. Nothing found, nothing borrowed. This is reference you will draw from for months, so shoot far more than you think you need.
+
+### Annotation
+
+**Annotation** is the written note on each selected image. Name what the image *shows*, not what it makes you feel. Your annotated references form part of CS2.
+
+## Day by day
+
+- **Mon 03-08.** You sign the locked theme against the exemplar criteria. This is the gate: after today the investigation runs on this theme to submission in December, with no restarts.
+- **Tue 03-09.** Finalize your statement of intent in your own words: what you will look at, why, and how you expect to work.
+- **Wed 03-10.** Write your research plan: the reading, the primary sources you will shoot and when, and how the research paper gathers alongside the visual work.
+- **Thu 03-11.** Run your first primary-source shoot from first-hand sources, working on light, angle, and series. Shoot far more than you think you need.
+- **Fri 03-12.** Select and annotate your images, naming what each one shows. **CS2** (statement of intent plus annotated references) is due, and Unit 1 closes. For homework, spend up to 30 minutes extending the primary-source shooting, first-hand and dated, ahead of next week's Stage 1 recording pages.
 
 ## Assessment
 
-**CS2** (statement of intent + annotated references) is due **Fri 2027-03-12**, a written annotation that consolidates your locked theme into recordable foundations — see the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. The theme lock on Monday is the unit's real gate: it carries no mark, but it is signed, and there are no restarts after it. Unit 2 opens next week, and your first attainment — **A1**, the recording milestone marked against AO1 — is on **Fri 2027-03-19** in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-04-recording-and-the-a1-milestone|L04]].
+**CS2** (statement of intent + annotated references) is due **Fri 2027-03-12**, a written annotation that consolidates the locked theme into recordable foundations. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. The theme lock on Monday is the unit's real gate: it carries no mark, but it is signed, and there are no restarts after it. Unit 2 opens next week, and the first attainment, **A1**, the recording milestone marked against AO1, sits **Fri 2027-03-19** in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-04-recording-and-the-a1-milestone|Lesson 04]].
+
+## Review
+
+Check you can:
+
+- Explain the **theme lock** and why there are no restarts after it.
+- Write a **statement of intent** in your own words.
+- Build a **research plan** with real reading, sources, and dates.
+- Run and annotate a first **primary-source shoot** from first-hand sources.
+- Write an **annotation** that names what an image shows, not what it makes you feel.

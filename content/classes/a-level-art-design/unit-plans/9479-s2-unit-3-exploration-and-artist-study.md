@@ -19,11 +19,11 @@ modified: 2026-07-18
 
 ## What this unit does
 
-This is the exploration and artist-study stage. For AO2 (Explore) you run twelve prescribed media experiments, then make an evidence-based selection, naming the media you reject. AO3 opens in the back half: you study two artists closely — analysis, meaning and context, method, and personal response — until that study visibly changes your own work, and you make a bridge piece and a scale trial. The contextual writing you produce here is the first material of your research paper. The unit closes with **A2**, marked across AO2 and AO3.
+This is the exploration and artist-study stage. The front half is **AO2 Explore**: you run twelve prescribed media experiments, then make an evidence-based selection and name what you reject. The back half opens **AO3**: you study two artists until their work visibly changes your own, through analysis, meaning and context, method, and personal response, plus a bridge piece and a scale trial. The contextual writing you produce here is the **first material of the research paper**. The unit closes with **A2**, marked across AO2 and AO3. It runs around the S7 Qingming mock float.
 
 ## Dates & span
 
-Weeks S6, S8–S9, around the S7 mock (Mon 2027-03-28 → about 2027-04-24), 15 sessions. These spring dates are provisional and may shift when the school publishes the calendar; see the [[classes/a-level-art-design/unit-plans/9479-semester-2-plan|semester plan]].
+Weeks S6, S8–S9, around the S7 mock float (Mon 2027-03-28 to about 2027-04-24), 15 sessions. These spring dates are provisional and may shift when the school publishes the calendar. See the [[classes/a-level-art-design/unit-plans/9479-semester-2-plan|semester plan]].
 
 ## Sequence of work
 
@@ -31,8 +31,8 @@ Weeks S6, S8–S9, around the S7 mock (Mon 2027-03-28 → about 2027-04-24), 15 
 |---|---|---|
 | U3·L1 | Plan the media exploration | Experiments that could fail |
 | U3·L2–L4 | Studio: media experiments 1 to 12 (3-day session) | Which media carry the investigation |
-| U3·L5 | Keep or change | Evidence-based selection; name your rejections |
-| *S7 mock* | No new content | Independent sketchbook brief if the school permits |
+| U3·L5 | Keep or change | Evidence-based selection; rejections named. |
+| *S7 mock float* | No new content | Independent sketchbook brief |
 | U3·L6 | Artist 1: choose and analyze | An artist who solves the problem |
 | U3·L7 | Meaning and context | First material of the research paper |
 | U3·L8 | Method study | Copy to understand, not to own |
@@ -46,17 +46,10 @@ Weeks S6, S8–S9, around the S7 mock (Mon 2027-03-28 → about 2027-04-24), 15 
 
 ## Assessment
 
-**A2, Fri 2027-04-23** — exploration and artist study (twelve experiments, media selection, artist pages, bridge piece, Stage 3 pages), marked against AO2+AO3.
-
-Coursework tasks:
-- **CS4**, Fri 2027-04-02 — twelve experiments documented
-- **CS5**, Fri 2027-04-16 — artist 1 pages (analysis, method, response); opens the research paper material
-
-See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]].
+The unit gates on **A2, Fri 2027-04-23**: exploration and artist study (twelve experiments, media selection, artist pages, bridge piece, Stage 3 pages), marked against AO2 and AO3. Two CS tasks lead into it: **CS4** on Fri 2027-04-02 (twelve experiments documented), and **CS5** on Fri 2027-04-16 (artist 1 pages: analysis, method, response; this opens the research paper material). See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]].
 
 ## Key content
 
-- Your media choices must carry conceptual logic: the selection argument is what earns AO2 at the top band.
-- Your artist references must change the work on the page — citation without a response earns nothing.
-
-S7 carries no new content, and the twelve experiments close before the mock window.
+- Your media choices must carry conceptual logic. **The selection argument is what AO2 marks at the top band.**
+- Your artist references must change the work on the page. Citation without a response earns nothing.
+- S7 carries no new content. The twelve experiments close before the mock window, and every assessment date sits clear of the float.

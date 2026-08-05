@@ -18,54 +18,42 @@ modified: 2026-07-26
 |---|---|
 | Core question | Is seeing something we do, or something that happens to us? |
 | Duration | 45 minutes, [[classes/oxbridge/oxbridge-session-structure-template\|standard template]] |
-| Reading | [[entities/john-berger\|Berger]], *Ways of Seeing*, ch. 1, first six pages (the BBC episode of the same name is a second way in if the prose is hard) |
+| Reading | [[entities/john-berger\|Berger]], *Ways of Seeing*, ch. 1, first six pages (BBC episode as second entry point) |
+| Bring | **One image no student will recognize**, plus one uncomfortable fact about it, withheld |
 | Carried out | If seeing is never neutral, what is a photograph evidence of? |
 
-## What you will be able to do
+## Overview
 
-By the end of this lesson you can:
+This lesson asks whether perception is ever neutral. You look at an image you do not recognize, then separate what you see from what you know and what you assume. Later you learn a fact about the image and look again. By the end you take a side in one sentence: is perception ever neutral? That single-sentence position is what you produce, and it feeds into Week 2, which asks whether images represent reality or produce it. You also carry out one open question: if seeing is never neutral, what is a photograph evidence of?
 
-1. Separate what you see from what you know from what you assume, on an unfamiliar image
-2. State why seeing might be something that happens to you rather than something you do
-3. Carry the question out of the room: if seeing is never neutral, what is a photograph evidence of?
+## The ideas
 
-## Before class
+### Seeing, knowing, assuming
 
-Read Berger, first six pages. If the prose is difficult, the BBC episode of the same name works as a second entry point.
+An image can be described in three different ways. What you **see** is what is in front of you. What you **know** is the fact or context you bring to it. What you **assume** is what you fill in without checking. When two people look at the same image and report different things, the difference is rarely eyesight. It usually comes from what each person already knows or expects. This is why "we noticed different parts" needs a further question: why those parts.
 
-## Opening prompt (5 minutes)
+### Berger's claim
 
-You are shown an image you are not likely to recognize. After two minutes of silence, you write, in order:
+**Berger's claim**, from *Ways of Seeing*, is that the way we see things is affected by what we know or what we believe. Berger also holds that we never look at one thing alone: we look at the relation between things and ourselves. Test this on a photograph of a stranger. When you learn the title, date, context, and one uncomfortable fact about an image, the picture does not change, but your experience of it does. That raises the hard question: if the picture is the thing that produces an experience, and the experience changed, in what sense is it the same picture? And can you unlearn something in order to see freshly?
 
-1. What you **see**.
-2. What you **know**.
-3. Whether knowing changed the seeing.
+### Two positions on neutrality
 
-## Movement 1 · elicit (10 minutes)
+There are two positions to expect when you take a side.
 
-You describe what you saw. Where two people describe the same image differently, you look at why: is one of them seeing wrongly, and is there a description everyone would agree on?
+The **trained eye** position says perception is shaped, but training can make it better, more accurate, more neutral. The challenge to it: better according to what standard?
 
-## Movement 2 · complicate (15 minutes)
+The **no exit** position says there is no neutral place to be trained toward. The challenge to it: if no view is better than another, why study anything?
 
-You are told what the image is: title, date, context, and one further fact. You look again and ask: has the image changed, or have you?
+## Day by day
 
-Berger's claim then goes on the board: *the way we see things is affected by what we know or what we believe.* You test it — Berger says we never look at one thing, we look at the relation between things and ourselves. Is that true of a photograph of a stranger? Can you unlearn something in order to see freshly?
+- **Week 1 session (45 minutes).** Read Berger's first six pages before class, or use the BBC episode as a second way in. In class you view an unfamiliar image in silence, then write what you see, what you know, and whether knowing changed the seeing. You compare descriptions, learn the fact about the image, look again, and finish by stating in one sentence whether perception is ever neutral. Your answer is kept, because Week 2 builds on it.
 
-## Movement 3 · commit (10 minutes)
+## Review
 
-**Is perception ever neutral?** You take a side in one sentence. Everyone answers.
+Check you can:
 
-Two positions to expect:
-
-- **Trained eye** — perception is shaped, but training can make it more accurate, more neutral. (Better by what standard?)
-- **No exit** — there is no neutral position to be trained toward. (If no view is better, why study anything?)
-
-> [!note] Your answer is used again in Week 2.
-
-## Closing question (5 minutes)
-
-> If seeing is never neutral, what is a photograph evidence of?
-
-## Links
-
-[[entities/john-berger]] · [[concepts/framework]] · [[classes/oxbridge/unit-plans/oxbridge-unit-1-the-image|Unit 1]] · [[classes/oxbridge/lesson-plans/oxbridge-w02-do-images-represent-reality-or-produce-it|W02]]
+- Separate what you **see** from what you **know** from what you **assume** on an unfamiliar image.
+- Explain why seeing might be something that happens to you rather than something you do.
+- State **Berger's claim**: the way we see things is affected by what we know or what we believe.
+- Take a side on whether perception is ever neutral, and say what the **trained eye** and **no exit** positions each claim.
+- Carry out the question: if seeing is never neutral, what is a photograph evidence of?

@@ -18,70 +18,48 @@ modified: 2026-07-26
 | | |
 |---|---|
 | Purpose | The midpoint. No new material — six weeks of discussion put under interview pressure |
-| Duration | 45 minutes, in three movements: *what an argument is* / *live pressure* / *build the spine* |
+| Duration | 45 minutes, **template bent**: the three movements become *what an argument is* / *live pressure* / *build the spine* |
 | Reading | none |
-| Carried question | Every framework so far turned out to hide its edges. Is there anything that does not? |
+| Carried out | Every framework so far turned out to hide its edges. Is there anything that does not? |
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can:
+This lesson is the midpoint of the course. It brings no new material. Instead, you put six weeks of discussion under interview pressure. You learn what an argument is, hold a position under live questioning, and build the spine of an argument. You produce four lines on paper: a scaffold for speaking that stays with you and is not collected. Nothing here is written for submission ([[classes/oxbridge/assessments/oxbridge-writing-and-assessment|discussion only]]). The skills feed your [[classes/oxbridge/oxbridge-interview-preparation|Interview Preparation]].
 
-1. Say what an argument is, as distinct from an opinion or a reaction
-2. Hold a position under live interview pressure without either collapsing or digging in
-3. Build the spine of an argument from six weeks of discussion, with no new material
+## The ideas
 
-## Opening prompt (5 minutes)
+### What an argument is
 
-> Write the strongest objection to something you argued in the last six weeks.
+**Argument.** An argument is not a survey of views. It is a committed act of reasoning. A claim narrow enough to be wrong is worth more than a claim broad enough to be safe. Compare two paragraphs on the same topic. One surveys three views and concludes that the truth lies somewhere in between. The other takes a narrow position and names the case that would defeat it. The narrow one could be wrong, and that is exactly why it is worth defending and worth listening to.
 
-Silent, two minutes. Object to yourself, not to a classmate.
+### Three moves of pressure
 
-## Movement 1 · what an argument is (10 minutes)
+When you push a position, use only three moves:
 
-Two paragraphs go on the board, both about the same topic. One surveys three views and concludes that the truth lies somewhere in between. One takes a narrow position and names the case that would defeat it.
+- **The consequence.** If that is true, then what follows?
+- **The hard case.** An example the claim does not cover.
+- **The definition.** A word is doing all the work, so define it.
 
-**Questions.**
+Afterward, ask yourself one question: at which push did you stop thinking and start defending? This is the same question the mock interview debrief asks. See [[classes/oxbridge/oxbridge-interview-preparation|Interview Preparation]].
 
-- Which of these could be wrong? Which could be right?
-- Which one would you rather have to defend? Which one is worth listening to?
+### The spine of an argument
 
-**The principle.**
+The **spine** is four lines: your claim in one sentence, the reason, the strongest objection, and why the claim survives or how it must narrow. This is also the shape of a good interview answer under pressure: claim, reason, the objection you volunteer before it is put to you, and what you concede. If you can produce it on paper in ten minutes, you can produce it aloud in ninety seconds.
 
-> An argument is not a survey of views. It is a committed act of reasoning. A claim narrow enough to be wrong is worth more than a claim broad enough to be safe.
+## Day by day
 
-The paragraphs are specimens to judge, not models to imitate — nothing in this course is written for submission ([[classes/oxbridge/assessments/oxbridge-writing-and-assessment|discussion only]]). The difference between surveying and committing is easier to see laid out than to hear.
+- **This session (45 minutes).** First, write the strongest objection to something you argued in the last six weeks, objecting to yourself, not to a classmate. Then judge the two paragraphs on the board and decide which is worth defending. In pairs, push a partner's position three times using the consequence, the hard case, and the definition, then swap and debrief. Finally, build your four-line spine on paper and read some aloud for the group to attack. No reading is set and nothing is collected.
 
-## Movement 2 · live pressure (15 minutes)
+## Assessment
 
-Pairs. One student states a position in one sentence. The partner pushes three times using only these moves:
+None. This lesson is discussion only. See [[classes/oxbridge/assessments/oxbridge-writing-and-assessment|Assessment — none]].
 
-1. **The consequence.** If that is true, then what follows?
-2. **The hard case.** Here is an example your claim does not cover.
-3. **The definition.** You used a word that is doing all the work. Define it.
+## Review
 
-Swap. Then debrief on one question only:
+Check you can:
 
-> At which push did you stop thinking and start defending?
-
-This is the same question the mock interview debrief asks. See [[classes/oxbridge/oxbridge-interview-preparation|Interview Preparation]].
-
-## Movement 3 · build the spine (10 minutes)
-
-Produce, on paper, four lines. This is a scaffold for speaking, not a submission — it stays with you and nothing is collected.
-
-1. My claim, in one sentence.
-2. The reason.
-3. The strongest objection.
-4. Why the claim survives, or how it must narrow.
-
-Three are read aloud, and the group attacks them.
-
-Four lines is also the shape of a good interview answer under pressure: claim, reason, the objection you volunteer before it is put to you, and what you concede. If you can produce it on paper in ten minutes, you can produce it aloud in ninety seconds.
-
-## Closing (5 minutes)
-
-> Every framework so far turned out to hide its edges. Is there anything that does not?
-
-## Links
-
-[[classes/oxbridge/oxbridge-interview-preparation|Interview Preparation]] · [[classes/oxbridge/assessments/oxbridge-writing-and-assessment|Assessment — none]] · [[classes/oxbridge/lesson-plans/oxbridge-w06-does-reality-have-a-history|W06]] · [[classes/oxbridge/lesson-plans/oxbridge-w08-can-the-body-be-trusted|W08]]
+- Say what an argument is, and how it differs from an opinion or a reaction.
+- Explain why a claim narrow enough to be wrong beats a claim broad enough to be safe.
+- Push a position with the consequence, the hard case, and the definition.
+- Hold a position under live pressure without collapsing or digging in.
+- Build the spine of an argument in four lines: claim, reason, objection, and how it survives or narrows.

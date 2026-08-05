@@ -9,7 +9,7 @@ modified: 2026-07-26
 ---
 # S2 Lesson 08: Artist 2, Bridge and A2
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-3-exploration-and-artist-study|Unit 3]] · Lesson 08 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-07-artist-1-in-full|L07]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-09-composition-1|L09]] →
+[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-3-exploration-and-artist-study|Unit 3]] · Lesson 08 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-07-artist-1-in-full|Lesson 07]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-09-composition-1|Lesson 09]] →
 
 ## At a glance
 
@@ -21,7 +21,7 @@ modified: 2026-07-26
 
 | | |
 |---|---|
-| Deliverable | Artist 2 analysed against Artist 1; the bridge piece made; a scale trial; Stage 3 pages laid out; A2 sat |
+| Deliverable | Artist 2 analyzed against Artist 1; the bridge piece made; a scale trial; Stage 3 pages laid out; A2 sat |
 | Feeds | **A2 Fri 2027-04-23** — exploration and artist study (twelve experiments, media selection, both artist pages, bridge piece, Stage 3 pages), marked against AO2+AO3 |
 | Homework | ≤30 min: after A2, note three development directions the bridge piece and scale trial opened, ahead of Unit 4 in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-09-composition-1\|L09]] |
 
@@ -31,28 +31,46 @@ modified: 2026-07-26
   <figcaption>Ilya Repin, study for <em>Reply of the Zaporozhian Cossacks</em>, 1878</figcaption>
 </figure>
 
-## What you will do
+## Overview
 
-By the end of this lesson you can:
+This lesson closes Unit 3 and moves you from studying art into developing your own. You choose a second artist, set their work against your first, make a bridge piece, trial it at scale, and lay out your Stage 3 pages. Then you sit **A2** on Fri 2027-04-23, which marks the whole unit against AO2 and AO3. The bridge piece and scale trial also open the directions you carry into Unit 4 next week. These dates may shift if the school publishes a different calendar for this period.
 
-1. Set Artist 2 against Artist 1 as a different angle on the same problem
-2. Make a bridge piece and trial it at scale to find what breaks
-3. Lay out Stage 3 pages so exploration reads as reasoning, and sit A2
+## The ideas
 
-## Goal
+### Artist 2 against Artist 1
 
-Unit 3 closes on the move from study into development. You set a second artist against the first — a different angle on the same problem — make a bridge piece that turns the artist work into your own development, and trial it at scale to find what breaks. Then you lay out the Stage 3 pages so exploration reads as reasoning, and sit A2, which marks the whole unit together: experiments, media selection, both artists, bridge and pages, against AO2 and AO3.
+Choose a second artist who answers the same problem as your first, but from a **different angle**. You then analyze the two against each other. The point is not two separate studies. It is two solutions to one problem, so you can see how different methods handle the same question on your theme.
 
-## How it runs
+### The bridge piece
 
-- **Mon 04-19 — Artist 2 analysis and bridge plan.** Choose a second artist who answers the same problem from a different angle, and analyse the two against each other. Plan the bridge piece: how their methods combine on your theme.
-- **Tue 04-20 — make the bridge piece.** Build the piece that carries the artist study into your own development. This is the hinge of the unit — from looking at art to making yours.
-- **Wed 04-21 — scale trial.** Trial the work larger and **fix what the scale broke**: composition, mark and material behave differently big, and it is better to find out now than in the final outcome.
-- **Thu 04-22 — lay out the Stage 3 pages.** Sequence the exploration so it reads as *reasoning*, not a scrapbook: experiments, selection, artists, bridge, scale — each leading to the next decision.
-- **Fri 04-23 — A2.** Exploration and artist study, marked in session against AO2+AO3: the twelve experiments and their selection, both artist pages, the bridge piece and scale trial, and the Stage 3 pages. Nothing is added during the review.
+The **bridge piece** is the work that carries your artist study into your own development. It combines the two artists' methods on your theme. This is the hinge of the unit: it turns looking at art into making your own.
+
+### The scale trial
+
+The **scale trial** means trialing the work larger to find what breaks. Composition, mark, and material all behave differently at a bigger size. You fix what the scale broke now, because it is better to find these problems here than in the final outcome.
+
+### Stage 3 pages as reasoning
+
+Lay out the **Stage 3 pages** so your exploration reads as reasoning, not a scrapbook. Sequence experiments, selection, artists, bridge, and scale so each one leads to the next decision.
+
+## Day by day
+
+- **Mon 04-19.** Choose your second artist and analyze the two artists against each other. Plan the bridge piece: how their methods combine on your theme.
+- **Tue 04-20.** Make the bridge piece that carries the artist study into your own development.
+- **Wed 04-21.** Trial the work larger and fix what the scale broke in composition, mark, and material.
+- **Thu 04-22.** Lay out the Stage 3 pages so the exploration reads as reasoning: experiments, selection, artists, bridge, scale, each leading to the next.
+- **Fri 04-23.** Sit A2. Nothing is added to the work during the review. Homework (≤30 min): note three development directions the bridge piece and scale trial opened, ahead of Unit 4.
 
 ## Assessment
 
-You sit **A2** (exploration and artist study) on **Fri 2027-04-23**, marked against AO2+AO3 — see the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It covers the whole of Unit 3 together: exploration that tested real questions, artists chosen for problems solved, and a bridge that moves the work into development. Unit 4 opens next week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-09-composition-1|L09]] on composition and the development stage — where the **research paper outline is issued** — and the third attainment, **A3** (development + research paper draft 1, AO3), sits **Fri 2027-05-28**.
+You sit **A2** (exploration and artist study) on **Fri 2027-04-23**, marked against AO2+AO3. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. A2 covers the whole of Unit 3 together: the twelve experiments and their media selection, both artist pages, the bridge piece and scale trial, and the Stage 3 pages. Unit 4 opens next week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-09-composition-1|L09]] on composition and the development stage, where the research paper outline is issued. The next attainment, **A3** (development and research paper draft 1, AO3), sits **Fri 2027-05-28**.
 
-These dates may shift when the school publishes the calendar for that period.
+## Review
+
+Check you can:
+
+- Set **Artist 2** against **Artist 1** as a different angle on the same problem.
+- Make a **bridge piece** that turns the artist work into your own development.
+- Run a **scale trial** and fix what the larger size breaks in composition, mark, and material.
+- Lay out the **Stage 3 pages** so exploration reads as reasoning, not a scrapbook.
+- Sit A2 with the full Unit 3 body of work: experiments, selection, both artists, bridge piece, and Stage 3 pages.

@@ -19,62 +19,46 @@ modified: 2026-07-26
 | Core question | If each of us is served a different version of the world, is a shared world still available, and would it have to be built without representation? |
 | Duration | 45 minutes, **Movement 2 is student-led** |
 | Reading | [[entities/irmgard-emmelhainz\|Emmelhainz]], "Can We Share a World Beyond Representation", e-flux |
-| Prepare | The **angle sheet**: one central question, eight angle questions. Pick one and bring a position |
-| Leads to | Who gets to show us the world, and who has to be seen? |
+| Prepared | The **angle sheet**: one central question, eight angle questions. Each student picks one and brings a position |
+| Carried out | Who gets to show us the world, and who has to be seen? |
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can:
+This lesson asks whether a shared world is still possible when each person is served a different version of it. Before class you read Emmelhainz and use the **angle sheet**: pick one of the eight angle questions and bring a position you are willing to defend and have challenged. In class you present that angle and take one question before the next speaker. By the end you argue for or against a common world and name the cost of your answer. This feeds W13, which asks who gets to show us the world and who has to be seen.
 
-1. Say what follows if each person is served a different version of the world
-2. Use Emmelhainz to ask whether a shared world would have to be built without representation
-3. Argue for or against the possibility of a common world, and name the cost of your answer
+## The ideas
 
-## Preparation
+### A shared world, or many worlds
 
-There is one central question the whole discussion builds toward, and eight smaller questions beneath it approaching the same problem from different directions. Pick one angle. You do not need a final answer, just a position you are willing to defend and have challenged.
+When two feeds barely overlap, ask what kind of gap it is. A **difference of taste** is a gap in preference. A **difference of world** is a gap in the reality each person takes as given. Living in the same physical world does not close it: a shared physical world may not help you agree about anything you actually disagree about.
 
-## Opening prompt (5 minutes)
+People have always held different information, so the real question is whether that gap has grown from a **difference of degree** into a **difference of kind**, a change not in how much people differ but in what kind of thing sharing has become, and how you would tell.
 
-> Compare your feed with the person next to you. How much overlap is there?
+Ask also what a **shared world** even is: a shared set of facts, a shared set of images, or a shared set of problems.
 
-Two minutes. Then: **is that a difference of taste or a difference of world?**
+### Sharing beyond representation
 
-## Movement 1 · elicit (10 minutes)
+**Irmgard Emmelhainz**, in "Can We Share a World Beyond Representation", asks whether we can share a world **beyond representation**, that is, without images or accounts standing in for it. Test this by naming one thing that is shared but not represented. Shared experience is one answer: eating together, working together, rather than shared images. The open question is whether that scales beyond a single room.
 
-**Questions.**
+Two framings pull against each other: the problem may be too many representations, or it may be that representation was always the wrong medium for sharing a world at all.
 
-- What is the last thing you can be **certain** everyone in this room saw?
-- Is a shared world a shared set of facts, a shared set of images, or a shared set of problems?
+If a common world has to be **made rather than found**, built by people rather than discovered, then ask who is making it now. Saying "fix the algorithms" only pushes the question back: fix them toward what target, and who chooses it. That returns you to W11.
 
-| You might say | Consider |
-|---|---|
-| "We all live in the same physical world, so there is no problem" | Does that shared physical world help you agree about **anything you actually disagree about**? |
-| "It has always been like this, people always had different information" | Is a difference of degree becoming a difference of kind — **and how would you tell**? |
+Ask, finally, whether **agreeing to disagree** is itself a shared world or the end of one.
 
-## Movement 2 · complicate (15 minutes) — student-led
+## Day by day
 
-You present your chosen angles, one at a time, **each answering a single question from the room before the next speaks.** The angles are clustered on the board as they arrive.
+- **In class.** Compare your feed with a neighbor and decide whether the gap is a difference of taste or a difference of world. Present your chosen angle and answer one question from the room before the next speaker; the angles get clustered on the board as they arrive. Then commit: is a common world still possible? If yes, name the ground it stands on. If no, say what replaces it. Close on the question you carry into W13: who gets to show us the world, and who has to be seen?
 
-**Questions to run through the presentations.**
+## Review
 
-- Emmelhainz asks whether we can share a world **beyond** representation. What would that even be? **Give one example of something shared that is not represented.**
-- Is the problem too many representations, or the fact that representation was always the wrong medium for sharing a world?
-- If a common world has to be **made** rather than found, who is making it now?
-- Is agreeing to disagree a shared world, or the end of one?
+Check you can:
 
-| You might say | Consider |
-|---|---|
-| "Shared experience, not shared images: eating together, working together" | **Does that scale beyond a room?** |
-| "We should just fix the algorithms" | Fix them **toward what**? Someone chooses the target, which returns us to W11 |
-
-## Movement 3 · commit (10 minutes)
-
-**Question.** Is a common world still possible? If yes, **name the ground it stands on**. If no, say what replaces it.
-
-## Closing question (5 minutes)
-
-> Who gets to show us the world, and who has to be seen?
+- Say what follows if each person is served a different version of the world.
+- Tell a difference of taste from a difference of world.
+- Distinguish a difference of degree from a difference of kind, and say how you would tell.
+- Use Emmelhainz to ask whether a shared world would have to be built beyond representation, and give one example of something shared that is not represented.
+- Argue for or against the possibility of a common world, and name the cost of your answer.
 
 ## Links
 

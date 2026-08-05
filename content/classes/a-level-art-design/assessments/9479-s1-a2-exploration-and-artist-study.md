@@ -32,7 +32,7 @@ modified: 2026-08-02
 
 This assessment asks you to show that you can:
 
-1. Experiment widely enough that the media choice you eventually make is a decision rather than a default.
+1. Experiment widely enough that the media choice you make is a decision, not a default.
 2. Say **why** you selected the media you did, in terms of what you are trying to communicate.
 3. Set two artists against each other and name the **tension** between them, not their similarities.
 4. Make a bridge piece that visibly carries something from the artist study into your own work.
@@ -57,13 +57,13 @@ A2 is marked on **two** AO columns, which is why it carries the most marks of an
 
 ## Instructions
 
-**Before the review.** You plan and sign off the bridge piece on Mon 11-02, make it on Tue 11-03, and finish it during the six-day Juniors Days gap on the schedule you dated in your sketchbook. The gap is the finishing window, not a break from it.
+**Before the review.** Plan and sign off the bridge piece on Mon 11-02. Make it on Tue 11-03. Finish it during the six-day Juniors Days gap, on the schedule you dated in your sketchbook. The gap is the finishing window, not a break from it.
 
 **On the day.**
 
 1. Lay out all five items in the order you want them read.
 2. The review happens in session, with you present.
-3. Nothing is added during the review.
+3. **Nothing is added during the review.**
 
 **After.** A2 comes back banded on Tue 11-10. You write **one sentence** naming the direction you are taking into Unit 4, and defend it in a two-minute stand-up to the room. A direction you cannot defend out loud is not yet a direction.
 
@@ -86,7 +86,7 @@ A2 is marked on **two** AO columns, which is why it carries the most marks of an
 | **1** | 1–3 | Limited selection of media · basic understanding of appropriate skills · limited experimentation |
 | **0** | 0 | No creditable response |
 
-AO2 does **not** mean technical skill alone. Twelve beautiful experiments that were never reviewed or refined sit lower than eight rougher ones that visibly learned from each other.
+Cambridge states clearly that AO2 does **not** mean technical skill alone. Twelve beautiful experiments that were never reviewed or refined sit lower than eight rougher ones that visibly learned from each other.
 
 ### AO3 Develop, 20 marks
 
@@ -101,7 +101,7 @@ AO2 does **not** mean technical skill alone. Twelve beautiful experiments that w
 | **1** | 1–4 | Limited evidence of connections · limited investigation demonstrating basic analytical and critical understanding · limited exploration · basic reflection |
 | **0** | 0 | No creditable response |
 
-At this milestone AO3 is judged on the **connections**: research to recording to experiment to your own work. The bridge piece is where a marker looks for them. An artist page that describes an artist without changing anything downstream evidences AO3 at level 1 or 2 however well written it is.
+At this milestone AO3 is judged on the **connections**: research to recording to experiment to your own work. The bridge piece is where a marker looks for them. An artist page that describes an artist without changing anything downstream shows AO3 at level 1 or 2, however well written it is.
 
 Both marks are then curved under [[shared/bnds-assessment-framework|the BNDS framework]] rather than reported raw.
 

@@ -25,27 +25,26 @@ modified: 2026-07-21
 
 ## What this unit does
 
-Spine: **"Combine · meaning."** Five Wednesday double sessions (W11–15) move from single images to combinations: juxtaposition and scale — "two images say a third thing" — then layering and text-with-image, then drafting toward one final collage that you make in class for A3. It is the semester's longest unit.
+The spine is **"Combine · meaning."** Five Wednesday double sessions (W11–15) move from single images to combinations. You start with **juxtaposition** and **scale**, the idea that two images together say a third thing. Then you work on **layering** and text-with-image. Then you draft toward one final collage, made in class for A3. This is the semester's longest unit.
 
 ## Session-by-session
 
 | Wk | Wednesday | Lesson | Content | Marker |
 |---|---|---|---|---|
-| W11 | 2026-11-11 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-10-juxtaposition-and-scale\|U3·L1]] · S10 | Juxtaposition and scale — "two images say a third thing" | — |
+| W11 | 2026-11-11 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-10-juxtaposition-and-scale\|U3·L1]] · S10 | Juxtaposition and scale: "two images say a third thing" | — |
 | W12 | 2026-11-18 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-11-layering-text-and-image\|U3·L2]] · S11 | Layering, text and image | — |
 | W13 | 2026-11-25 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-12-theme-and-composition-drafts\|U3·L3]] · S12 | Theme and composition drafts | **CS3** |
 | W14 | 2026-12-02 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-13-final-collage-production\|U3·L4]] · S13 | Final collage production | **SB2** |
 | W15 | 2026-12-09 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage\|U3·L5]] · S14 | **A3: final collage** + reflection, in class | **A3** |
 
-> [!note] Attendance
-> A G10 field trip and a G10 project week may fall in this unit. Each Wednesday moves one stage of the collage forward, so a missed Wednesday costs a whole stage. If either event takes a Wednesday, your teacher will confirm the adjusted schedule in class.
+These dates may shift when the school publishes the calendar for this period. Any change will be confirmed in class. W14 (12-02) is a normal class for you.
 
 ## Assessment
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage|A3 Collage]].
 
-- **A3 (Attainment)** — 2026-12-09 (W15): final collage + reflection, made in class across W14–W15. Announced 2026-11-25 (W13), two classes ahead. Marking focus: **juxtaposition, layering, composition, meaning**.
-- **CS3 (Course Skills)** — 2026-11-25 (W13): collage experiment set. Focus: combination and meaning.
-- **SB2 (Course Skills)** — 2026-12-02 (W14): second sketchbook spot-check — the last progress check before the A5 sketchbook attainment. Focus: sketchbook habit and development. See the [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|register]].
+- **A3 (Attainment)**: you sit this on 2026-12-09 (W15). It is your final collage plus a reflection, made in class across W14–W15. It is announced on 2026-11-25 (W13), two classes ahead. Marking focus: **juxtaposition, layering, composition, meaning**.
+- **CS3 (Course Skills)**: 2026-11-25 (W13), a collage experiment set. Focus: combination and meaning.
+- **SB2 (Course Skills)**: 2026-12-02 (W14), the second sketchbook spot-check. This is the last progress check before the A5 sketchbook attainment. Focus: sketchbook habit and development. See the [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|register]].
 
 Full details: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|full register]].

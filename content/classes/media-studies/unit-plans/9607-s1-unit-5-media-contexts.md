@@ -25,17 +25,21 @@ modified: 2026-07-22
 
 ## What this unit does
 
-This unit closes Component 1 and moves you into Component 2. You submit your portfolio on Friday of W13, with no edits after that, and its feedback becomes your production targets for Semester 2. You then study audience and institutions theory — uses and gratifications, Morley, ownership, integration/synergy/convergence, and regulation — and build toward your first Section A sit in authentic format (A4, which anchors your Forecast Grade). A4 also opens the case-study document that carries through to the End of Term Exam and Paper 2.
+The contexts band closes Component 1 and turns the course toward Component 2. Your portfolio goes in on Friday of W13. There are no edits after that. Its feedback becomes your Semester 2 production targets. You then study audience and institutions theory: uses and gratifications, Morley, ownership, integration, synergy, convergence, and regulation. This builds toward your first Section A sit in the real format (A4, the Forecast Grade anchor) and opens the case-study document that carries A4, the End of Term Exam, and Paper 2.
+
+This band is called "U5" in the semester calendar. In the coursebook these contexts sit across Unit 4 (Audience) and Unit 5 (Industry).
 
 ## Dates & span
 
-**W13–W16: Mon 2026-11-23 → Fri 12-18** — 14 teaching days across three lessons (L11: 6 days, L12: 4 days, L13: 4 days). These dates may shift when the school publishes the calendar for this period.
+**W13–W16: Mon 2026-11-23 → Fri 12-18**, 14 teaching days (L11: 6, L12: 4, L13: 4). W14 gives only Mon 11-30 and Tue 12-01.
+
+These dates may shift when the school publishes the calendar for this period.
 
 ## Lessons
 
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission|L11 Audiences and the Portfolio Submission]] — mass/niche/target audiences and the limits of effects models; CCR help in the final window; A3 submitted, returned with self-banding, and turned into your LB4 targets; Blumler and Katz on your own weekly media use.
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-12-institutions-and-section-a-craft|L12 Institutions and Section A Craft]] — Morley's Nationwide study; ownership, PSB vs commercial; CS8 with the mark scheme open; the Component 2 case-study document opened.
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-13-a4-section-a-in-authentic-format|L13 A4 — Section A in Authentic Format]] — integration, synergy, and convergence through one institution; the authentic 30+45 sit; regulation context.
+- [[classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission|L11 Audiences and the Portfolio Submission]]: mass, niche, and target audiences, and the limits of the effects model; CCR help in the last window; A3 goes in, is returned with self-banding first, and becomes your LB4 targets; Blumler and Katz on your own weekly use.
+- [[classes/media-studies/lesson-plans/9607-s1-lesson-12-institutions-and-section-a-craft|L12 Institutions and Section A Craft]]: Morley's Nationwide; ownership, PSB vs commercial; CS8 with the mark scheme open; the C2 case-study document opened.
+- [[classes/media-studies/lesson-plans/9607-s1-lesson-13-a4-section-a-in-authentic-format|L13 A4, Section A in Authentic Format]]: integration, synergy, and convergence through one institution; the authentic 30+45 sit; regulation context.
 
 ## Assessment
 
@@ -44,8 +48,8 @@ This unit closes Component 1 and moves you into Component 2. You submit your por
 | Item | Date | What | AO |
 |---|---|---|---|
 | A3 | Fri 2026-11-27 | C1 portfolio complete: product + CCR + blog; C1 criteria (AO2 20 + AO3 80, scaled to 50); no edits after (returned Tue 12-01) | AO2+AO3 |
-| LB4 | Tue 2026-12-01 | Response to feedback: log one production target | — |
-| CS8 | Wed 2026-12-09 | Guided Section A, mark scheme open — direct practice for A4 | AO1+AO2 |
+| LB4 | Tue 2026-12-01 | Response to feedback: one production target logged | — |
+| CS8 | Wed 2026-12-09 | Guided Section A, mark scheme open, direct practice for A4 | AO1+AO2 |
 | A4 | Wed 2026-12-16 | C2 Section A in authentic format: 30 min viewing/notes + 45 min writing; Forecast Grade anchor | AO1+AO2 |
 
 See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
@@ -53,6 +57,6 @@ See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 ## Key content
 
 - Theorists: Blumler and Katz (uses and gratifications), Morley (the Nationwide study, differential readings).
-- Institutions: ownership and funding (PSB vs commercial), integration, synergy, convergence, and regulation and its consequences.
-- C1 closes: Component 1 is complete and graded; you log one evidenced production target for Semester 2.
-- C2 opens: the case-study document opens Fri 12-11 from a template — a case study you will still be using in May — updated through L13 and fed by your homework entries.
+- Institutions: ownership and funding (PSB vs commercial), integration, synergy, convergence, regulation and its consequences.
+- C1 closes: Component 1 is complete and graded, with one evidenced production target each for Semester 2.
+- C2 opens: the case-study document is opened Fri 12-11 from a template, "a case study you will still be using in May", updated live through L13 and fed by your homework entries.

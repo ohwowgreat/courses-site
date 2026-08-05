@@ -14,23 +14,25 @@ modified: 2026-07-25
 
 What we take for reality may be appearances, and there may be a level of reality that appearances imperfectly reflect.
 
-## Quote
+## Quote to put on the board
 
 > They would believe that the shadows of the objects were the truth.
 
-## How the course uses him
+## How the Oxbridge course uses him
 
-The cave is used to force [[concepts/the-ontological-turn|the ontological turn]]. The productive question is not whether Plato is right but **whether our situation is the same as the prisoners' or different, and what would count as evidence either way.**
+The cave forces **[[concepts/the-ontological-turn|the ontological turn]]**.
 
-Three questions carry the session:
+The productive question is not whether Plato is right. It is whether our situation is the same as the prisoners' or different, and what would count as evidence either way.
+
+Three questions carry the session. The third is the one to take most seriously:
 
 - Is our situation the same as theirs, or different?
-- You have never seen a perfect circle, only approximately circular things — where does the knowledge of a perfect circle come from?
-- **Is the prisoner who leaves better off than the ones who stay?** ("The prisoner who leaves is worse off, because he cannot go back" — this is Plato's own worry, and worth taking seriously.)
+- You have never seen a perfect circle, only approximately circular things. Where does the knowledge of a perfect circle come from?
+- **Is the prisoner who leaves better off than the ones who stay?** One answer: the prisoner who leaves is worse off, because he cannot go back. Take this seriously. It is Plato's own worry.
 
 ## Where he returns
 
-[[classes/oxbridge/lesson-plans/oxbridge-w09-is-the-human-and-machine-line-essential-or-contingent|W09]] and [[classes/oxbridge/lesson-plans/oxbridge-w14-is-a-view-from-nowhere-possible|W14]] both use the W04 question as the structural template: **is the difference essential, or is it just where we currently stand?** The same argument runs through these topics.
+[[classes/oxbridge/lesson-plans/oxbridge-w09-is-the-human-and-machine-line-essential-or-contingent|W09]] and [[classes/oxbridge/lesson-plans/oxbridge-w14-is-a-view-from-nowhere-possible|W14]] both name the W04 question as the structural template: **is the difference essential, or is it just where we currently stand?** Naming the repetition is what turns a sequence of topics into one argument.
 
 ## Set text
 

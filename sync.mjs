@@ -263,7 +263,9 @@ const FIGURES = {
     { slugs: ["observation"], anchor: /One long observed study|the spine of AO1|Stage 1 page/i },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s1-lesson-05-recording-pages-and-a1.md": [
-    { slugs: ["drawn-from-life"], anchor: /pages an examiner could read/i },
+    // "pages an examiner…" broke when prompt v3 started bolding **recording
+    // pages** mid-phrase; anchor on the bold-free tail instead.
+    { slugs: ["drawn-from-life"], anchor: /examiner could read/i },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s1-lesson-06-media-exploration.md": [
     {
@@ -618,8 +620,10 @@ const FIGURES = {
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-04-genre-and-camera.md": [
     {
+      // The v3 restructure dropped the skulls-and-candles starter; the pair now
+      // illustrates Neale directly (its captions say so).
       slugs: ["vanitas-schaak", "vanitas-schoor"],
-      anchor: /that recognition is genre|belong together/i,
+      anchor: /difference in repetition|repetition and difference/i,
     },
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock.md": [
@@ -634,8 +638,10 @@ const FIGURES = {
   "classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint.md":
     [
       {
+        // v3 writes the protocol as prose ("describe, question, suggest"), not
+        // the arrow chain the old anchor matched.
         slugs: ["hampton-geography"],
-        anchor: /describe → question → suggest|audited post by post/i,
+        anchor: /describe, question, suggest|audited post by post/i,
       },
     ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product.md":
@@ -740,7 +746,7 @@ function figureBlock(slugs, depth) {
 // figure), otherwise after the containing paragraph; no match → end of the body.
 // A download line of handout PDFs, inserted after the paragraph/table matching
 // `anchor` (falling back to end of body), mirroring insertFigures.
-function insertHandouts(body, entry, depth) {
+function insertHandouts(body, entry, depth, rel) {
   const prefix = "../".repeat(depth)
   const links = entry.items
     // Extension defaults to pdf, which every handout was until the 9607 C1 study
@@ -757,7 +763,10 @@ function insertHandouts(body, entry, depth) {
   // thing before a heading, which the 9607 A3 study guide is.
   const html = `<p class="handouts"><strong>${title}</strong> ${links}</p>\n\n`
   const at = body.search(entry.anchor)
-  if (at === -1) return body.trimEnd() + "\n\n" + html
+  if (at === -1) {
+    if (rel) console.log(`anchor fallback: ${rel} — handouts (${entry.dir})`)
+    return body.trimEnd() + "\n\n" + html
+  }
   const paraEnd = body.indexOf("\n\n", at)
   const pos = paraEnd === -1 ? -1 : paraEnd + 2
   return pos === -1
@@ -805,7 +814,7 @@ const CHECKLISTS = {
 
 // Mirrors insertHandouts: inserted after the paragraph matching `anchor`, falling back to
 // the end of the body if the anchor has drifted.
-function insertChecklist(body, entry) {
+function insertChecklist(body, entry, rel) {
   // The .ct wrapper is load-bearing: the <li> is a flex container, so every one of its
   // children becomes a column. Without it the sub-line is a sibling of the label and
   // sits beside it rather than under it.
@@ -816,10 +825,44 @@ function insertChecklist(body, entry) {
     .join("\n")
   const md = `${entry.lead}\n\n${list}\n\n`
   const at = body.search(entry.anchor)
-  if (at === -1) return body.trimEnd() + "\n\n" + md
+  if (at === -1) {
+    if (rel) console.log(`anchor fallback: ${rel} — checklist`)
+    return body.trimEnd() + "\n\n" + md
+  }
   const paraEnd = body.indexOf("\n\n", at)
   const pos = paraEnd === -1 ? -1 : paraEnd + 2
   return pos === -1 ? body.trimEnd() + "\n\n" + md : body.slice(0, pos) + md + body.slice(pos)
+}
+
+// Practice sections (2026-08-03): a vault-authored "## Practice" H2 on lesson
+// pages — self-check quizzes and replay activities — travels around the model,
+// not through it. Answer keys must survive verbatim, and a quiz edit must not
+// invalidate the page's cached rewrite (the cache hashes only the body the
+// model sees). Split out here in phase 1, re-appended transformed in phase 3.
+function splitPractice(body) {
+  const m = body.match(/^## Practice\s*$[\s\S]*?(?=^## |(?![\s\S]))/m)
+  if (!m) return { body, practice: "" }
+  const rest =
+    (body.slice(0, m.index) + body.slice(m.index + m[0].length))
+      .replace(/\n{3,}/g, "\n\n")
+      .trimEnd() + "\n"
+  return { body: rest, practice: m[0].trimEnd() + "\n" }
+}
+
+// "> **Answer:** …" blockquotes become tap-to-reveal answers: details/summary
+// only, which survives the static Quartz build with no script. The blank lines
+// inside the block are load-bearing — the opening <details> tag's HTML block
+// ends at the first blank line, so the answer text after it is parsed as
+// markdown rather than shipping as literal text inside raw HTML. (Answer bodies
+// still must not carry [[wikilinks]]-dependent meaning-critical links; keep
+// links in the question lines, where the transformer sees them.)
+function practiceDetails(md) {
+  return md.replace(/(?:^> .*(?:\n|$))+/gm, (block) => {
+    const inner = block.replace(/^> ?/gm, "")
+    const m = inner.match(/^\*\*Answer:\*\*\s*([\s\S]*)$/)
+    if (!m) return block
+    return `<details class="reveal"><summary>Show answer</summary>\n\n${m[1].trimEnd()}\n\n</details>\n`
+  })
 }
 
 // The deck download line goes directly above the page's first H2 — under the H1
@@ -832,13 +875,29 @@ function insertDeckLine(body, html) {
   return body.slice(0, at) + html + "\n" + body.slice(at)
 }
 
-function insertFigures(body, entries, depth) {
+function insertFigures(body, entries, depth, rel) {
   for (const entry of entries) {
     const html = figureBlock(entry.slugs, depth)
     if (!html) continue
     const at = body.search(entry.anchor)
     if (at === -1) {
-      body = body.trimEnd() + "\n\n" + html
+      // Anchor drift. Most drifted anchors were Goal-paragraph phrases that the
+      // lesson restructure (prompt v3) folded into "## Overview", so a missed
+      // figure lands after the Overview paragraph — the top-of-page position
+      // the studio pilot validated — rather than at the page foot. End of body
+      // stays the last resort for pages with no Overview. Advisory log, no ⚠:
+      // the diff still shows where each figure settled.
+      const ov = body.match(/^## Overview[ \t]*\n+/m)
+      const ovEnd = ov ? body.indexOf("\n\n", ov.index + ov[0].length) : -1
+      if (rel)
+        console.log(
+          `anchor fallback: ${rel} — figure ${entry.slugs.join(", ")}` +
+            (ovEnd !== -1 ? " (after Overview)" : " (end of body)"),
+        )
+      body =
+        ovEnd !== -1
+          ? body.slice(0, ovEnd + 2) + "\n" + html + body.slice(ovEnd + 2)
+          : body.trimEnd() + "\n\n" + html
       continue
     }
     const lineStart = body.lastIndexOf("\n", at) + 1
@@ -877,6 +936,12 @@ const DROP_PAGES = new Set([
   // Provenance analysis, teacher-facing in its entirety: which theorists are
   // Cambridge's vs the centre's, what the vault holds no readings for (2026-07-20).
   "analyses/9607-theory-provenance.md",
+  // The S1 engagement layer's own apparatus (both 2026-08-03): the rollout
+  // record, and the routine rulebook with its print specs and planted-card
+  // teacher keys. What students need of each routine is inline on the lesson
+  // pages; links here degrade to plain text via derefDropped.
+  "analyses/9607-engagement-revision-plan.md",
+  "classes/media-studies/9607-activity-routines.md",
   // Planning history preserved from the deleted courses-dashboard.md (2026-07-29):
   // build waves, congestion risks, resolved decisions — teacher-facing throughout.
   "analyses/summer-2026-buildout.md",
@@ -1010,6 +1075,22 @@ function dropTableColumns(body, dropHeaders) {
   return out.join("\n")
 }
 
+// Exam integrity, not privacy (2026-08-04): two lesson bodies name the sealed
+// Cambridge papers used for the L15 rehearsal and the End-of-Term sitting. On
+// the student site a named paper is a watchable extract and a readable mark
+// scheme, and the sitting depends on the extract being unseen. The vault keeps
+// the identities; the site gets the fact without them. Applied in phase 1, so
+// the model never sees the names. reframe.mjs carries matching LEAK_MARKERS in
+// case a future vault edit reintroduces them in a phrasing these regexes miss.
+const SEALED_PAPERS = {
+  "classes/media-studies/lesson-plans/9607-s1-lesson-15-exam-rehearsal.md": [
+    [/the \*Your Honor\* rehearsal paper/g, "a sealed past paper"],
+  ],
+  "classes/media-studies/lesson-plans/9607-s1-lesson-16-end-of-term-exam-and-return.md": [
+    [/The paper: June 20\d\d\/\d\d \(\*Servant\*\)/g, "The paper stays sealed until the sitting"],
+  ],
+}
+
 // The whole-paragraph and sentence-level internal bits that survive the section and
 // column strips — announcement scheduling, timetable contingencies, planning stamps.
 // Matched by distinctive substrings so the surrounding student-facing prose stays.
@@ -1073,9 +1154,12 @@ function stripStamp(body) {
       .replace(/\s*\((?:re-)?ingested (?:20\d\d-)?\d\d-\d\d[^)]*\)/gi, "")
       .replace(/\s*Ingested 20\d\d-\d\d-\d\d\./g, "")
       // Empty bold left when the stamp was the whole bold span: "**** — a studio…" →
-      // "A studio…"; bare "****" → "".
-      .replace(/\*\*\s*\*\*\s*—\s*([a-z])/g, (_, ch) => ch.toUpperCase())
-      .replace(/\*\*\s*\*\*/g, "")
+      // "A studio…"; bare "****" → "". Four contiguous asterisks only: a spaced
+      // "** **" is two legitimate adjacent bold spans ("**Answer:** **Technical**"
+      // in the practice quizzes), and stamp removal always consumes its leading
+      // whitespace, so real residue never carries an inner space.
+      .replace(/\*\*\*\*\s*—\s*([a-z])/g, (_, ch) => ch.toUpperCase())
+      .replace(/\*\*\*\*/g, "")
       .replace(/[ \t]{2,}/g, " ")
       .replace(/[ \t]+([.,;])/g, "$1")
   )
@@ -1253,6 +1337,7 @@ for (const rel of published) {
   body = stripStamp(body)
   // The framework page explains the one-week notice policy — student-useful, keep it.
   if (rel !== "shared/bnds-assessment-framework.md") body = stripAnnouncements(body)
+  for (const [re, sub] of SEALED_PAPERS[rel] ?? []) body = body.replace(re, sub)
   if (body.length !== before) strippedCount++
 
   // The Bases plugin embed can't render outside Obsidian.
@@ -1261,7 +1346,12 @@ for (const rel of published) {
   body = derefDropped(body, publishedTargets)
   body = body.replace(/\n{3,}/g, "\n\n").trimEnd() + "\n"
 
-  pages.push({ rel, frontmatter, body })
+  // After every deterministic clean, so the practice text got the same
+  // treatment (links dereferenced, stamps stripped) as the rest of the page.
+  let practice = ""
+  if (rel.includes("lesson-plans/")) ({ body, practice } = splitPractice(body))
+
+  pages.push({ rel, frontmatter, body, practice })
 }
 
 // ── Phase 2: student-voice reframe ──────────────────────────────────────────
@@ -1359,7 +1449,7 @@ const decks = await syncDecks({
 
 // Every path this run writes, so anything else in content/ can be pruned at the end.
 const written = new Set()
-for (const { rel, frontmatter: fm, body: cleaned } of pages) {
+for (const { rel, frontmatter: fm, body: cleaned, practice } of pages) {
   let body = cleaned
   let frontmatter = fm
 
@@ -1376,12 +1466,16 @@ for (const { rel, frontmatter: fm, body: cleaned } of pages) {
 
   const depth = rel.split("/").length - 1
   // Figures first: their anchors must match page content, not the hero's caption.
-  if (FIGURES[rel]) body = insertFigures(body, FIGURES[rel], depth)
-  if (HANDOUTS[rel]) body = insertHandouts(body, HANDOUTS[rel], depth)
-  if (CHECKLISTS[rel]) body = insertChecklist(body, CHECKLISTS[rel])
-  if (CITATIONS[rel]) body = insertCitations(body, CITATIONS[rel])
+  if (FIGURES[rel]) body = insertFigures(body, FIGURES[rel], depth, rel)
+  if (HANDOUTS[rel]) body = insertHandouts(body, HANDOUTS[rel], depth, rel)
+  if (CHECKLISTS[rel]) body = insertChecklist(body, CHECKLISTS[rel], rel)
+  if (CITATIONS[rel]) body = insertCitations(body, CITATIONS[rel], rel)
   const deck = decks.byLesson.get(rel)
   if (deck) body = insertDeckLine(body, deckLine(deck, depth))
+  // After the figure inserts, so an unmatched figure's end-of-body fallback
+  // lands above Practice, which stays the page's last section.
+  if (practice)
+    body = body.trimEnd() + "\n\n" + practiceDetails(aliasBareLinks(practice, studentTitles))
   // Last of the body transforms: insertHandouts anchors on "| Unit |" and
   // insertDeckLine on the first "## ", and both must still see the page as the vault
   // wrote it.
@@ -1440,7 +1534,7 @@ const folderIndexes = {
   },
   concepts: {
     title: "Concepts",
-    body: "Concept pages used across Media Studies — the place to start when revising.",
+    body: "Concept pages used across Media Studies: the place to start when revising.",
   },
   entities: {
     title: "Theorists",
@@ -1455,7 +1549,7 @@ const folderIndexes = {
     body:
       "The slides shown in class. Most are lesson decks, linked from the lesson " +
       "page they belong to; the studio courses teach in doubles and deck at course " +
-      "level instead, so theirs — the introductions and the assignment briefs — are " +
+      "level instead, so theirs, the introductions and the assignment briefs, are " +
       "linked from the course overview. This folder also carries the " +
       "[[decks/credits|image credits]] for every work they reproduce.",
   },
@@ -1475,7 +1569,7 @@ for (const c of Object.values(COURSES)) {
   }
   folderIndexes[`${c.dir}/assessments`] = {
     title: `${c.name} · Assessments`,
-    body: `The ${c.name} assessment register — every graded item with its date and format.`,
+    body: `The ${c.name} assessment register: every graded item with its date and format.`,
   }
 }
 for (const [dir, page] of Object.entries(folderIndexes)) {

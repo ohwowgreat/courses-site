@@ -9,34 +9,42 @@ modified: 2026-07-20
 ---
 # Narrative
 
-At AS, narrative is mostly about **expectation** — how an opening plants enigmas, establishes roles, and sets a trajectory. It is not a separate key concept; it sits inside [[concepts/media-language|Media Language]] and appears in both the C1 film-opening brief and Component 2 Section A.
+At AS, narrative is mostly about **expectation**: how an opening plants enigmas, establishes roles, and sets a trajectory. It is not a separate key concept. It sits inside [[concepts/media-language|Media Language]] and appears in both the C1 film-opening brief and Component 2 Section A.
 
-## The theory you use
+## What Cambridge says
 
-No single narrative-structure model is prescribed. The only narrative apparatus Cambridge names is [[entities/roland-barthes|Roland Barthes]]' codes: the C1 film work refers to "Roland Barthes' 5 Narrative Codes," though the codes themselves are not listed for you.
+Cambridge says little about narrative, and it helps to know how little.
 
-You will also do narrative *analysis* through editing, without theory attached:
-- a narrative-mapping task (linear vs non-linear sequencing, flashbacks, parallel plotlines, cliffhanger placement)
-- an ellipsis/time-construction task ("How does editing construct narrative clarity or confusion?")
+The syllabus mentions narrative twice: media language "develops as genre", and genre is "dynamic and historically relative" (p.14). At A Level it adds "the relationship between postmodernism and narrative" (p.18).
 
-## Enigma
+The Component 2 guidance also mentions narrative twice: openings "set up some **narrative expectations**", and it points to [[entities/roland-barthes|Roland Barthes]] and "narrative codes".
 
-The strongest narrative idea in the course is the **enigma**, and it comes through production as much as analysis.
+No narrative-structure model is named in any Cambridge document. There is no Todorov, no Propp, no Lévi-Strauss, no three-act structure, no equilibrium/disequilibrium. Barthes' codes are the only narrative apparatus Cambridge offers. The C1 film brief names "Roland Barthes' 5 Narrative Codes", though the codes themselves are never listed.
 
-For your C1 story groundwork you should be able to explain what sort of film this is; who the main character is; what the central conflict is likely to be; and **the questions or enigmas the opening creates** — what information is given, what is withheld, what clues are provided. A C1 research prompt asks: **how does the film establish an enigma from the outset?**
+The narrative-analysis work comes without theory. There is a narrative-mapping task: linear vs non-linear sequencing, flashbacks, parallel plotlines, cliffhanger placement. There is an ellipsis and time-construction task: "How does editing construct narrative clarity or confusion?" Structure is taught through editing, and the models come from class.
 
-So enigma works twice over — as something to analyze in real openings, and as something to construct in your own. That double role makes it the highest-value narrative idea in the AS year.
+## Where it does appear: enigma
 
-## Narrative in Semester 1
+The strongest narrative content in the Cambridge sources is the **enigma**, and it comes through production rather than theory.
 
-Two lessons teach a fuller narrative toolkit:
+For C1 story groundwork you "should be able to explain what sort of film this is; who the main character is; what the central conflict is likely to be; the questions or enigmas that the opening creates, that is, what information is given? What is withheld? What clues are provided?"
 
-**[[classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock|L05]]** — Todorov's equilibrium, then Propp's character functions, each on a single day, applied straight to your own C1 plans ("where is the disturbance in your opening"). Success criterion: you map characters by function rather than identity and name where Propp strains.
+The C1 research prompts ask: "how does the film establish an enigma from the outset?"
 
-**[[classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis|L06]]** — Monday and Tuesday put Propp and Todorov under load on real texts, deliberately hunting for where the theory strains, because strain is what a top-band answer discusses. Propp on a trailer, Todorov across an episode; both days end by logging where the theory failed to fit and why that is analytically interesting.
+So enigma is examined twice: as something to analyze in real openings, and as something to construct in your own opening. That double duty makes it the highest-value narrative idea in the AS year.
 
-Propp and Todorov are a chosen framework, not a prescribed one. Examiners credit the *application*, not the name: the mark comes from showing where a model illuminates a text and where it does not.
+## The BNDS layer
 
-## Narrative subversion
+The Semester 1 scheme teaches a fuller narrative toolkit than Cambridge provides, across two lessons.
 
-Challenging and/or subverting conventions is significant to narrative work, and it is a place where you will build the analysis yourself rather than lean on a set model.
+[[classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock|L05]] teaches **Todorov's equilibrium** and then **Propp's character functions**, each on a single day. You apply them straight to your own C1 plans: where is the disturbance in your opening? You should be able to map characters by function rather than identity, and name where Propp strains.
+
+[[classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis|L06]] puts Propp and Todorov under load on real texts: Propp on a trailer, Todorov across an episode. You hunt for where the theory strains, because strain is what a top-band answer discusses. Each day ends by logging where the theory failed to fit and why that is analytically interesting.
+
+Propp and Todorov are not prescribed by Cambridge. The syllabus requires "key theories of media studies" (p.13) without naming any, and Cambridge states it does "not prioritise one theory or approach over another" (p.18). Know that you are using a chosen framework, not a required one. Examiners credit the application, not the name.
+
+Since no model is prescribed, the mark cannot come from reciting one. It comes from showing where a model illuminates a text and where it does not.
+
+## What to watch
+
+The syllabus lists "the significance of challenging and/or subverting conventions" (p.14), but its own teaching support does not cover it, and the word "subvert" does not appear there. Narrative subversion is one place where the BNDS material builds from scratch.

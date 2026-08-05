@@ -38,11 +38,11 @@ This assessment asks you to show that you can:
 
 ## The task
 
-An in-class essay on the unit's material: the table as a moral space, Heda and the image of work, Rosler, and the artists who do something the paintings could not.
+You write an in-class essay on the unit's material: the table as a moral space, Heda and the image of work, Rosler, and the artists who do something the paintings could not.
 
 You make **one claim** and argue it from the pictures.
 
-The difficulty here is that **the subject invites you to argue from ethics.** Food, class, labor and who is absent from the table are all questions with moral answers available before you have looked at anything. An essay that arrives at the right ethical position without going through the pictures has not done the work this course teaches.
+This essay is difficult, and it comes third rather than first for one reason: **the subject invites you to argue from ethics.** Food, class, labor and who is absent from the table all have moral answers ready before you have looked at anything. An essay that reaches the right ethical position without going through the pictures has not done the work this course teaches.
 
 So the ethics has to be **found in the picture**, in what it selected, arranged, lit and left out. Not brought to it.
 
@@ -58,7 +58,7 @@ So the ethics has to be **found in the picture**, in what it selected, arranged,
 
 ## Rubric
 
-Four criteria, equally weighted. The third is the one that distinguishes this essay from A2.
+Four criteria, equally weighted. The third is the one that sets this essay apart from A2.
 
 | | **The claim** | **Evidence from the pictures** | **From the pictures, not the ethics** | **Precision of language** |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ Under the [[shared/bnds-assessment-framework|BNDS framework]] this becomes a cur
 
 ## After the sit
 
-The review protocol: **the criteria**, **ten minutes of silence**, **one named strength**, **one move.**
+The course's review protocol: **the criteria**, **ten minutes of silence**, **one named strength**, **one move.**
 
-Marked back within five working days. This unit hands directly to Unit 4, which takes the same question into mediation, so what this essay reveals is immediately usable.
+You get your mark back within five working days. This unit hands directly to Unit 4, which takes the same question into mediation, so what this essay reveals is immediately usable.
 
 ## How to prepare
 

@@ -17,7 +17,7 @@ modified: 2026-07-26
 
 # Lesson 06: Framing and Viewpoint
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography|Unit 2]] · U2·L1 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing|L05]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-07-light-shadow-and-the-series-theme|L07]] →
+[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography|Unit 2]] · U2·L1 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing|Lesson 05]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-07-light-shadow-and-the-series-theme|Lesson 07]] →
 
 ## At a glance
 
@@ -49,26 +49,46 @@ modified: 2026-07-26
 </figure>
 </div>
 
-## Objectives
+## Overview
 
-By the end of this lesson, you can:
+This lesson opens Unit 2 and moves you from the pencil to the camera. You arrive with your twenty HW1 photographs and learn that the real decisions happen before the shutter: where you stand, what goes in the frame, what you leave out. You produce two things today: a best-three selection from HW1 with written reasons, and a five-viewpoint circuit shoot of one subject with three selects. Those circuit frames feed CS2 in W9.
 
-1. Explain that the decisions happen before the shutter: where you stood, what is in the frame, what was left out
-2. Shoot one subject from five viewpoints and select three with written reasons
-3. Apply the rule of thirds, and say when breaking it was deliberate
+## The ideas
 
-## Goal
+### Shoot many, keep few, know why
 
-The unit's motto is **"shoot many, keep few, know why."** You arrive with twenty photographs of one subject. The interesting decisions happen *before* the shutter — where you stood, what you put in the frame, what you left out — and choosing three from twenty is a skill with reasons, not a vibe.
+The unit's motto is **"shoot many, keep few, know why."** You take a lot of photographs, keep only the strong ones, and can say why you kept each one. Choosing three from twenty is a skill with reasons, not a feeling. You practice it first on your own HW1 set: pick your best three and your worst one, and explain both, "I kept this because...", "This one fails because...".
 
-## How it runs
+### The framing grid
 
-- **Warm-up (10 min)** — cameras out: **any camera counts — phone, compact, DSLR** — and turn the framing grid **on** (grid overlay on phones, viewfinder grid on cameras; this is a standing habit for the unit). Copy the vocabulary list into your sketchbook — terms 1–13 (elements, principles, composition). Two-minute match game: term to photo on screen.
-- **HW1 harvest (20 min)** — open your twenty break photos. Choose your **best three and your worst one**, then explain both choices to a partner with the frames: "I kept this because…" / "This one fails because…". Selection is the unit's core skill.
-- **Teach (15 min)** — framing and viewpoint from the *Seeing Photographs* exemplars: **rule of thirds**, balance (symmetrical vs asymmetrical), horizon placement and tilt, **vantage point**, figure–ground. Each concept is one image and one question ("what did the photographer decide here?").
-- **Viewpoint circuit (30 min)** — one subject per pair, five stations: **eye level · high · low · close · far-with-context**. Minimum fifteen frames each. The subject never moves; only the photographer does — viewpoint alone changes the picture's meaning.
-- **Close (15 min)** — select three from the circuit, post to MB with a one-line reason each; add thumbnail sketches or printed strips of your selects with notes to your sketchbook. Homework stated.
+Any camera counts: phone, compact, or DSLR. Turn on the framing grid, the grid overlay on phones or the viewfinder grid on cameras. Using it is the unit's first standing habit.
+
+### Framing and viewpoint
+
+**Framing** is what you include in the picture and what you cut out. **Viewpoint** is where you stand and the angle you shoot from. The subject can stay still while you move, and the picture's meaning changes.
+
+- **Rule of thirds.** Imagine the frame split into three across and three down. Placing your subject or the horizon on those lines often makes a stronger picture. Breaking the rule can also work, as long as you break it on purpose.
+- **Balance.** A frame can be symmetrical, with weight even on both sides, or asymmetrical, with weight uneven. Both are choices.
+- **Horizon placement and tilt.** Where you put the horizon line, and whether you keep it level or tilt it, changes the feel of the shot.
+- **Vantage point.** The height and angle you shoot from. The circuit uses five: eye level, high, low, close, and far-with-context.
+- **Figure–ground.** How the main subject (the figure) stands out against its background (the ground).
+
+For each idea, ask the same question of a photograph: "what did the photographer decide here?"
+
+## Day by day
+
+- **Wed 10-14.** Unit 2 opens. HW1 is due and checked. Turn on your framing grid and add the unit vocabulary (terms 1–13: elements, principles, composition) to your sketchbook. Choose your best three and worst one from HW1 and explain each to a partner. Learn framing and viewpoint from the *Seeing Photographs* exemplars. Shoot one subject from five viewpoints (eye level, high, low, close, far-with-context), at least fifteen frames, then select three and post them to MB with a one-line reason each. Homework: shoot ten frames placed on the thirds and five that deliberately break them, write one line on which felt better, and post to MB.
 
 ## Assessment
 
-**HW1** (≥20 photos, one subject, varied viewpoint/light — set 09-30) is due and checked today; marked for looking, not luck. Today's circuit frames and the thirds homework feed **CS2** (W9). Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+**HW1** (at least 20 photos, one subject, varied viewpoint and light, set 09-30) is due and checked today. It is marked for looking, not luck. Today's circuit frames and the thirds homework feed **CS2** (W9). Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+
+## Review
+
+Check you can:
+
+- Explain that the key decisions happen before the shutter: where you stood, what is in the frame, what you left out.
+- Apply the **rule of thirds**, and say when breaking it was deliberate.
+- Shoot one subject from five viewpoints and select three with written reasons.
+- Name and use **framing**, **viewpoint**, **vantage point**, **balance**, and **figure–ground**.
+- State the motto **"shoot many, keep few, know why"** and use it to select strong frames.

@@ -22,11 +22,18 @@ const MODEL = process.env.REFRAME_MODEL || "claude-opus-4-8"
 
 // Bump when SYSTEM changes — invalidates every cache entry, forcing a full
 // re-run on the next sync.
-const PROMPT_VERSION = 1
+const PROMPT_VERSION = 3
 
 const CONCURRENCY = 4
 
 const SYSTEM = `You rewrite one page of a teacher's internal course-planning wiki into the version that belongs on the public, student-facing course website. The site serves high-school students at BNDS, many of whom read English as a second language: write plainly and directly, addressing the student as "you" where natural, or describing the course neutrally.
+
+House voice, on every page:
+- Short sentences. Plain words. Prefer the everyday word, except for course vocabulary, which must appear by its exact name.
+- Never write an em dash (—) in prose. Use a comma, a colon, or a new sentence instead. Hyphens in compound words and en dashes inside ranges (pp. 2–15, 2026–27) are fine, and em dashes inside tables are part of the data and stay.
+- Never write an exclamation mark.
+- US spelling throughout (color, modeled, analyze, catalog), except inside verbatim quotations and official names ("Learning Behaviour", the "A-Level Programme").
+- When the page teaches or uses a named concept, term, theorist, or mechanism, state the name explicitly, bold at its first definition. Never gesture at an idea ("the concept from last week") without naming it.
 
 Keep every fact a student can act on, exactly as stated: dates, weekdays, times, week numbers, assessment codes and names (A1, CS2, SB1, HW1, EoT, the Final), formats, word counts, grading scales and weights, submission requirements, session-by-session content, unit structure, readings, and policies. Never invent anything: no new dates, requirements, links, or facts — and no encouragement, cheerleading, or filler the source does not contain.
 
@@ -41,12 +48,23 @@ Reframe what survives — do not merely delete. Prose written for the planner be
 
 When the source marks future dates as provisional or projected, keep the dates and add one plain sentence that they may shift when the school publishes the calendar for that period; drop the operational instructions around them. When the source records a genuinely unresolved question that affects students (an unconfirmed date, a unit that may run in one of two forms), state what is decided and note briefly that the rest will be confirmed in class — never present it as teacher deliberation.
 
+Lesson pages — any page whose path contains "lesson-plans/" — are restructured, not just re-voiced. The source is the teacher's run-of-show; the student version is a study page with four jobs: say what the lesson is, teach what it taught, support review afterward, and show the week's shape. Output lesson pages in exactly this order:
+1. The H1 line, then the breadcrumb line under it, kept as written — except that a bare lesson code used as a link alias ("L02") becomes "Lesson 02". Then "## At a glance" with its table, kept exactly as written.
+2. "## Overview" — one short prose paragraph, no bullets: what the lesson covers, what you produce (the deliverable, with its date), and what it feeds later. Fold the source's "Goal" into this, written to the student.
+3. "## The ideas" — the heart of the page, usually its longest section. Every concept, term, distinction, mechanism, and named example the lesson teaches, restated as information to learn from directly rather than as a schedule of classroom moves: each term in bold where it is defined, a plain definition, then the example or evidence the lesson uses for it. Group with "###" subheadings when the lesson teaches more than one cluster. Everything teachable inside the source's session bullets belongs here; classroom mechanics (timings, grouping, board work, who collects what) do not.
+4. "## Day by day" — one bullet per teaching day: "- **Tue 09-01.** " followed by one or two sentences saying what happens that day and any homework set. Keep every date, deadline, and homework fact. No minute counts, no materials logistics.
+5. "## Assessment" — keep as the source has it (table and register link), reworded only where the voice rules require.
+6. "## Review" — "Check you can:" followed by a short checklist. Each item is one sentence, starts with a verb, and names its concept or term outright. Derive the items from the source's objectives and taught content; add nothing new. This is the page's last section.
+Do not output the source's "Objectives", "Goal", or "How it runs" headings on lesson pages; their content is absorbed into the structure above, and no student-actionable fact may be lost in the move. Where the source marks material as a spoken aside or a classroom bridge (for example Chinese-media comparisons), keep it as a brief aside at most; never promote it into a core example.
+
+Every other page keeps its existing structure: rewrite the voice, never the shape.
+
 Formatting rules:
 - Keep the H1 title line exactly as written.
-- Keep [[wikilinks]] exactly as they appear in the source — same target, same alias, including the [[path\\|alias]] form inside tables. Never invent a link that is not in the source.
+- Keep [[wikilinks]] exactly as they appear in the source — same target, same alias (one exception: lesson-code aliases in the breadcrumb line), including the [[path\\|alias]] form inside tables. Never invent a link that is not in the source. When restructuring moves a linked phrase, the link moves with it intact.
 - Keep tables that carry student-facing facts; drop rows or columns that are teacher-only.
 - Keep Obsidian callouts (lines starting "> [!note]", "> [!important]", etc.) only where their content survives; retitle them for students if needed.
-- Keep the total length the same or shorter than the source.
+- Keep the total length the same or shorter than the source; a restructured lesson page may run slightly longer only where stating an idea plainly needs the room. Never pad.
 - Output only the rewritten markdown body — no preamble, no code fences, no commentary about what you changed.`
 
 // Teacher-voice fragments that must not survive a rewrite. Checked against
@@ -79,6 +97,13 @@ const LEAK_MARKERS = [
   // legitimate course prose ("Component 1-facing", "industry-facing").
   /student-facing/i,
   /teacher-facing/i,
+  // Sealed exam papers (2026-08-04): sync.mjs redacts the L15/L16 paper
+  // identities before the model sees them (SEALED_PAPERS). These fire only if
+  // a future vault edit reintroduces a name in a phrasing that redaction
+  // misses — the sitting depends on the extract staying unseen. Title-cased,
+  // so studio prose about a lowercase "servant" cannot trip them.
+  /\*Your Honor\*/,
+  /\bServant\b/,
 ]
 
 const hashOf = (body) =>
@@ -99,6 +124,23 @@ function problemsIn(rel, source, output) {
   const allowed = linkTargets(source)
   for (const target of linkTargets(output)) {
     if (!allowed.has(target)) problems.push(`invented wikilink target: [[${target}]]`)
+  }
+  // Style tripwires (prompt v2): the site voice bans em dashes and exclamation
+  // marks in prose. Scoped to lines the model writes as prose — headings keep
+  // their vault titles, table rows use "—" as the At-a-glance qualifier
+  // separator, and blockquotes may quote sources verbatim, so all three pass.
+  let styleHits = 0
+  for (const line of output.split("\n")) {
+    if (styleHits >= 5) break
+    if (/^\s*[#>]/.test(line) || line.includes("|")) continue
+    const clip = `"${line.trim().slice(0, 80)}"`
+    if (line.includes("—")) {
+      problems.push(`em dash in prose (use a comma, colon, or new sentence): ${clip}`)
+      styleHits++
+    } else if (line.replaceAll("![", "").includes("!")) {
+      problems.push(`exclamation mark in prose: ${clip}`)
+      styleHits++
+    }
   }
   return problems
 }
@@ -149,13 +191,19 @@ function defaultCall(client) {
         `\n\nYour previous rewrite had these problems — produce a corrected rewrite:\n` +
         fixNote.map((p) => `- ${p}`).join("\n")
     }
-    const res = await client.messages.create({
-      model: MODEL,
-      max_tokens: 16000,
-      thinking: { type: "adaptive" },
-      system: SYSTEM,
-      messages: [{ role: "user", content: user }],
-    })
+    // Streamed because the SDK requires it at this max_tokens; .finalMessage()
+    // returns the same Message shape create() did. 32k, not 16k: adaptive
+    // thinking counts toward the cap, and the 9607 resource library (the
+    // longest page) hit 16k on the v3 rollout.
+    const res = await client.messages
+      .stream({
+        model: MODEL,
+        max_tokens: 32000,
+        thinking: { type: "adaptive" },
+        system: SYSTEM,
+        messages: [{ role: "user", content: user }],
+      })
+      .finalMessage()
     if (res.stop_reason === "refusal")
       throw new Error(`model refused (${res.stop_details?.category ?? "no category"})`)
     if (res.stop_reason === "max_tokens") throw new Error("rewrite hit max_tokens")
@@ -175,16 +223,32 @@ export async function reframeAll(pages, opts) {
   const { cachePath, disabled = false, log = console.log } = opts
   const cache = await loadCache(cachePath)
 
+  // REFRAME_PILOT=<regex over page rels>: stage a prompt change on a few pages
+  // without re-rewriting the whole site. Pages matching the regex rewrite (and
+  // cache) under the current prompt; any other page whose hash misses falls
+  // back to its existing cache entry verbatim — no model call, no content/
+  // diff — and keeps its old entry, so the eventual full run still re-rewrites
+  // it. Manual runs only; auto-sync never sets it.
+  const pilot = process.env.REFRAME_PILOT ? new RegExp(process.env.REFRAME_PILOT) : null
+
   const hits = []
   const misses = []
+  const held = []
   for (const page of pages) {
     const hash = hashOf(page.body)
     const entry = cache.pages[page.rel]
     if (entry && entry.hash === hash) hits.push({ page, hash, body: entry.body })
+    else if (pilot && !pilot.test(page.rel) && entry) held.push({ page, body: entry.body })
     else misses.push({ page, hash })
   }
 
   for (const { page, body } of hits) page.body = body
+  for (const { page, body } of held) page.body = body
+  if (held.length)
+    log(
+      `reframe: pilot (${process.env.REFRAME_PILOT}) — ${held.length} non-pilot page(s) ` +
+        `reusing their prior rewrites; the full re-run happens on the next normal sync`,
+    )
 
   const kept = []
   if (misses.length && disabled) {
@@ -240,5 +304,9 @@ export async function reframeAll(pages, opts) {
   cache.prompt_version = PROMPT_VERSION
   await writeFile(cachePath, JSON.stringify(cache, null, 1) + "\n")
 
-  return { cached: hits.length, rewritten: misses.length - kept.length, kept: kept.length }
+  return {
+    cached: hits.length + held.length,
+    rewritten: misses.length - kept.length,
+    kept: kept.length,
+  }
 }

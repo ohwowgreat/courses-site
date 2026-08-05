@@ -20,49 +20,61 @@ modified: 2026-07-25
 
 **Does reality have a history?**
 
-## The core question
+## The core provocation
 
 Things considered real in the past are now considered false. Does that mean we were wrong then, or that reality itself changed?
 
-You will work through three examples:
+> [!note] Start here
+> You will probably answer that we were simply wrong. This unit works to make that answer harder to hold.
 
-- **The Mercator projection**, beside Gall-Peters — not a lie, but a choice with consequences.
+Three examples do the work:
+
+- **The Mercator projection**, set beside Gall-Peters. Not a lie, a choice with consequences.
 - **Taprobana**, an island that appeared on maps for centuries and referred to something, unstably. Sailors sailed toward it.
-- **Barry Marshall**, who in 1984 had to infect himself because a framework in good standing could not accommodate the claim that ulcers were bacterial. Here the data was available and the framework rejected it.
+- **Barry Marshall**, who in 1984 had to infect himself because a framework in good standing could not accommodate the claim that ulcers were bacterial.
 
-## The key idea
+Marshall is the sharpest of the three. He blocks the easy escape. You may reach for "they just did not have the data," but here the data was available and the framework rejected it.
 
-> [!note] Key idea
+## The key insight
+
+> [!important] The key insight
 > A biased history book is not the problem. The problem is the one that claims not to be.
 
-Think of a video-game map: the edge is disguised as a feature of the world — the mountain is too high, the road is closed. A framework hides its own limits by [[concepts/naturalization|naturalizing]] them, because a visible wall would remind you that you are inside something.
+The image to remember is the video-game map: the edge is disguised as a feature of the world, the mountain is too high, the road is closed. The framework hides its own limits by **[[concepts/naturalization|naturalizing]]** them. A visible wall would remind you that you are inside something.
 
-At the end of W06, [[entities/roland-barthes|Roland Barthes]] names it: the author who disappears behind the text is the most ideological author of all.
+[[entities/roland-barthes|Roland Barthes]] names this: the author who disappears behind the text is the most ideological author of all.
 
 ## Sessions
 
-- [[classes/oxbridge/lesson-plans/oxbridge-w06-does-reality-have-a-history|W06: Does reality have a history?]] — the three examples, the video-game map, and Barthes as the closing name.
-- [[classes/oxbridge/lesson-plans/oxbridge-w07-argument-workshop|W07: Argument workshop]] — the midpoint. No new material; six weeks of discussion put under interview pressure, in pairs.
+- [[classes/oxbridge/lesson-plans/oxbridge-w06-does-reality-have-a-history|W06: Does reality have a history?]] The three examples, the video-game map, and Barthes as the closing name.
+- [[classes/oxbridge/lesson-plans/oxbridge-w07-argument-workshop|W07: Argument workshop]] The midpoint. No new material. Six weeks of discussion put under interview pressure, in pairs.
 
 ## Concepts introduced
 
-[[concepts/naturalization|Naturalization]] · [[concepts/framework|Framework]] (deepened — introduced in Unit 1, given its defining property here)
+[[concepts/naturalization|Naturalization]] · [[concepts/framework|Framework]] (introduced in Unit 1, given its defining property here)
 
 ## Preparation
 
-Neither session sets a reading. Both are discussion only ([[classes/oxbridge/assessments/oxbridge-writing-and-assessment|discussion only]]). In W07 you will produce four lines on paper, but they are an in-session scaffold for speaking, not a submission.
+Neither session sets a reading.
 
-## The workshop drill
+Nothing is written or collected ([[classes/oxbridge/assessments/oxbridge-writing-and-assessment|discussion only]]). In W07 you write four lines on paper, but they are a scaffold for speaking, not a submission.
 
-W07 puts under pressure the framework example you named in W06 — a framework you use every day that claims not to be one.
+## The argument workshop
 
-> [!important] The drill
-> Hedging feels safe and polite, but in an Oxbridge interview it reads as having nothing to say. The rule is simple and worth repeating: **claim first, qualification second, never the reverse.**
+W07 sits inside this unit for a reason. The framework question is one you can already argue, and W06 has just produced your own example. You leave W06 having named a framework you use every day that claims not to be one. W07 puts that sentence under pressure.
 
-## What to keep in mind
+> [!important] Claim first
+> Hedging feels safe and polite. In an Oxbridge interview it reads as having nothing to say. The drill: claim first, qualification second, never the reverse.
 
-- The core question has no settled answer. "We were wrong then" preserves a stable reality and makes knowledge historical; "reality changed" makes reality historical, which is harder to hold but not absurd, since what counts as a disease, a species or a nation genuinely does change. The useful move is to ask what each answer costs.
+## Holding the question open
+
+Both answers stay live. "We were wrong then" preserves a stable reality and makes knowledge historical. "Reality changed" makes reality itself historical, which is harder to hold but not absurd, since what counts as a disease, a species, or a nation genuinely does change. The useful move is to ask what each answer costs.
+
+The opening examples sort into two columns: factually wrong in one, category shifted in the other. Noticing that criterion is already the argument.
 
 ## Bridge to Unit 4
 
-You will look for something that stands outside history. The body is the obvious candidate: cold is cold in any century. W06 closes on the Merleau-Ponty quotation to set this up, and [[classes/oxbridge/unit-plans/oxbridge-unit-4-the-body-and-the-machine|Unit 4]] tests the candidate.
+> [!note] What comes next
+> You will look for something that stands outside history. The body is the obvious candidate: cold is cold in any century.
+
+W06 closes on the Merleau-Ponty quotation to set this up. [[classes/oxbridge/unit-plans/oxbridge-unit-4-the-body-and-the-machine|Unit 4]] tests the candidate.

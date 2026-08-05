@@ -23,17 +23,17 @@ modified: 2026-07-19
 
 ## What this unit does
 
-This unit looks at the table as a place where rules get enforced, not just a setting. It opens on film — Ang Lee's *Eat Drink Man Woman* — then works through still life as inventory (Heda, the same painting two days running), Leonardo's *Last Supper* as a chosen moment, Bruegel and Steen's disorder taken seriously, and the Qingming scroll walked along its printed length. It closes on three artists the earlier paintings could not anticipate — Cassatt (domestic labour as labour), Rosler's *Semiotics of the Kitchen*, and Weems's *Kitchen Table Series* — and the A3 essay. This is the longest unit of the semester.
+The table is a place where rules get enforced, not just a setting. The unit opens on film, Ang Lee's *Eat Drink Man Woman*, because the table is easier to see when it is moving. Then it works through **still life** as inventory (Heda, the same painting two days running), Leonardo's *Last Supper* as a chosen moment, Bruegel and Steen's disorder taken seriously, and the Qingming scroll walked along its printed length. It closes on three artists the older paintings could not anticipate: Cassatt (domestic labor as labor), Rosler's *Semiotics of the Kitchen* ("an alphabet of rage"), and Weems's *Kitchen Table Series* ("one image is a portrait; six is an argument"). It ends with the A3 essay. This is the longest unit of the semester.
 
 ## Dates and span
 
-- **Weeks 8–12**: Mon 2026-10-19 to Fri 2026-11-20. 18 teaching days / 23 periods (4 days a week, Tuesday a double; Week 10 loses Wednesday and Friday to G11 Juniors Days).
-- **Screening: Tue 2026-10-20 (double, 90') + Wed 2026-10-21 (45') = 135 minutes.**
-- Autumn Field Trip Fri 2026-10-23 **or** Sat 2026-10-24 — readings apply either way.
-- **Week 9 (2026-10-26 to 10-30): G12 out all week at Seniors' Day.** These are four self-contained sessions; nothing carries over and nothing is assessable.
-- Mid-term grades are due Thu 2026-10-29, based on A2 plus participation.
-- **G11 Juniors Days Wed 2026-11-04 to Fri 2026-11-06: no class.** Lesson 08 runs across 7 teaching days over 10 calendar days.
-- Foreign Culture Day Fri 2026-11-20 — lessons run; the essay is already in by then (A3 sits Tue 2026-11-17).
+- **Weeks 8–12**: Mon 2026-10-19 to Fri 2026-11-20. **18 teaching days / 23 periods** (4 days a week, Tuesday a double). Week 10 loses Wednesday and Friday to G11 Juniors Days.
+- **Screening: Tue 2026-10-20 (double, 90') plus Wed 2026-10-21 (45') = 135 minutes.** See the screening note below.
+- Autumn Field Trip Fri 2026-10-23 or Sat 2026-10-24. The exact day will be confirmed in class.
+- **Week 9 (2026-10-26 to 10-30): G12 out all week at Seniors' Day.** Four self-contained sessions, nothing carries, nothing assessable.
+- Mid-term grades due Thu 2026-10-29.
+- **G11 Juniors Days Wed 2026-11-04 to Fri 2026-11-06: no class.** Lesson 08 runs 7 teaching days across 10 calendar days.
+- Foreign Culture Day Fri 2026-11-20: lessons run. The essay is already in by then (A3 sits Tue 11-17).
 
 ## Lessons
 
@@ -44,7 +44,7 @@ This unit looks at the table as a place where rules get enforced, not just a set
 
 ## Student handouts
 
-Ready-made documents support seven of this unit's activities — vocabulary, plain-language overviews, key questions, prompts.
+These documents support the unit's activities:
 
 | This unit | Handout |
 |---|---|
@@ -57,8 +57,8 @@ Ready-made documents support seven of this unit's activities — vocabulary, pla
 
 <p class="handouts"><strong>Handouts (PDF):</strong> <a href="../../../static/handouts/art-appreciation/eat-drink-man-woman.pdf">Eat Drink Man Woman</a> · <a href="../../../static/handouts/art-appreciation/heda-and-still-life.pdf">Heda and Still Life</a> · <a href="../../../static/handouts/art-appreciation/the-shared-meal.pdf">The Shared Meal</a> · <a href="../../../static/handouts/art-appreciation/the-moral-image-of-work.pdf">The Moral Image of Work</a> · <a href="../../../static/handouts/art-appreciation/martha-rosler-intro.pdf">Martha Rosler Intro</a> · <a href="../../../static/handouts/art-appreciation/semiotics-of-the-kitchen.pdf">Semiotics of the Kitchen</a> · <a href="../../../static/handouts/art-appreciation/hyperreality-and-paratheatre.pdf">Hyperreality + Paratheatre</a> · <a href="../../../static/handouts/art-appreciation/lunch-and-discussion.pdf">Lunch and discussion</a> · <a href="../../../static/handouts/art-appreciation/culinary-aesthetics.pdf">Culinary Aesthetics</a></p>
 
-> [!note] Screening format
-> *Eat Drink Man Woman* runs 123 minutes and is viewed in class or split across sessions. Three questions carry across the split: how food works as communication; what moral meanings attach to cooking; and how eating together both unites and divides.
+> [!note] Screening
+> *Eat Drink Man Woman* runs 123 minutes. You watch it in class or split across sessions, carrying three questions across the split: how food works as communication; what moral meanings attach to cooking; and how eating together both unites and divides.
 
 ## Assessment
 
@@ -67,9 +67,9 @@ Ready-made documents support seven of this unit's activities — vocabulary, pla
 | Item | Date | What |
 |---|---|---|
 | LB3 | Fri 2026-10-23 | Seminar posting: food, class, who is not in the picture |
-| LB4 | Fri 2026-10-30 | Seminar posting, for whoever is present — G12 not penalised |
+| LB4 | Fri 2026-10-30 | Seminar posting; G12 is not penalized for being away |
 | LB5 | Tue 2026-11-03 | Posting from the second Heda session |
-| CS4 | Fri 2026-11-13 | The Heda paragraph — every adjective earned; direct practice for A3 |
+| CS4 | Fri 2026-11-13 | The Heda paragraph: every adjective earned; direct practice for A3 |
 | **A3 sits** | **Tue 2026-11-17** | In-class essay: food, the table and ethics, argued from the pictures |
 
 Full detail in the [[classes/art-appreciation/assessments/art-appreciation-s1-assessments|full register]].
