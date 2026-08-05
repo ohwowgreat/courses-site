@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-05-recording-pages-and-a1]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-07-selection-and-scale]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S1 Lesson 06: Media Exploration
 
@@ -83,3 +83,41 @@ Check you can:
 - Judge which media carry your theme, using the evidence in front of you.
 - Make a **keep-or-change decision** and write a reason for each experiment you drop.
 - Let an experiment fail, and annotate what failed and why.
+
+## Practice
+
+Try each question before you open its answer. This week is AO2 Explore, and the exploring has rules.
+
+**1.** The twelve experiments are designed so that they could fail. Why do safe tests teach nothing?
+
+<details class="reveal"><summary>Show answer</summary>
+
+A test you already know the result of is not a test. The experiment exists to find out whether a medium can carry your theme, and finding out means risking a no. CS5 requires at least one failure, annotated: it says so, and says why.
+
+</details>
+
+**2.** The judging question all week is carry versus describe. What is the difference?
+
+<details class="reveal"><summary>Show answer</summary>
+
+A medium that describes the theme shows what it looks like. A medium that carries it does what the theme does: rust that is actually built up and eaten back, glass that actually layers. You keep the media that behave like the subject, not the ones that picture it.
+
+</details>
+
+**3.** Name the three verdicts in Friday's sort, and the rule attached to one of them.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Carry forward, adapt, drop. Every drop carries a written reason. The rejects with reasons are as much AO2 evidence as the keepers, because they show the decision was made with evidence rather than mood.
+
+</details>
+
+**4.** Why is experiment eleven, the low-relief maquette, not one to skip?
+
+<details class="reveal"><summary>Show answer</summary>
+
+It is the 2D-to-3D loop the top-band exemplar runs: a card or clay test photographed in raking light the same day. It is the one experiment that opens a third dimension for development, and the photograph is what makes it portfolio evidence.
+
+</details>
+
+**5.** The pairing of source to experiment is yours, and that is where the thinking shows. Tonight and through the week: continue your two most promising experiments at home, ten minutes each, and close each day by circling the most surprising result. Surprise is data.

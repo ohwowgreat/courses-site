@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-4-development]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-11-composition-2-and-critique]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-13-final-plan-and-a3]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S1 Lesson 12: Targeted Tests and Direction
 
@@ -73,3 +73,41 @@ Check you can:
 - Choose your **final direction** and write the **rejection** in full sentences.
 - Write the **evaluation** against your intention.
 - Assemble the **Stage 6 page** as a sequence of decisions.
+
+## Practice
+
+Try each question before you open its answer. This is the week top-band AO3 is won or lost.
+
+**1.** The rule of the week is no decoration. What does it mean for a test?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Every test answers a named unresolved question from the critique, and its label says which one. A test that exists because it was enjoyable is decoration. The question list comes first, then the tests, one per question.
+
+</details>
+
+**2.** Friday's direction comes with its rejection written in full sentences. Why sentences, not a cross on a thumbnail?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because the rejection is evidence of a decision, and decisions have reasons. A direction is only defensible when what it beat is on the page with the why. This habit runs from Lesson 3's thumbnails to here, and it is where the development trail becomes an argument.
+
+</details>
+
+**3.** The evaluation has a three-part shape. Recite it.
+
+<details class="reveal"><summary>Show answer</summary>
+
+What the development achieved against the intention, where it fell short, and what the final piece must therefore do. The third part is the point: an evaluation that does not end in an instruction to the final piece is a diary entry.
+
+</details>
+
+**4.** What does the Stage 6 page hold, and in what order?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Studies, compositions, critique, tests, choice. The page reads as a sequence of decisions: what was made, what was heard, what was tested because of it, and what was chosen. If a stranger cannot follow the decisions, the page is a scrapbook.
+
+</details>
+
+**5.** Across the Juniors Days gap, draft the evaluation with the frame, then strike the frame and read it for honesty. "It went well" is not honest. Name one place it fell short and what the final piece does about it. A3's date is on the board: Thu 2026-12-10.

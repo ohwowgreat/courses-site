@@ -7,7 +7,7 @@ related:
   - "[[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan]]"
   - "[[classes/pre-a-level-art-design/assessments/pal-s1-assessments]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-08-the-theme-shoot-and-the-contact-sheet-edit]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/atget-rue-moliere.jpg" alt="Eugène Atget, 108 rue Molière, 1908" loading="lazy" />
@@ -113,3 +113,41 @@ Check you can:
 - Order a series with an **opener**, a **development**, and a **closer**.
 - Give the series a title that makes a claim, not just a label.
 - Write a reflection that accounts for your selection, framing, viewpoint, and light choices.
+
+## Practice
+
+Read these before the session. A2 is selection, sequence, and words. The shooting is done.
+
+**1.** Say the two-question series test.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Take any one image away: does the group lose something? Add your prettiest off-theme frame: does the group get worse? If both answers are yes, you have a series. If either is no, the selection is not finished.
+
+</details>
+
+**2.** Name the two forced passes, and what each one costs you.
+
+<details class="reveal"><summary>Show answer</summary>
+
+The kill-your-darlings pass: the strongest image that does not serve the theme goes into the sketchbook with a note, not the series. The weakest-link pass: any image that needed two sentences of defending gets replaced or cut. Both hurt. That is how you know they are working.
+
+</details>
+
+**3.** What are the three roles in a sequence?
+
+<details class="reveal"><summary>Show answer</summary>
+
+An opener that invites, a development that varies, a closer that lands. Order is meaning: lay out two different orders side by side and keep the one that reads better. The same six images in a different order say something different.
+
+</details>
+
+**4.** What is the difference between a title and a label?
+
+<details class="reveal"><summary>Show answer</summary>
+
+A title is a claim. "Doors of Building B" labels the pictures. "Nobody Uses the Front Door" claims something about them, and makes the viewer look again. Claim beats label.
+
+</details>
+
+**5.** Recall the criteria: framing, viewpoint, light, series thinking. Series thinking is judged on the sequence and the reflection's reasons, not just the individual frames. Your reflection should account for the selection: what you chose, from how many, and why.

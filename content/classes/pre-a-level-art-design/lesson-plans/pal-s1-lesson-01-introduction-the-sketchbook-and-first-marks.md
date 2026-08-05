@@ -7,7 +7,7 @@ related:
   - "[[classes/pre-a-level-art-design/assessments/pal-s1-assessments]]"
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-02-tone-and-form]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/first-marks.jpg" alt="Ilya Repin, Leo Tolstoy at Work, 1891" loading="lazy" />
@@ -79,3 +79,41 @@ Check you can:
 - Name the visual elements: line, shape, color, value, texture, space, and form.
 - Make a blind contour drawing and a continuous line drawing, and say how they differ.
 - Copy the hard-pencil (6H–2H) and soft-pencil (2B–6B) mark grids into your sketchbook.
+
+## Practice
+
+Try each question before you open its answer. Short answers are fine.
+
+**1.** Name the four units of the course, in order.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Drawing, photography, collage, poster. Each unit ends with a final piece you make. The drawing you do now helps in all four.
+
+</details>
+
+**2.** Say the sketchbook contract from memory.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Two to three pages every week. It is checked twice for a mark, SB1 on Wed 10-21 and SB2 on Wed 12-02, and the whole book is handed in at the end as A5 on Wed 2027-01-06. After every class, post a photo of this week's pages on MB.
+
+</details>
+
+**3.** Name the seven visual elements.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Line, shape, color, value, texture, space, form. This unit works through them one by one, always by drawing real things you can see.
+
+</details>
+
+**4.** What is the rule of blind contour drawing, and what is the point?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Eyes on the subject, pen never lifts, no looking at the page. The point is looking, not likeness. A funny drawing that looked hard at the subject beats a neat drawing that did not.
+
+</details>
+
+**5.** This week: finish the mark grids from hard pencil to soft, decorate your sketchbook cover, and post your pages on MB. Ten minutes of drawing at home counts. It all goes in the book, and the book is the course.

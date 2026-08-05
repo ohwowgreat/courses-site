@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s2-unit-2-recording-and-sustained-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-04-recording-and-the-a1-milestone]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-06-media-exploration]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S2 Lesson 05: Recording Pages and Feedback
 
@@ -73,3 +73,41 @@ Check you can:
 - Push a second sustained study past the first in angle, medium, or scale.
 - Record from your own primary sources and annotate your own photography.
 - Build and sequence recording pages that read as AO1 without explanation.
+
+## Practice
+
+Try each question before you open its answer. This week converts feedback into recording an examiner would credit.
+
+**1.** What disqualifies "record more" as one of your three actions?
+
+<details class="reveal"><summary>Show answer</summary>
+
+It is not specific. The three actions are the exact fixes the feedback named, written so you could tick each one: which pages, which fix, done or not. They drive the whole week, and CS3 checks them as done, not noted.
+
+</details>
+
+**2.** What must the second sustained study do that the first did not?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Push past it: a different angle, medium, or scale, aimed at the gap A1 exposed. Two studies that genuinely differ show range. Two that repeat show none, however good the second one is.
+
+</details>
+
+**3.** State CS3's two checks.
+
+<details class="reveal"><summary>Show answer</summary>
+
+The recording pages read in order without explanation, from the lock to now: intention, studies, reference. And the three A1 actions are visibly acted on in the work. Sequencing is the skill: a stranger reads your recording without narration.
+
+</details>
+
+**4.** Why does "nothing found, nothing borrowed" apply again at Thursday's shoot?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because this reference feeds exploration next week, and exploration inherits its sources from recording. Borrowed imagery entering here contaminates everything downstream. Your own shoot, annotated for what is seen.
+
+</details>
+
+**5.** Over the weekend, keep recording from your own primary sources, thirty minutes at most. The media experiments in Lesson 06 run on this material, and twelve experiments need more source than one shoot provides.

@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-1-foundations-on-the-theme]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-01-introduction-and-the-theme-menu]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-03-intention-and-composition-planning]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S1 Lesson 02: Formal Elements on the Theme
 
@@ -83,3 +83,41 @@ Check you can:
 - Mix toward an observed color with a limited palette and show swatch, mixing route, and color in context.
 - Compose Recording Page 1 so that it argues something from your selected studies.
 - Set up your digital portfolio from the template and file your study set into it.
+
+## Practice
+
+Try each question before you open its answer. Everything here is CS1 material.
+
+**1.** Contour line and structural line: what does each do, and how do you know which one told the truth?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Contour line follows the seen edge. Structural line builds how the object is constructed. The one that told the truth is the one a stranger could rebuild the object from. Your annotation should say which, and why.
+
+</details>
+
+**2.** The tonal rule on the board: no outlines. Why?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because the world does not show outlines. An edge in tone is where one value meets another. Draw the outline and you flatten the form you were supposed to find. The nine-step ladder is there so your darks actually reach dark.
+
+</details>
+
+**3.** Wednesday's instruction is to push the tonal study further than feels safe, and failure is the point. What do you do with the failure?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Annotate it and its lesson. A pushed study that broke, with one honest line about where and why, is worth more to the portfolio than a safe study that proves nothing. This is what marked-for-observation-not-polish means.
+
+</details>
+
+**4.** Recording Page 1 must argue something, not display work. What does that look like in practice?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Selection before layout: choose the studies that make one point about your theme, sequence them so a stranger follows the point, and let the annotation say what was learned. Coverage is not an argument. Eight exercises pasted down is a display.
+
+</details>
+
+**5.** The nightly habit starts now: one further study per night from the theme, alternating element, ten minutes, dated. Keep the dates honest. A dated sketchbook is the portfolio's spine, and it cannot be faked in the last week.

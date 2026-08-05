@@ -6,7 +6,7 @@ related:
   - "[[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan]]"
   - "[[classes/pre-a-level-art-design/assessments/pal-s1-assessments]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-16-a4-the-final-poster]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/album-leaf.jpg" alt="Aoki Shukuya, Double Album of Landscape Studies after Ikeno Taiga, 18th century" loading="lazy" />
@@ -72,3 +72,41 @@ Check you can:
 - Document undigitized work using the spec's image-quality rules: flat, even light, square-on.
 - Submit your **sketchbook (A5)** as evidence of process, marked on ideas, experimentation, visual research, reflection, and presentation.
 - Say what your portfolio argues about your development, not only what is in it.
+
+## Practice
+
+Read these before the last session. The semester ends the way every unit did: by choosing.
+
+**1.** What is a portfolio?
+
+<details class="reveal"><summary>Show answer</summary>
+
+A claim with evidence, not a folder. Four to five strongest works, each with supporting material you chose yourself, in one clearly organized file. The claim is that you can see. The evidence is the work, sequenced to prove it.
+
+</details>
+
+**2.** Say the selection rule.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Choose what represents you, not what took longest. Hours are invisible in a portfolio. A quick drawing that shows real looking belongs in. A long project that never came together can stay out, and the sketchbook still proves you did it.
+
+</details>
+
+**3.** How is the portfolio sequenced and captioned?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Strongest first and last: the opener invites, the closer lands, the same rule your photo series used, now at semester scale. One line of intention per work. Photograph anything not yet digital flat, in even light, square-on.
+
+</details>
+
+**4.** Name A5's five marking words, and the last thing to do to the book.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Ideas, experimentation, visual research, reflection, presentation. Then final pages settled, name on the spine, and a paper slip marking the page you are proudest of. The book is the proof of how the four finals happened.
+
+</details>
+
+**5.** The survey at the close is not filler: its answers shape what next semester runs. Say what you actually want, in whole sentences. Then rest. Everything returns Wed 2027-01-20 with grades and one-to-one feedback, and the semester is yours to keep.

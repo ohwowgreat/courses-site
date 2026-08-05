@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-06-media-exploration]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-08-artist-study-1]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S1 Lesson 07: Selection and Scale
 
@@ -76,3 +76,41 @@ Check you can:
 - Test your chosen media at real scale and annotate what the scale trial broke.
 - Refine the work to fix what broke, and annotate the fix.
 - Lay out the Stage 3 page so it reads as reasoning: experiments, decision, trial, refinement.
+
+## Practice
+
+Try each question before you open its answer. This week the exploration becomes a commitment.
+
+**1.** In Monday's critique the maker speaks last. Why?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because the work has to speak first. You learn what your grid actually says by hearing it read without your explanation attached. Log the two comments that changed your view: those two lines are the critique's yield, and they belong in your annotation.
+
+</details>
+
+**2.** What must the selection note do to earn its choice?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Name the chosen media in AO language: what this medium does to this theme. Not "I like charcoal" but what charcoal does to worn surfaces that watercolor cannot. A note that could be pinned to someone else's grid has not earned anything.
+
+</details>
+
+**3.** The scale trial runs Wednesday and Thursday. What is Thursday for, exactly?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Fix what broke, nothing else, and annotate the fix. Scale breaks things that A5 hides: coverage, control, drying time, cost of a mistake. The named break and its repair are the evidence that the trial was real.
+
+</details>
+
+**4.** The Stage 3 page must read as reasoning, not a swatch chart. What order does it run?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Experiments, decision, trial, refinement, in that order. The page tells the story of a choice: what was tried, what was chosen and why, what scale did to the choice, what was fixed. Swatches in a grid answer none of those questions.
+
+</details>
+
+**5.** Draft the selection note at home tonight, then run the strike test on it: any sentence that could sit under a different medium gets struck. What survives is the note. Bring it in for refinement and the one-to-one sign-off.

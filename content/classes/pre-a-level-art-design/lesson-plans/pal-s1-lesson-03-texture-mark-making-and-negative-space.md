@@ -8,7 +8,7 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-02-tone-and-form]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-04-composing-the-final-drawing]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/mark-making.jpg" alt="Peter Paul Rubens, Anatomical Studies, pen and ink, c. 1605" loading="lazy" />
@@ -67,3 +67,41 @@ Check you can:
 - Pair marks to textures and say which mark made which surface.
 - Draw the negative space, the shape of the air around an object.
 - Use negative space to check the object's accuracy.
+
+## Practice
+
+Try each question before you open its answer. Two new ways of looking, and two dates to know.
+
+**1.** How do you draw a texture?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Choose the mark that makes it, do not label the surface. Rough wood needs a dragged, broken mark. Metal needs a smooth one. The test: someone else can point from your grid cell to the real object it shows.
+
+</details>
+
+**2.** What is negative space, and why draw it?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The shapes an object cuts out of the air: the holes in a chair, the gaps between the legs. Drawing the spaces is often more accurate than drawing the object, because your brain has no memory of what a hole should look like, so it looks instead.
+
+</details>
+
+**3.** What is A1, when does it sit, and what is it marked on?
+
+<details class="reveal"><summary>Show answer</summary>
+
+One final observational drawing plus a short written reflection, made in class, sitting Wed 2026-09-30. Marked on observation, tone, and composition. The three words are the checklist.
+
+</details>
+
+**4.** Name CS1's four pieces.
+
+<details class="reveal"><summary>Show answer</summary>
+
+The contour work, the value scale and tonal study, the texture grid, and the negative-space study. All four should already be in your sketchbook. CS1 checks them Wed 2026-09-23.
+
+</details>
+
+**5.** At home: finish the texture worksheet, then try one more negative-space study, a chair against a plain wall. Shade only the spaces, never the chair. Post your pages on MB.

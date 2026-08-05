@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s3-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-10-a3-the-research-paper-and-outcome-2-opens]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-12-assembly-sequence-documentation-bibliography]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S3 Lesson 11: Outcome 2 Resolved and Both Evaluated
 
@@ -63,3 +63,41 @@ Check you can:
 - Explain why both outcomes must speak with one voice for AO4.
 - Evaluate both outcomes in writing against the intention.
 - Say what the investigation found rather than what it cost.
+
+## Practice
+
+Try each question before you open its answer. The pair is judged together, so it is finished together.
+
+**1.** Why must outcome 2 reach the same standard as outcome 1?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because an unequal pair reads as one finished piece and one draft, and the draft drags the pair down. Same finish, same care, same documentation standard. The two-day resolve run and Wednesday's photography exist for exactly this.
+
+</details>
+
+**2.** What does the paired evaluation name, and what does it never name?
+
+<details class="reveal"><summary>Show answer</summary>
+
+What the investigation found, in writing, against the intention: what each outcome answered, and what each found that the other did not. Never what it cost. This is AO4 evidence, not a diary of the semester.
+
+</details>
+
+**3.** Why is 28 days ahead instead of the usual fourteen?
+
+<details class="reveal"><summary>Show answer</summary>
+
+So the notice clears the Seniors days and lands well before the end-of-year cutoff. The announcement is placed where no calendar collision can shorten it. The date is on the board Wednesday and it does not move.
+
+</details>
+
+**4.** Recite the two pair rules once more, from memory.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Both outcomes trace visibly back to the preparation, and both speak with one voice. An outcome from nowhere fails AO4, and two voices fail AO4. The pair passes as a pair, or not at all.
+
+</details>
+
+**5.** The homework feeds the evaluation: one honest line per outcome on what it found that the other did not. If the two lines say the same thing, the outcomes repeated each other, and the evaluation should say that honestly too.

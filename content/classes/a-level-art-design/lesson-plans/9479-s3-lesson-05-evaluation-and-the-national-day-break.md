@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s3-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-04-development-studies-and-targeted-tests]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-06-a1-the-development-milestone]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S3 Lesson 05: Evaluation and the National Day Break
 
@@ -74,3 +74,41 @@ Check you can:
 - Explain how the Stage 6 page evidences AO3 Develop.
 - Bring your chosen candidate up to standard before the break.
 - State that A1 and A2 are both announced on Thu 2027-09-30.
+
+## Practice
+
+Try each question before you open its answer. The decision trail crosses the break intact, or not at all.
+
+**1.** What does the evaluation measure, and what does it never measure?
+
+<details class="reveal"><summary>Show answer</summary>
+
+What the development found, measured against the intention. Never what it cost. An evaluation that lists hours and struggles is a receipt. One that says what was learned, and what the outcome must therefore do, is portfolio material.
+
+</details>
+
+**2.** State the Stage 6 page's legibility rule.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Tested, rejected, decided, legible without you in the room. The page is the evidence of AO3, and it will be read in December by someone who cannot ask you anything. If a decision needs your voice to explain it, it is not yet on the page.
+
+</details>
+
+**3.** Why are A1 and A2 both announced on Thursday?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because Thursday is the last session that clears the fourteen-day notice rule for each across the National Day break. The break sits inside both windows. The dates go on the board and in writing, and the register carries them.
+
+</details>
+
+**4.** What crosses the break with you?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The chosen candidate, brought up to standard before the holiday, and a short written note on what still needs closing, for the gap-repair session on the far side. The studio does not stop over the break: the independent targets keep the candidate ready for the milestone.
+
+</details>
+
+**5.** The break note is the homework, thirty minutes at most across the whole holiday. Write it the day the break starts, while the unresolved passages are still fresh. Re-entry runs from that list.

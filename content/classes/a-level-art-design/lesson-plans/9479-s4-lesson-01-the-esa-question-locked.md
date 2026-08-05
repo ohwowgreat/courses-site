@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s4-unit-1-foundations-on-the-question]]"
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-02-recording-at-exam-pace]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S4 Lesson 01: The ESA Question, Locked
 
@@ -69,3 +69,41 @@ Check you can:
 - Match your question choice to proven strengths from C1 and C3, using evidence.
 - Lock one question in writing with a rationale grounded in evidence.
 - Explain why there is no restart after the lock.
+
+## Practice
+
+Try each question before you open its answer. This is the exam, and the first move is choosing well.
+
+**1.** What does the question analysis name for each question on the paper?
+
+<details class="reveal"><summary>Show answer</summary>
+
+What it permits, and what it quietly forbids. Every ESA question opens some directions and closes others without saying so. The constraints decide feasibility, and feasibility decides the semester, so the closed doors matter more than the open ones.
+
+</details>
+
+**2.** State the strengths audit's rule.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Match questions to proven strengths from C1 and C3, evidenced by the portfolio and the drawing regimen, not by preference. The exam rewards what you can already do at pace. A question you would love to learn for is a question for someone with more weeks.
+
+</details>
+
+**3.** What exactly locks on Friday?
+
+<details class="reveal"><summary>Show answer</summary>
+
+One question, in writing, with a rationale grounded in evidence, signed off one to one. There is no restart after the lock: the whole semester runs on this choice, which is why it is made against pages, not moods.
+
+</details>
+
+**4.** Why does the week end with A1 already announced?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because the notice goes out with the lock, exactly fourteen days ahead. The exam semester runs tight, and every notice is placed at its earliest legal slot. Nothing about the spring's dates is improvised.
+
+</details>
+
+**5.** The homework is the evidence file: gather the C1 and C3 pages and the drawing-regimen work that prove your chosen question is a strength. If the file is thin for your favorite question and thick for another, believe the file.

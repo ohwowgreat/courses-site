@@ -6,58 +6,59 @@ related:
   - "[[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan]]"
   - "[[classes/pre-a-level-art-design/assessments/pal-s1-assessments]]"
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
-modified: 2026-07-19
+modified: 2026-08-05
 ---
 # Unit 4: Printmaking Variant
 
 [[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan|Semester 1 Plan]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster|Unit 4]]
 
-> [!note] Two possible forms of Unit 4
-> Unit 4 runs by default as the Graphic Design poster. It may instead run as this printmaking variant, using **linocut** in place of the poster, on the same four Wednesdays (W16–19). Which form runs depends on student demand and will be confirmed in class. Either way, A4 is the unit's assessment.
+> [!important] Unit 4 may run in one of two forms
+> By default, Unit 4 runs as the Graphic Design poster, with A4 as the poster. It may instead run as this printmaking variant if students ask for it. Both routes use the same Wednesdays (W16–19). Which route runs will be confirmed in class.
+> On the printmaking route, these dates apply: CS4 on Wed 2026-12-16, A4 on Wed 2026-12-23, and portfolio documentation on Wed 2027-01-06. They are provisional and may shift when the school publishes the calendar.
 
 ## Overview
 
-In this variant you make a linocut print. You learn where printmaking came from, transfer a design onto a block, carve it, ink it, and pull a final edition. Your assessment is A4, which you sit on Wed 2026-12-23, printing at least one resolved image on good paper. Your course skills check, CS4, is logged on Wed 2026-12-16. In the final session on Wed 2027-01-06 you document your work, and your End of Term portfolio is due. W18 (Wed 2026-12-30) falls in the winter break, so carving and printing are compressed into two Wednesdays before the break. Because there is no spare session, your carving must be essentially finished before the A4 session: missing a Wednesday costs a whole stage of the unit. These dates fall in 2026-27 and may shift when the school publishes the calendar for that period.
+This variant of Unit 4 teaches printmaking with linocut instead of the graphic design poster. Over three Wednesdays you learn where printmaking comes from, transfer a design onto a block and carve it, then ink and pull an edition of prints. You log CS4, an annotated design sheet, on Wed 2026-12-16, and you sit A4, a resolved print, on Wed 2026-12-23. The final Wednesday on Wed 2027-01-06 documents your work for the semester portfolio, with the EoT portfolio due that day.
 
 ## The ideas
 
 ### Printmaking as an image culture
 
-**Printmaking** is making images by pressing an inked matrix onto paper, so one design produces many prints. The key question is: why print instead of paint once? Because a print is a multiple. Early Japanese **Ukiyo-e** prints, images of the "floating world," were cheap multiples designed to travel.
+**Printmaking** is making an image by pressing an inked surface onto paper, so one design can be printed many times. Early prints were cheap multiples, "designed to travel." The **Ukiyo-e** prints of Japan's "floating world" are the anchor example. The guiding question is: why print instead of paint once?
 
-The core parts are the **matrix**, the **ink**, and the **paper**. **Relief** printing takes its image from a raised surface; **intaglio** takes it from cut and inked lines. Linocut is a relief method. The tradition runs from Dürer to Warhol, and includes Rembrandt, Daumier, Toulouse-Lautrec, and the Ukiyo-e artists Hiroshige and Hokusai.
+- A **matrix** is the surface that holds the image: the block you carve, ink, and print from.
+- **Relief vs intaglio** is the main distinction: in relief printing you print from the raised surface left after carving away the rest; in intaglio you print from lines cut into the surface. Linocut is relief.
+- The history runs from Dürer to Warhol. Printmakers to know: **Dürer**, Rembrandt, Daumier, Toulouse-Lautrec, and Warhol; from Ukiyo-e, **Hiroshige** and **Hokusai**.
 
-### Transfer and the mirror rule
+### Making a linocut
 
-You transfer your design onto the block before carving. Follow **the mirror rule**: a print comes out reversed, so anything with direction, such as text, must be drawn in reverse on the block.
-
-### Carving safely
-
-The **safety briefing** is non-negotiable and comes before tools are issued: carve away from your body and hands. The tools are sharp, so carving is supervised in the room and cannot be taken home. Your CS4 deliverable is one annotated design sheet showing which areas will print and which are cut away.
-
-### Inking, printing, and editioning
-
-You ink the block, pull one test proof on scrap, then pull a final edition on good paper. **Editioning** means pulling several impressions of the same block. Pull more than one, both for quality and as insurance against a spoiled pull. When you are ready, you can add a second color and layering. Simple, bold designs print best.
+- **The mirror rule**: a print comes out reversed, so transfer and carve your design mirror-reversed. Say it to yourself twice before you start.
+- **Safety**: always carve away from your body and hands. The tools are sharp, so carving happens only in the room, never at home.
+- **Transfer** moves your design onto the block. **Carving** cuts away the areas you do not want to print. Carving is slow, so start early and choose a simple, bold design.
+- **Inking and proofing**: ink the block, then pull a test proof on scrap paper before you print for real.
+- **Editioning**: pull a final edition on good paper. Make several impressions, both for quality and as insurance against a spoiled pull.
+- **Second color and layering** (optional): add a second color or layer using `Color Mixing Guide` sheet 1. Not required to pass.
 
 ## Day by day
 
-- **Wed 2026-12-09 (W15).** Homework set: bring three A5 drawings as your designs for the unit. Without a design you cannot start, and there is no spare session.
-- **Wed 2026-12-16 (W16).** History and context first, then the safety briefing, design transfer, and the start of carving. Carve hard: CS4 is logged at the end as your annotated design sheet.
-- **Wed 2026-12-23 (W17).** A4 sitting. Finish carving early, ink your block, take one test proof, then pull your final edition on good paper and submit at least one resolved print. This session carries both the end of carving and all of the printing.
-- **Wed 2027-01-06 (W19).** Optional further impressions, second color, and layering. Then a gallery walk and reflection, semester portfolio documentation, and your End of Term portfolio is due.
+- **Wed 2026-12-09 (W15).** Homework set: the three A5 drawings from `A5 Drawing Guide`. Bring finished designs to W16. Without a design you cannot start, and there is no spare session.
+- **Wed 2026-12-16 (W16, S15).** Learn printmaking history and the mirror rule, take the safety briefing, transfer your design, and begin carving. CS4 is logged at the end: one annotated design sheet showing which areas print and which are cut away.
+- **Wed 2026-12-23 (W17, S16).** A4 sitting. Finish carving, ink your block, pull a test proof, then print a final edition on good paper. Submit at least one resolved print.
+- **Wed 2027-01-06 (W19, S17).** Pull further impressions and try a second color or layering if you are ready. Take part in the gallery walk and reflection. Document your semester portfolio; the EoT portfolio is due.
 
 ## Assessment
 
-A4 is graded inside the BNDS framework: Attainment 50, Course Skills 20, "Learning Behaviour" 10, End of Term 20. See [[shared/bnds-assessment-framework|BNDS Assessment Framework]]. A4's exact marking criteria for the printmaking route will be confirmed in class, and you get one week's notice of A4's form.
+A4 is graded inside the BNDS scheme: Attainment 50, Course Skills 20, Learning Behaviour 10, End of Term 20. See [[shared/bnds-assessment-framework|the BNDS scheme]]. You get one week's notice of what A4 will be. The detailed marking criteria for A4 will be confirmed in class.
 
 ## Review
 
 Check you can:
 
-- Explain what printmaking is and why a print is a multiple.
-- Name Ukiyo-e and the floating world as an early print culture.
-- Distinguish relief from intaglio, and place linocut as relief.
-- Apply the mirror rule when you transfer a design.
-- Carve safely, away from your body and hands.
-- Ink a block and pull a resolved print for A4.
-- Edition a block by pulling several impressions.
+- Explain what printmaking is and why early prints were made as cheap multiples.
+- Name the Ukiyo-e prints as the anchor example of a print culture.
+- State the distinction between relief and intaglio, and say which one linocut is.
+- Define the mirror rule and apply it when you transfer a design.
+- State the carving safety rule.
+- Transfer a design and carve a linocut block.
+- Ink a block, pull a test proof, and print a final edition.
+- Name printmakers such as Dürer, Hiroshige, and Warhol.

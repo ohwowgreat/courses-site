@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s3-assessments]]"
   - "[[classes/a-level-art-design/unit-plans/9479-semester-4-plan]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-14-a4-the-complete-investigation]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S3 Lesson 15: Submission QC, the Return, and into C2
 
@@ -77,3 +77,41 @@ Check you can:
 - Explain why a submission that fails to open earns nothing.
 - Repair the gaps QC named in your returned investigation.
 - Say what Component 2 and the Externally Set Assignment will ask of you in the spring.
+
+## Practice
+
+Try each question before you open its answer. The tail is short and the tail is the point.
+
+**1.** What does submission QC actually check?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The PDF is assembled to the Cambridge screen limits, and every page renders. A submission that fails to open earns nothing, whatever is inside it. The QC is the last mark that can be earned, which is why it is treated as work, not admin.
+
+</details>
+
+**2.** Why must the submission be board-ready before the break rather than after?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because the two W18 sessions are the only slack in the tail, and the holidays may take one each. Work finished before a break is finished. Work planned for after a break is a bet on a calendar nobody controls.
+
+</details>
+
+**3.** What is the Final, and what is it not?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The End-of-Term category, met by a teacher-marked assessment of the portfolio against the Cambridge criteria. No paper, no invigilation, no new task. This class sits no department finals, so the January window belongs to marking and the one-to-one returns.
+
+</details>
+
+**4.** Component 3 is done. What opens Component 2?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The winter homework: the C2 past-paper review and the drawing regimen. The Externally Set Assignment runs on a Cambridge paper in the spring, and the spring is short. Arriving in February already warmed up is the whole point of the regimen.
+
+</details>
+
+**5.** Before your one-to-one return, write your own QC list: anything you know did not render right, any page you would defend differently after the viva. Arriving with your list makes the return a working session, and the supervised repair exists for exactly what it names.

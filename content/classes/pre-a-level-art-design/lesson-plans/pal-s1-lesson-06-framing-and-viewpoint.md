@@ -8,7 +8,7 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-07-light-shadow-and-the-series-theme]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/the-great-wave.jpg" alt="Gustave Le Gray, The Great Wave, Sète, 1857" loading="lazy" />
@@ -92,3 +92,41 @@ Check you can:
 - Shoot one subject from five viewpoints and select three with written reasons.
 - Name and use **framing**, **viewpoint**, **vantage point**, **balance**, and **figure–ground**.
 - State the motto **"shoot many, keep few, know why"** and use it to select strong frames.
+
+## Practice
+
+Try each question before you open its answer. The unit's motto answers half of them.
+
+**1.** Say the unit's motto, and what each part means.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Shoot many, keep few, know why. Abundance first, because twenty frames teach more than two. Selection second, because choosing is the skill. Reasons third, because "I kept this because" is where the learning shows.
+
+</details>
+
+**2.** Where do a photograph's decisions happen?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Before the shutter. Where you stood, what you put in the frame, what you left out. The button press is the smallest decision in the picture.
+
+</details>
+
+**3.** Name the five viewpoints of the circuit, and the rule that makes it work.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Eye level, high, low, close, far with context. The subject never moves. Only the photographer does. Viewpoint alone changes what the picture means, and the circuit proves it with one boring object.
+
+</details>
+
+**4.** What is the rule of thirds, and when is breaking it fine?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Place the important things on the grid's lines and crossings instead of dead center. Breaking it is fine when it is deliberate: a centered symmetrical shot can be strong. The test is whether you can say you chose it.
+
+</details>
+
+**5.** Homework: ten frames placed on the thirds, five deliberately breaking them, one line on which felt better. Grid on, from now on, always. Post to MB.

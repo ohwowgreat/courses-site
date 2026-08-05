@@ -8,7 +8,7 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-11-layering-text-and-image]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-13-final-collage-production]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/vanitas.jpg" alt="Edwaert Collier, Vanitas Still Life, 1662" loading="lazy" />
@@ -83,3 +83,41 @@ Check you can:
 - Write a clear **main idea** for your own collage.
 - Make two different composition drafts of the same main idea.
 - Circle one draft and give the reason it argues the idea more strongly.
+
+## Practice
+
+Try each question before you open its answer. Today the experiments start serving one idea.
+
+**1.** What is the main-idea sentence, and what makes a good one?
+
+<details class="reveal"><summary>Show answer</summary>
+
+One sentence saying what your collage is about, not what is in it. Concrete beats abstract: "my grandmother's kitchen" beats "memory", because you can cut and glue a kitchen. Written before any composing starts, and initialed.
+
+</details>
+
+**2.** Why make two drafts of the same idea?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because the first arrangement is rarely the argument at its strongest. The two drafts are deliberately different: one crowded, one sparse, or one symmetrical, one tilted. Then circle one with a written reason. Choosing between two real options is a skill you already have from the drawing unit.
+
+</details>
+
+**3.** Name A3's four marking words and its date.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Juxtaposition, layering, composition, meaning. The final collage is made in class over the next two sessions from your circled draft, and sits Wed 2026-12-09. Everything the unit taught is in those four words.
+
+</details>
+
+**4.** What was CS3 checked for?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Range and honest annotation across the experiment set: juxtaposition, scale, layering, text-and-image, plus the home experiments. Five different experiments that each say what they tried beat ten that say nothing.
+
+</details>
+
+**5.** Homework: gather whatever material your circled draft still needs. Look at the draft photo and list the gaps. Arriving next week with the right pieces is the difference between a making session and a hunting session.

@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s2-unit-2-recording-and-sustained-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-05-recording-pages-and-feedback]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S2 Lesson 04: Recording and the A1 Milestone
 
@@ -73,3 +73,41 @@ Check you can:
 - Carry one **sustained study** across two days without restarting it.
 - Write a **critical annotation** that records what is seen and learned, not what is felt.
 - Explain **A1** as everything recorded so far, looked at together against the **AO1** criteria.
+
+## Practice
+
+Try each question before you open its answer. A1 sits Friday, and nothing about it should be a surprise.
+
+**1.** A1 is not a new task. What is it?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Everything recorded since the lock, looked at together against the AO1 criteria: your approved intention, the Stage 1 page, the first sustained study, and the supporting recording. Nothing is added during the review. If it exists by Friday, it is in.
+
+</details>
+
+**2.** State the Stage 1 page's test.
+
+<details class="reveal"><summary>Show answer</summary>
+
+A stranger could follow your thinking without you in the room. The page sequences your intention, first shoot, and early observations so AO1 reads without explanation. It is recording, not decoration: every item on it earns its place by showing something.
+
+</details>
+
+**3.** What makes a study sustained rather than long?
+
+<details class="reveal"><summary>Show answer</summary>
+
+You build it across two days and do not restart it when it gets hard. Wednesday carries it past where you would normally stop, and what it teaches you about the theme matters more than a clean finish. Restarting resets the learning to zero and leaves no evidence either way.
+
+</details>
+
+**4.** State the annotation rule for Thursday.
+
+<details class="reveal"><summary>Show answer</summary>
+
+What is seen and learned, not what is felt. The annotation says what the study taught you about the theme and about how you will record next. This writing is what A1 rewards, because it is the visible part of your thinking.
+
+</details>
+
+**5.** After A1 returns, write the three specific actions from the banded feedback before the weekend is out. They drive next week, and CS3 will check that they were done, not noted.

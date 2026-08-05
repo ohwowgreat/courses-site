@@ -8,7 +8,7 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-06-framing-and-viewpoint]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-08-the-theme-shoot-and-the-contact-sheet-edit]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/lincoln-cathedral.jpg" alt="Frederick H. Evans, Lincoln Cathedral From the Castle, 1898" loading="lazy" />
@@ -108,3 +108,41 @@ Check you can:
 - Control **exposure** on your own phone or camera using **AE/AF lock** and the **exposure slider**, or **AE lock** and **exposure compensation**.
 - Explain what makes photographs a **series**: one idea, varied with intention, in sequence.
 - Write one **A2** series theme that you can shoot within the fortnight, and get it approved.
+
+## Practice
+
+Try each question before you open its answer. A2 now has a date, and your theme should have your initials.
+
+**1.** Name the four light positions from the circuit, and say what the circuit proved.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Front, side, diffused, back. Same subject, four different moods, and nothing changed except the light. Moving yourself or the lamp is a decision as expressive as framing. Note which position made which mood in your annotations.
+
+</details>
+
+**2.** How do you control exposure on your own device?
+
+<details class="reveal"><summary>Show answer</summary>
+
+On a phone: tap to focus, lock AE/AF, then use the exposure slider. On a camera: AE lock and exposure compensation. Whichever you shoot on, you, not the device, decide how bright the picture is.
+
+</details>
+
+**3.** What makes photographs a series instead of just several photos?
+
+<details class="reveal"><summary>Show answer</summary>
+
+One subject, idea, or rule. Variation with intention. A sequence. Five nice photos of different things is a folder. Six photographs asking the same question in different ways is a series.
+
+</details>
+
+**4.** What makes a good A2 theme?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Something shootable at school or home within the fortnight: a noun you walk past every day. Doors, hands, red, shadows, pairs. "Beauty" is too broad and "the ocean" is not nearby. If you can shoot fifteen frames of it this week, it is a real theme.
+
+</details>
+
+**5.** The homework is the start of the real work: at least fifteen frames on your approved theme before next Wednesday. Shoot with the light circuit in your head. Fifteen frames that each chose their light beat forty that did not.

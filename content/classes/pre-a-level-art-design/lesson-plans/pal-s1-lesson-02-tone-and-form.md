@@ -8,7 +8,7 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-01-introduction-the-sketchbook-and-first-marks]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-03-texture-mark-making-and-negative-space]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/tone-and-form.jpg" alt="Peter Paul Rubens, Head of a Boy (Nicolaas Rubens), c. 1619" loading="lazy" />
@@ -84,3 +84,41 @@ Check you can:
 - Make a form look solid using tone alone, with no outline.
 - Find the light source on an object and place its highlight, core shadow, and cast shadow.
 - Name and use smooth shading, hatching, cross-hatching, and blending.
+
+## Practice
+
+Try each question before you open its answer. One rule runs this whole lesson.
+
+**1.** Say the rule of the session.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Build form with tone, not outline. An outline makes the object flat. Light and dark make it solid. The world does not draw lines around things, it lights them.
+
+</details>
+
+**2.** Name the five things tone does on a lit object.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Highlight, light, shadow side, cast shadow, reflected light. Find all five on any object under any lamp. If you cannot find the reflected light, look at the dark side, near the bottom, where light bounces back up.
+
+</details>
+
+**3.** Name the four ways to lay tone.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Smooth shading, hatching, cross-hatching, blending. Different tools for the same job. Your value scale should show even steps in whichever one you choose.
+
+</details>
+
+**4.** What question does a tonal drawing have to answer?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Where is the light coming from? If someone else can point to your light source just by looking at the drawing, the drawing works. If they cannot, the tones are not yet telling the truth.
+
+</details>
+
+**5.** The homework proves the big idea: draw one home object twice, in two different lightings. The object stays the same, and the drawing changes completely. That shows tone belongs to the light, not to the object. Post both on MB.

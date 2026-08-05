@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s2-unit-3-exploration-and-artist-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-07-artist-1-in-full]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-09-composition-1]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S2 Lesson 08: Artist 2, Bridge and A2
 
@@ -74,3 +74,41 @@ Check you can:
 - Run a **scale trial** and fix what the larger size breaks in composition, mark, and material.
 - Lay out the **Stage 3 pages** so exploration reads as reasoning, not a scrapbook.
 - Sit A2 with the full Unit 3 body of work: experiments, selection, both artists, bridge piece, and Stage 3 pages.
+
+## Practice
+
+Try each question before you open its answer. A2 sits Friday and marks the whole unit together.
+
+**1.** What is Artist 2 for?
+
+<details class="reveal"><summary>Show answer</summary>
+
+A different angle on the same problem. Monday analyzes the two artists against each other: where they agree about your problem, and where they part. One artist gives you a method. Two give you a choice, and choices are what development is made of.
+
+</details>
+
+**2.** What does the bridge piece bridge?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Looking into making. It combines what the two artists taught on your own theme, from your own sources. It is the hinge of the unit: the last piece that leans on the artists and the first piece that is unmistakably your development.
+
+</details>
+
+**3.** Why does the scale trial happen now, in Unit 3?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because composition, mark, and material all behave differently big, and Wednesday exists to find out what breaks while fixing it is cheap. Fix what the scale broke and annotate the fix. Discovering the break in the final outcome costs weeks you will not have.
+
+</details>
+
+**4.** The Stage 3 pages must read as reasoning, not a scrapbook. What is the sequence?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Experiments, selection, artists, bridge, scale, each leading to the next decision. The pages answer a chain of questions: what was tested, what was chosen, who helped, what it became, what scale did to it. A stranger should follow the chain without you.
+
+</details>
+
+**5.** A2 reviews the twelve experiments and their selection, both artist pages, the bridge piece and scale trial, and the Stage 3 pages. Nothing is added during the review. Afterward, the homework: note three development directions the bridge and the trial opened. Unit 4 starts from that list.

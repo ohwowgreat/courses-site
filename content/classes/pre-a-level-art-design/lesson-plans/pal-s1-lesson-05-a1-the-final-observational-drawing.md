@@ -7,7 +7,7 @@ related:
   - "[[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan]]"
   - "[[classes/pre-a-level-art-design/assessments/pal-s1-assessments]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-04-composing-the-final-drawing]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/drawn-from-life.jpg" alt="Ilya Repin, Portrait of a Russian Peasant, 1871" loading="lazy" />
@@ -79,3 +79,41 @@ Check you can:
 - Resolve your edges and place the **cast shadows**.
 - Read a drawing against the criteria **observation**, **tone**, and **composition**.
 - Write a **reflection** that names what you did, using at least four of the five prompts.
+
+## Practice
+
+Read these before the sitting. Nothing here is new. That is the point.
+
+**1.** Say A1's three criteria from memory.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Observation, tone, composition. Did you look at the real thing, does the light read, was the frame decided on purpose. Every lesson in the unit fed one of the three.
+
+</details>
+
+**2.** What order do you finish in, and why do the darks come first?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Push the full tonal range first, darkest darks in before caution sets in. Then texture where the surface demands it, then edges and cast shadows. Step back at arm's length twice. Caution grows as the deadline gets closer, so the brave move happens early.
+
+</details>
+
+**3.** What makes a good reflection?
+
+<details class="reveal"><summary>Show answer</summary>
+
+It names what you did, not how you felt about it. "The light comes from the left, so the darkest tones are under the cup" is a reflection. "I think it is bad" is not. Use the frames, full sentences, at least four of five.
+
+</details>
+
+**4.** What happens if you are not finished at sixty minutes?
+
+<details class="reveal"><summary>Show answer</summary>
+
+You submit at sixty minutes. The timebox is part of what A1 samples. This is why the drawing arrived today already decided everywhere: the hour is for finishing, not deciding.
+
+</details>
+
+**5.** Over the break, HW1: at least twenty photos of one subject, different viewpoints, different light, no editing. One subject, truly. The variation is the assignment, and Unit 2's first lesson runs on your twenty.

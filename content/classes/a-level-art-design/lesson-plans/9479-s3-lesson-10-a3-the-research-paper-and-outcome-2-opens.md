@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s3-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-09-resolving-outcome-1-and-the-final-paper-text]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-11-outcome-2-resolved-and-both-evaluated]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S3 Lesson 10: A3 — The Research Paper and Outcome 2 Opens
 
@@ -69,3 +69,41 @@ Check you can:
 - Plan outcome 2 so it **answers** outcome 1 rather than repeats it.
 - Keep both outcomes inside one investigation, in **one voice**.
 - Explain why an outcome that does not trace back to your preparation fails AO4.
+
+## Practice
+
+Try each question before you open its answer. The paper closes, the pair opens.
+
+**1.** What is outcome 2's relationship to outcome 1?
+
+<details class="reveal"><summary>Show answer</summary>
+
+It answers it: a different question inside the same investigation. Not a repeat, and not a second attempt at the first. The plan states in writing how it answers, and the build opens while outcome 1 is fresh so the pair reads as one investigation.
+
+</details>
+
+**2.** Why is outcome 2 planned before it is built, when you have already done this once?
+
+<details class="reveal"><summary>Show answer</summary>
+
+For the same reason as the first time, now with less calendar left: composition, palette, and materials decided while deciding is cheap, so the build day executes. Experience does not remove the need for the plan. It makes the plan faster to write.
+
+</details>
+
+**3.** State the traceability rule that governs both outcomes.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Both must trace visibly back to the preparation. An outcome from nowhere fails AO4 regardless of quality, because AO4 presents the investigation, and a piece the investigation cannot account for is not part of it.
+
+</details>
+
+**4.** Both outcomes must speak with one voice. What does that mean, and what is the price of two?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The pair reads as two answers from the same investigation: one sensibility, one line of thought, visible in both. Two voices read as two different portfolios stapled together, and two voices fail AO4.
+
+</details>
+
+**5.** The homework is the outcome 2 plan in one paragraph: how it answers outcome 1 without repeating it. If the paragraph could describe outcome 1, it is a repeat wearing new materials. A4 is announced next Wednesday, 28 days out.

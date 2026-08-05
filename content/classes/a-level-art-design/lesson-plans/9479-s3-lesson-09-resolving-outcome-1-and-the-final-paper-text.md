@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s3-unit-5-final-outcomes]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-08-building-outcome-1]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-10-a3-the-research-paper-and-outcome-2-opens]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S3 Lesson 09: Resolving Outcome 1 and the Final Paper Text
 
@@ -62,3 +62,41 @@ Check you can:
 - Explain why the photograph is the mark, and photograph outcome 1 as the version that gets marked.
 - Bring the research paper to final text in exact specialist language.
 - Run the integration check so every claim points at real work in the portfolio.
+
+## Practice
+
+Try each question before you open its answer. Examiner standard, evidenced argument: both finish this week.
+
+**1.** Resolve, then photograph. Why does the order matter?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because the photograph is the mark: it documents whatever state the piece is in when the shutter fires. Photograph before resolving and you have submitted the unfinished version forever. Focal areas resolved, surface unified, then the camera.
+
+</details>
+
+**2.** What does bringing the paper to final text mean?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The argument is set, and the prose now serves it, in exact specialist language. No new claims, no new structure: final text is the argument you built across two drafts, written so every sentence works. Vague language in a research paper is unresolved work in written form.
+
+</details>
+
+**3.** State the integration check.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Every claim in the paper points at real work in the portfolio. A claim with no page behind it is cut or evidenced before A3. This check is what keeps the written element integrated rather than bolted on, and it is exactly what the C3 written criteria reward.
+
+</details>
+
+**4.** Recite the photography rule for Wednesday.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Shot honestly, corrected without flattering, laid into the pages. The version the examiner sees, of the piece as it actually is. A hopeful angle photographs a piece that does not exist.
+
+</details>
+
+**5.** The homework is the integration list: every paper claim not yet pointing at a real page, written down. Bring the list Monday. A3 sits then, and the list is the gap between now and ready.

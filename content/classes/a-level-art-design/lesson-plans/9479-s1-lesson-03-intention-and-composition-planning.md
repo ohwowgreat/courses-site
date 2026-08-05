@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-02-formal-elements-on-the-theme]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-04-the-sustained-study]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S1 Lesson 03: Intention and Composition Planning
 
@@ -72,3 +72,41 @@ Check you can:
 - Build a **mind map** that opens the theme at least three branches past your first idea.
 - Make **thumbnails** to test compositions quickly.
 - Choose one composition to sustain and annotate each rejected thumbnail with a reason.
+
+## Practice
+
+Try each question before you open its answer. The habits here reappear inside A1.
+
+**1.** Recite the intention frame, then fill it for your theme in one sentence each.
+
+<details class="reveal"><summary>Show answer</summary>
+
+I am investigating, because, I will record. Three parts: what you are looking at, why it holds you, and what you will actually make. If a partner can strike a word without losing meaning, the word was empty. Strike it yourself first.
+
+</details>
+
+**2.** What makes a thumbnail a cheap test?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Five by seven centimeters, tone blocked in, thirty seconds of decision. Cheap means cheap to reject: at that size you can afford six wrong compositions to find one right one. A thumbnail you polish is no longer a test.
+
+</details>
+
+**3.** What must every unchosen thumbnail carry, and why does the top band care?
+
+<details class="reveal"><summary>Show answer</summary>
+
+One honest line saying why not. Choosing and rejecting in writing is the top-band habit this lesson installs: the examiner reads your decisions, not just your results. A rejection with a reason is evidence of judgment. A blank rejection is just a small drawing.
+
+</details>
+
+**4.** The mind map must go at least three branches past your first idea. Why past it?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because the first idea is the one everyone has. The investigation starts where the obvious stops: material, function, memory, opposite. Circle the branch that surprised you. Surprise is the sign you found something rather than remembered something.
+
+</details>
+
+**5.** Tonight: six thumbnails from your strongest branch, squint test at arm's length, then choose one and reject five in writing. Expand your intention to a paragraph a stranger could follow. That paragraph is due as homework, and it opens the sustained study on Sunday.

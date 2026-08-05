@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-04-the-sustained-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-06-media-exploration]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S1 Lesson 05: Recording Pages and A1
 
@@ -84,3 +84,41 @@ Check you can:
 - Annotate selected shots for what each shows, not what it evokes.
 - Mark your own recording against the **AO1 band descriptors** within one band of the teacher.
 - Convert banded feedback into three specific written actions.
+
+## Practice
+
+Try each question before you open its answer. A1 sits Fri 10-09, and everything here is what it is marked on.
+
+**1.** State the standard for recording pages in one sentence.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Pages an examiner could read without explanation. You will not be in the room when the work is judged. If a page needs you standing next to it, the page is not finished.
+
+</details>
+
+**2.** When you shoot reference from primary sources, what three things do you control, and what is the annotation rule?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Light, angle, and series: a set of related shots, not one. Annotate the selects for what each one shows, not what it evokes. Annotation records information. Mood words record nothing an examiner can use.
+
+</details>
+
+**3.** Recite the one-standard rule from Tuesday.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Line up all your studies, name the weakest, and bring every study up to the same standard. Nothing half-finished rides along. One weak study on a strong page sets the page's level, because it shows what you were willing to include.
+
+</details>
+
+**4.** What is the self-check, and what is its target?
+
+<details class="reveal"><summary>Show answer</summary>
+
+On the return from the break, you mark your own recording against the AO1 band descriptors, in writing, honestly. The target: your own banding lands within one band of the teacher's. Knowing what your work earns before you are told is a skill this course trains all year.
+
+</details>
+
+**5.** After A1 returns, the feedback becomes three specific written actions. "Get better at drawing" is not one. "Check proportion against the source every ten minutes" is. Over the break, keep the sketchbook recording from primary sources, dated, and arrive with pages, not excuses.

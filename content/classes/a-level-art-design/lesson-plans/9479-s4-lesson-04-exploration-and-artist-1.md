@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-03-sustained-study-and-a1]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-05-artist-2-the-bridge-piece-and-a2]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S4 Lesson 04: Exploration and Artist 1
 
@@ -71,3 +71,41 @@ Check you can:
 - Write a keep-or-change decision for each experiment.
 - Analyze artist 1 and answer them in visible work within single sessions.
 - Explain why citation without response earns nothing.
+
+## Practice
+
+Try each question before you open its answer. Exploration at exam pace explores from strength.
+
+**1.** Why eight experiments here, when C3 ran twelve?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The run is compressed, and it draws on your proven selections rather than opening the whole field again. You already know which families of media carry your work. The eight test how those strengths meet this question, which is what exam-pace exploration is for.
+
+</details>
+
+**2.** What does each experiment test, and how does it close?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The question, not the medium for its own sake. Each closes with a written keep-or-change line judging what carries the question. Exploration that does not close in writing sprawls, and the compressed calendar has no room for sprawl.
+
+</details>
+
+**3.** State the artist rule of the week.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Citation without response earns nothing. The analysis and the answer-in-work happen in one pass, within single sessions: influence made visible in something you made. The response, not the citation, is what the marker credits.
+
+</details>
+
+**4.** Why is on Friday, before A2 has even sat?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because the run is tight and every notice goes out at its earliest workable slot. The overlapping notices are a feature of the compressed semester, not a mistake. The dates were placed once, deliberately, and the register carries them.
+
+</details>
+
+**5.** The homework is two keep-or-change lines: one experiment that carries the question and one that does not, each with its reason. Writing the "does not" line honestly is the skill. It is the same muscle as the rejection paragraph, and it gets used again in two weeks.

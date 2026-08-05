@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s4-unit-5-supervised-test-and-submission]]"
   - "[[classes/a-level-art-design/unit-plans/9479-course-map]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-09-board-week-handover-and-records]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S4 Lesson 10: Course Close and the Two-Year Review
 
@@ -62,3 +62,41 @@ Check you can:
 - Explain how the pipeline changed from C1 to C3 to C2, and what you can now do at pace.
 - Explain that the End-of-Term was met by **the Final**, teacher-marked against the Cambridge criteria.
 - Say what the A2 season ahead asks of you.
+
+## Practice
+
+The last set of the course. No answers to reveal on the last one, because it is yours.
+
+**1.** State what the course was, in one sentence.
+
+<details class="reveal"><summary>Show answer</summary>
+
+The eight-stage pipeline run three times: C1, the portfolio; C3, the personal investigation; C2, the externally set assignment. Same stages, rising ownership: the menu's theme, then your theme, then Cambridge's question answered from your strengths.
+
+</details>
+
+**2.** The review's central question: what can you now do at pace that you could not in September of Grade 11?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Name three, concretely. The honest versions sound like: carry a study for two days without restarting, choose between two built things with the rejection written, plan a piece completely enough that fifteen supervised hours can realize it. Yours will be yours.
+
+</details>
+
+**3.** What met the End-of-Term category, and why was there no exam?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The Final: a teacher-marked assessment of the portfolio against the Cambridge criteria, at the teacher's discretion. A studio course's evidence is the portfolio. A sit-down paper would have measured less, not more.
+
+</details>
+
+**4.** What does the A2 season ask of you?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Patience first: results come when they come. The briefing covers the timeline and where the portfolio carries forward. The work is at the board, and it speaks for itself now, which was the point of every QC pass along the way.
+
+</details>
+
+**5.** Before the portfolio comes back to you, write the two-year line: one sentence about what the work taught you that you intend to keep. No reveal on this one. It is the only piece of writing in the course with no criteria, and it is still worth doing well.

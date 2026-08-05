@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s3-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-11-outcome-2-resolved-and-both-evaluated]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-13-the-viva-rehearsal-critique]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S3 Lesson 12: Assembly — Sequence, Documentation, Bibliography
 
@@ -70,3 +70,41 @@ Check you can:
 - Verify your documentation page by page: photographed, labeled, and legible.
 - Integrate your bibliography into the body of the work.
 - Repair the gaps the sequence exposes before the critique.
+
+## Practice
+
+Try each question before you open its answer. Assembly week's one standard: it reads without you in the room.
+
+**1.** What shape must the sequence have?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The argument in order: where the investigation starts, where it turns, where it lands. Sequence is an AO4 mark, not a formality. A right order read by a stranger is the difference between an investigation and a pile of good pages.
+
+</details>
+
+**2.** Name the documentation check's three words, and the standard behind them.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Photographed, labeled, legible, on every page. The record has to survive without you: no page may depend on your voice to say what it is, when it was made, or what it shows.
+
+</details>
+
+**3.** What did the detached bibliography cost in the 90/100 exemplar, and what is the fix?
+
+<details class="reveal"><summary>Show answer</summary>
+
+AO1 marks, in an investigation that scored 90. The fix is integration: sources appear in the body of the work, where they did their work, not in a list at the back. If an exemplar that strong lost marks there, the rule is not optional.
+
+</details>
+
+**4.** Why does gap repair happen this week and not in submission week?
+
+<details class="reveal"><summary>Show answer</summary>
+
+So the submission QC in Lesson 15 is a check, not a scramble. The sequence walk exposes gaps while there is still studio time to close them. A gap found at QC can only be noted. A gap found now gets repaired.
+
+</details>
+
+**5.** The homework is the stranger read: walk your own sequence cold and mark the first page where it stalls. One mark, honestly placed. Friday's CS9 runs the same test with other eyes, and it is better to have found the stall first.

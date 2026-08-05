@@ -8,7 +8,7 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-07-light-shadow-and-the-series-theme]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-09-a2-the-photographic-series]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/articles-of-glass.jpg" alt="William Henry Fox Talbot, Articles of Glass, 1844" loading="lazy" />
@@ -92,3 +92,41 @@ Check you can:
 - Name **one composition decision and one light decision** in each frame.
 - Edit in the honest order: crop and straighten, then exposure and contrast, then color.
 - Work **non-destructively** so the original file always survives.
+
+## Practice
+
+Try each question before you open its answer. Abundance, then selection. Both are skills.
+
+**1.** Say the discipline rule for every frame of the shoot.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Every frame states one composition decision and one light decision. Thirds or broken. High or low. Side light or back light. A frame that decided nothing is a frame you will cut later anyway, so decide before you press.
+
+</details>
+
+**2.** Why does the contact sheet show everything small and together?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because choosing needs comparing, and comparing needs seeing all the frames at once. Big, one at a time, every photo looks important. Small and together, the strong ones announce themselves. That is why editors have worked this way for a century.
+
+</details>
+
+**3.** Recite the edit order, and the rule that protects you.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Crop and straighten first, then exposure and contrast, then color last. And never edit the only copy: duplicate first on a phone, use adjustment layers in Photoshop or Affinity. The original always survives.
+
+</details>
+
+**4.** What is CS2 marked on?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Framing and selection. Honest reasons on your keeps and your cuts count more than pretty frames. "Cut: same as frame 4 but worse light" is exactly the kind of sentence that scores.
+
+</details>
+
+**5.** Homework: finish the edits on your six to eight candidates, in the order you just recited, originals kept. Then draft a sequence for next week. A2 is made from this work, so tonight's care is next week's mark.

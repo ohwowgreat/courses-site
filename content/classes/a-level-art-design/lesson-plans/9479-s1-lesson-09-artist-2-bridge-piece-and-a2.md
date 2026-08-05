@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-08-artist-study-1]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-10-composition-1]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S1 Lesson 09: Artist 2, Bridge Piece and A2
 
@@ -70,3 +70,41 @@ Check you can:
 - Set a second artist against your first and name what the difference offers.
 - Make and finish a **bridge piece** that carries your study into development.
 - Sit A2 and leave with one direction you can defend.
+
+## Practice
+
+Try each question before you open its answer. A2 sits Mon 11-09 and reviews the whole of Unit 3.
+
+**1.** What is Artist 2 chosen to do?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Argue with Artist 1. The comparison names a tension, not a similarity: where the two disagree about your theme. Two artists who agree teach you one thing twice. The disagreement is what gives your own work a choice to make.
+
+</details>
+
+**2.** What three things does the bridge plan name, and what does the piece bridge?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Composition, media, and what it carries from each artist. The piece bridges study into development: it is the first work that is yours rather than an exercise, made in one sustained session with no restarts, then finished across the gap.
+
+</details>
+
+**3.** The six-day Juniors Days gap has a job. What is it, and what proves it happened?
+
+<details class="reveal"><summary>Show answer</summary>
+
+It is the finishing window for the bridge piece, not slack. The proof is the dated finishing schedule in your sketchbook: entries across the gap, dated as you worked. An undated finish reads as a last-night finish.
+
+</details>
+
+**4.** What does A2 review, and against what?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Everything from Unit 3: the twelve experiments, the media selection, the scale trial, the artist pages, the bridge piece, against the published AO2 and AO3 criteria. Nothing is added during the review. What exists on Monday is what is judged.
+
+</details>
+
+**5.** The feedback day ends with a one-sentence direction you defend for two minutes. Draft it now and test it: it should name what you will develop, in which media, and what from the two artists it carries. If it cannot survive two minutes of questions, it is not yet a direction.

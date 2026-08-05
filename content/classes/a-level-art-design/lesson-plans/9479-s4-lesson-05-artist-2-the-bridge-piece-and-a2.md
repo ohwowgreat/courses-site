@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-04-exploration-and-artist-1]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-06-development-and-a3-the-content-close]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S4 Lesson 05: Artist 2, the Bridge Piece, and A2
 
@@ -78,3 +78,41 @@ Check you can:
 - Make a bridge piece that moves study into development.
 - Run a scale trial at the supervised-test dimensions and name what it exposed.
 - Lay out exploration pages that reason rather than display swatches.
+
+## Practice
+
+Try each question before you open its answer. No surprises may be left for the test room.
+
+**1.** At what size does the scale trial run, and why exactly that size?
+
+<details class="reveal"><summary>Show answer</summary>
+
+At the dimensions the supervised test will use. Composition, materials, and timing all behave differently at test scale, and Wednesday exists so every surprise happens now, with time to fix it. A surprise in the test room costs marks that cannot be recovered.
+
+</details>
+
+**2.** What does artist 2 add that artist 1 did not?
+
+<details class="reveal"><summary>Show answer</summary>
+
+A different angle on the same question. Two angles turn the artist study into a choice you can reason about. The response rule holds for both: answered in work, not just cited, because citation without response earns nothing.
+
+</details>
+
+**3.** What must the exploration pages do?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Reason: why these media, for this question, shown through the experiments, the selection, and the trial. A swatch chart shows what you tried. A reasoning page shows why what remains, remains. Only the second earns AO2.
+
+</details>
+
+**4.** What does A2 mark on Friday?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The whole unit as one: the eight experiments and their selection, both artists with visible responses, the bridge piece, and the scale trial, across AO2 and AO3. Exploration closes here and development opens with its evidence already argued.
+
+</details>
+
+**5.** The homework is the trial note: what the scale trial exposed at test dimensions. Write it while the surprise is fresh. That note is the difference between a plan that anticipates and a plan that hopes.

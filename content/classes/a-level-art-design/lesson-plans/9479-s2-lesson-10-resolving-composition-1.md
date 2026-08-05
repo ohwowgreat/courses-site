@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s2-unit-4-development]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-09-composition-1]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-11-composition-2-and-paper-drafts]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S2 Lesson 10: Resolving Composition 1
 
@@ -60,3 +60,33 @@ Check you can:
 - Explain why **unresolved work cannot be judged**.
 - Photograph and lay out composition 1 through **honest documentation**, showing it as it is.
 - Explain why composition 2 must be tried with **equal effort** for a fair comparison.
+
+## Practice
+
+Two days, one job. Check the job is understood.
+
+**1.** Why can unresolved work not be judged?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because "nearly" leaves every question open: whether the passage would have held, whether the idea carries. A resolved piece is a set of decisions someone can respond to. An unresolved one is a promise, and promises take no mark.
+
+</details>
+
+**2.** Resolution is the development here, not a tidy-up. What is the difference?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Resolving means deciding the passages you marked unresolved: finishing the open questions the piece still asks. A tidy-up polishes what is already decided. Thursday's work is the first kind, and it is why this short week is development and not admin.
+
+</details>
+
+**3.** State the documentation rule, and what rides on it.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Shoot the work as it is, crop and correct without flattering it. Honest documentation is what makes next week's comparison fair: composition 2 will be judged against this record, so a flattered photograph rigs the trial before it starts.
+
+</details>
+
+**4.** The homework opens next week: prepare composition 2 from your rejected-alternative studies, thirty minutes at most. Reread the rejection you wrote when you set it aside. Next week tests whether that reason was right, with equal effort.

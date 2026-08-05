@@ -4,7 +4,7 @@ related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-s3-unit-1-review-and-goal-setting]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-02-the-action-plan-and-development-resumes]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S3 Lesson 01: Reopening and the Summer Audit
 
@@ -70,3 +70,41 @@ Check you can:
 - Explain why the audit marks against the June targets, not against effort.
 - Annotate each summer piece against a named target, knowing unannotated work fails the audit standard and costs AO1.
 - Defend the audit one to one, knowing exactly where the Personal Investigation stands.
+
+## Practice
+
+Try each question before you open its answer. The semester opens with an honest reckoning, and honesty is the skill.
+
+**1.** Name the audit's three verdicts, and what each piece is judged against.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Met, missed, or missing, judged against the target set for it in writing in June. Not against effort, and not against how hard the summer was. What was set in writing is what counts now.
+
+</details>
+
+**2.** What must be true of a piece for it to count in the audit at all?
+
+<details class="reveal"><summary>Show answer</summary>
+
+It is present, and it is annotated against a named target. Unannotated work fails the audit standard and costs AO1: a piece that cannot say which target it answers is evidence of nothing in particular.
+
+</details>
+
+**3.** Why is nothing added to the investigation this week?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because the job is to know exactly where the investigation stands before goals are set against it. Adding work now would blur the audit that next week's action plan is built from. First the reckoning, then the plan.
+
+</details>
+
+**4.** The summer reading reflections have a destination. Where?
+
+<details class="reveal"><summary>Show answer</summary>
+
+They open research paper draft 2 in Unit 4. The reading was never idle: it becomes evidence inside the paper's argument. Keep the reflections with the paper material, not loose in the sketchbook.
+
+</details>
+
+**5.** Before your one-to-one: finish annotating any summer piece not yet judged, and mark your own verdicts first. Arriving with met, missed, and missing already named turns the review into a conversation about what comes next, which is what it is for.

@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-5-final-outcome-and-portfolio]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-13-final-plan-and-a3]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-15-submission-week-and-a4]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S1 Lesson 14: The Final Outcome
 
@@ -81,3 +81,41 @@ Check you can:
 - Resolve the focal areas.
 - Unify the whole surface for surface unity.
 - Declare the piece finished in writing.
+
+## Practice
+
+Try each question before you open its answer. The semester's longest run deserves a clear head each morning.
+
+**1.** Name what each of the four build days does.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Day one, underdrawing and block-in. Day two, the main relationships established. Day three, production. Day four, detail and surface. Structure before refinement, always: detail on day one is procrastination wearing a brush.
+
+</details>
+
+**2.** The plan governs every session, and deviation is a conference, not a drift. What is the difference?
+
+<details class="reveal"><summary>Show answer</summary>
+
+A conference is a change you decide out loud, with the plan on the table, and then annotate. A drift is a change you discover later. Both alter the piece. Only one of them is development you can evidence.
+
+</details>
+
+**3.** What does CS10 actually collect on Friday?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The review reflection: what changes, in what order, and why. The review puts the piece and the plan side by side while there is still time to act. Ranked changes are the point: three days remain, and they go to the top of the list, not to everything.
+
+</details>
+
+**4.** Recite the resolve run.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Day six, focal areas. Day seven, surface unity. Day eight, final touches and stop, with the piece declared finished in writing. The order matters: focal areas first, then the whole surface brought to one level, then the courage to stop.
+
+</details>
+
+**5.** The daily ritual for all eight days: a re-entry look before touching the piece, and an exit annotation against the plan. One line each evening answering one question: what did today's work do that the plan asked for? Eight honest lines are the build run's whole story.

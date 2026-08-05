@@ -7,7 +7,7 @@ related:
   - "[[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan]]"
   - "[[classes/pre-a-level-art-design/assessments/pal-s1-assessments]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-13-final-collage-production]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/cahun-self-portrait.jpg" alt="Claude Cahun, Self-Portrait, 1920" loading="lazy" />
@@ -77,3 +77,41 @@ Check you can:
 - Apply the cover test to remove any element that is only decoration.
 - Explain how juxtaposition, layering, composition, and meaning show up in your collage.
 - Write a reflection that points at decisions visible in the work.
+
+## Practice
+
+Read these before the sitting. The collage starts speaking for itself today.
+
+**1.** Say the cover test, and what it costs.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Cover any one element: does the collage lose part of its sentence? If nothing is lost, that piece is decoration, and it comes off. Even if it is pretty. Especially if it is pretty.
+
+</details>
+
+**2.** What order does the finishing run?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The speaker placed and glued, text set last, edges resolved so every torn edge is on purpose and every cut edge is clean, and the back signed with title and date. The finishing list from last week is the script.
+
+</details>
+
+**3.** How is meaning judged?
+
+<details class="reveal"><summary>Show answer</summary>
+
+On the work and on the reflection's reasons together. "The juxtaposition of X and Y says Z" is the meaning criterion made visible. A strong collage with an empty reflection is an incomplete A3.
+
+</details>
+
+**4.** What goes into the process trail?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Both drafts, the dry-fit photographs, and the best rejected scraps, annotated. The trail shows the decisions behind the finished thing, and it lives in the sketchbook, which is itself submitted in January.
+
+</details>
+
+**5.** After marking, the collage stays flat and safe: the four finals plus the sketchbook become the End-of-Term portfolio on 2027-01-06. December's care is January's mark. Next week the course turns to posters, and the A4 route is announced.

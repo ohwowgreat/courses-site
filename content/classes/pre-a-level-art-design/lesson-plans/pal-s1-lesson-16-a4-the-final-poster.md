@@ -8,7 +8,7 @@ related:
   - "[[classes/pre-a-level-art-design/assessments/pal-s1-assessments]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-15-the-poster-message-audience-hierarchy]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-17-the-portfolio-and-the-sketchbook]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/pioneer-girl.jpg" alt="Aleksandr Rodchenko, Pioneer Girl, 1930" loading="lazy" />
@@ -76,3 +76,41 @@ Check you can:
 - Use the **squint test** to check **hierarchy** and fix it before finishing.
 - Set your type with the **type pass**, keeping the rule that **text sets last**.
 - Write a reflection that names your **hierarchy**, **typography**, **message**, and **audience** decisions.
+
+## Practice
+
+Read these before the sitting. The design thinking happened last week. Today executes it.
+
+**1.** Say the two standing checks and their times.
+
+<details class="reveal"><summary>Show answer</summary>
+
+At twenty minutes, the squint test: pin up or zoom out, three meters back, what reads first? If it is not the message, fix hierarchy before finishing anything. At forty-five minutes, the type pass: the title in its final voice, secondary text smaller than feels polite.
+
+</details>
+
+**2.** Why does text set last?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The speaker rule, carried from the collage: the strongest move happens fresh, at the end, onto a settled background. Text placed early gets buried or apologized to. Text placed last is in charge, which is where poster text belongs.
+
+</details>
+
+**3.** What do you do if your thumbnail collapses on contact with reality?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Revert to your second thumbnail, not to a blank page. That is why last week required four. A backup plan you already drew beats a new idea you have ninety minutes to invent.
+
+</details>
+
+**4.** Recall the criteria and the standard.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Hierarchy, typography, message, audience. The standard is the unit's own test: pin it up, walk back three meters, count three seconds. If the message lands in that window, the poster works.
+
+</details>
+
+**5.** Over the break: the sketchbook stays alive, two to three pages a week, because A5 collects the whole book on Wed 2027-01-06, the same day the End-of-Term portfolio is due. Read the portfolio spec that went home today. January arrives faster from a break.

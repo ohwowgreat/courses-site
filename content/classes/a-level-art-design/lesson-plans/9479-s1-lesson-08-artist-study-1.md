@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-07-selection-and-scale]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-09-artist-2-bridge-piece-and-a2]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S1 Lesson 08: Artist Study 1
 
@@ -82,3 +82,41 @@ Check you can:
 - Run a method study by copying the artist's method and annotating what it taught you.
 - Make a personal response and name the artist's fingerprint in it.
 - Write an influence note that points at visible evidence in the work.
+
+## Practice
+
+Try each question before you open its answer. The artist study arc this week is the shape every artist study in the course follows.
+
+**1.** State the rule for choosing your first artist.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Chosen because they solve your problem, not because you like them. The choice rationale is written down: which problem in your own work this artist has already solved. Liking is allowed. It is just not a reason.
+
+</details>
+
+**2.** Name the five parts of the artist study, in order.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Analysis, meaning and context, method study, personal response, influence note. Analyze the work, place its meaning then and now, copy a passage of the method to learn it, answer the artist with your own source, then point at the evidence of influence.
+
+</details>
+
+**3.** What is the method study for, and what goes in its annotation?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Copying a passage in the artist's own logic, to learn the method from the inside. The annotation says what the copying taught. The copy is not for the wall. It is how a technique moves from their hand to yours.
+
+</details>
+
+**4.** Your meaning-and-context writing gets the strike test from a peer. What gets struck?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Every sentence that could describe any artist. "He uses light and shadow to create mood" survives under half the artists who ever lived, so it says nothing about yours. What survives the strike is specific, and specific is what earns the AO3 mark.
+
+</details>
+
+**5.** Influence must be visible in the work, not claimed in the writing. Thursday's exit asks you to name the artist's fingerprint in your own piece. Rehearse it now on the study you are making, and draft the meaning-and-context paragraph at home tonight. A2's date is on the board: Mon 2026-11-09.

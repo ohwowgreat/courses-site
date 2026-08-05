@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-08-assembly-and-a4-the-submission-package]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-10-course-close-and-the-two-year-review]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S4 Lesson 09: Board Week — Handover and Records
 
@@ -70,3 +70,41 @@ Check you can:
 - Check the package a final time against the specification.
 - Submit C1, C2 and C3 together to the exam board.
 - Photograph your portfolio for your own records before it goes.
+
+## Practice
+
+Try each question before you open its answer. The component leaves the building this week.
+
+**1.** What is the bound on Monday's gap repair?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Only what the QC named, supervised, nothing new. No new work enters a submitted package. The package's integrity holds from QC to deadline, and the repair list is closed the moment it is written.
+
+</details>
+
+**2.** Why do three components go to the board at once?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because the cohort runs a linear June 2028 entry: C1, C2, and C3 all reach the board in the same end-April window. One handover, one checklist covering all three. Two years of work crosses the table in a single week.
+
+</details>
+
+**3.** Why is the portfolio photographed before the handover rather than after?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because after, there is nothing to photograph: the board holds the work. The record has to survive the submission. Thursday's records photography is the version of two years that stays yours.
+
+</details>
+
+**4.** What remains after Friday?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The course close. The board has the components, the marks and samples travel to Cambridge, and what is left is the two-year review and the A2 season. The work of the course is done. The record of it is what you keep.
+
+</details>
+
+**5.** Keep your personal record properly: the full portfolio photography, filed and backed up. Universities, foundation courses, and future applications will ask for exactly this, and the board will not give it back.

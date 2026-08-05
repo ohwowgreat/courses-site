@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s2-unit-4-development]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-11-composition-2-and-paper-drafts]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-13-evaluation-draft-1-and-a3]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S2 Lesson 12: Critique and Targeted Tests
 
@@ -71,3 +71,41 @@ Check you can:
 - Act on a critique by changing the work in response to it.
 - Run targeted tests on only what is still unresolved.
 - Choose the final direction and write out the rejection as AO3 development.
+
+## Practice
+
+Try each question before you open its answer. This week decides the mid-point piece, and the deciding is the development.
+
+**1.** What are both compositions judged against on Monday, and what are they never judged against?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Against your stated intention: does each do what the investigation set out to do? Never against the hours you put in. Effort is invisible in the work. The intention is written down, which is why it can be a measuring stick.
+
+</details>
+
+**2.** The mark is in the response. What does Tuesday require?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Change something because of what you heard. A critique you nod at and ignore is worthless as evidence: the acted-on change, annotated with the comment that caused it, is what CS8 checks.
+
+</details>
+
+**3.** What makes a test targeted?
+
+<details class="reveal"><summary>Show answer</summary>
+
+It runs only on what is still unresolved: the specific passages the critique flagged. Surgical tests on named problems, not a fresh round of exploration. The results read directly into Friday's decision: what did the tests settle?
+
+</details>
+
+**4.** Choosing is development. What turns Friday's choice into AO3 evidence?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The written rejection: why not the other one, in full sentences, with the tests and the critique behind it. A choice you can justify is AO3. A choice by default, because one piece happened to be further along, is not.
+
+</details>
+
+**5.** The homework opens A3 week: write evaluation notes on the chosen direction and consolidate the paper draft. A3 reviews the development and paper draft 1 together on Fri 2027-05-28, and this weekend is where its material gets gathered.

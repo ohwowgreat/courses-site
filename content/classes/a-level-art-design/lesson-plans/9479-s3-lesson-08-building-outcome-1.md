@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s3-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-07-outcome-1-opens-and-a2-the-mock-review]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-09-resolving-outcome-1-and-the-final-paper-text]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S3 Lesson 08: Building Outcome 1
 
@@ -64,3 +64,41 @@ Check you can:
 - Build outcome 1 in one sustained run rather than a series of restarts.
 - Act the same day on what the mid-production review names.
 - Keep the build inside your plan while there is still time to change it.
+
+## Practice
+
+Try each question before you open its answer. One run, reviewed in time, acted on the same day.
+
+**1.** Why is outcome 1 built as one sustained run rather than a series of fresh starts?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because continuity is what carries AO3 into AO4: the outcome must visibly grow out of the development, and a restart severs that growth each time. A run also compounds: every session starts where the last one ended instead of at zero.
+
+</details>
+
+**2.** The plan from CS5 is executed, not reinvented. What does that permit mid-run?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Execution decisions: the ones the plan left to the brush. Not new compositions, new palettes, or new materials. Those were decided when deciding was cheap. If the plan is genuinely wrong somewhere, that is a conference, not a quiet swap.
+
+</details>
+
+**3.** Why does the mid-production review land on Thursday, mid-build?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because a review after the work is fixed changes nothing. Thursday's review lands while the work is still movable, which is the only time a review is worth anything. CS6 marks the review itself.
+
+</details>
+
+**4.** State the same-day rule.
+
+<details class="reveal"><summary>Show answer</summary>
+
+What the review names, you act on the same day, on Friday at the latest. CS6 marks the review, but the work is what proves you used it. A named change still unactioned a week later is a decision to ignore it.
+
+</details>
+
+**5.** The homework is one line: the one change the mid-production review named, written down before you act on it. Naming before acting is what makes the change traceable. A3, the final research paper, is fourteen days out from Monday's announcement.

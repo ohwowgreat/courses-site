@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-4-development]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-10-composition-1]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-12-targeted-tests-and-direction]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S1 Lesson 11: Composition 2 and Critique
 
@@ -69,3 +69,41 @@ Check you can:
 - Build Composition 2 as the road not taken, with the same effort as Composition 1, so the comparison is honest.
 - Run a structured critique that judges both compositions against the stated intention, not against effort.
 - Change something in your work because of what you heard in the critique, and annotate the change and its cause.
+
+## Practice
+
+Try each question before you open its answer. This week the alternative gets its fair chance.
+
+**1.** What must Composition 2 be, and what must it receive?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Genuinely the rejected alternative from Lesson 3's thumbnails, not a variation of Composition 1. And equal effort, so the comparison is honest. A weak version of the road not taken proves nothing except that you did not take it.
+
+</details>
+
+**2.** Why build the rejected alternative at all?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because a choice between two built things is a decision with evidence, and a choice against a thumbnail is a guess. The rejection note from Lesson 3 gets read back before composing: this week tests whether the reason was right.
+
+</details>
+
+**3.** Recite the critique protocol, and the thing it never evaluates against.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Describe, evaluate against the intention, one suggestion. Maker speaks last, notes taken verbatim, and each maker circles the two comments that matter. It never evaluates against effort. The intention is the measuring stick, because effort is not visible in the work and intention is.
+
+</details>
+
+**4.** What does Tuesday require, exactly?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Change something real on the stronger composition, and annotate what changed and which comment caused it. A critique that changes nothing in the work was a conversation. The annotated change is the evidence that you can hear.
+
+</details>
+
+**5.** The nightly sketchbook rule this week: studies toward whichever composition is weaker. Feeding the strong one is comfortable and teaches less. The weaker piece is where the next decision lives.

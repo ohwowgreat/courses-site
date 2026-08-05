@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s3-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-13-the-viva-rehearsal-critique]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-15-submission-qc-the-return-and-into-c2]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S3 Lesson 14: A4 — The Complete Investigation
 
@@ -68,3 +68,41 @@ Check you can:
 - Submit the complete Personal Investigation at **A4**: both outcomes, the portfolio, and the research paper.
 - Explain that there are no edits after A4, so the submission is fixed.
 - Begin submission photography while the work is still at hand.
+
+## Practice
+
+Use these across the three days. The investigation closes here.
+
+**1.** What does the pre-submission AO check require?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Page by page, all four descriptors evidenced, in writing: where AO1 Record lives, where AO2 Explore lives, where AO3 Develop lives, where AO4 Present lives. An AO with no page to point at is a gap, and Monday and Tuesday exist to close exactly those.
+
+</details>
+
+**2.** Why are Tuesday's named gaps called the last marks that can still be earned?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because after Wednesday there are no edits. A gap closed on Tuesday is a mark. The same gap on Thursday is a regret. The phrase is meant literally, and it is why the check runs before the submission rather than after.
+
+</details>
+
+**3.** What is submitted at A4?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The complete Personal Investigation: both outcomes, the supporting portfolio, and the research paper, judged together across AO1 to AO4. Submitted in session, fixed at submission. The investigation that began with the theme lock in March ends here.
+
+</details>
+
+**4.** Why does submission photography begin Wednesday, of all days?
+
+<details class="reveal"><summary>Show answer</summary>
+
+While the work is still at hand, before the break scatters it. The QC tail after the holiday runs on these images: the PDF is assembled from them. Photographing now, properly, is what makes the tail a check instead of a rebuild.
+
+</details>
+
+**5.** Over the break, the only work is the Semester 4 winter homework: the C2 past-paper review and the drawing regimen. The investigation is done and needs nothing from you. Let it rest, and rest with it.

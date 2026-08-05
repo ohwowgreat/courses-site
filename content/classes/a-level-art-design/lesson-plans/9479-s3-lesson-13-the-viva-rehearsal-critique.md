@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s3-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-12-assembly-sequence-documentation-bibliography]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-14-a4-the-complete-investigation]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S3 Lesson 13: The Viva-Rehearsal Critique
 
@@ -68,3 +68,41 @@ Check you can:
 - Trace every decision you name back to a page that supports it.
 - Act on the critique: change what broke and log what held.
 - Explain why nothing new starts after the critique, and refine only toward A4.
+
+## Practice
+
+Try each question before you open its answer. Defend it aloud before the examiner reads it cold.
+
+**1.** What do you defend in the viva, and what backs every defense?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The investigation entire: the process, the research, the outcomes, under questioning. Every decision you name must be visible on a page. A defense the pages do not support is not a defense, it is a story about work that is not in the room.
+
+</details>
+
+**2.** Why rehearse aloud something that will be judged in silence?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because a live audience stress-tests the sequence before the examiner reads it cold. Questions find the gaps that narration papers over. Where a questioner had to ask, the pages did not answer, and that is exactly the page to fix on Thursday.
+
+</details>
+
+**3.** Thursday has two verbs. Name both, and say why the second matters.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Change what broke, log what held. The log of what held is a map of what the pages already prove: it tells you where refinement is not needed, which protects the last week from anxious rework of things that were already working.
+
+</details>
+
+**4.** State the rule that starts at the critique.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Nothing new starts. From here to A4 is refinement of what exists: last touches, closed gaps, nothing fresh. A new piece started now would arrive unfinished at submission and weaken both itself and the pair.
+
+</details>
+
+**5.** The homework is the hardest question the critique put to you, answered in writing. If the answer needs a page that does not exist, that page is Friday's refinement. If it needs a page that exists, point your answer at it and keep both.

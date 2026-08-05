@@ -9,7 +9,7 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-16-a4-the-final-poster]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/mucha-poster.jpg" alt="Alphonse Mucha, Calendar of Cherry Blossom, 1898" loading="lazy" />
@@ -89,3 +89,41 @@ Check you can:
 - Describe **type as voice** and how one word can sound like different people.
 - Produce an annotated poster analysis (CS4).
 - Design four thumbnails with type studies and circle one with a reason.
+
+## Practice
+
+Try each question before you open its answer. A poster gets three seconds. So do these.
+
+**1.** What is a poster's deadline, and what happens if it misses?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Three seconds and three meters: one message, delivered to one audience, from across the hallway, at a glance. If it needs longer or closer, it has failed as a poster, however beautiful it is as a picture.
+
+</details>
+
+**2.** Say the four questions to ask any poster.
+
+<details class="reveal"><summary>Show answer</summary>
+
+What does it say? Who is it for? What reads first? What does the type sound like? The message is one sentence or it is not a message. The audience is specific. The reads have an order. The type has a voice.
+
+</details>
+
+**3.** What is hierarchy, in poster terms?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The order things get read: first read, second read, third read. The 1860s Gsell advertisement makes one name card command a hundred small photographs. Your poster decides that order for the viewer, or the viewer decides it for you, usually badly.
+
+</details>
+
+**4.** What does "type as voice" mean?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The same word in three different letterings sounds like three different people. Lettering carries tone before it carries information. This is the collage unit's text-as-image, now promoted to being in charge.
+
+</details>
+
+**5.** A4 sits next Wednesday, marked on hierarchy, typography, message, audience: a poster for an exhibition of your own work, for this school's hallway. The homework is logistics: gather or make everything your circled thumbnail needs, so the making session makes.

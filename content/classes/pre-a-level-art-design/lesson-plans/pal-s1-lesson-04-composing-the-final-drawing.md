@@ -8,7 +8,7 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-03-texture-mark-making-and-negative-space]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/composition.jpg" alt="Clara Peeters, Still Life with Cheeses, Almonds and Pretzels, c. 1613" loading="lazy" />
@@ -73,3 +73,41 @@ Check you can:
 - Use **scale to frame** so the object fills the page or uses empty space on purpose.
 - Use **cropping** at the edge of the page as a tool.
 - Construct the final drawing from your chosen thumbnail, structure first, using tone and texture from Lessons 02 and 03.
+
+## Practice
+
+Try each question before you open its answer. The composition is decided before the good paper.
+
+**1.** Name the four composition decisions.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Viewpoint, placement, scale to frame, cropping. Move before you draw, because three steps left changes everything. Off-center beats dead-center. Fill the frame or use emptiness on purpose. The edge of the page is a tool, not a wall.
+
+</details>
+
+**2.** Why make three thumbnails when you will only draw one?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because a choice needs options. Three fast tonal thumbnails through the viewfinder, then circle one and write the reason: "I chose this one because..." Deciding by comparing beats defaulting to the middle every time.
+
+</details>
+
+**3.** What should the drawing be by the end of today?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Decided everywhere and finished nowhere. Light construction lines, proportions blocked, main masses of tone laid. No detail yet, because detail on an undecided drawing decorates a mistake.
+
+</details>
+
+**4.** What is CS1 marked on?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Completeness and honest looking, not polish. All four exercise pieces in the sketchbook, each showing you really looked. A rough drawing that looked hard scores. A neat one that did not, does not.
+
+</details>
+
+**5.** Homework: one ten-minute observational sketch of a home object, and post on MB. Use the four decision words on it before you start. Even a ten-minute sketch deserves a viewpoint chosen on purpose.

@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s2-unit-5-mid-point-portfolio]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-13-evaluation-draft-1-and-a3]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-15-submission-week-and-a4]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S2 Lesson 14: Mid-Point Piece and Bibliography
 
@@ -69,3 +69,41 @@ Check you can:
 - Refine that resolved piece to a standard the mid point can stand on.
 - Explain **bibliography integration** and why a detached list at the back loses AO1 marks.
 - Plan the **page architecture** for the whole portfolio before assembly begins.
+
+## Practice
+
+Try each question before you open its answer. The portfolio is built around one piece, and this week chooses it.
+
+**1.** What is the mid-point piece, and where does the choice come from?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The one resolved piece that carries the investigation: the work the whole portfolio is built around. The choice comes from your A3 feedback, not from fondness. It has to hold as the strongest single thing in the portfolio.
+
+</details>
+
+**2.** Two days of refinement, and the rule is refinement, not restart. What does that permit?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Finishing the chosen piece properly: surface, resolution, the passages the feedback named. It does not permit a new piece, a new composition, or second thoughts about the choice. The choosing happened Monday, with reasons. The rest of the week finishes it.
+
+</details>
+
+**3.** State the bibliography rule and its price.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Sources are woven into the body of the work, cited where they did their work, in the pages. A detached list parked at the back loses AO1 marks. CS9 checks exactly this integration, and it is the last CS of the semester.
+
+</details>
+
+**4.** Why is Friday spent planning pages instead of building them?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because sequence decided on paper makes next week assembly, not invention. The journey in order, page by page, before anything is glued or filed. Inventing the order during submission week is how portfolios lose their reading.
+
+</details>
+
+**5.** Over the weekend, prepare images and page order for the build. Thirty minutes. Walk the planned sequence once as a stranger would: theme to recording to exploration to artists to development to the resolved piece to the paper. Note where you stumble, and fix the order before Monday.

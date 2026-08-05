@@ -8,7 +8,7 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-12-theme-and-composition-drafts]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/assembling.jpg" alt="Aleksandr Rodchenko, Assembling for a Demonstration, 1928" loading="lazy" />
@@ -77,3 +77,41 @@ Check you can:
 - Photograph the build in stages as sketchbook process evidence.
 - Explain why an edge is a decision, torn or cut.
 - Save a digital working file without flattening it.
+
+## Practice
+
+Try each question before you open its answer. Assembly with a plan, not a scramble.
+
+**1.** Recite the build order.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Background, large shapes, middle layers, the speaker, text last. The same order as the layering lesson, because what is in front is what wins, and the front goes down last.
+
+</details>
+
+**2.** Say the three standing rules of the build.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Dry-fit each layer before gluing it, and photograph every stage. Stop at the speaker: the top element and any text stay unglued today. Edges are decisions: every torn edge on purpose, every cut edge clean.
+
+</details>
+
+**3.** Why stop at the speaker instead of finishing?
+
+<details class="reveal"><summary>Show answer</summary>
+
+So next week's A3 session opens with the strongest move still live. The assessment double should contain real composition work, not just varnishing. Gluing everything today would spend the best decision a week early.
+
+</details>
+
+**4.** What is the finishing list, and why write it now?
+
+<details class="reveal"><summary>Show answer</summary>
+
+What remains, in what order, needing what. Written today while the build is fresh, because next Wednesday runs on it. A session that starts with a list starts working in minute one.
+
+</details>
+
+**5.** SB2 ran today, and it is the last sketchbook look before the full book goes in as A5 on 2027-01-06. If anything was flagged, fix it across the next five weeks, not in the last one. Homework: gather what your finishing list needs.

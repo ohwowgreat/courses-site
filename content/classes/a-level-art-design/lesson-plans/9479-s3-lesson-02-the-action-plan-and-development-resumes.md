@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-01-reopening-and-the-summer-audit]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-03-candidate-compositions-and-the-paper-reopens]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S3 Lesson 02: The Action Plan and Development Resumes
 
@@ -66,3 +66,41 @@ Check you can:
 - Compose final-outcome candidates **from the summer production, not from memory**, and say why memory-based outcomes fail AO4 later.
 - Build a candidate composition far enough to be judged.
 - Describe how this **second pass** develops outcome candidates from earlier first-pass compositions.
+
+## Practice
+
+Try each question before you open its answer. This week signs the semester's contract.
+
+**1.** What must every goal in the action plan name?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Pages, pieces, and dates. "Improve the development" is an intention, and intentions cannot be checked. "Two candidate compositions built to judgeable standard by Fri 09-10" is a goal, because in ten days it will be visibly true or false.
+
+</details>
+
+**2.** State the action plan's three properties and its role.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Written, dated, signed. It is the semester's contract, built from the audit, and it governs every week to the December submission. You are measured against it, not against effort. That is what makes it worth signing carefully.
+
+</details>
+
+**3.** Why must the outcome candidates be composed from the summer production, not from memory?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because an outcome from nowhere fails AO4 later, regardless of quality. The final piece must be traceable back through development to recording. Composing from the summer work keeps the chain intact. Composing from memory breaks it at the last link.
+
+</details>
+
+**4.** What does "second pass" mean for what you do and do not do?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The pipeline resumes at development: Semester 2 built first-pass compositions, and now you compose final-outcome candidates. Recording and exploration are complete and are not repeated. Going back to reshoot or re-experiment now is the calendar's most expensive mistake.
+
+</details>
+
+**5.** The nightly habit: composition thumbnails toward the candidates, feeding CS2. Compose from the summer pieces on the table, not from the idea of them. Two candidates go forward next week, so thumbnail wider than two.

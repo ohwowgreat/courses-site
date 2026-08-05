@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-4-development]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-12-targeted-tests-and-direction]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-14-the-final-outcome]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S1 Lesson 13: Final Plan and A3
 
@@ -76,3 +76,41 @@ Check you can:
 - Settle a **palette and materials** argued from meaning, swatched and tested on the actual support.
 - Sit **A3** and have your portfolio reviewed against the AO3 criteria.
 - Turn A3 feedback into written and physical plan adjustments.
+
+## Practice
+
+Try each question before you open its answer. Nothing about the final outcome is left to the day itself.
+
+**1.** State the bar the final plan must clear.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Complete enough that a capable stranger could begin the piece from it. Structure, values, and the sequence of work, all marked. If beginning would require asking you a question, the plan has a hole where that question is.
+
+</details>
+
+**2.** Tuesday asks for thumbnails that solve, not decorate. What exactly happens on paper?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The plan is tested small, and one genuine alternative is pushed and rejected on paper, with the rejection annotated. Solving small is cheap. The same problem discovered at full scale during the build run costs days the calendar does not have.
+
+</details>
+
+**3.** What does "a palette argued from meaning" require before the outcome begins?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Palette and materials settled, swatched, tested on the actual support, and named for what they carry. On the actual support because paper lies: the same color sits differently on canvas, board, or card, and the build run is not the place to find out.
+
+</details>
+
+**4.** What does A3 review, and what is the rule during the review?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Compositions 1 and 2, the targeted tests, the written evaluation, and the final composition plan, against the published AO3 criteria. Nothing is added during the review. Wednesday's written self-check against the same descriptors is your rehearsal: the calibration habit stays unbroken.
+
+</details>
+
+**5.** Friday converts feedback into a physically amended plan, changes initialed. Rehearse the move now: for any comment you expect, write the plan change it would cause. Feedback that changes nothing on the plan was not heard, and next week the plan governs every session.

@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-03-intention-and-composition-planning]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-05-recording-pages-and-a1]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S1 Lesson 04: The Sustained Study
 
@@ -76,3 +76,41 @@ Check you can:
 - Compose a Stage 1 page using hierarchy, breathing room, and annotation placement so a stranger can follow it.
 - Support the sustained study with focused color and texture studies.
 - Judge your study against the AO1 descriptors.
+
+## Practice
+
+Try each question before you open its answer. The sustained study is the spine of AO1 Record, and A1 is announced this week.
+
+**1.** What happens in the five minutes before the first mark, and why?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Looking. Five minutes with the source before any mark, so placement and structure are decisions rather than accidents. The study that starts wrong spends two days being wrong. The five minutes are the cheapest correction you will ever make.
+
+</details>
+
+**2.** State the two rules that govern the sustained study, and what they buy.
+
+<details class="reveal"><summary>Show answer</summary>
+
+No restarts, and cover, do not erase. The sheet that starts Monday finishes Wednesday. One study carried across two days without starting again is the point of the exercise: stamina is the content, and a corrected passage shows more looking than a clean one.
+
+</details>
+
+**3.** What makes the two A5 studies "supporting" rather than more of the same?
+
+<details class="reveal"><summary>Show answer</summary>
+
+They are focused: one on color, one on texture, each answering a question the main study raised. Support means the small studies serve the big one. Repeating the main study smaller supports nothing.
+
+</details>
+
+**4.** Name the three things Sunday's page architecture demo cares about.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Hierarchy, breathing room, and annotation placement. The Stage 1 page is composed from Lesson 3's material, not pasted: the biggest thing should be the most important thing, the page needs air, and the writing sits where it explains.
+
+</details>
+
+**5.** The nightly habit this week: ten minutes of observed drawing per night from your composition's source, dated. Mid-study each day, run your own checkpoint: is the proportion checked, is the tone mapped, are the edges found by value rather than outline? A1's criteria are read aloud Thursday, with the date on the board.

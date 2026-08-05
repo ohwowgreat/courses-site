@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-07-the-15-hour-supervised-test]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-09-board-week-handover-and-records]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S4 Lesson 08: Assembly and A4 — the Submission Package
 
@@ -78,3 +78,41 @@ Check you can:
 - Explain why breaking the specification loses marks the artwork earned.
 - Pass supervised quality control line by line and complete **CS7**.
 - Explain that **A4** is the internal grade layer for the package, while Cambridge marks the piece externally.
+
+## Practice
+
+Try each question before you open its answer. The packaging is graded. Treat it as work.
+
+**1.** What does A4 grade, and what does it deliberately not grade?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The submission package: its completeness and order, as the internal grade layer across AO1 to AO4. It does not grade the artwork twice. The final C2 piece is marked externally by Cambridge, so A4's job is everything around it.
+
+</details>
+
+**2.** State the specification rule and its price.
+
+<details class="reveal"><summary>Show answer</summary>
+
+The package matches the Cambridge specification exactly: sequence, labels, limits. A package that breaks the specification loses marks the artwork earned. Nothing about that sentence is hypothetical, which is why QC reads the specification line by line.
+
+</details>
+
+**3.** How is the final piece photographed?
+
+<details class="reveal"><summary>Show answer</summary>
+
+As the version the examiner sees: shot to the specification, corrected without flattering it. The piece spent fifteen supervised hours becoming what it is. The photograph's only job is to tell that truth cleanly.
+
+</details>
+
+**4.** What is Thursday's supervised QC, mechanically?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The specification, line by line, against the assembled package, with CS7 collecting the checklist and reflection. Every finding is a fix made before Friday. After Friday's A4 there are no edits, and Cambridge takes it from there.
+
+</details>
+
+**5.** The homework is the submission checklist run by you before it is run on you: every item present, ordered, and labeled. Read the labels out loud. The error QC catches most is the one reading silently skips.

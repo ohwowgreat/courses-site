@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-02-the-action-plan-and-development-resumes]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-04-development-studies-and-targeted-tests]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S3 Lesson 03: Candidate Compositions and the Paper Reopens
 
@@ -68,3 +68,41 @@ Check you can:
 - Write down the rejection when you choose one candidate.
 - Open research paper draft 2 with structure and argument before prose.
 - Weave your summer reading into the argument as evidence, not as summary.
+
+## Practice
+
+Try each question before you open its answer. Narrow and deepen is the week's whole instruction.
+
+**1.** Why must two candidates go forward rather than the one you already prefer?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because a single idea cannot be compared, and the eventual choice must be a comparison. Developing only one leaves nothing to choose between, which makes the "choice" a default. The rejected candidate, with its rejection written, is development evidence in its own right.
+
+</details>
+
+**2.** State the equal-standard rule and what it protects.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Both candidates are pushed to the same standard, so neither wins by neglect of the other. It protects the honesty of the comparison: a decision between a built piece and a starved one was made before it was made.
+
+</details>
+
+**3.** Draft 2 opens with structure, not prose. What does structure mean here?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The sections, and what each one must prove. Argument before prose: you know what the paper claims and how the sections carry the claim before sentences get written. Prose written before structure is prose that gets deleted.
+
+</details>
+
+**4.** What is the rule for the summer reading inside draft 2?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Woven into the argument as evidence, not summarized. A book report at the back proves you read. Reading working inside the argument proves you understood. The paper is marked as an argument, so the reading earns its place by doing argumentative work.
+
+</details>
+
+**5.** The homework is the next section's outline: the argument, not the prose. One claim, the evidence that carries it, the work of yours it connects to. If a section cannot say what it proves, it is not ready to write.

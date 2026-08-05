@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-01-the-esa-question-locked]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-03-sustained-study-and-a1]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S4 Lesson 02: Recording at Exam Pace
 
@@ -78,3 +78,41 @@ Check you can:
 - Shoot and draw your reference within the same week.
 - Open a **sustained study** and keep developing it instead of restarting.
 - Build **recording pages** as the work happens and annotate each back to the question.
+
+## Practice
+
+Try each question before you open its answer. The pace changes. The rules do not.
+
+**1.** What does exam pace change about the sourcing rule?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Nothing. All reference is self-generated: nothing found, nothing borrowed, and it does not relax under exam pressure. The pressure is exactly when borrowed imagery is most tempting and most fatal, because AO1 on the real exam is still your own looking.
+
+</details>
+
+**2.** Why are the recording pages built as the work happens?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because there is no later in an exam-paced unit. A page deferred to a quieter week meets no quieter week. Built-as-you-go also means the annotation is written while the decision is fresh, which is when it is true.
+
+</details>
+
+**3.** State the same-week rule for reference.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Shot and drawn within the same week. The shoot is planned in the same session the intention is stated, and the drawing follows the shoot immediately. Reference that waits goes stale, and generated-not-sourced only counts if the generating actually happens.
+
+</details>
+
+**4.** The homework cap survives the exam semester. Why?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Thirty minutes, capped, because exam pace is not homework inflation. The pace lives in the studio sessions, not in your evenings. A tired hand records worse, and the semester is long.
+
+</details>
+
+**5.** This week's homework: annotate the shoot, one line per frame, saying what each gives the question. A frame that gives the question nothing is a frame you do not draw from. The annotation is the edit.

@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s2-unit-4-development]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-12-critique-and-targeted-tests]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-14-mid-point-piece-and-bibliography]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S2 Lesson 13: Evaluation, Draft 1 and A3
 
@@ -69,3 +69,41 @@ Check you can:
 - Assemble the Stage 6 page so it reads as a trail of decisions a stranger can follow.
 - Complete research paper draft 1 by pulling your sections into one full draft against the outline.
 - Repair a full draft by fixing thin sections, unsourced claims, and joins that do not hold.
+
+## Practice
+
+Try each question before you open its answer. Unit 4 closes here, and A3 marks the development and the paper together.
+
+**1.** The evaluation answers three questions. Name them, and name its measuring stick.
+
+<details class="reveal"><summary>Show answer</summary>
+
+What the chosen direction achieves, what it cost, and what you would push next. Measured against your stated intention, never against the effort. Honest evaluation is AO3 in its own right, not decoration around the pieces.
+
+</details>
+
+**2.** Why does the paper have to exist end to end this week?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because a full draft exposes what sections hide: the thin section, the claim without a source, the join that does not hold. Thursday exists to repair exactly those. A paper first assembled in November would meet its own gaps with no time left to close them.
+
+</details>
+
+**3.** What does the Stage 6 page hold, and what is its test?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The development as a trail of decisions: compositions, critique, tests, choice, each step visible. The test is a stranger following the reasoning without you in the room. Development that cannot be followed cannot be credited.
+
+</details>
+
+**4.** List what A3 gathers on Friday.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Compositions 1 and 2, the targeted tests, the evaluation, the Stage 6 page, and the paper's first full draft, reviewed together against AO3. Nothing is added during the review, and it is the last taught session before the fortnight that builds the mid-point portfolio.
+
+</details>
+
+**5.** After A3 returns, act on the feedback toward the mid-point piece and begin weaving the bibliography toward the body of the work. Next week the detached list at the back stops being an option.

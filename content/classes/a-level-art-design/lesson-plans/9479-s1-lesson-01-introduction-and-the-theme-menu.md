@@ -4,7 +4,7 @@ related:
   - "[[classes/a-level-art-design/a-level-art-design]]"
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-1-foundations-on-the-theme]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-02-formal-elements-on-the-theme]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S1 Lesson 01: Introduction and the Theme Menu
 
@@ -73,3 +73,41 @@ Check you can:
 - Commit to one theme from the theme menu against those criteria and sign the commitment card.
 - Open a source folder with your first photographs.
 - Make first line studies in continuous line and structural line on your theme.
+
+## Practice
+
+Try each question before you open its answer. This week installs the habits the whole portfolio runs on.
+
+**1.** A theme earns its place only if it passes five criteria. Name as many as you can.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Primary sources photographable within daily reach all semester. Survives four months of looking. Genuinely carries line, tone, texture, and color. Opens both 2D and 3D development. Has a deep artist reference pool to draw from. A theme that fails one of these fails you in November, not in week one.
+
+</details>
+
+**2.** Why is the theme committed against criteria instead of by mood?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because it is the most consequential decision of the semester, and mood does not survive four months. The criteria test what the theme will be like to work with in week twelve. A signed commitment card closes the exit: theme, three source locations, first shoot date.
+
+</details>
+
+**3.** State the sourcing rule, and what it rules out.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Nothing found, nothing borrowed. Every source is your own: your photographs, your objects, your places. Internet images and other people's pictures are not sources here, because recording means your own looking.
+
+</details>
+
+**4.** What are the two line studies from Friday, and what is the difference between them?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Continuous line and structural line. Continuous line follows the edge without lifting, and tests how closely you look. Structural line builds the object's construction. Annotating which one told the truth about your object is the first act of honest annotation in the portfolio.
+
+</details>
+
+**5.** Test your theme against criterion two tonight. List ten things inside it you could still photograph in December. If the list dries up at four, bring that finding to the sign-off. Changing theme this week costs a conversation. Changing in November costs the portfolio.

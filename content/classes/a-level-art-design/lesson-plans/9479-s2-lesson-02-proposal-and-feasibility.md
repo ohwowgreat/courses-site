@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s2-unit-1-foundations-on-the-investigation]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-01-opening-the-investigation]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S2 Lesson 02: Proposal and Feasibility
 
@@ -27,7 +27,7 @@ modified: 2026-07-26
 
 ## Overview
 
-This week you turn your strongest candidate idea into a proposal you can defend on paper. You write the theme and aims, plan the primary sources you control, and shortlist artists who solve real problems. Then you stress-test the whole thing against the eight-stage pipeline before you take it to consultation. You submit the proposal as **CS1** on Fri 2027-03-05, and you leave consultation 2 with either a decision to lock or one named fix. Fixing a weak proposal now, on paper, is cheap. Fixing it in April, in the studio, is not. The proposal sets up the theme lock in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked|Lesson 03]].
+This week you turn your strongest candidate into a written proposal you can defend on paper: a theme, aims, a primary-source plan, and an artist shortlist. You stress-test the whole proposal against the eight-stage pipeline before you take it to consultation. You submit the proposal as **CS1** on Fri 2027-03-05, and you leave consultation 2 with either a decision to lock or one named fix. Fixing a weak proposal now, on paper, is cheap. This proposal sets up the theme lock next week in Lesson 03.
 
 
 <figure class="plate">
@@ -39,38 +39,81 @@ This week you turn your strongest candidate idea into a proposal you can defend 
 
 ### The proposal
 
-A **proposal** is a written plan for your investigation. It has four parts: the theme, your aims, a primary-source plan, and an artist shortlist. Your aims say what the investigation will look at and why it can sustain the full pipeline to December. Write the aims in your own words. Do not borrow exemplar language.
+A **proposal** is a written statement of your theme, your aims, your primary-source plan, and your artist shortlist. It is judged on whether it is defensible: sources you can reach are named, aims are in your own words, and artists are chosen for reasons. Write the theme and aims from the candidate that survived last week. Say what the investigation will look at and why it can sustain the full pipeline to December. Use your own words for the aims, not borrowed exemplar language.
 
 ### The primary-source plan
 
-The **primary-source plan** lists the shoots and sittings you control: what, where, when, and how often. The rule is **Nothing found, nothing borrowed**: your sources must be ones you make or reach yourself. If the plan needs found imagery to fill its gaps, the theme still has a sources problem. Better to find that out now.
+The **primary-source plan** lists the shoots and sittings you control: what, where, when, and how often. The rule is **Nothing found, nothing borrowed**: if the plan needs found imagery to fill its gaps, the theme still has a sources problem, and it is better to know that now.
 
 ### The artist shortlist
 
-The **artist shortlist** is two or three artists chosen for the problems they solve: a composition problem, a process, or a material. Do not choose personal favorites. Write one line on each artist saying what you would actually learn from them.
+The **artist shortlist** is two or three artists chosen for the problems they solve: a composition problem, a process, or a material. Do not choose personal favorites. Write one line on each for what you would actually learn from them.
 
-### The feasibility test
+### Feasibility against the pipeline
 
-The **feasibility test** walks your proposal through all eight stages of the pipeline and marks where it breaks. Ask: is there enough to record, to explore, to develop, and to resolve? Fix what breaks on paper, while it costs nothing.
+The **eight-stage pipeline** is the path your investigation must complete. To run a **feasibility test**, walk your proposal through all eight stages and mark where it breaks: is there enough to record, to explore, to develop, and to resolve? Fix what breaks on paper, while it costs nothing.
+
+### Consultation 2
+
+At **consultation 2** you meet one to one and defend your fixed proposal. You leave with a decision to proceed to the lock, or a single specific fix to make before Lesson 03.
 
 ## Day by day
 
-- **Mon 03-01.** Draft the theme and aims from the candidate that survived last week's screens. Write what the investigation will look at and why it can sustain the pipeline to December, in your own words.
-- **Tue 03-02.** Write the primary-source plan: the shoots and sittings you control, with what, where, when, and how often. Check it against **Nothing found, nothing borrowed**.
-- **Wed 03-03.** Build the artist shortlist: two or three artists chosen for the problems they solve, with one line each on what you would learn from them.
-- **Thu 03-04.** Run the feasibility test against all eight stages of the pipeline. Fix what breaks today, on paper.
-- **Fri 03-05.** Consultation round 2, one to one. Bring the fixed proposal and defend it. You leave with a decision to proceed to the lock or one specific fix to make before Lesson 03. Submit the proposal draft as **CS1**. Homework (≤30 min): act on your consultation-2 feedback and begin the statement of intent and annotated references for **CS2** (Fri 2027-03-12).
+- **Mon 03-01.** Draft the theme and aims from the candidate that survived last week: what the investigation looks at and why it can sustain the pipeline to December.
+- **Tue 03-02.** Build the primary-source plan. List the shoots and sittings you control, and check the plan does not depend on found imagery.
+- **Wed 03-03.** Build the artist shortlist: two or three artists chosen for the problems they solve, with one line each on what you would learn.
+- **Thu 03-04.** Run the feasibility test. Walk the proposal through all eight stages, mark where it breaks, and fix it today on paper.
+- **Fri 03-05.** Consultation 2, one to one. Bring the fixed proposal and defend it, then submit it as **CS1**. Homework (≤30 min): act on your feedback and begin the statement of intent and annotated references for **CS2** (Fri 2027-03-12).
 
 ## Assessment
 
-**CS1** (proposal draft — theme, aims, primary-source plan, artist shortlist) is due **Fri 2027-03-05**, a Course Skills written annotation that sets up the theme lock. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It is marked on whether the proposal is defensible: reachable sources named, aims in your own words, artists chosen for reasons. Next comes the statement of intent and annotated references (**CS2**, Fri 2027-03-12). Then the theme is locked in writing in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked|L03]]. After the lock there are no restarts.
+**CS1** (proposal draft: theme, aims, primary-source plan, artist shortlist) is due **Fri 2027-03-05**. It is a Course Skills written annotation that sets up the theme lock directly. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It is marked on whether the proposal is defensible: reachable sources named, aims in your own words, artists chosen for reasons. Next comes the statement of intent and annotated references (**CS2**, Fri 2027-03-12), and then the theme is **locked in writing** in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked|L03]]. After that there are no restarts.
 
 ## Review
 
 Check you can:
 
-- Draft a **proposal** with theme, aims, primary-source plan, and artist shortlist.
-- Write your aims in your own words.
+- Draft a **proposal** with a theme, aims, a primary-source plan, and an artist shortlist.
+- Write your aims in your own words, not borrowed exemplar language.
 - Build a **primary-source plan** of shoots and sittings you control, and apply **Nothing found, nothing borrowed**.
-- Choose an **artist shortlist** of two or three artists for the problems they solve.
-- Run the **feasibility test**, walking your proposal through all eight stages of the pipeline and fixing what breaks.
+- Choose an **artist shortlist** for the problems each artist solves, not for personal taste.
+- Run a **feasibility test** by walking the proposal through the **eight-stage pipeline** and marking where it breaks.
+- Defend your proposal at **consultation 2** and leave with a decision to lock or one named fix.
+
+## Practice
+
+Try each question before you open its answer. A weak proposal fixed now, on paper, costs nothing.
+
+**1.** Name the four parts of the proposal.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Theme, aims, primary-source plan, artist shortlist. What the investigation looks at, why it can sustain the pipeline to December, the shoots and sittings you control, and the artists who solve its problems.
+
+</details>
+
+**2.** What is the test a primary-source plan must pass?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Every shoot and sitting is one you control: what, where, when, how often. If the plan needs found imagery to fill its gaps, the theme still has a sources problem, and it is better to know this week than in April.
+
+</details>
+
+**3.** State the artist shortlist rule, and what each entry carries.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Two or three artists chosen for the problems they solve: a composition problem, a process, a material. Not personal favorites. Each carries one line on what you would actually learn from them. An artist you cannot finish that line for is decoration on the proposal.
+
+</details>
+
+**4.** What is CS1 actually marked on?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Whether the proposal is defensible. Reachable sources named, aims in your own words rather than borrowed exemplar language, artists chosen for reasons. Defensible means you could answer a hard question about any line of it, which is exactly what Friday's consultation will do.
+
+</details>
+
+**5.** Before consultation, walk the proposal through all eight pipeline stages and mark where it breaks: is there enough to record, to explore, to develop, to resolve? Fix what breaks on paper today. Then start the statement of intent for CS2, due Fri 2027-03-12.

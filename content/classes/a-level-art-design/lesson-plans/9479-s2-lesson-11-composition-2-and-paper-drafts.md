@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s2-unit-4-development]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-10-resolving-composition-1]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s2-lesson-12-critique-and-targeted-tests]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S2 Lesson 11: Composition 2 and Paper Drafts
 
@@ -67,3 +67,33 @@ Check you can:
 - Build and resolve composition 2 with **equal effort**, to the same standard as composition 1.
 - Explain why a fair comparison needs two finished compositions, not one finished and one sketched.
 - Draft your research paper sections as **integrated writing**, real prose built from your own material and tied to the visual work.
+
+## Practice
+
+Try each question before you open its answer. The rejected alternative gets its fair trial this week.
+
+**1.** Why give equal effort to an idea you already rejected once?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because the comparison is the development evidence, and a comparison is only worth something if it could have gone the other way. Under-build composition 2 and the choice reads as a foregone conclusion: development staged rather than done. Equal effort is what makes next week's decision real.
+
+</details>
+
+**2.** A fair comparison needs two finished things. Finish the sentence.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Not one finished and one sketched. Composition 2 is resolved Thursday to the same standard composition 1 reached last week: same commitment, same two-day build, same finish. Anything less rigs the trial.
+
+</details>
+
+**3.** What is CS7's bar for the paper sections?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Real prose built from your own material, integrated with the visual work rather than detached. The outline's artist context and argument become sentences. A paper that keeps pace with the making now is the difference between integration and a December bolt-on.
+
+</details>
+
+**4.** The homework aims at Monday: annotate both compositions toward the critique, and bring them ready to compare. Reread your intention first. Next week both pieces are judged against it, and you should already know what you think each one answers.

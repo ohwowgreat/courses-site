@@ -8,7 +8,7 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-10-juxtaposition-and-scale]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-12-theme-and-composition-drafts]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/lissitzky-schwitters.jpg" alt="El Lissitzky, Kurt Schwitters, c. 1924 — a photomontage portrait of the great collagist" loading="lazy" />
@@ -91,3 +91,41 @@ Check you can:
 - Use transparency so that layers show through and talk to each other.
 - Use text as image: a shape with a voice, not a caption.
 - Name Barbara Kruger and John Stezaker as examples of text and layering.
+
+## Practice
+
+Try each question before you open its answer. Craft is what separates a collage from a scrapbook page.
+
+**1.** Name the three layering decisions.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Order, edges, transparency. Background first and the speaker last, because what is in front is what wins. Torn or knife edge, chosen. And a thin layer, tissue or tracing paper, lets two layers talk to each other.
+
+</details>
+
+**2.** Torn edge or knife edge: what does each one say?
+
+<details class="reveal"><summary>Show answer</summary>
+
+A torn edge reads soft and organic. A knife edge reads hard and mechanical. Neither is better. The question is which one your meaning needs, and your study should be able to say why that edge.
+
+</details>
+
+**3.** What is text in a collage, and what is the test?
+
+<details class="reveal"><summary>Show answer</summary>
+
+A shape with a voice, not a caption. The text should change what the image means, not describe it. The test is reading it aloud: if the voice the words suggest is obvious, the tone worked.
+
+</details>
+
+**4.** Recite the blade rules.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Cut away from the hand. Blade shallow. Cutting mat always. Cap on when walking. One knife per table, returned to the tin. Boring rules, kept boring by everyone following them.
+
+</details>
+
+**5.** Photograph every dry-fit before gluing. It is the collage version of keeping the original: process evidence for the sketchbook, and insurance for the day the glued version disappoints. Homework: one more experiment in any technique, and keep harvesting.

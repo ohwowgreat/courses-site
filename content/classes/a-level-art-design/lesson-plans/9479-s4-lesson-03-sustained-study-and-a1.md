@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-02-recording-at-exam-pace]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-04-exploration-and-artist-1]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S4 Lesson 03: Sustained Study and A1
 
@@ -63,3 +63,41 @@ Check you can:
 - Annotate what the recording taught about the question.
 - Build recording pages so AO1 is obvious without explanation.
 - Sit A1 with all recording on your chosen question, marked against AO1.
+
+## Practice
+
+Try each question before you open its answer. Duration despite the pace is the week's whole idea.
+
+**1.** Why is a sustained study the clearest AO1 signal under exam conditions?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because the pace tempts everyone toward speed, and duration is the evidence that your looking held anyway. A study pushed past comfortable shows the exam did not shrink your attention. That is precisely what the marker is looking for in an exam-season portfolio.
+
+</details>
+
+**2.** What does recording without annotation read as?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Activity, not evidence. The annotation ties every page to the question: what this study taught about it, what the next one should ask. Pages that record without saying what was learned prove you were busy, which earns nothing.
+
+</details>
+
+**3.** What does A1 gather on Friday?
+
+<details class="reveal"><summary>Show answer</summary>
+
+All recording on the chosen question: the locked question with its rationale, the intention, the sustained study, and the recording pages, marked against AO1. The pages should make AO1 obvious without explanation, because no explanation will be present.
+
+</details>
+
+**4.** Why is on Thursday rather than with Friday's sitting?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The notice is placed off the sitting day, fifteen days out. Announcements and sittings are kept apart so neither crowds the other, and every notice lands at its earliest workable slot in a semester with no spare days.
+
+</details>
+
+**5.** The homework is one line per recording page: what it taught about the question. If a page has no line, it either taught nothing or you have not looked at it since making it. Both are fixable before Friday, and only before.

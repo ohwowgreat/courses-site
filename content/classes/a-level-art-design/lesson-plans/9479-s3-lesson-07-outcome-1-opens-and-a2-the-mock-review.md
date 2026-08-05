@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s3-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-06-a1-the-development-milestone]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-08-building-outcome-1]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S3 Lesson 07: Outcome 1 Opens and A2 — The Mock Review
 
@@ -73,3 +73,41 @@ Check you can:
 - Test a plan at small scale using supporting thumbnails.
 - Sequence your whole investigation as if submitting it.
 - Sit A2 as a dress rehearsal and use it as portfolio material for applications.
+
+## Practice
+
+Try each question before you open its answer. The dress rehearsal week runs on decisions already made.
+
+**1.** What must be decided before outcome 1's build opens, and why?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Composition, palette, and materials, proven small in the supporting thumbnails. The build day is execution, not invention: a decision made mid-build is made under the worst possible conditions, with the most expensive materials and the least time.
+
+</details>
+
+**2.** What is A2, and why does it earn double duty?
+
+<details class="reveal"><summary>Show answer</summary>
+
+A mock portfolio review: the entire investigation sequenced as if submitting, marked against all four AOs. It is the dress rehearsal for December, and the sequenced review doubles as portfolio material for university applicants. One preparation, two uses.
+
+</details>
+
+**3.** Why does A2 sit on Thursday of this particular week?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because the Seniors' Days remove all of next week, and the autumn field trip may take Friday. The rehearsal has to land before the calendar closes around it. When a sitting cannot slip, it moves earlier, never later.
+
+</details>
+
+**4.** What is the Seniors week, for this course?
+
+<details class="reveal"><summary>Show answer</summary>
+
+An independent-production week. No teaching, but the studio does not wait: Friday sets targets for it, and the outcome build resumes on the far side already moved forward. A week without class is not a week without work.
+
+</details>
+
+**5.** Before the Seniors week starts, act on one A2 target: the most movable one, acted on while the review is fresh. The rest are dated into the independent-week targets.

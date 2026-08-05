@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-5-final-outcome-and-portfolio]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-14-the-final-outcome]]"
   - "[[classes/a-level-art-design/9479-c3-winter-brief]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S1 Lesson 15: Submission Week and A4
 
@@ -82,3 +82,41 @@ Check you can:
 - Sit A4 and submit with nothing edited after.
 - Explain what a Personal Investigation is, and prepare three candidate C3 themes with annotated references.
 - Write your semester reflection.
+
+## Practice
+
+Use these across submission week. Every question here is a check the portfolio must pass.
+
+**1.** Why does Monday spend a whole day photographing one finished piece?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because the photograph is the version the examiner sees. Rig, light, shoot, detail passes, then crop, correct, name, and file. A resolved outcome photographed badly submits a worse piece than you made. This is craft, not admin.
+
+</details>
+
+**2.** Recite the sequence the portfolio must read, without narration.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Theme, recording, exploration, artists, development, outcome. The whole journey in order. The peer walk tests it: where does a stranger stumble? A stumble means a page is out of order, or a step of the journey is missing its evidence.
+
+</details>
+
+**3.** Wednesday cuts what does not earn its place, and logs every cut. Why keep the log?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because cutting is editorial judgment, and judgment is evidence. The log records what went and why. Cutting also protects the strong work: a page that does not earn its place spends the examiner's attention without buying anything.
+
+</details>
+
+**4.** State the submission rule.
+
+<details class="reveal"><summary>Show answer</summary>
+
+The portfolio goes in Thursday, in session, and nothing is edited after. Submission week is supervised craft, not a scramble, and the final AO check comes first: all four descriptors, in writing, signed, before it goes in.
+
+</details>
+
+**5.** Run the final AO check on yourself before Wednesday: for each of AO1 Record, AO2 Explore, AO3 Develop, and AO4 Present, name the pages that carry it. An AO with no page to point at is a gap the sequence cannot hide. Then rest, and over the break gather the three C3 theme candidates with annotated references.

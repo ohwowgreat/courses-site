@@ -8,7 +8,7 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-09-a2-the-photographic-series]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-11-layering-text-and-image]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/guitar-gas-jet.jpg" alt="Pablo Picasso, Guitar, Gas-Jet and Bottle, 1913" loading="lazy" />
@@ -85,3 +85,41 @@ Check you can:
 - Explain what **juxtaposition** does: two images together say a third thing.
 - Use **scale**, the wrong size on purpose, and say what it changes.
 - Make a juxtaposition study and a scale study and name the meaning each produces.
+
+## Practice
+
+Try each question before you open its answer. Scissors change what pictures can say.
+
+**1.** Define the four words from the board.
+
+<details class="reveal"><summary>Show answer</summary>
+
+Collage: a glued combination of found or made images. Papier collé: glued paper shapes. Photomontage: collage made from photographs. Assemblage: collage gone 3D. From *coller*, to glue.
+
+</details>
+
+**2.** What does juxtaposition do, and what is the test for it?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Two images together say a third thing neither says alone. The test is a partner naming the third thing without your help. If they cannot, the pairing is decoration, not meaning yet. Recut or repair it.
+
+</details>
+
+**3.** What does wrong scale do, on purpose?
+
+<details class="reveal"><summary>Show answer</summary>
+
+It makes meaning. A teacup taller than a building says something. A person smaller than a shoe says something else. The size lie is the point: nobody thinks you made a measuring mistake, so they look for the reason.
+
+</details>
+
+**4.** Say the rule of the unit, and the habit that protects every study.
+
+<details class="reveal"><summary>Show answer</summary>
+
+A collage decision is a meaning decision. And the habit: dry-fit before you glue. Arranged loose, everything can still change. Glued, nothing can. Glue is the last decision, not the first.
+
+</details>
+
+**5.** The homework is the harvest: at least twenty usable images by next week. Old magazines, packaging, tickets, and your own printed Unit 2 photographs, which are excellent material. A collage is only as good as its harvest.

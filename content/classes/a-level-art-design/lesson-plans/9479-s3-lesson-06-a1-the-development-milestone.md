@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s3-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-05-evaluation-and-the-national-day-break]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s3-lesson-07-outcome-1-opens-and-a2-the-mock-review]]"
-modified: 2026-07-26
+modified: 2026-08-05
 ---
 # S3 Lesson 06: A1 — The Development Milestone
 
@@ -28,7 +28,7 @@ modified: 2026-07-26
 
 ## Overview
 
-This lesson closes the second pass of development and brings your first graded assessment of the semester. Monday to Wednesday you finalize your evaluation, close the named gaps, and run an honest self-check against the AO3 band descriptors. On Thursday 2027-10-14 you sit **A1**, the development milestone: outcome-candidate compositions, targeted tests, evaluation, Stage 6 page, and research paper draft 2, all marked against AO3. Friday turns the marker's response into three specific actions that carry into Unit 5. These dates are projected and may shift when the school publishes the calendar for this period.
+This lesson closes the second pass at development and brings you to your first graded milestone of the semester. Monday to Wednesday, you finish your evaluation and close the named gaps in your work, then check your pages honestly against the AO3 band descriptors. On Thursday you sit **A1**, the development milestone, marked against AO3. On Friday you turn the marker's response into three specific actions for Unit 5. A1 feeds your mid-term grade, and Unit 5 opens straight into building your final outcomes. These dates are projected and may shift when the school publishes the calendar for that period.
 
 
 <figure class="plate">
@@ -38,35 +38,71 @@ This lesson closes the second pass of development and brings your first graded a
 
 ## The ideas
 
-### The development milestone (A1)
+### The self-check against AO3
 
-**A1** is the development milestone plus research paper draft 2, marked against AO3. It gathers your outcome-candidate compositions, targeted tests, evaluation, and Stage 6 page, together with research paper draft 2. It is a gate into Unit 5, not a pause: Unit 5 opens straight into building the final outcomes.
+The **self-check against the AO3 band descriptors** means applying the AO3 band descriptors honestly to your own pages and asking where your work actually sits. Use it to find the specific gaps in your development, then close those named gaps. This is targeted repair, not a general polish.
 
-### Tested, rejected, decided
+### A1: the development milestone
 
-AO3 reads development as **tested, rejected, decided**: a trail that shows what you tested, what you rejected, and what you decided. Your milestone should make this trail visible on the page, not leave it as a note to yourself.
+**A1** is the **development milestone**. You submit your outcome-candidate compositions, targeted tests, evaluation, Stage 6 page, and **research paper draft 2**. It is marked against AO3.
 
-### Self-check against the AO3 band descriptors
+AO3 reads development as **tested, rejected, decided**: it wants to see what you tried, what you set aside, and what you chose. Your submission should show that trail, not just a finished-looking result.
 
-A **self-check against the AO3 band descriptors** means applying the band descriptors honestly to your own pages and asking where the work actually sits. Use it to find and close specific gaps before you sit A1, not to polish in general.
+A1 feeds your mid-term grade (around Thu 2027-10-28) at the two-week minimum. A2 next week informs your comments, not the grade. The milestone is a gate, not a pause: Unit 5 opens straight into building your final outcomes.
 
-### How A1 feeds your grade
-
-A1 feeds the mid-term grade (~Thu 2027-10-28) at the two-week minimum. A2 next week informs the comments, not the grade.
+You sit A1 on Thursday. This keeps it clear of Fridays, which can collide with Foreign Culture Days. If a collision does land, the feedback slips, never the assessment.
 
 ## Day by day
 
-- **Mon 10-11.** Finalize your evaluation as portfolio material, and begin pre-milestone repair.
-- **Tue 10-12.** Close the specific named gaps from your action plan.
-- **Wed 10-13.** Run a self-check against the AO3 band descriptors on your own pages.
-- **Thu 10-14.** Sit A1, the development milestone, marked against AO3. The assessment date holds even if a scheduling collision falls near it; only the feedback would move.
-- **Fri 10-15.** Feedback: turn the marker's response into three specific actions, dated into the Unit 5 plan. Homework (≤30 min): turn the three feedback actions into a dated to-do for Unit 5.
+- **Mon 10-11.** Finalize your evaluation as portfolio material, not a note to self, and begin pre-milestone repair.
+- **Tue 10-12.** Close the named gaps from your action plan, the specific ones, not a general polish.
+- **Wed 10-13.** Run the self-check against the AO3 band descriptors: apply them honestly to your own pages.
+- **Thu 10-14.** Sit **A1**, the development milestone: outcome-candidate compositions, targeted tests, evaluation, Stage 6 page, and research paper draft 2, marked against AO3.
+- **Fri 10-15.** Get feedback and set three specific actions. Homework (≤30 min): turn those three actions into a dated to-do for Unit 5.
 
 ## Review
 
 Check you can:
 
-- Run an honest self-check against the AO3 band descriptors and close the named gaps.
-- Show your development as tested, rejected, decided.
-- Sit A1, the development milestone plus research paper draft 2.
-- Turn the marker's response into three specific actions for Unit 5.
+- Run a **self-check against the AO3 band descriptors** and close the named gaps in your own work.
+- Explain how AO3 reads development as **tested, rejected, decided**.
+- Submit **A1**, the development milestone, with **research paper draft 2** included.
+- Turn the marker's feedback into three specific, dated actions for Unit 5.
+
+## Practice
+
+Try each question before you open its answer. The development second pass closes here.
+
+**1.** What does A1 gather on Thursday?
+
+<details class="reveal"><summary>Show answer</summary>
+
+The outcome-candidate compositions, the targeted tests, the evaluation, the Stage 6 page, and research paper draft 2, marked together against AO3. Development read as tested, rejected, decided, with the paper's second draft riding alongside.
+
+</details>
+
+**2.** What question does Wednesday's self-check ask, and what makes it worth doing?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Where does this actually sit against the AO3 band descriptors? Honestly, in writing, on your own pages. The habit is calibration: knowing what your work earns before you are told. The gap between your call and the marker's is the most useful number Friday gives you.
+
+</details>
+
+**3.** What does pre-milestone repair permit, and what does it not?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Closing the named gaps from the action plan: the specific ones, with dates against them. Not a general polish. Polishing everything a little closes nothing, and the milestone reads the named gaps first because they were named.
+
+</details>
+
+**4.** Why does A1 sit on Thursday rather than Friday?
+
+<details class="reveal"><summary>Show answer</summary>
+
+Because pattern Foreign Culture Days threaten Fridays. If a collision lands, the feedback slips, never the assessment. The sitting is fixed by the fourteen-day notice. The conversation about it can move.
+
+</details>
+
+**5.** Friday's three feedback actions become a dated to-do inside the Unit 5 plan. Date them before the weekend: Unit 5 opens straight into building the final outcomes, and the milestone is a gate, not a pause.
