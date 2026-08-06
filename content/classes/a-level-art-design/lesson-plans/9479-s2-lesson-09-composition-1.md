@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson opens Unit 4 and the development stage. You compose your first full composition, **composition 1**, from your A2 feedback and your own studies. You build it across two studio days and push it as far as it goes before the May Day break. Midway through the week you receive the research paper outline and populate it with your own material. That is your **CS6**, a written annotation due Thu 2027-04-29. Composition 1 continues in Lesson 10, and this development work feeds **A3**, which you sit Fri 2027-05-28.
+This lesson opens Unit 4 and the development stage. You compose your first full composition, **composition 1**, from your [[classes/a-level-art-design/assessments/9479-s2-assessments|A2]] feedback and your own studies. You build it across two studio days and push it as far as it goes before the May Day break. Midway through the week you receive the research paper outline and populate it with your own material. That is your **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS6]]**, a written annotation due Thu 2027-04-29. Composition 1 continues in Lesson 10, and this development work feeds **[[classes/a-level-art-design/assessments/9479-s2-assessments|A3]]**, which you sit Fri 2027-05-28.
 
 ## The ideas
 

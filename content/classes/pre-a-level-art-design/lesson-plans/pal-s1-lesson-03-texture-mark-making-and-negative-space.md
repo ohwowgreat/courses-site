@@ -35,7 +35,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson teaches two ways of looking that beginners often skip: drawing a surface by choosing the right mark, and drawing the shape of the air around an object. You produce a traced-hand texture sheet, an observed texture grid, and one negative-space study. The texture grid and the negative-space study complete your CS1 set. Both skills feed straight into the final observational drawing that starts next week, and this session is when A1 and CS1 are announced.
+This lesson teaches two ways of looking that beginners often skip: drawing a surface by choosing the right mark, and drawing the shape of the air around an object. You produce a traced-hand texture sheet, an observed texture grid, and one negative-space study. The texture grid and the negative-space study complete your [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS1]] set. Both skills feed straight into the final observational drawing that starts next week, and this session is when [[classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing|A1]] and CS1 are announced.
 
 ## The ideas
 

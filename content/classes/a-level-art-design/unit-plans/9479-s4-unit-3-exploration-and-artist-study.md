@@ -19,7 +19,7 @@ modified: 2026-07-18
 
 ## What this unit does
 
-This unit is the exploration and artist-study stage, worked at exam pace, across **AO2 Explore** and **AO3 Develop**. You turn your A1 feedback into targets. You run **eight** experiments, drawn from selections you have already proven, and end each one with a written keep-or-change decision. You analyze two artists and answer each in visible work within single sessions. A **bridge piece** and a **scale trial**, made at the supervised-test dimensions, carry your study toward development. The unit closes with **A2**, marked across AO2 and AO3.
+This unit is the exploration and artist-study stage, worked at exam pace, across **AO2 Explore** and **AO3 Develop**. You turn your [[classes/a-level-art-design/assessments/9479-s4-assessments|A1]] feedback into targets. You run **eight** experiments, drawn from selections you have already proven, and end each one with a written keep-or-change decision. You analyze two artists and answer each in visible work within single sessions. A **bridge piece** and a **scale trial**, made at the supervised-test dimensions, carry your study toward development. The unit closes with **[[classes/a-level-art-design/assessments/9479-s4-assessments|A2]]**, marked across AO2 and AO3.
 
 ## Dates & span
 

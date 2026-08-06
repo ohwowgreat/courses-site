@@ -34,7 +34,7 @@ Because the class mixes both grades, absence blocks for either grade affect it. 
 
 Each unit page lists its lessons. Full register: [[classes/art-appreciation/assessments/art-appreciation-s1-assessments|S1 Assessments]].
 
-Theorist spine in teaching order: Warburg → Berger → Benjamin → Steyerl → Sontag → Greenberg → Danto. The three constellations (A1 board, A4 synthesis, EoT retrospective) are the same move at increasing scale.
+Theorist spine in teaching order: Warburg → Berger → Benjamin → Steyerl → Sontag → Greenberg → Danto. The three constellations (A1 board, [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis|A4]] synthesis, [[classes/art-appreciation/assessments/art-appreciation-s1-eot-retrospective|EoT]] retrospective) are the same move at increasing scale.
 
 ## Assessments
 

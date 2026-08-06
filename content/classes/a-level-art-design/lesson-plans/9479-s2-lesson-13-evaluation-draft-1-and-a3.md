@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson closes Unit 4 on AO3. You write the evaluation against your intention, assemble the Stage 6 page so your development reads as a trail of decisions, and pull your drafted sections into research paper draft 1, then repair what the full draft exposes. You sit **A3** on **Fri 2027-05-28**, which marks the development milestone and draft 1 together against AO3. This is the last taught session before the two weeks that build the mid-point portfolio.
+This lesson closes Unit 4 on AO3. You write the evaluation against your intention, assemble the Stage 6 page so your development reads as a trail of decisions, and pull your drafted sections into research paper draft 1, then repair what the full draft exposes. You sit **[[classes/a-level-art-design/assessments/9479-s2-assessments|A3]]** on **Fri 2027-05-28**, which marks the development milestone and draft 1 together against AO3. This is the last taught session before the two weeks that build the mid-point portfolio.
 
 
 <figure class="plate">

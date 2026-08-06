@@ -28,7 +28,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson closes the second pass at development and brings you to your first graded milestone of the semester. Monday to Wednesday, you finish your evaluation and close the named gaps in your work, then check your pages honestly against the AO3 band descriptors. On Thursday you sit **A1**, the development milestone, marked against AO3. On Friday you turn the marker's response into three specific actions for Unit 5. A1 feeds your mid-term grade, and Unit 5 opens straight into building your final outcomes. These dates are projected and may shift when the school publishes the calendar for that period.
+This lesson closes the second pass at development and brings you to your first graded milestone of the semester. Monday to Wednesday, you finish your evaluation and close the named gaps in your work, then check your pages honestly against the AO3 band descriptors. On Thursday you sit **[[classes/a-level-art-design/assessments/9479-s3-assessments|A1]]**, the development milestone, marked against AO3. On Friday you turn the marker's response into three specific actions for Unit 5. A1 feeds your mid-term grade, and Unit 5 opens straight into building your final outcomes. These dates are projected and may shift when the school publishes the calendar for that period.
 
 
 <figure class="plate">
@@ -48,7 +48,7 @@ The **self-check against the AO3 band descriptors** means applying the AO3 band 
 
 AO3 reads development as **tested, rejected, decided**: it wants to see what you tried, what you set aside, and what you chose. Your submission should show that trail, not just a finished-looking result.
 
-A1 feeds your mid-term grade (around Thu 2027-10-28) at the two-week minimum. A2 next week informs your comments, not the grade. The milestone is a gate, not a pause: Unit 5 opens straight into building your final outcomes.
+A1 feeds your mid-term grade (around Thu 2027-10-28) at the two-week minimum. [[classes/a-level-art-design/assessments/9479-s3-assessments|A2]] next week informs your comments, not the grade. The milestone is a gate, not a pause: Unit 5 opens straight into building your final outcomes.
 
 You sit A1 on Thursday. This keeps it clear of Fridays, which can collide with Foreign Culture Days. If a collision does land, the feedback slips, never the assessment.
 

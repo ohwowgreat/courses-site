@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This week you decide which of your two resolved compositions becomes the mid-point piece, and why. You critique both against your intention, act on what you hear, run targeted tests on what is still unresolved, and choose the final direction. You produce **CS8**, the targeted tests plus your critique response, due Fri 2027-05-21 in your sketchbook. The written rejection of the composition you drop is part of this work. It feeds A3, the development milestone and paper draft 1, which you sit Fri 2027-05-28.
+This week you decide which of your two resolved compositions becomes the mid-point piece, and why. You critique both against your intention, act on what you hear, run targeted tests on what is still unresolved, and choose the final direction. You produce **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS8]]**, the targeted tests plus your critique response, due Fri 2027-05-21 in your sketchbook. The written rejection of the composition you drop is part of this work. It feeds [[classes/a-level-art-design/assessments/9479-s2-assessments|A3]], the development milestone and paper draft 1, which you sit Fri 2027-05-28.
 
 ## The ideas
 

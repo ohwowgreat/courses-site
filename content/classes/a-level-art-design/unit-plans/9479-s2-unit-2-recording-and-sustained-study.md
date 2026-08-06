@@ -19,7 +19,7 @@ modified: 2026-07-18
 
 ## What this unit does
 
-This is the recording and sustained-study stage. It sits entirely under **AO1 Record** and is carried in **C3 specialist language**. You compose recording pages so your thinking is clear to a stranger. You make two observed studies, each **sustained** across a full two-day run without restarting. Your annotation is critical: it says what the study taught you about the theme, not what you did. You shoot and annotate your own photographic reference. The unit closes the recording sequence and carries **A1**, the semester's first attainment.
+This is the recording and sustained-study stage. It sits entirely under **AO1 Record** and is carried in **C3 specialist language**. You compose recording pages so your thinking is clear to a stranger. You make two observed studies, each **sustained** across a full two-day run without restarting. Your annotation is critical: it says what the study taught you about the theme, not what you did. You shoot and annotate your own photographic reference. The unit closes the recording sequence and carries **[[classes/a-level-art-design/assessments/9479-s2-assessments|A1]]**, the semester's first attainment.
 
 ## Dates & span
 
@@ -47,4 +47,4 @@ The unit gates on **A1, Fri 2027-03-19**, the recording milestone. It covers you
 - Both sustained studies must show duration: layered decisions, not single sittings.
 - Descriptive annotation caps AO1 in every exemplar. **Critical reflection on progress is the top-band behavior.**
 - All reference is self-generated: nothing found, nothing borrowed.
-- You turn your A1 feedback into three named actions and act on them visibly by CS3.
+- You turn your A1 feedback into three named actions and act on them visibly by [[classes/a-level-art-design/assessments/9479-s2-assessments|CS3]].

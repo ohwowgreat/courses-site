@@ -38,7 +38,7 @@ modified: 2026-08-03
 
 ## Overview
 
-This lesson pulls two weeks of terminology together into vocabulary you can use under pressure. You learn Peirce's triad, a second way to sort signs by how they mean, and the four code families, the checklist you will run on every extract for the next two years. You read unseen stills using that vocabulary, then sit CS3, a 20-item vocabulary quiz, on Fri 2026-09-18. The vocabulary you build here feeds A1.
+This lesson pulls two weeks of terminology together into vocabulary you can use under pressure. You learn Peirce's triad, a second way to sort signs by how they mean, and the four code families, the checklist you will run on every extract for the next two years. You read unseen stills using that vocabulary, then sit [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS3]], a 20-item vocabulary quiz, on Fri 2026-09-18. The vocabulary you build here feeds [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]].
 
 ## The ideas
 

@@ -24,7 +24,7 @@ modified: 2026-07-22
 
 ## What this unit does
 
-This is the first attainment band. You test narrative theory on real texts. You look for where **Propp** and **Todorov** strain, because a top-band answer discusses that strain. You sit A1 on the Wednesday of W7. The rest of the band turns analytical instinct into method: **Barthes**, a fixed reading order, **PEEM** paragraphs, Section A answer structure, and a peer audit of every C1 blog against the same checklist used to mark A2.
+This is the first attainment band. You test narrative theory on real texts. You look for where **Propp** and **Todorov** strain, because a top-band answer discusses that strain. You sit [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]] on the Wednesday of W7. The rest of the band turns analytical instinct into method: **Barthes**, a fixed reading order, **PEEM** paragraphs, Section A answer structure, and a peer audit of every C1 blog against the same checklist used to mark [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2]].
 
 ## Dates & span
 
@@ -50,4 +50,4 @@ A2 is announced Mon 10-12 and is due Mon 10-26, inside Unit 4. See the [[classes
 
 - Theorists: **Propp** and **Todorov** under load; **Barthes** (enigma and action codes, what a text withholds and promises).
 - Method: **systematic reading order** (same order, every time); **PEEM** (point, evidence, effect, meaning); Section A answer skeletons planned before you write.
-- C1 milestone: bring your blog to mid-point standard, posts 1–7, dated, with individual contributions labeled. The CS5 audit falls three teaching days before the A2 deadline, so you can still act on what it finds.
+- C1 milestone: bring your blog to mid-point standard, posts 1–7, dated, with individual contributions labeled. The [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS5]] audit falls three teaching days before the A2 deadline, so you can still act on what it finds.

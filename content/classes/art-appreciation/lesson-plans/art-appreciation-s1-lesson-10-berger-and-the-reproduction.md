@@ -30,7 +30,7 @@ modified: 2026-08-06
 
 ## Overview
 
-This lesson works through **John Berger**'s argument that a reproduction is not a neutral copy of a painting. You test how the words around an image change its meaning, and you write two captions for one picture: one that changes it, then an honest one. Your deliverable is the caption exercise, done on Mon 2026-11-30, which is ungraded. You also post LB6 and LB7. The work feeds A4, the Unit 4 synthesis.
+This lesson works through **John Berger**'s argument that a reproduction is not a neutral copy of a painting. You test how the words around an image change its meaning, and you write two captions for one picture: one that changes it, then an honest one. Your deliverable is the caption exercise, done on Mon 2026-11-30, which is ungraded. You also post [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB6]] and [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB7]]. The work feeds [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis|A4]], the Unit 4 synthesis.
 
 
 <figure class="plate">

@@ -30,7 +30,7 @@ These dates are projected. They may shift when the school publishes the calendar
 
 ## Overview
 
-This week you explore at exam pace. You turn your A1 feedback into targets, then run eight media experiments from your proven selections. You produce **CS4** on Fri 2028-03-17: the experiment documentation plus your artist 1 response. You also analyze artist 1 and answer them in visible work. This exploration feeds the development stage that follows in Lesson 05.
+This week you explore at exam pace. You turn your [[classes/a-level-art-design/assessments/9479-s4-assessments|A1]] feedback into targets, then run eight media experiments from your proven selections. You produce **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS4]]** on Fri 2028-03-17: the experiment documentation plus your artist 1 response. You also analyze artist 1 and answer them in visible work. This exploration feeds the development stage that follows in Lesson 05.
 
 
 <figure class="plate">
@@ -60,7 +60,7 @@ You analyze artist 1, then answer them in your own work within single sessions. 
 - **Tue 03-14.** Studio: run the media experiments, judging each in writing on what carries the question. This is a two-day run.
 - **Wed 03-15.** Studio: continue and finish the eight experiments. Homework: write the keep-or-change line for two experiments, saying what carries the question and what does not (≤30 min).
 - **Thu 03-16.** Analyze artist 1 and answer them in work in one pass.
-- **Fri 03-17.** Continue the artist 1 response work. **CS4** is due: the experiment documentation plus the artist 1 response. Your **A3** notice is announced today, 14 days out, before A2 has sat.
+- **Fri 03-17.** Continue the artist 1 response work. **CS4** is due: the experiment documentation plus the artist 1 response. Your **[[classes/a-level-art-design/assessments/9479-s4-assessments|A3]]** notice is announced today, 14 days out, before [[classes/a-level-art-design/assessments/9479-s4-assessments|A2]] has sat.
 
 ## Review
 

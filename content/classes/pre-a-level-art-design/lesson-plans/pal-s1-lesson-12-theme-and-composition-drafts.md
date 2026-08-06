@@ -35,7 +35,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson turns your experiments into a work. You decide what your collage is about, then you plan how it will look. You write your **main idea** in one sentence, then make two different composition drafts of that idea. You circle one draft and write why it argues the idea more strongly. Your **CS3** experiment set is collected this session. The circled draft leads into your final collage, made in class over W14 and W15, which is your **A3** deliverable, due Wed 2026-12-09.
+This lesson turns your experiments into a work. You decide what your collage is about, then you plan how it will look. You write your **main idea** in one sentence, then make two different composition drafts of that idea. You circle one draft and write why it argues the idea more strongly. Your **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS3]]** experiment set is collected this session. The circled draft leads into your final collage, made in class over W14 and W15, which is your **[[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage|A3]]** deliverable, due Wed 2026-12-09.
 
 ## The ideas
 

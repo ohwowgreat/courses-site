@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson closes Unit 3. You study a second artist against your first, then make a piece that carries your study into development. You produce a **bridge piece**: start it Tue 2026-11-03 and finish it across the six-day Juniors Days gap. On Mon 2026-11-09 you sit **A2**, a review of your whole Unit 3 portfolio against AO2 and AO3. You leave with one direction you can defend, which sets up Unit 4.
+This lesson closes Unit 3. You study a second artist against your first, then make a piece that carries your study into development. You produce a **bridge piece**: start it Tue 2026-11-03 and finish it across the six-day Juniors Days gap. On Mon 2026-11-09 you sit **[[classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study|A2]]**, a review of your whole Unit 3 portfolio against AO2 and AO3. You leave with one direction you can defend, which sets up Unit 4.
 
 
 <figure class="plate">

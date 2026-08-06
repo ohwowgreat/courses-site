@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson closes Unit 4. You plan the final composition and solve it small before you make it large. You settle your palette and materials before the outcome begins. You produce a final composition plan with supporting thumbnails, palette and materials fixed. You sit A3 on Thu 2026-12-10, a development milestone marked against AO3. On Friday you turn the feedback into plan adjustments while there is still time for them to matter, and this feeds the build run in Lesson 14.
+This lesson closes Unit 4. You plan the final composition and solve it small before you make it large. You settle your palette and materials before the outcome begins. You produce a final composition plan with supporting thumbnails, palette and materials fixed. You sit [[classes/a-level-art-design/assessments/9479-s1-a3-development-milestone|A3]] on Thu 2026-12-10, a development milestone marked against AO3. On Friday you turn the feedback into plan adjustments while there is still time for them to matter, and this feeds the build run in Lesson 14.
 
 
 <figure class="plate">

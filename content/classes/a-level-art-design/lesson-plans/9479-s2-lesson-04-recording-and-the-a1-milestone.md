@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson opens Unit 2, the recording stage. You turn the intention and first shoot you locked earlier into recording an examiner could read: a Stage 1 page that makes your thinking visible to a stranger, and one sustained study carried across two days. On Fri 2027-03-19 you sit **A1**, your first attainment, marked against AO1. A1 is not a new task. It is everything you have recorded so far, looked at together against the AO1 criteria. The feedback becomes three written actions that you consolidate next week in Lesson 05.
+This lesson opens Unit 2, the recording stage. You turn the intention and first shoot you locked earlier into recording an examiner could read: a Stage 1 page that makes your thinking visible to a stranger, and one sustained study carried across two days. On Fri 2027-03-19 you sit **[[classes/a-level-art-design/assessments/9479-s2-assessments|A1]]**, your first attainment, marked against AO1. A1 is not a new task. It is everything you have recorded so far, looked at together against the AO1 criteria. The feedback becomes three written actions that you consolidate next week in Lesson 05.
 
 
 <figure class="plate">

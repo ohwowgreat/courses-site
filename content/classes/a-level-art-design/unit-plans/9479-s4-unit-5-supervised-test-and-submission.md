@@ -18,7 +18,7 @@ modified: 2026-07-18
 
 ## What this unit does
 
-This is the test, assembly, and board stage, under **AO4 Present**. You realize your planned outcome inside the **15-hour supervised test** under exam conditions. Your work is stored securely between sittings: no access, no additions. You photograph the final piece and assemble the submission package exactly as the Cambridge specification orders it. Supervised quality control checks it line by line. On the linear entry, **C1, C2, and C3 all reach the board in the same window**. The unit closes with **A4**, the submission package as the internal grade layer. The final piece itself is marked by Cambridge.
+This is the test, assembly, and board stage, under **AO4 Present**. You realize your planned outcome inside the **15-hour supervised test** under exam conditions. Your work is stored securely between sittings: no access, no additions. You photograph the final piece and assemble the submission package exactly as the Cambridge specification orders it. Supervised quality control checks it line by line. On the linear entry, **C1, C2, and C3 all reach the board in the same window**. The unit closes with **[[classes/a-level-art-design/assessments/9479-s4-assessments|A4]]**, the submission package as the internal grade layer. The final piece itself is marked by Cambridge.
 
 ## Dates & span
 
@@ -51,7 +51,7 @@ All S4 dates are projected and may shift when the school publishes the calendar.
 
 ## Key content
 
-- ◆ **Nothing is invented under supervision.** The plan you marked at A3 is your safety and your mark.
+- ◆ **Nothing is invented under supervision.** The plan you marked at [[classes/a-level-art-design/assessments/9479-s4-assessments|A3]] is your safety and your mark.
 - Storage between sittings is secure and documented: no access, no additions, no exceptions.
 - The package matches the specification exactly, and marks and samples reach the board by the end-April deadline.
 - On reading A the whole unit moves forward one week.

@@ -33,7 +33,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This is the semester's last teaching session. You gather a whole semester of work, the four finals, your process work, and your sketchbooks, and turn it into one organized portfolio. You produce two things by the close on Wed 2027-01-06: the End-of-Term (EoT) portfolio as one organized file, and your sketchbook (A5). Both are submitted in session. The EoT portfolio is 20% of the grade and the sketchbook is the fifth attainment. Together they set your semester's final grades. You end by filling in a survey that shapes next semester. No class runs in exam week. Everything returns on Wed 2027-01-20 with grades and 1:1 feedback.
+This is the semester's last teaching session. You gather a whole semester of work, the four finals, your process work, and your sketchbooks, and turn it into one organized portfolio. You produce two things by the close on Wed 2027-01-06: the End-of-Term ([[classes/pre-a-level-art-design/assessments/pal-s1-eot-semester-portfolio|EoT]]) portfolio as one organized file, and your sketchbook ([[classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook|A5]]). Both are submitted in session. The EoT portfolio is 20% of the grade and the sketchbook is the fifth attainment. Together they set your semester's final grades. You end by filling in a survey that shapes next semester. No class runs in exam week. Everything returns on Wed 2027-01-20 with grades and 1:1 feedback.
 
 ## The ideas
 

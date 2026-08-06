@@ -19,7 +19,7 @@ modified: 2026-07-17
 
 ## What this unit does
 
-This is the recording and sustained-study stage of the course, all under **AO1 Record**. You turn the theme into a written investigation: an intention, a mind map, and thumbnails with annotated rejections. You then build its spine, one long observed study carried across two days without restarting. Everything you record becomes pages an examiner could read. The unit closes with A1, the semester's first attainment and your first use of the **attainment review protocol**.
+This is the recording and sustained-study stage of the course, all under **AO1 Record**. You turn the theme into a written investigation: an intention, a mind map, and thumbnails with annotated rejections. You then build its spine, one long observed study carried across two days without restarting. Everything you record becomes pages an examiner could read. The unit closes with [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone|A1]], the semester's first attainment and your first use of the **attainment review protocol**.
 
 ## Dates & span
 

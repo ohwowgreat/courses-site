@@ -38,7 +38,7 @@ modified: 2026-08-03
 
 ## Overview
 
-This lesson brings genre theory and camera vocabulary together, because A1 will ask for both in the same paragraph. You learn to treat genre as an agreement between industry and audience, and to name camera work as verbs before effects. On Wednesday you write **CS4**, a genre and camera analytical paragraph about an unlabeled clip, in exam register. It is direct practice for A1. The double also puts cameras in your hands for a technical rehearsal, one week before you shoot the break production window.
+This lesson brings genre theory and camera vocabulary together, because [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]] will ask for both in the same paragraph. You learn to treat genre as an agreement between industry and audience, and to name camera work as verbs before effects. On Wednesday you write **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS4]]**, a genre and camera analytical paragraph about an unlabeled clip, in exam register. It is direct practice for A1. The double also puts cameras in your hands for a technical rehearsal, one week before you shoot the break production window.
 
 ## The ideas
 

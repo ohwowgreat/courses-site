@@ -30,7 +30,7 @@ These dates are projected. They may shift when the school publishes the calendar
 
 ## Overview
 
-This week you finish the research paper and start your second outcome. On Monday you submit **A3**, the final research paper, marked against the C3 written criteria in a one-to-one review. Then outcome 2 opens. You plan it before you build it, so nothing is left to the day. Outcome 2 must answer outcome 1 rather than repeat it, and both outcomes stay inside one investigation, in one voice. On Friday, **CS7** marks your outcome 2 plan and progress. This work leads into A4, the complete investigation, next week.
+This week you finish the research paper and start your second outcome. On Monday you submit **[[classes/a-level-art-design/assessments/9479-s3-assessments|A3]]**, the final research paper, marked against the C3 written criteria in a one-to-one review. Then outcome 2 opens. You plan it before you build it, so nothing is left to the day. Outcome 2 must answer outcome 1 rather than repeat it, and both outcomes stay inside one investigation, in one voice. On Friday, **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS7]]** marks your outcome 2 plan and progress. This work leads into [[classes/a-level-art-design/assessments/9479-s3-assessments|A4]], the complete investigation, next week.
 
 
 <figure class="plate">

@@ -34,7 +34,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson closes Unit 1. You bring your final observational drawing to a finish under assessment conditions, then write a short reflection. Together they are A1, submitted at the end of the double on Wed 2026-09-30. A1 feeds the mid-term grades due Thu 2026-10-29. You also get HW1, which opens Unit 2.
+This lesson closes Unit 1. You bring your final observational drawing to a finish under assessment conditions, then write a short reflection. Together they are [[classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing|A1]], submitted at the end of the double on Wed 2026-09-30. A1 feeds the mid-term grades due Thu 2026-10-29. You also get [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|HW1]], which opens Unit 2.
 
 ## The ideas
 

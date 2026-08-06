@@ -49,11 +49,11 @@ This lesson brings outcome 2 to the same finish as outcome 1. You resolve and ph
 ## Day by day
 
 - **Mon–Tue 11-22/23.** Studio work on outcome 2, carried toward resolution through the reduced week.
-- **Wed 11-24.** Studio work on outcome 2. A4, the complete Personal Investigation, is announced today.
+- **Wed 11-24.** Studio work on outcome 2. [[classes/a-level-art-design/assessments/9479-s3-assessments|A4]], the complete Personal Investigation, is announced today.
 - **Thu–Fri.** Seniors' Days, no teaching.
 - **Mon–Tue 11-29/30.** Resolve outcome 2 over these two days, to the same finish as outcome 1.
 - **Wed 12-01.** Photograph outcome 2, documented to the same standard as outcome 1.
-- **Thu–Fri 12-02/03.** Evaluate both outcomes in writing against the intention. This is CS8. For the evaluation, write one honest line on what each outcome found that the other did not (up to 30 minutes).
+- **Thu–Fri 12-02/03.** Evaluate both outcomes in writing against the intention. This is [[classes/a-level-art-design/assessments/9479-s3-assessments|CS8]]. For the evaluation, write one honest line on what each outcome found that the other did not (up to 30 minutes).
 
 ## Review
 

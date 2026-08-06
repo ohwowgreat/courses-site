@@ -41,8 +41,8 @@ Dates below may shift if the school publishes a different calendar for this peri
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing|A1 Drawing]].
 
-- **A1 (Attainment):** 2026-09-30 (W5). Final observational drawing plus reflection, made in class across W4–W5. It is announced on 2026-09-16 (W3). Marking focus: **observation, tone, composition**. A1 also feeds the mid-term grades due 2026-10-29.
-- **CS1 (Course Skills):** 2026-09-23 (W4). Exercise-set check (contour, tonal, texture, negative-space studies). Focus: the visual elements.
-- **HW1** (break photo task, ≥20 photos of one subject in varied viewpoint/light) is *set* at W5 but belongs to Unit 2, due 2026-10-14.
+- **[[classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing|A1]] (Attainment):** 2026-09-30 (W5). Final observational drawing plus reflection, made in class across W4–W5. It is announced on 2026-09-16 (W3). Marking focus: **observation, tone, composition**. A1 also feeds the mid-term grades due 2026-10-29.
+- **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS1]] (Course Skills):** 2026-09-23 (W4). Exercise-set check (contour, tonal, texture, negative-space studies). Focus: the visual elements.
+- **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|HW1]]** (break photo task, ≥20 photos of one subject in varied viewpoint/light) is *set* at W5 but belongs to Unit 2, due 2026-10-14.
 
 Full details: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|full register]].

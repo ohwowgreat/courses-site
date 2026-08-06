@@ -35,7 +35,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson works two skills back to back: shooting a lot, then choosing well. You go out on campus and shoot at least 20 new frames on your approved theme. Then you build a contact sheet, circle 12 keepers, and mark 6 to 8 series candidates, writing a reason for every keep and every cut. This session, with your Lesson 06 circuit frames, is collected as CS2 before the close. Everything you make here feeds A2, the photographic series, next week.
+This lesson works two skills back to back: shooting a lot, then choosing well. You go out on campus and shoot at least 20 new frames on your approved theme. Then you build a contact sheet, circle 12 keepers, and mark 6 to 8 series candidates, writing a reason for every keep and every cut. This session, with your Lesson 06 circuit frames, is collected as [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS2]] before the close. Everything you make here feeds [[classes/pre-a-level-art-design/assessments/pal-s1-a2-photographic-series|A2]], the photographic series, next week.
 
 ## The ideas
 

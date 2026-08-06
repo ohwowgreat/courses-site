@@ -49,7 +49,7 @@ This week you narrow and deepen. In the studio you carry two candidate compositi
 
 Your summer reading appears **woven into the argument, not as summary**. Use each source as evidence inside your argument. Do not add a book report at the back.
 
-The research paper has no coursework sitting of its own. Its written thread runs through CS3 here and continues in the Unit 5 final-text sessions toward A3.
+The research paper has no coursework sitting of its own. Its written thread runs through [[classes/a-level-art-design/assessments/9479-s3-assessments|CS3]] here and continues in the Unit 5 final-text sessions toward [[classes/a-level-art-design/assessments/9479-s3-assessments|A3]].
 
 ## Day by day
 

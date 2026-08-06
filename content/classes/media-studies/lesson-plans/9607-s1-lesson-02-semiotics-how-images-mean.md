@@ -39,7 +39,7 @@ modified: 2026-08-03
 
 ## Overview
 
-This lesson takes a sign apart and puts it back together. You learn how images carry meaning: the form of a sign, the idea it stands for, what it shows, and what it suggests. You produce **CS2**, an annotated everyday media text with at least six accurate code labels, set on day 1 and due Fri 2026-09-11. This work feeds A1. On Wednesday you also commit to the media area you will keep working on until May.
+This lesson takes a sign apart and puts it back together. You learn how images carry meaning: the form of a sign, the idea it stands for, what it shows, and what it suggests. You produce **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS2]]**, an annotated everyday media text with at least six accurate code labels, set on day 1 and due Fri 2026-09-11. This work feeds [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]]. On Wednesday you also commit to the media area you will keep working on until May.
 
 ## The ideas
 

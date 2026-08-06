@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This is submission week for the mid-point portfolio. Across the week you photograph, sequence, edit, and pass supervised quality control on everything from the locked theme to the resolved piece and the research paper draft. Treat it as a supervised craft, not a scramble. You submit at A4 on Fri 2027-06-11, marked against AO1–AO4, with no edits after. After A4 you write the semester reflection. The summer production briefing then sets your targets for the summer, the largest uninterrupted C3 window before the investigation resumes in Semester 3.
+This is submission week for the mid-point portfolio. Across the week you photograph, sequence, edit, and pass supervised quality control on everything from the locked theme to the resolved piece and the research paper draft. Treat it as a supervised craft, not a scramble. You submit at [[classes/a-level-art-design/assessments/9479-s2-assessments|A4]] on Fri 2027-06-11, marked against AO1–AO4, with no edits after. After A4 you write the semester reflection. The summer production briefing then sets your targets for the summer, the largest uninterrupted C3 window before the investigation resumes in Semester 3.
 
 ## The ideas
 

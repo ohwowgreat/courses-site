@@ -51,7 +51,7 @@ To see the artworld at work, you follow the object out of the studio and into th
 ## Day by day
 
 - **Mon 12-21.** Danto on the artworld and the end of art, the argument taken straight.
-- **Tue 12-22.** Warhol, Duchamp, and pluralism: follow the object out of the studio and into the institution, and name who decided and where. LB8 is posted today. The End-of-Semester Activity also runs today, in a short session.
+- **Tue 12-22.** Warhol, Duchamp, and pluralism: follow the object out of the studio and into the institution, and name who decided and where. [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB8]] is posted today. The End-of-Semester Activity also runs today, in a short session.
 - **Wed 12-23.** The retrospective is announced (Tue 5 Jan, in class). Then your break homework is set: three works that changed how you see, with reasons, about 3 to 4 hours across the break, not more.
 
 ## Assessment

@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson opens Unit 4, where development begins with making. You compose Composition 1 from your own recorded studies, never from memory. You build it across two uninterrupted days, resolve it, then photograph it well. Nothing is collected here. Composition 1 travels with you into Lesson 11, where CS8 collects both compositions at the end of that lesson.
+This lesson opens Unit 4, where development begins with making. You compose Composition 1 from your own recorded studies, never from memory. You build it across two uninterrupted days, resolve it, then photograph it well. Nothing is collected here. Composition 1 travels with you into Lesson 11, where [[classes/a-level-art-design/assessments/9479-s1-course-skills|CS8]] collects both compositions at the end of that lesson.
 
 
 <figure class="plate">

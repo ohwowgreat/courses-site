@@ -19,7 +19,7 @@ modified: 2026-07-18
 
 ## What this unit does
 
-This is the exploration and artist-study stage. The front half is **AO2 Explore**: you run twelve prescribed media experiments, then make an evidence-based selection and name what you reject. The back half opens **AO3**: you study two artists until their work visibly changes your own, through analysis, meaning and context, method, and personal response, plus a bridge piece and a scale trial. The contextual writing you produce here is the **first material of the research paper**. The unit closes with **A2**, marked across AO2 and AO3. It runs around the S7 Qingming mock float.
+This is the exploration and artist-study stage. The front half is **AO2 Explore**: you run twelve prescribed media experiments, then make an evidence-based selection and name what you reject. The back half opens **AO3**: you study two artists until their work visibly changes your own, through analysis, meaning and context, method, and personal response, plus a bridge piece and a scale trial. The contextual writing you produce here is the **first material of the research paper**. The unit closes with **[[classes/a-level-art-design/assessments/9479-s2-assessments|A2]]**, marked across AO2 and AO3. It runs around the S7 Qingming mock float.
 
 ## Dates & span
 

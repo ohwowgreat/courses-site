@@ -42,7 +42,7 @@ This lesson turns your test piece into a finished submission. You photograph the
 
 ### A4 grades the package, not the artwork
 
-**A4** is the **internal grade layer**. It marks the completeness and order of your submission package. It does not mark the artwork a second time. The final C2 piece is marked externally by Cambridge. So A4 grades your packaging and completeness.
+**[[classes/a-level-art-design/assessments/9479-s4-assessments|A4]]** is the **internal grade layer**. It marks the completeness and order of your submission package. It does not mark the artwork a second time. The final C2 piece is marked externally by Cambridge. So A4 grades your packaging and completeness.
 
 ### The package matches the specification exactly
 
@@ -54,7 +54,7 @@ You photograph the final piece as the version the examiner sees. Shoot it to the
 
 ### CS7: checklist and reflection
 
-**CS7** is the submission checklist and reflection. You check the specification line by line: every item present, in order, and labeled.
+**[[classes/a-level-art-design/assessments/9479-s4-assessments|CS7]]** is the submission checklist and reflection. You check the specification line by line: every item present, in order, and labeled.
 
 ## Day by day
 

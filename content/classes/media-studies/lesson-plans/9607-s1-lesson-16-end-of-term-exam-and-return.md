@@ -36,7 +36,7 @@ modified: 2026-08-03
 
 ## Overview
 
-You sit the full Component 2 paper, two hours, in the exam window. Your script comes back on Tue 01-19 with a question-level AO breakdown. On the Wed 01-20 double you turn that data into one page: your gap, your evidence, and your action for Semester 2. This is your **End of Term Exam** script (20% category) plus a one-page Semester 2 target sheet (LB7). Both become Forecast Grade evidence and the start of Semester 2. These dates are provisional and may shift when the school publishes the calendar for that period.
+You sit the full Component 2 paper, two hours, in the exam window. Your script comes back on Tue 01-19 with a question-level AO breakdown. On the Wed 01-20 double you turn that data into one page: your gap, your evidence, and your action for Semester 2. This is your **End of Term Exam** script (20% category) plus a one-page Semester 2 target sheet ([[classes/media-studies/assessments/9607-s1-course-skills-and-homework|LB7]]). Both become Forecast Grade evidence and the start of Semester 2. These dates are provisional and may shift when the school publishes the calendar for that period.
 
 ## The ideas
 
@@ -57,7 +57,7 @@ Name your gap in AO language, with the script as evidence. Not "Section B went b
 The target sheet is one page with four rows:
 
 - **gap**: stated in AO language.
-- **evidence**: the script plus your semester data (A1 → A4 → EoT).
+- **evidence**: the script plus your semester data ([[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]] → [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]] → [[classes/media-studies/assessments/9607-s1-eot-component-2-paper|EoT]]).
 - **action**: specific and shaped for Semester 2.
 - **review date**: a named Semester 2 week, falling before the first Semester 2 attainment.
 

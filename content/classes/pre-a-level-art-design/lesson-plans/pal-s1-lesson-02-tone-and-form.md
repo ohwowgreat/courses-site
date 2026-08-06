@@ -35,7 +35,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson is about value and how to make an object look solid with light and dark instead of lines. You produce three pieces in your sketchbook on Wed 2026-09-09: a 10-step value scale, one shaded-form study from the chart, and one tonal study of a lit object. The value scale and the tonal study are two of the four pieces checked at CS1 in W4.
+This lesson is about value and how to make an object look solid with light and dark instead of lines. You produce three pieces in your sketchbook on Wed 2026-09-09: a 10-step value scale, one shaded-form study from the chart, and one tonal study of a lit object. The value scale and the tonal study are two of the four pieces checked at [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS1]] in W4.
 
 ## The ideas
 

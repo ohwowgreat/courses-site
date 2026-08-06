@@ -21,7 +21,7 @@ modified: 2026-08-06
 
 ## What this unit does
 
-This unit reads the whole semester back as one argument. The End-of-Term retrospective is your third constellation of the year, after the A1 board and the A4 synthesis, and it works at the largest scale. You start with an inventory: everything on the wall, no arranging. Then you defend the three works from your break homework against someone who chose differently. A last workshop follows, then the sit, then a forward look. The exam window holds no exam for this course; it is the marking window. After it come three uncoded, weightless return days: one-to-one feedback, Semester 2 goals about a practice rather than a grade, and the only preview of Semester 2.
+This unit reads the whole semester back as one argument. The End-of-Term retrospective is your third constellation of the year, after the A1 board and the [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis|A4]] synthesis, and it works at the largest scale. You start with an inventory: everything on the wall, no arranging. Then you defend the three works from your break homework against someone who chose differently. A last workshop follows, then the sit, then a forward look. The exam window holds no exam for this course; it is the marking window. After it come three uncoded, weightless return days: one-to-one feedback, Semester 2 goals about a practice rather than a grade, and the only preview of Semester 2.
 
 ## Dates and span
 
@@ -29,7 +29,7 @@ This unit reads the whole semester back as one argument. The End-of-Term retrosp
 - The retrospective sits **Tue 2027-01-05, in class**, outside the exam window. This date will be confirmed in class.
 - Fri 2027-01-08 is the last teaching day of the semester.
 - Exam window Mon 2027-01-11 to Mon 2027-01-18: no exam for this course. It is used to mark the retrospective.
-- **Grades and comments due Wed 2027-01-20.** LB9 (Tue 2027-01-19) lands after this deadline and carries no Semester 1 weight. It counts toward Semester 2.
+- **Grades and comments due Wed 2027-01-20.** [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB9]] (Tue 2027-01-19) lands after this deadline and carries no Semester 1 weight. It counts toward Semester 2.
 - Last school day Fri 2027-01-22. Winter vacation 2027-01-24 to 02-21.
 
 ## Lessons

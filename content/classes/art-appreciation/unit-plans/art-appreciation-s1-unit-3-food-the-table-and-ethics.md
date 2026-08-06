@@ -23,7 +23,7 @@ modified: 2026-08-06
 
 ## What this unit does
 
-This unit treats the table as a place where rules get enforced, not just a setting. It opens with film, Ang Lee's *Eat Drink Man Woman*, because the table is easier to see when it is moving. It then works through still life as inventory (Heda, with the same painting studied two days running), Leonardo's *Last Supper* as a chosen moment, the disorder in Bruegel and Steen taken seriously, and the Qingming scroll walked along its printed length. It closes on three artists the earlier paintings could not anticipate: Cassatt (domestic labor as labor), Rosler's *Semiotics of the Kitchen*, and Weems's *Kitchen Table Series*. It ends with the A3 essay. This is the longest unit of the semester.
+This unit treats the table as a place where rules get enforced, not just a setting. It opens with film, Ang Lee's *Eat Drink Man Woman*, because the table is easier to see when it is moving. It then works through still life as inventory (Heda, with the same painting studied two days running), Leonardo's *Last Supper* as a chosen moment, the disorder in Bruegel and Steen taken seriously, and the Qingming scroll walked along its printed length. It closes on three artists the earlier paintings could not anticipate: Cassatt (domestic labor as labor), Rosler's *Semiotics of the Kitchen*, and Weems's *Kitchen Table Series*. It ends with the [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay|A3]] essay. This is the longest unit of the semester.
 
 ## Dates and span
 
@@ -31,7 +31,7 @@ This unit treats the table as a place where rules get enforced, not just a setti
 - **Screening:** Tue 2026-10-20 (double, 90 min) plus Wed 2026-10-21 (45 min), 135 minutes total. See the screening note below.
 - **Autumn Field Trip:** Fri 2026-10-23 or Sat 2026-10-24. The day will be confirmed in class.
 - **Week 9 (2026-10-26 to 10-30):** G12 is out all week at Seniors' Day. Four self-contained sessions; nothing carries over and nothing is assessed.
-- **Mid-term grades** due Thu 2026-10-29, carried by A2 and participation.
+- **Mid-term grades** due Thu 2026-10-29, carried by [[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison|A2]] and participation.
 - **G11 Juniors Days, Wed 2026-11-04 to Fri 2026-11-06:** no class. Lesson 08 runs across 6 meetings over 10 calendar days.
 - **Foreign Culture Day, Fri 2026-11-20:** lessons run. The essay is already in by then; A3 sits Tue 11-17.
 

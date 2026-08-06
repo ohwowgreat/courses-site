@@ -34,7 +34,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson closes Unit 2. You make A2, your **photographic series**, from work you already shot. There is no new shooting here: the double is selection, sequence, and words. You choose 6 to 8 images, put them in order, give the series a title, and write a reflection. You post the series and reflection to MB by the end of the class on Wed 2026-11-04. Your contact sheet and your rejected frames go into the sketchbook as process evidence for SB2/A5. A2 is the semester's second attainment.
+This lesson closes Unit 2. You make [[classes/pre-a-level-art-design/assessments/pal-s1-a2-photographic-series|A2]], your **photographic series**, from work you already shot. There is no new shooting here: the double is selection, sequence, and words. You choose 6 to 8 images, put them in order, give the series a title, and write a reflection. You post the series and reflection to MB by the end of the class on Wed 2026-11-04. Your contact sheet and your rejected frames go into the sketchbook as process evidence for [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|SB2]]/[[classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook|A5]]. A2 is the semester's second attainment.
 
 ## The ideas
 

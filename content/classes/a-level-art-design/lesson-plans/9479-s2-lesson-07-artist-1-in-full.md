@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This week Unit 3 turns from your own experiments to an artist who solves the problem you are working on. You choose and analyze Artist 1, write their meaning and context, study their method by copying, then answer them with your own personal response. You produce the Artist 1 pages, which are graded as **CS5** on Fri 2027-04-16. The written meaning and context become the first material of your research paper, and the artist study carries into Unit 3's close next week.
+This week Unit 3 turns from your own experiments to an artist who solves the problem you are working on. You choose and analyze Artist 1, write their meaning and context, study their method by copying, then answer them with your own personal response. You produce the Artist 1 pages, which are graded as **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS5]]** on Fri 2027-04-16. The written meaning and context become the first material of your research paper, and the artist study carries into Unit 3's close next week.
 
 
 <figure class="plate">

@@ -51,7 +51,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson opens Unit 2 and moves you from the pencil to the camera. You arrive with your twenty HW1 photographs and learn that the real decisions happen before the shutter: where you stand, what goes in the frame, what you leave out. You produce two things today: a best-three selection from HW1 with written reasons, and a five-viewpoint circuit shoot of one subject with three selects. Those circuit frames feed CS2 in W9.
+This lesson opens Unit 2 and moves you from the pencil to the camera. You arrive with your twenty [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|HW1]] photographs and learn that the real decisions happen before the shutter: where you stand, what goes in the frame, what you leave out. You produce two things today: a best-three selection from HW1 with written reasons, and a five-viewpoint circuit shoot of one subject with three selects. Those circuit frames feed [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS2]] in W9.
 
 ## The ideas
 

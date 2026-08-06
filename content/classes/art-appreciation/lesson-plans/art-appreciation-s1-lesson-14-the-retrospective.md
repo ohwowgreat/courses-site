@@ -63,7 +63,7 @@ You choose three works and defend them to someone who chose differently. The poi
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/art-appreciation/assessments/art-appreciation-s1-eot-retrospective|EoT Retrospective]].
 
-- The EoT retrospective sits Tue 2027-01-05. Criteria are issued with the announcement. You are marked on showing a semester of looking as one argument, with the argument in the layout.
+- The [[classes/art-appreciation/assessments/art-appreciation-s1-eot-retrospective|EoT]] retrospective sits Tue 2027-01-05. Criteria are issued with the announcement. You are marked on showing a semester of looking as one argument, with the argument in the layout.
 - You sit it in class, not in the exam window (Mon 2027-01-11 to Mon 2027-01-18). Any remaining detail will be confirmed in class.
 
 ## Review

@@ -25,7 +25,7 @@ modified: 2026-08-06
 
 This unit teaches the main theorists of the course, in teaching order. **John Berger** argues that a reproduction is not a neutral copy. **Walter Benjamin** describes the **aura** of an artwork. You meet this idea through ukiyo-e prints, where a print is already many copies. **Hito Steyerl** defends the **poor image**, and you make one in a lab. **Susan Sontag** treats photographing as an act on the world. **Clement Greenberg** sets out **avant-garde and kitsch**. **Arthur Danto** names the **artworld**, using Warhol and Duchamp.
 
-The A4 synthesis is the second constellation of the year. It argues across the whole unit.
+The [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis|A4]] synthesis is the second constellation of the year. It argues across the whole unit.
 
 ## Dates and span
 
@@ -34,7 +34,7 @@ The A4 synthesis is the second constellation of the year. It argues across the w
 - **UC application deadline Tue 2026-12-01.** G12 carries a reduced load before the deadline. Only two postings are assessed in Lesson 10.
 - **G11 Juniors Days Wed 2026-12-02 to Fri 2026-12-04: no class.**
 - Foreign Culture Day Fri 2026-12-11 falls on Lesson 12 day 1. Nothing is graded that day.
-- End-of-Semester Activity Tue 2026-12-22. Only LB8 is assessed that day.
+- End-of-Semester Activity Tue 2026-12-22. Only [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB8]] is assessed that day.
 - Christmas break begins Thu 2026-12-24. The late-work cutoff is around 2027-01-01, so A4 is the last thing you submit this semester.
 
 Some later dates, including Foreign Culture Day and the New Year cutoff, may shift when the school publishes the calendar. They will be confirmed in class.

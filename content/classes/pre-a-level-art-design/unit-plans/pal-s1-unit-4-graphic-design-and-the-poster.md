@@ -25,7 +25,7 @@ modified: 2026-07-21
 
 This unit turns composition into communication. Its spine is **"Communicate · audience."** It runs over three Wednesday doubles: W16, W17, and W19. There is no class in W18, which falls in the winter break (Thu 2026-12-24 to Sun 2027-01-03).
 
-The first session teaches what a poster must do: message, audience, and hierarchy. You test thumbnails and type. The second session is A4, the final poster, made in class by hand or digitally. The last session documents your work and closes the semester with the End-of-Term portfolio and the A5 sketchbook submission, both handed in that day.
+The first session teaches what a poster must do: message, audience, and hierarchy. You test thumbnails and type. The second session is [[classes/pre-a-level-art-design/assessments/pal-s1-a4-final-poster|A4]], the final poster, made in class by hand or digitally. The last session documents your work and closes the semester with the End-of-Term portfolio and the A5 sketchbook submission, both handed in that day.
 
 ## Two routes through the same slot
 
@@ -57,8 +57,8 @@ There is no class in W20 (2027-01-13). Final exams run 01-11 to 01-18. Class ret
 **Full brief** (objectives, task, instructions, rubric): [[classes/pre-a-level-art-design/assessments/pal-s1-a4-final-poster|A4 Poster]].
 
 - **A4 (Attainment)**, **2026-12-23 (W17)**: final poster plus reflection, handmade or digital. Announced 2026-12-16 (W16), one week ahead. Marking focus: **hierarchy, typography, message, audience**.
-- **CS4 (Course Skills)**, **2026-12-16 (W16)**: thumbnail set plus poster analysis, in the same double that announces A4. Focus: hierarchy and audience.
-- **EoT (End of Term)**, 2027-01-06 (W19): semester portfolio (four finals, process, and reflections). Submitted, not sat, so the exam window does not apply.
+- **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS4]] (Course Skills)**, **2026-12-16 (W16)**: thumbnail set plus poster analysis, in the same double that announces A4. Focus: hierarchy and audience.
+- **[[classes/pre-a-level-art-design/assessments/pal-s1-eot-semester-portfolio|EoT]] (End of Term)**, 2027-01-06 (W19): semester portfolio (four finals, process, and reflections). Submitted, not sat, so the exam window does not apply.
 - **A5 (Attainment)**, 2027-01-06 (W19): the **sketchbook**, submitted for its terminal attainment mark on the same day as the portfolio. Marking focus: ideas, experimentation, visual research, reflection, presentation. Full detail in the [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|register]].
 
 Full details: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|full register]].

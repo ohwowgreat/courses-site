@@ -39,7 +39,7 @@ modified: 2026-08-03
 
 ## Overview
 
-This lesson teaches gaze theory as a set of live questions you can test, not settled answers. Over the block you build van Zoonen and Mulvey, stress-test Mulvey against films across decades, then flip the question with bell hooks. You produce **CS6**, one representation close-reading paragraph on Fri 2026-11-13, where a theorist does real analytical work inside your argument. This is the exact move A4 and the End of Term Exam reward.
+This lesson teaches gaze theory as a set of live questions you can test, not settled answers. Over the block you build van Zoonen and Mulvey, stress-test Mulvey against films across decades, then flip the question with bell hooks. You produce **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS6]]**, one representation close-reading paragraph on Fri 2026-11-13, where a theorist does real analytical work inside your argument. This is the exact move [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]] and the End of Term Exam reward.
 
 ## The ideas
 

@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This week turns your A1 feedback into recording that an examiner would credit, and it closes Unit 2. You write three specific actions from your A1 banding, push a second sustained study past the first, shoot and annotate your own reference, and build your recording pages so they read in order. You produce **CS3**, the recording-pages build check, due Fri 2027-03-26. This recording feeds the media exploration that opens Unit 3 next week.
+This week turns your [[classes/a-level-art-design/assessments/9479-s2-assessments|A1]] feedback into recording that an examiner would credit, and it closes Unit 2. You write three specific actions from your A1 banding, push a second sustained study past the first, shoot and annotate your own reference, and build your recording pages so they read in order. You produce **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS3]]**, the recording-pages build check, due Fri 2027-03-26. This recording feeds the media exploration that opens Unit 3 next week.
 
 
 <figure class="plate">

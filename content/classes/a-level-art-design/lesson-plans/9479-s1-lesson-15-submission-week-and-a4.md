@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson closes Unit 5 and the semester. You photograph your final outcome, then sequence and edit your whole portfolio so it reads in order, then submit it. You sit **A4** on Thu 2027-01-07: the final portfolio, marked against AO1–AO4, with nothing edited after. You also write a semester reflection and take on your winter homework, three candidate themes for your C3 Personal Investigation.
+This lesson closes Unit 5 and the semester. You photograph your final outcome, then sequence and edit your whole portfolio so it reads in order, then submit it. You sit **[[classes/a-level-art-design/assessments/9479-s1-a4-final-portfolio|A4]]** on Thu 2027-01-07: the final portfolio, marked against AO1–AO4, with nothing edited after. You also write a semester reflection and take on your winter homework, three candidate themes for your C3 Personal Investigation.
 
 ## The ideas
 

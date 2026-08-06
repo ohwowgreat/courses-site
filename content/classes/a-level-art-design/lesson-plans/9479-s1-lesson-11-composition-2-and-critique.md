@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-In this lesson you compose, build, and resolve Composition 2, then critique both compositions and change your work in response. Composition 2 is the alternative you rejected in Lesson 3, built with the same effort as Composition 1 so the comparison is fair. You hand in **CS8**, both compositions photographed and laid out side by side, on Fri 2026-11-20. This may slip to Monday if Foreign Culture Day takes the Friday, but the order of days stays the same. The critique you take from this lesson guides the targeted work in Lesson 12.
+In this lesson you compose, build, and resolve Composition 2, then critique both compositions and change your work in response. Composition 2 is the alternative you rejected in Lesson 3, built with the same effort as Composition 1 so the comparison is fair. You hand in **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS8]]**, both compositions photographed and laid out side by side, on Fri 2026-11-20. This may slip to Monday if Foreign Culture Day takes the Friday, but the order of days stays the same. The critique you take from this lesson guides the targeted work in Lesson 12.
 
 
 <figure class="plate">

@@ -47,7 +47,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This is the unit's making session. You learn two craft skills that separate a collage from a scrapbook page: **layering** and **text as image**. You produce two studies, a layering study and a text-and-image study, and add them to your experiment set. Those two studies, plus the two from Lesson 10 and your home experiment, complete the set that **CS3** collects next Wednesday, 2026-11-25. Dates here may shift when the school publishes its calendar for this period.
+This is the unit's making session. You learn two craft skills that separate a collage from a scrapbook page: **layering** and **text as image**. You produce two studies, a layering study and a text-and-image study, and add them to your experiment set. Those two studies, plus the two from Lesson 10 and your home experiment, complete the set that **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS3]]** collects next Wednesday, 2026-11-25. Dates here may shift when the school publishes its calendar for this period.
 
 ## The ideas
 
@@ -76,7 +76,7 @@ This is the unit's making session. You learn two craft skills that separate a co
 
 ## The digital option
 
-You may **remix an analog study digitally** as an extra experiment, using Photoshop, Affinity, or any editor, working with layers, masking, and drawn interventions. Whether the final A3 can be digital will be confirmed in class.
+You may **remix an analog study digitally** as an extra experiment, using Photoshop, Affinity, or any editor, working with layers, masking, and drawn interventions. Whether the final [[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage|A3]] can be digital will be confirmed in class.
 
 ## Assessment
 

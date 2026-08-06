@@ -33,7 +33,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson opens Unit 3 and its exploration stage. You plan and run twelve media experiments to test which media can carry your investigation of the theme. You document the twelve for **CS4**, due Fri 2027-04-02, and then select on evidence which two or three media to develop. That selection feeds the artist study and A2 later in the unit.
+This lesson opens Unit 3 and its exploration stage. You plan and run twelve media experiments to test which media can carry your investigation of the theme. You document the twelve for **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS4]]**, due Fri 2027-04-02, and then select on evidence which two or three media to develop. That selection feeds the artist study and [[classes/a-level-art-design/assessments/9479-s2-assessments|A2]] later in the unit.
 
 ## The ideas
 

@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-Over eight days you build the final outcome in one sustained run, from underdrawing through to a resolved surface. Halfway through you stop and take a hard look while there is still time to change things. You produce two things: the final outcome itself, and **CS10**, a mid-production review reflection collected Fri 2026-12-18. CS10 is direct practice for A4 on Mon 2026-12-21. The plan you wrote in Lesson 13 governs every session.
+Over eight days you build the final outcome in one sustained run, from underdrawing through to a resolved surface. Halfway through you stop and take a hard look while there is still time to change things. You produce two things: the final outcome itself, and **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS10]]**, a mid-production review reflection collected Fri 2026-12-18. CS10 is direct practice for [[classes/a-level-art-design/assessments/9479-s1-a4-final-portfolio|A4]] on Mon 2026-12-21. The plan you wrote in Lesson 13 governs every session.
 
 ## The ideas
 

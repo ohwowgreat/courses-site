@@ -16,7 +16,7 @@ modified: 2026-07-29
 
 This is an **elective, internally assessed** course at BNDS. There is no syllabus code and no external paper. It is AP-derived in ancestry and runs under the BNDS A-Level Handbook rules ([[shared/bnds-assessment-framework|BNDS Assessment Framework]]). The class is a mixed G11 + G12 group of about 11 students, and an ESL room: in critique you write before you speak.
 
-**Method.** The course follows **Aby Warburg's Mnemosyne Atlas**: "thematic and non-linear, not chronological. Units are constellations, not periods. The throughline is that the structures of the art world are accumulated conventions rather than natural laws." The three constellation assessments (A1 board, then A4 synthesis, then the End-of-Term retrospective) are the same move at increasing scale.
+**Method.** The course follows **Aby Warburg's Mnemosyne Atlas**: "thematic and non-linear, not chronological. Units are constellations, not periods. The throughline is that the structures of the art world are accumulated conventions rather than natural laws." The three constellation assessments (A1 board, then [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis|A4]] synthesis, then the End-of-Term retrospective) are the same move at increasing scale.
 
 **Teaching pattern:** Mon P4 (45') · Tue P6+7 (double, 90') · Wed P1 (45') · Fri P2 (45'). Four teaching days, five periods, one double, no Thursday. That is 225 teaching minutes each week. Your four major in-class attainments fall on the Tuesday doubles: each is an in-class essay or constellation build, so you get the full 90 minutes.
 
@@ -43,6 +43,6 @@ Five units across Autumn 2026-27. Detail is in the [[classes/art-appreciation/un
 
 **Theorist spine in teaching order: Warburg → Berger → Benjamin → Steyerl → Sontag → Greenberg → Danto.**
 
-Majors: A1 board (Fri 2026-09-18), A2 Titian-vs-Manet in-class essay (Tue 2026-10-13), A3 food/table/ethics essay (Tue 2026-11-17), A4 synthesis constellation (Tue 2026-12-15), End-of-Term retrospective (Tue 2027-01-05, 20%). These dates may shift when the school publishes the calendar for that term.
+Majors: A1 board (Fri 2026-09-18), [[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison|A2]] Titian-vs-Manet in-class essay (Tue 2026-10-13), [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay|A3]] food/table/ethics essay (Tue 2026-11-17), A4 synthesis constellation (Tue 2026-12-15), End-of-Term retrospective (Tue 2027-01-05, 20%). These dates may shift when the school publishes the calendar for that term.
 
 Semester 2 is a titled 16-week outline: art market, patronage, *La Chimera*, Shanzhai, and the Atlas Book capstone. See the [[classes/art-appreciation/unit-plans/art-appreciation-semester-2-outline|Semester 2 Outline]].

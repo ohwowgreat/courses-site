@@ -39,7 +39,7 @@ modified: 2026-08-03
 
 ## Overview
 
-This lesson traces one institution from end to end: how it integrates, where it uses synergy, and how it converges onto new platforms. On Wed 12-16 you sit A4, the first Section A response in its real format: 30 minutes of viewing and note-making, then 45 minutes of writing. This is the anchor for your Forecast Grade, and it feeds the End of Term Exam. Friday adds regulation as the fourth media context while the sit is still fresh.
+This lesson traces one institution from end to end: how it integrates, where it uses synergy, and how it converges onto new platforms. On Wed 12-16 you sit [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]], the first Section A response in its real format: 30 minutes of viewing and note-making, then 45 minutes of writing. This is the anchor for your Forecast Grade, and it feeds the End of Term Exam. Friday adds regulation as the fourth media context while the sit is still fresh.
 
 ## The ideas
 
@@ -55,7 +55,7 @@ You can follow one institution from decision to screen as a single chain: who gr
 
 ### Structured notes
 
-The viewing window in A4 is for structured notes, not a transcript. Use a grid of four families of notes, not full sentences. The structured-notes drill practices this: watch a short clip, fill the grid, stop. This is a different skill from A1's single hour of writing.
+The viewing window in A4 is for structured notes, not a transcript. Use a grid of four families of notes, not full sentences. The structured-notes drill practices this: watch a short clip, fill the grid, stop. This is a different skill from [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]]'s single hour of writing.
 
 ### Regulation
 
@@ -64,7 +64,7 @@ Regulation is the fourth media context: who regulates the institution, with what
 ## Day by day
 
 - **Mon 12-14.** Define integration, synergy, and convergence, then hunt for all three in one institution's real current output, with the case-study document updated as entries land. Close with the structured-notes drill.
-- **Tue 12-15.** Follow the same institution end to end as one chain on the board. Check one specimen paragraph against the five criteria, then reread your Lesson 12 note on which rubric row went hungry in CS8 and what will feed it. Close with a second structured-notes drill.
+- **Tue 12-15.** Follow the same institution end to end as one chain on the board. Check one specimen paragraph against the five criteria, then reread your Lesson 12 note on which rubric row went hungry in [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS8]] and what will feed it. Close with a second structured-notes drill.
 - **Wed 12-16 (double).** You sit A4: an unseen extract, 30 minutes of viewing and notes, then 45 minutes of writing to the paper's clock. Scripts are collected. There is no debrief today; the format itself is the lesson.
 - **Fri 12-18.** Add regulation as the fourth context and research the regulation row of the case-study document. Preview W17 (consolidation and the coverage matrix). A4 scripts return with AO splits recorded, and the Forecast Grade conversation happens at Lesson 14 with that evidence.
 

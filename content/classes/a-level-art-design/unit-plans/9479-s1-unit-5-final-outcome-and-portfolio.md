@@ -18,7 +18,7 @@ modified: 2026-07-17
 
 ## What this unit does
 
-This is the final-outcome and portfolio stage, under **AO4 Present**. You build the final outcome in one protected run: four build days, a mid-production review with real time still left, then three resolve days, all set out in the Lesson 14 plan. Submission week treats assembly as a supervised craft. You photograph the work at examiner grade, sequence the whole journey, edit it with a cut log, and submit **A4**, the final portfolio. A4 is marked across AO1–AO4 and closes the semester.
+This is the final-outcome and portfolio stage, under **AO4 Present**. You build the final outcome in one protected run: four build days, a mid-production review with real time still left, then three resolve days, all set out in the Lesson 14 plan. Submission week treats assembly as a supervised craft. You photograph the work at examiner grade, sequence the whole journey, edit it with a cut log, and submit **[[classes/a-level-art-design/assessments/9479-s1-a4-final-portfolio|A4]]**, the final portfolio. A4 is marked across AO1–AO4 and closes the semester.
 
 ## Dates & span
 

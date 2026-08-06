@@ -24,7 +24,7 @@ modified: 2026-07-21
 
 ## What this unit does
 
-Spine: **"Compose · intention."** Four Wednesday double sessions (W7–10) after the National Day break move observation from pencil to camera: framing, viewpoint, light, and above all *choosing*. The working motto is "shoot many, keep few, know why." The unit opens on your reviewed break-photo homework and closes on A2, a photographic series that you shoot, select, and sequence around one theme.
+Spine: **"Compose · intention."** Four Wednesday double sessions (W7–10) after the National Day break move observation from pencil to camera: framing, viewpoint, light, and above all *choosing*. The working motto is "shoot many, keep few, know why." The unit opens on your reviewed break-photo homework and closes on [[classes/pre-a-level-art-design/assessments/pal-s1-a2-photographic-series|A2]], a photographic series that you shoot, select, and sequence around one theme.
 
 ## Session-by-session
 
@@ -43,8 +43,8 @@ W10 falls inside G11 Juniors Days (11-04 → 06). Those are for G11 only, so you
 **Full brief** (objectives, task, instructions, rubric): [[classes/pre-a-level-art-design/assessments/pal-s1-a2-photographic-series|A2 Photo Series]].
 
 - **A2 (Attainment)**: due 2026-11-04 (W10): photographic series plus reflection. Announced two classes ahead on 2026-10-21 (W8). Marking focus: **framing, viewpoint, light, series thinking**.
-- **HW1 (Course Skills)**: due 2026-10-14 (W7): break photo task set 09-30. Shoot at least 20 photos of one subject with varied viewpoint and light. Focus: looking before composing.
-- **CS2 (Course Skills)**: 2026-10-28 (W9): composition practice set plus contact-sheet edit. Focus: framing and selection.
+- **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|HW1]] (Course Skills)**: due 2026-10-14 (W7): break photo task set 09-30. Shoot at least 20 photos of one subject with varied viewpoint and light. Focus: looking before composing.
+- **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS2]] (Course Skills)**: 2026-10-28 (W9): composition practice set plus contact-sheet edit. Focus: framing and selection.
 - **SB1 (Course Skills)**: 2026-10-21 (W8): first sketchbook spot-check. This is the first of two evenly spaced progress checks that feed the A5 sketchbook attainment. Focus: sketchbook habit and development. See the [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|register]].
 
 Full details: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|full register]].

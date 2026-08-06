@@ -19,7 +19,7 @@ modified: 2026-07-18
 
 ## What this unit does
 
-This is the development stage. It covers **AO3 Develop** closing into **AO4 Present**. You compose your final-piece candidates from your own studies. The test then realizes one of them. You compare the candidates on a **draft comparison page** and write out why you rejected the others. You fix a final composition plan so nothing is invented under supervision. You complete every supporting study and decide the mounted order. Content closes at A3. Nothing new is taught after it. There is one taught development week, widened only by the elastic window (reading B, or any earlier CNY opening).
+This is the development stage. It covers **AO3 Develop** closing into **AO4 Present**. You compose your final-piece candidates from your own studies. The test then realizes one of them. You compare the candidates on a **draft comparison page** and write out why you rejected the others. You fix a final composition plan so nothing is invented under supervision. You complete every supporting study and decide the mounted order. Content closes at [[classes/a-level-art-design/assessments/9479-s4-assessments|A3]]. Nothing new is taught after it. There is one taught development week, widened only by the elastic window (reading B, or any earlier CNY opening).
 
 ## Dates & span
 

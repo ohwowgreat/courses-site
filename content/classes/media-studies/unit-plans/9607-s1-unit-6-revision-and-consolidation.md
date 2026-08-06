@@ -27,7 +27,7 @@ modified: 2026-07-22
 
 ## What this unit does
 
-This unit reviews, drills, and tests the semester's work. You turn A4 feedback into targets. The **coverage matrix** crosses every case study against the four Key Concepts to find the gaps HW2 fills over the break. Exam rehearsal covers the paper format, the timing, and the mark scheme's AO economy. Then you sit the full two-hour Component 2 in the school exam window. It returns as question-level AO data and one-page Semester 2 target sheets.
+This unit reviews, drills, and tests the semester's work. You turn [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]] feedback into targets. The **coverage matrix** crosses every case study against the four Key Concepts to find the gaps [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|HW2]] fills over the break. Exam rehearsal covers the paper format, the timing, and the mark scheme's AO economy. Then you sit the full two-hour Component 2 in the school exam window. It returns as question-level AO data and one-page Semester 2 target sheets.
 
 *Numbering note: "U6" here is the S1 calendar band for revision, with no coursebook counterpart. L16's Semester 2 preview "U6 to U8" refers to the coursebook's separate "Units 1–8" numbering.*
 

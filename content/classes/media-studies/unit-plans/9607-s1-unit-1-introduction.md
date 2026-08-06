@@ -22,7 +22,7 @@ modified: 2026-07-22
 
 ## What this unit does
 
-This is a one-week induction. It sets up **Language**, **Representation**, **Industry** and **Audience** as the working spine of the two-year course. You learn that media is **mediation**: a version, not a window. You also drill the skill A1 is marked on, **denotation** before **connotation**. The week ends with your first graded task on day three.
+This is a one-week induction. It sets up **Language**, **Representation**, **Industry** and **Audience** as the working spine of the two-year course. You learn that media is **mediation**: a version, not a window. You also drill the skill [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]] is marked on, **denotation** before **connotation**. The week ends with your first graded task on day three.
 
 A numbering note: "U1" here means the first band of the Semester 1 calendar. The coursebook uses a separate system, "Units 1–8". Its Unit 1 (Introduction to Media) covers similar ground in more depth.
 

@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This week you turn your strongest candidate into a written proposal you can defend on paper: a theme, aims, a primary-source plan, and an artist shortlist. You stress-test the whole proposal against the eight-stage pipeline before you take it to consultation. You submit the proposal as **CS1** on Fri 2027-03-05, and you leave consultation 2 with either a decision to lock or one named fix. Fixing a weak proposal now, on paper, is cheap. This proposal sets up the theme lock next week in Lesson 03.
+This week you turn your strongest candidate into a written proposal you can defend on paper: a theme, aims, a primary-source plan, and an artist shortlist. You stress-test the whole proposal against the eight-stage pipeline before you take it to consultation. You submit the proposal as **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS1]]** on Fri 2027-03-05, and you leave consultation 2 with either a decision to lock or one named fix. Fixing a weak proposal now, on paper, is cheap. This proposal sets up the theme lock next week in Lesson 03.
 
 
 <figure class="plate">
@@ -63,7 +63,7 @@ At **consultation 2** you meet one to one and defend your fixed proposal. You le
 - **Tue 03-02.** Build the primary-source plan. List the shoots and sittings you control, and check the plan does not depend on found imagery.
 - **Wed 03-03.** Build the artist shortlist: two or three artists chosen for the problems they solve, with one line each on what you would learn.
 - **Thu 03-04.** Run the feasibility test. Walk the proposal through all eight stages, mark where it breaks, and fix it today on paper.
-- **Fri 03-05.** Consultation 2, one to one. Bring the fixed proposal and defend it, then submit it as **CS1**. Homework (≤30 min): act on your feedback and begin the statement of intent and annotated references for **CS2** (Fri 2027-03-12).
+- **Fri 03-05.** Consultation 2, one to one. Bring the fixed proposal and defend it, then submit it as **CS1**. Homework (≤30 min): act on your feedback and begin the statement of intent and annotated references for **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS2]]** (Fri 2027-03-12).
 
 ## Assessment
 

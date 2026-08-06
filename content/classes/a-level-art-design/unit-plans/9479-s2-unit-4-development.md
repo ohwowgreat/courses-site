@@ -19,7 +19,7 @@ modified: 2026-07-18
 
 ## What this unit does
 
-This is the development stage, under **AO3 Develop**, with the research paper drafted at the same time. You build two competing compositions to the same resolved standard: your chosen direction and a genuinely rejected alternative. You critique both against your intention. Targeted tests then answer only what the critique left unresolved. You choose the final direction and write out why you rejected the other. You write the evaluation and assemble the Stage 6 page, which is the record of your decisions. You also complete research paper **draft 1** from your contextual writing, following a teacher-set outline. The unit closes with **A3**, marked against AO3 with written and practical work seen together.
+This is the development stage, under **AO3 Develop**, with the research paper drafted at the same time. You build two competing compositions to the same resolved standard: your chosen direction and a genuinely rejected alternative. You critique both against your intention. Targeted tests then answer only what the critique left unresolved. You choose the final direction and write out why you rejected the other. You write the evaluation and assemble the Stage 6 page, which is the record of your decisions. You also complete research paper **draft 1** from your contextual writing, following a teacher-set outline. The unit closes with **[[classes/a-level-art-design/assessments/9479-s2-assessments|A3]]**, marked against AO3 with written and practical work seen together.
 
 ## Dates & span
 

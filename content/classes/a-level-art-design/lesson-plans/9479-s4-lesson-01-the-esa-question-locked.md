@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson opens Component 2 on the Cambridge ESA paper itself. You read the paper closely, learn how it is marked, and choose your question. Your deliverable is one question locked in writing with a rationale, due at **CS1** on Fri 2028-02-25. The whole semester runs on this choice, so you make it against evidence. Recording at exam pace begins in the next lesson. These dates are projected and may shift when the school publishes the calendar.
+This lesson opens Component 2 on the Cambridge ESA paper itself. You read the paper closely, learn how it is marked, and choose your question. Your deliverable is one question locked in writing with a rationale, due at **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS1]]** on Fri 2028-02-25. The whole semester runs on this choice, so you make it against evidence. Recording at exam pace begins in the next lesson. These dates are projected and may shift when the school publishes the calendar.
 
 
 <figure class="plate">
@@ -59,7 +59,7 @@ You lock one question in writing by Friday with a rationale grounded in evidence
 - **Tue 02-22.** Question analysis: what each question permits and what it quietly forbids.
 - **Wed 02-23.** Strengths audit: match questions to proven strengths from C1 and C3, not to preference.
 - **Thu 02-24.** Question shortlist, one to one: defend two candidate questions against the evidence.
-- **Fri 02-25.** Lock your question in writing with a rationale; **CS1**. A1 is announced today, 14 days out.
+- **Fri 02-25.** Lock your question in writing with a rationale; **CS1**. [[classes/a-level-art-design/assessments/9479-s4-assessments|A1]] is announced today, 14 days out.
 
 ## Review
 

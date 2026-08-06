@@ -25,7 +25,7 @@ modified: 2026-07-21
 
 ## What this unit does
 
-The spine is **"Combine · meaning."** Five Wednesday double sessions (W11–15) move from single images to combinations. You start with **juxtaposition** and **scale**, the idea that two images together say a third thing. Then you work on **layering** and text-with-image. Then you draft toward one final collage, made in class for A3. This is the semester's longest unit.
+The spine is **"Combine · meaning."** Five Wednesday double sessions (W11–15) move from single images to combinations. You start with **juxtaposition** and **scale**, the idea that two images together say a third thing. Then you work on **layering** and text-with-image. Then you draft toward one final collage, made in class for [[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage|A3]]. This is the semester's longest unit.
 
 ## Session-by-session
 
@@ -44,7 +44,7 @@ These dates may shift when the school publishes the calendar for this period. An
 **Full brief** (objectives, task, instructions, rubric): [[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage|A3 Collage]].
 
 - **A3 (Attainment)**: you sit this on 2026-12-09 (W15). It is your final collage plus a reflection, made in class across W14–W15. It is announced on 2026-11-25 (W13), two classes ahead. Marking focus: **juxtaposition, layering, composition, meaning**.
-- **CS3 (Course Skills)**: 2026-11-25 (W13), a collage experiment set. Focus: combination and meaning.
+- **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS3]] (Course Skills)**: 2026-11-25 (W13), a collage experiment set. Focus: combination and meaning.
 - **SB2 (Course Skills)**: 2026-12-02 (W14), the second sketchbook spot-check. This is the last progress check before the A5 sketchbook attainment. Focus: sketchbook habit and development. See the [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|register]].
 
 Full details: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|full register]].

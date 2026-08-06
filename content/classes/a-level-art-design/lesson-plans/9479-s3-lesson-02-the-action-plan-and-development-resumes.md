@@ -55,7 +55,7 @@ You compose your final-outcome candidates **from the summer production, not from
 - **Mon 09-06.** Turn the audit's met, missed, and missing list into goals that name pages, pieces, and dates.
 - **Tue 09-07.** Write the action plan: dated, signed, and specific. This closes Unit 1.
 - **Wed 09-08.** Unit 4 resumes. Compose final-outcome candidates from your summer work, not from memory.
-- **Thu–Fri 09-09/10.** Studio: build the candidate compositions over two days, each far enough to judge. **CS2** closes the week on Fri 2027-09-10. Homework: up to 30 minutes of composition thumbnails toward the candidates, feeding CS2.
+- **Thu–Fri 09-09/10.** Studio: build the candidate compositions over two days, each far enough to judge. **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS2]]** closes the week on Fri 2027-09-10. Homework: up to 30 minutes of composition thumbnails toward the candidates, feeding CS2.
 
 ## Review
 

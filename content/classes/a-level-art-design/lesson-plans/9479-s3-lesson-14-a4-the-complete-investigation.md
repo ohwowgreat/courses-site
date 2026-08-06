@@ -34,7 +34,7 @@ This lesson brings your Personal Investigation to its Component 3 internal submi
 
 ### A4: the complete investigation
 
-**A4** is the complete Personal Investigation, judged as a whole. It brings together both outcomes, the supporting portfolio, and the research paper, marked across AO1–AO4 at once. This is the Component 3 internal submission.
+**[[classes/a-level-art-design/assessments/9479-s3-assessments|A4]]** is the complete Personal Investigation, judged as a whole. It brings together both outcomes, the supporting portfolio, and the research paper, marked across AO1–AO4 at once. This is the Component 3 internal submission.
 
 
 <figure class="plate">

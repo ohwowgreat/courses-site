@@ -25,7 +25,7 @@ modified: 2026-07-22
 
 ## What this unit does
 
-The contexts band closes Component 1 and turns the course toward Component 2. Your portfolio goes in on Friday of W13. There are no edits after that. Its feedback becomes your Semester 2 production targets. You then study audience and institutions theory: uses and gratifications, Morley, ownership, integration, synergy, convergence, and regulation. This builds toward your first Section A sit in the real format (A4, the Forecast Grade anchor) and opens the case-study document that carries A4, the End of Term Exam, and Paper 2.
+The contexts band closes Component 1 and turns the course toward Component 2. Your portfolio goes in on Friday of W13. There are no edits after that. Its feedback becomes your Semester 2 production targets. You then study audience and institutions theory: uses and gratifications, Morley, ownership, integration, synergy, convergence, and regulation. This builds toward your first Section A sit in the real format ([[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]], the Forecast Grade anchor) and opens the case-study document that carries A4, the End of Term Exam, and Paper 2.
 
 This band is called "U5" in the semester calendar. In the coursebook these contexts sit across Unit 4 (Audience) and Unit 5 (Industry).
 

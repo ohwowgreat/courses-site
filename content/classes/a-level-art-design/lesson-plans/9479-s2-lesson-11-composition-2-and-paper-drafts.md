@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This week you give the idea you rejected a fair trial. You compose, build, and resolve **composition 2**, and you draft your research paper sections against your outline. On Fri 2027-05-14 you hand in **CS7**, the research paper section drafts. Both finished compositions feed next week's critique, and the paper drafting builds toward **A3**, which sits Fri 2027-05-28.
+This week you give the idea you rejected a fair trial. You compose, build, and resolve **composition 2**, and you draft your research paper sections against your outline. On Fri 2027-05-14 you hand in **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS7]]**, the research paper section drafts. Both finished compositions feed next week's critique, and the paper drafting builds toward **[[classes/a-level-art-design/assessments/9479-s2-assessments|A3]]**, which sits Fri 2027-05-28.
 
 ## The ideas
 

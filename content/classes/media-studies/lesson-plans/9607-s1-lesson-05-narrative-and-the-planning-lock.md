@@ -39,7 +39,7 @@ modified: 2026-08-03
 
 ## Overview
 
-This lesson brings two things together: narrative theory and your production planning. You learn two ways to describe how stories work, then you use them to test your own opening. On Wednesday 09-30 you lock your C1 planning suite on the blog to a shootable standard: a plan someone else could shoot without asking questions. HW1 is set the same day, because the notice window for A1 falls inside the National Day break and cannot wait. After the break, on Friday 10-09, you get your HW1 back annotated, and you meet the sound and editing vocabulary your shoots have just made real. This work feeds A2 and A1.
+This lesson brings two things together: narrative theory and your production planning. You learn two ways to describe how stories work, then you use them to test your own opening. On Wednesday 09-30 you lock your C1 planning suite on the blog to a shootable standard: a plan someone else could shoot without asking questions. [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|HW1]] is set the same day, because the notice window for [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]] falls inside the National Day break and cannot wait. After the break, on Friday 10-09, you get your HW1 back annotated, and you meet the sound and editing vocabulary your shoots have just made real. This work feeds [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2]] and A1.
 
 ## The ideas
 
@@ -76,9 +76,9 @@ After the break you learn sound and editing terms against your own footage. A **
 ## Day by day
 
 - **Mon 09-28.** Learn Todorov's arc: work through it on one short narrative, track it on a second text together, then map a story you know. Turn the arc on your own C1 plan and find where the disturbance is.
-- **Tue 09-29.** Recall the five stages from memory, then learn Propp's character functions and binary oppositions, with the *Lupin* table. Map your own C1 opening onto the functions. LB1 is posted for blog punctuality (posts 1–5). Ten minutes are reserved in the room to bring lagging blogs current.
+- **Tue 09-29.** Recall the five stages from memory, then learn Propp's character functions and binary oppositions, with the *Lupin* table. Map your own C1 opening onto the functions. [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|LB1]] is posted for blog punctuality (posts 1–5). Ten minutes are reserved in the room to bring lagging blogs current.
 - **Wed 09-30 (double).** The planning lock. Another group reviews your planning suite (storyboard or flat plan, shot list, schedule, roles, casting) against the shootability checklist. Apply the fixes, then post and date your final plan on the blog before you leave. You receive the production diary. HW1 is set: an A1-format analysis of a self-chosen 2–3 minute sequence on a teacher-viewable platform, not a taught text, due Fri 10-09. Your break production window is 3–4 hours of shooting, with diary entries as you go. Equipment is confirmed on the way out: hand in your school camera sign-out or name your own tested kit.
-- **Fri 10-09 (post-break).** Learn sound and editing vocabulary against your own break footage. HW1 is debriefed, annotated and not graded, with common gaps collected on the board. LB2 is posted: HW1 returned on time, glossary current. A1 is the following Wednesday.
+- **Fri 10-09 (post-break).** Learn sound and editing vocabulary against your own break footage. HW1 is debriefed, annotated and not graded, with common gaps collected on the board. [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|LB2]] is posted: HW1 returned on time, glossary current. A1 is the following Wednesday.
 
 ## Assessment
 

@@ -37,7 +37,7 @@ modified: 2026-08-03
 
 ## Overview
 
-This is the last teaching week, spent removing any surprise in format, timing, or mark scheme. You walk through the whole paper, drill plans against the clock, then write **CS9**, a full timed Section B answer on your own case studies on Wed 2027-01-06. You peer-mark a script before yours is marked, so you read the scheme as a marker once. You leave naming exactly where you lose marks. All of this feeds straight into the End of Term Exam.
+This is the last teaching week, spent removing any surprise in format, timing, or mark scheme. You walk through the whole paper, drill plans against the clock, then write **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS9]]**, a full timed Section B answer on your own case studies on Wed 2027-01-06. You peer-mark a script before yours is marked, so you read the scheme as a marker once. You leave naming exactly where you lose marks. All of this feeds straight into the End of Term Exam.
 
 ## The ideas
 
@@ -65,7 +65,7 @@ From that, name your **two loss points and the counter-move for each**, written 
 
 ## Day by day
 
-- **Mon 01-04.** HW2 is due today. Walk through the full Paper 2 on a past paper: the clock, the four screenings, and the frozen Question 1 stem read aloud. Write your personal minute budget for each section.
+- **Mon 01-04.** [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|HW2]] is due today. Walk through the full Paper 2 on a past paper: the clock, the four screenings, and the frozen Question 1 stem read aloud. Write your personal minute budget for each section.
 - **Tue 01-05.** Drill five-minute Section B plans in three rounds, using the CS9 question bank: read, plan claim / evidence / counter / response with case-study facts, pens down at five minutes. Swap round-three plans and check whether a stranger could write from them. Finish with technique-plus-content pairing sentences at speed.
 - **Wed 01-06 (double).** One question is chosen on the day. Write **CS9**, the full Section B, timed at 45 minutes on your own case studies. Then peer-mark a script against the five-criteria rubric in Beat the Examiner, and watch the teacher moderate three scripts aloud.
 - **Fri 01-08 (last teaching day).** Map where the 25 marks sit, AO1 15 and AO2 10, against the class's CS9 results. Leave with two named loss points and a counter-move for each on one card. The exam window opens Monday; your slot comes from the exam office, screening facilities are booked, and you bring only pens.

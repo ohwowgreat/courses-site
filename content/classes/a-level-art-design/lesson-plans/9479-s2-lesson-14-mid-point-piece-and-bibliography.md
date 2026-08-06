@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson opens the final unit, the mid-point portfolio. You choose the one piece that carries your investigation and refine it to a standard the mid point can stand on. You then integrate your bibliography into the body of the work and plan the page architecture. Your graded deliverable is **CS9**, a written annotation due Thu 2027-06-03. The work you sequence this week feeds directly into submission week, so next week is assembly, not invention. These dates may shift if the school publishes a revised calendar for this period.
+This lesson opens the final unit, the mid-point portfolio. You choose the one piece that carries your investigation and refine it to a standard the mid point can stand on. You then integrate your bibliography into the body of the work and plan the page architecture. Your graded deliverable is **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS9]]**, a written annotation due Thu 2027-06-03. The work you sequence this week feeds directly into submission week, so next week is assembly, not invention. These dates may shift if the school publishes a revised calendar for this period.
 
 
 <figure class="plate">
@@ -39,7 +39,7 @@ This lesson opens the final unit, the mid-point portfolio. You choose the one pi
 
 ### The mid-point piece
 
-The **mid-point piece** is the single resolved piece that carries your investigation. It is the work the whole portfolio is built around. You choose it from your A3 feedback, then refine it. This is refinement, not a restart: the piece is already chosen, and now you finish it properly. It has to hold as the strongest single thing in the portfolio.
+The **mid-point piece** is the single resolved piece that carries your investigation. It is the work the whole portfolio is built around. You choose it from your [[classes/a-level-art-design/assessments/9479-s2-assessments|A3]] feedback, then refine it. This is refinement, not a restart: the piece is already chosen, and now you finish it properly. It has to hold as the strongest single thing in the portfolio.
 
 ### Integrating the bibliography
 

@@ -40,15 +40,15 @@ This week you build final outcome 1 in one sustained run. You execute the plan y
 
 ### One sustained run
 
-Build outcome 1 as **one sustained run**, not a series of fresh starts. Continuity is what carries your work from AO3 Develop into AO4 Present. You are executing the plan from CS5, not reinventing it.
+Build outcome 1 as **one sustained run**, not a series of fresh starts. Continuity is what carries your work from AO3 Develop into AO4 Present. You are executing the plan from [[classes/a-level-art-design/assessments/9479-s3-assessments|CS5]], not reinventing it.
 
 ### The mid-production review
 
-The **mid-production review** lands while there is still time to change the work. A review after the work is fixed changes nothing. CS6 marks the review, but the work is what proves you used it: act on what the review names the same day, not later.
+The **mid-production review** lands while there is still time to change the work. A review after the work is fixed changes nothing. [[classes/a-level-art-design/assessments/9479-s3-assessments|CS6]] marks the review, but the work is what proves you used it: act on what the review names the same day, not later.
 
 ### A3, the final research paper
 
-**A3** is the final research paper. It is announced on Monday, 14 days ahead.
+**[[classes/a-level-art-design/assessments/9479-s3-assessments|A3]]** is the final research paper. It is announced on Monday, 14 days ahead.
 
 ## Day by day
 

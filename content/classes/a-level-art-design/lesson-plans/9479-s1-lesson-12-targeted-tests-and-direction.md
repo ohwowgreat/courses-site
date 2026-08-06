@@ -33,7 +33,7 @@ modified: 2026-08-05
 
 ## Overview
 
-In this lesson you run targeted tests, choose your final direction, write your evaluation, and build the Stage 6 page. The tests answer only the questions the critique left unresolved: no decoration. You then choose your final direction and write down what you rejected and why. CS9, your targeted tests plus critique response, is collected on Fri 2026-11-27. This work is where top-band AO3 Develop is won or lost, and it feeds directly into A3.
+In this lesson you run targeted tests, choose your final direction, write your evaluation, and build the Stage 6 page. The tests answer only the questions the critique left unresolved: no decoration. You then choose your final direction and write down what you rejected and why. [[classes/a-level-art-design/assessments/9479-s1-course-skills|CS9]], your targeted tests plus critique response, is collected on Fri 2026-11-27. This work is where top-band AO3 Develop is won or lost, and it feeds directly into [[classes/a-level-art-design/assessments/9479-s1-a3-development-milestone|A3]].
 
 ## The ideas
 

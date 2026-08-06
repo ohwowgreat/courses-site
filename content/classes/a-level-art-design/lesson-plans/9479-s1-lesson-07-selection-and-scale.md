@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This week you turn your exploration into a commitment. You critique the experiment grids, select your media for reasons you can write down, then test that choice at real scale. You produce a Stage 3 page and a media selection note, collected as **CS6** on Fri 2026-10-23. This is direct practice for A2.
+This week you turn your exploration into a commitment. You critique the experiment grids, select your media for reasons you can write down, then test that choice at real scale. You produce a Stage 3 page and a media selection note, collected as **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS6]]** on Fri 2026-10-23. This is direct practice for [[classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study|A2]].
 
 
 <figure class="plate">

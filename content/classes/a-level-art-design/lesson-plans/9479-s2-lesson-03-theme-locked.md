@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This week your theme stops being a proposal and becomes the thing you will make. On Monday you lock it in writing, signed. From there you build on that theme: a statement of intent in your own words, a research plan with real reading and dates, and your first primary-source shoot. You produce **CS2**, the statement of intent plus annotated references, due Fri 2027-03-12, and Unit 1 closes. This work feeds directly into **A1**, the recording milestone next week. These dates are set for 2027 and may shift when the school publishes the calendar for that period.
+This week your theme stops being a proposal and becomes the thing you will make. On Monday you lock it in writing, signed. From there you build on that theme: a statement of intent in your own words, a research plan with real reading and dates, and your first primary-source shoot. You produce **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS2]]**, the statement of intent plus annotated references, due Fri 2027-03-12, and Unit 1 closes. This work feeds directly into **[[classes/a-level-art-design/assessments/9479-s2-assessments|A1]]**, the recording milestone next week. These dates are set for 2027 and may shift when the school publishes the calendar for that period.
 
 
 <figure class="plate">

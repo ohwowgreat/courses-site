@@ -46,7 +46,7 @@ Full detail: [[classes/media-studies/unit-plans/9607-semester-1-plan|Semester 1 
 | wks 11–13 | Revision; **full 2-hour mock wk 12**; clinics |
 | exam window | **Paper 2, May/June 2027**, projected Thu 2027-05-06; AS complete |
 
-Over summer: light case-study collection for the two A2 debate topics.
+Over summer: light case-study collection for the two [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2]] debate topics.
 
 ## S3 — autumn 2027 · debates + C3 production (G12)
 

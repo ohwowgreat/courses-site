@@ -28,7 +28,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This is the week the component leaves the building. You do supervised gap repair on what the QC check named, you run one final check against the specification, and your work is submitted for the exam board. On the linear June 2028 entry, C1, C2 and C3 all reach the board in the same window. Before the work goes, your portfolio is photographed for your own records on Thu 2028-04-27 (CS8), because the record has to survive the submission. This closes the practical work; the course itself ends in Lesson 10. These dates are projected and may shift when the school publishes the calendar for that period.
+This is the week the component leaves the building. You do supervised gap repair on what the QC check named, you run one final check against the specification, and your work is submitted for the exam board. On the linear June 2028 entry, C1, C2 and C3 all reach the board in the same window. Before the work goes, your portfolio is photographed for your own records on Thu 2028-04-27 ([[classes/a-level-art-design/assessments/9479-s4-assessments|CS8]]), because the record has to survive the submission. This closes the practical work; the course itself ends in Lesson 10. These dates are projected and may shift when the school publishes the calendar for that period.
 
 
 <figure class="plate">

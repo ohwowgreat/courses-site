@@ -35,7 +35,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson opens Unit 3 and starts collage. In Unit 2 you chose images. Now you cut them apart and make them argue. You learn the core vocabulary and the two cheapest tools for meaning, juxtaposition and scale. You produce two fast A5 studies, one of each, in your sketchbook. Both studies open the experiment set that CS3 checks at W13, so keep them.
+This lesson opens Unit 3 and starts collage. In Unit 2 you chose images. Now you cut them apart and make them argue. You learn the core vocabulary and the two cheapest tools for meaning, juxtaposition and scale. You produce two fast A5 studies, one of each, in your sketchbook. Both studies open the experiment set that [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS3]] checks at W13, so keep them.
 
 ## The ideas
 

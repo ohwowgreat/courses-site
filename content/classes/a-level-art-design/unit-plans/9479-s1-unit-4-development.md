@@ -19,7 +19,7 @@ modified: 2026-07-17
 
 ## What this unit does
 
-This is the development stage, under **AO3 Develop**. You build two full compositions: first the direction you chose, then the alternative you genuinely rejected. You critique both against your intention. Targeted tests then answer only what the critique left unresolved. The unit closes when you plan the final outcome completely, before A3 reviews the whole development trail. AO3 closes into **AO4** in the final lesson.
+This is the development stage, under **AO3 Develop**. You build two full compositions: first the direction you chose, then the alternative you genuinely rejected. You critique both against your intention. Targeted tests then answer only what the critique left unresolved. The unit closes when you plan the final outcome completely, before [[classes/a-level-art-design/assessments/9479-s1-a3-development-milestone|A3]] reviews the whole development trail. AO3 closes into **AO4** in the final lesson.
 
 ## Dates & span
 
@@ -40,7 +40,7 @@ This unit gates on **A3, Thu 2026-12-10**, the development milestone (compositio
 
 ## Key content
 
-- Keep your one-sentence direction from A2 at your desk. If your development drifts from it, you talk it through the same day.
+- Keep your one-sentence direction from [[classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study|A2]] at your desk. If your development drifts from it, you talk it through the same day.
 - Two-day builds never restart. Carrying a piece through is part of the content. Composition 2's one-day build is intentional pressure: the process moves faster the second time.
 - The **rejection paragraph** (your final direction, Fri of Lesson 12) is the highest-leverage piece of writing in the AO4 story. Write it in full sentences.
 - The final plan must pass this bar: a capable stranger could begin the piece from it. Choose your palette and materials for meaning, and name them as such.

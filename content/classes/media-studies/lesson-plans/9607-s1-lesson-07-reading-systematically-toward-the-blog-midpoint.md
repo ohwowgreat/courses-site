@@ -40,7 +40,7 @@ modified: 2026-08-03
 
 ## Overview
 
-This lesson turns analytical instinct into method. You learn two more of Barthes's codes, a fixed reading order for any text, and the PEEM paragraph. On Wednesday 10-21 you produce your deliverable: the CS5 peer blog audit, where a partner checks your blog against the same mid-point checklist that A2 will be marked with. You get this three teaching days before A2 is due, so you still have time to fix what the audit finds. Your blog, posts 1–7, must be to standard by Mon 10-26.
+This lesson turns analytical instinct into method. You learn two more of Barthes's codes, a fixed reading order for any text, and the PEEM paragraph. On Wednesday 10-21 you produce your deliverable: the [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS5]] peer blog audit, where a partner checks your blog against the same mid-point checklist that [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2]] will be marked with. You get this three teaching days before A2 is due, so you still have time to fix what the audit finds. Your blog, posts 1–7, must be to standard by Mon 10-26.
 
 ## The ideas
 
@@ -54,7 +54,7 @@ Both appear in a TV cold open. Watch one twice: first list every question the te
 
 ### The systematic reading order
 
-The **systematic reading order** is one fixed order you run on every extract, every time: framing, then camera, then light, then mise-en-scène, then sound, then edit, then narrative codes. It fixes the commonest A1 gap, which is coverage: whole code families never visited. The fix is procedural, not talent. Run the order silently, take notes in order, do not wander.
+The **systematic reading order** is one fixed order you run on every extract, every time: framing, then camera, then light, then mise-en-scène, then sound, then edit, then narrative codes. It fixes the commonest [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]] gap, which is coverage: whole code families never visited. The fix is procedural, not talent. Run the order silently, take notes in order, do not wander.
 
 This is where the **Ladder**, your reading routine, arrives in full. The reading order is rungs 1 and 2; PEEM climbs rungs 3 to 5. Copy the order onto your personal code checklist.
 

@@ -37,7 +37,7 @@ modified: 2026-08-03
 
 ## Overview
 
-This week you build one artifact: the **Creative Critical Reflection (CCR)**. It carries about a fifth of the A3 marks, because it is where AO2 lives in the portfolio. Over four days you draft all four CCR questions, review them in CS7 against the C1 criteria on Wed 11-18, and post a complete redraft to the blog by Fri 11-20. The CCR then becomes portfolio material for A3, which is one week out.
+This week you build one artifact: the **Creative Critical Reflection (CCR)**. It carries about a fifth of the [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio|A3]] marks, because it is where AO2 lives in the portfolio. Over four days you draft all four CCR questions, review them in [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS7]] against the C1 criteria on Wed 11-18, and post a complete redraft to the blog by Fri 11-20. The CCR then becomes portfolio material for A3, which is one week out.
 
 ## The ideas
 

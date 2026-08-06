@@ -19,7 +19,7 @@ modified: 2026-07-18
 
 ## What this unit does
 
-This unit finishes the development pass, under **AO3 Develop**. You compose final-outcome candidates from your summer production, not from memory. You carry two candidates forward and build both to the same standard. Targeted tests change the composition based on evidence. A structured critique and a written evaluation build the decision trail on your **Stage 6** page. You complete **research paper draft 2** section by section, and your teacher marks it. Before the milestone, you run a self-check against the AO3 descriptors. The unit closes with **A1**, marked against AO3.
+This unit finishes the development pass, under **AO3 Develop**. You compose final-outcome candidates from your summer production, not from memory. You carry two candidates forward and build both to the same standard. Targeted tests change the composition based on evidence. A structured critique and a written evaluation build the decision trail on your **Stage 6** page. You complete **research paper draft 2** section by section, and your teacher marks it. Before the milestone, you run a self-check against the AO3 descriptors. The unit closes with **[[classes/a-level-art-design/assessments/9479-s3-assessments|A1]]**, marked against AO3.
 
 > This is the **second pass** of the pipeline's development stage. Semester 2 built the first-pass compositions; Semester 3 develops the final-outcome candidates. Semester 3 has no U2 or U3, because recording and exploration are already complete.
 

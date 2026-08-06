@@ -19,7 +19,7 @@ modified: 2026-07-17
 
 ## What this unit does
 
-This is the exploration and artist-study stage. The front half carries **AO2 Explore**: twelve prescribed media experiments, evidence-based selection, and a scale trial at outcome size. The back half opens **AO3**: two artist studies chosen to solve, then argue about, your problem, plus the bridge piece that carries the study into development. The unit closes with A2, marked against AO2 and AO3 together.
+This is the exploration and artist-study stage. The front half carries **AO2 Explore**: twelve prescribed media experiments, evidence-based selection, and a scale trial at outcome size. The back half opens **AO3**: two artist studies chosen to solve, then argue about, your problem, plus the bridge piece that carries the study into development. The unit closes with [[classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study|A2]], marked against AO2 and AO3 together.
 
 ## Dates & span
 

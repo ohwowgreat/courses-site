@@ -35,7 +35,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson is about composition: deciding a drawing before you make it. You compare three viewfinder thumbnails and choose one in writing, with a reason. Then you begin the final observational drawing on good paper, building it from your chosen thumbnail using the tone and texture from Lessons 02 and 03. Your **CS1** exercise set is collected and graded this session. The drawing you start today is finished as **A1** next session (W5, 09-30).
+This lesson is about composition: deciding a drawing before you make it. You compare three viewfinder thumbnails and choose one in writing, with a reason. Then you begin the final observational drawing on good paper, building it from your chosen thumbnail using the tone and texture from Lessons 02 and 03. Your **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS1]]** exercise set is collected and graded this session. The drawing you start today is finished as **[[classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing|A1]]** next session (W5, 09-30).
 
 ## The ideas
 

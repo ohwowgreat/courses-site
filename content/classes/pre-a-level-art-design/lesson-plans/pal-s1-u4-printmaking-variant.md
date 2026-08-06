@@ -18,7 +18,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This variant of Unit 4 teaches printmaking with linocut instead of the graphic design poster. Over three Wednesdays you learn where printmaking comes from, transfer a design onto a block and carve it, then ink and pull an edition of prints. You log CS4, an annotated design sheet, on Wed 2026-12-16, and you sit A4, a resolved print, on Wed 2026-12-23. The final Wednesday on Wed 2027-01-06 documents your work for the semester portfolio, with the EoT portfolio due that day.
+This variant of Unit 4 teaches printmaking with linocut instead of the graphic design poster. Over three Wednesdays you learn where printmaking comes from, transfer a design onto a block and carve it, then ink and pull an edition of prints. You log [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS4]], an annotated design sheet, on Wed 2026-12-16, and you sit [[classes/pre-a-level-art-design/assessments/pal-s1-a4-final-poster|A4]], a resolved print, on Wed 2026-12-23. The final Wednesday on Wed 2027-01-06 documents your work for the semester portfolio, with the [[classes/pre-a-level-art-design/assessments/pal-s1-eot-semester-portfolio|EoT]] portfolio due that day.
 
 ## The ideas
 

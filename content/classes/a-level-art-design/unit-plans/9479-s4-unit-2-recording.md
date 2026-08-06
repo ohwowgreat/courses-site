@@ -19,7 +19,7 @@ modified: 2026-07-18
 
 ## What this unit does
 
-This is the recording stage at **exam pace**, worked under **AO1 Record**. You state an intention on your chosen question and plan your reference shoot in the same session. You shoot and draw your own reference within the same week. You open one observed study and sustain it without restarting. Your annotation ties every page to the question. You build the recording pages as the work happens: there is no later. The unit closes with **A1**, marked against AO1.
+This is the recording stage at **exam pace**, worked under **AO1 Record**. You state an intention on your chosen question and plan your reference shoot in the same session. You shoot and draw your own reference within the same week. You open one observed study and sustain it without restarting. Your annotation ties every page to the question. You build the recording pages as the work happens: there is no later. The unit closes with **[[classes/a-level-art-design/assessments/9479-s4-assessments|A1]]**, marked against AO1.
 
 ## Dates & span
 

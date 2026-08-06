@@ -30,7 +30,7 @@ modified: 2026-08-06
 
 ## Overview
 
-This lesson looks at food, the table, and domestic work as subjects for art. You study three artists: Cassatt, Rosler, and Weems, plus the idea of the food image itself. You produce A3, an in-class essay on food, the table, and ethics, which you sit on Tue 2026-11-17. The work feeds Unit 4, which takes the same question into mediation.
+This lesson looks at food, the table, and domestic work as subjects for art. You study three artists: Cassatt, Rosler, and Weems, plus the idea of the food image itself. You produce [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay|A3]], an in-class essay on food, the table, and ethics, which you sit on Tue 2026-11-17. The work feeds Unit 4, which takes the same question into mediation.
 
 ## The ideas
 

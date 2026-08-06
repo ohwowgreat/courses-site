@@ -33,7 +33,7 @@ Marshall, Naisbett & Stoklosa, *Cambridge International AS & A Level Media Studi
 
 Terms are defined inline as you read. The book has no glossary and no index.
 
-*My Life is Mine* (§4.1) is the practice extract that anchors Unit 4. It is the exam-style extract used to model the A1 task, with the four-viewings protocol and worked note charts.
+*My Life is Mine* (§4.1) is the practice extract that anchors Unit 4. It is the exam-style extract used to model the [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]] task, with the four-viewings protocol and worked note charts.
 
 The coursebook covers a wide range of theorists: Barthes, Saussure, Hall (on the active audience in §1.2, representation in §3.3, and encoding/decoding in §5.3), Lacey, Neale, Buckingham, Fiske, Todorov, Propp, Lévi-Strauss, Curran & Seaton, Jenkins, Shirky, Hesmondhalgh, Turkle, Lyotard, Baudrillard, Eco, Jameson, Strinati, Gauntlett, McLuhan, Postman, Innis, Ong, Logan, Tapscott, Leadbeater, boyd, and Lanier. §8.3 uses a WeChat/Tencent super-app case study as its main China-local example.
 
@@ -43,7 +43,7 @@ Past papers cover Components 2 and 4 only, from the June 2024 and June 2025 sess
 
 **Paper 2** has two 25-mark essays. In Section A you analyze how an extract constructs meaning through camera, sound, mise-en-scène, and editing. You watch the extract four times, on a 30/45/45-minute rubric. Section B is a contexts essay.
 
-**Paper 4** (A2) has two sections. Section A gives three topics in a fixed order: regulation, postmodern media, and power, as 15-mark essays. How many you answer will be confirmed in class. Section B is a compulsory Media Ecology synoptic worth 30 marks.
+**Paper 4** ([[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2]]) has two sections. Section A gives three topics in a fixed order: regulation, postmodern media, and power, as 15-mark essays. How many you answer will be confirmed in class. Section B is a compulsory Media Ecology synoptic worth 30 marks.
 
 Command words across all papers: Analyse, Explain, Evaluate, Assess, and To what extent.
 

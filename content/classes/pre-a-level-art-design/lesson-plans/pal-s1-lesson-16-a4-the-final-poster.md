@@ -35,7 +35,7 @@ modified: 2026-08-05
 
 ## Overview
 
-In this lesson you make your final poster, handmade or digital, from the thumbnail you decided last week. The design thinking is done, so this double is execution with judgment. You produce two things by the close of class on Wed 2026-12-23: the finished poster and a one-page reflection. Both are submitted in class as A4, the semester's fourth attainment. Your process, all four thumbnails and your type studies, goes into your sketchbook. This work returns as portfolio material at W19.
+In this lesson you make your final poster, handmade or digital, from the thumbnail you decided last week. The design thinking is done, so this double is execution with judgment. You produce two things by the close of class on Wed 2026-12-23: the finished poster and a one-page reflection. Both are submitted in class as [[classes/pre-a-level-art-design/assessments/pal-s1-a4-final-poster|A4]], the semester's fourth attainment. Your process, all four thumbnails and your type studies, goes into your sketchbook. This work returns as portfolio material at W19.
 
 ## The ideas
 
@@ -59,7 +59,7 @@ Write one page that names the decisions you made. You can use these frames: "My 
 
 ## Day by day
 
-- **Wed 2026-12-23.** You build your final poster from your chosen thumbnail, run the squint test and the type pass as you work, then write your reflection. Submit the poster and reflection in class, and put your four thumbnails and type studies into your sketchbook. This is the last session before the winter break: there is no class on the next two Wednesdays (winter break 12-24 to 01-03). Over the break, keep your sketchbook going at 2–3 pages a week, read the portfolio spec you take home today, and post to MB. **Wed 2027-01-06 is the last session**: the EoT portfolio and the **A5 sketchbook** are both due that day.
+- **Wed 2026-12-23.** You build your final poster from your chosen thumbnail, run the squint test and the type pass as you work, then write your reflection. Submit the poster and reflection in class, and put your four thumbnails and type studies into your sketchbook. This is the last session before the winter break: there is no class on the next two Wednesdays (winter break 12-24 to 01-03). Over the break, keep your sketchbook going at 2–3 pages a week, read the portfolio spec you take home today, and post to MB. **Wed 2027-01-06 is the last session**: the [[classes/pre-a-level-art-design/assessments/pal-s1-eot-semester-portfolio|EoT]] portfolio and the **A5 sketchbook** are both due that day.
 
 ## Assessment
 

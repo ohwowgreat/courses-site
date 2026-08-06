@@ -33,7 +33,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson builds one long observed study, the spine of your AO1 Record work. You compose the **Stage 1 page** from your Lesson 3 material, then carry a single sustained study across a real two-day run, then support it with focused color and texture work. Your deliverable is the composed Stage 1 page, the sustained study carried across two days, and two supporting A5 studies. On Thu 2026-09-24 your work meets **CS3**, a walked progress check against the AO1 descriptors.
+This lesson builds one long observed study, the spine of your AO1 Record work. You compose the **Stage 1 page** from your Lesson 3 material, then carry a single sustained study across a real two-day run, then support it with focused color and texture work. Your deliverable is the composed Stage 1 page, the sustained study carried across two days, and two supporting A5 studies. On Thu 2026-09-24 your work meets **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS3]]**, a walked progress check against the AO1 descriptors.
 
 ## The ideas
 

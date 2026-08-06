@@ -37,7 +37,7 @@ modified: 2026-08-03
 
 ## Overview
 
-This lesson closes the Component 1 arc and starts audience theory. Your deliverable is the A3 portfolio: your finished product, your CCR, and your dated blog, all submitted on Fri 11-27 with no edits after. The Wednesday double is your last help window before you submit. After submission you learn uses and gratifications, then turn your returned portfolio into one production target for Semester 2, logged as LB4. That grade feeds your Component 1 result.
+This lesson closes the Component 1 arc and starts audience theory. Your deliverable is the [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio|A3]] portfolio: your finished product, your CCR, and your dated blog, all submitted on Fri 11-27 with no edits after. The Wednesday double is your last help window before you submit. After submission you learn uses and gratifications, then turn your returned portfolio into one production target for Semester 2, logged as [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|LB4]]. That grade feeds your Component 1 result.
 
 ## The ideas
 

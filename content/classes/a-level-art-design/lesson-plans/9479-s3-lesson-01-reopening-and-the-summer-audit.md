@@ -56,7 +56,7 @@ The audit becomes the semester's contract. From it you build a written, dated, s
 
 - **Wed 09-01.** Course reopening and the summer audit brief. Lay out all your summer output at once against the June targets. A piece counts only if it is present and annotated against a named target, judged in AO1–AO4 language.
 - **Thu 09-02.** One-to-one reviews begin. Defend the work piece by piece. Each piece is marked met, missed, or missing against its June target, not against how hard it was to make.
-- **Fri 09-03.** Reviews continue and **CS1** is graded. Close out every summer piece as met, missed, or missing, and name the gaps in writing. CS1 is this audit, marked piece by piece.
+- **Fri 09-03.** Reviews continue and **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS1]]** is graded. Close out every summer piece as met, missed, or missing, and name the gaps in writing. CS1 is this audit, marked piece by piece.
 
 ## Assessment
 

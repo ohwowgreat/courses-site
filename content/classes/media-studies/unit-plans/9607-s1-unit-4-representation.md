@@ -25,7 +25,7 @@ modified: 2026-07-22
 
 ## What this unit does
 
-You learn **Representation** as construction, then apply it to your own work. A2 opens the band. You screen rough cuts under audience conditions and audit them for the stereotypes their makers did not notice, while there is still production time to fix them. You test gaze theory across decades rather than reciting it. You draft the CCR, review it against the real C1 criteria, and redraft it so it reflects rather than describes.
+You learn **Representation** as construction, then apply it to your own work. [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2]] opens the band. You screen rough cuts under audience conditions and audit them for the stereotypes their makers did not notice, while there is still production time to fix them. You test gaze theory across decades rather than reciting it. You draft the CCR, review it against the real C1 criteria, and redraft it so it reflects rather than describes.
 
 *Numbering note: "U4" here is the S1 calendar band. In the coursebook's separate "Units 1–8" numbering, Representation is Unit 3.*
 
@@ -56,5 +56,5 @@ A3 is announced Fri 11-13 and due Fri 11-27, inside Unit 5. See the [[classes/me
 
 - Theorists: Hall (encoding/decoding: dominant, negotiated, oppositional), van Zoonen (gender as performance), Mulvey (the three looks), bell hooks (the oppositional gaze).
 - Analytical moves: construction vs reflection; who a stereotype works for; absence and selective construction; readings the text did not invite.
-- C1 milestones: rough cut screened as an audience sees it; stereotype audit with fix list (LB3 evidence); complete CCR redraft posted. Cut every sentence that describes instead of reflects.
-- ESL support: a theorist sentence-starters card for CS6 is on every desk.
+- C1 milestones: rough cut screened as an audience sees it; stereotype audit with fix list ([[classes/media-studies/assessments/9607-s1-course-skills-and-homework|LB3]] evidence); complete CCR redraft posted. Cut every sentence that describes instead of reflects.
+- ESL support: a theorist sentence-starters card for [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS6]] is on every desk.

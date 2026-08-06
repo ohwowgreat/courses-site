@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson turns everything you have recorded so far into **recording pages** an examiner could read without explanation. You build and sequence those pages, then sit A1 on Fri 2026-10-09, marked against AO1 Record. A1 feeds your mid-term grades, due Thu 2026-10-29. The National Day break splits the lesson on purpose: you build the pages before it, and the review happens after it. On your return you self-check your own recording against what AO1 asks, then convert your banded feedback into three specific actions.
+This lesson turns everything you have recorded so far into **recording pages** an examiner could read without explanation. You build and sequence those pages, then sit [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone|A1]] on Fri 2026-10-09, marked against AO1 Record. A1 feeds your mid-term grades, due Thu 2026-10-29. The National Day break splits the lesson on purpose: you build the pages before it, and the review happens after it. On your return you self-check your own recording against what AO1 asks, then convert your banded feedback into three specific actions.
 
 
 <figure class="plate">
@@ -63,7 +63,7 @@ A1 comes back with banded feedback. You convert that feedback into three specifi
 
 - **Mon 09-28.** Shoot reference from primary sources: control light, angle, and series. Annotate the shots you select for what each shows.
 - **Tue 09-29.** Line up all studies, name the weakest, and bring every study up to the same standard.
-- **Wed 09-30.** Sequencing demo (the AO1 read); build the recording pages; **CS4** build check. Holiday homework set: sketchbook recording from primary sources, dated.
+- **Wed 09-30.** Sequencing demo (the AO1 read); build the recording pages; **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS4]]** build check. Holiday homework set: sketchbook recording from primary sources, dated.
 - **Thu 10-08.** Re-entry after the break with holiday sketchbooks. Self-check your recording against the AO1 band descriptors in writing. Make a final fixes list only; nothing new starts.
 - **Fri 10-09.** **A1 attainment.** Portfolio review in session: intention, Stage 1 pages, the sustained study and supports, against the published AO1 criteria. Nothing is added during the review.
 - **Sat 10-10** (make-up day). A1 returned with banded feedback. Convert your feedback into three specific written actions. Unit 3 preview.

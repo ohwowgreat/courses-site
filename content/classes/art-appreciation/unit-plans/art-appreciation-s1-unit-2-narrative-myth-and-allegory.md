@@ -25,7 +25,7 @@ This unit is about how images carry story without words. The first half builds y
 
 The second half turns on a pair of paintings. You read Titian's *Venus of Urbino*, asking what it asks you to accept as natural, against Manet's *Olympia*, where you locate the exact refusals. Gentileschi's *Judith Slaying Holofernes* is the close-looking hinge on the problem of the witness.
 
-The **critique flow**, describe, account, judge, is taught from cold at the top of Lesson 04. The storyboard is direct rehearsal for the A2 comparison. Both are about reading what a picture decided.
+The **critique flow**, describe, account, judge, is taught from cold at the top of Lesson 04. The storyboard is direct rehearsal for the [[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison|A2]] comparison. Both are about reading what a picture decided.
 
 ## Dates and span
 

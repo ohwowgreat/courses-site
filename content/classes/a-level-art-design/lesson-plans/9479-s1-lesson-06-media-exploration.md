@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson opens Unit 3. You run twelve media experiments across three days, then decide which media to keep and which to drop. The point is to find which media carry your theme, not which only describe it. You produce **CS5**: the twelve experiments documented in your sketchbook, collected Fri 2026-10-16. At least one experiment must fail, and you must say so and say why. The media you keep here feed the next lesson, where you test them at scale.
+This lesson opens Unit 3. You run twelve media experiments across three days, then decide which media to keep and which to drop. The point is to find which media carry your theme, not which only describe it. You produce **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS5]]**: the twelve experiments documented in your sketchbook, collected Fri 2026-10-16. At least one experiment must fail, and you must say so and say why. The media you keep here feed the next lesson, where you test them at scale.
 
 ## The ideas
 

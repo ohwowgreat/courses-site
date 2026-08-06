@@ -33,7 +33,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson closes Unit 3 and moves you from studying art into developing your own. You choose a second artist, set their work against your first, make a bridge piece, trial it at scale, and lay out your Stage 3 pages. Then you sit **A2** on Fri 2027-04-23, which marks the whole unit against AO2 and AO3. The bridge piece and scale trial also open the directions you carry into Unit 4 next week. These dates may shift if the school publishes a different calendar for this period.
+This lesson closes Unit 3 and moves you from studying art into developing your own. You choose a second artist, set their work against your first, make a bridge piece, trial it at scale, and lay out your Stage 3 pages. Then you sit **[[classes/a-level-art-design/assessments/9479-s2-assessments|A2]]** on Fri 2027-04-23, which marks the whole unit against AO2 and AO3. The bridge piece and scale trial also open the directions you carry into Unit 4 next week. These dates may shift if the school publishes a different calendar for this period.
 
 ## The ideas
 

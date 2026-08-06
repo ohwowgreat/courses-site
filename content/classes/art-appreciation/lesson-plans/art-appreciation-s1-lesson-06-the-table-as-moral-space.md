@@ -30,7 +30,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson opens Unit 3. You look at the table as a place where a family enforces its rules, not just a setting for a meal. You watch Ang Lee's film *Eat Drink Man Woman* across two days, then replay one meal twice. You produce a one-page written reading of a single meal sequence on Thu 2026-10-22. This reading feeds A3. It is the plan for now, and the exact form will be confirmed in class.
+This lesson opens Unit 3. You look at the table as a place where a family enforces its rules, not just a setting for a meal. You watch Ang Lee's film *Eat Drink Man Woman* across two days, then replay one meal twice. You produce a one-page written reading of a single meal sequence on Thu 2026-10-22. This reading feeds [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay|A3]]. It is the plan for now, and the exact form will be confirmed in class.
 
 ## The ideas
 
@@ -58,7 +58,7 @@ This lesson opens Unit 3. You look at the table as a place where a family enforc
 - **Tue 10-20.** Begin the *Eat Drink Man Woman* screening.
 - **Wed 10-21.** Continue the screening, picking up on the cut.
 - **Thu 10-22.** Replay one meal twice, then write your one-page reading of that meal. The reading is the deliverable, due today.
-- **Fri 10-23.** Seminar: food, class, and who is not in the picture. LB3 is posted. The Autumn Field Trip may take this day.
+- **Fri 10-23.** Seminar: food, class, and who is not in the picture. [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB3]] is posted. The Autumn Field Trip may take this day.
 
 If the screening runs short, finish the film for homework.
 

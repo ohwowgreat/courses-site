@@ -39,7 +39,7 @@ modified: 2026-08-03
 
 ## Overview
 
-This lesson teaches representation theory and then turns it on your own work. The week opens with A2 going in on Mon 2026-10-26 and ends with two standalone sessions: your C1 rough cut is screened as an audience would see it, then you audit it for stereotypes you did not notice. You produce an audit of your own rough cut that names at least one unintended representation and one planned fix, and you convert those findings into dated production pickups. This is why the audit happens now, while there is still production time to fix problems. The audit feeds A3.
+This lesson teaches representation theory and then turns it on your own work. The week opens with [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2]] going in on Mon 2026-10-26 and ends with two standalone sessions: your C1 rough cut is screened as an audience would see it, then you audit it for stereotypes you did not notice. You produce an audit of your own rough cut that names at least one unintended representation and one planned fix, and you convert those findings into dated production pickups. This is why the audit happens now, while there is still production time to fix problems. The audit feeds [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio|A3]].
 
 ## The ideas
 
@@ -76,7 +76,7 @@ A **stereotype** is not a lie. It is a shortcut with a beneficiary. For any ster
 - **Wed 10-28 (double).** Stereotyping as power: the shortcut and its beneficiary, and counter-stereotypes. Work two contrasting stereotype cases from international media, one from British TV and one from Hollywood film, and run Hall's positions across both. Then *Downton Abbey* as nation branding. Exit ticket: your own look today (micro), and what it represents (macro).
 - **Fri 10-30.** Absence. Inventory one text for who is missing and what each absence does, then run the same inventory on your own C1 planning. Screening conditions for Monday are stated: no introductions, no apologies.
 - **Mon 11-02 (standalone).** Rough cuts screened under audience conditions: no introductions, no apologies, no pausing. Complete response cards while watching: what you understood the product to be saying, where your attention dropped, and one person or group and how the product positions them. Cards go to the makers.
-- **Tue 11-03 (standalone).** Audit your own product with the full toolkit: construction (what did you select and combine?), positions (what reading did you assume?), power (whose shortcut did you borrow?), and absence (who is missing?). The response cards are the audience's testimony. Convert your findings into dated production pickups. These pickups are your homework. LB3 is posted for screening participation and response quality.
+- **Tue 11-03 (standalone).** Audit your own product with the full toolkit: construction (what did you select and combine?), positions (what reading did you assume?), power (whose shortcut did you borrow?), and absence (who is missing?). The response cards are the audience's testimony. Convert your findings into dated production pickups. These pickups are your homework. [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|LB3]] is posted for screening participation and response quality.
 
 ## Assessment
 

@@ -36,7 +36,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This week runs as five separate days, each complete on its own. They share a theme, not a sequence: five ways into the same question, and any one works alone. If you miss a day, you miss that day's content, not a thread that ties the week together. You produce a written reflection on your own table, finished Wed 2026-10-28. This work feeds A3.
+This week runs as five separate days, each complete on its own. They share a theme, not a sequence: five ways into the same question, and any one works alone. If you miss a day, you miss that day's content, not a thread that ties the week together. You produce a written reflection on your own table, finished Wed 2026-10-28. This work feeds [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay|A3]].
 
 ## The ideas
 
@@ -66,14 +66,14 @@ Think about what a **shared meal** makes visible that talking does not. Eating t
 - **Tue 10-27.** Still life and the ethics of abundance: what did this cost, who paid.
 - **Wed 10-28.** Individual reflection on your own table. You finish this deliverable today.
 - **Thu 10-29.** What a shared meal makes visible that talking does not.
-- **Fri 10-30.** Seminar: is hospitality generosity or obligation. LB4 is posted for students present.
+- **Fri 10-30.** Seminar: is hospitality generosity or obligation. [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB4]] is posted for students present.
 - No homework this week.
 
 ## Assessment
 
 - **The your-table reflection.** Written and finished Wed 2026-10-28.
 - **LB4.** Posted Fri 2026-10-30 for the students in the room. G12 students at Seniors' Day are not penalized for being away.
-- Mid-term grades are due Thu 2026-10-29. They rest on A2 and participation.
+- Mid-term grades are due Thu 2026-10-29. They rest on [[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison|A2]] and participation.
 
 ## Review
 

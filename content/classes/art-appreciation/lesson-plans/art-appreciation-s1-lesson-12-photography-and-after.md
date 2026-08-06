@@ -30,7 +30,7 @@ modified: 2026-08-06
 
 ## Overview
 
-This lesson closes Unit 4. You look at what photographs claim to show, whether you should believe them, and where the line between serious art and kitsch stops holding. You produce A4, the Unit 4 synthesis constellation, which you build and write in the second period of the Tuesday double on 2026-12-15. A4 is the last thing you submit this semester, so nothing here can be handed in late. This synthesis is your second constellation of the year, and it feeds into the retrospective.
+This lesson closes Unit 4. You look at what photographs claim to show, whether you should believe them, and where the line between serious art and kitsch stops holding. You produce [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis|A4]], the Unit 4 synthesis constellation, which you build and write in the second period of the Tuesday double on 2026-12-15. A4 is the last thing you submit this semester, so nothing here can be handed in late. This synthesis is your second constellation of the year, and it feeds into the retrospective.
 
 ## The ideas
 

@@ -41,7 +41,7 @@ This lesson is the exam proper. You realize the final piece you planned at A3 in
 
 ### Nothing invented under supervision
 
-**Nothing invented under supervision** means the outcome you planned and marked at A3 is realized as it stands: no additions, no new ideas made up during the test. The plan is both your safety and your mark. This is why the elastic days before the test go to refinement and rehearsal, never to new content.
+**Nothing invented under supervision** means the outcome you planned and marked at [[classes/a-level-art-design/assessments/9479-s4-assessments|A3]] is realized as it stands: no additions, no new ideas made up during the test. The plan is both your safety and your mark. This is why the elastic days before the test go to refinement and rehearsal, never to new content.
 
 ### Secure storage between sittings
 
@@ -49,7 +49,7 @@ Your work is stored securely and documented between sittings. There is **no acce
 
 ### The test floats
 
-The **15-hour supervised test** floats: it fits only the mock window or a school exam window, never the daily timetable. This is why the dates below are projected. On one reading the whole unit (test, Unit 5, A4, CS7) pulls forward one week.
+The **15-hour supervised test** floats: it fits only the mock window or a school exam window, never the daily timetable. This is why the dates below are projected. On one reading the whole unit (test, Unit 5, [[classes/a-level-art-design/assessments/9479-s4-assessments|A4]], [[classes/a-level-art-design/assessments/9479-s4-assessments|CS7]]) pulls forward one week.
 
 ## Day by day
 

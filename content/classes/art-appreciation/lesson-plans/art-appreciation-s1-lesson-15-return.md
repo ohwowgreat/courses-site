@@ -29,7 +29,7 @@ modified: 2026-08-05
 
 ## Overview
 
-These are the return days after the exam window and after the grades deadline. Nothing you do here changes your Semester 1 grade. You get your work back, talk one-to-one about what you made, and set a Semester 2 goal that is about a practice rather than about a grade. This goal is the deliverable. LB9 is posted on Tue 2027-01-19 and counts toward Semester 2. The last day also previews the Semester 2 topics.
+These are the return days after the exam window and after the grades deadline. Nothing you do here changes your Semester 1 grade. You get your work back, talk one-to-one about what you made, and set a Semester 2 goal that is about a practice rather than about a grade. This goal is the deliverable. [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB9]] is posted on Tue 2027-01-19 and counts toward Semester 2. The last day also previews the Semester 2 topics.
 
 
 <figure class="plate">

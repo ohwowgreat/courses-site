@@ -63,7 +63,7 @@ Homework stays capped at 30 minutes. Exam pace is not exam-season homework infla
 - **Mon 02-28.** State your intention on the locked question and plan the reference shoot in the same session.
 - **Tue–Wed 02-29/03-01.** Studio: shoot your primary source and make first studies over a 2-day run. Reference is generated, not sourced.
 - **Thu 03-02.** Open your sustained study, to develop across the unit, not restart next session.
-- **Fri 03-03.** Build recording pages as the work happens. Submit **CS2**: intention, thumbnails, and shoot plan. Homework (≤30 min): annotate the shoot, saying what each frame gives the question.
+- **Fri 03-03.** Build recording pages as the work happens. Submit **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS2]]**: intention, thumbnails, and shoot plan. Homework (≤30 min): annotate the shoot, saying what each frame gives the question.
 
 ## Assessment
 

@@ -26,7 +26,7 @@ modified: 2026-08-03
 
 ## What this unit does
 
-This unit covers the micro end of media language: semiotics, sign types, the four code families, genre, camera, and narrative. You build vocabulary you can use under pressure. The C1 production strand also starts. You commit your media area in week 2, lock your planning to a shootable standard before the National Day break, and shoot your first footage during the break. Everything feeds A1.
+This unit covers the micro end of media language: semiotics, sign types, the four code families, genre, camera, and narrative. You build vocabulary you can use under pressure. The C1 production strand also starts. You commit your media area in week 2, lock your planning to a shootable standard before the National Day break, and shoot your first footage during the break. Everything feeds [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]].
 
 ## Dates & span
 

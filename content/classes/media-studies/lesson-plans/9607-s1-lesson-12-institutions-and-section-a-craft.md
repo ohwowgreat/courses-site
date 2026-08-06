@@ -38,7 +38,7 @@ modified: 2026-08-03
 
 ## Overview
 
-This lesson turns toward Component 2. You learn why the same text reads differently, and why texts say what they say. In the Wednesday double you write a guided Section A response, CS8, with the mark scheme open on the desk. On Friday you open your C2 case-study document, the file you will still use in May. CS8 is direct practice for A4. Your case study feeds A4, the End of Term Exam, and Paper 2.
+This lesson turns toward Component 2. You learn why the same text reads differently, and why texts say what they say. In the Wednesday double you write a guided Section A response, [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS8]], with the mark scheme open on the desk. On Friday you open your C2 case-study document, the file you will still use in May. CS8 is direct practice for [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]]. Your case study feeds A4, the End of Term Exam, and Paper 2.
 
 ## The ideas
 

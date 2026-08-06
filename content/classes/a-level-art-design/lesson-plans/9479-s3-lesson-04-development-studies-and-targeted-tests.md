@@ -60,7 +60,7 @@ The critique judges the candidates **against the intention, not the effort**. Th
 - **Mon 09-20.** Studio: development studies. Each study answers a question the composition actually poses.
 - **Tue 09-21 / Wed 09-22.** Targeted tests over a two-day run, on only what is unresolved.
 - **Thu 09-23.** Studio: act on the tests. Change the work because of the test result, not a preference.
-- **Fri 09-24.** Structured critique reading the candidates against the intention. CS4 marks the targeted tests. Homework (≤30 min): write up one test, what it asked, what it showed, and what you changed.
+- **Fri 09-24.** Structured critique reading the candidates against the intention. [[classes/a-level-art-design/assessments/9479-s3-assessments|CS4]] marks the targeted tests. Homework (≤30 min): write up one test, what it asked, what it showed, and what you changed.
 
 ## Review
 

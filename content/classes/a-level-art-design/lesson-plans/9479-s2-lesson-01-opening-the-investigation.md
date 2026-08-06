@@ -65,7 +65,7 @@ The three-candidate longlist exists so the decision is made by comparison. A sin
 - **Tue 02-23.** Read one 90/100 Personal Investigation end to end, top-band and middle-band pages side by side, using the AO-language worksheet. Name three things this investigation does that a middle-band one does not, with attention to how the written element threads through the pages.
 - **Wed 02-24.** From your [[classes/a-level-art-design/9479-c3-winter-brief|winter homework]], put forward three candidate themes, each with references: an artist or two, the primary sources you would use, and one line on why it holds. No choosing yet.
 - **Thu 02-25.** Defend each candidate to the teacher one to one. A theme survives on the sources you can reach and the problems it opens. You leave with each candidate marked keep, fix, or drop.
-- **Fri 02-26.** Test each surviving candidate against reachable primary sources and walk it through all eight pipeline stages. Drop what breaks. Exit with a shortlist of one or two, ready to draft into the proposal next week. Homework (≤30 min): write a short case for each surviving candidate, naming the sources you can reach and the problems it opens, begun toward the CS1 proposal draft.
+- **Fri 02-26.** Test each surviving candidate against reachable primary sources and walk it through all eight pipeline stages. Drop what breaks. Exit with a shortlist of one or two, ready to draft into the proposal next week. Homework (≤30 min): write a short case for each surviving candidate, naming the sources you can reach and the problems it opens, begun toward the [[classes/a-level-art-design/assessments/9479-s2-assessments|CS1]] proposal draft.
 
 ## Review
 

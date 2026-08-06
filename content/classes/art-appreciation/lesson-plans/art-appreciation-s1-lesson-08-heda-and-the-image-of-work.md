@@ -30,7 +30,7 @@ modified: 2026-08-06
 
 ## Overview
 
-This lesson teaches you to read a painting of a table as a list of possessions, to find the exact moment an artist chose to show, and to write about it in words you can defend. You look closely at Heda's still life, at Leonardo's *The Last Supper*, at the disorderly tables of Bruegel and Steen, and at how work became a subject worth painting. You produce **CS4**, one paragraph on the Heda painting, collected Fri 2026-11-13, plus **LB5**. The work feeds A3, the Unit 3 essay. These dates fall in late 2026 and may shift when the school publishes its calendar for that term.
+This lesson teaches you to read a painting of a table as a list of possessions, to find the exact moment an artist chose to show, and to write about it in words you can defend. You look closely at Heda's still life, at Leonardo's *The Last Supper*, at the disorderly tables of Bruegel and Steen, and at how work became a subject worth painting. You produce **[[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS4]]**, one paragraph on the Heda painting, collected Fri 2026-11-13, plus **[[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB5]]**. The work feeds [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay|A3]], the Unit 3 essay. These dates fall in late 2026 and may shift when the school publishes its calendar for that term.
 
 ## The ideas
 

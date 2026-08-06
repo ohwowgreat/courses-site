@@ -62,7 +62,7 @@ These dates are projected. They may shift when the school publishes the 2027-28 
 
 - **W18 (Sun 2027-12-26 → Sat 01-01), ~2 sessions.** Assemble the PDF submission to the Cambridge screen limits and run submission QC.
 - **W19 (to ~Fri 2028-01-07).** Your complete investigation is returned and reviewed one to one. Do supervised gap repair for anything QC flagged. Get the C2 preview. Homework: the Semester 4 winter homework, the C2/ESA past-paper review and drawing regimen.
-- **W20 (EoT window, Mon 2028-01-10 → Mon 01-17), no teaching.** The Final is marked in this window.
+- **W20 ([[classes/a-level-art-design/assessments/9479-s3-assessments|EoT]] window, Mon 2028-01-10 → Mon 01-17), no teaching.** The Final is marked in this window.
 - **W21, course closes.** C2 readiness briefing.
 
 ## Assessment

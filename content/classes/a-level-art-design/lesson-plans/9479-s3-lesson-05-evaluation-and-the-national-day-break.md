@@ -50,7 +50,7 @@ Your **chosen candidate** is the option you carry forward. Bring it up to standa
 
 ### A1 and A2
 
-The **14-day rule** means an assessment is announced at least 14 days before it falls. Thu 2027-09-30 is the last session that clears the 14-day rule for both A1 and A2 before the holiday, because the National Day break sits inside both windows. Both notices go out that day.
+The **14-day rule** means an assessment is announced at least 14 days before it falls. Thu 2027-09-30 is the last session that clears the 14-day rule for both [[classes/a-level-art-design/assessments/9479-s3-assessments|A1]] and [[classes/a-level-art-design/assessments/9479-s3-assessments|A2]] before the holiday, because the National Day break sits inside both windows. Both notices go out that day.
 
 ## Day by day
 

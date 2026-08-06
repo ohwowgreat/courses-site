@@ -21,7 +21,7 @@ modified: 2026-07-18
 
 You build both final outcomes and finish the research paper, under **AO3 Develop** and **AO4 Present**. You plan each outcome fully first, so nothing is left to the day itself: composition, palette, and materials are decided in advance. You build across merged multi-day runs, with a mid-production review while you can still change things, then resolve and photograph each outcome to examiner standard. The two outcomes stay inside one investigation and speak with one voice. The research paper reaches final text, with every claim pointing at real work.
 
-The unit carries two attainments: **A2**, the whole-investigation mock review, which comes before the Seniors' week removes W9, and **A3**, the final research paper.
+The unit carries two attainments: **[[classes/a-level-art-design/assessments/9479-s3-assessments|A2]]**, the whole-investigation mock review, which comes before the Seniors' week removes W9, and **[[classes/a-level-art-design/assessments/9479-s3-assessments|A3]]**, the final research paper.
 
 ## Dates & span
 
@@ -60,10 +60,10 @@ Two attainments gate this unit.
 **A3, Mon 2027-11-15.** The final research paper, marked against the C3 written criteria.
 
 CS tasks:
-- **CS5**, Tue 2027-10-19: outcome 1 plan.
-- **CS6**, Thu 2027-11-04: outcome 1 mid-production review.
-- **CS7**, Fri 2027-11-19: outcome 2 plan and progress.
-- **CS8**, Fri 2027-12-03: evaluation of both outcomes.
+- **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS5]]**, Tue 2027-10-19: outcome 1 plan.
+- **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS6]]**, Thu 2027-11-04: outcome 1 mid-production review.
+- **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS7]]**, Fri 2027-11-19: outcome 2 plan and progress.
+- **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS8]]**, Fri 2027-12-03: evaluation of both outcomes.
 
 See the [[classes/a-level-art-design/assessments/9479-s3-assessments|full register]].
 

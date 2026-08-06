@@ -35,7 +35,7 @@ modified: 2026-08-05
 
 ## Overview
 
-Today you build your final collage. You take the circled draft from last lesson and assemble it layer by layer, in the order you set. By the close, the work should be decided everywhere and finished except the top layer. You photograph the build in stages, which is process evidence for your sketchbook. **SB2**, your second sketchbook spot-check, runs during the studio block. You finish the collage next week under A3 conditions, so today's job is to leave the strongest move still live.
+Today you build your final collage. You take the circled draft from last lesson and assemble it layer by layer, in the order you set. By the close, the work should be decided everywhere and finished except the top layer. You photograph the build in stages, which is process evidence for your sketchbook. **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|SB2]]**, your second sketchbook spot-check, runs during the studio block. You finish the collage next week under [[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage|A3]] conditions, so today's job is to leave the strongest move still live.
 
 ## The ideas
 

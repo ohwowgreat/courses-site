@@ -23,7 +23,7 @@ modified: 2026-07-19
 
 This unit installs the course method in one move. The method is the **atlas**, from the art historian **Aby Warburg**. It is thematic and non-linear. It groups images by resemblance, not by date. You meet it on day one.
 
-From there the unit runs by **constellation logic**: images placed next to each other for what they share. You start with the earliest images at Chauvet and Lascaux. You move through Neolithic settlement and ritual objects, where the question is what an object does, not what it depicts. You end with your first board, which is the course in miniature. You will repeat the same move at larger scale in A4 and in the End-of-Term retrospective.
+From there the unit runs by **constellation logic**: images placed next to each other for what they share. You start with the earliest images at Chauvet and Lascaux. You move through Neolithic settlement and ritual objects, where the question is what an object does, not what it depicts. You end with your first board, which is the course in miniature. You will repeat the same move at larger scale in [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis|A4]] and in the End-of-Term retrospective.
 
 The darkroom session in Lesson 01 shows an image stop being a screen and become a thing light did to a surface. That idea returns in Unit 4 in December.
 
@@ -32,7 +32,7 @@ Key theorist: Aby Warburg. Key material: cave imagery, Neolithic figures, ritual
 ## Dates and span
 
 - **Weeks 1–3**: Tue 2026-09-01 to Fri 2026-09-18. 14 sessions (3 + 6 + 5), no holidays.
-- CS1 sits Fri 2026-09-04, exactly 14 days before A1.
+- [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS1]] sits Fri 2026-09-04, exactly 14 days before [[classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board|A1]].
 
 These dates may shift when the school publishes the calendar for this period.
 

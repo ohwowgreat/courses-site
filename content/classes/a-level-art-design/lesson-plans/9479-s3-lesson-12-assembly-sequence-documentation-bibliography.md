@@ -56,7 +56,7 @@ The **bibliography** is your list of sources. Integrate it into the body of the 
 - **Tue 12-07.** Check documentation: confirm every page is photographed, labeled, and legible.
 - **Wed 12-08.** Integrate the bibliography into the body, so sources appear where they did their work.
 - **Thu 12-09.** Studio: close the gaps the sequence exposed.
-- **Fri 12-10.** Sequencing check. Fix where a stranger stalls. **CS9** marks the sequencing and documentation. Homework: read your sequence as a stranger and mark the first page where it stalls (≤30 min).
+- **Fri 12-10.** Sequencing check. Fix where a stranger stalls. **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS9]]** marks the sequencing and documentation. Homework: read your sequence as a stranger and mark the first page where it stalls (≤30 min).
 
 ## Assessment
 

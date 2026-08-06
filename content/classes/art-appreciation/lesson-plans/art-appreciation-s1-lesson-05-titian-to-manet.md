@@ -30,7 +30,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson looks at three paintings and asks how one picture answers another. You study Gentileschi, Titian, and Manet, and you learn to build a real comparison rather than a list. You write **A2**, your Unit 2 comparative essay, in class on Tue 2026-10-13: one claim about two pictures, evidenced from the pictures. A2 carries your mid-term grades, which are due Thu 2026-10-29.
+This lesson looks at three paintings and asks how one picture answers another. You study Gentileschi, Titian, and Manet, and you learn to build a real comparison rather than a list. You write **[[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison|A2]]**, your Unit 2 comparative essay, in class on Tue 2026-10-13: one claim about two pictures, evidenced from the pictures. A2 carries your mid-term grades, which are due Thu 2026-10-29.
 
 ## The ideas
 
@@ -62,7 +62,7 @@ Look at *Olympia* first with no context. Locate the exact **refusals** Manet mak
 
 ## Day by day
 
-- **Fri 10-09.** Storyboards from the break homework are returned. You read them against the criteria and find the frame where the sequence stopped being legible. CS3 is posted; the assessment review protocol applies.
+- **Fri 10-09.** Storyboards from the break homework are returned. You read them against the criteria and find the frame where the sequence stopped being legible. [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS3]] is posted; the assessment review protocol applies.
 - **Sat 10-10.** Close looking at Gentileschi's *Judith Slaying Holofernes*: describe the violence first, then work out who the picture puts you next to.
 - **Mon 10-12.** Titian's *Venus of Urbino*: what does it ask you to accept as natural. The reading on Olympia's reception is set, 30 min, due Fri 10-16.
 - **Tue 10-13 (double).** Manet's *Olympia*, viewed silent and with no context: locate the exact refusals of Titian. Then the comparison workshop: build your claim and test it against the pictures. **A2 sits in the second period**, in class, closed, 40 minutes.

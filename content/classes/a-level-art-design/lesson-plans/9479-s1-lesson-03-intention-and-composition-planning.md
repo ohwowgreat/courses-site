@@ -33,7 +33,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson turns the theme into an investigation. You write what you are looking at and why, open the theme wider than your first idea, and choose one composition to sustain. You produce a CS2 sheet: a written intention, a mind map, and a thumbnail sheet with one composition chosen and every rejection annotated. It is collected on Fri 2026-09-18. This is direct practice for A1: the intention and mind map return inside the recording milestone.
+This lesson turns the theme into an investigation. You write what you are looking at and why, open the theme wider than your first idea, and choose one composition to sustain. You produce a CS2 sheet: a written intention, a mind map, and a thumbnail sheet with one composition chosen and every rejection annotated. It is collected on Fri 2026-09-18. This is direct practice for [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone|A1]]: the intention and mind map return inside the recording milestone.
 
 ## The ideas
 
@@ -58,7 +58,7 @@ Choose one composition to sustain. Then annotate every rejected thumbnail with o
 - **Tue 09-15.** Read two exemplar intentions, one strong and one vague. Draft your own intention using the frame *I am investigating / because / I will record*, then tighten it.
 - **Wed 09-16.** Build an A3 mind map from the object outward: material, function, memory, opposite. Push at least three branches past your first idea and circle the branch that surprised you.
 - **Thu 09-17.** Make six or more thumbnails (5×7 cm, tone blocked) from the mind map's strongest branches.
-- **Fri 09-18.** Re-read your intention against the surviving thumbnails, choose one, and annotate every rejection with one honest line. Assemble the CS2 sheet. **CS2 collected.** The sustained study begins Sunday.
+- **Fri 09-18.** Re-read your intention against the surviving thumbnails, choose one, and annotate every rejection with one honest line. Assemble the CS2 sheet. **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS2]] collected.** The sustained study begins Sunday.
 
 ## Assessment
 

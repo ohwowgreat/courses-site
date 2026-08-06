@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson works the four **formal elements**, line, tone and form, texture, and color, directly on your own theme rather than in the abstract. Across six days you make a study set in each element, then compose Recording Page 1 from those studies and set up your digital portfolio. You produce the formal elements study set and Recording Page 1, collected as CS1 on Mon 2026-09-14. This lesson ends Unit 1, and CS1 is your practice for A1.
+This lesson works the four **formal elements**, line, tone and form, texture, and color, directly on your own theme rather than in the abstract. Across six days you make a study set in each element, then compose Recording Page 1 from those studies and set up your digital portfolio. You produce the formal elements study set and Recording Page 1, collected as [[classes/a-level-art-design/assessments/9479-s1-course-skills|CS1]] on Mon 2026-09-14. This lesson ends Unit 1, and CS1 is your practice for [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone|A1]].
 
 
 <figure class="plate">

@@ -39,7 +39,7 @@ modified: 2026-08-03
 
 ## Overview
 
-This is your first attainment task. On Monday and Tuesday you put two narrative theories under load on real texts, hunting for where each one strains. On Wednesday you sit A1: a 60-minute timed media language analysis of an unseen TV-drama extract, written under full exam conditions. Your script is due when you write it in class on Wed 2026-10-14. It draws on everything since Week 1 and feeds AS Component 2 Section A.
+This is your first attainment task. On Monday and Tuesday you put two narrative theories under load on real texts, hunting for where each one strains. On Wednesday you sit [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]]: a 60-minute timed media language analysis of an unseen TV-drama extract, written under full exam conditions. Your script is due when you write it in class on Wed 2026-10-14. It draws on everything since Week 1 and feeds AS Component 2 Section A.
 
 ## The ideas
 

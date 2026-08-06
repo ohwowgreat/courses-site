@@ -52,8 +52,8 @@ This lesson is the recording milestone for your chosen question. You run a susta
 
 - **Mon 03-06 / Tue 03-07.** Studio: the sustained study runs across two days, pushed past comfortable to show duration.
 - **Wed 03-08.** Build your recording pages so AO1 is obvious without explanation.
-- **Thu 03-09.** Add critical annotation: what the recording taught about the question. You sit **CS3**, the sustained study progress check. **A2** is announced today. Homework (≤30 min): one line per recording page on what it taught about the question.
-- **Fri 03-10.** You sit **A1**, the recording milestone: all recording on your chosen question, with locked question and rationale, intention, sustained study, and recording pages, marked against AO1.
+- **Thu 03-09.** Add critical annotation: what the recording taught about the question. You sit **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS3]]**, the sustained study progress check. **[[classes/a-level-art-design/assessments/9479-s4-assessments|A2]]** is announced today. Homework (≤30 min): one line per recording page on what it taught about the question.
+- **Fri 03-10.** You sit **[[classes/a-level-art-design/assessments/9479-s4-assessments|A1]]**, the recording milestone: all recording on your chosen question, with locked question and rationale, intention, sustained study, and recording pages, marked against AO1.
 
 ## Review
 

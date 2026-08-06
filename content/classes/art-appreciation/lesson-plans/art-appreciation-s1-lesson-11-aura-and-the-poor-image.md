@@ -30,7 +30,7 @@ modified: 2026-08-06
 
 ## Overview
 
-This lesson looks at what happens to images when they are copied and moved around. You start with ukiyo-e prints, because a print is already many, not one. That makes Walter Benjamin's idea of the aura easier to grasp: it names something you have already seen. Then you meet Hito Steyerl and the poor image, the idea you will actually use. On the last day you make the CS5 poor-image lab, due Wed 2026-12-09. This is your practice for A4.
+This lesson looks at what happens to images when they are copied and moved around. You start with ukiyo-e prints, because a print is already many, not one. That makes Walter Benjamin's idea of the aura easier to grasp: it names something you have already seen. Then you meet Hito Steyerl and the poor image, the idea you will actually use. On the last day you make the [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS5]] poor-image lab, due Wed 2026-12-09. This is your practice for [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis|A4]].
 
 ## The ideas
 

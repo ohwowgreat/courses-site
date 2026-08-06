@@ -30,7 +30,7 @@ These dates are projected. They may shift when the school publishes the calendar
 
 ## Overview
 
-This lesson closes exploration and carries it into development. You study a second artist and answer them in your own work. You make a **bridge piece** that moves your study into development, and you run a **scale trial** at the supervised-test dimensions to expose problems now. You lay out exploration pages that reason rather than display swatches. On Tue 03-21 you sit **CS5**, which checks your artist pages and bridge piece. On Fri 03-24 you sit **A2**, which marks the whole unit across AO2 and AO3.
+This lesson closes exploration and carries it into development. You study a second artist and answer them in your own work. You make a **bridge piece** that moves your study into development, and you run a **scale trial** at the supervised-test dimensions to expose problems now. You lay out exploration pages that reason rather than display swatches. On Tue 03-21 you sit **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS5]]**, which checks your artist pages and bridge piece. On Fri 03-24 you sit **[[classes/a-level-art-design/assessments/9479-s4-assessments|A2]]**, which marks the whole unit across AO2 and AO3.
 
 
 <figure class="plate">

@@ -38,7 +38,7 @@ modified: 2026-08-03
 
 ## Overview
 
-This lesson audits the semester's knowledge before the exam tests it. You review your A4 script against the mark scheme, rehearse Section B arguments aloud, and build a coverage matrix that crosses every case study against the four Key Concepts. You complete the coverage matrix on Wed 12-23 and leave with your weakest cell named in writing. That cell is your HW2 target: one revision page per case study plus one Section B essay plan, due Mon 2027-01-04. This work feeds the End of Term Exam.
+This lesson audits the semester's knowledge before the exam tests it. You review your [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]] script against the mark scheme, rehearse Section B arguments aloud, and build a coverage matrix that crosses every case study against the four Key Concepts. You complete the coverage matrix on Wed 12-23 and leave with your weakest cell named in writing. That cell is your [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|HW2]] target: one revision page per case study plus one Section B essay plan, due Mon 2027-01-04. This work feeds the End of Term Exam.
 
 ## The ideas
 
@@ -58,7 +58,7 @@ The **coverage matrix** crosses every case study against the four Key Concepts. 
 
 - **Mon 12-21.** A4 is returned. Self-band your script against the five-criteria rubric, then compare with the mark and its AO splits, and log one target linked to your Lesson 11 target. Revisit the unfed-criterion note from Lesson 12: check whether A4 fed it.
 - **Tue 12-22.** Learn the four moves of a Section B argument, then argue one case-study question aloud in a trio, rotating roles three times. In the last part of the session, capture your argued case as a skeleton plan.
-- **Wed 12-23 (double).** Build the coverage matrix and name your weakest cell in writing. LB5 is posted, counting your dated case-study document contributions since Lesson 12. HW2 is set and due Mon 2027-01-04. The End of Term Exam is announced: the full two-hour Component 2, in the exam window from Mon 2027-01-11. Its format is A4's format plus Section B. Take your revision-card deck and case-study document home over the break.
+- **Wed 12-23 (double).** Build the coverage matrix and name your weakest cell in writing. [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|LB5]] is posted, counting your dated case-study document contributions since Lesson 12. HW2 is set and due Mon 2027-01-04. The End of Term Exam is announced: the full two-hour Component 2, in the exam window from Mon 2027-01-11. Its format is A4's format plus Section B. Take your revision-card deck and case-study document home over the break.
 
 ## Assessment
 

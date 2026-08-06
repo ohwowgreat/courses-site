@@ -30,7 +30,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson runs over eight days. You spend five days building the vocabulary of visual storytelling: narrative, myth, allegory, and the cycle. Then you spend three days making. You produce **CS2**, a ten-frame storyboard that a stranger can read in the right order with no captions and no dialogue. CS2 is set as your break homework on day 8, Wed 2026-09-30, and it should take 3 to 4 hours across the twelve-day holiday. The same day, the A2 brief goes out: Titian against Manet, due Tue 13 October. This lesson feeds A2.
+This lesson runs over eight days. You spend five days building the vocabulary of visual storytelling: narrative, myth, allegory, and the cycle. Then you spend three days making. You produce **[[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS2]]**, a ten-frame storyboard that a stranger can read in the right order with no captions and no dialogue. CS2 is set as your break homework on day 8, Wed 2026-09-30, and it should take 3 to 4 hours across the twelve-day holiday. The same day, the [[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison|A2]] brief goes out: Titian against Manet, due Tue 13 October. This lesson feeds A2.
 
 ## The ideas
 
@@ -70,7 +70,7 @@ A storyboard carries a story through framing alone. One story can be told in thr
 - **Mon 09-21.** What a narrative image has to solve: finding where a still image puts time.
 - **Tue 09-22.** Myth as shared shorthand, and what happens when the audience does not know it.
 - **Wed 09-23.** Allegory: separating what is shown from what it stands in for.
-- **Thu 09-24.** Reading a cycle across panels, not inside one. LB2 is posted.
+- **Thu 09-24.** Reading a cycle across panels, not inside one. [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB2]] is posted.
 - **Mon 09-28.** Storyboarding without words: one story told in three framings.
 - **Tue 09-29.** You make the ten frames, then swap and read a stranger's. CS2 is collected.
 - **Wed 09-30.** A2 is announced first, Titian against Manet, due Tue 13 October. Then the break homework is set: the ten-frame sequence, 3 to 4 hours, no more.
@@ -79,7 +79,7 @@ A storyboard carries a story through framing alone. One story can be told in thr
 
 - **LB2.** Wed 2026-09-23, posting from the cycle session.
 - **CS2.** Tue 2026-09-29. A ten-frame storyboard a stranger can read in the right order, with no captions and no dialogue.
-- CS2 is debriefed as CS3 on Fri 2026-10-09 in lesson 05.
+- CS2 is debriefed as [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS3]] on Fri 2026-10-09 in lesson 05.
 
 ## Review
 

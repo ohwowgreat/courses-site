@@ -35,7 +35,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson has two halves joined by one idea. First, you learn that light has direction and quality, and that moving yourself or the lamp is a choice as expressive as framing. Second, you learn that A2 is not five nice photos but a series: one idea looked at again and again with intention. The join is your theme. In the double you shoot a four-position light circuit and you write one series theme in your sketchbook and get it approved. That theme feeds **A2**, the photographic series and reflection you submit in class on Wed 2026-11-04. **SB1**, your first sketchbook spot-check, also runs today.
+This lesson has two halves joined by one idea. First, you learn that light has direction and quality, and that moving yourself or the lamp is a choice as expressive as framing. Second, you learn that [[classes/pre-a-level-art-design/assessments/pal-s1-a2-photographic-series|A2]] is not five nice photos but a series: one idea looked at again and again with intention. The join is your theme. In the double you shoot a four-position light circuit and you write one series theme in your sketchbook and get it approved. That theme feeds **A2**, the photographic series and reflection you submit in class on Wed 2026-11-04. **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|SB1]]**, your first sketchbook spot-check, also runs today.
 
 ## The ideas
 

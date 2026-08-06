@@ -27,7 +27,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This week you run your first full artist study, focused on AO3 Develop. You pick one artist from your theme's pool, analyze their work, place its meaning in context, copy their method to learn it, then make your own personal response. You collect all of this as your **artist pages**: analysis, meaning and context, method study, personal response, and an influence note. These pages are collected as CS7 on Fri 2026-10-30.
+This week you run your first full artist study, focused on AO3 Develop. You pick one artist from your theme's pool, analyze their work, place its meaning in context, copy their method to learn it, then make your own personal response. You collect all of this as your **artist pages**: analysis, meaning and context, method study, personal response, and an influence note. These pages are collected as [[classes/a-level-art-design/assessments/9479-s1-course-skills|CS7]] on Fri 2026-10-30.
 
 ## The ideas
 

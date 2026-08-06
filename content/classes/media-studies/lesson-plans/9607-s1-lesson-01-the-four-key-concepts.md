@@ -38,7 +38,7 @@ modified: 2026-08-03
 
 ## Overview
 
-This lesson introduces the four **Key Concepts** of Media Studies and the course's founding claim: **media is a version, not a window**. You meet each concept, apply it to a text, and see the claim proved by three historical examples. You produce CS1, a paragraph that describes only what an image shows, written in class on Friday 2026-09-04. Describing before you interpret is what A1 rewards, so the discipline you practice here is the foundation A1 is marked on. Both English and Chinese are welcome in the room, and the shared lexicon on the wall starts this week.
+This lesson introduces the four **Key Concepts** of Media Studies and the course's founding claim: **media is a version, not a window**. You meet each concept, apply it to a text, and see the claim proved by three historical examples. You produce [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS1]], a paragraph that describes only what an image shows, written in class on Friday 2026-09-04. Describing before you interpret is what [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]] rewards, so the discipline you practice here is the foundation A1 is marked on. Both English and Chinese are welcome in the room, and the shared lexicon on the wall starts this week.
 
 ## The ideas
 

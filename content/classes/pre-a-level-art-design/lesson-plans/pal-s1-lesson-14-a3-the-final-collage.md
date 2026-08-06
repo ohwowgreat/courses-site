@@ -34,7 +34,7 @@ modified: 2026-08-05
 
 ## Overview
 
-In this lesson you finish your final collage under assessment conditions and write a reflection about it. You put down the top layer, resolve the edges, set the words, and sign the back. You then submit the collage and the reflection together. This is **A3**, the semester's third attainment, made in class. The mark rewards decisions you can point to, both in the work and in the reflection. Unit 3 closes here, and Unit 4 opens next Wednesday, 12-16, with the A4 route decision.
+In this lesson you finish your final collage under assessment conditions and write a reflection about it. You put down the top layer, resolve the edges, set the words, and sign the back. You then submit the collage and the reflection together. This is **[[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage|A3]]**, the semester's third attainment, made in class. The mark rewards decisions you can point to, both in the work and in the reflection. Unit 3 closes here, and Unit 4 opens next Wednesday, 12-16, with the [[classes/pre-a-level-art-design/assessments/pal-s1-a4-final-poster|A4]] route decision.
 
 ## The ideas
 

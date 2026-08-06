@@ -34,7 +34,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson opens the course. You learn what the four units make and how your grade is built, you set up your sketchbook and learn the rules attached to it, and you start drawing. You complete the **Introduction Survey**, including a garlic drawing, and you leave with your first line studies on paper. The survey is your day-one baseline, made before any teaching. The sketchbook you set up today runs all the way to A5 on Wed 2027-01-06.
+This lesson opens the course. You learn what the four units make and how your grade is built, you set up your sketchbook and learn the rules attached to it, and you start drawing. You complete the **Introduction Survey**, including a garlic drawing, and you leave with your first line studies on paper. The survey is your day-one baseline, made before any teaching. The sketchbook you set up today runs all the way to [[classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook|A5]] on Wed 2027-01-06.
 
 ## The ideas
 
@@ -48,7 +48,7 @@ The **Introduction Survey** is a two-page survey: your favorites, your preferred
 
 ### The sketchbook contract
 
-Your sketchbook has a set of rules. You fill **2–3 pages every week**. It is checked twice for a Course Skills mark: **SB1 on Wed 10-21** and **SB2 on Wed 12-02**. You submit the whole book at the end as **A5 on Wed 2027-01-06**. After every session, you post a photo of that week's pages on MB.
+Your sketchbook has a set of rules. You fill **2–3 pages every week**. It is checked twice for a Course Skills mark: **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|SB1]] on Wed 10-21** and **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|SB2]] on Wed 12-02**. You submit the whole book at the end as **A5 on Wed 2027-01-06**. After every session, you post a photo of that week's pages on MB.
 
 ### The visual elements
 

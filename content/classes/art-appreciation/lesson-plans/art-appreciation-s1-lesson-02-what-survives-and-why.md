@@ -30,7 +30,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson asks what survives from the deep past, and why. You look at cave images made by people who left no writing, and learn to argue from the wall itself. You produce a one-page panel reading on Thu 2026-09-10, built from two paired images; it rehearses the A1 justification, the same move at greater length. A1 is announced on Fri 2026-09-04 and is due Fri 2026-09-18. LB1 is posted from the seminar on Fri 2026-09-11.
+This lesson asks what survives from the deep past, and why. You look at cave images made by people who left no writing, and learn to argue from the wall itself. You produce a one-page panel reading on Thu 2026-09-10, built from two paired images; it rehearses the [[classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board|A1]] justification, the same move at greater length. A1 is announced on Fri 2026-09-04 and is due Fri 2026-09-18. [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB1]] is posted from the seminar on Fri 2026-09-11.
 
 ## The ideas
 

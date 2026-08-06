@@ -28,7 +28,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson opens the course. You learn how the course is organized, you practice looking at an image before you explain it, and you make a print in the darkroom. Your deliverable is the CS1 darkroom reflection, written in the room and collected on Fri 2026-09-04. The idea of an image as a physical thing that light made returns in Unit 4 in December.
+This lesson opens the course. You learn how the course is organized, you practice looking at an image before you explain it, and you make a print in the darkroom. Your deliverable is the [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS1]] darkroom reflection, written in the room and collected on Fri 2026-09-04. The idea of an image as a physical thing that light made returns in Unit 4 in December.
 
 ## The ideas
 
@@ -60,7 +60,7 @@ In the darkroom, an image is not a screen. It is a **physical trace**: a thing t
 
 - **CS1**: darkroom reflection, written in the room, collected Fri 2026-09-04. Marked on naming a physical decision rather than a feeling about the result.
 - No homework this week.
-- A1 is not announced here. It is announced in Lesson 02 on Fri 2026-09-04.
+- [[classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board|A1]] is not announced here. It is announced in Lesson 02 on Fri 2026-09-04.
 
 ## Review
 
