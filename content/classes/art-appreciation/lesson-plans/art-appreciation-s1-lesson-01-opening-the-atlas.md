@@ -28,23 +28,17 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson opens the course and teaches you one job: look before you explain. Over three days you meet the way this course is arranged, you practice describing an image without interpreting it, and you make a print in the darkroom. You produce **CS1**, a short darkroom reflection written in the room on Thu 09-03. The idea you build here, that an image is a physical thing made by light on a surface, comes back in Unit 4 in December.
+This lesson opens the course. You learn how the course is organized, you practice looking at an image before you explain it, and you make a print in the darkroom. Your deliverable is the CS1 darkroom reflection, written in the room and collected on Fri 2026-09-04. The idea of an image as a physical thing that light made returns in Unit 4 in December.
 
 ## The ideas
 
 ### The atlas method
 
-The **atlas method** arranges art by resemblance, not by date. Images sit together because they look alike or echo one another, not because they were made in the same year. This will feel strange if you learned art history as a timeline. Chronology is not being taken from you; the course simply groups images a different way.
-
-The method comes from **Warburg's panels**, where images were pinned together so that likeness across time became visible. The point is that resemblance can matter more than date.
-
-The **course map** shows the four majors and the retrospective on one sheet. It stays up so you can see the shape of the whole course at once.
+The **atlas method** is the way this course is arranged: by resemblance between images, not by date. It comes from **Aby Warburg**, who grouped images on large panels so that pictures that look alike sit together, even when they were made centuries apart. In this course, resemblance matters more than chronology. You still get the timeline: the course map shows the four majors and the retrospective on one sheet. Chronology is not being taken away from you. You are just not using it as the main order.
 
 ### Looking before explaining
 
-The core skill is to describe an image without interpreting it. You say what is there, the shapes, marks, and surfaces, for a full minute, without saying what it means or how it makes you feel.
-
-The **describe round** is the exercise for this. You spend time in silence with one image, its title withheld, then describe it in writing and out loud. You then notice what someone else saw that you did not.
+**Description** means saying what is in an image: shapes, marks, light, position. **Interpretation** means saying what it means or how it makes you feel. The skill here is to describe an image for a full minute without interpreting it once. When you compare notes, you often find someone saw something you did not.
 
 ### The image as physical trace
 
@@ -54,29 +48,29 @@ The **describe round** is the exercise for this. You spend time in silence with 
   <figcaption>William Henry Fox Talbot, <em>Articles of Glass</em>, 1844</figcaption>
 </figure>
 
-In the darkroom you treat the image as a physical trace: a thing that light did to a surface, not a picture on a screen. Making a print is the fastest way to feel this difference. In your **CS1** reflection you name a physical decision you made, such as timing or placement, rather than a feeling about how the result looks. This distinction carries into Unit 4 in December.
+In the darkroom, an image is not a screen. It is a **physical trace**: a thing that light did to a surface. Making a print shows this directly. This is why the CS1 reflection asks you to name a physical decision you made, not a feeling about how the print turned out.
 
 ## Day by day
 
-- **Tue 09-01.** Introductions and why you are taking this subject, and how the course runs. Then the atlas method and how you are marked: Warburg's panels and why resemblance beats date, and the course map with the four majors and the retrospective. You name one thing about this course that sounds wrong to you.
-- **Wed 09-02.** You spend ten minutes in silence with one image, its title withheld. You describe it in writing for two minutes, then out loud. You note what someone else saw that you did not.
-- **Thu 09-03.** Darkroom: you make a print, then write your CS1 reflection while the print is still wet. CS1 is collected at the door.
-
-No homework this week.
+- **Tue 09-01.** Introductions and how the course runs. Then the atlas method and how you are marked: Warburg's panels, why resemblance beats date, and the course map with the four majors and the retrospective. You name one thing about this course that sounds wrong to you.
+- **Wed 09-02.** You spend ten minutes silent on one image with the title withheld. You describe it in writing for two minutes, then out loud. You share what someone else saw that you did not.
+- **Fri 09-04.** Darkroom: you make a print, then write the CS1 reflection while it is still wet. CS1 is collected at the door.
 
 ## Assessment
 
-- **CS1**, darkroom reflection, written in the room, collected Fri 2026-09-04. Marked on naming a physical decision rather than a feeling about the result.
-- A1 is not announced this lesson. You get A1 in Lesson 02 on Fri 2026-09-04.
+- **CS1**: darkroom reflection, written in the room, collected Fri 2026-09-04. Marked on naming a physical decision rather than a feeling about the result.
+- No homework this week.
+- A1 is not announced here. It is announced in Lesson 02 on Fri 2026-09-04.
 
 ## Review
 
 Check you can:
 
-- Explain why the course uses the **atlas method** and arranges art by resemblance rather than date.
-- Say what **Warburg's panels** show about resemblance across time.
-- Describe an image for a full minute without interpreting it once.
-- Name a physical decision in your darkroom reflection instead of a feeling about the result.
+- Explain why the course uses the **atlas method** and orders images by resemblance, not date.
+- Name **Aby Warburg** as the source of grouping images by resemblance on panels.
+- Describe an image using **description** alone, without slipping into **interpretation**.
+- Explain what it means to treat an image as a **physical trace** of light on a surface.
+- Name a physical decision you made in the darkroom, rather than a feeling about the result.
 
 ## Practice
 

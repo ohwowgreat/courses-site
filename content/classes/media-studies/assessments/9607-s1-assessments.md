@@ -15,7 +15,7 @@ modified: 2026-07-21
 ---
 # Media Studies · S1 Assessments
 
-Full register for G11 (AS) Semester 1, 2026-27: **4 attainments + 11 Course Skills items (CS1–CS9 + HW1–HW2) + 6 Learning Behaviour postings + 1 End of Term Exam** across 21 weeks (11 full, 9 reduced, 1 no-teaching). Weights follow the [[shared/bnds-assessment-framework|BNDS framework]]: Attainment 50%, Course Skills 20%, Learning Behaviour 10%, End of Term 20%.
+Full register for G11 (AS) Semester 1, 2026-27: **4 attainments + 11 Course Skills items (CS1–CS9 + HW1–HW2) + 6 Learning Behaviour postings + 1 End of Term Exam** across 21 weeks. Weights follow the [[shared/bnds-assessment-framework|BNDS framework]]: Attainment 50%, Course Skills 20%, Learning Behaviour 10%, End of Term 20%.
 
 ## Attainments and End of Term Exam
 
@@ -24,10 +24,10 @@ Full register for G11 (AS) Semester 1, 2026-27: **4 attainments + 11 Course Skil
 | [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]] | Wed 2026-10-14 | Timed media language analysis, unseen TV-drama extract | AO1+AO2 | 60 min writing, exam conditions, Wednesday double ([[classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis\|L06]]) |
 | [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point\|A2]] | Mon 2026-10-26 | C1 blog mid-point: posts 1–7 | AO3 | Submit your blog URLs in the first five minutes of class ([[classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product\|L08]]) |
 | [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio\|A3]] | Fri 2026-11-27 | C1 portfolio complete: product + CCR + dated blog | AO2+AO3 | Official C1 criteria, **50 marks: AO3 40 + AO2 10**; no edits after; returned Tue 12-01 ([[classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission\|L11]]) |
-| [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format\|A4]] | Wed 2026-12-16 | C2 Section A in authentic format, unseen extract | AO1+AO2 | 30 min viewing/notes + 45 min writing; Forecast Grade anchor, marked to CIE band descriptors with AO splits recorded ([[classes/media-studies/lesson-plans/9607-s1-lesson-13-a4-section-a-in-authentic-format\|L13]]) |
+| [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format\|A4]] | Wed 2026-12-16 | C2 Section A in authentic format, unseen extract | AO1+AO2 | 30 min viewing/notes + 45 min writing; Forecast Grade anchor, marked to CIE band descriptors ([[classes/media-studies/lesson-plans/9607-s1-lesson-13-a4-section-a-in-authentic-format\|L13]]) |
 | [[classes/media-studies/assessments/9607-s1-eot-component-2-paper\|EoT]] | window Mon 2027-01-11 → Mon 01-18 | Full Component 2 paper | AO1+AO2 | 2 hours, exam venue, slot set by the exam office; 20% category ([[classes/media-studies/lesson-plans/9607-s1-lesson-16-end-of-term-exam-and-return\|L16]]) |
 
-Each item above has its own page with the objectives, the task, the instructions, and the full marking rubric. For A3, the component is 50 marks: AO3 40 (80%) and AO2 10 (20%).
+Each item above has its own page with objectives, the task, instructions, and the full marking rubric. The Course Skills and homework items are written up together in [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|9607 S1 Course Skills and Homework]]. A3 is worth 50 marks: AO3 40 (80%) and AO2 10 (20%), taken from the 2027 syllabus pp. 31–33.
 
 ## Course Skills tasks and break homework
 
@@ -38,7 +38,7 @@ Each item above has its own page with the objectives, the task, the instructions
 | CS3 | Fri 2026-09-18 | Vocabulary quiz, 20 items | AO1 | 20 min, immediate self-mark ([[classes/media-studies/lesson-plans/9607-s1-lesson-03-sign-types-and-codes\|L03]]) |
 | CS4 | Wed 2026-09-23 | Genre + camera analytical paragraph | AO2 | Direct practice for A1 ([[classes/media-studies/lesson-plans/9607-s1-lesson-04-genre-and-camera\|L04]]) |
 | HW1 | set 09-30 → due Fri 10-09 | Break: A1-format analysis of a self-chosen 2–3 min sequence | AO1+AO2 | Plus break production window; debrief annotated, not graded ([[classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock\|L05]]) |
-| CS5 | Wed 2026-10-21 | Peer blog audit against the mid-point checklist | AO3 | Same checklist A2 is marked with ([[classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint\|L07]]) |
+| CS5 | Wed 2026-10-21 | Peer blog audit against the mid-point checklist | AO3 | The same checklist A2 is marked with ([[classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint\|L07]]) |
 | CS6 | Fri 2026-11-13 | Representation close-reading paragraph, theorist embedded | AO2 | Theorist sentence-starters scaffold ([[classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze\|L09]]) |
 | CS7 | Wed 2026-11-18 | CCR draft review against the real C1 criteria | AO2 | Direct practice for A3 ([[classes/media-studies/lesson-plans/9607-s1-lesson-10-the-creative-critical-reflection\|L10]]) |
 | CS8 | Wed 2026-12-09 | Guided Section A, mark scheme open | AO1+AO2 | Direct practice for A4 ([[classes/media-studies/lesson-plans/9607-s1-lesson-12-institutions-and-section-a-craft\|L12]]) |
@@ -56,6 +56,6 @@ Each item above has its own page with the objectives, the task, the instructions
 | LB5 | Wed 2026-12-23 | W17 | Case-study document contributions |
 | LB7 | Wed 2027-01-20 | W21 | Response to feedback; Semester 2 goal setting |
 
-There is no LB6. W18 is winter break with no teaching week to cover, so the postings run LB1–LB5 plus LB7, six in total.
+There is no LB6. W18 is winter break with no teaching, so no posting covers it. The Learning Behaviour layer is LB1–LB5 + LB7, six postings in total.
 
-LB postings cover exactly the weeks with no CS task or attainment (W5, W6, W10, W14, W17, W21), satisfying the one-grade-per-week rule.
+LB postings cover exactly the weeks with no CS task or attainment (W5, W6, W10, W14, W17, W21), which satisfies the one-grade-per-week rule.

@@ -17,46 +17,48 @@ modified: 2026-08-06
 
 ## Weights
 
-The [[shared/bnds-assessment-framework|BNDS A-Level assessment framework]] sets the weights: **Attainment 50%** (A1–A4), **Course Skills 20%** (CS1–5), **Learning Behaviour 10%** (LB postings), and **End of Term 20%** (the retrospective). This course has only four attainment items, so no attainment grade is dropped. Dropping needs at least six items.
+From the [[shared/bnds-assessment-framework|BNDS A-Level assessment framework]]: **Attainment 50%** (A1–A4), **Course Skills 20%** (CS1–5), **Learning Behaviour 10%** (LB postings), **End of Term 20%** (the retrospective). The course has only four attainment items, so attainment dropping does not apply. That needs at least six items.
 
 ## Majors (A1–A4 + End of Term)
 
 | Item | Sits | What is marked | Format |
 | --- | --- | --- | --- |
 | [[classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board\|A1]] | Fri 2026-09-18 | Unit 1 board + justification — close looking, justified adjacency | Group board built on the wall + individual written justification |
-| [[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison\|A2]] | Tue 2026-10-13 | Unit 2 comparative essay — one claim about Titian vs Manet, evidenced from the pictures | In-class essay, closed |
-| [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay\|A3]] | Tue 2026-11-17 | Unit 3 essay — food, the table and ethics, argued from the pictures | In-class essay |
-| [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis\|A4]] | Tue 2026-12-15 | Unit 4 synthesis — a constellation that argues across the whole unit | In-class constellation build + written argument |
-| [[classes/art-appreciation/assessments/art-appreciation-s1-eot-retrospective\|EoT]] | Tue 2027-01-05 | Semester-close retrospective — a semester of looking as one argument, in the layout | In-class constellation, 20% End of Term |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison\|A2]] | **Tue 2026-10-13** | Unit 2 comparative essay — one claim about Titian vs Manet, evidenced from the pictures | In-class essay, closed |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay\|A3]] | **Tue 2026-11-17** | Unit 3 essay — food, the table and ethics, argued from the pictures | In-class essay |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis\|A4]] | **Tue 2026-12-15** | Unit 4 synthesis — a constellation that argues across the whole unit | In-class constellation build + written argument |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-eot-retrospective\|EoT]] | **Tue 2027-01-05** | Semester-close retrospective — a semester of looking as one argument, in the layout | In-class constellation, 20% End of Term |
 
-Each item above has its own page with objectives, the task, instructions, and a rubric. A1, A4, and the retrospective share two criteria on purpose, so the three constellations read as a series.
+Each item above has its own page with objectives, the task, instructions and a rubric. This course has no external criteria. A1, A4 and the retrospective share two criteria on purpose, so the three constellations read as a series.
 
-A2 also carries the mid-term grades. These are due Thu 2026-10-29 and are based on A2 plus participation, so A2 is marked within a week.
+A2 also feeds your mid-term grades, which come from A2 and participation and are due Thu 2026-10-29. A2 is marked inside a week.
 
 ## Course Skills (CS1–CS5)
 
-Each Course Skills task rehearses the major next to it. You get 72 hours' notice. Work is marked back within 5 working days.
+Each item is written up for you in [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|Art Appreciation S1 Course Skills]].
+
+Every CS rehearses the major next to it. You get 72 hours notice, and work is marked back within 5 working days.
 
 | Item | Date | What | Rehearses |
 |---|---|---|---|
-| CS1 | Fri 2026-09-04 | Darkroom reflection, written in the room | A1 (image as physical trace → U4) |
+| CS1 | **Fri 2026-09-04** | Darkroom reflection, written in the room | A1 (image as physical trace → U4) |
 | CS2 | Tue 2026-09-29 | Ten-frame storyboard, no captions, no dialogue | A2 (reading what a picture decided) |
-| CS3 | Fri 2026-10-09 | Storyboard debrief — where the sequence stopped being legible | A2 |
+| CS3 | **Fri 2026-10-09** | Storyboard debrief — where the sequence stopped being legible | A2 |
 | CS4 | Fri 2026-11-13 | Heda paragraph — every adjective earned | A3 |
-| CS5 | Wed 2026-12-09 | Poor-image lab — degrade an image and describe exactly what changed | A4 |
+| CS5 | **Wed 2026-12-09** | Poor-image lab — degrade an image and describe exactly what changed | A4 |
 
 ## Learning Behaviour (LB1–LB9)
 
-Participation postings are graded on behavior, that is, taking a position and moving it, not on performance.
+Participation postings, graded on behavior (taking a position and moving it), not performance.
 
 | Item | Date | Session |
 |---|---|---|
 | LB1 | Fri 2026-09-11 | U1 seminar: what the first images wanted |
-| LB2 | Wed 2026-09-23 | U2 cycle-reading session |
+| LB2 | **Wed 2026-09-23** | U2 cycle-reading session |
 | LB3 | Fri 2026-10-23 | U3 seminar: food, class, who is not in the picture |
-| LB4 | Fri 2026-10-30 | U3 hospitality seminar, posted for whoever is present (G12 away, not penalized) |
+| LB4 | Fri 2026-10-30 | U3 hospitality seminar, posted for whoever is present. If G12 is away, there is no penalty. |
 | LB5 | Tue 2026-11-03 | Second Heda session |
 | LB6 | Wed 2026-11-25 | Reproduction seminar |
 | LB7 | Tue 2026-12-01 | Floating-world session |
-| LB8 | Tue 2026-12-22 | Danto/Warhol day — End-of-Semester Activity, short room |
-| LB9 | Tue 2027-01-19 | Return days. This lands after the Wed 2027-01-20 grades deadline, so it carries no S1 weight and counts toward S2. |
+| LB8 | Tue 2026-12-22 | Danto/Warhol day, End-of-Semester Activity, short room |
+| LB9 | **Tue 2027-01-19** | Return days. This lands after the Wed 2027-01-20 grades deadline, so it **carries no S1 weight** and counts toward S2. |
