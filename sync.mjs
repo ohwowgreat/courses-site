@@ -27,7 +27,7 @@ import { libraryMarkdown } from "./gallery.mjs"
 import { insertCitations } from "./cite.mjs"
 import { checkDates, PAPER, PAPER_BEFORE } from "./date-check.mjs"
 import { syncDecks, deckLine, courseDeckBlock, DECKS_DIR } from "./decks.mjs"
-import { statStrip, stripHtml } from "./at-a-glance.mjs"
+import { statStrip, stripHtml, STAT_LABELS } from "./at-a-glance.mjs"
 
 // Env overrides exist so the pipeline can be exercised off-machine against a
 // fixture vault without touching the real content/. Normal use needs neither.
@@ -1490,13 +1490,27 @@ function linkAssessmentCodes(body, rel, publishedTargets) {
     return publishedTargets.has(target) ? target : null
   }
 
+  // One link per code per context: the first time it appears in prose, and
+  // the first time it appears in a table. A reader in the Assessment table
+  // should not have to hunt upward for the link, and two is not spam.
   const linked = new Set()
   return body
     .split("\n")
     .map((line) => {
-      if (line.includes("|") || line.includes("<") || /^\s*[#>]/.test(line)) return line
+      // A pipe inside a wikilink alias is not a table: test the line's shape.
+      const inTable = /^\s*\|/.test(line)
+      if (line.includes("<") || /^\s*[#>]/.test(line)) return line
+      if (inTable) {
+        // Rows whose label can be promoted into the At-a-glance strip keep
+        // plain codes; a link there would pull the row out of the strip.
+        const label = line.split(/(?<!\\)\|/)[1]?.trim()
+        if (STAT_LABELS.includes(label)) return line
+      }
+      // Inside a table cell the alias pipe must be escaped or it splits the row.
+      const sep = inTable ? "\\|" : "|"
       return line.replace(/\b(A[1-5]|CS\d{1,2}|HW\d|SB\d|LB\d|EoT)\b/g, (code, _c, at) => {
-        if (linked.has(code)) return code
+        const key = `${code}:${inTable ? "table" : "prose"}`
+        if (linked.has(key)) return code
         // Inside an existing wikilink, or a paper size, stays as written.
         if (line.lastIndexOf("[[", at) > line.lastIndexOf("]]", at)) return code
         const after = line.slice(at + code.length)
@@ -1506,8 +1520,8 @@ function linkAssessmentCodes(body, rel, publishedTargets) {
         if (/^[- ]?(season|year|timeline|entry)\b/.test(after)) return code
         const target = targetOf(code)
         if (!target) return code
-        linked.add(code)
-        return `[[${target}|${code}]]`
+        linked.add(key)
+        return `[[${target}${sep}${code}]]`
       })
     })
     .join("\n")

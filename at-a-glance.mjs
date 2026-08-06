@@ -13,7 +13,10 @@
 // Idempotent: after a pass the line under the heading is `<dl`, not `|`, so a second run
 // bails at the shape check. sync.mjs can therefore apply it to an already-synced tree.
 
-const STAT_LABELS = [
+// Exported so sync.mjs's code linker can leave these rows alone: a wikilink
+// in a promotable value would demote the row out of the strip (see the
+// `promote` test below), changing the masthead's shape page to page.
+export const STAT_LABELS = [
   // lesson pages (117 of the 138)
   "Dates",
   "Date",
