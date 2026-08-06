@@ -7,7 +7,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-5-semester-close-and-retrospective]]"
   - "[[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-08-02
+modified: 2026-08-06
 ---
 # Art Appreciation · S1 End of Term: The Retrospective
 

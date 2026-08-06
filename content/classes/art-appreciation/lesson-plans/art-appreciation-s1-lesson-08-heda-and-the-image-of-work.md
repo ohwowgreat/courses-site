@@ -5,7 +5,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-07-the-split-weeks]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-09-food-the-table-and-ethics]]"
-modified: 2026-08-05
+modified: 2026-08-06
 ---
 # Lesson 08: Heda and the Image of Work
 
@@ -17,7 +17,7 @@ modified: 2026-08-05
 
 <dl class="stat-strip">
   <div class="stat"><dt>Session codes</dt><dd>`U3·L11`–`U3·L17`</dd></div>
-  <div class="stat"><dt>Days</dt><dd>7 teaching days across 10 calendar days</dd></div>
+  <div class="stat"><dt>Days</dt><dd>6 meetings across 10 calendar days<span class="stat-x">both Tuesdays are doubles</span></dd></div>
   <div class="stat"><dt>Dates</dt><dd>Mon 2026-11-02 to Fri 2026-11-13<span class="stat-x">G11 out Wed 11-04 to Fri 11-06</span></dd></div>
 </dl>
 
@@ -30,7 +30,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson teaches you to read a painting of food and objects as a record of possessions, and to see why an artist picks one exact moment to paint. You look closely at Heda, then at Leonardo, Bruegel, Steen, the Qingming scroll, and images of work. You produce **CS4**, the Heda paragraph, on Fri 2026-11-13: one paragraph in which every adjective is earned. This work is direct practice for **A3**, the Unit 3 essay, due Thu 19 November. These dates may shift if the school publishes a different calendar for this period; anything still open will be confirmed in class.
+This lesson teaches you to read a painting of a table as a list of possessions, to find the exact moment an artist chose to show, and to write about it in words you can defend. You look closely at Heda's still life, at Leonardo's *The Last Supper*, at the disorderly tables of Bruegel and Steen, and at how work became a subject worth painting. You produce **CS4**, one paragraph on the Heda painting, collected Fri 2026-11-13, plus **LB5**. The work feeds A3, the Unit 3 essay. These dates fall in late 2026 and may shift when the school publishes its calendar for that term.
 
 ## The ideas
 
@@ -42,50 +42,51 @@ This lesson teaches you to read a painting of food and objects as a record of po
   <figcaption>Willem Claesz. Heda, <em>Still Life with a Gilt Cup</em>, 1635</figcaption>
 </figure>
 
-A **still life** is a painting of objects that do not move, such as food, cups, and plates. You can read it as an **inventory**, a list of possessions: name every object and say who owns it. Read this way, the painting shows wealth and ownership, not just a nice arrangement. The lesson uses a still life by **Heda** to practice this. You name each object, then say what it tells you about the owner.
+A **still life** is a painting of objects. You can read one as an **inventory**: a list of possessions and who owns them, rather than a pleasing arrangement. Heda's still life is the example. Name every object in it, and ask who owned such things and what they cost.
 
 ### The chosen moment
 
-In **Leonardo**'s *The Last Supper*, Leonardo chose one exact moment to paint. Your job is to find that moment and say why he chose it and not the moment just before it. A painting freezes one instant, and the instant is a choice.
+A painting shows one instant of a story. In Leonardo's *The Last Supper*, Leonardo chose a single moment out of many. The task is to find which moment he chose, and to say why that one and not the one just before it.
 
 ### The disorderly table
 
-**Bruegel** and **Steen** paint messy, crowded tables. Take these as a serious subject, not as comedy. The disorder is the point, and it carries meaning about the people at the table.
+Bruegel and Steen paint messy, chaotic tables. Take the **disorderly table** seriously as a subject in its own right, not as a joke. It carries meaning about behavior and excess.
 
-### Food along the scroll
-
-The **Qingming scroll** is a long Chinese handscroll that you unroll to view. Follow food along its whole length. The scroll shows a different way to picture eating and daily life than a single framed still life does.
+As a brief aside, the Qingming scroll shows food along its length as it unrolls, a Chinese image of everyday life set beside these European tables.
 
 ### The moral image of work
 
-The **moral image of work** asks when work first became worth painting, and for whom. Images of labor carry a judgment about who works and why that matters.
+At some point, work itself became worth painting. Ask when that happened, and for whom the images of work were made. This is the **moral image of work**.
+
+### Earning every adjective
+
+Good writing about art uses no adjective it cannot defend. Every adjective must be **earned**: the painting must give you the evidence for the word you choose.
 
 ## Day by day
 
-- **Mon 11-02.** Heda as inventory: name every object and who owns it.
-- **Tue 11-03.** A3, the Unit 3 essay due Thu 19 November, is announced today. This is the last session both halves of the class attend before the deadline. LB5 is posted from this second Heda session, where you look at the same painting again and go further.
-- **Mon 11-09.** Leonardo, *The Last Supper*: find the moment he chose and say why that one.
-- **Tue 11-10.** Bruegel and Steen: the disorderly table as a serious subject. Homework set: reading on Dutch still life and the inventory, 30 min, due Thu 11-12.
-- **Wed 11-11.** The Qingming scroll, unrolled, followed by food along its length.
-- **Thu 11-12.** The moral image of work: when work became worth painting, and for whom. Reading due.
-- **Fri 11-13.** Write the Heda paragraph, then swap and cut one adjective from someone else's. CS4 collected.
+- **Mon 11-02.** Heda: read the still life as an inventory. Name every object and who owns it.
+- **Tue 11-03 (double).** A3 is announced in the first ten minutes: the Unit 3 essay, which you sit Tue 2026-11-17. You then return to the same Heda painting for a longer second look. LB5 is posted. The class is then out for three days (G11 Juniors Days, Wed 11-04 to Fri 11-06).
+- **Mon 11-09.** Leonardo, *The Last Supper*: find the moment Leonardo chose and say why.
+- **Tue 11-10 (double).** First period: Bruegel and Steen and the disorderly table. Second period: walk the Qingming scroll, unrolled, following the food along its length. Homework set: reading on Dutch still life and the inventory, 30 min, due day 6 (Fri 11-13).
+- **Wed 11-11.** The moral image of work: when work became worth painting, and for whom.
+- **Fri 11-13.** Write the Heda paragraph. Swap with a partner and cut one adjective from their paragraph. CS4 collected. Reading due. This is direct practice for A3.
 
 ## Assessment
 
 - **LB5.** Tue 2026-11-03, posted from the second Heda session.
-- **CS4.** Fri 2026-11-13, the Heda paragraph: one paragraph that earns every adjective in it.
+- **CS4.** Fri 2026-11-13. The Heda paragraph: "one paragraph that earns every adjective in it."
+- **A3** is announced Tue 2026-11-03 and sits Tue 2026-11-17, which gives you 14 days' notice. If that Tuesday session is lost, A3 moves, not the announcement.
 
 ## Review
 
 Check you can:
 
-- Read a still life as an inventory, naming each object and its owner.
-- Explain what an inventory reading tells you about wealth and ownership.
+- Read a **still life** as an **inventory** of possessions rather than an arrangement.
+- Name the objects in Heda's painting and say who would own them.
 - Find the moment Leonardo chose in *The Last Supper* and say why that one and not the one before it.
-- Take Bruegel's and Steen's disorderly tables seriously as a subject.
-- Follow food along the length of the Qingming scroll.
-- Explain the moral image of work: when work became worth painting, and for whom.
-- Write one paragraph in which every adjective is earned.
+- Explain the **disorderly table** in Bruegel and Steen as a serious subject.
+- Say when and for whom work became a **moral image** worth painting.
+- Write one paragraph in which every adjective is **earned**.
 
 ## Practice
 

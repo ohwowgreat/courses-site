@@ -6,7 +6,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics]]"
   - "[[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-08-02
+modified: 2026-08-06
 ---
 # Art Appreciation · S1 A3: The Food and Ethics Essay
 
@@ -38,13 +38,13 @@ This assessment asks you to show that you can:
 
 ## The task
 
-You write an in-class essay on the unit's material: the table as a moral space, Heda and the image of work, Rosler, and the artists who do something the paintings could not.
+An in-class essay on the unit's material: the table as a moral space, Heda and the image of work, Rosler, and the artists who do something the paintings could not.
 
 You make **one claim** and argue it from the pictures.
 
-This essay is difficult, and it comes third rather than first for one reason: **the subject invites you to argue from ethics.** Food, class, labor and who is absent from the table all have moral answers ready before you have looked at anything. An essay that reaches the right ethical position without going through the pictures has not done the work this course teaches.
+Here is the specific difficulty of this essay, and the reason it comes third rather than first: the subject invites you to argue from ethics. Food, class, labor and who is absent from the table are all questions with moral answers available before you have looked at anything. An essay that arrives at the right ethical position without going through the pictures has not done the work this course teaches.
 
-So the ethics has to be **found in the picture**, in what it selected, arranged, lit and left out. Not brought to it.
+So the ethics has to be found in the picture, in what it selected, arranged, lit and left out. Not brought to it.
 
 ## Instructions
 
@@ -54,11 +54,11 @@ So the ethics has to be **found in the picture**, in what it selected, arranged,
 4. **Treat absence as evidence.** Who is not in the picture is a decision the picture made, and it is arguable.
 5. **Earn every adjective.** This is the criterion CS4 rehearsed on Heda.
 
-**If you are absent.** Tell your teacher **at least 24 hours before**. Illness needs a doctor's note. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8).
+**If you are absent.** Tell your teacher at least 24 hours before. Illness needs a doctor's note. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8).
 
 ## Rubric
 
-Four criteria, equally weighted. The third is the one that sets this essay apart from A2.
+Four criteria, equally weighted. The third is the one that distinguishes this essay from A2.
 
 | | **The claim** | **Evidence from the pictures** | **From the pictures, not the ethics** | **Precision of language** |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ Under the [[shared/bnds-assessment-framework|BNDS framework]] this becomes a cur
 
 ## After the sit
 
-The course's review protocol: **the criteria**, **ten minutes of silence**, **one named strength**, **one move.**
+The course's review protocol: the criteria, ten minutes of silence, one named strength, one move.
 
-You get your mark back within five working days. This unit hands directly to Unit 4, which takes the same question into mediation, so what this essay reveals is immediately usable.
+Marking back within five working days. This unit hands directly to Unit 4, which takes the same question into mediation, so what this essay reveals is immediately usable.
 
 ## How to prepare
 
@@ -83,5 +83,5 @@ You get your mark back within five working days. This unit hands directly to Uni
 | **CS4**, the Heda paragraph, every adjective earned (Fri 2026-11-13) | The precision criterion, rehearsed and marked four days before |
 | **L06**, the table as a moral space | What a table does when it is the same table every time |
 | **L08**, Heda and the image of work | Domestic labor as labor, which is objective 1 |
-| **L09**, days one to three: three artists, each doing something the paintings could not | Your comparative material |
+| **L09**, Cassatt then Rosler in the period before the sit | Your comparative material; Weems follows the essay and hands forward to Unit 4 |
 | Your **A2 feedback** | The same essay skills. The one move you were given is checked here |

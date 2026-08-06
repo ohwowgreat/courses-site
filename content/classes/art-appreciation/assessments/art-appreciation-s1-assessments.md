@@ -9,7 +9,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-5-semester-close-and-retrospective]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-19
+modified: 2026-08-06
 ---
 # Art Appreciation · S1 Assessments
 

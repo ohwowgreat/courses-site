@@ -5,7 +5,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-5-semester-close-and-retrospective]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-15-return]]"
-modified: 2026-08-05
+modified: 2026-08-06
 ---
 # Lesson 14: The Retrospective
 
@@ -17,7 +17,7 @@ modified: 2026-08-05
 
 <dl class="stat-strip">
   <div class="stat"><dt>Session codes</dt><dd>`U5·L1`–`U5·L5`</dd></div>
-  <div class="stat"><dt>Days</dt><dd>5</dd></div>
+  <div class="stat"><dt>Days</dt><dd>4 meetings (Tue is a double)</dd></div>
   <div class="stat"><dt>Dates</dt><dd>Mon 2027-01-04 to Fri 2027-01-08</dd></div>
 </dl>
 
@@ -30,7 +30,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson reads the whole semester back as one argument. You lay out everything you have made, defend a set of works, and build a final arrangement. What you produce is the **constellation retrospective**, your End of Term deliverable, worth 20%, sat in class. It closes Semester 1 and sets the question you carry into Semester 2.
+This lesson reads the whole semester back as one argument. You build the **retrospective**, the semester-close constellation of your work, and you sit it in class on Tue 2027-01-05 as the End of Term assessment, worth 20%. It is the third constellation of the year, and the one where the method finally looks like a method rather than a rule. Everything you have made is available: the Unit 1 boards and the Unit 4 syntheses go up on the walls. The question you name at the end of the week feeds into Semester 2.
 
 
 <figure class="plate">
@@ -40,41 +40,39 @@ This lesson reads the whole semester back as one argument. You lay out everythin
 
 ## The ideas
 
-### The semester as one body of work
+### The retrospective
 
-Treat the semester as one body of work, not four separate units. You lay everything out and look at it whole, so you can see a single argument running through it rather than four disconnected tasks.
+A **retrospective** is the whole semester seen as one body of work rather than four separate units. You lay everything out and read it back as a single argument.
 
-### The constellation retrospective
+### The constellation
 
-A **constellation retrospective** is an arrangement of your works where the layout itself carries the argument. This is the third **constellation** of the year, and the one where the method finally looks like a method rather than a rule. You are marked on showing a semester of looking as one argument, with the argument held in the layout.
+A **constellation** is an arrangement of works where the argument lives in the layout, not just in the pieces. This is your third constellation of the year. You are marked on showing a semester of looking as one argument, with that argument visible in how the works are placed.
 
-### Defending your works
+### Defending your three works
 
-You choose three works and defend them to someone who chose differently. The point is to hold your ground and give reasons, not just concede when challenged.
+You choose three works and defend them to someone who chose differently. The point is to hold your reasoning and not just concede when challenged.
 
 ## Day by day
 
-- **Mon 01-04.** Inventory: everything goes up on the wall. Look and take stock. No arranging yet.
-- **Tue 01-05.** Bring the three works from your break homework. Defend them to someone who chose differently, and do not just concede.
-- **Wed 01-06.** Constellation retrospective workshop: build and test your arrangement while it can still change. This is your last chance to change it.
-- **Thu 01-07.** The retrospective sits in class, 40 minutes. End of Term, 20%.
-- **Fri 01-08.** Read the room's constellations. Name the question you want Semester 2 to answer. This is the last teaching day of the semester.
+- **Mon 04 Jan.** Inventory: everything goes on the wall. Look, but do not arrange yet.
+- **Tue 05 Jan (double).** First period: defend the three works you chose over the break to someone who chose differently, then take a last workshop pass on your layout while it can still change. Second period: the retrospective sits in class, 40 minutes, End of Term, 20%.
+- **Wed 06 Jan.** Read the room's constellations while the walls are still full.
+- **Fri 08 Jan.** Name the question you want Semester 2 to answer. This is the last teaching day of the semester.
 
 ## Assessment
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/art-appreciation/assessments/art-appreciation-s1-eot-retrospective|EoT Retrospective]].
 
-- The EoT retrospective sits Tue 2027-01-05; criteria are issued with the announcement. You are marked on showing a semester of looking as one argument, with the argument in the layout.
-- You sit it in class, not in the exam window (Mon 2027-01-11 to Mon 2027-01-18). The sit day will be confirmed in class.
+- The EoT retrospective sits Tue 2027-01-05. Criteria are issued with the announcement. You are marked on showing a semester of looking as one argument, with the argument in the layout.
+- You sit it in class, not in the exam window (Mon 2027-01-11 to Mon 2027-01-18). Any remaining detail will be confirmed in class.
 
 ## Review
 
 Check you can:
 
-- Lay out the semester and read it as one body of work, not four units.
-- Defend your three works to someone who chose differently without just conceding.
-- Build a **constellation retrospective** where the argument lives in the layout.
-- Name the question you want Semester 2 to answer.
+- Lay the semester out and see it as one body of work, a **retrospective**, rather than four units.
+- Defend your three works to someone who chose differently, and not just concede.
+- Build a **constellation** that shows a semester of looking as one argument, with the argument in the layout.
 
 ## Practice
 

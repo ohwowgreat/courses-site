@@ -5,7 +5,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-08-heda-and-the-image-of-work]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-10-berger-and-the-reproduction]]"
-modified: 2026-08-05
+modified: 2026-08-06
 ---
 # Lesson 09: Food, the Table and Ethics
 
@@ -17,7 +17,7 @@ modified: 2026-08-05
 
 <dl class="stat-strip">
   <div class="stat"><dt>Session codes</dt><dd>`U3·L18`–`U3·L22`</dd></div>
-  <div class="stat"><dt>Days</dt><dd>5</dd></div>
+  <div class="stat"><dt>Days</dt><dd>4 meetings (Tue is a double)</dd></div>
   <div class="stat"><dt>Dates</dt><dd>Mon 2026-11-16 to Fri 2026-11-20</dd></div>
 </dl>
 
@@ -30,55 +30,54 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson looks at food, the table, and the work around them through three artists across three days. You look at domestic work as work, at what a table does when it is the same table every time, and at what a food image is for when nobody means to eat. You produce A3, the in-class Unit 3 essay on food, the table, and ethics. On the last day the unit opens into hyperreality and hands the question to Berger, which sets up Unit 4.
+This lesson looks at food, the table, and domestic work as subjects for art. You study three artists: Cassatt, Rosler, and Weems, plus the idea of the food image itself. You produce A3, an in-class essay on food, the table, and ethics, which you sit on Tue 2026-11-17. The work feeds Unit 4, which takes the same question into mediation.
 
 ## The ideas
 
 ### Domestic labor as labor
 
-**Domestic labor as labor** means reading the work done at home, cooking, cleaning, care, as real work rather than as background. Mary Cassatt's domestic interiors are the example: read one interior as a workplace, and the domestic scene becomes a picture of labor.
+**Domestic labor as labor** means treating housework and care work in the home as real work, not just background. Cassatt paints a domestic interior. You read that interior as a workplace, and you see the labor in it.
 
-### The kitchen as an alphabet of rage
+### Rosler, *Semiotics of the Kitchen*
 
-Martha Rosler's *Semiotics of the Kitchen* is a six-minute video in which a kitchen turns into an alphabet of rage. Watch it once, then watch it again: it lands hardest on the second viewing, when the kitchen tools stop being tools and become signs.
+**Semiotics of the Kitchen** is a six-minute video by Rosler. The artist names kitchen tools one by one and turns each into a violent gesture. A kitchen turns into an alphabet of rage. The piece lands harder on the second viewing than the first, so watch it twice.
 
-### What a repeated table does
+### Weems, *Kitchen Table Series*
 
-Carrie Mae Weems's *Kitchen Table Series* is a sequence of photographs set at one table. Seen in order, the pictures show what a table does when it is the same table every time: the fixed setting carries the meaning as the scenes around it change.
+**Kitchen Table Series** by Weems is a set of photographs shot at one table, in sequence. It shows what a table does when it is the same table every time. This idea hands forward to Unit 4.
 
 ### Hyperreality and the food image
 
-**Hyperreality** here names an image that stands in for a real thing that is no longer the point. A food image can reach hyperreality when nobody intends to eat: the picture is not about a meal, it is about the image itself. This question hands the unit to Berger and into Unit 4.
+**Hyperreality** is a copy or image that stands in for a real thing that is not there. Applied to food, it asks what a food image is for when nobody intends to eat. This question is the hand-off into Unit 4.
 
 ## Day by day
 
-- **Mon 11-16.** Cassatt: read one domestic interior as a workplace, and name domestic labor as labor.
-- **Tue 11-17.** Rosler, *Semiotics of the Kitchen*: watch the six-minute video once through, then again.
-- **Wed 11-18.** Weems, *Kitchen Table Series*, read in sequence: what a table does when it is the same table every time.
-- **Thu 11-19.** A3 sits. In class, 40 minutes: argue one claim about food and ethics from the pictures themselves, not from the ethics.
+- **Mon 11-16.** Study one Cassatt domestic interior as a workplace: domestic labor as labor.
+- **Tue 11-17 (double).** In the first period, watch Rosler's *Semiotics of the Kitchen* twice. In the second period, sit A3 in class, 40 minutes: argue one claim about food and ethics from the pictures themselves, not from the ethics.
 
 <figure class="plate">
   <img src="../../../static/img/last-supper.jpg" alt="Leonardo da Vinci, The Last Supper, 1495–98" loading="lazy" />
   <figcaption>Leonardo da Vinci, <em>The Last Supper</em>, 1495–98</figcaption>
 </figure>
 
-- **Fri 11-20.** Hyperreality and the food image: what a food image is for when nobody intends to eat. This hands the question into Unit 4.
+- **Wed 11-18.** Study Weems' *Kitchen Table Series* in sequence: what a table does when it is the same table every time. This feeds Unit 4.
+- **Fri 11-20.** Look at hyperreality and the food image: what a food image is for when nobody intends to eat. Hand-off into Unit 4.
 
 ## Assessment
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay|A3 Food & Ethics]].
 
-- **A3 sits Tue 2026-11-17.** In-class essay on food, the table, and ethics.
+- **A3 sits Tue 2026-11-17**. In-class essay on food, the table and ethics.
 
 ## Review
 
 Check you can:
 
-- Read a domestic interior as a workplace and name domestic labor as labor.
-- Explain what a table does when it is the same table every time, using the *Kitchen Table Series*.
-- Explain how *Semiotics of the Kitchen* turns a kitchen into an alphabet of rage.
-- Define hyperreality and say what a food image is for when nobody intends to eat.
-- Argue one claim about food and ethics from the pictures themselves, not from the ethics.
+- Read a domestic interior as a workplace and explain domestic labor as labor.
+- Describe what Rosler's *Semiotics of the Kitchen* does to kitchen tools.
+- Say what a table does when it is the same table every time, using Weems' *Kitchen Table Series*.
+- Explain hyperreality and ask what a food image is for when nobody intends to eat.
+- Argue one claim about food and ethics from the pictures themselves.
 
 ## Practice
 

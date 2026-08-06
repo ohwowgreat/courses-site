@@ -5,7 +5,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-09-food-the-table-and-ethics]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image]]"
-modified: 2026-08-05
+modified: 2026-08-06
 ---
 # Lesson 10: Berger and the Reproduction
 
@@ -17,8 +17,8 @@ modified: 2026-08-05
 
 <dl class="stat-strip">
   <div class="stat"><dt>Session codes</dt><dd>`U4·L1`–`U4·L7`</dd></div>
-  <div class="stat"><dt>Days</dt><dd>7<span class="stat-x">across two split weeks</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-11-23 to Tue 2026-12-01<span class="stat-x">G12 out Thu–Fri 11-26/27; G11 out from 12-02</span></dd></div>
+  <div class="stat"><dt>Days</dt><dd>5 meetings / 7 sessions<span class="stat-x">across two split weeks (both Tuesdays are doubles)</span></dd></div>
+  <div class="stat"><dt>Dates</dt><dd>Mon 2026-11-23 to Tue 2026-12-01<span class="stat-x">no class Fri 11-27, Seniors' Day; G11 out from 12-02</span></dd></div>
 </dl>
 
 | | |
@@ -30,11 +30,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson works through John Berger's claim that a reproduction of an artwork is not a neutral copy. You look at how the words and setting around an image change what it means, and you read a reproduction as an object with choices built into it. Your deliverable is the caption exercise, written on Fri 2026-12-01, wait, on Fri 2026-11-27: you write a caption that changes a picture, then write the honest one. You also post LB6 (Wed 2026-11-25) and LB7 (Tue 2026-12-01). On Tue 2026-12-01, A4, the Unit 4 synthesis, is announced, due Thu 2026-12-17. These dates may shift when the school publishes the calendar for this period.
-
-## The ideas
-
-### A reproduction is not a neutral copy
+This lesson works through **John Berger**'s argument that a reproduction is not a neutral copy of a painting. You test how the words around an image change its meaning, and you write two captions for one picture: one that changes it, then an honest one. Your deliverable is the caption exercise, done on Mon 2026-11-30, which is ungraded. You also post LB6 and LB7. The work feeds A4, the Unit 4 synthesis.
 
 
 <figure class="plate">
@@ -42,53 +38,53 @@ This lesson works through John Berger's claim that a reproduction of an artwork 
   <figcaption>Claude Monet, <em>The Magpie</em>, 1869 — winter light, and the quiet after</figcaption>
 </figure>
 
-**John Berger**, in *Ways of Seeing*, argues that when a painting is reproduced, the reproduction is not a neutral copy of the original. It adds something. The lesson states this claim flatly and then takes the first objection to it seriously, so you can say what the reproduction adds and what it takes away.
+## The ideas
 
-### Context changes meaning
+### Reproduction is not a neutral copy
 
-Place one painting in four different contexts and its meaning moves. When you change the words around an image, you change how it reads. The point is to describe precisely what moved, not just to notice that something did.
+A **reproduction** is a copy of an artwork, such as a photograph or print of a painting. Berger's argument is that a reproduction is not a neutral copy. It adds something and changes how you read the original. His series and book **Ways of Seeing** set out this case. Take the first objection to it seriously, then test it.
 
-### The reproduction as an object with its own decisions
+You also read a reproduction as an object with decisions of its own: someone chose the crop, the size, the color, and the place it appears.
 
-A reproduction is itself an object. Someone chose its crop, its size, its color, its placement. Read that way, the reproduction carries decisions of its own, separate from the original painting.
+### Words change the image
 
-### The caption that changes the picture
+Put one painting in four different contexts and change the words around it. The meaning moves each time. The image stays the same, but what it says to you does not.
 
-A **caption** is the text set next to an image. A caption can steer how you see the picture. In the exercise you first write a caption that changes the picture, then write the honest one, so you can feel the difference between the two.
+### What the painting loses and gains
 
-### An image that refuses to add up
+When a painting becomes reproducible, it loses some things and gains others. The seminar asks you to name both: what did the painting lose, and what did it gain.
 
-An extract from Godard's *Goodbye to Language* asks you to sit with an image that refuses to add up and stay with it, rather than resolve it.
+### Captions
 
-### The floating world as a market
+A **caption** is the text set next to an image. A caption can change how you see the picture. You write the caption that changes the picture, then write the honest one, and see the difference.
 
-The floating world is treated as a market, not a mood: a system of production and demand, not just an atmosphere.
+### The floating world (aside)
+
+As a brief aside, you watch one extract from Godard's *Goodbye to Language* and sit with an image that refuses to add up. You also look at the floating world as a market, not a mood.
 
 ## Day by day
 
-- **Mon 2026-11-23.** Berger's argument stated flat: a reproduction is not a neutral copy. The first objection is taken seriously. The reading is set, *Ways of Seeing*, episode one or the first essay, 30 min, due day 3.
-- **Tue 2026-11-24.** One painting, four contexts: change the words around an image and watch its meaning move.
-- **Wed 2026-11-25.** Seminar: what did the painting lose, and what did it gain, by becoming reproducible. Post LB6. Reading due.
-- **Thu 2026-11-26.** A reproduction read as an object with decisions of its own. (G12 out.)
-- **Fri 2026-11-27.** Write the caption that changes the picture, then write the honest one. This is the deliverable. (G12 out.)
-- **Mon 2026-11-30.** Godard, *Goodbye to Language*, one extract: sit with an image that refuses to add up.
-- **Tue 2026-12-01.** A4 is announced, the Unit 4 synthesis, due Thu 2026-12-17. Then the floating world as a market, not a mood. Post LB7. This is the last session both halves attend before the deadline.
+- **Mon 11-23.** Berger's argument stated plainly: a reproduction is not a neutral copy. You take the first objection to it seriously. Homework set: watch *Ways of Seeing* episode one or read the first essay, 30 minutes, due Wed 11-25.
+- **Tue 11-24 (double).** One painting in four contexts: change the words around an image and watch its meaning move. Then read a reproduction as an object with decisions of its own.
+- **Wed 11-25.** Seminar: what did the painting lose, and what did it gain, by becoming reproducible. Post LB6. Homework due today.
+- **Mon 11-30.** Write the caption that changes the picture, then write the honest one. This is the caption exercise, your deliverable.
+- **Tue 12-01 (double).** Watch one extract from Godard's *Goodbye to Language* and sit with an image that refuses to add up. A4 is announced: it is the Unit 4 synthesis, and you sit it on Tue 2026-12-15. Then look at the floating world as a market, not a mood. Post LB7. This date may shift when the school publishes the calendar for that period.
 
 ## Assessment
 
 - **LB6.** Wed 2026-11-25, seminar posting.
 - **LB7.** Tue 2026-12-01, floating-world posting.
-- The caption exercise is the ungraded deliverable both halves complete.
+- The caption exercise is the ungraded deliverable both cohorts complete.
 
 ## Review
 
 Check you can:
 
-- Explain John Berger's claim that a reproduction is not a neutral copy, and say what it adds.
-- Change the words around an image and describe precisely what moves.
+- Explain why a **reproduction** is not a neutral copy, and say what it adds.
+- Show how changing the words around an image changes its meaning.
 - Read a reproduction as an object with its own decisions.
-- Write a caption that changes a picture, then write the honest one.
-- Describe the floating world as a market, not a mood.
+- Say what a painting loses and gains by becoming reproducible.
+- Write a **caption** that changes a picture, then write an honest one.
 
 ## Practice
 

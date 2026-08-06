@@ -8,7 +8,7 @@ related:
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-04-telling-it-without-words]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet]]"
   - "[[classes/art-appreciation/assessments/art-appreciation-s1-assessments]]"
-modified: 2026-07-19
+modified: 2026-08-06
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/calling-of-matthew.jpg" alt="Caravaggio, The Calling of Saint Matthew, 1599 — one light source, five gestures: a room you can read" loading="lazy" />
@@ -21,25 +21,26 @@ modified: 2026-07-19
 
 ## What this unit does
 
-This unit is about how images carry story without words. The first half builds your vocabulary. **Narrative** is where a still image puts time. **Myth** is shared shorthand that needs an audience who already knows the story. **Allegory** is the image that means something elsewhere. You also learn the **cycle**. Then you turn this vocabulary into a made thing: the ten-frame storyboard, carried on framing alone.
+This unit is about how images carry story without words. The first half builds your vocabulary: **narrative**, where a still image puts time; **myth**, shared shorthand that needs an audience who already knows the story; **allegory**, the image that means something elsewhere; and the **cycle**. You then turn this vocabulary into a made thing, the ten-frame storyboard that carries its story on framing alone.
 
-The second half is the pair that carries the unit: Titian's *Venus of Urbino*, and what it asks you to accept as natural, against Manet's *Olympia*, where you locate the exact refusals. Gentileschi's *Judith Slaying Holofernes* is the close-looking hinge on the problem of the witness. At the start of lesson 04 you learn the **critique flow**: describe, account, judge. The storyboard is your rehearsal for the A2 comparison. Both are about reading what a picture decided.
+The second half turns on a pair of paintings. You read Titian's *Venus of Urbino*, asking what it asks you to accept as natural, against Manet's *Olympia*, where you locate the exact refusals. Gentileschi's *Judith Slaying Holofernes* is the close-looking hinge on the problem of the witness.
+
+The **critique flow**, describe, account, judge, is taught from cold at the top of Lesson 04. The storyboard is direct rehearsal for the A2 comparison. Both are about reading what a picture decided.
 
 ## Dates and span
 
 - **Weeks 4–7**: Sun 2026-09-20 to Fri 2026-10-16. 16 sessions (8 + 8) across a broken calendar.
-- The unit opens on the **Sunday make-up day**, 2026-09-20.
-- Mid-Autumn Festival: Fri 2026-09-25 and Sun 2026-09-27. **National Day holiday: 2026-10-01 to 10-07** (twelve days out of the room around it).
-- **Saturday make-up day** 2026-10-10, with Sports Day after lunch, so this session is shortened.
-- You sit A2 on Tue 2026-10-13.
-- Foreign Culture Day: Fri 2026-10-16.
+- The unit opens on the **Sunday make-up day** 2026-09-20.
+- Mid-Autumn Festival: Fri 2026-09-25 and Sun 2026-09-27. **National Day holiday runs 2026-10-01 to 10-07**, with twelve days out of the room around it.
+- **Saturday make-up day** 2026-10-10 has Sports Day after lunch, so the room time is short.
+- Foreign Culture Day falls on Fri 2026-10-16.
 
-These dates are projected. They may shift when the school publishes the calendar for this period, and anything still open will be confirmed in class.
+These future dates may shift when the school publishes the calendar for this period.
 
 ## Lessons
 
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-04-telling-it-without-words|Lesson 04: Telling It Without Words]] — 8 days, the longest lesson in the semester. Covers the critique flow and narrative, myth, allegory and cycle. You start the storyboard on day 8, then finish it over the break. Sets CS2 and LB2.
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet|Lesson 05: Titian to Manet]] — 8 days. Storyboard debrief, Gentileschi, Titian, Manet and a comparison workshop. You sit A2 on day 7. Sets CS3.
+- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-04-telling-it-without-words|Lesson 04: Telling It Without Words]] — 8 days, the longest lesson in the semester. Covers the critique flow and narrative, myth, allegory, and cycle. You start the storyboard on day 8 and finish it over the break. Sets CS2 and LB2.
+- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet|Lesson 05: Titian to Manet]] — 6 meetings. Storyboard debrief, Gentileschi across two sessions, Titian, Manet, and a comparison workshop. A2 sits on day 4 in the Tuesday double. Sets CS3.
 
 ## Assessment
 
@@ -49,7 +50,8 @@ These dates are projected. They may shift when the school publishes the calendar
 |---|---|---|
 | LB2 | Wed 2026-09-23 | Posting from the cycle-reading session |
 | CS2 | Tue 2026-09-29 | Ten-frame storyboard, collected in class |
+| | Wed 2026-09-30 | Last session before the holiday |
 | CS3 | Fri 2026-10-09 | Storyboard debrief: find the frame where the sequence stopped being legible |
-| **A2 sits** | **Tue 2026-10-13** | In-class comparative essay, Titian vs Manet, closed book |
+| **A2 sits** | **Tue 2026-10-13** | In-class comparative essay, Titian vs Manet, closed |
 
-A2 carries the mid-term grades (due Thu 2026-10-29), so it is marked within a week rather than the usual five days. Full detail in the [[classes/art-appreciation/assessments/art-appreciation-s1-assessments|full register]].
+A2 carries the mid-term grades, due Thu 2026-10-29, so it is marked within a week rather than the usual five days. Full detail is in the [[classes/art-appreciation/assessments/art-appreciation-s1-assessments|full register]].
