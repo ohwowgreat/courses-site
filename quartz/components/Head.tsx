@@ -84,7 +84,9 @@ export default (() => {
 
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
-        <meta name="generator" content="Quartz" />
+        {/* No generator meta: the site does not name its build tool anywhere
+            a reader or a crawler can see it. Licence attribution is in
+            LICENSE.txt. */}
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
