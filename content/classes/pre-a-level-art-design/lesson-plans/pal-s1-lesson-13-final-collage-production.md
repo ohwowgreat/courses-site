@@ -30,7 +30,7 @@ modified: 2026-08-05
 |---|---|
 | Focus | The final collage built — the assembly session |
 | Deliverable | The final collage substantially built (background and middle layers glued, top layer dry-fit); build photographed in stages |
-| Feeds | **SB2 sketchbook spot-check runs today**; the collage finishes under A3 conditions next week |
+| Feeds | **SB2 sketchbook spot-check runs today**; the collage finishes under [[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage\|A3]] conditions next week |
 | Homework | A written finishing list (what remains, in order); missing material gathered; MB posting |
 
 ## Overview
@@ -65,7 +65,7 @@ If you work in digital remix, use Photoshop or Affinity. The same layer order ap
 
 ## Assessment
 
-**SB2**, the second sketchbook spot-check, runs table by table during the studio block. It looks at your progress and upkeep since SB1 (10-21), in short two-minute looks, with marks entered the same day. The build itself is assessed next week as **A3**. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
+**SB2**, the second sketchbook spot-check, runs table by table during the studio block. It looks at your progress and upkeep since [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|SB1]] (10-21), in short two-minute looks, with marks entered the same day. The build itself is assessed next week as **A3**. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
 
 ## Review
 

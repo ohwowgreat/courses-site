@@ -23,12 +23,12 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | The investigation sequenced so it reads in order to a stranger; documentation verified page by page; the bibliography integrated into the body |
-| Graded | No attainment. **CS9** Fri 2027-12-10 (sequencing and documentation check) |
+| Graded | No attainment. **[[classes/a-level-art-design/assessments/9479-s3-assessments\|CS9]]** Fri 2027-12-10 (sequencing and documentation check) |
 | Homework | ≤30 min: read your sequence as a stranger and mark the first page where it stalls |
 
 ## Overview
 
-This week you assemble your complete investigation under AO4 Present. You put the work in order so it reads to a stranger, verify the documentation page by page, and fold the bibliography into the body. You produce a sequenced, documented investigation, checked by **CS9** on Fri 2027-12-10. This sets up the viva-rehearsal critique in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-13-the-viva-rehearsal-critique|Lesson 13]] and makes the submission QC in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-15-submission-qc-the-return-and-into-c2|Lesson 15]] a check, not a scramble. These dates are projected and may shift when the school publishes the calendar for that period.
+This week you assemble your complete investigation under AO4 Present. You put the work in order so it reads to a stranger, verify the documentation page by page, and fold the bibliography into the body. You produce a sequenced, documented investigation, checked by **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS9]]** on Fri 2027-12-10. This sets up the viva-rehearsal critique in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-13-the-viva-rehearsal-critique|Lesson 13]] and makes the submission QC in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-15-submission-qc-the-return-and-into-c2|Lesson 15]] a check, not a scramble. These dates are projected and may shift when the school publishes the calendar for that period.
 
 
 <figure class="plate">
@@ -56,7 +56,7 @@ The **bibliography** is your list of sources. Integrate it into the body of the 
 - **Tue 12-07.** Check documentation: confirm every page is photographed, labeled, and legible.
 - **Wed 12-08.** Integrate the bibliography into the body, so sources appear where they did their work.
 - **Thu 12-09.** Studio: close the gaps the sequence exposed.
-- **Fri 12-10.** Sequencing check. Fix where a stranger stalls. **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS9]]** marks the sequencing and documentation. Homework: read your sequence as a stranger and mark the first page where it stalls (≤30 min).
+- **Fri 12-10.** Sequencing check. Fix where a stranger stalls. **CS9** marks the sequencing and documentation. Homework: read your sequence as a stranger and mark the first page where it stalls (≤30 min).
 
 ## Assessment
 

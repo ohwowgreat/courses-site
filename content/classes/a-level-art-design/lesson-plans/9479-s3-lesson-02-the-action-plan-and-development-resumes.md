@@ -23,14 +23,14 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | A signed, dated action plan; the first final-outcome candidate compositions underway |
-| Graded | **CS2** Fri 2027-09-10 — composition studies for the outcome candidates (sketchbook). No attainment this week |
+| Graded | **[[classes/a-level-art-design/assessments/9479-s3-assessments\|CS2]]** Fri 2027-09-10 — composition studies for the outcome candidates (sketchbook). No attainment this week |
 | Homework | ≤30 min: composition thumbnails toward the candidates, feeding CS2 |
 
 These dates are projected. They may shift when the school publishes the calendar for this period.
 
 ## Overview
 
-This week has two jobs. First, you turn your summer audit into a written, dated, signed action plan that names pages, pieces, and dates. This plan closes Unit 1 and governs the semester up to submission. Then the development pipeline resumes: you compose final-outcome candidates from your summer production and start building them far enough to be judged. Your graded deliverable is **CS2**, the composition studies for these candidates, due Fri 2027-09-10 in your sketchbook. The candidates you build here feed the choice made in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-03-candidate-compositions-and-the-paper-reopens|Lesson 03]], where two go forward and one is set aside.
+This week has two jobs. First, you turn your summer audit into a written, dated, signed action plan that names pages, pieces, and dates. This plan closes Unit 1 and governs the semester up to submission. Then the development pipeline resumes: you compose final-outcome candidates from your summer production and start building them far enough to be judged. Your graded deliverable is **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS2]]**, the composition studies for these candidates, due Fri 2027-09-10 in your sketchbook. The candidates you build here feed the choice made in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-03-candidate-compositions-and-the-paper-reopens|Lesson 03]], where two go forward and one is set aside.
 
 
 <figure class="plate">
@@ -55,7 +55,7 @@ You compose your final-outcome candidates **from the summer production, not from
 - **Mon 09-06.** Turn the audit's met, missed, and missing list into goals that name pages, pieces, and dates.
 - **Tue 09-07.** Write the action plan: dated, signed, and specific. This closes Unit 1.
 - **Wed 09-08.** Unit 4 resumes. Compose final-outcome candidates from your summer work, not from memory.
-- **Thu–Fri 09-09/10.** Studio: build the candidate compositions over two days, each far enough to judge. **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS2]]** closes the week on Fri 2027-09-10. Homework: up to 30 minutes of composition thumbnails toward the candidates, feeding CS2.
+- **Thu–Fri 09-09/10.** Studio: build the candidate compositions over two days, each far enough to judge. **CS2** closes the week on Fri 2027-09-10. Homework: up to 30 minutes of composition thumbnails toward the candidates, feeding CS2.
 
 ## Review
 

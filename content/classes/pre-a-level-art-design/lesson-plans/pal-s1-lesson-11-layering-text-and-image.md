@@ -30,7 +30,7 @@ modified: 2026-08-05
 |---|---|
 | Focus | Layering (order, edges, transparency) and text as image — the unit's making session |
 | Deliverable | A layering study and a text-and-image study added to the experiment set |
-| Feeds | **CS3 collects the experiment set next week** (W13, 11-25) |
+| Feeds | **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|CS3]] collects the experiment set next week** (W13, 11-25) |
 | Homework | One more experiment at home in any technique; keep harvesting material; MB posting |
 
 

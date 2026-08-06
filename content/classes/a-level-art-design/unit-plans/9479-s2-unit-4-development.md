@@ -47,11 +47,11 @@ Weeks S10–S14 (Mon 2027-04-25 to about 2027-05-29), 22 sessions, across the Ma
 | U4·L19 | Studio: assemble the Stage 6 page | A readable trail of decisions |
 | U4·L20 | Research paper draft 1 completed | Sections into one full draft |
 | U4·L21 | Studio: draft repair and gaps | Fix what the full draft exposed |
-| U4·L22 | **A3: Development milestone** | Development plus draft 1, marked together |
+| U4·L22 | **[[classes/a-level-art-design/assessments/9479-s2-assessments\|A3]]: Development milestone** | Development plus draft 1, marked together |
 
 ## Assessment
 
-You sit **A3 on Fri 2027-05-28**: the development milestone plus research paper draft 1. This covers compositions 1 and 2, the targeted tests, the evaluation, and the Stage 6 page, marked against AO3. This is the last session that gives 14 days before A4. CS tasks: **CS6** Thu 2027-04-29 (paper outline populated), **CS7** Fri 2027-05-14 (paper section drafts), **CS8** Fri 2027-05-21 (targeted tests plus critique response). See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]].
+You sit **A3 on Fri 2027-05-28**: the development milestone plus research paper draft 1. This covers compositions 1 and 2, the targeted tests, the evaluation, and the Stage 6 page, marked against AO3. This is the last session that gives 14 days before [[classes/a-level-art-design/assessments/9479-s2-assessments|A4]]. CS tasks: **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS6]]** Thu 2027-04-29 (paper outline populated), **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS7]]** Fri 2027-05-14 (paper section drafts), **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS8]]** Fri 2027-05-21 (targeted tests plus critique response). See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]].
 
 ## Key content
 

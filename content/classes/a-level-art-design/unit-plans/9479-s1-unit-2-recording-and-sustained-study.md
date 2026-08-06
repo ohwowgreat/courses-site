@@ -35,7 +35,7 @@ Tue 2026-09-15 to Sat 2026-10-10 (W3 to W6), split by the National Day break. Th
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone|A1 Recording]].
 
-You sit **A1 on Fri 2026-10-09**. It is the recording milestone (intention, Stage 1 pages, sustained study, supports), marked against AO1, and it feeds the mid-term grades due Thu 2026-10-29. Three CS tasks inside the unit each give you direct practice for A1: **CS2** on Fri 2026-09-18 (intention and mind map), **CS3** on Thu 2026-09-24 (sustained-study walked check), and **CS4** on Wed 2026-09-30 (recording pages build check). See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]].
+You sit **A1 on Fri 2026-10-09**. It is the recording milestone (intention, Stage 1 pages, sustained study, supports), marked against AO1, and it feeds the mid-term grades due Thu 2026-10-29. Three CS tasks inside the unit each give you direct practice for A1: **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS2]]** on Fri 2026-09-18 (intention and mind map), **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS3]]** on Thu 2026-09-24 (sustained-study walked check), and **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS4]]** on Wed 2026-09-30 (recording pages build check). See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]].
 
 ## Key content
 

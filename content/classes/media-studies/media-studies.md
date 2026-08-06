@@ -61,7 +61,7 @@ These pages are the concept layer of the course. Each page marks what Cambridge 
 
 **Making texts** — [[concepts/production-craft|Production Craft]] · [[concepts/process-evidence-and-reflection|Process Evidence and Reflection]]
 
-**A2 content** — [[concepts/media-regulation|Media Regulation]] · [[concepts/postmodern-media|Postmodern Media]] · [[concepts/power-and-the-media|Power and the Media]] · [[concepts/media-ecology|Media Ecology]]
+**[[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2]] content** — [[concepts/media-regulation|Media Regulation]] · [[concepts/postmodern-media|Postmodern Media]] · [[concepts/power-and-the-media|Power and the Media]] · [[concepts/media-ecology|Media Ecology]]
 
 **Method** — [[concepts/case-study-method|Case Study Method]] · Theory Provenance
 

@@ -22,7 +22,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | The final outcome, built in one sustained run and resolved to a unified surface |
-| Feeds | CS10 mid-production review Fri 2026-12-18 — direct practice for A4 Mon 2026-12-21 (17 days before Thu 2027-01-07; the notice window covers the break) |
+| Feeds | [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS10]] mid-production review Fri 2026-12-18 — direct practice for [[classes/a-level-art-design/assessments/9479-s1-a4-final-portfolio\|A4]] Mon 2026-12-21 (17 days before Thu 2027-01-07; the notice window covers the break) |
 | Homework | Sketchbook during W16; none over the break — the outcome finishes in class and the pages rest |
 
 ## Overview

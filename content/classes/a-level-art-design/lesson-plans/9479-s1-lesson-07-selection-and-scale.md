@@ -22,7 +22,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Media selected and documented; the idea tested at real scale across two days; Stage 3 page laid out |
-| Feeds | CS6 collected Fri 2026-10-23 — direct practice for A2. Autumn Field Trip falls Fri 10-23 or Sat 10-24 |
+| Feeds | [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS6]] collected Fri 2026-10-23 — direct practice for [[classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study\|A2]]. Autumn Field Trip falls Fri 10-23 or Sat 10-24 |
 | Homework | Written annotation: the media selection note drafted at home, refined in class |
 
 ## Overview

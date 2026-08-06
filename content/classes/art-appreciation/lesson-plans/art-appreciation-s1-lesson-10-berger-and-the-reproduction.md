@@ -24,8 +24,8 @@ modified: 2026-08-06
 | | |
 |---|---|
 | Template | STUDY |
-| Deliverable | The caption exercise, plus LB6 and LB7 |
-| Feeds | A4 |
+| Deliverable | The caption exercise, plus [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB6]] and [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB7]] |
+| Feeds | [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis\|A4]] |
 | Homework | *Ways of Seeing*, episode one or the first essay, 30 min, set day 1, due day 3 |
 
 ## Overview

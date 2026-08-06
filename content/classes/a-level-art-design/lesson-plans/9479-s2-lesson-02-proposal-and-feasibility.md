@@ -22,8 +22,8 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | A written proposal — theme, aims, primary-source plan, artist shortlist — stress-tested against the pipeline and defended at consultation 2 |
-| Graded | **CS1** (proposal draft) due Fri 2027-03-05 — the first C3 task, a Course Skills written annotation. The theme locks next week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked\|L03]] |
-| Homework | ≤30 min: act on your consultation-2 feedback and begin the statement of intent + annotated references for **CS2** (Fri 2027-03-12) |
+| Graded | **[[classes/a-level-art-design/assessments/9479-s2-assessments\|CS1]]** (proposal draft) due Fri 2027-03-05 — the first C3 task, a Course Skills written annotation. The theme locks next week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked\|L03]] |
+| Homework | ≤30 min: act on your consultation-2 feedback and begin the statement of intent + annotated references for **[[classes/a-level-art-design/assessments/9479-s2-assessments\|CS2]]** (Fri 2027-03-12) |
 
 ## Overview
 

@@ -22,7 +22,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Twelve media experiments planned and run; evidence-based keep-or-change with rejections named |
-| Graded | **CS4** (twelve experiments documented) Fri 2027-04-02 — a sketchbook task. **A2** (exploration + artist study, AO2+AO3) sits Fri 2027-04-23 |
+| Graded | **[[classes/a-level-art-design/assessments/9479-s2-assessments\|CS4]]** (twelve experiments documented) Fri 2027-04-02 — a sketchbook task. **[[classes/a-level-art-design/assessments/9479-s2-assessments\|A2]]** (exploration + artist study, AO2+AO3) sits Fri 2027-04-23 |
 | Homework | Over the Qingming mock week (S7, 04-04 → 10, no regular classes): an independent sketchbook brief if the school permits |
 
 

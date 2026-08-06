@@ -21,7 +21,7 @@ modified: 2026-08-05
 
 | | |
 |---|---|
-| Deliverable | Artist 2 analyzed against Artist 1; the bridge piece made; a scale trial; Stage 3 pages laid out; A2 sat |
+| Deliverable | Artist 2 analyzed against Artist 1; the bridge piece made; a scale trial; Stage 3 pages laid out; [[classes/a-level-art-design/assessments/9479-s2-assessments\|A2]] sat |
 | Feeds | **A2 Fri 2027-04-23** — exploration and artist study (twelve experiments, media selection, both artist pages, bridge piece, Stage 3 pages), marked against AO2+AO3 |
 | Homework | ≤30 min: after A2, note three development directions the bridge piece and scale trial opened, ahead of Unit 4 in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-09-composition-1\|L09]] |
 
@@ -63,7 +63,7 @@ Lay out the **Stage 3 pages** so your exploration reads as reasoning, not a scra
 
 ## Assessment
 
-You sit **A2** (exploration and artist study) on **Fri 2027-04-23**, marked against AO2+AO3. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. A2 covers the whole of Unit 3 together: the twelve experiments and their media selection, both artist pages, the bridge piece and scale trial, and the Stage 3 pages. Unit 4 opens next week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-09-composition-1|L09]] on composition and the development stage, where the research paper outline is issued. The next attainment, **A3** (development and research paper draft 1, AO3), sits **Fri 2027-05-28**.
+You sit **A2** (exploration and artist study) on **Fri 2027-04-23**, marked against AO2+AO3. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. A2 covers the whole of Unit 3 together: the twelve experiments and their media selection, both artist pages, the bridge piece and scale trial, and the Stage 3 pages. Unit 4 opens next week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-09-composition-1|L09]] on composition and the development stage, where the research paper outline is issued. The next attainment, **[[classes/a-level-art-design/assessments/9479-s2-assessments|A3]]** (development and research paper draft 1, AO3), sits **Fri 2027-05-28**.
 
 ## Review
 

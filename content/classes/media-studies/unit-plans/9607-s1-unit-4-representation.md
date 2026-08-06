@@ -36,8 +36,8 @@ You learn **Representation** as construction, then apply it to your own work. [[
 ## Lessons
 
 - [[classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product|L08 Representation Applied to Your Own Product]]: A2 in; construction vs reflection, Hall's reading positions, stereotyping as power, absence; rough-cut screening and stereotype audit.
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze|L09 The Gaze]]: van Zoonen, Mulvey tested across decade-pairs, bell hooks's oppositional gaze; CS6.
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-10-the-creative-critical-reflection|L10 The Creative Critical Reflection]]: all four CCR questions drafted and redrafted; CS7 review against the C1 criteria.
+- [[classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze|L09 The Gaze]]: van Zoonen, Mulvey tested across decade-pairs, bell hooks's oppositional gaze; [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS6]].
+- [[classes/media-studies/lesson-plans/9607-s1-lesson-10-the-creative-critical-reflection|L10 The Creative Critical Reflection]]: all four CCR questions drafted and redrafted; [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS7]] review against the C1 criteria.
 
 ## Assessment
 
@@ -45,16 +45,16 @@ You learn **Representation** as construction, then apply it to your own work. [[
 
 | Item | Date | What | AO |
 |---|---|---|---|
-| A2 | Mon 2026-10-26 | C1 blog mid-point: posts 1–7, by URL | AO3 |
-| LB3 | Tue 2026-11-03 | Screening participation, peer response quality | — |
-| CS6 | Fri 2026-11-13 | Representation close-reading paragraph, theorist embedded | AO2 |
-| CS7 | Wed 2026-11-18 | CCR draft review against C1 criteria — direct practice for A3 | AO2 |
+| [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point\|A2]] | Mon 2026-10-26 | C1 blog mid-point: posts 1–7, by URL | AO3 |
+| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB3]] | Tue 2026-11-03 | Screening participation, peer response quality | — |
+| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS6]] | Fri 2026-11-13 | Representation close-reading paragraph, theorist embedded | AO2 |
+| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS7]] | Wed 2026-11-18 | CCR draft review against C1 criteria — direct practice for [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio\|A3]] | AO2 |
 
-A3 is announced Fri 11-13 and due Fri 11-27, inside Unit 5. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+[[classes/media-studies/assessments/9607-s1-a3-c1-portfolio|A3]] is announced Fri 11-13 and due Fri 11-27, inside Unit 5. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
 ## Key content
 
 - Theorists: Hall (encoding/decoding: dominant, negotiated, oppositional), van Zoonen (gender as performance), Mulvey (the three looks), bell hooks (the oppositional gaze).
 - Analytical moves: construction vs reflection; who a stereotype works for; absence and selective construction; readings the text did not invite.
 - C1 milestones: rough cut screened as an audience sees it; stereotype audit with fix list ([[classes/media-studies/assessments/9607-s1-course-skills-and-homework|LB3]] evidence); complete CCR redraft posted. Cut every sentence that describes instead of reflects.
-- ESL support: a theorist sentence-starters card for [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS6]] is on every desk.
+- ESL support: a theorist sentence-starters card for CS6 is on every desk.

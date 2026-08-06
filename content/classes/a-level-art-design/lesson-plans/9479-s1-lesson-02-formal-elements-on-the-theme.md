@@ -22,7 +22,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Formal elements study set (line, tone and form, texture, color) and Recording Page 1; digital portfolio set up |
-| Feeds | CS1 collected Mon 2026-09-14 — practice for A1 |
+| Feeds | [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS1]] collected Mon 2026-09-14 — practice for [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone\|A1]] |
 | Homework | Sketchbook: one further study per night from the theme, alternating element; ten minutes each, dated |
 
 ## Overview

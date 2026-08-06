@@ -22,7 +22,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Composition 2 composed, built across two days, and resolved to the same standard as composition 1; research paper sections drafted against the outline |
-| Graded | **CS7** (research paper section drafts) Fri 2027-05-14 — written annotation. **A3** (development + paper draft 1, AO3) sits Fri 2027-05-28 |
+| Graded | **[[classes/a-level-art-design/assessments/9479-s2-assessments\|CS7]]** (research paper section drafts) Fri 2027-05-14 — written annotation. **[[classes/a-level-art-design/assessments/9479-s2-assessments\|A3]]** (development + paper draft 1, AO3) sits Fri 2027-05-28 |
 | Homework | ≤30 min: annotate toward next week's critique; bring both compositions ready to compare |
 
 ## Overview

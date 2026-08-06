@@ -38,7 +38,7 @@ Weeks W1–W2, Wed 2027-09-01 to about 2027-09-08, 5 sessions. These dates are p
 
 ## Assessment
 
-No attainment tasks fall in this unit. The first, **A1**, sits Thu 2027-10-14 in [[classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass|Unit 4]]. One CS task falls here: **CS1** on Fri 2027-09-03. It is a summer portfolio audit against the set targets, marked piece by piece. See the [[classes/a-level-art-design/assessments/9479-s3-assessments|full register]].
+No attainment tasks fall in this unit. The first, **[[classes/a-level-art-design/assessments/9479-s3-assessments|A1]]**, sits Thu 2027-10-14 in [[classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass|Unit 4]]. One CS task falls here: **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS1]]** on Fri 2027-09-03. It is a summer portfolio audit against the set targets, marked piece by piece. See the [[classes/a-level-art-design/assessments/9479-s3-assessments|full register]].
 
 ## Key content
 

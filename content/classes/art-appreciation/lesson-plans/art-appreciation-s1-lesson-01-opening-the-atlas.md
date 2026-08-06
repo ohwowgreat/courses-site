@@ -23,8 +23,8 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Template | MAKE |
-| Deliverable | CS1 darkroom reflection |
-| Feeds | A1 |
+| Deliverable | [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|CS1]] darkroom reflection |
+| Feeds | [[classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board\|A1]] |
 
 ## Overview
 

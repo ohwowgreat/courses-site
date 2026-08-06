@@ -25,11 +25,11 @@ Dates marked with ≈ or "projected" may shift when the school publishes the cal
 
 | Assessment | Date | Task |
 |---|---|---|
-| A1 | Wed 2026-10-14 | Timed media-language analysis, unseen extract, 60 min |
-| A2 | Mon 2026-10-26 | C1 blog mid-point: posts 1–7 |
-| A3 | Fri 2026-11-27 | **C1 complete** — product + CCR + blog; no edits after |
-| A4 | Wed 2026-12-16 | C2 Section A, authentic format; sets your **Forecast Grade** |
-| EoT | window 2027-01-11 → 01-18 | Full Component 2 paper, 2 hours |
+| [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]] | Wed 2026-10-14 | Timed media-language analysis, unseen extract, 60 min |
+| [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point\|A2]] | Mon 2026-10-26 | C1 blog mid-point: posts 1–7 |
+| [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio\|A3]] | Fri 2026-11-27 | **C1 complete** — product + CCR + blog; no edits after |
+| [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format\|A4]] | Wed 2026-12-16 | C2 Section A, authentic format; sets your **Forecast Grade** |
+| [[classes/media-studies/assessments/9607-s1-eot-component-2-paper\|EoT]] | window 2027-01-11 → 01-18 | Full Component 2 paper, 2 hours |
 
 Full detail: [[classes/media-studies/unit-plans/9607-semester-1-plan|Semester 1 Plan]] · [[classes/media-studies/assessments/9607-s1-assessments|S1 Assessments]].
 

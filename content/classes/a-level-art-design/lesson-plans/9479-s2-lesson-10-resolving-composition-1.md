@@ -22,7 +22,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Composition 1 resolved and honestly documented — photographed and laid out |
-| Graded | Nothing graded this week. **CS7** (paper section drafts) is Fri 2027-05-14 in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-11-composition-2-and-paper-drafts\|Lesson 11]] |
+| Graded | Nothing graded this week. **[[classes/a-level-art-design/assessments/9479-s2-assessments\|CS7]]** (paper section drafts) is Fri 2027-05-14 in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-11-composition-2-and-paper-drafts\|Lesson 11]] |
 | Homework | ≤30 min: prepare composition 2 from your rejected-alternative studies, ahead of Lesson 11 |
 
 ## Overview
@@ -50,7 +50,7 @@ This is a short week around the May Day break, with one job: bring composition 1
 
 ## Assessment
 
-Nothing is graded this reduced week. Composition 1, resolved and documented, is the first half of the development comparison. Composition 2, the rejected alternative tried with equal effort, begins next week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-11-composition-2-and-paper-drafts|Lesson 11]], where **CS7** (paper section drafts) is due Fri 2027-05-14. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. **A3** (development + research paper draft 1, AO3) sits Fri 2027-05-28. These spring dates may shift when the school publishes the calendar for that period.
+Nothing is graded this reduced week. Composition 1, resolved and documented, is the first half of the development comparison. Composition 2, the rejected alternative tried with equal effort, begins next week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-11-composition-2-and-paper-drafts|Lesson 11]], where **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS7]]** (paper section drafts) is due Fri 2027-05-14. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. **[[classes/a-level-art-design/assessments/9479-s2-assessments|A3]]** (development + research paper draft 1, AO3) sits Fri 2027-05-28. These spring dates may shift when the school publishes the calendar for that period.
 
 ## Review
 

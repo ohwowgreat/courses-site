@@ -23,12 +23,12 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | The evaluation drafted in writing; the Stage 6 page assembled; the chosen candidate up before the break |
-| Graded | No attainment. **A1 and A2 are both announced Thu 2027-09-30** (see below) |
+| Graded | No attainment. **[[classes/a-level-art-design/assessments/9479-s3-assessments\|A1]] and [[classes/a-level-art-design/assessments/9479-s3-assessments\|A2]] are both announced Thu 2027-09-30** (see below) |
 | Homework | Over the break, ≤30 min total: a written note on what still needs closing on the chosen candidate, for the gap-repair session |
 
 ## Overview
 
-This lesson closes out your development work before the National Day break. You draft your evaluation in writing, you assemble your Stage 6 page as a decision trail, and you bring your chosen candidate up to standard so it is ready when you return. A1 and A2 are both announced on Thu 2027-09-30. The work here feeds the development milestone, A1, in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-06-a1-the-development-milestone|L06]]. These dates are projected and may shift when the school publishes the calendar for this period.
+This lesson closes out your development work before the National Day break. You draft your evaluation in writing, you assemble your Stage 6 page as a decision trail, and you bring your chosen candidate up to standard so it is ready when you return. [[classes/a-level-art-design/assessments/9479-s3-assessments|A1]] and [[classes/a-level-art-design/assessments/9479-s3-assessments|A2]] are both announced on Thu 2027-09-30. The work here feeds the development milestone, A1, in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-06-a1-the-development-milestone|L06]]. These dates are projected and may shift when the school publishes the calendar for this period.
 
 
 <figure class="plate">
@@ -50,7 +50,7 @@ Your **chosen candidate** is the option you carry forward. Bring it up to standa
 
 ### A1 and A2
 
-The **14-day rule** means an assessment is announced at least 14 days before it falls. Thu 2027-09-30 is the last session that clears the 14-day rule for both [[classes/a-level-art-design/assessments/9479-s3-assessments|A1]] and [[classes/a-level-art-design/assessments/9479-s3-assessments|A2]] before the holiday, because the National Day break sits inside both windows. Both notices go out that day.
+The **14-day rule** means an assessment is announced at least 14 days before it falls. Thu 2027-09-30 is the last session that clears the 14-day rule for both A1 and A2 before the holiday, because the National Day break sits inside both windows. Both notices go out that day.
 
 ## Day by day
 

@@ -33,8 +33,8 @@ modified: 2026-08-03
 | | |
 |---|---|
 | Band/Unit | U4 Representation ([[classes/media-studies/unit-plans/9607-s1-unit-4-representation\|S1 Unit 4]]) |
-| Deliverable | A2 submitted day 1; stereotype audit of their own rough cut, evidenced for LB3 |
-| Feeds | A3 |
+| Deliverable | [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point\|A2]] submitted day 1; stereotype audit of their own rough cut, evidenced for [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB3]] |
+| Feeds | [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio\|A3]] |
 | Homework | Production pickups identified by the audit |
 
 ## Overview

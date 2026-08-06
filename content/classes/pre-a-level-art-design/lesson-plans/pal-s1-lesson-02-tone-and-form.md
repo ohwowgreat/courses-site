@@ -30,7 +30,7 @@ modified: 2026-08-05
 |---|---|
 | Focus | Value; building form with tone, not outline |
 | Deliverable | 10-step value scale; one shaded-form study from the chart; one tonal study of a lit object |
-| Feeds | CS1 (the exercise-set check, W4) — the value scale and tonal study are two of its four pieces |
+| Feeds | [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|CS1]] (the exercise-set check, W4) — the value scale and tonal study are two of its four pieces |
 | Homework | Two tonal studies of one home object in two different lightings; MB posting |
 
 ## Overview

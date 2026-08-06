@@ -33,8 +33,8 @@ modified: 2026-08-03
 | | |
 |---|---|
 | Band/Unit | U2 Media Language ([[classes/media-studies/unit-plans/9607-s1-unit-2-media-language\|S1 Unit 2]]) |
-| Deliverable | CS2 annotated media text from daily life |
-| Feeds | A1 |
+| Deliverable | [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS2]] annotated media text from daily life |
+| Feeds | [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]] |
 | Homework | CS2 annotation task (set day 1, 72-hour rule), capped at 30 min per day |
 
 ## Overview

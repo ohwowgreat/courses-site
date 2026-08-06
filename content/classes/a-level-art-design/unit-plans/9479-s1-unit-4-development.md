@@ -36,7 +36,7 @@ Wed 2026-11-11 → Fri 2026-12-11 (W11 → W15), around the second G11 Juniors D
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/a-level-art-design/assessments/9479-s1-a3-development-milestone|A3 Development]].
 
-This unit gates on **A3, Thu 2026-12-10**, the development milestone (compositions 1 and 2, targeted tests, written evaluation, final composition plan), marked against AO3. CS tasks: **CS8** Fri 2026-11-20 (both compositions photographed and laid out) and **CS9** Fri 2026-11-27 (targeted tests and critique response). Both are direct practice for A3. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]].
+This unit gates on **A3, Thu 2026-12-10**, the development milestone (compositions 1 and 2, targeted tests, written evaluation, final composition plan), marked against AO3. CS tasks: **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS8]]** Fri 2026-11-20 (both compositions photographed and laid out) and **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS9]]** Fri 2026-11-27 (targeted tests and critique response). Both are direct practice for A3. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]].
 
 ## Key content
 

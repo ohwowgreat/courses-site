@@ -36,11 +36,11 @@ Weeks S2–S3 (2028-02-27 to about 2028-03-11), 10 sessions. These dates are pro
 | U2·L6–L7 | Studio: sustained study (2-day session) | Pushed past comfortable |
 | U2·L8 | Critical annotation | What the recording taught about the question |
 | U2·L9 | Recording pages build | AO1 obvious without explanation |
-| U2·L10 | **A1: Recording milestone** | All recording on the chosen question |
+| U2·L10 | **[[classes/a-level-art-design/assessments/9479-s4-assessments\|A1]]: Recording milestone** | All recording on the chosen question |
 
 ## Assessment
 
-**A1** falls on **Fri 2028-03-10**: the recording milestone, marked against AO1. It covers your locked question with rationale, your intention, your sustained study, and your recording pages. Two CS tasks lead into it: **CS2** on Fri 2028-03-03 (intention, thumbnails and shoot plan), and **CS3** on Thu 2028-03-09 (sustained study progress check, the day before A1). See the [[classes/a-level-art-design/assessments/9479-s4-assessments|full register]].
+**A1** falls on **Fri 2028-03-10**: the recording milestone, marked against AO1. It covers your locked question with rationale, your intention, your sustained study, and your recording pages. Two CS tasks lead into it: **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS2]]** on Fri 2028-03-03 (intention, thumbnails and shoot plan), and **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS3]]** on Thu 2028-03-09 (sustained study progress check, the day before A1). See the [[classes/a-level-art-design/assessments/9479-s4-assessments|full register]].
 
 ## Key content
 

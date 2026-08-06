@@ -31,7 +31,7 @@ modified: 2026-08-03
 | | |
 |---|---|
 | Band/Unit | U5 Media Contexts ([[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts\|S1 Unit 5]]) |
-| Deliverable | A3 portfolio submitted Fri 11-27 (product, CCR, blog); response-to-feedback target set day 6 (LB4) |
+| Deliverable | [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio\|A3]] portfolio submitted Fri 11-27 (product, CCR, blog); response-to-feedback target set day 6 ([[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB4]]) |
 | Feeds | Component 1 grade; Semester 2 production targets |
 | Homework | None across the submission; feedback response after |
 

@@ -30,7 +30,7 @@ modified: 2026-08-05
 |---|---|
 | Focus | The main theme shoot; then the contact-sheet edit — "shoot many, keep few, know why" |
 | Deliverable | ≥20 new theme frames; a contact sheet with 12 selects and 6–8 series candidates marked |
-| Feeds | **CS2 collected this session** (composition set + contact-sheet edit); everything feeds A2 next week |
+| Feeds | **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|CS2]] collected this session** (composition set + contact-sheet edit); everything feeds [[classes/pre-a-level-art-design/assessments/pal-s1-a2-photographic-series\|A2]] next week |
 | Homework | Finish edits on the 6–8 candidates; draft a sequence order; MB posting |
 
 ## Overview

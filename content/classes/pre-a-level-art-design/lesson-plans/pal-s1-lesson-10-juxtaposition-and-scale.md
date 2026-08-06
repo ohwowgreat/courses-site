@@ -30,7 +30,7 @@ modified: 2026-08-05
 |---|---|
 | Focus | What collage is; juxtaposition and scale — "two images say a third thing" |
 | Deliverable | Vocabulary in the sketchbook; two fast cut-and-paste studies (one juxtaposition, one scale) |
-| Feeds | The experiment set that CS3 checks (W13) starts today |
+| Feeds | The experiment set that [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|CS3]] checks (W13) starts today |
 | Homework | Collect raw material — old magazines, printed photos (including your own U2 frames), packaging, tickets; ≥20 usable images by next week; MB posting |
 
 ## Overview

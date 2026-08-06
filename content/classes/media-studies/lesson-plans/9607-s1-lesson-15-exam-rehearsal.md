@@ -31,7 +31,7 @@ modified: 2026-08-03
 | | |
 |---|---|
 | Band/Unit | U6 Revision ([[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation\|S1 Unit 6]]) |
-| Deliverable | CS9 timed Section B script, 45 min, peer-marked then moderated |
+| Deliverable | [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS9]] timed Section B script, 45 min, peer-marked then moderated |
 | Feeds | End of Term Exam |
 | Homework | Individual revision from the marked CS9 and the matrix; no new tasks |
 

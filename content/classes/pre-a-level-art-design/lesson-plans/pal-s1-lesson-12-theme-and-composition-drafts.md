@@ -30,7 +30,7 @@ modified: 2026-08-05
 |---|---|
 | Focus | Meaning; a main idea chosen; two composition drafts for the final collage |
 | Deliverable | A written main idea + two dry-fit drafts, one circled with a reason |
-| Feeds | **CS3 collected this session** (the experiment set) (sits W15, 12-09) |
+| Feeds | **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|CS3]] collected this session** (the experiment set) (sits W15, 12-09) |
 | Homework | Gather any missing material your chosen draft needs; MB posting |
 
 ## Overview

@@ -37,11 +37,11 @@ Weeks S4–S5, about 2028-03-12 to 2028-03-25, 10 sessions. These dates are proj
 | U3·L7 | Studio: bridge piece | From study into development |
 | U3·L8 | Studio: scale trial | At the test scale; fix what broke |
 | U3·L9 | Exploration pages | Reasoning, not a swatch chart |
-| U3·L10 | **A2: Exploration and artist study** | The whole unit, marked together |
+| U3·L10 | **[[classes/a-level-art-design/assessments/9479-s4-assessments\|A2]]: Exploration and artist study** | The whole unit, marked together |
 
 ## Assessment
 
-You sit **A2 on Fri 2028-03-24**: exploration and artist study (experiments, media selection, two artists with visible work responses, bridge piece, scale trial), marked against AO2+AO3. Two CS tasks come first: **CS4** on Fri 2028-03-17 (experiment documentation and artist 1 response), and **CS5** on Tue 2028-03-21 (artist pages and bridge piece check). See the [[classes/a-level-art-design/assessments/9479-s4-assessments|full register]].
+You sit **A2 on Fri 2028-03-24**: exploration and artist study (experiments, media selection, two artists with visible work responses, bridge piece, scale trial), marked against AO2+AO3. Two CS tasks come first: **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS4]]** on Fri 2028-03-17 (experiment documentation and artist 1 response), and **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS5]]** on Tue 2028-03-21 (artist pages and bridge piece check). See the [[classes/a-level-art-design/assessments/9479-s4-assessments|full register]].
 
 ## Key content
 

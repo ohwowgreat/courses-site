@@ -23,14 +23,14 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Every student presents and defends the investigation in a viva-style critique, then fixes what breaks — nothing new started |
-| Graded | No attainment. **CS10** Thu 2027-12-16 (presentation critique response, answered in writing) |
+| Graded | No attainment. **[[classes/a-level-art-design/assessments/9479-s3-assessments\|CS10]]** Thu 2027-12-16 (presentation critique response, answered in writing) |
 | Homework | ≤30 min: write the answer to the hardest question the critique put to you |
 
 These dates are projected. They may shift when the school publishes the calendar for this period.
 
 ## Overview
 
-This week is the dress rehearsal for your submission and for any interview. You present and defend your whole investigation, the process, the research, and the outcomes, in a viva-style critique. Then you act on what the critique exposes: change what broke, log what held. You produce **CS10**, your critique response, answered in writing on Thu 2027-12-16. From this point you start nothing new. The remaining sessions are refinement toward A4, the complete investigation, due Wed 2027-12-22 in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-14-a4-the-complete-investigation|Lesson 14]].
+This week is the dress rehearsal for your submission and for any interview. You present and defend your whole investigation, the process, the research, and the outcomes, in a viva-style critique. Then you act on what the critique exposes: change what broke, log what held. You produce **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS10]]**, your critique response, answered in writing on Thu 2027-12-16. From this point you start nothing new. The remaining sessions are refinement toward [[classes/a-level-art-design/assessments/9479-s3-assessments|A4]], the complete investigation, due Wed 2027-12-22 in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-14-a4-the-complete-investigation|Lesson 14]].
 
 
 <figure class="plate">
@@ -48,14 +48,14 @@ Every decision you name in the viva must be **visible on a page**. A defense the
 
 ### Fixing what breaks
 
-After the critique you act on what it exposes. Change what broke. Log what held. **Nothing new starts after the critique.** The run to [[classes/a-level-art-design/assessments/9479-s3-assessments|A4]] is refinement, not fresh work, so from here you make last touches only.
+After the critique you act on what it exposes. Change what broke. Log what held. **Nothing new starts after the critique.** The run to A4 is refinement, not fresh work, so from here you make last touches only.
 
 ## Day by day
 
 - **Mon 12-13.** Prepare your presentation. Speak the process, the research, and the outcomes out loud, the case for your investigation.
 - **Tue 12-14.** Final critique presentations begin: defend your decisions, take questions, trace every claim to a page.
 - **Wed 12-15.** Critique presentations continue, the second day of the run.
-- **Thu 12-16.** Act on the critique: change what broke, log what held. You produce **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS10]]**, the critique response, answered in writing.
+- **Thu 12-16.** Act on the critique: change what broke, log what held. You produce **CS10**, the critique response, answered in writing.
 - **Fri 12-17.** Studio time for final refinement. Nothing new starts now, last touches only, toward the A4 submission.
 
 Homework: in up to 30 minutes, write the answer to the hardest question the critique put to you.

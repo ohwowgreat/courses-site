@@ -24,7 +24,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Template | ASSESSED |
-| Deliverable | A2: Unit 2 comparative essay |
+| Deliverable | [[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison\|A2]]: Unit 2 comparative essay |
 | Feeds | Mid-term grades, due Thu 2026-10-29 |
 | Homework | Reading on Olympia's reception, 30 min, set day 4, due day 6 |
 

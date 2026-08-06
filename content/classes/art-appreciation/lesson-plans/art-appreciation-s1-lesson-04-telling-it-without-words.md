@@ -24,8 +24,8 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Template | MAKE |
-| Deliverable | CS2 ten-frame storyboard, set as the break homework |
-| Feeds | A2 |
+| Deliverable | [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|CS2]] ten-frame storyboard, set as the break homework |
+| Feeds | [[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison\|A2]] |
 | Homework | BREAK HOMEWORK: the ten-frame sequence, 3–4 h across the twelve-day holiday, set day 8 |
 
 ## Overview

@@ -33,7 +33,7 @@ modified: 2026-08-03
 | | |
 |---|---|
 | Band/Unit | U3 Macro and Textual Analysis ([[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis\|S1 Unit 3]]) |
-| Deliverable | A1 script: timed media language analysis of an unseen extract |
+| Deliverable | [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]] script: timed media language analysis of an unseen extract |
 | Feeds | AS Component 2 Section A |
 | Homework | None: attainment week |
 

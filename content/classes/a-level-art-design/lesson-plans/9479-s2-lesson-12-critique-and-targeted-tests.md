@@ -22,7 +22,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Both compositions critiqued against the intention; the critique acted on; targeted tests on what is unresolved; the final direction chosen with the rejection written out |
-| Graded | **CS8** (targeted tests + critique response) Fri 2027-05-21 — sketchbook. **A3** (development + paper draft 1, AO3) sits Fri 2027-05-28 |
+| Graded | **[[classes/a-level-art-design/assessments/9479-s2-assessments\|CS8]]** (targeted tests + critique response) Fri 2027-05-21 — sketchbook. **[[classes/a-level-art-design/assessments/9479-s2-assessments\|A3]]** (development + paper draft 1, AO3) sits Fri 2027-05-28 |
 | Homework | ≤30 min: write evaluation notes toward A3 and consolidate the paper draft, ahead of [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-13-evaluation-draft-1-and-a3\|Lesson 13]] |
 
 ## Overview

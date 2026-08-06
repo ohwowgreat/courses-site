@@ -23,7 +23,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Supervised gap repair on what QC named; final checks against the specification; C1, C2 and C3 submitted together to the exam board; the portfolio photographed for student records |
-| Graded | **CS8** Thu 2028-04-27 (portfolio photography for student records). No attainment this week |
+| Graded | **[[classes/a-level-art-design/assessments/9479-s4-assessments\|CS8]]** Thu 2028-04-27 (portfolio photography for student records). No attainment this week |
 | Homework | None beyond keeping a personal record of the photographed portfolio |
 
 ## Overview

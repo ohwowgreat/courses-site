@@ -22,7 +22,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Outcome 1 resolved and photographed to examiner standard; the research paper at final text, every claim evidenced |
-| Graded | No attainment. Runs toward **A3** Mon 2027-11-15 in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-10-a3-the-research-paper-and-outcome-2-opens\|L10]] |
+| Graded | No attainment. Runs toward **[[classes/a-level-art-design/assessments/9479-s3-assessments\|A3]]** Mon 2027-11-15 in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-10-a3-the-research-paper-and-outcome-2-opens\|L10]] |
 | Homework | ≤30 min: the integration check, list any paper claim not yet pointing at a real page |
 
 ## Overview

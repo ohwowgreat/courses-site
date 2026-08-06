@@ -23,7 +23,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Template | BESPOKE |
-| Deliverable | Semester 2 goals, plus LB9 |
+| Deliverable | Semester 2 goals, plus [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB9]] |
 | Feeds | Semester 2 |
 | Homework | None |
 

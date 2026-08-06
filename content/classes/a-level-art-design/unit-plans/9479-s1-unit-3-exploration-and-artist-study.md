@@ -36,7 +36,7 @@ Mon 2026-10-12 to Tue 2026-11-10 (W7 to W11). The G11 Juniors Days fall on Wed t
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study|A2 Exploration & Artist Study]].
 
-You gate on **A2, Mon 2026-11-09**: exploration and artist study (twelve experiments, media selection, scale trial, artist pages, bridge piece), marked against AO2 and AO3. CS tasks give you direct practice for A2: **CS5** Fri 2026-10-16 (experiments documented), **CS6** Fri 2026-10-23 (Stage 3 page and selection note), **CS7** Fri 2026-10-30 (artist pages). See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]].
+You gate on **A2, Mon 2026-11-09**: exploration and artist study (twelve experiments, media selection, scale trial, artist pages, bridge piece), marked against AO2 and AO3. CS tasks give you direct practice for A2: **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS5]]** Fri 2026-10-16 (experiments documented), **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS6]]** Fri 2026-10-23 (Stage 3 page and selection note), **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS7]]** Fri 2026-10-30 (artist pages). See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]].
 
 ## Key content
 

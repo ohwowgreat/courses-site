@@ -32,7 +32,7 @@ modified: 2026-08-03
 | | |
 |---|---|
 | Band/Unit | U2 Media Language ([[classes/media-studies/unit-plans/9607-s1-unit-2-media-language\|S1 Unit 2]]) |
-| Deliverable | CS4 genre and camera analytical paragraph — direct practice for A1; equipment decision logged per production group |
+| Deliverable | [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS4]] genre and camera analytical paragraph — direct practice for [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]]; equipment decision logged per production group |
 | Feeds | A1 · the break production window ([[classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock\|L05]]) |
 | Homework | None set: holiday week boundary |
 

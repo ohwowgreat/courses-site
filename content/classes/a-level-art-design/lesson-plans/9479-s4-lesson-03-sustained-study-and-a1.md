@@ -23,7 +23,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | The sustained study pushed past comfortable; critical annotation tying the recording to the question; the recording milestone |
-| Graded | **CS3** Thu 2028-03-09 (sustained study progress check) Thu 2028-03-09 · **A1** Fri 2028-03-10 (AO1) |
+| Graded | **[[classes/a-level-art-design/assessments/9479-s4-assessments\|CS3]]** Thu 2028-03-09 (sustained study progress check) Thu 2028-03-09 · **[[classes/a-level-art-design/assessments/9479-s4-assessments\|A1]]** Fri 2028-03-10 (AO1) |
 | Homework | ≤30 min (capped): one line per recording page — what it taught about the question |
 
 
@@ -34,7 +34,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson is the recording milestone for your chosen question. You run a sustained study, build recording pages, and annotate what the recording taught you. Your deliverable is a set of pages that make AO1 obvious without explanation, and on Fri 2028-03-10 you sit **A1**, where all your recording on the chosen question is marked against AO1. This feeds into exploration in [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-04-exploration-and-artist-1|L04]]. These dates are projected and may shift when the school publishes the calendar.
+This lesson is the recording milestone for your chosen question. You run a sustained study, build recording pages, and annotate what the recording taught you. Your deliverable is a set of pages that make AO1 obvious without explanation, and on Fri 2028-03-10 you sit **[[classes/a-level-art-design/assessments/9479-s4-assessments|A1]]**, where all your recording on the chosen question is marked against AO1. This feeds into exploration in [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-04-exploration-and-artist-1|L04]]. These dates are projected and may shift when the school publishes the calendar.
 
 ## The ideas
 
@@ -53,7 +53,7 @@ This lesson is the recording milestone for your chosen question. You run a susta
 - **Mon 03-06 / Tue 03-07.** Studio: the sustained study runs across two days, pushed past comfortable to show duration.
 - **Wed 03-08.** Build your recording pages so AO1 is obvious without explanation.
 - **Thu 03-09.** Add critical annotation: what the recording taught about the question. You sit **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS3]]**, the sustained study progress check. **[[classes/a-level-art-design/assessments/9479-s4-assessments|A2]]** is announced today. Homework (≤30 min): one line per recording page on what it taught about the question.
-- **Fri 03-10.** You sit **[[classes/a-level-art-design/assessments/9479-s4-assessments|A1]]**, the recording milestone: all recording on your chosen question, with locked question and rationale, intention, sustained study, and recording pages, marked against AO1.
+- **Fri 03-10.** You sit **A1**, the recording milestone: all recording on your chosen question, with locked question and rationale, intention, sustained study, and recording pages, marked against AO1.
 
 ## Review
 

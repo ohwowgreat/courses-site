@@ -21,7 +21,7 @@ modified: 2026-08-05
 
 | | |
 |---|---|
-| Deliverable | Mid-point portfolio photographed, sequenced, edited, QC'd and submitted; A4 sat |
+| Deliverable | Mid-point portfolio photographed, sequenced, edited, QC'd and submitted; [[classes/a-level-art-design/assessments/9479-s2-assessments\|A4]] sat |
 | Feeds | **A4 Fri 2027-06-11** — mid-point portfolio (recording, exploration, artists, development, one resolved piece, research paper draft), marked against AO1–AO4; no edits after |
 | Homework | After A4, the semester reflection. The summer production briefing (S18) then sets teacher targets for the summer — the largest uninterrupted C3 window before S3 |
 

@@ -32,8 +32,8 @@ modified: 2026-08-03
 | | |
 |---|---|
 | Band/Unit | U1 Introduction ([[classes/media-studies/unit-plans/9607-s1-unit-1-introduction\|S1 Unit 1]]) |
-| Deliverable | CS1 analytical paragraph — denotation only, written Friday |
-| Feeds | A1 (the denotation discipline is the foundation A1 is marked on) |
+| Deliverable | [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS1]] analytical paragraph — denotation only, written Friday |
+| Feeds | [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]] (the denotation discipline is the foundation A1 is marked on) |
 | Homework | D1: the 24-hour media-use log + blog set-up begun · D2: digital-identity mind map · all week: EN/ZH lexicon (≥5 entries by Friday) |
 
 ## Overview

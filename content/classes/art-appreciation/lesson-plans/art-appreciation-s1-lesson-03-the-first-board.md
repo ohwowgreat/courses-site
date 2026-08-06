@@ -24,7 +24,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Template | PRODUCTION |
-| Deliverable | A1: Unit 1 board and justification |
+| Deliverable | [[classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board\|A1]]: Unit 1 board and justification |
 | Feeds | The whole course — "this is the move every unit repeats" |
 | Homework | Gather candidate images, 30 min/night, days 1–3 |
 

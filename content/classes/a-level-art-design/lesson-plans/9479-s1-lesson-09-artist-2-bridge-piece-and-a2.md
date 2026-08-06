@@ -21,7 +21,7 @@ modified: 2026-08-05
 
 | | |
 |---|---|
-| Deliverable | A second artist set against the first; the bridge piece made and finished; A2 sat; one defensible direction |
+| Deliverable | A second artist set against the first; the bridge piece made and finished; [[classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study\|A2]] sat; one defensible direction |
 | Feeds | **A2 Mon 2026-11-09**: exploration and artist study, marked against AO2+AO3 |
 | Homework | Sketchbook: finish the bridge piece across the six-day Juniors Days gap — the deliberate finishing window |
 

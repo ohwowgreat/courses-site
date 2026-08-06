@@ -39,7 +39,7 @@ These dates may shift when the school publishes the calendar for this period.
 ## Lessons
 
 - [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-01-opening-the-atlas|Lesson 01: Opening the Atlas]] — 3 days; the atlas method aloud, look before you explain, then the darkroom; CS1.
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-02-what-survives-and-why|Lesson 02: What Survives, and Why]] — 6 days; Lascaux and Chauvet argued from the wall; LB1.
+- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-02-what-survives-and-why|Lesson 02: What Survives, and Why]] — 6 days; Lascaux and Chauvet argued from the wall; [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB1]].
 - [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-03-the-first-board|Lesson 03: The First Board]] — 5 days; Neolithic and ritual objects, constellation workshop, then the A1 board build and justification.
 
 ## Assessment
@@ -48,8 +48,8 @@ These dates may shift when the school publishes the calendar for this period.
 
 | Item | Date | What |
 |---|---|---|
-| CS1 | Fri 2026-09-04 | Darkroom reflection, written in the room |
-| LB1 | Fri 2026-09-11 | Seminar posting: take a position and move it |
-| **A1 sits** | **Fri 2026-09-18** | Unit 1 board and justification — every adjacency justified |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|CS1]] | Fri 2026-09-04 | Darkroom reflection, written in the room |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB1]] | Fri 2026-09-11 | Seminar posting: take a position and move it |
+| **[[classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board\|A1]] sits** | **Fri 2026-09-18** | Unit 1 board and justification — every adjacency justified |
 
 Full detail in the [[classes/art-appreciation/assessments/art-appreciation-s1-assessments|full register]].

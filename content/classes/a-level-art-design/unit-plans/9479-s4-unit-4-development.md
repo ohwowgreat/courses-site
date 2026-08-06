@@ -33,12 +33,12 @@ Week S6 plus the elastic window. The coded sessions run 2028-03-26 to 2028-03-31
 | U4·L2 | Draft comparison page | Rejections articulated in writing |
 | U4·L3 | Final composition plan | Nothing invented under supervision |
 | U4·L4 | Supporting studies completed | Every gap closed |
-| U4·L5 | **A3: Complete supporting studies — content close** | Comparison page, plan, mounted order. |
+| U4·L5 | **[[classes/a-level-art-design/assessments/9479-s4-assessments\|A3]]: Complete supporting studies — content close** | Comparison page, plan, mounted order. |
 | *Elastic (S7)* | Reading B window | All four teaching days go to refinement and rehearsal |
 
 ## Assessment
 
-**A3** is due **Fri 2028-03-31**. You submit your complete supporting studies: the draft comparison page with rejections written out, the final composition plan, and the mounted order. It is marked against AO3 and AO4. This is the content close. Nothing new is taught after it. One CS task: **CS6** on Thu 2028-03-30 (composition critique response plus draft comparison page). See the [[classes/a-level-art-design/assessments/9479-s4-assessments|full register]].
+**A3** is due **Fri 2028-03-31**. You submit your complete supporting studies: the draft comparison page with rejections written out, the final composition plan, and the mounted order. It is marked against AO3 and AO4. This is the content close. Nothing new is taught after it. One CS task: **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS6]]** on Thu 2028-03-30 (composition critique response plus draft comparison page). See the [[classes/a-level-art-design/assessments/9479-s4-assessments|full register]].
 
 ## Key content
 

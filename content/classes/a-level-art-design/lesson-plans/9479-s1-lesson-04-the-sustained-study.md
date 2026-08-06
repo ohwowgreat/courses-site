@@ -22,7 +22,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Stage 1 page composed; the sustained observed study carried across two days; supporting color and texture studies |
-| Feeds | CS3 progress check Thu 2026-09-24 |
+| Feeds | [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS3]] progress check Thu 2026-09-24 |
 | Homework | Sketchbook: ten minutes of observed drawing per night from the chosen composition's source |
 
 

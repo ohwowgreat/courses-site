@@ -24,8 +24,8 @@ modified: 2026-08-06
 | | |
 |---|---|
 | Template | STUDY |
-| Deliverable | CS4 Heda paragraph, plus LB5 |
-| Feeds | A3 |
+| Deliverable | [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|CS4]] Heda paragraph, plus [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB5]] |
+| Feeds | [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay\|A3]] |
 | Homework | Reading on Dutch still life and the inventory, 30 min, set day 4, due day 6 |
 
 ## Overview

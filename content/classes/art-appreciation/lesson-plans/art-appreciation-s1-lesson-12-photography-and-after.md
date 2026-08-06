@@ -24,7 +24,7 @@ modified: 2026-08-06
 | | |
 |---|---|
 | Template | ASSESSED |
-| Deliverable | A4: Unit 4 synthesis |
+| Deliverable | [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis\|A4]]: Unit 4 synthesis |
 | Feeds | The retrospective |
 | Homework | Sontag, first essay, 30 min, set day 2, due day 3 |
 

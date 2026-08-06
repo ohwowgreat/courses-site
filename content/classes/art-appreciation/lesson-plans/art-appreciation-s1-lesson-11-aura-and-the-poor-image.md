@@ -24,8 +24,8 @@ modified: 2026-08-06
 | | |
 |---|---|
 | Template | MAKE |
-| Deliverable | CS5 poor-image lab |
-| Feeds | A4 |
+| Deliverable | [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|CS5]] poor-image lab |
+| Feeds | [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis\|A4]] |
 | Homework | Benjamin, the aura passages only, 30 min, set day 1, due day 2 |
 
 ## Overview

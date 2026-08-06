@@ -23,7 +23,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Artist 2 analyzed and answered; a bridge piece and a scale trial at the supervised-test dimensions; exploration pages that reason |
-| Graded | **CS5** Tue 2028-03-21 (artist pages + bridge piece check) · **A2** Fri 2028-03-24 (AO2+AO3) |
+| Graded | **[[classes/a-level-art-design/assessments/9479-s4-assessments\|CS5]]** Tue 2028-03-21 (artist pages + bridge piece check) · **[[classes/a-level-art-design/assessments/9479-s4-assessments\|A2]]** Fri 2028-03-24 (AO2+AO3) |
 | Homework | ≤30 min: note what the scale trial exposed at test dimensions. The surprise belongs here, not in the test room |
 
 These dates are projected. They may shift when the school publishes the calendar for that period.

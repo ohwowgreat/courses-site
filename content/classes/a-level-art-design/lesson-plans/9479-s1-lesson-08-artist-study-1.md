@@ -22,7 +22,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Artist pages: analysis, meaning and context, method study, personal response, influence note |
-| Feeds | CS7 collected Fri 2026-10-30. Mid-term grades due Thu 2026-10-29, fed by A1 |
+| Feeds | [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS7]] collected Fri 2026-10-30. Mid-term grades due Thu 2026-10-29, fed by [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone\|A1]] |
 | Homework | Written annotation: the meaning-and-context paragraph drafted at home |
 
 ## Overview

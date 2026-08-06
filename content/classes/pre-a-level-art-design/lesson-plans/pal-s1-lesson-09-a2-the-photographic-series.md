@@ -27,9 +27,9 @@ modified: 2026-08-05
 
 | | |
 |---|---|
-| Focus | **A2 sat**: the series selected, sequenced, titled, and submitted with its reflection |
+| Focus | **[[classes/pre-a-level-art-design/assessments/pal-s1-a2-photographic-series\|A2]] sat**: the series selected, sequenced, titled, and submitted with its reflection |
 | Deliverable | The final 6–8-image series + written reflection, on MB by close; process trail in the sketchbook |
-| Feeds | A2 is the semester's second attainment; the contact sheet and rejects become sketchbook process evidence for SB2/A5 |
+| Feeds | A2 is the semester's second attainment; the contact sheet and rejects become sketchbook process evidence for [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|SB2]]/[[classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook\|A5]] |
 | Homework | None new — weekly MB sketchbook posting continues; U3 Collage opens next week |
 
 ## Overview

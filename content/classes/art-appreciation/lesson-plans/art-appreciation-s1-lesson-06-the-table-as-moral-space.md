@@ -24,8 +24,8 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Template | STUDY |
-| Deliverable | Written reading of one meal, plus LB3 |
-| Feeds | A3 |
+| Deliverable | Written reading of one meal, plus [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB3]] |
+| Feeds | [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay\|A3]] |
 | Homework | Finish the film if the screening runs short; otherwise none |
 
 ## Overview

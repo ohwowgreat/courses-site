@@ -30,7 +30,7 @@ modified: 2026-08-05
 |---|---|
 | Focus | Texture and the mark that makes it; negative space |
 | Deliverable | Traced-hand texture sheet; observed texture grid; one negative-space study |
-| Feeds | **A1 and CS1 announced this session** (A1 sits W5, 09-30; CS1 checks W4, 09-23) |
+| Feeds | **[[classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing\|A1]] and [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|CS1]] announced this session** (A1 sits W5, 09-30; CS1 checks W4, 09-23) |
 | Homework | Finish the texture worksheet; MB posting |
 
 ## Overview

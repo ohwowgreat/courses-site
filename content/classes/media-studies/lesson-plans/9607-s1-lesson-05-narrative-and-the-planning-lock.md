@@ -33,9 +33,9 @@ modified: 2026-08-03
 | | |
 |---|---|
 | Band/Unit | U2 Media Language ([[classes/media-studies/unit-plans/9607-s1-unit-2-media-language\|S1 Unit 2]]) |
-| Deliverable | C1 planning locked on the blog to a shootable standard (LB1, LB2 inside) |
-| Feeds | A2, A1 |
-| Homework | HW1 break task: A1-format analysis of a self-chosen 2–3 min sequence, plus the production window for shoots (3–4 h total) |
+| Deliverable | C1 planning locked on the blog to a shootable standard ([[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB1]], [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB2]] inside) |
+| Feeds | [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point\|A2]], [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]] |
+| Homework | [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|HW1]] break task: A1-format analysis of a self-chosen 2–3 min sequence, plus the production window for shoots (3–4 h total) |
 
 ## Overview
 

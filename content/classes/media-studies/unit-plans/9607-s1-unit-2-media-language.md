@@ -37,18 +37,18 @@ This unit covers the micro end of media language: semiotics, sign types, the fou
 - [[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-how-images-mean|L02 Semiotics — How Images Mean]]: Saussure, denotation and connotation, modes of address, anchorage. The theory-card spine starts. You commit your **media area on Wed 09-09**.
 - [[classes/media-studies/lesson-plans/9607-s1-lesson-03-sign-types-and-codes|L03 Sign Types and Codes]]: Peirce's triad, the four code families, and cold-reading unseen stills.
 - [[classes/media-studies/lesson-plans/9607-s1-lesson-04-genre-and-camera|L04 Genre and Camera]]: Altman and Neale's industry–audience contract, plus camera vocabulary at speed on unlabeled clips. The double lesson closes with the **cameras-in-hand technical rehearsal** (audio, continuity, focus/exposure) before the break shoots.
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock|L05 Narrative and the Planning Lock]]: Todorov and Propp. Your C1 planning is peer-reviewed and locked. HW1 is set before the break.
+- [[classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock|L05 Narrative and the Planning Lock]]: Todorov and Propp. Your C1 planning is peer-reviewed and locked. [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|HW1]] is set before the break.
 
 ## Assessment
 
 | Item | Date | What | AO |
 |---|---|---|---|
-| CS2 | Fri 2026-09-11 | Annotated media text from daily life, ≥6 code labels | AO1 |
-| CS3 | Fri 2026-09-18 | Vocabulary quiz, 20 items, 20 min | AO1 |
-| CS4 | Wed 2026-09-23 | Genre + camera analytical paragraph, direct practice for A1 | AO2 |
-| LB1 | Tue 2026-09-29 | Blog punctuality, posts 1–5 | — |
-| HW1 | set 09-30 → due Fri 10-09 | Break task: A1-format analysis of a self-chosen 2–3 min sequence | AO1+AO2 |
-| LB2 | Fri 2026-10-09 | HW1 returned on time; glossary current | — |
+| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS2]] | Fri 2026-09-11 | Annotated media text from daily life, ≥6 code labels | AO1 |
+| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS3]] | Fri 2026-09-18 | Vocabulary quiz, 20 items, 20 min | AO1 |
+| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS4]] | Wed 2026-09-23 | Genre + camera analytical paragraph, direct practice for [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]] | AO2 |
+| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB1]] | Tue 2026-09-29 | Blog punctuality, posts 1–5 | — |
+| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|HW1]] | set 09-30 → due Fri 10-09 | Break task: A1-format analysis of a self-chosen 2–3 min sequence | AO1+AO2 |
+| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB2]] | Fri 2026-10-09 | HW1 returned on time; glossary current | — |
 
 A1 is announced Wed 09-30, and you sit it Wed 10-14, inside Unit 3. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
@@ -57,4 +57,4 @@ A1 is announced Wed 09-30, and you sit it Wed 10-14, inside Unit 3. See the [[cl
 - Theorists: Saussure (signifier/signified), Peirce (icon/index/symbol), Altman and Neale (genre as agreement), Todorov (equilibrium), Propp (character functions).
 - The four code families: technical, symbolic, written, audio. These are your two-year analytical checklist.
 - C1 milestones: commit your media area; technical rehearsal Wed 09-23 (audio, continuity, focus/exposure); decide your equipment, school sign-out or own kit; lock your planning against the shootability checklist Wed 09-30; shoot during the break (3–4 hours); sound and editing vocabulary appear on your own footage.
-- ESL thread: your lexicon grows toward CS3. Connotation-by-culture comes up as brief English/Chinese asides, with the core worked examples exam-facing, per the exam-example rule in [[classes/media-studies/media-studies|Media Studies]].
+- ESL thread: your lexicon grows toward [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS3]]. Connotation-by-culture comes up as brief English/Chinese asides, with the core worked examples exam-facing, per the exam-example rule in [[classes/media-studies/media-studies|Media Studies]].

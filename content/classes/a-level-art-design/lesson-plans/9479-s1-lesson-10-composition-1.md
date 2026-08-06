@@ -22,8 +22,8 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Composition 1 composed from the student's own studies, built across a two-day run, resolved and photographed |
-| Feeds | Nothing collected — the homework layer carries the fortnight; CS8 collects at the end of Lesson 11 with both compositions |
-| Homework | Reflection after the A2 return settles (W11); sketchbook composition studies nightly (W12) |
+| Feeds | Nothing collected — the homework layer carries the fortnight; [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS8]] collects at the end of Lesson 11 with both compositions |
+| Homework | Reflection after the [[classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study\|A2]] return settles (W11); sketchbook composition studies nightly (W12) |
 
 ## Overview
 

@@ -22,7 +22,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Twelve media experiments run as one three-day session; a keep-or-change decision made with evidence |
-| Feeds | CS5 collected Fri 2026-10-16 (slips to Monday if Foreign Culture Day takes the Friday) |
+| Feeds | [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS5]] collected Fri 2026-10-16 (slips to Monday if Foreign Culture Day takes the Friday) |
 | Homework | Sketchbook: continue the two most promising experiments at home, ten minutes each |
 
 ## Overview

@@ -21,7 +21,7 @@ modified: 2026-08-05
 
 | | |
 |---|---|
-| Deliverable | Stage 1 page composed; first sustained study made and annotated; A1 recording milestone sat |
+| Deliverable | Stage 1 page composed; first sustained study made and annotated; [[classes/a-level-art-design/assessments/9479-s2-assessments\|A1]] recording milestone sat |
 | Feeds | **A1 Fri 2027-03-19** — recording milestone (approved intention, Stage 1 pages, first sustained study, supporting recording), marked against AO1 |
 | Homework | ≤30 min: after A1, turn the banded feedback into three specific written actions, ahead of [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-05-recording-pages-and-feedback\|L05]] |
 
@@ -63,7 +63,7 @@ A **sustained study** is one study you build and stay with, not a quick sketch. 
 
 ## Assessment
 
-You sit **A1** (recording milestone: approved intention, Stage 1 pages, first sustained study, supporting recording) on **Fri 2027-03-19**, marked against AO1 with C3 specialist language in view. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. The feedback becomes **three specific written actions**, which you consolidate next week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-05-recording-pages-and-feedback|L05]] (**CS3**, recording-pages build check, Fri 2027-03-26).
+You sit **A1** (recording milestone: approved intention, Stage 1 pages, first sustained study, supporting recording) on **Fri 2027-03-19**, marked against AO1 with C3 specialist language in view. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. The feedback becomes **three specific written actions**, which you consolidate next week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-05-recording-pages-and-feedback|L05]] (**[[classes/a-level-art-design/assessments/9479-s2-assessments|CS3]]**, recording-pages build check, Fri 2027-03-26).
 
 ## Review
 

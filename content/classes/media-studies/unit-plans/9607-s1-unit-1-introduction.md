@@ -32,13 +32,13 @@ A numbering note: "U1" here means the first band of the Semester 1 calendar. The
 
 ## Lessons
 
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-01-the-four-key-concepts|L01 The Four Key Concepts]]. Day 1: the opener, the "I'm not impacted by media" wager, and the 24-hour media-use log. Day 2: the four tools on one shared text, then the mediation demo with three named mechanisms, **staging** (Gardner), **selection** (*Migrant Mother*) and **anchorage** (the Underwood caption), plus the card sort. Day 3: denotation modeled live, then CS1, a pure-denotation paragraph that must survive a peer hunt for smuggled connotation.
+- [[classes/media-studies/lesson-plans/9607-s1-lesson-01-the-four-key-concepts|L01 The Four Key Concepts]]. Day 1: the opener, the "I'm not impacted by media" wager, and the 24-hour media-use log. Day 2: the four tools on one shared text, then the mediation demo with three named mechanisms, **staging** (Gardner), **selection** (*Migrant Mother*) and **anchorage** (the Underwood caption), plus the card sort. Day 3: denotation modeled live, then [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS1]], a pure-denotation paragraph that must survive a peer hunt for smuggled connotation.
 
 ## Assessment
 
 | Item | Date | What | AO |
 |---|---|---|---|
-| CS1 | Fri 2026-09-04 | Analytical paragraph, denotation only, written in class | AO2 |
+| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS1]] | Fri 2026-09-04 | Analytical paragraph, denotation only, written in class | AO2 |
 
 See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 

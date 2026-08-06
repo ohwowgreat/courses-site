@@ -32,7 +32,7 @@ modified: 2026-08-03
 | | |
 |---|---|
 | Band/Unit | U6 Revision ([[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation\|S1 Unit 6]]) |
-| Deliverable | Case-study coverage matrix completed; HW2 break pack set (LB5 inside; A4 return day 1) |
+| Deliverable | Case-study coverage matrix completed; [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|HW2]] break pack set ([[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB5]] inside; [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format\|A4]] return day 1) |
 | Feeds | End of Term Exam |
 | Homework | HW2 break task: case-study revision pack, one page each, plus one Section B essay plan (3–4 h across the break) |
 
@@ -66,7 +66,7 @@ The **coverage matrix** crosses every case study against the four Key Concepts. 
 |---|---|---|
 | LB5 | Wed 2026-12-23 | Case-study document contributions |
 | HW2 | set Wed 12-23 → due Mon 2027-01-04 | Case-study revision pack (one page each) + one Section B essay plan aimed at the named matrix gap (AO1) |
-| ~~LB6~~ | ~~Wed 2026-12-30~~ | 🚫 **Cancelled** — W18 is winter break |
+| ~~[[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB6]]~~ | ~~Wed 2026-12-30~~ | 🚫 **Cancelled** — W18 is winter break |
 
 A4 is returned on Mon 12-21; the End of Term Exam is announced on Wed 12-23. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 

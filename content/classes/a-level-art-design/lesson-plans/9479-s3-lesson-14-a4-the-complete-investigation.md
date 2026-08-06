@@ -22,19 +22,19 @@ modified: 2026-08-05
 
 | | |
 |---|---|
-| Deliverable | The complete Personal Investigation — both outcomes, the supporting portfolio, the research paper — submitted at A4; submission photography begun |
+| Deliverable | The complete Personal Investigation — both outcomes, the supporting portfolio, the research paper — submitted at [[classes/a-level-art-design/assessments/9479-s3-assessments\|A4]]; submission photography begun |
 | Graded | **A4** Wed 2027-12-22 (AO1–AO4) — the complete investigation, **no edits after** |
 | Homework | None over the break beyond the winter homework for [[classes/a-level-art-design/unit-plans/9479-semester-4-plan\|Semester 4]] (the C2/ESA past-paper review) |
 
 ## Overview
 
-This lesson brings your Personal Investigation to its Component 3 internal submission. On Monday and Tuesday you do the final page-by-page AO check. On Wednesday you submit at **A4**: the complete Personal Investigation, both outcomes with the supporting portfolio and the research paper, marked across AO1–AO4. There are no edits after A4. You begin submission photography while the work is still at hand, before the Christmas break. These dates are projected and may shift when the school publishes the calendar. The digital submission is assembled to the Cambridge screen limits and passes QC in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-15-submission-qc-the-return-and-into-c2|Lesson 15]].
+This lesson brings your Personal Investigation to its Component 3 internal submission. On Monday and Tuesday you do the final page-by-page AO check. On Wednesday you submit at **[[classes/a-level-art-design/assessments/9479-s3-assessments|A4]]**: the complete Personal Investigation, both outcomes with the supporting portfolio and the research paper, marked across AO1–AO4. There are no edits after A4. You begin submission photography while the work is still at hand, before the Christmas break. These dates are projected and may shift when the school publishes the calendar. The digital submission is assembled to the Cambridge screen limits and passes QC in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-15-submission-qc-the-return-and-into-c2|Lesson 15]].
 
 ## The ideas
 
 ### A4: the complete investigation
 
-**[[classes/a-level-art-design/assessments/9479-s3-assessments|A4]]** is the complete Personal Investigation, judged as a whole. It brings together both outcomes, the supporting portfolio, and the research paper, marked across AO1–AO4 at once. This is the Component 3 internal submission.
+**A4** is the complete Personal Investigation, judged as a whole. It brings together both outcomes, the supporting portfolio, and the research paper, marked across AO1–AO4 at once. This is the Component 3 internal submission.
 
 
 <figure class="plate">

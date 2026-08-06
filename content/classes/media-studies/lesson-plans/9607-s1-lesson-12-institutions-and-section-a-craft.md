@@ -32,8 +32,8 @@ modified: 2026-08-03
 | | |
 |---|---|
 | Band/Unit | U5 Media Contexts ([[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts\|S1 Unit 5]]) |
-| Deliverable | CS8 guided Section A script; C2 case-study document opened and structured |
-| Feeds | A4 |
+| Deliverable | [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS8]] guided Section A script; C2 case-study document opened and structured |
+| Feeds | [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format\|A4]] |
 | Homework | First case-study entries (30-min cap) |
 
 ## Overview

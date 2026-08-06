@@ -42,11 +42,11 @@ Weeks S6, S8–S9, around the S7 mock float (Mon 2027-03-28 to about 2027-04-24)
 | U3·L12 | Studio: make the bridge piece | From study into development |
 | U3·L13 | Studio: scale trial | Fix what the scale broke |
 | U3·L14 | Studio: lay out the Stage 3 pages | Exploration as reasoning |
-| U3·L15 | **A2: Exploration and artist study** | The whole unit, marked together |
+| U3·L15 | **[[classes/a-level-art-design/assessments/9479-s2-assessments\|A2]]: Exploration and artist study** | The whole unit, marked together |
 
 ## Assessment
 
-The unit gates on **A2, Fri 2027-04-23**: exploration and artist study (twelve experiments, media selection, artist pages, bridge piece, Stage 3 pages), marked against AO2 and AO3. Two CS tasks lead into it: **CS4** on Fri 2027-04-02 (twelve experiments documented), and **CS5** on Fri 2027-04-16 (artist 1 pages: analysis, method, response; this opens the research paper material). See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]].
+The unit gates on **A2, Fri 2027-04-23**: exploration and artist study (twelve experiments, media selection, artist pages, bridge piece, Stage 3 pages), marked against AO2 and AO3. Two CS tasks lead into it: **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS4]]** on Fri 2027-04-02 (twelve experiments documented), and **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS5]]** on Fri 2027-04-16 (artist 1 pages: analysis, method, response; this opens the research paper material). See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]].
 
 ## Key content
 

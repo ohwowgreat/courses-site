@@ -21,8 +21,8 @@ modified: 2026-08-05
 
 | | |
 |---|---|
-| Deliverable | Recording pages built and sequenced; A1 sat; feedback converted to three actions |
-| Feeds | CS4 build check Wed 2026-09-30; **A1 Fri 2026-10-09** (feeds mid-term grades due Thu 2026-10-29) |
+| Deliverable | Recording pages built and sequenced; [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone\|A1]] sat; feedback converted to three actions |
+| Feeds | [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS4]] build check Wed 2026-09-30; **A1 Fri 2026-10-09** (feeds mid-term grades due Thu 2026-10-29) |
 | Homework | Over the break: sketchbook recording from primary sources, dated. After A1: reflection turning feedback into three actions |
 
 ## Overview

@@ -41,8 +41,8 @@ Some later dates, including Foreign Culture Day and the New Year cutoff, may shi
 
 ## Lessons
 
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-10-berger-and-the-reproduction|Lesson 10: Berger and the Reproduction]] — 5 meetings / 7 sessions across two split weeks; four contexts, caption exercise, Godard on day 5; LB6, LB7.
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image|Lesson 11: Aura and the Poor Image]] — 3 meetings / 4 sessions; ukiyo-e, Benjamin, Steyerl, degradation lab; CS5.
+- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-10-berger-and-the-reproduction|Lesson 10: Berger and the Reproduction]] — 5 meetings / 7 sessions across two split weeks; four contexts, caption exercise, Godard on day 5; [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB6]], [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB7]].
+- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image|Lesson 11: Aura and the Poor Image]] — 3 meetings / 4 sessions; ukiyo-e, Benjamin, Steyerl, degradation lab; [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS5]].
 - [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-12-photography-and-after|Lesson 12: Photography and After]] — 5 meetings; claim to truth, Sontag, then A4 in the Tuesday double, Greenberg after it; review on day 5.
 - [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief|Lesson 13: The Artworld and the Brief]] — 3 days; Danto, Warhol/Duchamp/pluralism; retrospective brief announced as break homework; LB8.
 
@@ -52,11 +52,11 @@ Some later dates, including Foreign Culture Day and the New Year cutoff, may shi
 
 | Item | Date | What |
 |---|---|---|
-| LB6 | Wed 2026-11-25 | Seminar posting: what the painting lost and gained by reproduction |
-| LB7 | Tue 2026-12-01 | Posting from the floating-world session |
-| CS5 | Wed 2026-12-09 | Poor-image lab: degrade an image on purpose, describe exactly what changed |
-| **A4 sits** | **Tue 2026-12-15** | Unit 4 synthesis constellation: argues across the whole unit |
-| LB8 | Tue 2026-12-22 | Posting on the End-of-Semester Activity day |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB6]] | Wed 2026-11-25 | Seminar posting: what the painting lost and gained by reproduction |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB7]] | Tue 2026-12-01 | Posting from the floating-world session |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|CS5]] | Wed 2026-12-09 | Poor-image lab: degrade an image on purpose, describe exactly what changed |
+| **[[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis\|A4]] sits** | **Tue 2026-12-15** | Unit 4 synthesis constellation: argues across the whole unit |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB8]] | Tue 2026-12-22 | Posting on the End-of-Semester Activity day |
 | Retrospective announced | Wed 2026-12-23 | The brief is your break homework |
 
 Full detail in the [[classes/art-appreciation/assessments/art-appreciation-s1-assessments|full register]].

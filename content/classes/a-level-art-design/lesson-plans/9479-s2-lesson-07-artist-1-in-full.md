@@ -22,7 +22,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Artist 1 chosen and analyzed; meaning and context written; a method study; a personal response; the influence page |
-| Graded | **CS5** (Artist 1 pages: analysis, method, response) Fri 2027-04-16 — written annotation; opens the research-paper material |
+| Graded | **[[classes/a-level-art-design/assessments/9479-s2-assessments\|CS5]]** (Artist 1 pages: analysis, method, response) Fri 2027-04-16 — written annotation; opens the research-paper material |
 | Homework | ≤30 min: read one source on Artist 1 toward the research paper; shortlist Artist 2 for [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-08-artist-2-bridge-and-a2\|L08]] |
 
 ## Overview
@@ -67,7 +67,7 @@ Lay out the artist page so the influence is visible in your own work, not just d
 
 ## Assessment
 
-**CS5** (Artist 1 pages: analysis, method, response) is due **Fri 2027-04-16**. It is a written annotation that also opens your research-paper material. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It is marked on two things: whether the influence shows in your own work, and whether the context is written well enough to carry into the paper. Next week closes Unit 3 with Artist 2 and the bridge piece, and the second attainment, **A2** (exploration + artist study, AO2+AO3), sits **Fri 2027-04-23** in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-08-artist-2-bridge-and-a2|L08]].
+**CS5** (Artist 1 pages: analysis, method, response) is due **Fri 2027-04-16**. It is a written annotation that also opens your research-paper material. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It is marked on two things: whether the influence shows in your own work, and whether the context is written well enough to carry into the paper. Next week closes Unit 3 with Artist 2 and the bridge piece, and the second attainment, **[[classes/a-level-art-design/assessments/9479-s2-assessments|A2]]** (exploration + artist study, AO2+AO3), sits **Fri 2027-04-23** in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-08-artist-2-bridge-and-a2|L08]].
 
 ## Review
 

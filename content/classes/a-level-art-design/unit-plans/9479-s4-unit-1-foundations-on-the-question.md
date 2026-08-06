@@ -36,7 +36,7 @@ Week S1 (Mon 2028-02-21 to 2028-02-25), 5 sessions. These S4 dates are projected
 
 ## Assessment
 
-There are no attainment gates in this unit. The first, **A1**, is on Fri 2028-03-10 in [[classes/a-level-art-design/unit-plans/9479-s4-unit-2-recording|Unit 2]]. One CS task: **CS1** on Fri 2028-02-25 (question choice with written rationale, locked one to one). See the [[classes/a-level-art-design/assessments/9479-s4-assessments|full register]].
+There are no attainment gates in this unit. The first, **[[classes/a-level-art-design/assessments/9479-s4-assessments|A1]]**, is on Fri 2028-03-10 in [[classes/a-level-art-design/unit-plans/9479-s4-unit-2-recording|Unit 2]]. One CS task: **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS1]]** on Fri 2028-02-25 (question choice with written rationale, locked one to one). See the [[classes/a-level-art-design/assessments/9479-s4-assessments|full register]].
 
 ## Key content
 

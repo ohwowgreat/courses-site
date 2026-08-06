@@ -19,7 +19,7 @@ modified: 2026-07-18
 
 ## What this unit does
 
-This is the mid-point portfolio stage, under AO1–AO4 Present. You refine one resolved piece to a standard the mid point can stand on. You integrate the **bibliography** into the body of the work, not as a separate list at the back. You plan the page architecture before you build it. Then you sequence the whole journey, edit it (cut what does not earn its place), photograph it to submission standard, and quality-control it in supervised sessions. The unit closes with **A4**, the C3 mid-point portfolio, marked across all four AOs, with no edits after. The summer production window then feeds into [[classes/a-level-art-design/unit-plans/9479-s3-unit-1-review-and-goal-setting|Semester 3]].
+This is the mid-point portfolio stage, under AO1–AO4 Present. You refine one resolved piece to a standard the mid point can stand on. You integrate the **bibliography** into the body of the work, not as a separate list at the back. You plan the page architecture before you build it. Then you sequence the whole journey, edit it (cut what does not earn its place), photograph it to submission standard, and quality-control it in supervised sessions. The unit closes with **[[classes/a-level-art-design/assessments/9479-s2-assessments|A4]]**, the C3 mid-point portfolio, marked across all four AOs, with no edits after. The summer production window then feeds into [[classes/a-level-art-design/unit-plans/9479-s3-unit-1-review-and-goal-setting|Semester 3]].
 
 ## Dates & span
 
@@ -37,11 +37,11 @@ Weeks S15–S16 (Mon 2027-05-30 → 2027-06-11), 10 sessions. These spring dates
 | U5·L7 | Studio: sequence the mid-point portfolio | The whole journey in order |
 | U5·L8 | Edit and AO check | Cut, then check every AO |
 | U5·L9 | Final quality control, supervised | Checklist, page by page, in session |
-| U5·L10 | **A4: Mid-point portfolio due** | Submission, no edits after |
+| U5·L10 | **[[classes/a-level-art-design/assessments/9479-s2-assessments\|A4]]: Mid-point portfolio due** | Submission, no edits after |
 
 ## Assessment
 
-The unit gates on **A4, Fri 2027-06-11**, the mid-point portfolio (recording, exploration, artist pages, development, one resolved piece, and the research paper draft, sequenced and edited), marked against AO1–AO4. No edits after submission. One CS task: **CS9** on Thu 2027-06-03 (bibliography and source integration check). See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]].
+The unit gates on **A4, Fri 2027-06-11**, the mid-point portfolio (recording, exploration, artist pages, development, one resolved piece, and the research paper draft, sequenced and edited), marked against AO1–AO4. No edits after submission. One CS task: **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS9]]** on Thu 2027-06-03 (bibliography and source integration check). See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]].
 
 ## Key content
 

@@ -28,9 +28,9 @@ modified: 2026-08-05
 
 | | |
 |---|---|
-| Focus | Light and shadow; what makes a series; each student leaves with an A2 theme |
+| Focus | Light and shadow; what makes a series; each student leaves with an [[classes/pre-a-level-art-design/assessments/pal-s1-a2-photographic-series\|A2]] theme |
 | Deliverable | A four-position light circuit; a written, approved series theme in the sketchbook |
-| Feeds | this session** (sits W10, 11-04); **SB1** sketchbook spot-check runs today |
+| Feeds | this session** (sits W10, 11-04); **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|SB1]]** sketchbook spot-check runs today |
 | Homework | Begin the theme shoot — ≥15 frames on the chosen theme before W9; MB posting |
 
 ## Overview

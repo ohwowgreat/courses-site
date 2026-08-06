@@ -23,7 +23,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | The final research paper submitted; outcome 2 planned and its build opened |
-| Graded | **A3** Mon 2027-11-15 (C3 written criteria, submitted with 1:1 review) · **CS7** Fri 2027-11-19 (outcome 2 plan and progress) |
+| Graded | **[[classes/a-level-art-design/assessments/9479-s3-assessments\|A3]]** Mon 2027-11-15 (C3 written criteria, submitted with 1:1 review) · **[[classes/a-level-art-design/assessments/9479-s3-assessments\|CS7]]** Fri 2027-11-19 (outcome 2 plan and progress) |
 | Homework | ≤30 min: the outcome 2 plan — how it answers outcome 1 without repeating it |
 
 These dates are projected. They may shift when the school publishes the calendar for this period.

@@ -24,7 +24,7 @@ modified: 2026-08-06
 | | |
 |---|---|
 | Template | STUDY |
-| Deliverable | Winter break homework = the retrospective brief, plus LB8 |
+| Deliverable | Winter break homework = the retrospective brief, plus [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB8]] |
 | Feeds | The retrospective |
 | Homework | BREAK HOMEWORK: three works that changed how you see, with reasons; 3–4 h across the break, set day 3 |
 

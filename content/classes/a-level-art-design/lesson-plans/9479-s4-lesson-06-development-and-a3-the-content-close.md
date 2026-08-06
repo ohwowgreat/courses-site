@@ -23,14 +23,14 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Final-piece candidates composed; a draft comparison page with rejections in writing; a final composition plan; every supporting study complete |
-| Graded | **CS6** Thu 2028-03-30 (composition critique response + draft comparison page) · **A3** Fri 2028-03-31 (AO3+AO4) — **content close** same day |
+| Graded | **[[classes/a-level-art-design/assessments/9479-s4-assessments\|CS6]]** Thu 2028-03-30 (composition critique response + draft comparison page) · **[[classes/a-level-art-design/assessments/9479-s4-assessments\|A3]]** Fri 2028-03-31 (AO3+AO4) — **content close** same day |
 | Homework | ≤30 min: write the rejection for the candidate you set aside — why it loses to the one you kept |
 
 These dates are projected. They may shift when the school publishes the calendar for that period.
 
 ## Overview
 
-This is the tightest week in the unit, and the point after which nothing new is taught. You compose your final-piece candidates from your own studies, compare them on a draft comparison page with the rejections written out, and fix a final composition plan so the supervised test is execution, not invention. You submit **CS6** on Thu 2028-03-30 and sit **A3** on Fri 2028-03-31, which is the content close. For homework (up to 30 minutes), write the rejection for the candidate you set aside: why it loses to the one you kept. The elastic window and the 15-hour supervised test follow in [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-07-the-15-hour-supervised-test|Lesson 07]].
+This is the tightest week in the unit, and the point after which nothing new is taught. You compose your final-piece candidates from your own studies, compare them on a draft comparison page with the rejections written out, and fix a final composition plan so the supervised test is execution, not invention. You submit **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS6]]** on Thu 2028-03-30 and sit **[[classes/a-level-art-design/assessments/9479-s4-assessments|A3]]** on Fri 2028-03-31, which is the content close. For homework (up to 30 minutes), write the rejection for the candidate you set aside: why it loses to the one you kept. The elastic window and the 15-hour supervised test follow in [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-07-the-15-hour-supervised-test|Lesson 07]].
 
 
 <figure class="plate">
@@ -52,14 +52,14 @@ The **final composition plan** must be complete enough that the supervised test 
 
 ### The content close
 
-**[[classes/a-level-art-design/assessments/9479-s4-assessments|A3]] is the content close.** Nothing new is taught after A3. The compression here is deliberate: there is one taught development week, widened only by the elastic window (reading B), and every gained day lands in this unit. A3 is marked across AO3 and AO4.
+**A3 is the content close.** Nothing new is taught after A3. The compression here is deliberate: there is one taught development week, widened only by the elastic window (reading B), and every gained day lands in this unit. A3 is marked across AO3 and AO4.
 
 ## Day by day
 
 - **Mon 03-27.** Feedback, then compose your final-piece candidates from your own studies.
 - **Tue 03-28.** Build the draft comparison page: compare the candidates with the rejections written out.
 - **Wed 03-29.** Fix the final composition plan, complete enough that the test is execution, not invention.
-- **Thu 03-30.** Complete every supporting study and close any gaps. Submit **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS6]]**: the composition critique response plus the draft comparison page.
+- **Thu 03-30.** Complete every supporting study and close any gaps. Submit **CS6**: the composition critique response plus the draft comparison page.
 - **Fri 03-31.** Sit **A3**, marked across AO3 and AO4: comparison page, final plan, and mounted order. This is the content close, and nothing new is taught after today.
 
 ## Review

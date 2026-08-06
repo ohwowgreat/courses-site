@@ -28,10 +28,10 @@ modified: 2026-08-05
 
 | | |
 |---|---|
-| Focus | **A4 sat**: the final poster made in class, handmade or digital, plus the reflection |
+| Focus | **[[classes/pre-a-level-art-design/assessments/pal-s1-a4-final-poster\|A4]] sat**: the final poster made in class, handmade or digital, plus the reflection |
 | Deliverable | The final poster + reflection, submitted at close; thumbnails and type studies in the sketchbook as process |
 | Feeds | A4 is the semester's fourth attainment; the work returns as portfolio material at W19 |
-| Homework | Over the break: keep the sketchbook alive (2–3 pages a week — **A5 collects it on Jan 6**); read the portfolio spec; MB posting |
+| Homework | Over the break: keep the sketchbook alive (2–3 pages a week — **[[classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook\|A5]] collects it on Jan 6**); read the portfolio spec; MB posting |
 
 ## Overview
 

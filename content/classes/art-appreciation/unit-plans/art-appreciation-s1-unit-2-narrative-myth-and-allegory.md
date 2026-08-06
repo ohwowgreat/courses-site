@@ -39,8 +39,8 @@ These future dates may shift when the school publishes the calendar for this per
 
 ## Lessons
 
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-04-telling-it-without-words|Lesson 04: Telling It Without Words]] — 8 days, the longest lesson in the semester. Covers the critique flow and narrative, myth, allegory, and cycle. You start the storyboard on day 8 and finish it over the break. Sets CS2 and LB2.
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet|Lesson 05: Titian to Manet]] — 6 meetings. Storyboard debrief, Gentileschi across two sessions, Titian, Manet, and a comparison workshop. A2 sits on day 4 in the Tuesday double. Sets CS3.
+- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-04-telling-it-without-words|Lesson 04: Telling It Without Words]] — 8 days, the longest lesson in the semester. Covers the critique flow and narrative, myth, allegory, and cycle. You start the storyboard on day 8 and finish it over the break. Sets [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS2]] and [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB2]].
+- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet|Lesson 05: Titian to Manet]] — 6 meetings. Storyboard debrief, Gentileschi across two sessions, Titian, Manet, and a comparison workshop. A2 sits on day 4 in the Tuesday double. Sets [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS3]].
 
 ## Assessment
 
@@ -48,10 +48,10 @@ These future dates may shift when the school publishes the calendar for this per
 
 | Item | Date | What |
 |---|---|---|
-| LB2 | Wed 2026-09-23 | Posting from the cycle-reading session |
-| CS2 | Tue 2026-09-29 | Ten-frame storyboard, collected in class |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB2]] | Wed 2026-09-23 | Posting from the cycle-reading session |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|CS2]] | Tue 2026-09-29 | Ten-frame storyboard, collected in class |
 | | Wed 2026-09-30 | Last session before the holiday |
-| CS3 | Fri 2026-10-09 | Storyboard debrief: find the frame where the sequence stopped being legible |
-| **A2 sits** | **Tue 2026-10-13** | In-class comparative essay, Titian vs Manet, closed |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|CS3]] | Fri 2026-10-09 | Storyboard debrief: find the frame where the sequence stopped being legible |
+| **[[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison\|A2]] sits** | **Tue 2026-10-13** | In-class comparative essay, Titian vs Manet, closed |
 
 A2 carries the mid-term grades, due Thu 2026-10-29, so it is marked within a week rather than the usual five days. Full detail is in the [[classes/art-appreciation/assessments/art-appreciation-s1-assessments|full register]].

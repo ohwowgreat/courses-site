@@ -22,7 +22,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Composition 1 composed, built across two days, and pushed as far as it goes; research paper outline populated |
-| Graded | **CS6** (research paper outline populated) Thu 2027-04-29 — written annotation. **A3** (development + paper draft 1, AO3) sits Fri 2027-05-28 |
+| Graded | **[[classes/a-level-art-design/assessments/9479-s2-assessments\|CS6]]** (research paper outline populated) Thu 2027-04-29 — written annotation. **[[classes/a-level-art-design/assessments/9479-s2-assessments\|A3]]** (development + paper draft 1, AO3) sits Fri 2027-05-28 |
 | Homework | ≤30 min: over the May Day holiday (~05-01 → 05), read toward one paper section; no new studio work required |
 
 ## Overview

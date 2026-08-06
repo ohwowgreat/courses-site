@@ -34,7 +34,7 @@ This unit reads the whole semester back as one argument. The End-of-Term retrosp
 
 ## Lessons
 
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-14-the-retrospective|Lesson 14: The Retrospective]] — 4 meetings. Inventory Mon, then the three-works debrief and last workshop in the first period of the double, the EoT sits Tue 2027-01-05 in the second period, read-back Wed, forward look Fri.
+- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-14-the-retrospective|Lesson 14: The Retrospective]] — 4 meetings. Inventory Mon, then the three-works debrief and last workshop in the first period of the double, the [[classes/art-appreciation/assessments/art-appreciation-s1-eot-retrospective|EoT]] sits Tue 2027-01-05 in the second period, read-back Wed, forward look Fri.
 - [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-15-return|Lesson 15: Return]] — 3 uncoded days. Work returned one-to-one (about 8 minutes per student), Semester 2 goals; LB9.
 
 ## Assessment
@@ -44,7 +44,7 @@ This unit reads the whole semester back as one argument. The End-of-Term retrosp
 | Item | Date | What |
 |---|---|---|
 | Retrospective announced | Wed 2026-12-23 | In lesson 13; 13 days' notice; brief doubles as break homework (three works that changed how you see, 3–4 h) |
-| **EoT retrospective sits** | **Tue 2027-01-05** | Semester-close constellation, in class — End of Term category, 20% |
-| LB9 | Tue 2027-01-19 | Posted after the grades deadline — no S1 weight, counts toward S2 |
+| **[[classes/art-appreciation/assessments/art-appreciation-s1-eot-retrospective\|EoT]] retrospective sits** | **Tue 2027-01-05** | Semester-close constellation, in class — End of Term category, 20% |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB9]] | Tue 2027-01-19 | Posted after the grades deadline — no S1 weight, counts toward S2 |
 
 Full detail in the [[classes/art-appreciation/assessments/art-appreciation-s1-assessments|full register]].

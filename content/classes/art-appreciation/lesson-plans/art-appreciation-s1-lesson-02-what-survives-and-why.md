@@ -24,8 +24,8 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Template | STUDY |
-| Deliverable | One-page panel reading, plus LB1 |
-| Feeds | A1 |
+| Deliverable | One-page panel reading, plus [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB1]] |
+| Feeds | [[classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board\|A1]] |
 | Homework | Chauvet reading, 30 min, set day 2, due day 4 |
 
 ## Overview

@@ -44,7 +44,7 @@ Weeks W2–W7 (2027-09-08 to about 2027-10-14), 22 sessions, across the Mid-Autu
 | U4·L13 | Studio: draft the evaluation | In writing, against the intention |
 | U4·L14 | Studio: assemble the Stage 6 page | A trail of decisions |
 | U4·L15 | Studio: candidate refinement | The chosen candidate, up before the break |
-| U4·L16 | Development push | A1 push, before the holiday |
+| U4·L16 | Development push | [[classes/a-level-art-design/assessments/9479-s3-assessments\|A1]] push, before the holiday |
 | U4·L17 | Studio: development gap repair | Everything to the same standard |
 | U4·L18 | Studio: finalise the evaluation | Portfolio material |
 | U4·L19 | Studio: pre-milestone repair | Close the named gaps |
@@ -54,7 +54,7 @@ Weeks W2–W7 (2027-09-08 to about 2027-10-14), 22 sessions, across the Mid-Autu
 
 ## Assessment
 
-You sit **A1 on Thursday 2027-10-14**: the development milestone plus research paper draft 2, marked against AO3. It feeds the mid-term grade at the two-week minimum. CS tasks: **CS2** Fri 2027-09-10 (composition studies), **CS3** Fri 2027-09-17 (draft 2 sections), **CS4** Fri 2027-09-24 (targeted tests). See the [[classes/a-level-art-design/assessments/9479-s3-assessments|full register]].
+You sit **A1 on Thursday 2027-10-14**: the development milestone plus research paper draft 2, marked against AO3. It feeds the mid-term grade at the two-week minimum. CS tasks: **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS2]]** Fri 2027-09-10 (composition studies), **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS3]]** Fri 2027-09-17 (draft 2 sections), **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS4]]** Fri 2027-09-24 (targeted tests). See the [[classes/a-level-art-design/assessments/9479-s3-assessments|full register]].
 
 ## Key content
 

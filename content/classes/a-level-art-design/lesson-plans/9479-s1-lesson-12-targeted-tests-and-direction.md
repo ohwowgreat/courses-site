@@ -28,7 +28,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Targeted tests on the unresolved questions only; final direction chosen with its rejection articulated; the written evaluation; the Stage 6 page |
-| Feeds | CS9 collected Fri 2026-11-27 Thu 2026-11-26**, inside the tests run |
+| Feeds | [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS9]] collected Fri 2026-11-27 Thu 2026-11-26**, inside the tests run |
 | Homework | Written annotation: the evaluation drafted across the Juniors Days gap |
 
 ## Overview

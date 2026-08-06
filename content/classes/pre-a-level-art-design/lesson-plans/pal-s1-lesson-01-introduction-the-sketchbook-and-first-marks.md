@@ -29,7 +29,7 @@ modified: 2026-08-05
 |---|---|
 | Focus | Course opening; the sketchbook contract; the visual elements; line and mark |
 | Deliverable | Introduction Survey completed (incl. the garlic drawing); sketchbook set up; first line studies |
-| Feeds | The survey baselines the mid-term narrative and carries the U4 demand signal; the sketchbook regime runs to A5 (Wed 2027-01-06) |
+| Feeds | The survey baselines the mid-term narrative and carries the U4 demand signal; the sketchbook regime runs to [[classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook\|A5]] (Wed 2027-01-06) |
 | Homework | Finish the *Drawing Exercises 1* mark sheets; decorate the sketchbook cover; post the session's pages on MB (the weekly Learning Behaviour posting) |
 
 ## Overview

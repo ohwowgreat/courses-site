@@ -33,7 +33,7 @@ modified: 2026-08-03
 | | |
 |---|---|
 | Band/Unit | U5 Media Contexts ([[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts\|S1 Unit 5]]) |
-| Deliverable | A4 script: Component 2 Section A — 30 min viewing and notes plus 45 min writing |
+| Deliverable | [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format\|A4]] script: Component 2 Section A — 30 min viewing and notes plus 45 min writing |
 | Feeds | End of Term Exam; Forecast Grade anchor |
 | Homework | None: attainment week |
 

@@ -34,7 +34,7 @@ Weeks W8–W14 (about 2027-10-17 to 2027-12-04), 28 sessions, around the W9 Seni
 | U5·L1 | Plan final outcome 1 | Composition, palette, materials decided |
 | U5·L2 | Studio: supporting thumbnails | Solve it small first |
 | U5·L3 | Studio: outcome 1 build opens | Before the Seniors' week removes W9 |
-| U5·L4 | **A2: Mock portfolio review** | The whole investigation, sequenced as if submitting |
+| U5·L4 | **[[classes/a-level-art-design/assessments/9479-s3-assessments\|A2]]: Mock portfolio review** | The whole investigation, sequenced as if submitting |
 | U5·L5 | Feedback and independent targets | The studio does not wait for W9 |
 | U5·L6–L8 | Studio: build outcome 1 (3-day session) | One sustained run. Mon 11-01 |
 | U5·L9 | Mid-production review | While there is still time to change it |
@@ -43,7 +43,7 @@ Weeks W8–W14 (about 2027-10-17 to 2027-12-04), 28 sessions, around the W9 Seni
 | U5·L13 | Photograph outcome 1 | The version the examiner sees |
 | U5·L14 | Research paper final text | The argument is set; the prose serves it |
 | U5·L15 | Final text and integration check | Every claim points at real work |
-| U5·L16 | **A3: Final research paper** | Submitted with one-to-one review |
+| U5·L16 | **[[classes/a-level-art-design/assessments/9479-s3-assessments\|A3]]: Final research paper** | Submitted with one-to-one review |
 | U5·L17 | Plan outcome 2 | Answer the first, do not repeat it |
 | U5·L18–L19 | Studio: outcome 2 build opens (2-day session) | While the first is fresh |
 | U5·L20–L23 | Studio: outcome 2 | Sustained through the reduced W13. Wed 11-24 |

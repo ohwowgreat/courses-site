@@ -23,14 +23,14 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Final outcome 1 planned and its build opened; the whole investigation sequenced as if submitting |
-| Graded | **CS5** Tue 2027-10-19 (outcome 1 plan) · **A2** Thu 2027-10-21 (AO1–AO4, mock portfolio review) |
+| Graded | **[[classes/a-level-art-design/assessments/9479-s3-assessments\|CS5]]** Tue 2027-10-19 (outcome 1 plan) · **[[classes/a-level-art-design/assessments/9479-s3-assessments\|A2]]** Thu 2027-10-21 (AO1–AO4, mock portfolio review) |
 | Homework | ≤30 min: act on one A2 target before the Seniors week |
 
 These dates are projected. They may shift when the school publishes the calendar for that period.
 
 ## Overview
 
-This week opens Unit 5. You plan final outcome 1 in full, then begin its build. You also sit **A2**, a mock portfolio review of your whole investigation. You produce two graded pieces: **CS5** on Tue 2027-10-19, your outcome 1 plan, and **A2** on Thu 2027-10-21, your investigation reviewed against AO1–AO4. The build you open this week continues in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-08-building-outcome-1|L08]].
+This week opens Unit 5. You plan final outcome 1 in full, then begin its build. You also sit **[[classes/a-level-art-design/assessments/9479-s3-assessments|A2]]**, a mock portfolio review of your whole investigation. You produce two graded pieces: **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS5]]** on Tue 2027-10-19, your outcome 1 plan, and **A2** on Thu 2027-10-21, your investigation reviewed against AO1–AO4. The build you open this week continues in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-08-building-outcome-1|L08]].
 
 
 <figure class="plate">
@@ -42,11 +42,11 @@ This week opens Unit 5. You plan final outcome 1 in full, then begin its build. 
 
 ### Planning outcome 1
 
-Plan final outcome 1 so nothing is left to the build day. Decide your composition, palette, and materials in advance. The build day is then execution, not invention. Prove your plan first at small scale with **supporting thumbnails**: quick studies that test the composition before you commit to the full outcome. [[classes/a-level-art-design/assessments/9479-s3-assessments|CS5]] marks this plan.
+Plan final outcome 1 so nothing is left to the build day. Decide your composition, palette, and materials in advance. The build day is then execution, not invention. Prove your plan first at small scale with **supporting thumbnails**: quick studies that test the composition before you commit to the full outcome. CS5 marks this plan.
 
 ### The dress rehearsal
 
-**[[classes/a-level-art-design/assessments/9479-s3-assessments|A2]]** is a **dress rehearsal**: you sequence your whole investigation as if you were submitting it, and it is marked against AO1–AO4. The point is to see the full investigation as a real submission before the real thing. A2 also works as a portfolio asset for Oxbridge and Early Decision applicants.
+**A2** is a **dress rehearsal**: you sequence your whole investigation as if you were submitting it, and it is marked against AO1–AO4. The point is to see the full investigation as a real submission before the real thing. A2 also works as a portfolio asset for Oxbridge and Early Decision applicants.
 
 A2 sits on Thursday because it must land before the Seniors week. That week, W9 (Seniors' Days), has no teaching. It becomes an independent-production week, so A2 cannot fall inside it. This is why attendance and the plan matter: a missed week costs build time, and the studio does not wait.
 

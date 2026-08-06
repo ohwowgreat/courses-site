@@ -24,7 +24,7 @@ modified: 2026-08-06
 | | |
 |---|---|
 | Template | ASSESSED |
-| Deliverable | A3: Unit 3 essay on food, the table and ethics |
+| Deliverable | [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay\|A3]]: Unit 3 essay on food, the table and ethics |
 | Feeds | Unit 4, "which takes the same question into mediation" |
 | Homework | None — the essay is in class |
 

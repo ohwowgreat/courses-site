@@ -22,7 +22,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Composition 2 composed, built and resolved; a structured critique of both compositions; the critique acted on |
-| Feeds | CS8 collected Fri 2026-11-20 (slips to Monday if Foreign Culture Day takes the Friday; the sequence holds) |
+| Feeds | [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS8]] collected Fri 2026-11-20 (slips to Monday if Foreign Culture Day takes the Friday; the sequence holds) |
 | Homework | Sketchbook: nightly studies toward whichever composition is weaker |
 
 ## Overview

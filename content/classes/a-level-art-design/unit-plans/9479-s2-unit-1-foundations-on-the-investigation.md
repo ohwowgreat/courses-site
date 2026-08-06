@@ -46,7 +46,7 @@ Weeks S1–S3 (Mon 2027-02-21 → ~2027-03-13), 15 sessions. These spring dates 
 
 ## Assessment
 
-No attainment gates this unit. The first, **A1**, sits Fri 2027-03-19 in [[classes/a-level-art-design/unit-plans/9479-s2-unit-2-recording-and-sustained-study|Unit 2]]. CS tasks: **CS1** Fri 2027-03-05 (proposal draft: theme, aims, source plan, artist shortlist), **CS2** Fri 2027-03-12 (statement of intent plus annotated references). See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]].
+No attainment gates this unit. The first, **[[classes/a-level-art-design/assessments/9479-s2-assessments|A1]]**, sits Fri 2027-03-19 in [[classes/a-level-art-design/unit-plans/9479-s2-unit-2-recording-and-sustained-study|Unit 2]]. CS tasks: **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS1]]** Fri 2027-03-05 (proposal draft: theme, aims, source plan, artist shortlist), **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS2]]** Fri 2027-03-12 (statement of intent plus annotated references). See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]].
 
 ## Key content
 

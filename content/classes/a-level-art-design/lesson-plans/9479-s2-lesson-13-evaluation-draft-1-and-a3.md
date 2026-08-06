@@ -21,7 +21,7 @@ modified: 2026-08-05
 
 | | |
 |---|---|
-| Deliverable | Evaluation written; Stage 6 page assembled; research paper draft 1 completed and repaired; A3 sat |
+| Deliverable | Evaluation written; Stage 6 page assembled; research paper draft 1 completed and repaired; [[classes/a-level-art-design/assessments/9479-s2-assessments\|A3]] sat |
 | Feeds | **A3 Fri 2027-05-28** — development milestone + research paper draft 1 (compositions 1+2, targeted tests, evaluation, Stage 6 page), marked against AO3 |
 | Homework | ≤30 min: after A3, act on the feedback toward the mid-point piece and begin integrating the bibliography, ahead of [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-14-mid-point-piece-and-bibliography\|Lesson 14]] |
 
@@ -59,7 +59,7 @@ The **Stage 6 page** lays out your development as a trail of decisions: composit
 
 ## Assessment
 
-You sit **A3** (development milestone + research paper draft 1) on **Fri 2027-05-28**, marked against AO3 with integration in view. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. A3 gathers all of Unit 4: two resolved compositions, the targeted tests, the evaluation, the Stage 6 page, and the paper's first full draft. This is the last taught session before A4. The next two weeks (Unit 5) build the mid-point portfolio in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-14-mid-point-piece-and-bibliography|Lesson 14]], and **A4** (mid-point portfolio, AO1–AO4) sits **Fri 2027-06-11**.
+You sit **A3** (development milestone + research paper draft 1) on **Fri 2027-05-28**, marked against AO3 with integration in view. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. A3 gathers all of Unit 4: two resolved compositions, the targeted tests, the evaluation, the Stage 6 page, and the paper's first full draft. This is the last taught session before [[classes/a-level-art-design/assessments/9479-s2-assessments|A4]]. The next two weeks (Unit 5) build the mid-point portfolio in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-14-mid-point-piece-and-bibliography|Lesson 14]], and **A4** (mid-point portfolio, AO1–AO4) sits **Fri 2027-06-11**.
 
 ## Review
 

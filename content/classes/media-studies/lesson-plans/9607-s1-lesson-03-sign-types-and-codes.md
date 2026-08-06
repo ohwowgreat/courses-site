@@ -32,8 +32,8 @@ modified: 2026-08-03
 | | |
 |---|---|
 | Band/Unit | U2 Media Language ([[classes/media-studies/unit-plans/9607-s1-unit-2-media-language\|S1 Unit 2]]) |
-| Deliverable | CS3 vocabulary quiz, 20 items, 20 min |
-| Feeds | A1 |
+| Deliverable | [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS3]] vocabulary quiz, 20 items, 20 min |
+| Feeds | [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]] |
 | Homework | Lexicon revision toward CS3; no new tasks |
 
 ## Overview

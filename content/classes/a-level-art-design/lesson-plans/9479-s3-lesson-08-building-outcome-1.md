@@ -23,12 +23,12 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Outcome 1 built across a sustained run, reviewed mid-production while change is still possible |
-| Graded | No attainment. Mon 2027-11-01** · **CS6** Thu 2027-11-04 (outcome 1 mid-production review) |
+| Graded | No attainment. Mon 2027-11-01** · **[[classes/a-level-art-design/assessments/9479-s3-assessments\|CS6]]** Thu 2027-11-04 (outcome 1 mid-production review) |
 | Homework | ≤30 min: note the one change the mid-production review named, before you act on it |
 
 ## Overview
 
-This week you build final outcome 1 in one sustained run. You execute the plan you set in CS5, then take it through a mid-production review on Thu 2027-11-04, graded as **CS6**. The review is placed while the work can still change, so what it names, you act on the same day. Outcome 1 resolves and is photographed in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-09-resolving-outcome-1-and-the-final-paper-text|Lesson 09]]. These dates are projected and may shift when the school publishes the calendar for this period.
+This week you build final outcome 1 in one sustained run. You execute the plan you set in [[classes/a-level-art-design/assessments/9479-s3-assessments|CS5]], then take it through a mid-production review on Thu 2027-11-04, graded as **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS6]]**. The review is placed while the work can still change, so what it names, you act on the same day. Outcome 1 resolves and is photographed in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-09-resolving-outcome-1-and-the-final-paper-text|Lesson 09]]. These dates are projected and may shift when the school publishes the calendar for this period.
 
 
 <figure class="plate">
@@ -40,11 +40,11 @@ This week you build final outcome 1 in one sustained run. You execute the plan y
 
 ### One sustained run
 
-Build outcome 1 as **one sustained run**, not a series of fresh starts. Continuity is what carries your work from AO3 Develop into AO4 Present. You are executing the plan from [[classes/a-level-art-design/assessments/9479-s3-assessments|CS5]], not reinventing it.
+Build outcome 1 as **one sustained run**, not a series of fresh starts. Continuity is what carries your work from AO3 Develop into AO4 Present. You are executing the plan from CS5, not reinventing it.
 
 ### The mid-production review
 
-The **mid-production review** lands while there is still time to change the work. A review after the work is fixed changes nothing. [[classes/a-level-art-design/assessments/9479-s3-assessments|CS6]] marks the review, but the work is what proves you used it: act on what the review names the same day, not later.
+The **mid-production review** lands while there is still time to change the work. A review after the work is fixed changes nothing. CS6 marks the review, but the work is what proves you used it: act on what the review names the same day, not later.
 
 ### A3, the final research paper
 

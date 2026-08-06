@@ -28,7 +28,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Written intention; mind map; thumbnail sheet with one composition chosen and the rejections annotated |
-| Feeds | CS2 collected Fri 2026-09-18 — direct practice for A1 |
+| Feeds | [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS2]] collected Fri 2026-09-18 — direct practice for [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone\|A1]] |
 | Homework | Written annotation: expand the intention to a paragraph a stranger could follow |
 
 ## Overview

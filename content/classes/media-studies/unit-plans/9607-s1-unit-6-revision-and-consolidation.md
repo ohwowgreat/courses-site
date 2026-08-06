@@ -37,8 +37,8 @@ This unit reviews, drills, and tests the semester's work. You turn [[classes/med
 
 ## Lessons
 
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-14-consolidation-and-the-coverage-matrix|L14 Consolidation and the Coverage Matrix]] — A4 review with self-banding and the target thread; Section B arguments aloud; the coverage matrix, where your weakest cell names your HW2 target; EoT announced.
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-15-exam-rehearsal|L15 Exam Rehearsal]] — full paper format and minute budgets; CS9 timed Section B, peer-marked then moderated; the AO economy of the mark scheme.
+- [[classes/media-studies/lesson-plans/9607-s1-lesson-14-consolidation-and-the-coverage-matrix|L14 Consolidation and the Coverage Matrix]] — A4 review with self-banding and the target thread; Section B arguments aloud; the coverage matrix, where your weakest cell names your HW2 target; [[classes/media-studies/assessments/9607-s1-eot-component-2-paper|EoT]] announced.
+- [[classes/media-studies/lesson-plans/9607-s1-lesson-15-exam-rehearsal|L15 Exam Rehearsal]] — full paper format and minute budgets; [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS9]] timed Section B, peer-marked then moderated; the AO economy of the mark scheme.
 - [[classes/media-studies/lesson-plans/9607-s1-lesson-16-end-of-term-exam-and-return|L16 End of Term Exam and Return]] — the 2-hour Component 2 in the exam window; scripts back with AO breakdowns; Semester 2 target sheets.
 
 ## Assessment
@@ -47,12 +47,12 @@ This unit reviews, drills, and tests the semester's work. You turn [[classes/med
 
 | Item | Date | What | AO |
 |---|---|---|---|
-| LB5 | Wed 2026-12-23 | Case-study document contributions | — |
-| HW2 | set 12-23 → due Mon 2027-01-04 | Break task: case-study revision pack (one page each) + one Section B essay plan | AO1 |
-| ~~LB6~~ | ~~Wed 2026-12-30~~ | 🚫 **Cancelled** (winter break) | — |
-| CS9 | Wed 2027-01-06 | Timed Section B, 45 min, peer-marked then moderated | AO1+AO2 |
-| EoT | window Mon 2027-01-11 → Mon 01-18 | Full Component 2, 2 h, exam venue; 20% category | AO1+AO2 |
-| LB7 | Wed 2027-01-20 | Response to feedback; S2 goal setting | — |
+| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB5]] | Wed 2026-12-23 | Case-study document contributions | — |
+| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|HW2]] | set 12-23 → due Mon 2027-01-04 | Break task: case-study revision pack (one page each) + one Section B essay plan | AO1 |
+| ~~[[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB6]]~~ | ~~Wed 2026-12-30~~ | 🚫 **Cancelled** (winter break) | — |
+| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS9]] | Wed 2027-01-06 | Timed Section B, 45 min, peer-marked then moderated | AO1+AO2 |
+| [[classes/media-studies/assessments/9607-s1-eot-component-2-paper\|EoT]] | window Mon 2027-01-11 → Mon 01-18 | Full Component 2, 2 h, exam venue; 20% category | AO1+AO2 |
+| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB7]] | Wed 2027-01-20 | Response to feedback; S2 goal setting | — |
 
 A4 returned Mon 12-21. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 

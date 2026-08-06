@@ -27,9 +27,9 @@ modified: 2026-08-05
 
 | | |
 |---|---|
-| Focus | **A1 sat**: the final observational drawing finished under assessment conditions, plus the written reflection |
+| Focus | **[[classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing\|A1]] sat**: the final observational drawing finished under assessment conditions, plus the written reflection |
 | Deliverable | The final drawing + reflection, submitted at close |
-| Feeds | A1 feeds the mid-term grades (due Thu 2026-10-29); **HW1 set** (due Wed 10-14, opens U2) |
+| Feeds | A1 feeds the mid-term grades (due Thu 2026-10-29); **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|HW1]] set** (due Wed 10-14, opens U2) |
 | Homework | **HW1**: ≥20 photos of one subject in varied viewpoint and light, over the National Day break; MB posting |
 
 ## Overview

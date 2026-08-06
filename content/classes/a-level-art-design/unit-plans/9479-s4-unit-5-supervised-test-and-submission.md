@@ -38,7 +38,7 @@ All S4 dates are projected and may shift when the school publishes the calendar.
 | U5·L2 | Photograph the final piece | The version the examiner sees |
 | U5·L3 | Assemble the submission package | Ordered exactly as specified |
 | U5·L4 | Quality control, supervised | The specification, line by line |
-| U5·L5 | **A4: Submission package due** | The internal grade layer; Cambridge marks the piece |
+| U5·L5 | **[[classes/a-level-art-design/assessments/9479-s4-assessments\|A4]]: Submission package due** | The internal grade layer; Cambridge marks the piece |
 | U5·L6 | Gap repair for the board, supervised | Only what the QC named |
 | U5·L7 | Final checks against the specification | Every page, label, and limit |
 | U5·L8 | Work submitted for marking | The checklist covers C1, C2, and C3 |
@@ -47,7 +47,7 @@ All S4 dates are projected and may shift when the school publishes the calendar.
 
 ## Assessment
 
-**A4, Fri 2028-04-21** (floats with the test): the complete C2 submission package as the internal grade layer, marked against AO1–AO4. No edits after. **The final C2 piece itself is marked externally by Cambridge.** CS tasks: **CS7** Thu 2028-04-20 (submission checklist and reflection, floats with the test), **CS8** Thu 2028-04-27 (portfolio photography for your records). See the [[classes/a-level-art-design/assessments/9479-s4-assessments|full register]].
+**A4, Fri 2028-04-21** (floats with the test): the complete C2 submission package as the internal grade layer, marked against AO1–AO4. No edits after. **The final C2 piece itself is marked externally by Cambridge.** CS tasks: **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS7]]** Thu 2028-04-20 (submission checklist and reflection, floats with the test), **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS8]]** Thu 2028-04-27 (portfolio photography for your records). See the [[classes/a-level-art-design/assessments/9479-s4-assessments|full register]].
 
 ## Key content
 

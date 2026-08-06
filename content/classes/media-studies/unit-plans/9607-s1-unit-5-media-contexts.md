@@ -37,8 +37,8 @@ These dates may shift when the school publishes the calendar for this period.
 
 ## Lessons
 
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission|L11 Audiences and the Portfolio Submission]]: mass, niche, and target audiences, and the limits of the effects model; CCR help in the last window; A3 goes in, is returned with self-banding first, and becomes your LB4 targets; Blumler and Katz on your own weekly use.
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-12-institutions-and-section-a-craft|L12 Institutions and Section A Craft]]: Morley's Nationwide; ownership, PSB vs commercial; CS8 with the mark scheme open; the C2 case-study document opened.
+- [[classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission|L11 Audiences and the Portfolio Submission]]: mass, niche, and target audiences, and the limits of the effects model; CCR help in the last window; [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio|A3]] goes in, is returned with self-banding first, and becomes your [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|LB4]] targets; Blumler and Katz on your own weekly use.
+- [[classes/media-studies/lesson-plans/9607-s1-lesson-12-institutions-and-section-a-craft|L12 Institutions and Section A Craft]]: Morley's Nationwide; ownership, PSB vs commercial; [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS8]] with the mark scheme open; the C2 case-study document opened.
 - [[classes/media-studies/lesson-plans/9607-s1-lesson-13-a4-section-a-in-authentic-format|L13 A4, Section A in Authentic Format]]: integration, synergy, and convergence through one institution; the authentic 30+45 sit; regulation context.
 
 ## Assessment
@@ -47,9 +47,9 @@ These dates may shift when the school publishes the calendar for this period.
 
 | Item | Date | What | AO |
 |---|---|---|---|
-| A3 | Fri 2026-11-27 | C1 portfolio complete: product + CCR + blog; C1 criteria (AO2 20 + AO3 80, scaled to 50); no edits after (returned Tue 12-01) | AO2+AO3 |
-| LB4 | Tue 2026-12-01 | Response to feedback: one production target logged | — |
-| CS8 | Wed 2026-12-09 | Guided Section A, mark scheme open, direct practice for A4 | AO1+AO2 |
+| [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio\|A3]] | Fri 2026-11-27 | C1 portfolio complete: product + CCR + blog; C1 criteria (AO2 20 + AO3 80, scaled to 50); no edits after (returned Tue 12-01) | AO2+AO3 |
+| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB4]] | Tue 2026-12-01 | Response to feedback: one production target logged | — |
+| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS8]] | Wed 2026-12-09 | Guided Section A, mark scheme open, direct practice for [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format\|A4]] | AO1+AO2 |
 | A4 | Wed 2026-12-16 | C2 Section A in authentic format: 30 min viewing/notes + 45 min writing; Forecast Grade anchor | AO1+AO2 |
 
 See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].

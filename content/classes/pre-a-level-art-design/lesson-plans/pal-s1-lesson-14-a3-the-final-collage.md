@@ -27,9 +27,9 @@ modified: 2026-08-05
 
 | | |
 |---|---|
-| Focus | **A3 sat**: the final collage finished under assessment conditions, plus the written reflection |
+| Focus | **[[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage\|A3]] sat**: the final collage finished under assessment conditions, plus the written reflection |
 | Deliverable | The final collage + reflection, submitted at close; process trail (drafts, dry-fit photos, scraps) in the sketchbook |
-| Feeds | A3 is the semester's third attainment; U4 opens next week with the A4 route decision |
+| Feeds | A3 is the semester's third attainment; U4 opens next week with the [[classes/pre-a-level-art-design/assessments/pal-s1-a4-final-poster\|A4]] route decision |
 | Homework | None new — weekly MB posting continues; U4 Graphic Design / Printmaking opens Wed 12-16 |
 
 ## Overview

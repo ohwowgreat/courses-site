@@ -23,7 +23,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Eight experiments run to a written keep-or-change decision; artist 1 analyzed and answered in visible work |
-| Graded | **CS4** Fri 2028-03-17 (experiment documentation + artist 1 response). Fri 2028-03-17. No attainment this week |
+| Graded | **[[classes/a-level-art-design/assessments/9479-s4-assessments\|CS4]]** Fri 2028-03-17 (experiment documentation + artist 1 response). Fri 2028-03-17. No attainment this week |
 | Homework | ≤30 min: write the keep-or-change line for two experiments — what carries the question, what doesn't |
 
 These dates are projected. They may shift when the school publishes the calendar for that period.

@@ -22,7 +22,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | The Cambridge ESA paper analyzed question by question; one question **locked in writing** with a rationale grounded in evidence |
-| Graded | **CS1** Fri 2028-02-25 (question choice with written rationale, locked 1:1). with the lock. No attainment this week |
+| Graded | **[[classes/a-level-art-design/assessments/9479-s4-assessments\|CS1]]** Fri 2028-02-25 (question choice with written rationale, locked 1:1). with the lock. No attainment this week |
 | Homework | ≤30 min: assemble the evidence — the C1/C3 pages and drawing-regimen work that prove your chosen question is a strength |
 
 ## Overview

@@ -30,7 +30,7 @@ modified: 2026-08-05
 |---|---|
 | Focus | Composition; the final observational drawing begun |
 | Deliverable | Three viewfinder thumbnails with one chosen in writing; the final drawing constructed and underway |
-| Feeds | **CS1 collected and graded this session**; the drawing continues into A1 (W5, 09-30) |
+| Feeds | **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|CS1]] collected and graded this session**; the drawing continues into [[classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing\|A1]] (W5, 09-30) |
 | Homework | One 10-minute observational sketch of a home object; MB posting |
 
 ## Overview

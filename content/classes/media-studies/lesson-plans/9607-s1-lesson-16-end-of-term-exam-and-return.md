@@ -30,7 +30,7 @@ modified: 2026-08-03
 | | |
 |---|---|
 | Band/Unit | U6 Revision ([[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation\|S1 Unit 6]]); the two W21 sessions carry no U-codes in the schedule |
-| Deliverable | End of Term Exam script (20% category); one-page Semester 2 target sheet per student (LB7) |
+| Deliverable | End of Term Exam script (20% category); one-page Semester 2 target sheet per student ([[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB7]]) |
 | Feeds | Semester 2; Forecast Grade evidence |
 | Homework | None |
 
@@ -81,7 +81,7 @@ In Semester 2, C1 goes to Cambridge in the spring, the film-industry case study 
 
 | Item | Date | What | AO |
 |---|---|---|---|
-| EoT | window Mon 2027-01-11 → Mon 01-18 | Full Component 2 paper, 2 hours, exam venue; 20% End-of-Term category | AO1+AO2 |
+| [[classes/media-studies/assessments/9607-s1-eot-component-2-paper\|EoT]] | window Mon 2027-01-11 → Mon 01-18 | Full Component 2 paper, 2 hours, exam venue; 20% End-of-Term category | AO1+AO2 |
 | LB7 | Wed 2027-01-20 | Response to feedback; Semester 2 goal setting | — |
 
 See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].

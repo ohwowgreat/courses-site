@@ -30,7 +30,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Focus | What a poster must do: message, audience, hierarchy, type as voice; thumbnails for the final |
-| Deliverable | **CS4**: one annotated poster analysis + a four-thumbnail set with type studies, one circled with a reason |
+| Deliverable | **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|CS4]]**: one annotated poster analysis + a four-thumbnail set with type studies, one circled with a reason |
 | Feeds | this session** (sits next Wednesday, 12-23) |
 | Homework | Gather or make anything the circled thumbnail needs (images, lettering references, files); MB posting |
 

@@ -33,8 +33,8 @@ modified: 2026-08-03
 | | |
 |---|---|
 | Band/Unit | U4 Representation ([[classes/media-studies/unit-plans/9607-s1-unit-4-representation\|S1 Unit 4]]) |
-| Deliverable | CS6 representation close-reading paragraph |
-| Feeds | A4, End of Term Exam |
+| Deliverable | [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS6]] representation close-reading paragraph |
+| Feeds | [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format\|A4]], End of Term Exam |
 | Homework | Short theorist extract (hooks) read before day 4, within the 30-min cap |
 
 ## Overview

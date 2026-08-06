@@ -21,7 +21,7 @@ modified: 2026-08-05
 
 | | |
 |---|---|
-| Deliverable | Final composition plan, supporting thumbnails, palette and materials settled; A3 sat; the plan adjusted from feedback |
+| Deliverable | Final composition plan, supporting thumbnails, palette and materials settled; [[classes/a-level-art-design/assessments/9479-s1-a3-development-milestone\|A3]] sat; the plan adjusted from feedback |
 | Feeds | **A3 Thu 2026-12-10**: development milestone, marked against AO3. Foreign Culture Day may take Fri 12-11: the feedback lesson slips, never the assessment |
 | Homework | Reflection: the plan adjustment written up after Friday's feedback |
 

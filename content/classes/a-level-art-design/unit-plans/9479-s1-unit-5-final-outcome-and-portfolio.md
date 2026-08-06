@@ -33,7 +33,7 @@ Mon 2026-12-14 → Fri 2027-01-08 (W16 → W19). The winter break (W18) falls be
 
 **Full briefs** (objectives, task, instructions, rubric): [[classes/a-level-art-design/assessments/9479-s1-a4-final-portfolio|A4 Final Portfolio]] · [[classes/a-level-art-design/assessments/9479-s1-the-final|The Final]].
 
-You sit **A4 on Thu 2027-01-07**: the final portfolio, which is the resolved outcome plus the complete supporting portfolio, sequenced and edited. It is marked against AO1–AO4. You cannot edit after you submit. A4 is announced on Mon 2026-12-21, a 17-day window that covers the break. Grades and comments are returned by Wed 2027-01-20. One CS task supports this unit: **CS10**, the mid-production review reflection, due Fri 2026-12-18. CS10 is direct practice for A4. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]].
+You sit **A4 on Thu 2027-01-07**: the final portfolio, which is the resolved outcome plus the complete supporting portfolio, sequenced and edited. It is marked against AO1–AO4. You cannot edit after you submit. A4 is announced on Mon 2026-12-21, a 17-day window that covers the break. Grades and comments are returned by Wed 2027-01-20. One CS task supports this unit: **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS10]]**, the mid-production review reflection, due Fri 2026-12-18. CS10 is direct practice for A4. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]].
 
 ## Key content
 

@@ -24,8 +24,8 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Template | BESPOKE |
-| Deliverable | The reflection on your own table, plus LB4 |
-| Feeds | A3 |
+| Deliverable | The reflection on your own table, plus [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB4]] |
+| Feeds | [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay\|A3]] |
 | Homework | None — "half the room cannot do it" |
 
 

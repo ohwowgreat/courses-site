@@ -19,7 +19,7 @@ modified: 2026-07-18
 
 ## What this unit does
 
-This is the assembly and submission stage, under **AO4 Present**. You put the complete Personal Investigation in order so the argument reads to a stranger. You check your documentation page by page: each piece photographed, labeled, and legible. You integrate the bibliography into the body of the work, not the back. You present and defend the investigation in a viva-style critique, then fix what breaks. You assemble the digital submission to the Cambridge screen limits and pass QC. The unit closes with **A4**, the complete investigation, marked across AO1–AO4, with no edits after. The C3 internal submission lands here. C2 begins in [[classes/a-level-art-design/unit-plans/9479-semester-4-plan|Semester 4]].
+This is the assembly and submission stage, under **AO4 Present**. You put the complete Personal Investigation in order so the argument reads to a stranger. You check your documentation page by page: each piece photographed, labeled, and legible. You integrate the bibliography into the body of the work, not the back. You present and defend the investigation in a viva-style critique, then fix what breaks. You assemble the digital submission to the Cambridge screen limits and pass QC. The unit closes with **[[classes/a-level-art-design/assessments/9479-s3-assessments|A4]]**, the complete investigation, marked across AO1–AO4, with no edits after. The C3 internal submission lands here. C2 begins in [[classes/a-level-art-design/unit-plans/9479-semester-4-plan|Semester 4]].
 
 ## Dates & span
 
@@ -40,14 +40,14 @@ Weeks W15–W18 (2027-12-05 to about 2028-01-01), 16 sessions, running into the 
 | U6·L10 | Studio: final refinement | Nothing new starts now |
 | U6·L11 | Studio: final refinements | Last touches only |
 | U6·L12 | Pre-submission check | The AO check, page by page |
-| U6·L13 | **A4: Complete Personal Investigation due** | Both outcomes, portfolio, paper. No edits after |
+| U6·L13 | **[[classes/a-level-art-design/assessments/9479-s3-assessments\|A4]]: Complete Personal Investigation due** | Both outcomes, portfolio, paper. No edits after |
 | U6·L14 | Submission photography begins | While the work is at hand |
 | U6·L15 | PDF assembly and submission QC | Cambridge screen limits; every page renders |
 | U6·L16 | Submission QC continues | The last mark that can be earned |
 
 ## Assessment
 
-You sit **A4 on Wed 2027-12-22**: the complete Personal Investigation, meaning both outcomes, the supporting portfolio, and the research paper. It is marked against AO1–AO4. There are no edits after. Two CS tasks come first: **CS9** on Fri 2027-12-10 (sequencing and documentation check), and **CS10** on Thu 2027-12-16 (presentation critique response, the viva rehearsal, answered in writing). These dates are projected and may shift when the calendar is published. See the [[classes/a-level-art-design/assessments/9479-s3-assessments|full register]].
+You sit **A4 on Wed 2027-12-22**: the complete Personal Investigation, meaning both outcomes, the supporting portfolio, and the research paper. It is marked against AO1–AO4. There are no edits after. Two CS tasks come first: **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS9]]** on Fri 2027-12-10 (sequencing and documentation check), and **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS10]]** on Thu 2027-12-16 (presentation critique response, the viva rehearsal, answered in writing). These dates are projected and may shift when the calendar is published. See the [[classes/a-level-art-design/assessments/9479-s3-assessments|full register]].
 
 ## Key content
 

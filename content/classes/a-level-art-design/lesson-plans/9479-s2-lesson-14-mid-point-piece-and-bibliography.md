@@ -22,7 +22,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Mid-point piece chosen and refined; bibliography integrated into the body; page architecture planned |
-| Graded | **CS9** (bibliography + source integration check) Thu 2027-06-03 — written annotation. **A4** (mid-point portfolio, AO1–AO4) sits Fri 2027-06-11 |
+| Graded | **[[classes/a-level-art-design/assessments/9479-s2-assessments\|CS9]]** (bibliography + source integration check) Thu 2027-06-03 — written annotation. **[[classes/a-level-art-design/assessments/9479-s2-assessments\|A4]]** (mid-point portfolio, AO1–AO4) sits Fri 2027-06-11 |
 | Homework | ≤30 min: over the weekend, prepare images and page order for the build, ahead of submission week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-15-submission-week-and-a4\|L15]] |
 
 ## Overview
@@ -59,7 +59,7 @@ The **mid-point piece** is the single resolved piece that carries your investiga
 
 ## Assessment
 
-**CS9** (bibliography + source integration check) is due **Thu 2027-06-03**. It is a written annotation, marked on whether your sources are integrated into the body of the work rather than detached at the back. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It is the last CS of the semester, and it protects the AO1 marks a back-of-portfolio bibliography would lose. Next week is submission in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-15-submission-week-and-a4|L15]]: the portfolio photographed, sequenced, edited and submitted, with **A4** (mid-point portfolio, AO1–AO4) on **Fri 2027-06-11**.
+**CS9** (bibliography + source integration check) is due **Thu 2027-06-03**. It is a written annotation, marked on whether your sources are integrated into the body of the work rather than detached at the back. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It is the last CS of the semester, and it protects the AO1 marks a back-of-portfolio bibliography would lose. Next week is submission in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-15-submission-week-and-a4|L15]]: the portfolio photographed, sequenced, edited and submitted, with **[[classes/a-level-art-design/assessments/9479-s2-assessments|A4]]** (mid-point portfolio, AO1–AO4) on **Fri 2027-06-11**.
 
 ## Review
 

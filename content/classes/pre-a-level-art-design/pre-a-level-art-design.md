@@ -37,6 +37,6 @@ Four units, one final each, across 18 Wednesday sessions (2026-09-02 to 2027-01-
 | Unit | Weeks | Spine | Final (Attainment) |
 |---|---|---|---|
 | U1 Drawing & the Visual Elements | W1–5 | "Observe · the elements" | A1 observational drawing, 2026-09-30 |
-| U2 Photography | W7–10 | "Compose · intention" | A2 photographic series, 2026-11-04 |
-| U3 Collage | W11–15 | "Combine · meaning" | A3 final collage, 2026-12-09 |
-| U4 Graphic Design **/ Printmaking** | W16–19 (3 sessions) | "Communicate · audience" | A4 final poster, **2026-12-23** — or linocut, see [[classes/pre-a-level-art-design/lesson-plans/pal-s1-u4-printmaking-variant\|variant]] |
+| U2 Photography | W7–10 | "Compose · intention" | [[classes/pre-a-level-art-design/assessments/pal-s1-a2-photographic-series\|A2]] photographic series, 2026-11-04 |
+| U3 Collage | W11–15 | "Combine · meaning" | [[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage\|A3]] final collage, 2026-12-09 |
+| U4 Graphic Design **/ Printmaking** | W16–19 (3 sessions) | "Communicate · audience" | [[classes/pre-a-level-art-design/assessments/pal-s1-a4-final-poster\|A4]] final poster, **2026-12-23** — or linocut, see [[classes/pre-a-level-art-design/lesson-plans/pal-s1-u4-printmaking-variant\|variant]] |

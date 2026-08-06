@@ -32,7 +32,7 @@ Weeks S4–S5 (Mon 2027-03-14 → about 2027-03-27), 10 sessions. These spring d
 | U2·L1 | Compose the Stage 1 page | Thinking visible to a stranger |
 | U2·L2–L3 | Studio: sustained study 1 (2-day session) | One study sustained, not restarted |
 | U2·L4 | Critical annotation | What the study taught about the theme |
-| U2·L5 | **A1: Recording milestone** | Everything recorded so far, marked against AO1 |
+| U2·L5 | **[[classes/a-level-art-design/assessments/9479-s2-assessments\|A1]]: Recording milestone** | Everything recorded so far, marked against AO1 |
 | U2·L6 | Feedback and targets | Three specific actions from the feedback |
 | U2·L7–L8 | Studio: sustained study 2 (2-day session) | Pushed past the first |
 | U2·L9 | Photography and annotation | Own reference, annotated for what is seen |
@@ -40,11 +40,11 @@ Weeks S4–S5 (Mon 2027-03-14 → about 2027-03-27), 10 sessions. These spring d
 
 ## Assessment
 
-The unit gates on **A1, Fri 2027-03-19**, the recording milestone. It covers your approved intention, your Stage 1 pages, your first sustained study, and your supporting recording. It is marked against AO1 with C3 specialist language in view. One CS task falls inside the unit: **CS3** on Fri 2027-03-26, a recording pages build check that consolidates your A1 feedback actions. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]].
+The unit gates on **A1, Fri 2027-03-19**, the recording milestone. It covers your approved intention, your Stage 1 pages, your first sustained study, and your supporting recording. It is marked against AO1 with C3 specialist language in view. One CS task falls inside the unit: **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS3]]** on Fri 2027-03-26, a recording pages build check that consolidates your A1 feedback actions. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]].
 
 ## Key content
 
 - Both sustained studies must show duration: layered decisions, not single sittings.
 - Descriptive annotation caps AO1 in every exemplar. **Critical reflection on progress is the top-band behavior.**
 - All reference is self-generated: nothing found, nothing borrowed.
-- You turn your A1 feedback into three named actions and act on them visibly by [[classes/a-level-art-design/assessments/9479-s2-assessments|CS3]].
+- You turn your A1 feedback into three named actions and act on them visibly by CS3.

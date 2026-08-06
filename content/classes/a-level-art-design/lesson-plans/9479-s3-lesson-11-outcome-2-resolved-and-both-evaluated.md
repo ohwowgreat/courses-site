@@ -23,12 +23,12 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Outcome 2 resolved and photographed to the same standard as outcome 1; both outcomes evaluated in writing against the intention |
-| Graded | No attainment. Wed 2027-11-24** (28 days ahead) · **CS8** Fri 2027-12-03 (evaluation of both outcomes) |
+| Graded | No attainment. Wed 2027-11-24** (28 days ahead) · **[[classes/a-level-art-design/assessments/9479-s3-assessments\|CS8]]** Fri 2027-12-03 (evaluation of both outcomes) |
 | Homework | ≤30 min: for the evaluation, one honest line on what each outcome found that the other did not |
 
 ## Overview
 
-This lesson brings outcome 2 to the same finish as outcome 1. You resolve and photograph outcome 2 to the same standard as outcome 1, so the two can be judged together. Then you evaluate both outcomes in writing against the intention: what the investigation found, not what it cost. That written evaluation of the pair is CS8, due Fri 2027-12-03. During the short week you also receive the A4 notice, the complete Personal Investigation, announced on Wed 2027-11-24. Assembly begins in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-12-assembly-sequence-documentation-bibliography|Lesson 12]]. These dates are projected and may shift when the school publishes the calendar for that period.
+This lesson brings outcome 2 to the same finish as outcome 1. You resolve and photograph outcome 2 to the same standard as outcome 1, so the two can be judged together. Then you evaluate both outcomes in writing against the intention: what the investigation found, not what it cost. That written evaluation of the pair is [[classes/a-level-art-design/assessments/9479-s3-assessments|CS8]], due Fri 2027-12-03. During the short week you also receive the [[classes/a-level-art-design/assessments/9479-s3-assessments|A4]] notice, the complete Personal Investigation, announced on Wed 2027-11-24. Assembly begins in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-12-assembly-sequence-documentation-bibliography|Lesson 12]]. These dates are projected and may shift when the school publishes the calendar for that period.
 
 
 <figure class="plate">
@@ -49,11 +49,11 @@ This lesson brings outcome 2 to the same finish as outcome 1. You resolve and ph
 ## Day by day
 
 - **Mon–Tue 11-22/23.** Studio work on outcome 2, carried toward resolution through the reduced week.
-- **Wed 11-24.** Studio work on outcome 2. [[classes/a-level-art-design/assessments/9479-s3-assessments|A4]], the complete Personal Investigation, is announced today.
+- **Wed 11-24.** Studio work on outcome 2. A4, the complete Personal Investigation, is announced today.
 - **Thu–Fri.** Seniors' Days, no teaching.
 - **Mon–Tue 11-29/30.** Resolve outcome 2 over these two days, to the same finish as outcome 1.
 - **Wed 12-01.** Photograph outcome 2, documented to the same standard as outcome 1.
-- **Thu–Fri 12-02/03.** Evaluate both outcomes in writing against the intention. This is [[classes/a-level-art-design/assessments/9479-s3-assessments|CS8]]. For the evaluation, write one honest line on what each outcome found that the other did not (up to 30 minutes).
+- **Thu–Fri 12-02/03.** Evaluate both outcomes in writing against the intention. This is CS8. For the evaluation, write one honest line on what each outcome found that the other did not (up to 30 minutes).
 
 ## Review
 

@@ -21,8 +21,8 @@ modified: 2026-08-05
 
 | | |
 |---|---|
-| Deliverable | A1 feedback turned into three actions; a second sustained study; own photography annotated; recording pages built and sequenced |
-| Graded | **CS3** (recording-pages build check) Fri 2027-03-26 — a sketchbook task consolidating your A1 feedback |
+| Deliverable | [[classes/a-level-art-design/assessments/9479-s2-assessments\|A1]] feedback turned into three actions; a second sustained study; own photography annotated; recording pages built and sequenced |
+| Graded | **[[classes/a-level-art-design/assessments/9479-s2-assessments\|CS3]]** (recording-pages build check) Fri 2027-03-26 — a sketchbook task consolidating your A1 feedback |
 | Homework | ≤30 min: keep recording from your own primary sources, ahead of the media experiments in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-06-media-exploration\|L06]] |
 
 ## Overview
@@ -63,7 +63,7 @@ A **sustained study** is a detailed study worked from your own primary sources o
 
 ## Assessment
 
-**CS3** (recording-pages build check) is due **Fri 2027-03-26**. It is a sketchbook task that consolidates your A1 feedback into built, sequenced recording pages. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It is checked on two things: the pages read in order without explanation, and the three actions from A1 are visibly done, not just noted. This closes Unit 2's recording stage. Unit 3 opens next week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-06-media-exploration|L06]] on media exploration, and the second attainment, **A2** (exploration and artist study, AO2+AO3), sits **Fri 2027-04-23**.
+**CS3** (recording-pages build check) is due **Fri 2027-03-26**. It is a sketchbook task that consolidates your A1 feedback into built, sequenced recording pages. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It is checked on two things: the pages read in order without explanation, and the three actions from A1 are visibly done, not just noted. This closes Unit 2's recording stage. Unit 3 opens next week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-06-media-exploration|L06]] on media exploration, and the second attainment, **[[classes/a-level-art-design/assessments/9479-s2-assessments|A2]]** (exploration and artist study, AO2+AO3), sits **Fri 2027-04-23**.
 
 ## Review
 

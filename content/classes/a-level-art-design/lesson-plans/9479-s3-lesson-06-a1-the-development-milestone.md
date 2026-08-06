@@ -23,7 +23,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | The development milestone: outcome-candidate compositions, targeted tests, evaluation and Stage 6 page, plus research paper draft 2 |
-| Graded | **A1** Thu 2027-10-14 (AO3) — feeds the mid-term grade at the two-week minimum. Feedback Fri 10-15 |
+| Graded | **[[classes/a-level-art-design/assessments/9479-s3-assessments\|A1]]** Thu 2027-10-14 (AO3) — feeds the mid-term grade at the two-week minimum. Feedback Fri 10-15 |
 | Homework | ≤30 min: turn the three feedback actions into a dated to-do for Unit 5 |
 
 ## Overview

@@ -37,9 +37,9 @@ This unit treats the table as a place where rules get enforced, not just a setti
 
 ## Lessons
 
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-06-the-table-as-moral-space|Lesson 06: The Table as Moral Space]] — 5 days; the frame, the screening, one meal read as an argument; LB3.
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-07-the-split-weeks|Lesson 07: The Split Weeks]] — 5 self-contained days while G12 is away; the your-table reflection; LB4.
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-08-heda-and-the-image-of-work|Lesson 08: Heda and the Image of Work]] — 6 meetings; Heda twice, Last Supper, Bruegel/Steen, Qingming, the moral image of work; CS4, LB5.
+- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-06-the-table-as-moral-space|Lesson 06: The Table as Moral Space]] — 5 days; the frame, the screening, one meal read as an argument; [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB3]].
+- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-07-the-split-weeks|Lesson 07: The Split Weeks]] — 5 self-contained days while G12 is away; the your-table reflection; [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB4]].
+- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-08-heda-and-the-image-of-work|Lesson 08: Heda and the Image of Work]] — 6 meetings; Heda twice, Last Supper, Bruegel/Steen, Qingming, the moral image of work; [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS4]], [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB5]].
 - [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-09-food-the-table-and-ethics|Lesson 09: Food, the Table and Ethics]] — 4 meetings; Cassatt, Rosler, then A3 in the Tuesday double, Weems after it, hyperreality coda.
 
 > [!note] The screening
@@ -51,10 +51,10 @@ This unit treats the table as a place where rules get enforced, not just a setti
 
 | Item | Date | What |
 |---|---|---|
-| LB3 | Fri 2026-10-23 | Seminar posting: food, class, and who is not in the picture. |
-| LB4 | Fri 2026-10-30 | Seminar posting, for whoever is present. If you are G12 and away, you are not penalized. |
-| LB5 | Tue 2026-11-03 | Posting from the second Heda session. |
-| CS4 | Fri 2026-11-13 | The Heda paragraph: every adjective earned. Direct practice for A3. |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB3]] | Fri 2026-10-23 | Seminar posting: food, class, and who is not in the picture. |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB4]] | Fri 2026-10-30 | Seminar posting, for whoever is present. If you are G12 and away, you are not penalized. |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB5]] | Tue 2026-11-03 | Posting from the second Heda session. |
+| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|CS4]] | Fri 2026-11-13 | The Heda paragraph: every adjective earned. Direct practice for [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay\|A3]]. |
 | **A3 sits** | **Tue 2026-11-17** | In-class essay: food, the table and ethics, argued from the pictures. |
 
 Full detail in the [[classes/art-appreciation/assessments/art-appreciation-s1-assessments|full register]].

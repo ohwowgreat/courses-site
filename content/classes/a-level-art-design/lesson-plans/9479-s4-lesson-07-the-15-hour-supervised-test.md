@@ -29,7 +29,7 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson is the exam proper. You realize the final piece you planned at A3 inside the **15-hour supervised test**, under exam conditions. You add nothing new and invent nothing under supervision. The days before the test are for refinement and rehearsal only, because content closed at A3. Between sittings your work is stored securely. The test is externally marked by Cambridge. Assembly of the submission package follows in [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-08-assembly-and-a4-the-submission-package|Lesson 08]].
+This lesson is the exam proper. You realize the final piece you planned at [[classes/a-level-art-design/assessments/9479-s4-assessments|A3]] inside the **15-hour supervised test**, under exam conditions. You add nothing new and invent nothing under supervision. The days before the test are for refinement and rehearsal only, because content closed at A3. Between sittings your work is stored securely. The test is externally marked by Cambridge. Assembly of the submission package follows in [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-08-assembly-and-a4-the-submission-package|Lesson 08]].
 
 
 <figure class="plate">
@@ -41,7 +41,7 @@ This lesson is the exam proper. You realize the final piece you planned at A3 in
 
 ### Nothing invented under supervision
 
-**Nothing invented under supervision** means the outcome you planned and marked at [[classes/a-level-art-design/assessments/9479-s4-assessments|A3]] is realized as it stands: no additions, no new ideas made up during the test. The plan is both your safety and your mark. This is why the elastic days before the test go to refinement and rehearsal, never to new content.
+**Nothing invented under supervision** means the outcome you planned and marked at A3 is realized as it stands: no additions, no new ideas made up during the test. The plan is both your safety and your mark. This is why the elastic days before the test go to refinement and rehearsal, never to new content.
 
 ### Secure storage between sittings
 

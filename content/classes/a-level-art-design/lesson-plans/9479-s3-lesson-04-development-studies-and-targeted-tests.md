@@ -22,14 +22,14 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Targeted tests that change the composition on evidence; a structured critique of the candidates against the intention |
-| Graded | **CS4** Fri 2027-09-24 — targeted tests (sketchbook). No attainment this week |
+| Graded | **[[classes/a-level-art-design/assessments/9479-s3-assessments\|CS4]]** Fri 2027-09-24 — targeted tests (sketchbook). No attainment this week |
 | Homework | ≤30 min: write up one test — what it asked, what it showed, what you changed |
 
 These dates are projected. They may shift when the school publishes the calendar for this period.
 
 ## Overview
 
-This week you push the candidate compositions until development decides things. You make development studies that resolve real questions, then run targeted tests on what is still unresolved and change the composition on the evidence. You end with a structured critique that judges the candidates against your intention. The deliverable is the targeted tests, graded as **CS4** on Fri 2027-09-24, plus the critique. What survives the critique is refined toward the evaluation and the Stage 6 page in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-05-evaluation-and-the-national-day-break|Lesson 05]].
+This week you push the candidate compositions until development decides things. You make development studies that resolve real questions, then run targeted tests on what is still unresolved and change the composition on the evidence. You end with a structured critique that judges the candidates against your intention. The deliverable is the targeted tests, graded as **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS4]]** on Fri 2027-09-24, plus the critique. What survives the critique is refined toward the evaluation and the Stage 6 page in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-05-evaluation-and-the-national-day-break|Lesson 05]].
 
 
 <figure class="plate">
@@ -60,7 +60,7 @@ The critique judges the candidates **against the intention, not the effort**. Th
 - **Mon 09-20.** Studio: development studies. Each study answers a question the composition actually poses.
 - **Tue 09-21 / Wed 09-22.** Targeted tests over a two-day run, on only what is unresolved.
 - **Thu 09-23.** Studio: act on the tests. Change the work because of the test result, not a preference.
-- **Fri 09-24.** Structured critique reading the candidates against the intention. [[classes/a-level-art-design/assessments/9479-s3-assessments|CS4]] marks the targeted tests. Homework (≤30 min): write up one test, what it asked, what it showed, and what you changed.
+- **Fri 09-24.** Structured critique reading the candidates against the intention. CS4 marks the targeted tests. Homework (≤30 min): write up one test, what it asked, what it showed, and what you changed.
 
 ## Review
 

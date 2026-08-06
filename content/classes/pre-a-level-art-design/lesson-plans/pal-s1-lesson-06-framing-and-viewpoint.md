@@ -29,8 +29,8 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Focus | Framing, viewpoint, rule of thirds — composing with a camera instead of a pencil |
-| Deliverable | Best-3 selection from HW1 with written reasons; a five-viewpoint circuit shoot with three selects |
-| Feeds | **HW1 due today**; the circuit frames become part of CS2's composition set (W9) |
+| Deliverable | Best-3 selection from [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|HW1]] with written reasons; a five-viewpoint circuit shoot with three selects |
+| Feeds | **HW1 due today**; the circuit frames become part of [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|CS2]]'s composition set (W9) |
 | Homework | Ten frames placed deliberately on the thirds + five deliberately breaking them, one line on which felt better; MB posting |
 
 

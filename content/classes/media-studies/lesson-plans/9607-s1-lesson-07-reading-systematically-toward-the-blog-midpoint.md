@@ -34,7 +34,7 @@ modified: 2026-08-03
 | | |
 |---|---|
 | Band/Unit | U3 Macro and Textual Analysis ([[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis\|S1 Unit 3]]) |
-| Deliverable | CS5 peer blog audit against the mid-point checklist; an A2-ready blog by Monday |
+| Deliverable | [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS5]] peer blog audit against the mid-point checklist; an [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point\|A2]]-ready blog by Monday |
 | Feeds | A2 |
 | Homework | Blog completion: posts 1–7 to standard by Mon 10-26 |
 

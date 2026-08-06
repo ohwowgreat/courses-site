@@ -21,7 +21,7 @@ modified: 2026-08-05
 
 | | |
 |---|---|
-| Deliverable | The portfolio photographed, sequenced, edited and submitted; A4 sat; the semester reflected on |
+| Deliverable | The portfolio photographed, sequenced, edited and submitted; [[classes/a-level-art-design/assessments/9479-s1-a4-final-portfolio\|A4]] sat; the semester reflected on |
 | Feeds | **A4 Thu 2027-01-07**: final portfolio, marked against AO1–AO4; no edits after. Marking window Thu 01-07 → Wed 01-20 (nine working days) |
 | Homework | Reflection: the semester look-back, finished after Friday. Winter HW: three candidate C3 themes with annotated references, the [[classes/a-level-art-design/9479-c3-winter-brief\|C3 Winter Brief]] |
 

@@ -26,8 +26,8 @@ modified: 2026-08-05
 
 | | |
 |---|---|
-| Focus | Documentation; the End-of-Term portfolio assembled and submitted; **A5: the sketchbook submitted** |
-| Deliverable | The EoT portfolio (one organized file) and the sketchbook, both handed in at close |
+| Focus | Documentation; the End-of-Term portfolio assembled and submitted; **[[classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook\|A5]]: the sketchbook submitted** |
+| Deliverable | The [[classes/pre-a-level-art-design/assessments/pal-s1-eot-semester-portfolio\|EoT]] portfolio (one organized file) and the sketchbook, both handed in at close |
 | Feeds | EoT (20%) and A5 (the fifth attainment) — the semester's final grades; the survey feeds next semester's shape |
 | Homework | None — the semester's work is in. Return session Wed 2027-01-20: work back, grades, 1:1 feedback |
 

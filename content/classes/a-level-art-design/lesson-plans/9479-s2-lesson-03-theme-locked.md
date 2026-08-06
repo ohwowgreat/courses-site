@@ -22,7 +22,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Theme locked in writing; statement of intent; research plan; first primary-source shoot, annotated |
-| Graded | **CS2** (statement of intent + annotated references) due Fri 2027-03-12. The first attainment, **A1** (recording milestone, AO1), sits Fri 2027-03-19 in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-04-recording-and-the-a1-milestone\|L04]] |
+| Graded | **[[classes/a-level-art-design/assessments/9479-s2-assessments\|CS2]]** (statement of intent + annotated references) due Fri 2027-03-12. The first attainment, **[[classes/a-level-art-design/assessments/9479-s2-assessments\|A1]]** (recording milestone, AO1), sits Fri 2027-03-19 in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-04-recording-and-the-a1-milestone\|L04]] |
 | Homework | ≤30 min: extend the primary-source shooting — first-hand, dated — ahead of the Stage 1 recording pages next week |
 
 ## Overview

@@ -22,14 +22,14 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Two candidates carried forward, developed to the same standard; research paper draft 2 opened, structured section by section |
-| Graded | **CS3** Fri 2027-09-17 — research paper draft 2 sections (written annotation). No attainment this week |
+| Graded | **[[classes/a-level-art-design/assessments/9479-s3-assessments\|CS3]]** Fri 2027-09-17 — research paper draft 2 sections (written annotation). No attainment this week |
 | Homework | ≤30 min: outline the next draft-2 section — the argument, not the prose |
 
 These dates are projected. They may shift when the school publishes the calendar for this period.
 
 ## Overview
 
-This week you narrow and deepen. In the studio you carry two candidate compositions forward and develop both to the same standard, so your later choice is fair. Alongside the studio, you reopen the research paper as draft 2: structure first, then argument, with your summer reading woven in. Your deliverable is the set of draft 2 sections, graded as **CS3** on Fri 2027-09-17. Both candidates feed the honest critique in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-04-development-studies-and-targeted-tests|Lesson 04]], and the paper's written thread runs on through CS3 here toward **A3**.
+This week you narrow and deepen. In the studio you carry two candidate compositions forward and develop both to the same standard, so your later choice is fair. Alongside the studio, you reopen the research paper as draft 2: structure first, then argument, with your summer reading woven in. Your deliverable is the set of draft 2 sections, graded as **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS3]]** on Fri 2027-09-17. Both candidates feed the honest critique in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-04-development-studies-and-targeted-tests|Lesson 04]], and the paper's written thread runs on through CS3 here toward **[[classes/a-level-art-design/assessments/9479-s3-assessments|A3]]**.
 
 
 <figure class="plate">
@@ -49,7 +49,7 @@ This week you narrow and deepen. In the studio you carry two candidate compositi
 
 Your summer reading appears **woven into the argument, not as summary**. Use each source as evidence inside your argument. Do not add a book report at the back.
 
-The research paper has no coursework sitting of its own. Its written thread runs through [[classes/a-level-art-design/assessments/9479-s3-assessments|CS3]] here and continues in the Unit 5 final-text sessions toward [[classes/a-level-art-design/assessments/9479-s3-assessments|A3]].
+The research paper has no coursework sitting of its own. Its written thread runs through CS3 here and continues in the Unit 5 final-text sessions toward A3.
 
 ## Day by day
 

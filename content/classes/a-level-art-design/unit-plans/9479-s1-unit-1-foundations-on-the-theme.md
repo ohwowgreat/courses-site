@@ -31,7 +31,7 @@ Tue 2026-09-01 → Mon 2026-09-14 (W1 → W3 Monday; 10 sessions). No grades cou
 
 ## Assessment
 
-No grades gate this unit. It holds one CS task: **CS1** (formal elements study set plus Recording Page 1, in your sketchbook), collected Mon 2026-09-14. It is practice toward A1. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]].
+No grades gate this unit. It holds one CS task: **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS1]]** (formal elements study set plus Recording Page 1, in your sketchbook), collected Mon 2026-09-14. It is practice toward [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone|A1]]. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]].
 
 ## Key content
 

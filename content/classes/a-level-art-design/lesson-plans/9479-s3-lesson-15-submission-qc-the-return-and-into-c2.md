@@ -23,7 +23,7 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | The PDF submission assembled to the Cambridge screen limits and passed through QC; the investigation returned 1:1; a C2 preview |
-| Graded | No attainment. The **End of Term (the Final)** falls in the projected EoT window (Mon 2028-01-10 → Mon 01-17) — teacher-marked against the Cambridge criteria, date at the teacher's discretion |
+| Graded | No attainment. The **End of Term (the Final)** falls in the projected [[classes/a-level-art-design/assessments/9479-s3-assessments\|EoT]] window (Mon 2028-01-10 → Mon 01-17) — teacher-marked against the Cambridge criteria, date at the teacher's discretion |
 | Homework | The Semester 4 winter homework: the C2/ESA past-paper review and drawing regimen (feeds [[classes/a-level-art-design/unit-plans/9479-s4-unit-1-foundations-on-the-question\|S4 Unit 1]]) |
 
 ## Overview

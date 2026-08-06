@@ -34,8 +34,8 @@ Dates below may shift if the school publishes a different calendar for this peri
 | W1 | 2026-09-02 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-01-introduction-the-sketchbook-and-first-marks\|U1·L1]] · S1/17 | Course intro; the sketchbook contract; the visual elements; line studies | — |
 | W2 | 2026-09-09 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-02-tone-and-form\|U1·L2]] · S2 | Tone and form — "build form with tone, not outline" | — |
 | W3 | 2026-09-16 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-03-texture-mark-making-and-negative-space\|U1·L3]] · S3 | Texture, mark-making, negative space | |
-| W4 | 2026-09-23 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-04-composing-the-final-drawing\|U1·L4]] · S4 | Compose and begin the final drawing | **CS1** exercise set graded |
-| W5 | 2026-09-30 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing\|U1·L5]] · S5 | **A1: final observational drawing** + reflection, in class | **A1**; HW1 set |
+| W4 | 2026-09-23 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-04-composing-the-final-drawing\|U1·L4]] · S4 | Compose and begin the final drawing | **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|CS1]]** exercise set graded |
+| W5 | 2026-09-30 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing\|U1·L5]] · S5 | **[[classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing\|A1]]: final observational drawing** + reflection, in class | **A1**; [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|HW1]] set |
 
 ## Assessment
 
