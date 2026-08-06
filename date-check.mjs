@@ -59,8 +59,8 @@ const UNBOUND =
 // In art courses A1–A5 are also paper sizes and material names ("three A5
 // drawings", "the A5 Drawing Guide", "A3 mind map"). A code followed by a
 // making word is paper, not an assessment.
-const PAPER_BEFORE = /(?:sides? of|sheets? of|piece of|printed at)\s+$/i
-const PAPER =
+export const PAPER_BEFORE = /(?:sides? of|sheets? of|piece of|printed at)\s+$/i
+export const PAPER =
   /^\s*(?:-?\s*)(?:[a-z]+[- ])?(?:paper|sheets?|cards?|stock|cartridge|size|double|drawings?|stud(?:y|ies)|mind map|bookmark|landscape|portrait|sketch|Drawing Guide|boards?\b)/i
 
 // All dates in a string as {iso, index}. Short forms (MM-DD, "19 Nov") take

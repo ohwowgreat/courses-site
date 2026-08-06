@@ -25,7 +25,7 @@ import { courseDetailEvents } from "./course-events.mjs"
 import { reframeAll } from "./reframe.mjs"
 import { libraryMarkdown } from "./gallery.mjs"
 import { insertCitations } from "./cite.mjs"
-import { checkDates } from "./date-check.mjs"
+import { checkDates, PAPER, PAPER_BEFORE } from "./date-check.mjs"
 import { syncDecks, deckLine, courseDeckBlock, DECKS_DIR } from "./decks.mjs"
 import { statStrip, stripHtml } from "./at-a-glance.mjs"
 
@@ -1409,6 +1409,110 @@ function studentTitle(rel, title) {
   return title
 }
 
+// Assessment codes link to their pages (2026-08-06): the first mention of
+// each code on a page becomes a wikilink — attainments and the EoT to their
+// brief page, CS/HW/SB/LB items to the course's Course Skills page, and on
+// 9479's future semesters everything to that semester's register, since
+// their briefs are not written yet. Presentation-layer, like studentTitle:
+// the vault keeps plain codes. Tables (statStrip must still promote their
+// rows), headings, blockquotes, raw HTML and existing links are left alone,
+// and date-check's paper-size guard keeps "three A5 drawings" unlinked.
+const A_DIR = {
+  "classes/media-studies": {
+    s1: {
+      briefs: {
+        A1: "9607-s1-a1-timed-media-language-analysis",
+        A2: "9607-s1-a2-blog-mid-point",
+        A3: "9607-s1-a3-c1-portfolio",
+        A4: "9607-s1-a4-section-a-authentic-format",
+        EoT: "9607-s1-eot-component-2-paper",
+      },
+      cs: "9607-s1-course-skills-and-homework",
+    },
+  },
+  "classes/art-appreciation": {
+    s1: {
+      briefs: {
+        A1: "art-appreciation-s1-a1-unit-1-board",
+        A2: "art-appreciation-s1-a2-titian-manet-comparison",
+        A3: "art-appreciation-s1-a3-food-and-ethics-essay",
+        A4: "art-appreciation-s1-a4-unit-4-synthesis",
+        EoT: "art-appreciation-s1-eot-retrospective",
+      },
+      cs: "art-appreciation-s1-course-skills",
+    },
+  },
+  "classes/pre-a-level-art-design": {
+    s1: {
+      briefs: {
+        A1: "pal-s1-a1-observational-drawing",
+        A2: "pal-s1-a2-photographic-series",
+        A3: "pal-s1-a3-final-collage",
+        A4: "pal-s1-a4-final-poster",
+        A5: "pal-s1-a5-sketchbook",
+        EoT: "pal-s1-eot-semester-portfolio",
+      },
+      cs: "pal-s1-course-skills-and-homework",
+    },
+  },
+  "classes/a-level-art-design": {
+    s1: {
+      briefs: {
+        A1: "9479-s1-a1-recording-milestone",
+        A2: "9479-s1-a2-exploration-and-artist-study",
+        A3: "9479-s1-a3-development-milestone",
+        A4: "9479-s1-a4-final-portfolio",
+        EoT: "9479-s1-the-final",
+      },
+      cs: "9479-s1-course-skills",
+    },
+    s2: { register: "9479-s2-assessments" },
+    s3: { register: "9479-s3-assessments" },
+    s4: { register: "9479-s4-assessments" },
+  },
+}
+
+function linkAssessmentCodes(body, rel, publishedTargets) {
+  const course = Object.keys(A_DIR).find((dir) => rel.startsWith(dir + "/"))
+  if (!course || rel.includes("/assessments/")) return body
+  const sems = A_DIR[course]
+  const sem = Object.keys(sems).length > 1 ? rel.match(/-(s\d)-/)?.[1] : Object.keys(sems)[0]
+  const conf = sem && sems[sem]
+  if (!conf) return body // no semester marker on a multi-semester course
+  // A future-semester outline on a single-register course would mislink its
+  // codes to this semester's pages.
+  if (!sems.s2 && /semester-[2-9]/.test(rel)) return body
+
+  const targetOf = (code) => {
+    const page = conf.register ?? (/^(A\d|EoT)$/.test(code) ? conf.briefs[code] : conf.cs)
+    if (!page) return null
+    const target = `${course}/assessments/${page}`
+    return publishedTargets.has(target) ? target : null
+  }
+
+  const linked = new Set()
+  return body
+    .split("\n")
+    .map((line) => {
+      if (line.includes("|") || line.includes("<") || /^\s*[#>]/.test(line)) return line
+      return line.replace(/\b(A[1-5]|CS\d{1,2}|HW\d|SB\d|LB\d|EoT)\b/g, (code, _c, at) => {
+        if (linked.has(code)) return code
+        // Inside an existing wikilink, or a paper size, stays as written.
+        if (line.lastIndexOf("[[", at) > line.lastIndexOf("]]", at)) return code
+        const after = line.slice(at + code.length)
+        if (PAPER.test(after) || PAPER_BEFORE.test(line.slice(0, at))) return code
+        // "the A2 season/year" is A-Level terminology for the second year,
+        // not the assessment.
+        if (/^[- ]?(season|year|timeline|entry)\b/.test(after)) return code
+        const target = targetOf(code)
+        if (!target) return code
+        linked.add(code)
+        return `[[${target}|${code}]]`
+      })
+    })
+    .join("\n")
+}
+
 // Bare full-path wikilinks render as their slug ("bnds-assessment-framework");
 // alias them with the target's title so prose reads like prose. Table rows are
 // skipped — a raw "|" inside a cell would break the row, and links there
@@ -1473,6 +1577,9 @@ for (const { rel, frontmatter: fm, body: cleaned, practice } of pages) {
   }
 
   body = aliasBareLinks(body, studentTitles)
+  // Before the practice append, so answer reveals keep their links-free rule
+  // and the first linked mention lands in the main body.
+  body = linkAssessmentCodes(body, rel, publishedTargets)
 
   const depth = rel.split("/").length - 1
   // Figures first: their anchors must match page content, not the hero's caption.
