@@ -25,6 +25,7 @@ import { courseDetailEvents } from "./course-events.mjs"
 import { reframeAll } from "./reframe.mjs"
 import { libraryMarkdown } from "./gallery.mjs"
 import { insertCitations } from "./cite.mjs"
+import { checkDates } from "./date-check.mjs"
 import { syncDecks, deckLine, courseDeckBlock, DECKS_DIR } from "./decks.mjs"
 import { statStrip, stripHtml } from "./at-a-glance.mjs"
 
@@ -1353,6 +1354,15 @@ for (const rel of published) {
 
   pages.push({ rel, frontmatter, body, practice })
 }
+
+// ── Assessment-date consistency (advisory) ──────────────────────────────────
+// Dates are prose in the vault, so a redraw can move a sitting in the register
+// and miss a lesson body (July 2026 did exactly that). date-check.mjs compares
+// every assessment-code date mention — lesson prose, briefs, unit plans, the
+// calendar-events files — against the registers, which are the declared truth.
+// Findings print as plain lines, never ⚠: they surface in every auto-sync log
+// without blocking a publish. Also runs standalone: node date-check.mjs.
+for (const finding of await checkDates(VAULT)) console.log(finding)
 
 // ── Phase 2: student-voice reframe ──────────────────────────────────────────
 // The filter above can only *delete* teacher material; the surviving prose is
