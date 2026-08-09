@@ -140,32 +140,35 @@ const HEROES = {
     "album-leaf",
   "classes/media-studies/lesson-plans/9607-s1-lesson-01-the-four-key-concepts.md":
     "seventh-regiment",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-how-images-mean.md":
+  "classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-signs-and-codes.md":
     "skull-cigarette",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-03-sign-types-and-codes.md":
+  "classes/media-studies/lesson-plans/9607-s1-lesson-03-camera.md": "the-tugboat",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-04-sound.md": "musicians",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-05-mise-en-scene.md":
     "calling-of-matthew",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-04-genre-and-camera.md": "at-the-telephone",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock.md":
+  "classes/media-studies/lesson-plans/9607-s1-lesson-06-editing.md": "cloud-sequence",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-09-genre.md": "at-the-telephone",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock.md":
     "banqueting-sketch",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis.md":
+  "classes/media-studies/lesson-plans/9607-s1-lesson-08-the-viewing-protocol-and-a1.md":
     "whittier-classroom",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint.md":
+  "classes/media-studies/lesson-plans/9607-s1-lesson-10-narrative-barthes-and-the-blog-audit.md":
     "wanderer",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product.md":
+  "classes/media-studies/lesson-plans/9607-s1-lesson-11-representation-applied-to-your-own-product.md":
     "kasebier-wild-west",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze.md": "folies-bergere",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-10-the-creative-critical-reflection.md":
+  "classes/media-studies/lesson-plans/9607-s1-lesson-12-the-gaze.md": "folies-bergere",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-13-the-creative-critical-reflection.md":
     "rivera-self-portrait",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission.md":
+  "classes/media-studies/lesson-plans/9607-s1-lesson-14-audiences-and-the-portfolio-submission.md":
     "good-glass-of-beer",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-12-institutions-and-section-a-craft.md":
+  "classes/media-studies/lesson-plans/9607-s1-lesson-15-institutions-and-section-a-craft.md":
     "above-fifth-avenue",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-13-a4-section-a-in-authentic-format.md":
+  "classes/media-studies/lesson-plans/9607-s1-lesson-16-a4-section-a-in-authentic-format.md":
     "lindbergh-1927",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-14-consolidation-and-the-coverage-matrix.md":
+  "classes/media-studies/lesson-plans/9607-s1-lesson-17-consolidation-and-the-coverage-matrix.md":
     "moon-atlas",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-15-exam-rehearsal.md": "musicians",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-16-end-of-term-exam-and-return.md":
+  "classes/media-studies/lesson-plans/9607-s1-lesson-18-exam-rehearsal.md": "musicians",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-19-end-of-term-exam-and-return.md":
     "the-magpie",
 }
 
@@ -617,8 +620,10 @@ const FIGURES = {
   // The collage plate the PAL credits file has been recording as missing since July.
   "classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage.md": [
     {
+      // Anchor repaired 2026-08-09: the unit page says "two images say a third thing",
+      // not "two images together...", so this pair had been silently dropping out.
       slugs: ["bearden-block", "bearden-musicians"],
-      anchor: /two images together say a third thing|start with \*\*juxtaposition\*\*/i,
+      anchor: /two images say a third thing/i,
     },
   ],
   "classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics.md": [
@@ -652,72 +657,115 @@ const FIGURES = {
       anchor: /- \*\*Anchorage\*\*/,
     },
   ],
-  "classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-how-images-mean.md": [
+  "classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-signs-and-codes.md": [
     { slugs: ["mummy-portrait"], anchor: /connotation chains|who taught you that/i },
-  ],
-  "classes/media-studies/lesson-plans/9607-s1-lesson-03-sign-types-and-codes.md": [
     {
+      // Peirce merged into this lesson 2026-08-09 (was the standalone sign-types
+      // lesson, whose slot is now Camera).
       slugs: ["nadar-taylor", "talbot-lace-index", "deer-mandala"],
-      anchor: /an index that looks like an icon|means by convention/i,
+      anchor: /an index that looks like an icon|means by convention alone/i,
     },
   ],
-  "classes/media-studies/lesson-plans/9607-s1-lesson-04-genre-and-camera.md": [
+  "classes/media-studies/lesson-plans/9607-s1-lesson-03-camera.md": [
     {
-      // The v3 restructure dropped the skulls-and-candles starter; the pair now
-      // illustrates Neale directly (its captions say so).
-      slugs: ["vanitas-schaak", "vanitas-schoor"],
-      anchor: /difference in repetition|repetition and difference/i,
-    },
-    {
-      // "The camera creeps toward" as one unbroken move, read in three places.
+      // "The camera creeps toward" as one unbroken move, read in three plates.
+      // Moved here 2026-08-09 from the old genre-and-camera lesson: camera has
+      // its own lesson now and this is its central example.
       slugs: ["goodfellas-copacabana-1", "goodfellas-copacabana-2", "goodfellas-copacabana-3"],
       anchor: /creeps toward|refuses to follow/i,
     },
     {
-      // Against the technical rehearsal: a professional rig being carried, and
-      // what a continuous take asks of blocking. Their own shoot is a week away.
+      // Against the three controls, the day before they shoot CS3.
       slugs: ["adolescence-one-take", "adolescence-interview"],
-      anchor: /kill student footage|Tap to lock focus|auto exposure lets the face go dark/i,
+      anchor: /tap to lock, not auto|expose for the face/i,
+    },
+    {
+      // A viewpoint nobody can stand in, against the angle bullet.
+      slugs: ["st-pauls-spires"],
+      anchor: /high, low, canted/i,
+    },
+    {
+      // A photograph made about composition, against the composition bullet.
+      slugs: ["sea-of-steps"],
+      anchor: /rule of thirds, depth of field/i,
     },
   ],
-  "classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock.md": [
+  "classes/media-studies/lesson-plans/9607-s1-lesson-04-sound.md": [
     {
-      // The coursebook's own worked example for Todorov (§3.2), one plate per
-      // stage so the arc can be read off the film rather than only listed.
-      slugs: [
-        "toystory-equilibrium",
-        "toystory-disruption",
-        "toystory-recognition",
-        "toystory-repair",
-        "toystory-new-equilibrium",
-      ],
-      anchor: /movement through stages|equilibrium, then disruption/i,
-    },
-    { slugs: ["peasant-wedding"], anchor: /by what they do, not who they are|donor/i },
-    {
-      // The pack's own worked binaries table is built on this series.
-      slugs: ["lupin-vitrine", "lupin-assane"],
-      anchor: /worked \*?Lupin\*? table|story runs on opposed values/i,
+      // The part of music that happens before the music: ambient sound made visible.
+      slugs: ["musicians"],
+      anchor: /the room with the screen off|Sound only \(20 min\)/i,
     },
   ],
-  "classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis.md": [
+  "classes/media-studies/lesson-plans/9607-s1-lesson-05-mise-en-scene.md": [
     {
-      slugs: ["vivarini-exorcism"],
-      anchor: /where did Propp fail|withheld function/i,
+      // One window doing the casting, against the lighting block.
+      slugs: ["calling-of-matthew"],
+      anchor: /key, fill and back light/i,
+    },
+    {
+      // Production design read whole, against the four-locations activity.
+      slugs: ["peasant-wedding"],
+      anchor: /a country manor/i,
     },
   ],
-  "classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint.md":
+  "classes/media-studies/lesson-plans/9607-s1-lesson-06-editing.md": [
+    {
+      // Meaning assembled by sequence rather than by any single frame.
+      slugs: ["cloud-sequence"],
+      anchor: /Clap the cuts|Two sequences, contrasting in pace/i,
+    },
+  ],
+  "classes/media-studies/lesson-plans/9607-s1-lesson-09-genre.md": [
+    {
+      // The pair illustrates Neale directly (its captions say so).
+      slugs: ["vanitas-schaak", "vanitas-schoor"],
+      anchor: /difference in repetition|repetition and difference/i,
+    },
+  ],
+  "classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock.md": [
+    {
+      // The standard the lock is held to, stated as a picture.
+      slugs: ["banqueting-sketch"],
+      anchor: /someone else could shoot without asking questions/i,
+    },
+  ],
+  "classes/media-studies/lesson-plans/9607-s1-lesson-08-the-viewing-protocol-and-a1.md": [
+    {
+      // The fixed reading order, modelled on one dense image.
+      slugs: ["calling-of-matthew"],
+      anchor: /framing → camera → light/i,
+    },
+  ],
+  "classes/media-studies/lesson-plans/9607-s1-lesson-10-narrative-barthes-and-the-blog-audit.md":
     [
       {
-        // v3 writes the protocol as prose ("describe, question, suggest"), not
-        // the arrow chain the old anchor matched.
+        // The coursebook's own worked example for Todorov (§3.2), one plate per
+        // stage. Moved here 2026-08-09 with narrative itself.
+        slugs: [
+          "toystory-equilibrium",
+          "toystory-disruption",
+          "toystory-recognition",
+          "toystory-repair",
+          "toystory-new-equilibrium",
+        ],
+        anchor: /Todorov's arc/i,
+      },
+      { slugs: ["peasant-wedding"], anchor: /by what they do, not who they are/i },
+      {
+        // The pack's own worked binaries table is built on this series.
+        slugs: ["lupin-vitrine", "lupin-assane"],
+        anchor: /worked \*?Lupin\*? table/i,
+      },
+      { slugs: ["vivarini-exorcism"], anchor: /where did Propp fail|withheld function/i },
+      {
         slugs: ["hampton-geography"],
-        anchor: /describe, question, suggest|audited post by post/i,
+        anchor: /describe → question → suggest|audited post by post/i,
       },
     ],
-  "classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product.md":
+  "classes/media-studies/lesson-plans/9607-s1-lesson-11-representation-applied-to-your-own-product.md":
     [{ slugs: ["lincoln-mcclellan"], anchor: /photo-op is older than the word|posed in a tent/i }],
-  "classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze.md": [
+  "classes/media-studies/lesson-plans/9607-s1-lesson-12-the-gaze.md": [
     // Was a name-only citation of Untitled Film Still #21, which the library does
     // not hold. Embedded as #48 on 2026-08-08; equally canonical for three looks.
     {
@@ -729,7 +777,7 @@ const FIGURES = {
     { slugs: ["sherman-film-still"], anchor: /three looks/i },
     { slugs: ["cahun-gaze"], anchor: /oppositional gaze|looking back at a text/i },
   ],
-  "classes/media-studies/lesson-plans/9607-s1-lesson-12-institutions-and-section-a-craft.md": [
+  "classes/media-studies/lesson-plans/9607-s1-lesson-15-institutions-and-section-a-craft.md": [
     {
       slugs: ["emperors-table"],
       anchor: /frame belonged to the payer|imperial commission|Emperor's camp/i,
@@ -1170,10 +1218,10 @@ function dropTableColumns(body, dropHeaders) {
 // the model never sees the names. reframe.mjs carries matching LEAK_MARKERS in
 // case a future vault edit reintroduces them in a phrasing these regexes miss.
 const SEALED_PAPERS = {
-  "classes/media-studies/lesson-plans/9607-s1-lesson-15-exam-rehearsal.md": [
+  "classes/media-studies/lesson-plans/9607-s1-lesson-18-exam-rehearsal.md": [
     [/the \*Your Honor\* rehearsal paper/g, "a sealed past paper"],
   ],
-  "classes/media-studies/lesson-plans/9607-s1-lesson-16-end-of-term-exam-and-return.md": [
+  "classes/media-studies/lesson-plans/9607-s1-lesson-19-end-of-term-exam-and-return.md": [
     [/The paper: June 20\d\d\/\d\d \(\*Servant\*\)/g, "The paper stays sealed until the sitting"],
   ],
 }
