@@ -5,12 +5,24 @@
 // The library is 7.2 GB of museum scans (one file is 38,414 px wide). Nothing is
 // served from it directly — everything here is downsampled to web size first.
 //
-// Selection is deliberately restricted to work published before ~1930, which is
-// public domain in the relevant jurisdictions — plus works of the US federal
-// government (FSA photography: Lange's Migrant Mother), which are public domain
-// by statute regardless of date. The library also holds in-copyright photography
-// (Tillmans, Gursky, Sherman, Weems) that is fine to project in a classroom but
-// not to republish on a website.
+// Selection was restricted to work published before ~1930 (public domain in the
+// relevant jurisdictions) plus works of the US federal government (FSA photography:
+// Lange's Migrant Mother), which are public domain by statute regardless of date.
+//
+// That rule was lifted on 2026-08-08. It was excluding the works the lessons
+// actually teach: Duchamp's Fountain from the artworld lesson, Weems's Kitchen
+// Table Series from food and ethics, Sherman from the gaze, and most of the 191
+// photographer folders in the library. The site is behind a site-wide password
+// gate (middleware.ts, fails closed) and serves one teacher's classes, so it now
+// follows the same standing that governs the classroom and the decks: teaching
+// use is cleared. Choose the work the lesson teaches; do not substitute a
+// public-domain neighbour for it.
+//
+// Two source roots. `file` resolves against the shared Image Slides library by
+// default. `root: "sourced"` resolves against ./sourced, which holds public-domain
+// works fetched from Wikimedia Commons because the library lacks them (Titian's
+// Venus of Urbino, Manet's Olympia, and the rest of the Berger set). Anything in
+// ./sourced is public domain and safe to keep in the repo.
 
 import { execFile } from "node:child_process"
 import { mkdir, writeFile, access } from "node:fs/promises"
@@ -19,7 +31,9 @@ import { promisify } from "node:util"
 
 const run = promisify(execFile)
 const LIB = "/Users/dogan/Documents/Vaults/Courses/raw/shared/Image Slides"
+const SOURCED = join(import.meta.dirname, "sourced")
 const OUT = join(import.meta.dirname, "quartz/static/img")
+const ROOTS = { library: LIB, sourced: SOURCED }
 
 // slug, source file, credit line, and an optional pre-crop for extreme aspect ratios.
 const PLATES = [
@@ -240,7 +254,8 @@ const PLATES = [
   {
     slug: "lissitzky-schwitters",
     file: "Photographers/El Lissitzky/El Lissitzky - Kurt Schwitters.jpg",
-    credit: "El Lissitzky, *Kurt Schwitters*, c. 1924 — a photomontage portrait of the great collagist",
+    credit:
+      "El Lissitzky, *Kurt Schwitters*, c. 1924 — a photomontage portrait of the great collagist",
   },
   {
     slug: "talbot-lace",
@@ -260,7 +275,8 @@ const PLATES = [
   {
     slug: "impossible-bouquet",
     file: "Dutch and Flemish Still Life Painting (Art Paintings)/Ambrosius Bosschaert the Elder (1573-1621)/Bouquet of flowers in earthenware vase (1609-1610) London, Nat. gallery).jpg",
-    credit: "Ambrosius Bosschaert the Elder, *A Still Life of Flowers*, 1609–10 — flowers that never bloom together, composed anyway",
+    credit:
+      "Ambrosius Bosschaert the Elder, *A Still Life of Flowers*, 1609–10 — flowers that never bloom together, composed anyway",
   },
   {
     slug: "assembling",
@@ -281,7 +297,8 @@ const PLATES = [
   {
     slug: "gsell-advertisement",
     file: "Photographers/Emile Gsell/Photographic Advertisement - 1860s.jpg",
-    credit: "Émile Gsell, photographic advertisement, 1860s — one name card commanding a hundred photographs",
+    credit:
+      "Émile Gsell, photographic advertisement, 1860s — one name card commanding a hundred photographs",
   },
   {
     slug: "kawase-temple",
@@ -478,13 +495,234 @@ const PLATES = [
     file: "Claude Monet, The Magpie, 1869.jpg",
     credit: "Claude Monet, *The Magpie*, 1869 — winter light, and the quiet after",
   },
+  // ── The works the lessons actually teach (added 2026-08-08) ────────────────
+  // Already in the library; the pre-1930 rule was the only thing withholding them.
+  {
+    slug: "duchamp-fountain",
+    file: "Marcel Duchamp, Fountain, 1917.jpeg",
+    credit: "Marcel Duchamp, *Fountain*, 1917. The object that made looking insufficient",
+  },
+  {
+    slug: "weems-kitchen-table",
+    file: "Photographers/Carrie Mae Weems/Carrie Mae Weems, The Kitchen Table Series, 1990.jpg",
+    credit:
+      "Carrie Mae Weems, from *The Kitchen Table Series*, 1990. One table, one light, the whole argument",
+  },
+  {
+    slug: "sherman-film-still",
+    file: "Photographers/Cindy Sherman/Cindy Sherman Untitled Film Still #48 1979.png",
+    credit:
+      "Cindy Sherman, *Untitled Film Still #48*, 1979. A film that does not exist, and you know the character anyway",
+  },
+  // Public domain, absent from the library, fetched from Wikimedia Commons.
+  {
+    slug: "venus-of-urbino",
+    root: "sourced",
+    file: "venus-of-urbino.jpg",
+    credit: "Titian, *Venus of Urbino*, 1534. What does it ask you to accept as natural?",
+  },
+  {
+    slug: "olympia",
+    root: "sourced",
+    file: "olympia.jpg",
+    credit: "Édouard Manet, *Olympia*, 1863. Every refusal is findable in the paint",
+  },
+  {
+    slug: "gentileschi-judith",
+    root: "sourced",
+    file: "gentileschi-judith.jpg",
+    credit: "Artemisia Gentileschi, *Judith Beheading Holofernes*, c. 1620",
+  },
+  {
+    slug: "le-gras",
+    root: "sourced",
+    file: "le-gras.jpg",
+    credit:
+      "Joseph Nicéphore Niépce, *View from the Window at Le Gras*, 1826. The first photograph, and eight hours of light",
+  },
+  {
+    slug: "wheatfield-crows",
+    root: "sourced",
+    file: "wheatfield-crows.jpg",
+    credit:
+      "Vincent van Gogh, *Wheatfield with Crows*, 1890. Berger's demonstration: the painting, then the painting with a caption",
+  },
+  {
+    slug: "virgin-rocks-london",
+    root: "sourced",
+    file: "virgin-rocks-london.jpg",
+    credit: "Leonardo da Vinci, *The Virgin of the Rocks*, c. 1495–1508 (National Gallery, London)",
+  },
+  {
+    slug: "virgin-rocks-louvre",
+    root: "sourced",
+    file: "virgin-rocks-louvre.jpg",
+    credit:
+      "Leonardo da Vinci, *The Virgin of the Rocks*, c. 1483–86 (Louvre, Paris). Two originals, and reproduction makes them one image",
+  },
+  {
+    slug: "venus-and-mars",
+    root: "sourced",
+    file: "venus-and-mars.jpg",
+    credit: "Sandro Botticelli, *Venus and Mars*, c. 1485. Berger's cropping demonstration",
+  },
+  // ── 9607 contemporary texts (added 2026-08-08) ─────────────────────────────
+  // Supplied by the teacher into "Film & TV/". These are the texts the lessons
+  // actually teach; the pre-1930 plates that stood in for them were unrelated.
+  // Todorov's five stages, in the order the coursebook works them (§3.2).
+  {
+    slug: "toystory-equilibrium",
+    file: "Film & TV/Toy Story/toystory_staffmeeting.png",
+    credit: "*Toy Story* (1995), stage 1. Equilibrium: the staff meeting, before anything breaks",
+  },
+  {
+    slug: "toystory-disruption",
+    file: "Film & TV/Toy Story/toystory_buzzunwrapped.png",
+    credit: "*Toy Story* (1995), stage 2. Disruption: Buzz arrives and displaces Woody",
+  },
+  {
+    slug: "toystory-recognition",
+    file: "Film & TV/Toy Story/toystory_woodykicksbuzzout3.png",
+    credit:
+      "*Toy Story* (1995), stage 3. Recognition: the rivalry breaks open and Buzz goes out the window",
+  },
+  {
+    slug: "toystory-repair",
+    file: "Film & TV/Toy Story/toystory_sidshouse.png",
+    credit: "*Toy Story* (1995), stage 4. Repair: lost in Sid's house, working the way back",
+  },
+  {
+    slug: "toystory-new-equilibrium",
+    file: "Film & TV/Toy Story/toystory_reunited.png",
+    credit: "*Toy Story* (1995), stage 5. New equilibrium: the rivals, now a pair",
+  },
+  // The Copacabana steadicam, read as one move in three places.
+  {
+    slug: "goodfellas-copacabana-1",
+    file: "Film & TV/Goodfellas/goodfellas_copacabana 1.png",
+    credit: "*Goodfellas* (1990). The Copacabana take begins on the street",
+  },
+  {
+    slug: "goodfellas-copacabana-2",
+    file: "Film & TV/Goodfellas/goodfellas_copacabana 2.png",
+    credit: "*Goodfellas* (1990). The same unbroken shot, through the service corridor",
+  },
+  {
+    slug: "goodfellas-copacabana-3",
+    file: "Film & TV/Goodfellas/goodfellas1.jpg.webp",
+    credit: "*Goodfellas* (1990). One continuous move, ending at the table",
+  },
+  {
+    slug: "adolescence-one-take",
+    file: "Film & TV/Adolescence/adolescence_behindthescene.png",
+    credit: "*Adolescence* (2025). The camera is carried, not cut: the rig crossing a street scene",
+  },
+  {
+    slug: "adolescence-interview",
+    file: "Film & TV/Adolescence/adolescence_filmstill2.png",
+    credit:
+      "*Adolescence* (2025). Blocking for a continuous take: three people, one room, no cutaway",
+  },
+  // ── Second teacher delivery, 2026-08-08 ────────────────────────────────────
+  // The French Netflix *Lupin*, which is the series the Cambridge U3 notes work
+  // (not the anime of the same name).
+  {
+    slug: "lupin-vitrine",
+    file: "Film & TV/Lupin/66dbbdfa-0834-4dc9-9455-f6edce7788c2.avif",
+    credit:
+      "*Lupin* (2021). Assane in the museum, dressed to be unseen: wealth against poverty, and the thief against the hero, in one frame",
+  },
+  {
+    slug: "lupin-assane",
+    file: "Film & TV/Lupin/Lupin_305_Unit_02043.webp",
+    credit: "*Lupin* (2021). The same man, dressed to be seen",
+  },
+  // L09 van Zoonen: one house, one season, opposite conventions, so the swap
+  // isolates the performance and not the budget.
+  {
+    slug: "ad-sauvage",
+    file: "Print & Advertising/Ads/sauvage.webp",
+    credit: "Dior, *Sauvage*. Full face, direct address, landscape, subject as agent",
+  },
+  {
+    slug: "ad-jadore",
+    file: "Print & Advertising/Ads/jadore.webp",
+    credit: "Dior, *J'adore*. Gold, averted eyes, the body as surface",
+  },
+  {
+    slug: "nationwide-title",
+    file: "Film & TV/Nationwide/nationwide_title.png",
+    credit: "*Nationwide* (BBC). The broadcast on which Morley tested differential readings",
+  },
+  {
+    slug: "rosler-kitchen",
+    file: "Martha Rosler, Semiotics of the Kitchen, 1975.png",
+    credit:
+      "Martha Rosler, *Semiotics of the Kitchen*, 1975. A kitchen turned into an alphabet of rage",
+  },
+  {
+    slug: "warhol-brillo",
+    file: "Andy Warhol, Brillo Boxes, 1964.jpg",
+    credit: "Andy Warhol, *Brillo Boxes*, 1964. The object Danto wrote 'The Artworld' about",
+  },
+  {
+    slug: "berger-ways-of-seeing",
+    file: "Unsorted/John Berger, Ways of Seeing(still).png",
+    credit: "John Berger, *Ways of Seeing* (BBC, 1972)",
+  },
+  {
+    slug: "goodbye-to-language",
+    file: "Film & TV/Goodbye to Language/2019-01-16 (15).png",
+    credit: "Jean-Luc Godard, *Goodbye to Language*, 2014. An image that refuses to add up",
+  },
+  {
+    slug: "eat-drink-man-woman",
+    file: "Film & TV/Eat Drink Man Woman/eatdrinkmanwoman_opening.png",
+    credit: "Ang Lee, *Eat Drink Man Woman*, 1994. The table is easier to see when it is moving",
+  },
+  {
+    slug: "edmw-dinner",
+    file: "Film & TV/Eat Drink Man Woman/eatdrinkmanwoman_dinner.png",
+    credit: "Ang Lee, *Eat Drink Man Woman*, 1994. The Sunday dinner, where the rules get enforced",
+  },
+  {
+    slug: "la-chimera",
+    file: "Film & TV/La Chimera/La Chimera Scene 2.png",
+    credit: "Alice Rohrwacher, *La Chimera*, 2023",
+  },
+  // PAL U3: the collage plate the credits file has been recording as missing.
+  {
+    slug: "bearden-block",
+    file: "Romare Bearden, The Block, 1971.jpg",
+    credit: "Romare Bearden, *The Block*, 1971. Six panels, one street, cut and reassembled",
+  },
+  {
+    slug: "bearden-musicians",
+    file: "Romare Bearden, Three Folk Musicians, 1967, collage of various papers with paint and graphite on canvas.jpg",
+    credit: "Romare Bearden, *Three Folk Musicians*, 1967",
+  },
+  {
+    slug: "hoch-kitchen-knife",
+    file: "Hannah Höch, Cut with the Kitchen Knife Dada Through the Last Weimar Beer-Belly Cultural Epoch in Germany, collage, mixed media, 1919-1920.jpg",
+    credit: "Hannah Höch, *Cut with the Kitchen Knife*, 1919",
+  },
+  {
+    slug: "cosmopolitan-cover",
+    file: "Print & Advertising/Cosmopolitan/cosmopolitan-magazine-cover.avif",
+    credit: "*Cosmopolitan*, cover",
+  },
+  {
+    slug: "glamour-cover",
+    file: "Print & Advertising/Glamour/Cover-Rita_glamour_5aug15_pr_b.webp",
+    credit: "*Glamour*, cover, August 2015",
+  },
 ]
 
 await mkdir(OUT, { recursive: true })
 
 const credits = {}
 for (const plate of PLATES) {
-  const src = join(LIB, plate.file)
+  const src = join(ROOTS[plate.root ?? "library"], plate.file)
   try {
     await access(src)
   } catch {
@@ -498,7 +736,15 @@ for (const plate of PLATES) {
   if (plate.crop) {
     // Two passes: sips reorders -c and -Z within a single invocation, resampling
     // before it crops, which collapses a 38,414 px panorama to a few hundred px.
-    await run("sips", [...fmt, "-c", String(plate.crop[0]), String(plate.crop[1]), src, "--out", dest])
+    await run("sips", [
+      ...fmt,
+      "-c",
+      String(plate.crop[0]),
+      String(plate.crop[1]),
+      src,
+      "--out",
+      dest,
+    ])
     await run("sips", [...fmt, "-Z", "2000", dest, "--out", dest])
   } else {
     await run("sips", [...fmt, "-Z", "2000", src, "--out", dest])

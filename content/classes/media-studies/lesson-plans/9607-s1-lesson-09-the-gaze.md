@@ -47,10 +47,26 @@ This lesson teaches gaze theory as a set of live questions you can test, not set
 
 **Performance** (van Zoonen): gender in media is assembled from repeatable conventions, not a fact being photographed. The conventions include pose, gaze direction, fragmentation, and setting. Because a performance is assembled, it can be assembled otherwise. Test this by taking two contrasting ads, breaking each into its performance conventions, then swapping the conventions between them. What breaks tells you what the performance was doing.
 
+
+<div class="plate-row">
+<figure class="plate">
+  <img src="../../../static/img/ad-sauvage.jpg" alt="Dior, Sauvage. Full face, direct address, landscape, subject as agent" loading="lazy" />
+  <figcaption>Dior, <em>Sauvage</em>. Full face, direct address, landscape, subject as agent</figcaption>
+</figure>
+<figure class="plate">
+  <img src="../../../static/img/ad-jadore.jpg" alt="Dior, J'adore. Gold, averted eyes, the body as surface" loading="lazy" />
+  <figcaption>Dior, <em>J'adore</em>. Gold, averted eyes, the body as surface</figcaption>
+</figure>
+</div>
+
 ### The three looks (Mulvey)
 
 
-<p class="cite"><span class="cite-tag">Shown in class</span>Cindy Sherman, <em>Untitled Film Still #21</em>, 1978</p>
+<figure class="plate">
+  <img src="../../../static/img/sherman-film-still.jpg" alt="Cindy Sherman, Untitled Film Still #48, 1979. A film that does not exist, and you know the character anyway" loading="lazy" />
+  <figcaption>Cindy Sherman, <em>Untitled Film Still #48</em>, 1979. A film that does not exist, and you know the character anyway</figcaption>
+</figure>
+
 **The three looks** (Mulvey, 1975): narrative cinema is built around three looks, the camera's, the characters', and the audience's. In classical cinema all three align on women as spectacle. This is a claim from 1975 about a system, made to be tested. To test it, take a clip and track the three looks with timecodes: does the claim describe this text?
 
 **Hold, shift, or invert.** Comparing a pre-2000 film with a post-2018 film of the same genre and a comparable scene lets you ask whether the gaze still holds, has shifted, or has inverted. Gather timecoded evidence for the camera-look, the character-look, and audience positioning in each. One honest finding: an inversion can turn out to be the same structure pointed elsewhere.

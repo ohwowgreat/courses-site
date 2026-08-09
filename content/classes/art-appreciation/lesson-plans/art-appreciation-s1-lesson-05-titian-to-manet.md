@@ -53,10 +53,16 @@ Ask what the picture asks you to accept as natural. A painting can present a pos
 ### Manet, *Olympia*
 
 
+<div class="plate-row">
 <figure class="plate">
-  <img src="../../../static/img/folies-bergere.jpg" alt="Édouard Manet, A Bar at the Folies-Bergère, 1882 — who is looking at whom? the mirror refuses to agree" loading="lazy" />
-  <figcaption>Édouard Manet, <em>A Bar at the Folies-Bergère</em>, 1882 — who is looking at whom? the mirror refuses to agree</figcaption>
+  <img src="../../../static/img/venus-of-urbino.jpg" alt="Titian, Venus of Urbino, 1534. What does it ask you to accept as natural?" loading="lazy" />
+  <figcaption>Titian, <em>Venus of Urbino</em>, 1534. What does it ask you to accept as natural?</figcaption>
 </figure>
+<figure class="plate">
+  <img src="../../../static/img/olympia.jpg" alt="Édouard Manet, Olympia, 1863. Every refusal is findable in the paint" loading="lazy" />
+  <figcaption>Édouard Manet, <em>Olympia</em>, 1863. Every refusal is findable in the paint</figcaption>
+</figure>
+</div>
 
 Look at *Olympia* first with no context. Locate the exact **refusals** Manet makes of Titian, one by one: the specific choices where Manet declines to do what the *Venus of Urbino* does, and what each choice costs. This pairing is the heart of A2.
 

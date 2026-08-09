@@ -67,6 +67,12 @@ The unit's spine is **combine · meaning**. A collage is not decoration. It is a
 
 **Juxtaposition** places two things that do not belong together, together, so the pair says a third thing neither says alone. The Picasso and Höch diptych shows this: same era, opposite temperaments, side by side.
 
+
+<figure class="plate">
+  <img src="../../../static/img/hoch-kitchen-knife.jpg" alt="Hannah Höch, Cut with the Kitchen Knife, 1919" loading="lazy" />
+  <figcaption>Hannah Höch, <em>Cut with the Kitchen Knife</em>, 1919</figcaption>
+</figure>
+
 **Scale** means using the wrong size on purpose. A teacup taller than a building means something. A person smaller than a shoe means something else. If a partner cannot name the third thing your two images say, the juxtaposition is decoration, not meaning yet.
 
 ## Day by day

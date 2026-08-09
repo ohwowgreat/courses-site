@@ -33,10 +33,16 @@ modified: 2026-08-06
 This lesson works through **John Berger**'s argument that a reproduction is not a neutral copy of a painting. You test how the words around an image change its meaning, and you write two captions for one picture: one that changes it, then an honest one. Your deliverable is the caption exercise, done on Mon 2026-11-30, which is ungraded. You also post [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB6]] and [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB7]]. The work feeds [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis|A4]], the Unit 4 synthesis.
 
 
+<div class="plate-row">
 <figure class="plate">
-  <img src="../../../static/img/the-magpie.jpg" alt="Claude Monet, The Magpie, 1869 — winter light, and the quiet after" loading="lazy" />
-  <figcaption>Claude Monet, <em>The Magpie</em>, 1869 — winter light, and the quiet after</figcaption>
+  <img src="../../../static/img/berger-ways-of-seeing.jpg" alt="John Berger, Ways of Seeing (BBC, 1972)" loading="lazy" />
+  <figcaption>John Berger, <em>Ways of Seeing</em> (BBC, 1972)</figcaption>
 </figure>
+<figure class="plate">
+  <img src="../../../static/img/wheatfield-crows.jpg" alt="Vincent van Gogh, Wheatfield with Crows, 1890. Berger's demonstration: the painting, then the painting with a caption" loading="lazy" />
+  <figcaption>Vincent van Gogh, <em>Wheatfield with Crows</em>, 1890. Berger's demonstration: the painting, then the painting with a caption</figcaption>
+</figure>
+</div>
 
 ## The ideas
 
@@ -45,6 +51,18 @@ This lesson works through **John Berger**'s argument that a reproduction is not 
 A **reproduction** is a copy of an artwork, such as a photograph or print of a painting. Berger's argument is that a reproduction is not a neutral copy. It adds something and changes how you read the original. His series and book **Ways of Seeing** set out this case. Take the first objection to it seriously, then test it.
 
 You also read a reproduction as an object with decisions of its own: someone chose the crop, the size, the color, and the place it appears.
+
+
+<div class="plate-row">
+<figure class="plate">
+  <img src="../../../static/img/virgin-rocks-london.jpg" alt="Leonardo da Vinci, The Virgin of the Rocks, c. 1495–1508 (National Gallery, London)" loading="lazy" />
+  <figcaption>Leonardo da Vinci, <em>The Virgin of the Rocks</em>, c. 1495–1508 (National Gallery, London)</figcaption>
+</figure>
+<figure class="plate">
+  <img src="../../../static/img/virgin-rocks-louvre.jpg" alt="Leonardo da Vinci, The Virgin of the Rocks, c. 1483–86 (Louvre, Paris). Two originals, and reproduction makes them one image" loading="lazy" />
+  <figcaption>Leonardo da Vinci, <em>The Virgin of the Rocks</em>, c. 1483–86 (Louvre, Paris). Two originals, and reproduction makes them one image</figcaption>
+</figure>
+</div>
 
 ### Words change the image
 
@@ -61,6 +79,12 @@ A **caption** is the text set next to an image. A caption can change how you see
 ### The floating world (aside)
 
 As a brief aside, you watch one extract from Godard's *Goodbye to Language* and sit with an image that refuses to add up. You also look at the floating world as a market, not a mood.
+
+
+<figure class="plate">
+  <img src="../../../static/img/goodbye-to-language.jpg" alt="Jean-Luc Godard, Goodbye to Language, 2014. An image that refuses to add up" loading="lazy" />
+  <figcaption>Jean-Luc Godard, <em>Goodbye to Language</em>, 2014. An image that refuses to add up</figcaption>
+</figure>
 
 ## Day by day
 

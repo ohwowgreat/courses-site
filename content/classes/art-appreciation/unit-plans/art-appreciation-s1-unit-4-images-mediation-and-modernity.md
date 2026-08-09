@@ -13,8 +13,8 @@ related:
 modified: 2026-08-06
 ---
 <figure class="plate plate--hero">
-  <img src="../../../static/img/representation.jpg" alt="Kitagawa Utamaro, Two Women by a Bamboo Blind, c. 1797" loading="lazy" />
-  <figcaption>Kitagawa Utamaro, <em>Two Women by a Bamboo Blind</em>, c. 1797</figcaption>
+  <img src="../../../static/img/le-gras.jpg" alt="Joseph Nicéphore Niépce, View from the Window at Le Gras, 1826. The first photograph, and eight hours of light" loading="lazy" />
+  <figcaption>Joseph Nicéphore Niépce, <em>View from the Window at Le Gras</em>, 1826. The first photograph, and eight hours of light</figcaption>
 </figure>
 
 # Unit 4: Images, Mediation and Modernity

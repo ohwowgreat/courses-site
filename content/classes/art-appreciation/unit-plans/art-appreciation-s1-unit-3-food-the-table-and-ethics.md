@@ -25,6 +25,18 @@ modified: 2026-08-06
 
 This unit treats the table as a place where rules get enforced, not just a setting. It opens with film, Ang Lee's *Eat Drink Man Woman*, because the table is easier to see when it is moving. It then works through still life as inventory (Heda, with the same painting studied two days running), Leonardo's *Last Supper* as a chosen moment, the disorder in Bruegel and Steen taken seriously, and the Qingming scroll walked along its printed length. It closes on three artists the earlier paintings could not anticipate: Cassatt (domestic labor as labor), Rosler's *Semiotics of the Kitchen*, and Weems's *Kitchen Table Series*. It ends with the [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay|A3]] essay. This is the longest unit of the semester.
 
+
+<div class="plate-row">
+<figure class="plate">
+  <img src="../../../static/img/eat-drink-man-woman.jpg" alt="Ang Lee, Eat Drink Man Woman, 1994. The table is easier to see when it is moving" loading="lazy" />
+  <figcaption>Ang Lee, <em>Eat Drink Man Woman</em>, 1994. The table is easier to see when it is moving</figcaption>
+</figure>
+<figure class="plate">
+  <img src="../../../static/img/edmw-dinner.jpg" alt="Ang Lee, Eat Drink Man Woman, 1994. The Sunday dinner, where the rules get enforced" loading="lazy" />
+  <figcaption>Ang Lee, <em>Eat Drink Man Woman</em>, 1994. The Sunday dinner, where the rules get enforced</figcaption>
+</figure>
+</div>
+
 ## Dates and span
 
 - **Weeks 8–12:** Mon 2026-10-19 to Fri 2026-11-20. 18 teaching days / 23 periods (4 days a week, Tuesday a double). Week 10 loses Wednesday and Friday to G11 Juniors Days.

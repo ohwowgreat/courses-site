@@ -11,8 +11,8 @@ related:
 modified: 2026-08-06
 ---
 <figure class="plate plate--hero">
-  <img src="../../../static/img/calling-of-matthew.jpg" alt="Caravaggio, The Calling of Saint Matthew, 1599 — one light source, five gestures: a room you can read" loading="lazy" />
-  <figcaption>Caravaggio, <em>The Calling of Saint Matthew</em>, 1599 — one light source, five gestures: a room you can read</figcaption>
+  <img src="../../../static/img/gentileschi-judith.jpg" alt="Artemisia Gentileschi, Judith Beheading Holofernes, c. 1620" loading="lazy" />
+  <figcaption>Artemisia Gentileschi, <em>Judith Beheading Holofernes</em>, c. 1620</figcaption>
 </figure>
 
 # Unit 2: Narrative, Myth and Allegory

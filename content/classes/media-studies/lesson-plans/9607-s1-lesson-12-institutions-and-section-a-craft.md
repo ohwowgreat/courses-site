@@ -46,6 +46,12 @@ This lesson turns toward Component 2. You learn why the same text reads differen
 
 **Morley**, in the *Nationwide* study, showed that real audiences, in groups, produce systematically different readings of the same broadcast. The differences track their situations, not their intelligence. In class you produce a small version of this data: one short text is screened, readings are gathered anonymously, then grouped and explained. Because readings differ by situation, who makes the text matters even more.
 
+
+<figure class="plate">
+  <img src="../../../static/img/nationwide-title.jpg" alt="Nationwide (BBC). The broadcast on which Morley tested differential readings" loading="lazy" />
+  <figcaption><em>Nationwide</em> (BBC). The broadcast on which Morley tested differential readings</figcaption>
+</figure>
+
 ### Ownership: funding follows content
 
 Public service broadcasting and commercial media differ in who pays: the license fee, advertisers, subscribers, or the state. What each payer buys shapes the content.

@@ -47,6 +47,30 @@ This lesson brings two things together: narrative theory and your production pla
 
 **Todorov** describes a narrative as a movement through stages: equilibrium, then disruption, then recognition, then repair, then a new equilibrium. In short: a settled state is disturbed and then resolved into a new settled state. You should be able to track this on a text you have not studied in class. The model has a limit: it fails on non-linear narratives, and naming that limit earns marks. Apply the same test to your own C1 plan by asking where the disturbance is in your opening. If there is none, that is a fix for Wednesday's lock.
 
+
+<div class="plate-row">
+<figure class="plate">
+  <img src="../../../static/img/toystory-equilibrium.jpg" alt="Toy Story (1995), stage 1. Equilibrium: the staff meeting, before anything breaks" loading="lazy" />
+  <figcaption><em>Toy Story</em> (1995), stage 1. Equilibrium: the staff meeting, before anything breaks</figcaption>
+</figure>
+<figure class="plate">
+  <img src="../../../static/img/toystory-disruption.jpg" alt="Toy Story (1995), stage 2. Disruption: Buzz arrives and displaces Woody" loading="lazy" />
+  <figcaption><em>Toy Story</em> (1995), stage 2. Disruption: Buzz arrives and displaces Woody</figcaption>
+</figure>
+<figure class="plate">
+  <img src="../../../static/img/toystory-recognition.jpg" alt="Toy Story (1995), stage 3. Recognition: the rivalry breaks open and Buzz goes out the window" loading="lazy" />
+  <figcaption><em>Toy Story</em> (1995), stage 3. Recognition: the rivalry breaks open and Buzz goes out the window</figcaption>
+</figure>
+<figure class="plate">
+  <img src="../../../static/img/toystory-repair.jpg" alt="Toy Story (1995), stage 4. Repair: lost in Sid's house, working the way back" loading="lazy" />
+  <figcaption><em>Toy Story</em> (1995), stage 4. Repair: lost in Sid's house, working the way back</figcaption>
+</figure>
+<figure class="plate">
+  <img src="../../../static/img/toystory-new-equilibrium.jpg" alt="Toy Story (1995), stage 5. New equilibrium: the rivals, now a pair" loading="lazy" />
+  <figcaption><em>Toy Story</em> (1995), stage 5. New equilibrium: the rivals, now a pair</figcaption>
+</figure>
+</div>
+
 ### Character function: Propp
 
 **Propp** classifies characters by what they do, not by who they are. The functions are hero, villain, donor, helper, princess, dispatcher, and false hero. The caveat travels with the theory: it comes from a 1928 study of folk tales, so apply it with judgment, and expect it to strain on modern texts. Test it on your own C1 opening by asking who your donor is, or whether you even have one.
@@ -58,6 +82,18 @@ This lesson brings two things together: narrative theory and your production pla
 </figure>
 
 **Binary oppositions** are conflicts of value that drive a narrative, not just conflicts between people. A worked *Lupin* table shows how a story runs on opposed values.
+
+
+<div class="plate-row">
+<figure class="plate">
+  <img src="../../../static/img/lupin-vitrine.jpg" alt="Lupin (2021). Assane in the museum, dressed to be unseen: wealth against poverty, and the thief against the hero, in one frame" loading="lazy" />
+  <figcaption><em>Lupin</em> (2021). Assane in the museum, dressed to be unseen: wealth against poverty, and the thief against the hero, in one frame</figcaption>
+</figure>
+<figure class="plate">
+  <img src="../../../static/img/lupin-assane.jpg" alt="Lupin (2021). The same man, dressed to be seen" loading="lazy" />
+  <figcaption><em>Lupin</em> (2021). The same man, dressed to be seen</figcaption>
+</figure>
+</div>
 
 ### The shootability checklist
 

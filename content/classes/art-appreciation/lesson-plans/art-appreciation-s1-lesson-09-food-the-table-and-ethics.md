@@ -42,6 +42,12 @@ This lesson looks at food, the table, and domestic work as subjects for art. You
 
 **Semiotics of the Kitchen** is a six-minute video by Rosler. The artist names kitchen tools one by one and turns each into a violent gesture. A kitchen turns into an alphabet of rage. The piece lands harder on the second viewing than the first, so watch it twice.
 
+
+<figure class="plate">
+  <img src="../../../static/img/rosler-kitchen.jpg" alt="Martha Rosler, Semiotics of the Kitchen, 1975. A kitchen turned into an alphabet of rage" loading="lazy" />
+  <figcaption>Martha Rosler, <em>Semiotics of the Kitchen</em>, 1975. A kitchen turned into an alphabet of rage</figcaption>
+</figure>
+
 ### Weems, *Kitchen Table Series*
 
 **Kitchen Table Series** by Weems is a set of photographs shot at one table, in sequence. It shows what a table does when it is the same table every time. This idea hands forward to Unit 4.
@@ -55,10 +61,16 @@ This lesson looks at food, the table, and domestic work as subjects for art. You
 - **Mon 11-16.** Study one Cassatt domestic interior as a workplace: domestic labor as labor.
 - **Tue 11-17 (double).** In the first period, watch Rosler's *Semiotics of the Kitchen* twice. In the second period, sit A3 in class, 40 minutes: argue one claim about food and ethics from the pictures themselves, not from the ethics.
 
+<div class="plate-row">
 <figure class="plate">
   <img src="../../../static/img/last-supper.jpg" alt="Leonardo da Vinci, The Last Supper, 1495–98" loading="lazy" />
   <figcaption>Leonardo da Vinci, <em>The Last Supper</em>, 1495–98</figcaption>
 </figure>
+<figure class="plate">
+  <img src="../../../static/img/weems-kitchen-table.jpg" alt="Carrie Mae Weems, from The Kitchen Table Series, 1990. One table, one light, the whole argument" loading="lazy" />
+  <figcaption>Carrie Mae Weems, from <em>The Kitchen Table Series</em>, 1990. One table, one light, the whole argument</figcaption>
+</figure>
+</div>
 
 - **Wed 11-18.** Study Weems' *Kitchen Table Series* in sequence: what a table does when it is the same table every time. This feeds Unit 4.
 - **Fri 11-20.** Look at hyperreality and the food image: what a food image is for when nobody intends to eat. Hand-off into Unit 4.

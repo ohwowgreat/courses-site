@@ -27,6 +27,18 @@ modified: 2026-07-21
 
 The spine is **"Combine · meaning."** Five Wednesday double sessions (W11–15) move from single images to combinations. You start with **juxtaposition** and **scale**, the idea that two images together say a third thing. Then you work on **layering** and text-with-image. Then you draft toward one final collage, made in class for [[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage|A3]]. This is the semester's longest unit.
 
+
+<div class="plate-row">
+<figure class="plate">
+  <img src="../../../static/img/bearden-block.jpg" alt="Romare Bearden, The Block, 1971. Six panels, one street, cut and reassembled" loading="lazy" />
+  <figcaption>Romare Bearden, <em>The Block</em>, 1971. Six panels, one street, cut and reassembled</figcaption>
+</figure>
+<figure class="plate">
+  <img src="../../../static/img/bearden-musicians.jpg" alt="Romare Bearden, Three Folk Musicians, 1967" loading="lazy" />
+  <figcaption>Romare Bearden, <em>Three Folk Musicians</em>, 1967</figcaption>
+</figure>
+</div>
+
 ## Session-by-session
 
 | Wk | Wednesday | Lesson | Content | Marker |

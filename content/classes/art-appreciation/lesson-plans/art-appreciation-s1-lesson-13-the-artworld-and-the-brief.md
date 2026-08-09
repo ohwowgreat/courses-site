@@ -33,10 +33,16 @@ modified: 2026-08-06
 This lesson asks the question the course has been building toward: what makes something art when looking cannot tell you. Over three days you work through Danto's argument about the artworld, then Warhol, Duchamp, and pluralism. On the last day, Wed 12-23, the retrospective is announced and your break homework is set: pick three works that changed how you see and give your reasons, in about 3 to 4 hours across the holiday. That homework is the brief you argue for at the retrospective on Tue 5 Jan.
 
 
+<div class="plate-row">
 <figure class="plate">
-  <img src="../../../static/img/guitar-gas-jet.jpg" alt="Pablo Picasso, Guitar, Gas-Jet and Bottle, 1913" loading="lazy" />
-  <figcaption>Pablo Picasso, <em>Guitar, Gas-Jet and Bottle</em>, 1913</figcaption>
+  <img src="../../../static/img/duchamp-fountain.jpg" alt="Marcel Duchamp, Fountain, 1917. The object that made looking insufficient" loading="lazy" />
+  <figcaption>Marcel Duchamp, <em>Fountain</em>, 1917. The object that made looking insufficient</figcaption>
 </figure>
+<figure class="plate">
+  <img src="../../../static/img/warhol-brillo.jpg" alt="Andy Warhol, Brillo Boxes, 1964. The object Danto wrote 'The Artworld' about" loading="lazy" />
+  <figcaption>Andy Warhol, <em>Brillo Boxes</em>, 1964. The object Danto wrote 'The Artworld' about</figcaption>
+</figure>
+</div>
 
 ## The ideas
 

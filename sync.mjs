@@ -86,9 +86,9 @@ const HEROES = {
   "classes/art-appreciation/unit-plans/art-appreciation-s1-unit-1-origins-and-ancestral-memory.md":
     "deer-mandala",
   "classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory.md":
-    "calling-of-matthew",
+    "gentileschi-judith",
   "classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity.md":
-    "representation",
+    "le-gras",
   "classes/art-appreciation/unit-plans/art-appreciation-s1-unit-5-semester-close-and-retrospective.md":
     "wanderer",
   // Media Studies S1
@@ -169,16 +169,16 @@ const HEROES = {
     "the-magpie",
 }
 
-// In-copyright works cited in lessons — named and linked, never embedded (see
-// cite.mjs). Same shape as FIGURES (keyed by vault path, injected after the
-// paragraph matching `anchor`), but renders a citation line, not an image. Add
-// `src` for a "view →" link; omit it for a placeholder. Public-domain works go
-// through FIGURES/HEROES as actual images instead.
-const CITATIONS = {
-  "classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze.md": [
-    { cite: "Cindy Sherman, *Untitled Film Still #21*, 1978", anchor: /three looks/i },
-  ],
-}
+// Works named and linked but not embedded (see cite.mjs). Same shape as FIGURES
+// (keyed by vault path, injected after the paragraph matching `anchor`), but
+// renders a citation line, not an image. Add `src` for a "view →" link; omit it
+// for a placeholder.
+//
+// Emptied 2026-08-08. Its one entry (Sherman on L09) named a work the lesson
+// teaches without showing it, which is the failure this mechanism was meant to
+// soften rather than fix; it is now an embedded plate. Reach for this only when a
+// work genuinely should not be hosted, not as a substitute for showing the work.
+const CITATIONS = {}
 
 // Inline figures (2026-07-21): lesson pages carry period exemplars from the shared
 // library, inserted after the paragraph that first matches `anchor`. Anchors are
@@ -202,8 +202,13 @@ const FIGURES = {
   ],
   "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-04-telling-it-without-words.md":
     [{ slugs: ["calling-of-matthew"], anchor: /where a still image puts time/i }],
+  // The lesson IS this comparison (Titian Monday, Olympia alone Tuesday, then side
+  // by side) and A2 is marked on it. It ran on a different Manet until 2026-08-08.
   "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet.md": [
-    { slugs: ["folies-bergere"], anchor: /refusals Manet is making|Manet, \*Olympia\*/i },
+    {
+      slugs: ["venus-of-urbino", "olympia"],
+      anchor: /refusals Manet is making|Manet, \*Olympia\*/i,
+    },
   ],
   "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-06-the-table-as-moral-space.md":
     [{ slugs: ["the-table"], anchor: /three paintings of meals|who is where/i }],
@@ -215,12 +220,28 @@ const FIGURES = {
   "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-09-food-the-table-and-ethics.md":
     [
       {
-        slugs: ["last-supper"],
+        // Weems is named in the lesson; Leonardo is the foil, so run them as a pair.
+        slugs: ["last-supper", "weems-kitchen-table"],
         anchor: /one claim about food and ethics|food and ethics, argued from the pictures/i,
+      },
+      {
+        slugs: ["rosler-kitchen"],
+        anchor: /alphabet of rage|names kitchen tools one by one/i,
       },
     ],
   "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-10-berger-and-the-reproduction.md":
-    [{ slugs: ["the-magpie"], anchor: /a reproduction is not a neutral copy/i }],
+    [
+      // Berger, and his own two demonstrations, in the order the lesson runs them.
+      {
+        slugs: ["berger-ways-of-seeing", "wheatfield-crows"],
+        anchor: /a reproduction is not a neutral copy/i,
+      },
+      {
+        slugs: ["virgin-rocks-london", "virgin-rocks-louvre"],
+        anchor: /an object with decisions of its own|one painting, four contexts/i,
+      },
+      { slugs: ["goodbye-to-language"], anchor: /refuses to add up/i },
+    ],
   "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image.md":
     [{ slugs: ["representation"], anchor: /a print is many/i }],
   "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-12-photography-and-after.md": [
@@ -232,7 +253,9 @@ const FIGURES = {
   "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief.md":
     [
       {
-        slugs: ["guitar-gas-jet"],
+        // Danto's case is Brillo Box; Duchamp is the precursor. It ran on a
+        // Picasso collage until 2026-08-08.
+        slugs: ["duchamp-fountain", "warhol-brillo"],
         anchor:
           /the artworld and the end of art|what makes something art when looking cannot tell you/i,
       },
@@ -584,6 +607,25 @@ const FIGURES = {
   ],
   "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-10-juxtaposition-and-scale.md": [
     { slugs: ["kahnweiler"], anchor: /glue newspaper|papier collé/i },
+    {
+      // The lesson calls this a diptych and named both halves; only Picasso was
+      // ever shown. Höch supplied 2026-08-08.
+      slugs: ["hoch-kitchen-knife"],
+      anchor: /Picasso and Höch diptych|opposite temperaments/i,
+    },
+  ],
+  // The collage plate the PAL credits file has been recording as missing since July.
+  "classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage.md": [
+    {
+      slugs: ["bearden-block", "bearden-musicians"],
+      anchor: /two images together say a third thing|start with \*\*juxtaposition\*\*/i,
+    },
+  ],
+  "classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics.md": [
+    {
+      slugs: ["eat-drink-man-woman", "edmw-dinner"],
+      anchor: /the table is easier to see when it is moving|It opens with film/i,
+    },
   ],
   "classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-11-layering-text-and-image.md": [
     {
@@ -626,9 +668,37 @@ const FIGURES = {
       slugs: ["vanitas-schaak", "vanitas-schoor"],
       anchor: /difference in repetition|repetition and difference/i,
     },
+    {
+      // "The camera creeps toward" as one unbroken move, read in three places.
+      slugs: ["goodfellas-copacabana-1", "goodfellas-copacabana-2", "goodfellas-copacabana-3"],
+      anchor: /creeps toward|refuses to follow/i,
+    },
+    {
+      // Against the technical rehearsal: a professional rig being carried, and
+      // what a continuous take asks of blocking. Their own shoot is a week away.
+      slugs: ["adolescence-one-take", "adolescence-interview"],
+      anchor: /kill student footage|Tap to lock focus|auto exposure lets the face go dark/i,
+    },
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock.md": [
+    {
+      // The coursebook's own worked example for Todorov (§3.2), one plate per
+      // stage so the arc can be read off the film rather than only listed.
+      slugs: [
+        "toystory-equilibrium",
+        "toystory-disruption",
+        "toystory-recognition",
+        "toystory-repair",
+        "toystory-new-equilibrium",
+      ],
+      anchor: /movement through stages|equilibrium, then disruption/i,
+    },
     { slugs: ["peasant-wedding"], anchor: /by what they do, not who they are|donor/i },
+    {
+      // The pack's own worked binaries table is built on this series.
+      slugs: ["lupin-vitrine", "lupin-assane"],
+      anchor: /worked \*?Lupin\*? table|story runs on opposed values/i,
+    },
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis.md": [
     {
@@ -648,12 +718,25 @@ const FIGURES = {
   "classes/media-studies/lesson-plans/9607-s1-lesson-08-representation-applied-to-your-own-product.md":
     [{ slugs: ["lincoln-mcclellan"], anchor: /photo-op is older than the word|posed in a tent/i }],
   "classes/media-studies/lesson-plans/9607-s1-lesson-09-the-gaze.md": [
+    // Was a name-only citation of Untitled Film Still #21, which the library does
+    // not hold. Embedded as #48 on 2026-08-08; equally canonical for three looks.
+    {
+      // The two ads the D1 swap exercise decomposes. Same house, same season, so
+      // the only variable left is the performance convention.
+      slugs: ["ad-sauvage", "ad-jadore"],
+      anchor: /swapping the conventions between them|two contrasting ads/i,
+    },
+    { slugs: ["sherman-film-still"], anchor: /three looks/i },
     { slugs: ["cahun-gaze"], anchor: /oppositional gaze|looking back at a text/i },
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-12-institutions-and-section-a-craft.md": [
     {
       slugs: ["emperors-table"],
       anchor: /frame belonged to the payer|imperial commission|Emperor's camp/i,
+    },
+    {
+      slugs: ["nationwide-title"],
+      anchor: /in the \*?Nationwide\*? study|systematically different readings/i,
     },
   ],
 }

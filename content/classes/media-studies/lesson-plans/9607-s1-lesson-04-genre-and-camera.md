@@ -76,6 +76,22 @@ Name camera work as an action first, then say what it does to you.
 
 Each is a verb: the camera looks up at, creeps toward, refuses to follow. Then add the effect. For example, a low angle: "he towers; I am small."
 
+
+<div class="plate-row">
+<figure class="plate">
+  <img src="../../../static/img/goodfellas-copacabana-1.jpg" alt="Goodfellas (1990). The Copacabana take begins on the street" loading="lazy" />
+  <figcaption><em>Goodfellas</em> (1990). The Copacabana take begins on the street</figcaption>
+</figure>
+<figure class="plate">
+  <img src="../../../static/img/goodfellas-copacabana-2.jpg" alt="Goodfellas (1990). The same unbroken shot, through the service corridor" loading="lazy" />
+  <figcaption><em>Goodfellas</em> (1990). The same unbroken shot, through the service corridor</figcaption>
+</figure>
+<figure class="plate">
+  <img src="../../../static/img/goodfellas-copacabana-3.jpg" alt="Goodfellas (1990). One continuous move, ending at the table" loading="lazy" />
+  <figcaption><em>Goodfellas</em> (1990). One continuous move, ending at the table</figcaption>
+</figure>
+</div>
+
 ### Reading genre from codes
 
 You can attribute a genre to a clip with no title or credits, using its codes alone. Commit to a genre, then defend it with at least two pieces of evidence from the clip.
@@ -83,6 +99,18 @@ You can attribute a genre to a clip with no title or credits, using its codes al
 A CS4 or A1 paragraph runs in this order: genre claim, then technical evidence (camera verbs), then symbolic evidence, then what the audience is being promised. The A1 criteria are concepts, terminology, analysis of how meaning is created, and examples. Terminology is non-negotiable.
 
 ### Three things that kill student footage
+
+
+<div class="plate-row">
+<figure class="plate">
+  <img src="../../../static/img/adolescence-one-take.jpg" alt="Adolescence (2025). The camera is carried, not cut: the rig crossing a street scene" loading="lazy" />
+  <figcaption><em>Adolescence</em> (2025). The camera is carried, not cut: the rig crossing a street scene</figcaption>
+</figure>
+<figure class="plate">
+  <img src="../../../static/img/adolescence-interview.jpg" alt="Adolescence (2025). Blocking for a continuous take: three people, one room, no cutaway" loading="lazy" />
+  <figcaption><em>Adolescence</em> (2025). Blocking for a continuous take: three people, one room, no cutaway</figcaption>
+</figure>
+</div>
 
 Before you shoot the break window, drill these:
 
