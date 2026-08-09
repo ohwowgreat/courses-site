@@ -1029,6 +1029,9 @@ const DROP_PAGES = new Set([
   // Planning history preserved from the deleted courses-dashboard.md (2026-07-29):
   // build waves, congestion risks, resolved decisions — teacher-facing throughout.
   "analyses/summer-2026-buildout.md",
+  // Productization feasibility (2026-08-09): product strategy, pricing hypotheses,
+  // pilot plans — teacher-facing throughout.
+  "analyses/productization-feasibility.md",
   // The vault's home page is a teacher's dashboard: vault status, the live Bases
   // table, links to the index and dashboard. The site gets site-home.md instead.
   "home.md",
