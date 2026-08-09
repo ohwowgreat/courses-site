@@ -1,60 +1,75 @@
 ---
-title: "Unit 2: Media Language"
+title: "Unit 2: Media Language (Micro Elements)"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-semester-1-plan]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-1-introduction]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis]]"
-  - "[[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-how-images-mean]]"
-  - "[[classes/media-studies/lesson-plans/9607-s1-lesson-03-sign-types-and-codes]]"
-  - "[[classes/media-studies/lesson-plans/9607-s1-lesson-04-genre-and-camera]]"
-  - "[[classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock]]"
+  - "[[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-signs-and-codes]]"
+  - "[[classes/media-studies/lesson-plans/9607-s1-lesson-03-camera]]"
+  - "[[classes/media-studies/lesson-plans/9607-s1-lesson-04-sound]]"
+  - "[[classes/media-studies/lesson-plans/9607-s1-lesson-05-mise-en-scene]]"
+  - "[[classes/media-studies/lesson-plans/9607-s1-lesson-06-editing]]"
+  - "[[classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock]]"
   - "[[classes/media-studies/assessments/9607-s1-assessments]]"
   - "[[classes/media-studies/9607-resource-library]]"
-modified: 2026-08-03
+  - "[[concepts/technical-elements]]"
+  - "[[analyses/9607-curriculum-drift]]"
+modified: 2026-08-09
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/migrant-mother.jpg" alt="Dorothea Lange, Migrant Mother, 1936 — one frame chosen from six exposures, then cropped" loading="lazy" />
   <figcaption>Dorothea Lange, <em>Migrant Mother</em>, 1936 — one frame chosen from six exposures, then cropped</figcaption>
 </figure>
 
-# Unit 2: Media Language
+# Unit 2: Media Language (Micro Elements)
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-semester-1-plan|Semester 1 Plan]] · Unit 2 of 6 · ← [[classes/media-studies/unit-plans/9607-s1-unit-1-introduction|Unit 1]] | [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis|Unit 3]] →
 
-**Concepts:** [[concepts/media-language|Media Language]] · [[concepts/technical-elements|Technical Elements]] · [[concepts/media-vocabulary|Media Vocabulary]] · [[concepts/narrative|Narrative]]
+**Concepts:** [[concepts/media-language|Media Language]] · [[concepts/technical-elements|Technical Elements]] · [[concepts/production-craft|Production Craft]] · [[concepts/media-vocabulary|Media Vocabulary]]
 
 ## What this unit does
 
-This unit covers the micro end of media language: semiotics, sign types, the four code families, genre, camera, and narrative. You build vocabulary you can use under pressure. The C1 production strand also starts. You commit your media area in week 2, lock your planning to a shootable standard before the National Day break, and shoot your first footage during the break. Everything feeds [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]].
+This unit covers the micro end of media language. You start with a compact semiotic foundation. Then you learn the four technical elements one lesson at a time, with equipment in hand. Then you integrate everything on one unseen extract and lock the Component 1 plan before the break.
+
+The unit follows the Scheme of Work structure for the Foundation Portfolio: **research, practice, planning, production, reflection**. Every technical lesson ends with a shot, recorded, or cut artifact, posted and dated on the C1 blog. These posts are not exercises about Component 1. They are Component 1, its research-and-practice stage, evidenced as it happens.
+
+Genre and narrative are taught in [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis|Unit 3]], not here.
 
 ## Dates & span
 
-**W2–W6: Mon 2026-09-07 → Fri 10-09**, 15 teaching days. Fri 09-25 is lost to Mid-Autumn Festival. The National Day break sits between Wed 09-30 and Fri 10-09. W6 gives a single session, Fri 10-09, which runs as part of L05.
+**W2 to W6: Mon 2026-09-07 → Fri 10-09**, 15 teaching days. Fri 09-25 is lost to Mid-Autumn Festival. The National Day break sits between Wed 09-30 and Fri 10-09. W6 gives one session, Fri 10-09, absorbed into L07.
 
 ## Lessons
 
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-how-images-mean|L02 Semiotics — How Images Mean]]: Saussure, denotation and connotation, modes of address, anchorage. The theory-card spine starts. You commit your **media area on Wed 09-09**.
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-03-sign-types-and-codes|L03 Sign Types and Codes]]: Peirce's triad, the four code families, and cold-reading unseen stills.
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-04-genre-and-camera|L04 Genre and Camera]]: Altman and Neale's industry–audience contract, plus camera vocabulary at speed on unlabeled clips. The double lesson closes with the **cameras-in-hand technical rehearsal** (audio, continuity, focus/exposure) before the break shoots.
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-05-narrative-and-the-planning-lock|L05 Narrative and the Planning Lock]]: Todorov and Propp. Your C1 planning is peer-reviewed and locked. [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|HW1]] is set before the break.
+| Lesson | Days | Dates | Practical output |
+|---|---|---|---|
+| [[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-signs-and-codes\|L02 Semiotics, Signs and Codes]] | 4 | 09-07 → 09-11 | [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS2]] annotated everyday text; **media area committed Wed 09-09** |
+| [[classes/media-studies/lesson-plans/9607-s1-lesson-03-camera\|L03 Camera]] | 2 | 09-14, 09-15 | **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS3]]** six-shot rebuild to a given storyboard |
+| [[classes/media-studies/lesson-plans/9607-s1-lesson-04-sound\|L04 Sound]] | 2 | 09-16, 09-18 | **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS4]]** 30-second soundscape for their own opening |
+| [[classes/media-studies/lesson-plans/9607-s1-lesson-05-mise-en-scene\|L05 Mise-en-scène]] | 2 | 09-21, 09-22 | **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS5]]** design board, six cells, connotation per cell |
+| [[classes/media-studies/lesson-plans/9607-s1-lesson-06-editing\|L06 Editing]] | 2 | 09-23, 09-28 | **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS6]]** three-shot sequence, continuity held and broken |
+| [[classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock\|L07 Integration and the Planning Lock]] | 3 | 09-29, 09-30, 10-09 | **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS7]]** four-element paragraph; **C1 plan locked** |
 
 ## Assessment
 
 | Item | Date | What | AO |
 |---|---|---|---|
-| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS2]] | Fri 2026-09-11 | Annotated media text from daily life, ≥6 code labels | AO1 |
-| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS3]] | Fri 2026-09-18 | Vocabulary quiz, 20 items, 20 min | AO1 |
-| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS4]] | Wed 2026-09-23 | Genre + camera analytical paragraph, direct practice for [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]] | AO2 |
-| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB1]] | Tue 2026-09-29 | Blog punctuality, posts 1–5 | — |
-| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|HW1]] | set 09-30 → due Fri 10-09 | Break task: A1-format analysis of a self-chosen 2–3 min sequence | AO1+AO2 |
-| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB2]] | Fri 2026-10-09 | HW1 returned on time; glossary current | — |
+| CS2 | Fri 2026-09-11 | Annotated media text from daily life, ≥6 code labels | AO1 |
+| CS3 | Tue 2026-09-15 | Six-shot rebuild, posted with one line of intention per shot | AO1+AO3 |
+| CS4 | Fri 2026-09-18 | 30-second soundscape with a rationale naming diegetic and non-diegetic choices | AO1+AO3 |
+| CS5 | Tue 2026-09-22 | Mise-en-scène design board for your own product | AO1+AO3 |
+| CS6 | Mon 2026-09-28 | Three-shot sequence in two versions, continuity held and broken | AO1+AO3 |
+| CS7 | Tue 2026-09-29 | Four-element analytical paragraph on an unseen extract | AO2 |
+| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|HW1]] | set 09-30 → due Fri 10-09 | Break task: [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]]-format analysis of a self-chosen 2 to 3 min sequence | AO1+AO2 |
+| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB1]] | Fri 2026-10-09 | Blog punctuality across CS3 to CS6; HW1 returned on time; glossary current | n/a |
 
-A1 is announced Wed 09-30, and you sit it Wed 10-14, inside Unit 3. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+[[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]] is announced Wed 09-30. You sit A1 on Wed 10-14, inside Unit 3. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
 ## Key content
 
-- Theorists: Saussure (signifier/signified), Peirce (icon/index/symbol), Altman and Neale (genre as agreement), Todorov (equilibrium), Propp (character functions).
-- The four code families: technical, symbolic, written, audio. These are your two-year analytical checklist.
-- C1 milestones: commit your media area; technical rehearsal Wed 09-23 (audio, continuity, focus/exposure); decide your equipment, school sign-out or own kit; lock your planning against the shootability checklist Wed 09-30; shoot during the break (3–4 hours); sound and editing vocabulary appear on your own footage.
-- ESL thread: your lexicon grows toward [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS3]]. Connotation-by-culture comes up as brief English/Chinese asides, with the core worked examples exam-facing, per the exam-example rule in [[classes/media-studies/media-studies|Media Studies]].
+- **Semiotic base**: Saussure (signifier/signified), Peirce (icon/index/symbol), denotation and connotation, polysemy, anchorage and relay, mode of address, the four code families.
+- **The four technical elements, from the syllabus's own lists**: camera (shots, angles, movement, composition); sound (diegetic and non-diegetic, bridge, motif, perspective, soundtrack); mise-en-scène (production design, lighting, color design, with acting explicitly excluded); editing (continuity and non-continuity systems, transitions, duration).
+- **Production craft taught where it is needed, not as a separate topic**: focus and exposure control at L03, monitored audio and foley at L04, lighting set-ups at L05, the 180-degree rule and the cut at L06.
+- **C1 milestones**: media area committed Wed 09-09; four dated practice posts across W3 to W5; design board Tue 09-22; equipment decision logged Mon 09-28; planning suite locked against the shootability checklist Wed 09-30; break production window; footage reviewed Fri 10-09.
+- **Vocabulary**: the lexicon grows one element at a time toward [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS8]], not as a single list. You meet each technical term first as something you did, then as a word.

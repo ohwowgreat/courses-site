@@ -5,11 +5,13 @@ related:
   - "[[classes/media-studies/unit-plans/9607-semester-1-plan]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-2-media-language]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-4-representation]]"
-  - "[[classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis]]"
-  - "[[classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint]]"
+  - "[[classes/media-studies/lesson-plans/9607-s1-lesson-08-the-viewing-protocol-and-a1]]"
+  - "[[classes/media-studies/lesson-plans/9607-s1-lesson-09-genre]]"
+  - "[[classes/media-studies/lesson-plans/9607-s1-lesson-10-narrative-barthes-and-the-blog-audit]]"
   - "[[classes/media-studies/assessments/9607-s1-assessments]]"
   - "[[classes/media-studies/9607-resource-library]]"
-modified: 2026-07-22
+  - "[[analyses/9607-curriculum-drift]]"
+modified: 2026-08-09
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/folies-bergere.jpg" alt="Édouard Manet, A Bar at the Folies-Bergère, 1882 — who is looking at whom? the mirror refuses to agree" loading="lazy" />
@@ -20,20 +22,25 @@ modified: 2026-07-22
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-semester-1-plan|Semester 1 Plan]] · Unit 3 of 6 · ← [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] | [[classes/media-studies/unit-plans/9607-s1-unit-4-representation|Unit 4]] →
 
-**Concepts:** [[concepts/the-viewing-protocol|The Viewing Protocol]] · [[concepts/technical-elements|Technical Elements]] · [[concepts/narrative|Narrative]] · [[concepts/representation|Representation]]
+**Concepts:** [[concepts/the-viewing-protocol|The Viewing Protocol]] · [[concepts/media-language|Media Language]] · [[concepts/narrative|Narrative]] · [[concepts/process-evidence-and-reflection|Process Evidence and Reflection]]
 
 ## What this unit does
 
-This is the first attainment band. You test narrative theory on real texts. You look for where **Propp** and **Todorov** strain, because a top-band answer discusses that strain. You sit [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]] on the Wednesday of W7. The rest of the band turns analytical instinct into method: **Barthes**, a fixed reading order, **PEEM** paragraphs, Section A answer structure, and a peer audit of every C1 blog against the same checklist used to mark [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2]].
+This unit covers the first attainment band and the macro elements. It opens by turning a month of technical teaching into exam method: the full lexicon is tested, the viewing protocol is fixed, and the PEEM paragraph is built. You sit **[[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]]** on the Wednesday of W7. The two weeks that follow teach the macro end of media language, genre and narrative. You also audit every Component 1 blog against the checklist [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2]] will be marked with.
+
+Genre and narrative sit in this unit, after A1. Component 2 Section A does not ask for them: its prompt names camera, sound, mise-en-scène and editing.
 
 ## Dates & span
 
-**W7–W8: Mon 2026-10-12 → Fri 10-23**, 8 teaching days (L06: 3, L07: 5).
+**W7 to W8: Mon 2026-10-12 → Fri 10-23**, 8 teaching days (L08: 3, L09: 2, L10: 3).
 
 ## Lessons
 
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-06-a1-timed-media-language-analysis|L06 A1 — Timed Media Language Analysis]]: Propp on a trailer and Todorov across an episode with the strain log running, then the 60-minute unseen-extract sit under exam conditions, marked with WS 4.6 in the official P2 rubric language.
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-07-reading-systematically-toward-the-blog-midpoint|L07 Reading Systematically Toward the Blog Mid-Point]]: Barthes's enigma and action codes, the systematic reading order, PEEM, the [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS5]] blog audit, Section A architecture.
+| Lesson | Days | Dates | Deliverable |
+|---|---|---|---|
+| [[classes/media-studies/lesson-plans/9607-s1-lesson-08-the-viewing-protocol-and-a1\|L08 The Viewing Protocol and A1]] | 3 | 10-12, 10-13, 10-14 | **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS8]]** lexicon quiz · **[[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]]** the sit |
+| [[classes/media-studies/lesson-plans/9607-s1-lesson-09-genre\|L09 Genre]] | 2 | 10-16, 10-19 | Genre contract posted to the C1 blog |
+| [[classes/media-studies/lesson-plans/9607-s1-lesson-10-narrative-barthes-and-the-blog-audit\|L10 Narrative, Barthes and the Blog Audit]] | 3 | 10-20, 10-21, 10-23 | **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS9]]** peer blog audit |
 
 ## Assessment
 
@@ -41,13 +48,15 @@ This is the first attainment band. You test narrative theory on real texts. You 
 
 | Item | Date | What | AO |
 |---|---|---|---|
-| [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]] | Wed 2026-10-14 | Timed media language analysis, unseen TV-drama extract, 60 min, exam conditions | AO1+AO2 |
-| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS5]] | Wed 2026-10-21 | Peer blog audit against the mid-point checklist | AO3 |
+| CS8 | Mon 2026-10-12 | Technical lexicon quiz, 30 items in 20 min, across all four elements | AO1 |
+| A1 | Wed 2026-10-14 | Timed media language analysis, unseen TV-drama extract, 60 min, exam conditions | AO1+AO2 |
+| CS9 | Wed 2026-10-21 | Peer blog audit against the mid-point checklist | AO3 |
 
-A2 is announced Mon 10-12 and is due Mon 10-26, inside Unit 4. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+One task is set Mon 10-12 and is due Mon 10-26, inside Unit 4. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
 ## Key content
 
-- Theorists: **Propp** and **Todorov** under load; **Barthes** (enigma and action codes, what a text withholds and promises).
-- Method: **systematic reading order** (same order, every time); **PEEM** (point, evidence, effect, meaning); Section A answer skeletons planned before you write.
-- C1 milestone: bring your blog to mid-point standard, posts 1–7, dated, with individual contributions labeled. The CS5 audit falls three teaching days before the A2 deadline, so you can still act on what it finds.
+- **Method**: the **viewing protocol** as a fixed reading order (framing → camera → light → mise-en-scène → sound → edit); **PEEM**, with Effect and Meaning taught as genuinely distinct moves; Section A answer skeletons planned before writing.
+- **Genre**: Neale's repetition and difference, Altman's industry-audience contract, the Lacey / Buckingham / Fiske roster, hybridity. You defend attributions from technical codes.
+- **Narrative**: Todorov's arc with its non-linear failure condition, Propp's functions with the 1928 caveat, Lévi-Strauss binaries, Barthes's enigma and action codes. The strain log runs throughout.
+- **C1 milestone**: blogs brought to mid-point standard, posts 1 to 7, dated, contributions labelled, **including the four technical practice posts from Unit 2**. The [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS9]] audit sits three teaching days before the A2 deadline, so you can still act on its findings.

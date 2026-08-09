@@ -27,6 +27,16 @@ modified: 2026-07-21
 
 The spine is **"Combine · meaning."** Five Wednesday double sessions (W11–15) move from single images to combinations. You start with **juxtaposition** and **scale**, the idea that two images together say a third thing. Then you work on **layering** and text-with-image. Then you draft toward one final collage, made in class for [[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage|A3]]. This is the semester's longest unit.
 
+## Session-by-session
+
+| Wk | Wednesday | Lesson | Content | Marker |
+|---|---|---|---|---|
+| W11 | 2026-11-11 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-10-juxtaposition-and-scale\|U3·L1]] · S10 | Juxtaposition and scale: "two images say a third thing" | — |
+| W12 | 2026-11-18 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-11-layering-text-and-image\|U3·L2]] · S11 | Layering, text and image | — |
+| W13 | 2026-11-25 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-12-theme-and-composition-drafts\|U3·L3]] · S12 | Theme and composition drafts | **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|CS3]]** |
+| W14 | 2026-12-02 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-13-final-collage-production\|U3·L4]] · S13 | Final collage production | **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|SB2]]** |
+| W15 | 2026-12-09 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage\|U3·L5]] · S14 | **[[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage\|A3]]: final collage** + reflection, in class | **A3** |
+
 
 <div class="plate-row">
 <figure class="plate">
@@ -38,16 +48,6 @@ The spine is **"Combine · meaning."** Five Wednesday double sessions (W11–15)
   <figcaption>Romare Bearden, <em>Three Folk Musicians</em>, 1967</figcaption>
 </figure>
 </div>
-
-## Session-by-session
-
-| Wk | Wednesday | Lesson | Content | Marker |
-|---|---|---|---|---|
-| W11 | 2026-11-11 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-10-juxtaposition-and-scale\|U3·L1]] · S10 | Juxtaposition and scale: "two images say a third thing" | — |
-| W12 | 2026-11-18 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-11-layering-text-and-image\|U3·L2]] · S11 | Layering, text and image | — |
-| W13 | 2026-11-25 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-12-theme-and-composition-drafts\|U3·L3]] · S12 | Theme and composition drafts | **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|CS3]]** |
-| W14 | 2026-12-02 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-13-final-collage-production\|U3·L4]] · S13 | Final collage production | **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|SB2]]** |
-| W15 | 2026-12-09 | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage\|U3·L5]] · S14 | **[[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage\|A3]]: final collage** + reflection, in class | **A3** |
 
 These dates may shift when the school publishes the calendar for this period. Any change will be confirmed in class. W14 (12-02) is a normal class for you.
 

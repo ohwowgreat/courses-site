@@ -2,7 +2,7 @@
 title: "Media Studies · S1 A3: Component 1 Portfolio"
 related:
   - "[[classes/media-studies/assessments/9607-s1-assessments]]"
-  - "[[classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission]]"
+  - "[[classes/media-studies/lesson-plans/9607-s1-lesson-14-audiences-and-the-portfolio-submission]]"
   - "[[classes/media-studies/assessments/9607-s1-a2-blog-mid-point]]"
   - "[[concepts/production-craft]]"
   - "[[concepts/process-evidence-and-reflection]]"
@@ -11,7 +11,7 @@ modified: 2026-08-02
 ---
 # Media Studies · S1 A3: Component 1 Portfolio
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/assessments/9607-s1-assessments|S1 Assessment Register]] · [[classes/media-studies/lesson-plans/9607-s1-lesson-11-audiences-and-the-portfolio-submission|Lesson 11]] · Attainment 3 of 4
+[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/assessments/9607-s1-assessments|S1 Assessment Register]] · [[classes/media-studies/lesson-plans/9607-s1-lesson-14-audiences-and-the-portfolio-submission|Lesson 11]] · Attainment 3 of 4
 
 ## At a glance
 
@@ -44,7 +44,7 @@ This assessment asks you to show that you can:
 
 ## The task
 
-A3 is the whole of Component 1. Submit three things together:
+A3 is the whole of Component 1. You submit three things together:
 
 **1. The product.** Your finished film opening or magazine, exported and playable, in the genre you registered.
 
@@ -56,10 +56,10 @@ A3 is the whole of Component 1. Submit three things together:
 
 **The week is built around Friday.**
 
-1. **Wed 11-25, the double: CCR surgery.** The last window where help is available. The queue runs in **triage order by CS7 severity**, not by hand-raising, so everyone is seen and the strongest drafts get peer support rather than teacher time. Every visit ends with **one fix done**, not promised.
-2. **The submission checklist**, run at the close of Wednesday: product exported and playable, CCR in its creative format and posted, blog complete with posts dated and contributions labeled, URLs correct.
-3. **Fri 11-27: submission.** Final checks against the checklist. URLs and files are logged on the submission sheet, with confirmation shown on screen per group.
-4. **No edits after.** This is absolute. Friday is for logistics, not last-minute changes.
+1. **Wed 11-25, the double: CCR surgery.** This is the last window where help is available. The queue runs in **triage order by CS11 severity**, not by hand-raising, so everyone is seen and the strongest drafts get peer support rather than teacher time. Every visit ends with **one fix done**, not promised.
+2. **The submission checklist**, run at the close of Wednesday: product exported and playable · CCR in its creative format, posted · blog complete, posts dated, contributions labeled · URLs correct.
+3. **Fri 11-27: submission.** Final checks against the checklist. URLs and files are logged on the submission sheet. Confirmation is shown on screen for each group.
+4. **No edits after.** This is absolute. Friday is logistics, not last-minute work.
 
 **Run this at the close of the Wednesday session**, not on Friday morning.
 
@@ -102,14 +102,14 @@ Three things are worth reading twice:
 
 - **"Knowingly subverts" sits at the top with "accurately follows."** Breaking a convention on purpose, and being able to say why, scores as well as observing it perfectly.
 - **The CCR is marked twice**: once for its own technical and creative skill (strand 4, AO3) and once for the quality of the evaluation in it (strand 5, AO2). A creative CCR that says nothing loses strand 5. A thoughtful CCR delivered as a read-aloud essay loses strand 4.
-- **"All four questions"** is the phrase in strand 5's top three bands. Uneven coverage caps that strand at 3 or 4, no matter how good the strongest answer is.
+- **"All four questions"** is the phrase in strand 5's top three bands. Uneven coverage caps that strand at 3 or 4, however good the strongest answer is.
 
 Marks are curved under [[shared/bnds-assessment-framework|the BNDS framework]] rather than reported raw.
 
 ## After the sit
 
-- **Returned Tue 2026-12-01.** You band your own portfolio against these criteria before any mark is discussed. The conversation is about the gap between your band and the mark, not about the mark.
-- You then write **one production target**: specific, drawn from the feedback, achievable in Semester 2. "Hold focus in low light" beats "get better at filming". It is logged as LB4 and collected on in S2.
+- **Returned Tue 2026-12-01.** The protocol is fixed: **you band your own portfolio against these criteria before any mark is discussed.** The conversation is about the gap between your band and the mark, not about the mark.
+- You then write **one production target**: specific, evidenced from the feedback, achievable in Semester 2. "Hold focus in low light" beats "get better at filming". It is logged as LB4 and collected on in S2.
 - The next assessment, [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]], sits Wed 2026-12-16.
 
 ## How to prepare
@@ -117,7 +117,7 @@ Marks are curved under [[shared/bnds-assessment-framework|the BNDS framework]] r
 | Where it came from | What to use it for |
 |---|---|
 | **A2**, the blog mid-point | The same blog, already marked once. Its feedback is your instruction sheet |
-| **CS7**, CCR draft review against the real criteria | Where the CCR stands, and your place in Wednesday's triage queue |
+| **CS11**, CCR draft review against the real criteria | Where the CCR stands, and your place in Wednesday's triage queue |
 | The **Mon 11-02 screening and Tue 11-03 audit** | Real audience testimony on your product, and the pickup list from it |
 | Wednesday's **submission checklist** | Run it yourself before Wednesday, so surgery time goes on the CCR rather than on admin |
 | The four CCR questions | Coverage of all four is what strand 5's top bands require |

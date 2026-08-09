@@ -19,7 +19,7 @@ what's due.</p>
 
 <dl class="stat-strip">
   <div class="stat"><dt>Courses</dt><dd>5</dd></div>
-  <div class="stat"><dt>Lessons</dt><dd>103</dd></div>
+  <div class="stat"><dt>Lessons</dt><dd>106</dd></div>
   <div class="stat"><dt>Semester</dt><dd>Sep 2026 → Jan 2027</dd></div>
 </dl>
 

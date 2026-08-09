@@ -3,7 +3,7 @@ title: "Lesson 01: The Four Key Concepts"
 related:
   - "[[classes/media-studies/media-studies]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-1-introduction]]"
-  - "[[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-how-images-mean]]"
+  - "[[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-signs-and-codes]]"
   - "[[classes/media-studies/9607-resource-library]]"
   - "[[concepts/four-key-concepts]]"
   - "[[concepts/media-language]]"
@@ -17,7 +17,7 @@ modified: 2026-08-03
 
 # Lesson 01: The Four Key Concepts
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-1-introduction|Unit 1]] · Lesson 01 of 16 · [[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-how-images-mean|Lesson 02]] →
+[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-1-introduction|Unit 1]] · Lesson 01 of 19 · [[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-signs-and-codes|Lesson 02]] →
 
 <p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-01-the-four-key-concepts.pptx">Download the deck (PowerPoint, 1.2 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
@@ -38,28 +38,28 @@ modified: 2026-08-03
 
 ## Overview
 
-This lesson introduces the four **Key Concepts** of Media Studies and the course's founding claim: **media is a version, not a window**. You meet each concept, apply it to a text, and see the claim proved by three historical examples. You produce [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS1]], a paragraph that describes only what an image shows, written in class on Friday 2026-09-04. Describing before you interpret is what [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]] rewards, so the discipline you practice here is the foundation A1 is marked on. Both English and Chinese are welcome in the room, and the shared lexicon on the wall starts this week.
+This lesson introduces the four Key Concepts of Media Studies and the course's founding claim: media is a version, not a window. You apply each concept to a shared text and see how images are shaped both before and after the shutter. On Friday you write [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS1]], a one-paragraph analysis of a new unseen image using denotation only, with no interpretive claims. This describing-before-meaning discipline is the foundation [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]] is marked on.
 
 ## The ideas
 
 ### The four Key Concepts
 
-These four concepts are your working tools for the whole course. You apply each to the same text by reading it through four different lenses.
+You use four lenses to read any media text:
 
 - **Language**: how a text is made to mean.
 - **Representation**: how people, places, and ideas are shown.
 - **Industry**: who made it, and why.
 - **Audience**: who it is for, and what they do with it.
 
-You are an **audience** before you are anything else. The 24-hour media-use log shows how much media you actually contact, which is the first evidence that you are affected by it.
+You are an **audience** before you are anything else, which is why the room's own media-use data is the first evidence you work from.
 
 ### Media is a version, not a window
 
-A media text is not a clear window onto reality. It is a **version** of reality, shaped by choices before you ever see it. Three photographs prove this, all made a century before Photoshop:
+**Media is a version, not a window**: a media text is a constructed version of reality, not a transparent view of it. Three photographs prove this in the century before Photoshop:
 
-- **Staging**: Gardner's *Home of a Rebel Sharpshooter* (1863), the most famous photograph of the American Civil War. The soldier's body was moved and posed for the composition, with the rifle propped by the photographer. The scene was arranged before the shutter opened.
-- **Selection**: Lange's *Migrant Mother* (1936). One frame was chosen from six exposures, then cropped, and a distracting thumb was later retouched away. Every photograph is also the frames that were not chosen.
-- **Anchorage**: an Underwood & Underwood stereograph (c. 1917) showing three women watching soldiers march away. The caption, *"Mother, Wife, and Sweetheart…"*, tells you who they are and how to feel. The words steer the image.
+- **Staging**: Gardner's *Home of a Rebel Sharpshooter* (1863), the most famous photograph of the American Civil War. The soldier's body was moved and posed for the composition, with the rifle propped by the photographer. It was arranged before the shutter opened.
+- **Selection**: Lange's *Migrant Mother* (1936). One frame was chosen from six exposures, cropped, and a distracting thumb was later retouched away. Every photograph is also the frames not chosen.
+- **Anchorage**: an Underwood & Underwood stereograph (c. 1917) showing three women watching soldiers march away. The caption, "Mother, Wife, and Sweetheart…", tells you who they are and how to feel. The words steer the image.
 
 <div class="plate-row">
 <figure class="plate">
@@ -73,19 +73,15 @@ A media text is not a clear window onto reality. It is a **version** of reality,
 </div>
 
 
-The same event can become several stories: one photo, re-cropped and re-captioned, tells different things each time.
-
 ### Denotation
 
-**Denotation** is describing only what an image shows, with no interpretation. A denotation-only paragraph about *Migrant Mother* keeps "a woman, seated, hand at her chin; two children face away, heads on her shoulders." Words like "worried", "poor", and "desperate" are interpretive and go on a parked list. That parked list has a name, which you learn in Lesson 02.
-
-Sentence frames help you stay in denotation: *"The image shows…" / "In the foreground / background…" / "The figure is positioned…" / "The text reads…"* Use no evaluative adjectives anywhere.
+**Denotation**: describing only what is literally shown, with no interpretation. For *Migrant Mother*, "a woman, seated, hand at her chin; two children face away, heads on her shoulders" is denotation. Words like "worried", "poor", or "desperate" are interpretation and go on a parked list. That parked list gets its name in Lesson 02.
 
 ## Day by day
 
-- **Tue 09-01.** Course introduction: what Media Studies is, how the course runs, and the two-year map. You vote on the claim *"I'm not impacted by media."* CS1 is announced for Friday. Homework: begin the 24-hour media-use log (coursebook §1.1), recording every media contact, platform, and minutes, and set up your blog account. Start your EN/ZH lexicon entries.
-- **Wed 09-02.** The room's 24 hours are tallied by platform, naming **Audience** from your own data. You learn the four Key Concepts by reading one shared text through four lenses, then see the mediation demo with its three proofs, and play a concept card sort. Homework: WS 1.1, the digital-identity mind map (WS 5.2 body map is the more visual, lower-language alternative). Keep adding lexicon entries.
-- **Fri 09-04.** A denotation-only paragraph is modeled live about *Migrant Mother*, showing what gets excluded. You then write CS1 on a new unseen still: one paragraph, denotation only. In the exit swap, papers trade and each reader circles any smuggled interpretive words.
+- **Tue 09-01.** Course introduction and the two-year map. Both English and Chinese are welcome in the room, and the shared lexicon starts this week. CS1 is announced: one paragraph, describing only, written in class on Friday. Homework: begin the 24-hour media-use log (coursebook §1.1), recording every media contact over the next 24 hours with platform and minutes, and set up your blog account.
+- **Wed 09-02.** Tally the room's media-use logs by platform. Learn the four Key Concepts by reading one shared text through each lens. See media is a version, not a window through Staging, Selection, and Anchorage, then re-crop and re-caption one staged classroom photo into three different stories. Homework: WS 1.1 digital-identity mind map (it feeds the Lesson 07 blog); WS 5.2 body map is the more visual alternative. Keep adding lexicon entries.
+- **Fri 09-04.** Watch a denotation-only paragraph modeled live on *Migrant Mother*. Write CS1: one paragraph on a new unseen still, denotation only, with sentence frames available and no evaluative adjectives. Reach at least five lexicon entries with EN/ZH labels by today.
 
 ## Assessment
 
@@ -93,17 +89,16 @@ Sentence frames help you stay in denotation: *"The image shows…" / "In the for
 |---|---|---|---|
 | CS1 | Fri 2026-09-04 | Analytical paragraph, denotation only, written in class | AO2 |
 
-CS1 is announced on day 1 so you have at least 72 hours' notice. It is marked for discipline, not polish: zero interpretive claims is the criterion. It is returned within five working days. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+You write CS1 in class. It is marked for discipline, not polish: zero interpretive claims is the criterion. It is returned within five working days. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
 ## Review
 
 Check you can:
 
-- Name the four **Key Concepts** and apply each one to a text.
-- Explain why a media text is a **version, not a window**, with one concrete example.
-- Identify **Staging**, **Selection**, and **Anchorage** as three ways an image is shaped.
-- Write a paragraph in pure **denotation**, with zero interpretive claims.
-- Separate denotation from evaluative words like "worried" or "poor".
+- Name the four Key Concepts and apply each to a text.
+- Explain, with one example, why media is a version, not a window.
+- Write a paragraph in denotation only, with zero interpretive claims.
+- Tell denotation apart from interpretation.
 - Log at least five lexicon entries with EN/ZH labels by Friday.
 
 ## Practice

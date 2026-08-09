@@ -65,38 +65,63 @@ All public domain. Listed for attribution.
 - Alexander Gardner, *Home of a Rebel Sharpshooter*, 1863 — L01 (staging)
 - Dorothea Lange, *Migrant Mother*, 1936 — L01 (selection)
 - Underwood & Underwood, *Seventh Regiment marching to war* ("Mother, Wife, and Sweetheart…"), c. 1917 — L01, L02 (anchorage)
-- Caravaggio, *The Calling of Saint Matthew*, 1599 — L03 (the cold read)
-- Caravaggio, *The Incredulity of Saint Thomas*, c. 1602 — L03 (precision beats quantity)
-- Dutch vanitas still life, 17th century — L04 (genre recognition)
-- Vincent van Gogh, *Skull with Burning Cigarette*, 1885 — L04 (genre recognition)
-- Pieter Bruegel the Elder, *The Peasant Wedding*, 1567 — L05 (a plan executed)
-- Frances Benjamin Johnston, an English Literature class, Hampton, c. 1899 — L06 (the discipline)
-- Caspar David Friedrich, *Wanderer Above the Sea of Fog*, 1818 — L07 (the enigma code)
-- Frances Benjamin Johnston, a Geography class, Hampton, c. 1899 — L07 (the audit)
-- Alexander Gardner, *Lincoln and McClellan at Antietam*, 1862 — L08 (the photo-op)
-- Gertrude Käsebier, a studio portrait, c. 1900 — L08 (the constructed image)
-- Édouard Manet, *A Bar at the Folies-Bergère*, 1882 — L09 (the looking that will not resolve)
-- Édouard Manet, *A Good Glass of Beer* (*Le Bon Bock*), 1873 — L11 (gratification personified)
-- Underwood & Underwood, *Above Fifth Avenue, Looking North* — L12 (the view from above)
-- Gustave Le Gray, *Preparation of the Emperor's Table, Camp de Châlons*, 1857 — L12 (the frame belonged to the payer)
-- Underwood & Underwood, *Charles Lindbergh*, 1927 — L13 (one man, every channel)
-- Loewy & Puiseux, plate from the *Atlas Photographique de la Lune*, c. 1900 — L14 (the standard of coverage)
-- Caravaggio, *The Musicians*, 1595 — L15 (rehearsal, mid-note)
-- Claude Monet, *The Magpie*, 1869 — L16 (winter light, the quiet after)
+- Caravaggio, *The Calling of Saint Matthew*, 1599 — L05 (one window does the casting: lighting direction and contrast)
+- Caravaggio, *The Incredulity of Saint Thomas*, c. 1602 — L02 (the index: a physical trace, and precision beats quantity)
+- Dutch vanitas still life, 17th century — L09 (genre recognition)
+- Vincent van Gogh, *Skull with Burning Cigarette*, 1885 — L09 (genre recognition)
+- Pieter Bruegel the Elder, *The Peasant Wedding*, 1567 — L05 (production design read whole: location, costume, properties)
+- Frances Benjamin Johnston, an English Literature class, Hampton, c. 1899 — L08 (the discipline)
+- Caspar David Friedrich, *Wanderer Above the Sea of Fog*, 1818 — L10 (the enigma code)
+- Frances Benjamin Johnston, a Geography class, Hampton, c. 1899 — L10 (the audit)
+- Alexander Gardner, *Lincoln and McClellan at Antietam*, 1862 — L11 (the photo-op)
+- Gertrude Käsebier, a studio portrait, c. 1900 — L11 (the constructed image)
+- Édouard Manet, *A Bar at the Folies-Bergère*, 1882 — L12 (the looking that will not resolve)
+- Édouard Manet, *A Good Glass of Beer* (*Le Bon Bock*), 1873 — L14 (gratification personified)
+- Underwood & Underwood, *Above Fifth Avenue, Looking North* — L15 (the view from above)
+- Gustave Le Gray, *Preparation of the Emperor's Table, Camp de Châlons*, 1857 — L15 (the frame belonged to the payer)
+- Underwood & Underwood, *Charles Lindbergh*, 1927 — L16 (one man, every channel)
+- Loewy & Puiseux, plate from the *Atlas Photographique de la Lune*, c. 1900 — L17 (the standard of coverage)
+- Caravaggio, *The Musicians*, 1595 — L18 (rehearsal, mid-note)
+- Claude Monet, *The Magpie*, 1869 — L19 (winter light, the quiet after)
 
 ### Two substitutions (noted for the record)
 
 Two lesson plans name works whose public-domain status is not clean; each was
 replaced with a safely-PD work that carries the same teaching point:
 
-- **L09, "a look sent back":** the lesson names Claude Cahun's 1920 self-portrait.
+- **L12, "a look sent back":** the lesson names Claude Cahun's 1920 self-portrait.
   No clearly public-domain Cahun self-portrait was verifiable on Wikimedia Commons,
   so **Manet's *Olympia* (1863)** stands in. Olympia's direct, unashamed stare is the
   canonical returned gaze, and bridges cleanly to hooks's oppositional gaze.
-- **L10, "the maker examining himself":** the lesson names Diego Rivera's 1907
+- **L13, "the maker examining himself":** the lesson names Diego Rivera's 1907
   self-portrait. Rivera (d. 1957) is not yet public domain in life-plus-100
   jurisdictions, so **Van Gogh's *Self-Portrait* (1889)** stands in — a maker studying
   the maker, unambiguously PD and instantly recognisable.
+
+### Added 2026-08-09 for the four technical-element decks
+
+Semester 1 was rebuilt from 16 lessons to 19 to restore camera, sound, mise-en-scène
+and editing as production-led lessons (see `wiki/analyses/9607-curriculum-drift.md`).
+Four plates were newly resized from the local library for the new decks; all four are
+public domain and none required a substitution:
+
+- Alvin Langdon Coburn, *St. Paul's and Other Spires*, c. 1905 — L03 (a viewpoint nobody
+  can stand in: high angle as a claim about what is in the frame)
+- Frederick H. Evans, *A Sea of Steps, Wells Cathedral*, 1903 — L03 (a photograph made
+  about composition, shown whole and never cropped because the composition is the content)
+- Caravaggio, *The Musicians*, 1595 — L04 (the part of music that happens before the music:
+  ambient sound, made visible). Also used in L15; the two readings are different.
+- Alfred Stieglitz, *Music: A Sequence of Ten Cloud Photographs, No. 1*, 1922 — L06
+  (meaning assembled by sequence rather than by any single frame: editing's own claim)
+
+Reused with a new reading: Caravaggio's *Calling of Saint Matthew* moves from the old
+sign-types lesson to L05, where the single window doing the casting is the lighting
+lesson; Bruegel's *Peasant Wedding* moves from the planning lock to L05 as production
+design read whole.
+
+**Rejected:** Muybridge's *Animal Locomotion* motion-study grids are the obvious
+illustration for shot duration and were checked first. The plates in the library are
+nude studies, so they are out for a school deck regardless of their public-domain status.
 
 ## Art Appreciation
 

@@ -2,7 +2,7 @@
 title: "Media Studies · S1 A4: Section A in Authentic Format"
 related:
   - "[[classes/media-studies/assessments/9607-s1-assessments]]"
-  - "[[classes/media-studies/lesson-plans/9607-s1-lesson-13-a4-section-a-in-authentic-format]]"
+  - "[[classes/media-studies/lesson-plans/9607-s1-lesson-16-a4-section-a-in-authentic-format]]"
   - "[[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis]]"
   - "[[classes/media-studies/assessments/9607-s1-eot-component-2-paper]]"
   - "[[classes/media-studies/9607-resource-library]]"
@@ -12,7 +12,7 @@ modified: 2026-08-02
 ---
 # Media Studies · S1 A4: Section A in Authentic Format
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/assessments/9607-s1-assessments|S1 Assessment Register]] · [[classes/media-studies/lesson-plans/9607-s1-lesson-13-a4-section-a-in-authentic-format|Lesson 13]] · Attainment 4 of 4
+[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/assessments/9607-s1-assessments|S1 Assessment Register]] · [[classes/media-studies/lesson-plans/9607-s1-lesson-16-a4-section-a-in-authentic-format|Lesson 13]] · Attainment 4 of 4
 
 ## At a glance
 
@@ -45,24 +45,24 @@ This assessment asks you to show that you can:
 
 You answer the same Section A question as A1, but in the **authentic examination format**. That difference is the point of this assessment.
 
-A1 was one hour of continuous writing. A4 splits the time the way the real paper does: **half an hour with the extract and your notes, then three quarters of an hour writing.** These are different skills. The viewing window rewards a note system. The writing window rewards working from that system instead of trying to re-watch the extract in your head.
+A1 was one hour of continuous writing. A4 splits the time the way the real paper does: half an hour with the extract and your notes, then three quarters of an hour writing. These are different skills. The viewing window rewards a note system. The writing window rewards working from that system instead of trying to re-watch the extract in your head.
 
 The prompt is the Paper 2 Section A stem: analyze how the extract constructs meaning through camera, sound, mise-en-scène and editing.
 
 ## Instructions
 
-1. **Conditions briefed once.** The format difference from A1 is stated to you, because it is what is being tested.
-2. **30 minutes: viewing and notes.** The extract is screened under examination protocol. Build structured notes: a note grid or four-column chart by code family, not a running commentary. A transcript wastes half an hour.
-3. **45 minutes: writing.** Write from your notes. Do not expect another screening.
+1. The format difference from A1 is stated once at the start, because it is what this assessment tests.
+2. **30 minutes: viewing and notes.** The extract is screened under examination protocol. Build structured notes: a note grid or four-column chart by code family, not a running commentary. A transcript is a wasted half hour.
+3. **45 minutes: writing.** Work from your notes. Do not expect another screening.
 4. Hand in your script.
 
-**How to spend the viewing window.** Watch once. Then make passes that isolate one code family at a time. Count cuts where editing matters. Note the exact moment for anything you intend to quote, because strand 5 of the rubric is *use of examples*, and a marker has to be able to find what you cite.
+**How to spend the viewing window.** Watch once. Then use later passes to isolate one code family at a time. Count cuts where editing matters. Note the exact moment for anything you intend to quote, because strand 5 of the rubric is *use of examples*, and a marker has to be able to find what you cite.
 
 **If you are absent.** Contact your teacher **at least 24 hours before** the sitting. Illness needs a doctor's note. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8).
 
 ## Rubric
 
-The **official Cambridge Paper 2 rubric**, the same five criteria used for A1 and the End of Term Exam. 25 marks, five criteria of 5, each banded **independently** on best fit.
+This uses the **official Cambridge Paper 2 rubric**, the same five criteria used for A1 and the End of Term Exam. 25 marks, five criteria of 5, each banded **independently** on best fit.
 
 | # | Criterion | AO | Marks |
 |---|---|---|---|
@@ -100,7 +100,7 @@ Marks are curved under [[shared/bnds-assessment-framework|the BNDS framework]] r
 | Where it came from | What to use it for |
 |---|---|
 | **A1** and its feedback | The same question, different clock. Your A1 target is checked here |
-| **CS8**, guided Section A with the mark scheme open (Wed 12-09) | The direct rehearsal, one week before, with the rubric visible |
+| **CS12**, guided Section A with the mark scheme open (Wed 12-09) | The direct rehearsal, one week before, with the rubric visible |
 | Your note grid or four-column chart | The viewing window's whole purpose. Practice it before the day |
 | The **strain log** and your theory cards | Criterion 2, contexts and critical debates |
 | Mon and Tue of Lesson 13, one institution end to end | Industry context you can actually use on an extract |
