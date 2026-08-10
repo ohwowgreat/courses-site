@@ -39,43 +39,14 @@ modified: 2026-08-03
 
 ## Overview
 
-This lesson teaches gaze theory as live questions you test, not settled answers. Across the two-day block you build van Zoonen and Mulvey; the Wednesday double tests Mulvey against texts from different decades; and hooks reframes the week by asking who a text never expected to be looking. You produce **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS10]]**, one representation close-reading paragraph, on Fri 2026-11-13, in which a theorist does real analytical work. That is the exact move [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]] and the End of Term Exam reward.
+This lesson teaches gaze theory as live questions to test, not settled answers. You build up van Zoonen and Mulvey, test Mulvey against films from different decades, then flip the whole week with bell hooks. You produce the [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS10]] representation close-reading paragraph on Fri 2026-11-13: one paragraph where a theorist does real analytical work inside your reading. That move is the exact skill [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]] and the End of Term Exam reward.
 
 ## The ideas
 
 ### Gender as performance (van Zoonen)
 
-**Performance** is van Zoonen's idea that gender in media is assembled, not photographed. It is built from repeatable conventions: pose, gaze direction, fragmentation, and setting. Because it is assembled, it can be assembled otherwise. You can decompose an ad into its performance conventions, then swap those conventions with another ad and see what breaks. The break is information: it shows the convention was doing work.
+**Performance** is van Zoonen's claim that gender in media is assembled, not photographed. It is built from repeatable conventions: pose, gaze direction, fragmentation of the body, and setting. Because it is assembled, it can be assembled otherwise. Test this by taking two contrasting ads, breaking each into its performance conventions, then swapping the conventions between them. When something breaks, the break is information: it shows you which convention was carrying the meaning.
 
-### The three looks (Mulvey)
-
-
-<figure class="plate">
-  <img src="../../../static/img/sherman-film-still.jpg" alt="Cindy Sherman, Untitled Film Still #48, 1979. A film that does not exist, and you know the character anyway" loading="lazy" />
-  <figcaption>Cindy Sherman, <em>Untitled Film Still #48</em>, 1979. A film that does not exist, and you know the character anyway</figcaption>
-</figure>
-
-Mulvey (1975) argues that narrative cinema is built around **three looks**: the camera's, the characters', and the audience's. In classical cinema all three align on women as spectacle. State this precisely and with its date: it is a claim from 1975 about a system, made to be tested. To test it, track the three looks in a clip with timecoded evidence, then ask whether the claim describes that text.
-
-The decade test asks one fixed question of the three looks: **hold, shift, or invert?** You compare two texts of the same genre and comparable scene function, one older and one recent, so the era is the only variable. Sometimes the gaze holds, sometimes it shifts, and sometimes an apparent inversion turns out to be the same structure pointed elsewhere.
-
-### The oppositional gaze (hooks)
-
-
-<figure class="plate">
-  <img src="../../../static/img/cahun-gaze.jpg" alt="Claude Cahun, Self-Portrait, 1920 — a look sent back: the gaze refused" loading="lazy" />
-  <figcaption>Claude Cahun, <em>Self-Portrait</em>, 1920 — a look sent back: the gaze refused</figcaption>
-</figure>
-
-bell hooks names the **oppositional gaze**: looking back at a text that never expected you to be looking. Refusal and rereading become critical acts. This flips the week's question. Instead of "how does the text look at its subjects," you ask "who was this looking built for, and what happens when someone else does it?"
-
-### A theorist that does work
-
-A theorist should do **analytical work rather than decoration**. This is rung 4 of the Ladder. Write "as Mulvey's camera-look predicts…" not "Mulvey said the male gaze." A decorated theorist is named but does no analysis. A working theorist drives the reading of the evidence.
-
-## Day by day
-
-- **Mon 11-09.** van Zoonen and gender as performance. In pairs you decompose two contrasting ads into their performance conventions, then swap the conventions between them and explain what breaks.
 
 <div class="plate-row">
 <figure class="plate">
@@ -88,9 +59,40 @@ A theorist should do **analytical work rather than decoration**. This is rung 4 
 </figure>
 </div>
 
-- **Tue 11-10.** Mulvey (1975) and the three looks, stated precisely and dated. You test the claim against one classical-era clip, tracking the three looks with timecodes. Homework: read the hooks extract (300–400 words, glossed) before Friday, within the 30-min cap.
-- **Wed 11-11 (double).** The decade test: compare a decade pair (same genre, one older and one recent, comparable scene function), gather timecoded evidence for camera-look, character-look, and audience positioning, then reach a verdict of hold, shift, or invert and defend it against a counter. The exact pairs will be confirmed in class. The strongest evidence lines become CS10 sentence models.
-- **Fri 11-13.** bell hooks and the oppositional gaze. You write CS10: one close-reading paragraph on a provided still or 30-second clip, with a claim, evidence, and a theorist doing analytical work. As a quick check, you swap with a partner to hunt for a decorated theorist before scripts come in. The complete C1 portfolio is due Fri 11-27, 14 days later.
+### The three looks (Mulvey)
+
+
+<figure class="plate">
+  <img src="../../../static/img/sherman-film-still.jpg" alt="Cindy Sherman, Untitled Film Still #48, 1979. A film that does not exist, and you know the character anyway" loading="lazy" />
+  <figcaption>Cindy Sherman, <em>Untitled Film Still #48</em>, 1979. A film that does not exist, and you know the character anyway</figcaption>
+</figure>
+
+Mulvey (1975) argues that narrative cinema is built around **three looks**: the camera's look, the characters' looks, and the audience's look. In classical cinema all three align on women as spectacle. State the claim precisely and with its date: this is a claim from 1975 about a system, and it was made to be tested. To test it, take a clip and track all three looks with timecodes, then ask whether the claim actually describes that text.
+
+### The decade test: hold, shift, or invert
+
+To test Mulvey across time, compare pairs of texts: same genre, one from before 2000 and one from after 2018, with a comparable scene function so era is the only variable. For each text, gather timecoded evidence of the camera-look, the character-look, and the audience positioning, then reach a verdict: does the gaze **hold**, **shift**, or **invert**? Watch for the trap where an apparent inversion turns out to be the same structure pointed at a different subject.
+
+### The oppositional gaze (hooks)
+
+
+<figure class="plate">
+  <img src="../../../static/img/cahun-gaze.jpg" alt="Claude Cahun, Self-Portrait, 1920 — a look sent back: the gaze refused" loading="lazy" />
+  <figcaption>Claude Cahun, <em>Self-Portrait</em>, 1920 — a look sent back: the gaze refused</figcaption>
+</figure>
+
+The **oppositional gaze** is bell hooks's idea of looking back at a text that never expected you to be looking. Refusal and rereading become critical acts. This flips the week's question. Instead of asking "how does the text look at its subjects?", you ask "who was this looking built for, and what happens when someone else does the looking?"
+
+### A theorist doing analytical work
+
+In a strong paragraph the theorist does analytical work rather than decoration. This is rung 4 of the Ladder. Decoration names the theorist but adds nothing: "Mulvey said the male gaze." Work uses the theorist to explain the evidence: "as Mulvey's camera-look predicts…". A quick check is the **Smuggler Hunt**: hunt a partner's paragraph for a theorist who is named but doing no work.
+
+## Day by day
+
+- **Mon 11-09.** van Zoonen and gender as performance. In pairs, break two ads into their performance conventions, then swap the conventions to see what breaks.
+- **Tue 11-10.** Mulvey and the three looks, stated precisely and dated to 1975. Track the three looks in one classical-era clip with timecodes and ask if the claim fits. Homework set: read the hooks extract (300–400 words, glossed, English with Chinese support) before Friday, within the 30-min cap.
+- **Wed 11-11 (double).** The decade test. In groups, screen a decade pair, gather timecoded evidence for camera-look, character-look, and audience positioning, then give a verdict: hold, shift, or invert. Each verdict must survive one structured counter. Close with an honest summary of where the gaze held, shifted, or inverted.
+- **Fri 11-13.** bell hooks and the oppositional gaze reframe the week. Write CS10: one close-reading paragraph on a provided still or 30-second clip, with claim, evidence, and a theorist doing analytical work. Run a Smuggler Hunt swap to catch decorated theorists before you submit. Your complete C1 portfolio is due Fri 11-27, 14 days later.
 
 ## Assessment
 
@@ -98,16 +100,16 @@ A theorist should do **analytical work rather than decoration**. This is rung 4 
 |---|---|---|---|
 | CS10 | Fri 2026-11-13 | Representation close-reading paragraph where the theorist does analytical work rather than decoration | AO2 |
 
-Written Fri 11-13, due Fri 11-27. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+C1 portfolio due Fri 11-27. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
 ## Review
 
 Check you can:
 
 - Explain gender as **performance** and read one performance two different ways.
-- State Mulvey's **three looks** precisely enough to test the claim against a text.
+- State Mulvey's **three looks** precisely enough to test, then test it against a current text.
 - Apply the **oppositional gaze** to produce a reading the text did not invite.
-- Write a CS10 paragraph in which the theorist does analytical work rather than decoration.
+- Write a CS10 paragraph where the theorist does analytical work rather than decoration.
 
 ## Practice
 

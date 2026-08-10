@@ -23,12 +23,12 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Outcome 1 built across a sustained run, reviewed mid-production while change is still possible |
-| Graded | No attainment. Mon 2027-11-01** · **[[classes/a-level-art-design/assessments/9479-s3-assessments\|CS6]]** Thu 2027-11-04 (outcome 1 mid-production review) |
+| Graded | No attainment. · **[[classes/a-level-art-design/assessments/9479-s3-assessments\|CS6]]** Thu 2027-11-04 (outcome 1 mid-production review) |
 | Homework | ≤30 min: note the one change the mid-production review named, before you act on it |
 
 ## Overview
 
-This week you build final outcome 1 in one sustained run. You execute the plan you set in [[classes/a-level-art-design/assessments/9479-s3-assessments|CS5]], then take it through a mid-production review on Thu 2027-11-04, graded as **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS6]]**. The review is placed while the work can still change, so what it names, you act on the same day. Outcome 1 resolves and is photographed in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-09-resolving-outcome-1-and-the-final-paper-text|Lesson 09]]. These dates are projected and may shift when the school publishes the calendar for this period.
+This week you build final outcome 1 in one sustained run, moving AO3 Develop into AO4 Present. You execute the plan you set in [[classes/a-level-art-design/assessments/9479-s3-assessments|CS5]]. Midway through, you get a mid-production review: **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS6]]** on Thu 2027-11-04, placed while the work can still change. You then act on that review the same day. The build resolves and is photographed in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-09-resolving-outcome-1-and-the-final-paper-text|Lesson 09]], alongside the final text of the paper. These dates are projected and may shift when the school publishes the calendar for this period.
 
 
 <figure class="plate">
@@ -40,30 +40,32 @@ This week you build final outcome 1 in one sustained run. You execute the plan y
 
 ### One sustained run
 
-Build outcome 1 as **one sustained run**, not a series of fresh starts. Continuity is what carries your work from AO3 Develop into AO4 Present. You are executing the plan from CS5, not reinventing it.
+You build outcome 1 as **one sustained run**: a single continuous build, not a series of fresh restarts. Continuity is what carries your work from AO3 into AO4. You execute the plan from CS5 rather than reinvent it.
 
 ### The mid-production review
 
-The **mid-production review** lands while there is still time to change the work. A review after the work is fixed changes nothing. CS6 marks the review, but the work is what proves you used it: act on what the review names the same day, not later.
+The **mid-production review** happens while there is still time to change the work. A review after the work is fixed changes nothing, so its timing is the point. CS6 marks this review. The mark records the review, but the work itself is what proves you used it. You act on what the review names the same day, because the work is still movable.
 
 ### A3, the final research paper
 
-**[[classes/a-level-art-design/assessments/9479-s3-assessments|A3]]** is the final research paper. It is announced on Monday, 14 days ahead.
+**[[classes/a-level-art-design/assessments/9479-s3-assessments|A3]]** is the final research paper. It is announced on Mon 11-01, exactly 14 days ahead of its deadline.
 
 ## Day by day
 
-- **Mon 11-01.** The sustained build of outcome 1 opens. A3, the final research paper, is announced today, 14 days out.
-- **Tue 11-02 / Wed 11-03.** Studio build continues. You carry out the plan from CS5.
-- **Thu 11-04.** Mid-production review, graded as CS6, while there is still time to change the work.
-- **Fri 11-05.** Studio: act on the review today. Homework (≤30 min): note the one change the review named before you act on it.
+- **Mon 11-01.** The sustained build of outcome 1 begins. A3, the final research paper, is announced today, 14 days out.
+- **Tue 11-02.** Studio: continue the sustained build, following the plan from CS5.
+- **Wed 11-03.** Studio: continue the sustained build.
+- **Thu 11-04.** Mid-production review; CS6. The review lands while there is still time to change the work. Homework (≤30 min): note the one change the review named, before you act on it.
+- **Fri 11-05.** Studio: act on the review today, not later.
 
 ## Review
 
 Check you can:
 
-- Build outcome 1 in one sustained run rather than a series of restarts.
+- Build outcome 1 as **one sustained run** instead of a series of restarts.
+- Explain why the **mid-production review** is placed while the work can still change.
 - Act the same day on what the mid-production review names.
-- Keep the build inside your plan while there is still time to change it.
+- Keep the build inside your CS5 plan while there is still time to change it.
 
 ## Practice
 

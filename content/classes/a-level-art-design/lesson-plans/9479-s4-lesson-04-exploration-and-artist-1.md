@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-03-sustained-study-and-a1]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s4-lesson-05-artist-2-the-bridge-piece-and-a2]]"
-modified: 2026-08-05
+modified: 2026-08-10
 ---
 # S4 Lesson 04: Exploration and Artist 1
 
@@ -100,12 +100,4 @@ Citation without response earns nothing. The analysis and the answer-in-work hap
 
 </details>
 
-**4.** Why is on Friday, before A2 has even sat?
-
-<details class="reveal"><summary>Show answer</summary>
-
-Because the run is tight and every notice goes out at its earliest workable slot. The overlapping notices are a feature of the compressed semester, not a mistake. The dates were placed once, deliberately, and the register carries them.
-
-</details>
-
-**5.** The homework is two keep-or-change lines: one experiment that carries the question and one that does not, each with its reason. Writing the "does not" line honestly is the skill. It is the same muscle as the rejection paragraph, and it gets used again in two weeks.
+**4.** The homework is two keep-or-change lines: one experiment that carries the question and one that does not, each with its reason. Writing the "does not" line honestly is the skill. It is the same muscle as the rejection paragraph, and it gets used again in two weeks.

@@ -37,32 +37,47 @@ modified: 2026-08-03
 
 ## Overview
 
-This lesson closes the Component 1 arc and starts audience theory. You submit your [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio|A3]] C1 portfolio on Fri 11-27: finished product, CCR, and dated blog, with no edits after submission. Wednesday's double is the last help window before you hand in. After submission you apply uses and gratifications to your own media use, then turn your returned portfolio into one production target for Semester 2 (logged as [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|LB4]]). This feeds your Component 1 grade and your Semester 2 production targets.
+This week closes the Component 1 arc and starts audience theory. You learn how to describe an audience precisely, why simple effects models fall short, and how audiences use media for their own purposes. The deliverable is your [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio|A3]] C1 portfolio: finished product, CCR, and dated blog, submitted on Fri 11-27 with no edits after. On Tue 12-01 the portfolio comes back, and you write one production target that Semester 2 will collect on.
 
 ## The ideas
 
-### Audiences
+### Audience types
 
-A **mass audience** is the widest possible group, a text aimed at almost everyone. Example: a Super Bowl half-time show. A **niche audience** is a small, specific group with shared interests. Example: a niche YouTube restoration channel. A **target audience** is the particular group a text is made for. Example: a K-pop comeback teaser.
+A **mass audience** is a very large, broad audience, aimed at almost everyone. A **niche audience** is a small, specific group with shared interests. A **target audience** is the particular group a text is built for. "Everyone" is almost always the wrong answer, and advertisers pay for the difference.
 
-To describe an audience, use **demographics** (who the audience is: age, gender, income) and **psychographics** (values, attitudes, lifestyle). "Everyone" is almost always the wrong answer, and advertisers pay for the difference. Profile an audience with evidence from the text itself: its mode of address, platform, scheduling, and ad breaks.
+You describe audiences two ways. **Demographics** are measurable facts: age, gender, income, location. **Psychographics** are attitudes, values, and lifestyles.
 
-### Effects models and their limits
+Three real texts show the range: a Super Bowl half-time show (mass), a niche YouTube restoration channel (niche), and a K-pop comeback teaser (target). You profile each with evidence from the text itself: mode of address, platform, scheduling, ad breaks. (A CCTV-gala or bilibili example makes the same point.)
 
-**Effects models** claim media acts directly on audiences. The **hypodermic** model says media "injects" messages that audiences take in directly. The **cultivation** model says repeated exposure slowly shapes how an audience sees the world. These models are limited: they cannot explain the horror fan who sleeps fine, or the ad seen a hundred times that never sold anything. The pattern to hold: audiences do things with media; media does not simply do things to audiences.
+### Effects models
+
+Effects models say media acts on audiences. The **hypodermic** model says media messages are "injected" and directly change behavior. The **cultivation** model says heavy, repeated viewing slowly shapes how people see the world.
+
+Both oversimplify. They cannot explain the horror fan who sleeps fine, or the ad seen a hundred times that never sold anything. The pattern to take away: audiences do things with media; media does not simply do things to audiences.
 
 ### Uses and gratifications
 
-**Uses and gratifications** (Blumler and Katz) treats audiences as active choosers who use media for jobs they need done. There are four gratifications: **diversion** (escape and entertainment), **personal relationships** (companionship and social use), **personal identity** (seeing yourself and forming values), and **surveillance** (information about the world). You can map your own weekly media use onto these four, including the comfort re-watch and the late-night scroll, which count as data.
+**Uses and gratifications** theory, from **Blumler and Katz**, treats audiences as active choosers who use media for jobs they need done. The four gratifications are:
+
+- **diversion**: escape or entertainment.
+- **personal relationships**: company and connection.
+- **personal identity**: seeing yourself and your values reflected.
+- **surveillance**: getting information about the world.
+
+You map your own real weekly media use onto these four. The comfort re-watch and the 2 a.m. scroll count as data, not confessions.
+
+### The production target
+
+A production target is one specific, evidenced goal for Semester 2, drawn from your A3 feedback. Make it specific and checkable: "hold focus in low light" beats "get better at filming." This is logged as **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|LB4]]**.
 
 ## Day by day
 
-- **Mon 11-23.** Learn mass, niche, and target audiences, and demographics versus psychographics. Profile three real texts with evidence from the texts.
-- **Tue 11-24.** State effects models (hypodermic, cultivation), then their limits, and build a shared log of media that failed or worked as the model predicts.
-- **Wed 11-25 (double).** CCR surgery: the last help before submission, every student seen. Run the submission checklist: product exported and playable; CCR in its creative format and posted; blog complete with dated posts and labeled contributions; URLs correct.
-- **Fri 11-27.** Submit the A3 portfolio and log files and URLs. No edits after submission. Then start the uses-and-gratifications pre-read (coursebook §5.3). Nothing is due.
-- **Mon 11-30.** Learn the four gratifications from Blumler and Katz and map your own real weekly media use onto them. Write one sentence: which gratification does your own C1 product serve, and how would you know.
-- **Tue 12-01.** A3 returned: band your own portfolio against the C1 criteria first, then compare with your mark. Write one specific, evidenced production target for Semester 2, logged as LB4. Component 2 Section A is on Wed 12-16 in authentic format.
+- **Mon 11-23.** Mass, niche, and target audiences; demographics versus psychographics. In pairs, profile the three texts' audiences using evidence from the texts, then ask whose audience your own C1 product actually reached.
+- **Tue 11-24.** Effects models stated fairly (hypodermic, cultivation), then their limits. Build a shared counter-evidence log: one honest example each of media that failed to affect you as predicted, and one that worked.
+- **Wed 11-25 (double).** CCR surgery, the last help window before submission. Every student is seen; each visit ends with one fix done. The submission checklist is run at the close: product exported and playable, CCR posted in its creative format, blog complete with dated posts and labeled contributions, URLs correct.
+- **Fri 11-27.** Submit A3. Final checks against the checklist; files and URLs logged; confirmation shown on screen. No edits after. Then a quiet start on the uses-and-gratifications pre-read (coursebook §5.3). Nothing is due.
+- **Mon 11-30.** Blumler and Katz and the four gratifications. Map your own media use onto them, then write which gratification your C1 product serves and how you would know.
+- **Tue 12-01.** A3 returned. Self-assess your portfolio against the C1 criteria first, then discuss your marked grade. Write one production target, logged as LB4. Next assessment: Wed 12-16, Component 2 Section A in authentic format.
 
 ## Assessment
 
@@ -81,10 +96,10 @@ Check you can:
 
 - Distinguish mass, niche, and target audiences on real examples.
 - Explain the difference between demographics and psychographics.
-- Explain why effects models like the hypodermic model and the cultivation model oversimplify.
-- Explain uses and gratifications and name the four gratifications from Blumler and Katz.
-- Submit a complete portfolio on time: finished product, CCR, and dated blog, with nothing missing.
-- Write one specific, evidenced production target from your A3 feedback (LB4).
+- Explain why effects models like the hypodermic and cultivation models oversimplify.
+- State uses and gratifications theory and name its four gratifications: diversion, personal relationships, personal identity, and surveillance.
+- Submit a complete A3 portfolio: finished product, CCR, and dated blog, with nothing missing.
+- Write one specific, evidenced production target from your feedback (LB4).
 
 ## Practice
 

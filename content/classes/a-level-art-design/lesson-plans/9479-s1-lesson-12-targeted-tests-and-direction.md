@@ -28,51 +28,56 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Targeted tests on the unresolved questions only; final direction chosen with its rejection articulated; the written evaluation; the Stage 6 page |
-| Feeds | [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS9]] collected Fri 2026-11-27 Thu 2026-11-26**, inside the tests run |
+| Feeds | [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS9]] collected Fri 2026-11-27, inside the tests run |
 | Homework | Written annotation: the evaluation drafted across the Juniors Days gap |
 
 ## Overview
 
-In this lesson you run targeted tests, choose your final direction, write your evaluation, and build the Stage 6 page. The tests answer only the questions the critique left unresolved: no decoration. You then choose your final direction and write down what you rejected and why. [[classes/a-level-art-design/assessments/9479-s1-course-skills|CS9]], your targeted tests plus critique response, is collected on Fri 2026-11-27. This work is where top-band AO3 Develop is won or lost, and it feeds directly into [[classes/a-level-art-design/assessments/9479-s1-a3-development-milestone|A3]].
+This lesson turns your critique into decisions. You run targeted tests on the questions your critique left open, choose your final direction, and write down what you rejected and why. You then build the Stage 6 page so your development reads as a clear sequence of decisions. You produce the tests, the chosen direction, the written evaluation, and the Stage 6 page. [[classes/a-level-art-design/assessments/9479-s1-course-skills|CS9]] is collected Fri 2026-11-27. This work is where top-band AO3 Develop is won or lost, and it is direct practice for [[classes/a-level-art-design/assessments/9479-s1-a3-development-milestone|A3]].
 
 ## The ideas
 
+### No decoration
+
+The rule for this lesson is **no decoration**: every test must answer a real, unresolved question. A test does not exist because it was enjoyable or looks good. If a test does not answer a named question from your critique, it does not belong on the page.
+
 ### Targeted tests
 
-A **targeted test** answers one unresolved question left by the critique. It exists to resolve that question and nothing else: no decoration, no test made because it was enjoyable. First list the unresolved questions, then plan one test per question. Label each finished test with the question it answered.
+A **targeted test** is a single test aimed at one question your critique left unresolved. List those questions first, then plan one test per question. Label each finished test with the question it answered, so the reason for the test is visible.
 
 ### Final direction and rejection
 
-Choosing your **final direction** means picking one path and stating what you rejected. Write the **rejection** in full sentences: name the options you did not take and say why. This is what makes the choice a decision rather than a guess.
+You choose your **final direction** by laying out your tests and both compositions together and deciding which one to carry forward. You then write the **rejection**: full sentences saying what you did not choose and why. Writing the rejection is what shows the decision was made on purpose, not by chance.
 
-### The written evaluation
+### Written evaluation
 
-The **evaluation** is written annotation. It says what the development achieved against your intention, where it fell short, and what the final piece must therefore do. Read a peer's evaluation for honesty.
+The **written evaluation** states what your development achieved against your intention, where it fell short, and what your final piece must therefore do. You draft it across the Juniors Days gap as homework.
 
-### The Stage 6 page
+### Stage 6 page as a decision trail
 
-The **Stage 6 page** presents the development as a decision trail: studies, compositions, critique, tests, choice. Assembled well, it reads as a sequence of decisions.
+The **Stage 6 page** presents your development as a decision trail: studies, compositions, critique, tests, and final choice, in order. Assembled this way, the page reads as a sequence of decisions rather than a pile of images.
 
 ## Day by day
 
-- **Wed 11-25.** Start the two-day tests run. List the unresolved questions from the critique and plan one test per question.
-- **Thu 11-26.** Read the criteria (evaluation due Thu 2026-12-10), then complete the tests, each labeled with the question it answered.
-- **Fri 11-27.** Lay out the tests and both compositions. Choose the final direction and write the rejection in full sentences. CS9 (tests plus critique response) is collected.
-- **Mon 11-30.** Write the evaluation: what the development achieved against the intention, where it fell short, what the final piece must do. Peer read for honesty.
-- **Tue 12-01.** Build the Stage 6 page as a decision trail; photograph and file it. Homework: draft the evaluation across the Juniors Days gap (Wed–Fri).
+- **Wed 11-25.** Start the two-day tests run. List the unresolved questions from critique and plan one test per question.
+- **Thu 11-26.** Read the criteria (final deadline: Thu 2026-12-10), then complete the tests. Label each test with the question it answered.
+- **Fri 11-27.** Lay out your tests and both compositions, choose the final direction, and write the rejection in full sentences. CS9 is collected today (tests plus critique response).
+- **Mon 11-30.** Write the evaluation: what the development achieved against the intention, where it fell short, what the final piece must do. A peer reads it for honesty.
+- **Tue 12-01.** Assemble the Stage 6 page as a decision trail: studies, compositions, critique, tests, choice. Photograph and file it. Homework: draft the evaluation across the Juniors Days gap (Wed–Fri).
 
 ## Assessment
 
-**CS9** (targeted tests plus critique response, written annotation) is collected Fri 2026-11-27. It is direct practice for A3. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. Every test answers a named unresolved question.
+**CS9** (targeted tests + critique response, written annotation) is collected Fri 2026-11-27. It is direct practice for A3. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. Every test must answer a named unresolved question.
 
 ## Review
 
 Check you can:
 
-- Run a **targeted test** on an unresolved question, with no decoration.
+- Run a **targeted test** that answers one unresolved question from your critique.
+- Apply **no decoration**: leave out any test that does not answer a question.
 - Choose your **final direction** and write the **rejection** in full sentences.
-- Write the **evaluation** against your intention.
-- Assemble the **Stage 6 page** as a sequence of decisions.
+- Write a **written evaluation** covering what your development achieved, where it fell short, and what the final piece must do.
+- Assemble the **Stage 6 page** as a decision trail from studies through to final choice.
 
 ## Practice
 

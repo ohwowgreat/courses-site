@@ -33,49 +33,47 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson builds one long observed study, the spine of your AO1 Record work. You compose the **Stage 1 page** from your Lesson 3 material, then carry a single sustained study across a real two-day run, then support it with focused color and texture work. Your deliverable is the composed Stage 1 page, the sustained study carried across two days, and two supporting A5 studies. On Thu 2026-09-24 your work meets **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS3]]**, a walked progress check against the AO1 descriptors.
+This lesson builds the spine of AO1 Record: one long observed study, started and finished without restarting. You first compose your Stage 1 page from your Lesson 3 material. You then commit to the **sustained observed study** across a genuine two-day run on one sheet. You finish by supporting it with two focused color and texture studies. Your [[classes/a-level-art-design/assessments/9479-s1-course-skills|CS3]] progress check comes on Thu 2026-09-24, and the holiday sketchbook brief is set the same day.
 
 ## The ideas
 
 ### The sustained observed study
 
-The **sustained observed study** is one observed drawing carried across more than one day without restarting. You begin a sheet on Monday and finish that same sheet on Wednesday. The point is stamina: one study built up over time, not many short studies. When something goes wrong, you cover it, you do not erase. Tuesday builds the tonal structure. Wednesday resolves edges, surface, and depth.
+A **sustained observed study** is one observed drawing carried across two days without restarting it. It is the spine of AO1. What it shows is stamina: staying with one study long enough to resolve structure, then edges, surface, and depth. Stamina is the content here.
+
+The rule for this study is **cover, do not erase**. When something is wrong, you draw over it rather than rubbing it out. This keeps the record of your thinking visible on the sheet.
+
+Work the two days in order. Day one builds the tonal structure. Day two resolves edges, surface, and depth. Before any mark, spend five minutes looking at the source.
 
 ### The Stage 1 page
 
-The **Stage 1 page** is the composed page that holds your recording work so a stranger can follow your thinking. It uses page architecture: hierarchy (what leads the eye), breathing room (space around the work), and annotation placement (where your notes sit). You compose it from the material you made in Lesson 3.
+The **Stage 1 page** is the composed page that presents your recording work. Compose it so a stranger can follow your thinking. Three things make this work: hierarchy, so the eye knows what matters most; breathing room, so the page is not crowded; and annotation placement, so notes sit where they belong. Photograph and file the page when it is composed.
 
-### Supporting color and texture studies
+### Color and texture studies
 
-**Color and texture studies** are small, focused studies that support the main study rather than repeat it. You make two A5 studies that add color and surface information the main sheet does not carry.
-
-### AO1 descriptors
-
-The **AO1 descriptors** are the criteria for Record. Your sustained study is checked against them in CS3.
+**Color and texture studies** are small, focused studies that support the main sustained study. Keep each to A5. The point is focused support, not repeating the same drawing. They add color and surface information the main study needs.
 
 ## Day by day
 
-- **Sun 09-20** (make-up day). Learn the Stage 1 page architecture: hierarchy, breathing room, annotation placement. Compose your Stage 1 page from Lesson 3's material, then photograph and file it.
-- **Mon 09-21.** Spend five minutes with your source before any mark. Begin the sustained study with light structural drawing and commit to placement. The sheet you start today finishes Wednesday. Cover, do not erase.
+- **Sun 09-20 (make-up day).** Compose your Stage 1 page from your Lesson 3 material, using hierarchy, breathing room, and annotation placement. Photograph and file the page.
+- **Mon 09-21.** Look at the source for five minutes before any mark. Begin the sustained study: light structural drawing, then commit to placement. The sheet you start today finishes Wednesday. Cover, do not erase.
 - **Tue 09-22.** Continue the same sheet. Build the tonal structure.
 - **Wed 09-23.** Finish the same sheet. Resolve edges, surface, and depth.
-- **Thu 09-24.** Make two focused A5 color and texture studies to support the main study. Your work meets the **CS3** walked progress check against the AO1 descriptors. The holiday sketchbook brief is set, due Fri 2026-10-09.
-
-Homework each night: ten minutes of observed drawing from your chosen composition's source.
+- **Thu 09-24.** Make two focused A5 color and texture studies to support the main study. Your CS3 progress check runs this session against the AO1 descriptors. The holiday sketchbook brief is set today, due Fri 2026-10-09.
 
 ## Assessment
 
-**CS3** (sustained-study progress check, walked and not collected, recorded on the rota sheet) sits Thu 2026-09-24, in the same session. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]].
+**CS3** (sustained-study progress check, walked, not collected, recorded on the rota sheet) sits Thu 2026-09-24, in the same session. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]].
 
 ## Review
 
 Check you can:
 
-- Carry one observed study across two days without restarting it.
-- Cover rather than erase when a mark goes wrong.
-- Compose a Stage 1 page using hierarchy, breathing room, and annotation placement so a stranger can follow it.
-- Support the sustained study with focused color and texture studies.
-- Judge your study against the AO1 descriptors.
+- Carry one **sustained observed study** across two days without restarting it.
+- Apply **cover, do not erase** instead of rubbing out.
+- Compose a **Stage 1 page** with hierarchy, breathing room, and annotation placement so a stranger can follow your thinking.
+- Use **color and texture studies** to support the main study rather than repeat it.
+- Explain how the sustained study meets AO1 Record.
 
 ## Practice
 

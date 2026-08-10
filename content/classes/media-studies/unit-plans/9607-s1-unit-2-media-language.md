@@ -30,15 +30,15 @@ modified: 2026-08-09
 
 ## What this unit does
 
-This unit covers the micro end of media language. You start with a compact semiotic foundation. Then you learn the four technical elements one lesson at a time, with equipment in hand. Then you integrate everything on one unseen extract and lock the Component 1 plan before the break.
+This unit covers the micro end of media language. You start with a compact semiotic foundation. Then you take **the four technical elements** one lesson at a time, with equipment in hand. Then you bring everything together on one unseen extract and lock the Component 1 plan before the break.
 
-The unit follows the Scheme of Work structure for the Foundation Portfolio: **research, practice, planning, production, reflection**. Every technical lesson ends with a shot, recorded, or cut artifact, posted and dated on the C1 blog. These posts are not exercises about Component 1. They are Component 1, its research-and-practice stage, evidenced as it happens.
+The unit follows the Scheme of Work's structure for the Foundation Portfolio: **research, practice, planning, production, reflection**. Every technical lesson ends with a shot, recording, or cut that you post and date on the C1 blog. These posts are not exercises about Component 1. They are Component 1, its research-and-practice stage, evidenced as you do it.
 
-Genre and narrative are taught in [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis|Unit 3]], not here.
+Genre and narrative are not in this unit. You study them in [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis|Unit 3]].
 
 ## Dates & span
 
-**W2 to W6: Mon 2026-09-07 → Fri 10-09**, 15 teaching days. Fri 09-25 is lost to Mid-Autumn Festival. The National Day break sits between Wed 09-30 and Fri 10-09. W6 gives one session, Fri 10-09, absorbed into L07.
+**W2 to W6: Mon 2026-09-07 → Fri 10-09**, 15 teaching days. Fri 09-25 is lost to Mid-Autumn Festival. The National Day break sits between Wed 09-30 and Fri 10-09. W6 gives one session, Fri 10-09, which is part of L07.
 
 ## Lessons
 
@@ -58,18 +58,18 @@ Genre and narrative are taught in [[classes/media-studies/unit-plans/9607-s1-uni
 | CS2 | Fri 2026-09-11 | Annotated media text from daily life, ≥6 code labels | AO1 |
 | CS3 | Tue 2026-09-15 | Six-shot rebuild, posted with one line of intention per shot | AO1+AO3 |
 | CS4 | Fri 2026-09-18 | 30-second soundscape with a rationale naming diegetic and non-diegetic choices | AO1+AO3 |
-| CS5 | Tue 2026-09-22 | Mise-en-scène design board for your own product | AO1+AO3 |
+| CS5 | Tue 2026-09-22 | Mise-en-scène design board for their own product | AO1+AO3 |
 | CS6 | Mon 2026-09-28 | Three-shot sequence in two versions, continuity held and broken | AO1+AO3 |
 | CS7 | Tue 2026-09-29 | Four-element analytical paragraph on an unseen extract | AO2 |
 | [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|HW1]] | set 09-30 → due Fri 10-09 | Break task: [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]]-format analysis of a self-chosen 2 to 3 min sequence | AO1+AO2 |
 | [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB1]] | Fri 2026-10-09 | Blog punctuality across CS3 to CS6; HW1 returned on time; glossary current | n/a |
 
-[[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]] is announced Wed 09-30. You sit A1 on Wed 10-14, inside Unit 3. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+The related sitting is Wed 10-14, inside Unit 3. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
 ## Key content
 
 - **Semiotic base**: Saussure (signifier/signified), Peirce (icon/index/symbol), denotation and connotation, polysemy, anchorage and relay, mode of address, the four code families.
 - **The four technical elements, from the syllabus's own lists**: camera (shots, angles, movement, composition); sound (diegetic and non-diegetic, bridge, motif, perspective, soundtrack); mise-en-scène (production design, lighting, color design, with acting explicitly excluded); editing (continuity and non-continuity systems, transitions, duration).
-- **Production craft taught where it is needed, not as a separate topic**: focus and exposure control at L03, monitored audio and foley at L04, lighting set-ups at L05, the 180-degree rule and the cut at L06.
+- **Production craft, taught where it is needed rather than as a separate topic**: focus and exposure control at L03, monitored audio and foley at L04, lighting set-ups at L05, the 180-degree rule and the cut at L06.
 - **C1 milestones**: media area committed Wed 09-09; four dated practice posts across W3 to W5; design board Tue 09-22; equipment decision logged Mon 09-28; planning suite locked against the shootability checklist Wed 09-30; break production window; footage reviewed Fri 10-09.
 - **Vocabulary**: the lexicon grows one element at a time toward [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS8]], not as a single list. You meet each technical term first as something you did, then as a word.

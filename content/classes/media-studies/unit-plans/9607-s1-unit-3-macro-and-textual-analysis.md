@@ -26,13 +26,15 @@ modified: 2026-08-09
 
 ## What this unit does
 
-This unit covers the first attainment band and the macro elements. It opens by turning a month of technical teaching into exam method: the full lexicon is tested, the viewing protocol is fixed, and the PEEM paragraph is built. You sit **[[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]]** on the Wednesday of W7. The two weeks that follow teach the macro end of media language, genre and narrative. You also audit every Component 1 blog against the checklist [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2]] will be marked with.
+This is the first attainment band, and it covers the macro elements. The week opens by turning a month of technical teaching into exam method: the full lexicon you are tested on, the **viewing protocol**, and the **PEEM** paragraph. You then sit **[[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]]** on Wed 10-14. The two weeks after that teach the macro end of media language, genre and narrative, and audit every Component 1 blog against the checklist [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2]] is marked with.
 
-Genre and narrative sit in this unit, after A1. Component 2 Section A does not ask for them: its prompt names camera, sound, mise-en-scène and editing.
+Genre and narrative sit in this unit, after A1, rather than in Unit 2.
 
 ## Dates & span
 
 **W7 to W8: Mon 2026-10-12 → Fri 10-23**, 8 teaching days (L08: 3, L09: 2, L10: 3).
+
+These dates may shift when the school publishes its calendar for that period.
 
 ## Lessons
 
@@ -52,11 +54,11 @@ Genre and narrative sit in this unit, after A1. Component 2 Section A does not a
 | A1 | Wed 2026-10-14 | Timed media language analysis, unseen TV-drama extract, 60 min, exam conditions | AO1+AO2 |
 | CS9 | Wed 2026-10-21 | Peer blog audit against the mid-point checklist | AO3 |
 
-One task is set Mon 10-12 and is due Mon 10-26, inside Unit 4. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+A2 is due Mon 10-26, inside Unit 4. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
 ## Key content
 
 - **Method**: the **viewing protocol** as a fixed reading order (framing → camera → light → mise-en-scène → sound → edit); **PEEM**, with Effect and Meaning taught as genuinely distinct moves; Section A answer skeletons planned before writing.
-- **Genre**: Neale's repetition and difference, Altman's industry-audience contract, the Lacey / Buckingham / Fiske roster, hybridity. You defend attributions from technical codes.
-- **Narrative**: Todorov's arc with its non-linear failure condition, Propp's functions with the 1928 caveat, Lévi-Strauss binaries, Barthes's enigma and action codes. The strain log runs throughout.
-- **C1 milestone**: blogs brought to mid-point standard, posts 1 to 7, dated, contributions labelled, **including the four technical practice posts from Unit 2**. The [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS9]] audit sits three teaching days before the A2 deadline, so you can still act on its findings.
+- **Genre**: Neale's repetition and difference, Altman's industry-audience contract, the Lacey / Buckingham / Fiske roster, hybridity. Attributions defended from technical codes.
+- **Narrative**: Todorov's arc with its non-linear failure condition, Propp's functions with the 1928 caveat, Lévi-Strauss binaries, Barthes's enigma and action codes.
+- **C1 milestone**: blogs brought to mid-point standard, posts 1 to 7, dated, contributions labeled, including the four technical practice posts from Unit 2. The [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS9]] audit falls three teaching days before the A2 deadline, so you can still act on the findings.

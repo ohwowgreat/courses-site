@@ -23,22 +23,12 @@ modified: 2026-08-05
 | | |
 |---|---|
 | Deliverable | Outcome 2 resolved and photographed to the same standard as outcome 1; both outcomes evaluated in writing against the intention |
-| Graded | No attainment. Wed 2027-11-24** (28 days ahead) · **[[classes/a-level-art-design/assessments/9479-s3-assessments\|CS8]]** Fri 2027-12-03 (evaluation of both outcomes) |
+| Graded | No attainment. (28 days ahead) · **[[classes/a-level-art-design/assessments/9479-s3-assessments\|CS8]]** Fri 2027-12-03 (evaluation of both outcomes) |
 | Homework | ≤30 min: for the evaluation, one honest line on what each outcome found that the other did not |
 
 ## Overview
 
-This lesson brings outcome 2 to the same finish as outcome 1. You resolve and photograph outcome 2 to the same standard as outcome 1, so the two can be judged together. Then you evaluate both outcomes in writing against the intention: what the investigation found, not what it cost. That written evaluation of the pair is [[classes/a-level-art-design/assessments/9479-s3-assessments|CS8]], due Fri 2027-12-03. During the short week you also receive the [[classes/a-level-art-design/assessments/9479-s3-assessments|A4]] notice, the complete Personal Investigation, announced on Wed 2027-11-24. Assembly begins in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-12-assembly-sequence-documentation-bibliography|Lesson 12]]. These dates are projected and may shift when the school publishes the calendar for that period.
-
-## The ideas
-
-### Judged as a pair
-
-**Same standard.** Both outcomes are resolved and photographed to the same standard. An unequal pair reads as one finished piece and one draft, so give outcome 2 the same finish and care as outcome 1.
-
-**One voice.** Both outcomes trace visibly back to your preparation and speak with one voice. Two voices fail AO4.
-
-**Evaluation against the intention.** The written evaluation judges the pair against the intention, naming what each outcome found. This is AO4 evidence, not a diary. Say what the investigation found, not what it cost.
+In this lesson you bring outcome 2 to the same finish as outcome 1, photograph it to the same standard, then evaluate both outcomes in writing against your intention. Your deliverable is outcome 2 resolved and documented, plus the paired evaluation, which is **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS8]]** on Fri 2027-12-03. The two outcomes then move into assembly in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-12-assembly-sequence-documentation-bibliography|Lesson 12]]. These dates are projected and may shift when the school publishes the calendar for this period.
 
 
 <figure class="plate">
@@ -46,22 +36,33 @@ This lesson brings outcome 2 to the same finish as outcome 1. You resolve and ph
   <figcaption>Ambrosius Bosschaert the Elder, <em>A Still Life of Flowers</em>, 1609–10 — flowers that never bloom together, composed anyway</figcaption>
 </figure>
 
+## The ideas
+
+### Judged as a pair
+
+**Same standard.** Both outcomes must be resolved and photographed to the same level of finish. An unequal pair reads as one finished piece and one draft, so outcome 2 needs the same care and the same quality of photography as outcome 1.
+
+**One voice.** Both outcomes should trace visibly back to your preparation and speak with one voice. Two voices fail AO4.
+
+**Evaluation against the intention.** The evaluation judges the pair against your stated intention and names what each outcome found. This is AO4 evidence, not a diary. Say what the investigation found, not what it cost.
+
 ## Day by day
 
 - **Mon–Tue 11-22/23.** Studio work on outcome 2, carried toward resolution through the reduced week.
-- **Wed 11-24.** Studio work on outcome 2. A4, the complete Personal Investigation, is announced today.
-- **Thu–Fri.** Seniors' Days, no teaching.
-- **Mon–Tue 11-29/30.** Resolve outcome 2 over these two days, to the same finish as outcome 1.
-- **Wed 12-01.** Photograph outcome 2, documented to the same standard as outcome 1.
-- **Thu–Fri 12-02/03.** Evaluate both outcomes in writing against the intention. This is CS8. For the evaluation, write one honest line on what each outcome found that the other did not (up to 30 minutes).
+- **Wed 11-24.** Studio work on outcome 2. **[[classes/a-level-art-design/assessments/9479-s3-assessments|A4]]** (the complete Personal Investigation) is announced today, 28 days ahead.
+- *(Thu–Fri: Seniors' Days, no teaching.)*
+- **Mon–Tue 11-29/30.** Two-day run to resolve outcome 2, so the pair can be judged together with the same finish.
+- **Wed 12-01.** Photograph outcome 2. Both outcomes are now documented to the same standard.
+- **Thu–Fri 12-02/03.** Evaluate both outcomes in writing against your intention. **CS8** marks this paired evaluation. Homework (≤30 min): write one honest line on what each outcome found that the other did not.
 
 ## Review
 
 Check you can:
 
 - Resolve and photograph outcome 2 to the same standard as outcome 1.
-- Explain why both outcomes must speak with one voice for AO4.
-- Evaluate both outcomes in writing against the intention.
+- Explain why an unequal pair reads as one finished piece and one draft.
+- Show that both outcomes trace back to your preparation and speak with one voice for AO4.
+- Evaluate both outcomes in writing against your intention, naming what each found.
 - Say what the investigation found rather than what it cost.
 
 ## Practice

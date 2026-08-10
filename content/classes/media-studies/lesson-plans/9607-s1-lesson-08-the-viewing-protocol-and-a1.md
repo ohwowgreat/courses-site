@@ -39,13 +39,13 @@ modified: 2026-08-09
 
 ## Overview
 
-This week turns four elements of analysis into a method that holds under exam pressure. You take two assessments. On Mon 2026-10-12 you sit [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS8]], the technical lexicon quiz: thirty terms in twenty minutes, drawn across all four technical elements. On Wed 2026-10-14 you sit [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]], a 60-minute timed analysis of an unseen TV-drama extract under full exam conditions. Everything the [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1 brief]] asks for has already been taught. Your A1 script feeds AS Component 2 Section A.
+This week turns four taught technical elements into one method you can use under exam pressure. On Monday you sit **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS8]]**, the technical lexicon quiz, covering all four elements at once. On Tuesday you learn the paragraph frame and rehearse on an unseen extract. On Wednesday you sit **[[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]]**, a 60-minute timed analysis of an unseen TV-drama extract under full exam conditions. A1 feeds AS Component 2 Section A. Everything the extract asks for has already been taught since Week 1.
 
 ## The ideas
 
 ### The viewing protocol
 
-The **[[concepts/the-viewing-protocol|viewing protocol]]** is a fixed order for watching and noting an extract, so you cover every element instead of missing one under pressure. The order is: framing → camera → light → mise-en-scène → sound → edit. Running it in the same order every time is the fix for the most common gap in scripts, which is procedure, not talent. On the exam's own rubric you watch four times: first a straight watch, then three note passes.
+The **[[concepts/the-viewing-protocol|viewing protocol]]** is a fixed order for watching an extract so you cover every technical element and miss nothing: framing → camera → light → mise-en-scène → sound → edit. Working in this order fixes the commonest gap in a script. The fix is procedural, not a matter of talent. Sound and editing are the families scripts most often drop, so watch for them.
 
 
 <figure class="plate">
@@ -55,32 +55,32 @@ The **[[concepts/the-viewing-protocol|viewing protocol]]** is a fixed order for 
 
 ### The Ladder
 
-**The Ladder** is a routine that splits the work into rungs. Rungs 1 to 2 are the reading order, taking in the extract. Rungs 3 to 5 are what PEEM climbs: turning what you see into a written argument.
+**The Ladder** is a routine that sets your reading order. Rungs 1 to 2 are the reading order for the extract. Rungs 3 to 5 are the writing moves, which PEEM climbs.
 
 ### PEEM
 
-**PEEM** is the frame for an analytical paragraph. It is four distinct moves, and students routinely collapse them into two. Keep them separate:
+**PEEM** is the paragraph frame. It is four distinct moves. Students routinely collapse them into two, saying the effect and the meaning in one sentence twice. Keep them separate:
 
 - **P**oint: the claim about what the extract is doing.
 - **E**vidence: pinned to a named signifier, in the correct technical term.
 - **E**ffect: what it does to the viewer.
 - **M**eaning: what it therefore says about the person, place or event represented.
 
-The common fault is writing the Effect and the Meaning as the same sentence twice. Effect is what the viewer feels; Meaning is what that says about what is represented. They are different moves.
+A good test: if your Effect sentence and your Meaning sentence say the same thing, one of them is not doing its job.
 
-### The technical lexicon
+### The screening protocol for the sit
 
-The **technical lexicon** is the full set of terms across the four technical elements, camera, sound, mise-en-scène and editing, plus the semiotic base. CS8 tests thirty of them by define-the-term and label-the-example. Sound and editing are the families scripts most often drop, so know those terms cold.
+In the sit you watch the extract four times on the exam's own rubric: first a straight watch, then three note passes. Take notes in protocol order, and add a cut count on a later pass. Systematic coverage in your script is a success criterion.
 
-### The five official criteria
+### The marking grid
 
-A1 is marked in the official Paper 2 language: **concepts, contexts, terminology, analysis, examples**. The **Beat the Examiner** routine has you call the band on a sample paragraph against these five criteria. Your own script on Wednesday is marked with the same grid.
+A1 is banded in the official Paper 2 five-criteria language: concepts, contexts, terminology, analysis, examples. You practice calling the band on a sample paragraph before you sit, so you know how your own script will be judged.
 
 ## Day by day
 
-- **Mon 10-12.** You sit CS8: thirty items in twenty minutes across all four technical elements and the semiotic base, then self-mark at once against the definitions on screen and correct missed terms into your lexicon. The viewing protocol order is restated and modeled, and The Ladder is introduced in full. Reminder: blog posts 1 to 7 are due Mon 10-26 to the mid-point standard.
-- **Tue 10-13.** Recall the protocol order cold, then learn PEEM as four distinct moves, with one worked example and one deliberately bad one to diagnose. You watch an unseen extract twice, take notes in protocol order with a cut count on the second pass, and write one PEEM paragraph to time. You finish with Beat the Examiner on a sample A1-style paragraph.
-- **Wed 10-14 (double).** You sit A1: an unseen TV-drama extract, 60 minutes, exam conditions, on the exam-style prompt of how the extract constructs meaning through camera, sound, mise-en-scène and editing. Systematic coverage in your script is a success criterion. A structured debrief follows, with no marks discussed.
+- **Mon 10-12.** Sit CS8: 30 items in 20 minutes, define-the-term and label-the-example across all four technical elements plus the semiotic base, no notes. Self-mark straight away against the definitions on screen and correct any missed terms into your lexicon. The viewing protocol order is restated and modeled once, and The Ladder is introduced in full. Blog posts 1 to 7 are due Mon 10-26 to the mid-point standard: four technical practice posts, a design board and a locked plan.
+- **Tue 10-13.** Recall the protocol order cold. Learn PEEM as four separate moves, with one worked example and one deliberately bad example to diagnose. Then a rehearsal read: an unseen extract played twice, notes in protocol order with a cut count on the second pass, and one PEEM paragraph written to time. Call the band on a sample A1-style paragraph against the five official criteria.
+- **Wed 10-14 (double).** Sit A1: an unseen TV-drama extract, exam-style prompt (how the extract constructs meaning through camera, sound, mise-en-scène, editing), 60 minutes under full exam conditions. A structured debrief follows, with no marks discussed.
 
 ## Assessment
 
@@ -91,19 +91,18 @@ A1 is marked in the official Paper 2 language: **concepts, contexts, terminology
 | CS8 | Mon 2026-10-12 | Technical lexicon quiz, 30 items in 20 min, across all four elements; immediate self-mark | AO1 |
 | A1 | Wed 2026-10-14 | Timed media language analysis of an unseen TV-drama extract, 60 min, exam conditions | AO1+AO2 |
 
-**Marking:** the rubric and comment bank are the instrument, banded in the official Paper 2 five-criteria language (concepts / contexts / terminology / analysis / examples; the [[classes/media-studies/9607-resource-library|resource library]] carries the full rubric). Scripts back within five working days. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+A1 is banded in the official Paper 2 five-criteria language: concepts, contexts, terminology, analysis, examples. The [[classes/media-studies/9607-resource-library|resource library]] carries the full rubric. Scripts come back within five working days. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
 ## Review
 
 Check you can:
 
-- Define thirty terms from all four technical elements without notes.
-- Run the viewing protocol in its fixed order: framing → camera → light → mise-en-scène → sound → edit.
-- Write a PEEM paragraph in which Effect and Meaning are separate moves, not one move said twice.
-- Pin Evidence to a named signifier using the correct technical term.
+- Define 30 terms across all four technical elements without notes.
+- Run the **viewing protocol** in its fixed order: framing → camera → light → mise-en-scène → sound → edit.
+- Write a **PEEM** paragraph in which Effect and Meaning are distinct moves, not the same sentence twice.
+- Pin your Evidence to a named signifier in the correct technical term.
 - Sustain 60 minutes of continuous analytical writing under exam conditions.
-- Produce a script that ties camera, sound, mise-en-scène and editing observations to effects, not a list.
-- Band a sample paragraph against the five official criteria: concepts, contexts, terminology, analysis, examples.
+- Produce a script that ties camera, sound, mise-en-scène and editing observations to effects rather than listing them.
 
 ## Practice
 

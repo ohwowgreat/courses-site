@@ -39,21 +39,21 @@ modified: 2026-08-09
 
 ## Overview
 
-This lesson brings the four technical elements together. On Tuesday you analyze one unseen extract in a single pass and write **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS7]]**, a four-element analytical paragraph in exam register. This is direct practice for [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]], two weeks early. On Wednesday you lock your C1 plan to a shootable standard. After the National Day break, on Friday, you screen your raw break footage and review [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|HW1]]. The work here feeds A1 and [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2]].
+This lesson brings together the four technical elements you learned one at a time: camera, sound, mise-en-scène, and editing. On Tuesday you run all four across one unseen extract in a single pass and write **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS7]]**, a four-element analytical paragraph, on Tue 2026-09-29. This is direct [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]] practice, two weeks early. On the Wednesday double you lock your C1 plan to a shootable standard, then post and date it on the blog. Over the break you shoot and complete [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|HW1]], and you screen the footage on Fri 10-09. The plan and the analysis feed A1 and [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2]].
 
 ## The ideas
 
 ### The viewing protocol
 
-The **viewing protocol** is a fixed reading sequence you use on every extract: framing → camera → light → mise-en-scène → sound → edit. Same order, every time, for two years. It exists because the commonest failure is not ignorance. It is a whole code family left unvisited. Running all four technical elements in one pass means covering the full sequence without a checklist in front of you.
+The [[concepts/the-viewing-protocol|viewing protocol]] is a fixed sequence you use for every extract, the same order every time: framing → camera → light → mise-en-scène → sound → edit. It exists because the commonest failure is not ignorance. It is leaving a whole code family unvisited. Reading in a set order stops that.
 
-### The four-element analytical paragraph
+### The four-element analytical paragraph (CS7)
 
-**CS7** is one analytical paragraph written in exam register. It moves in a set order: name the technique → use the correct terminology → state the meaning created → link to how a person, place, or event is represented. At least three of the four technical elements must appear.
+**CS7** is one paragraph in exam register. Move through four steps: name the technique, use the correct terminology, state the meaning created, then link that to how a person, place, or event is represented. At least three of the four technical elements must appear.
 
 ### The shootability standard
 
-The lock holds every plan to one standard: **a plan someone else could shoot without asking questions**. You test this with the **shootability checklist**, ten items that must all pass:
+A locked plan must meet one standard: a plan someone else could shoot without asking questions. The **shootability checklist** is the ten-item test of that standard: numbered shots, confirmed locations, cast attached to dates, equipment per session, a contingency day, assigned roles, costume and props, storyboard matching the shot list, a schedule that fits the break, and no outside dependencies. Ten green lights or the plan is not ready. Each plan arrives built from earlier work: a shot vocabulary from [[classes/media-studies/lesson-plans/9607-s1-lesson-03-camera|L03]], a soundscape from [[classes/media-studies/lesson-plans/9607-s1-lesson-04-sound|L04]], a design board from [[classes/media-studies/lesson-plans/9607-s1-lesson-05-mise-en-scene|L05]], and a tested edit workflow from [[classes/media-studies/lesson-plans/9607-s1-lesson-06-editing|L06]].
 
 
 <figure class="plate">
@@ -61,32 +61,21 @@ The lock holds every plan to one standard: **a plan someone else could shoot wit
   <figcaption>Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from</figcaption>
 </figure>
 
-1. numbered shots
-2. confirmed locations
-3. cast attached to dates
-4. equipment per session
-5. contingency day
-6. assigned roles
-7. costume and props
-8. storyboard matching shot list
-9. schedule fits the break
-10. no outside dependencies
-
-Peer review uses the protocol **describe → question → suggest**: every item is checked or challenged. The costume and props on your plan must match your L05 design board, or one of the two is wrong.
+Peer review follows the protocol **describe → question → suggest**. Check every item or challenge it, and never say "it's fine". Costume and props on the plan must match your L05 design board, or one of the two is wrong.
 
 ### The production diary
 
-The **production diary** (WS 6.4) records changes made after the lock as documented decisions, not silent swaps. Its decisions and consequences columns are harvested later at [[classes/media-studies/lesson-plans/9607-s1-lesson-13-the-creative-critical-reflection|L13]] for the CCR.
+The **production diary** (WS 6.4) records changes made after the lock. Once locked, a plan does not change silently. Any change becomes a documented decision in the diary, with its consequences. These columns are harvested at [[classes/media-studies/lesson-plans/9607-s1-lesson-13-the-creative-critical-reflection|L13]] for the CCR.
 
-### Three failure modes to watch for
+### Three failure modes
 
-When you screen your raw footage, look for the three common problems drilled in L03, L04, and L06: exposure lost on a bright background, audio recorded in an uncontrolled space, and a cut that will not match.
+When you screen your break footage, name what worked and what failed in the syllabus's words. Watch for three named failure modes drilled in L03, L04, and L06: exposure lost on a bright background, audio recorded in an uncontrolled space, and a cut that will not match.
 
 ## Day by day
 
-- **Tue 09-29.** Run all four technical elements on one unseen extract in a single pass, following the viewing protocol. Write CS7, the four-element analytical paragraph, collected in class.
-- **Wed 09-30 (double).** Review another group's planning suite against the shootability checklist, apply fixes, then post and date your final plan on the blog before leaving. The production diary is issued. HW1 is set and sized in class, for Wed 10-14: a break production window of 3 to 4 hours of shooting, with diary entries as you go. Sign equipment out to the equipment room before the holiday.
-- **Fri 10-09 (post-break).** Groups screen ninety seconds of raw break footage each and name the shots that worked and the ones that failed, in the syllabus's words. HW1 debrief, annotated not graded. [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|LB1]] posted, covering W5 and W6.
+- **Tue 09-29.** Using the viewing protocol, run all four technical elements across one unseen extract in a single pass, then write CS7, the four-element analytical paragraph. It is collected.
+- **Wed 09-30.** Double lesson. Another group reviews your planning suite against the shootability checklist using describe → question → suggest. Apply the fixes, then post and date your final plan on the blog before you leave. You receive the WS 6.4 production diary. HW1 is set: an A1-format analysis of a self-chosen 2 to 3 minute sequence, plus a shooting window of 3 to 4 hours over the break, with diary entries as you go. Sign out your equipment before the holiday.
+- **Fri 10-09.** After the National Day break, each group screens ninety seconds of raw footage: name a shot you got right and one that failed, and say why. HW1 is debriefed with margin notes; it is annotated, not graded. [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|LB1]] is posted, covering Weeks 5 and 6.
 
 ## Assessment
 
@@ -102,11 +91,12 @@ See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
 Check you can:
 
-- Run all four technical elements across one unseen extract in a single pass, following the viewing protocol.
-- Write an analytical paragraph that names a technique, its effect, and the representation it constructs.
+- Run all four technical elements across one unseen extract in a single pass using the viewing protocol.
+- Write a four-element analytical paragraph that names a technique, uses correct terminology, states the meaning created, and links to a representation.
 - Post a planning suite that passes the shootability checklist.
 - Name the equipment your group has tested and will shoot on.
-- Use the technical lexicon correctly throughout HW1.
+- Identify the three failure modes: exposure lost on a bright background, audio recorded in an uncontrolled space, and a cut that will not match.
+- Return HW1 on time with the technical lexicon used correctly.
 
 ## Practice
 
