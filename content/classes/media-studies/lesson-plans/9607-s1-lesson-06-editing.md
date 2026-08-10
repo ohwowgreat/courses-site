@@ -46,12 +46,6 @@ modified: 2026-08-09
 
 Editing is the fourth of the four technical elements, and it stays invisible until you break it. Across two days you build a three-shot sequence that holds together, then rebuild the same sequence wrong on purpose so you can see the illusion collapse. You produce **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS6]]** on Mon 09-28: a cut three-shot sequence in two versions, one obeying the 180-degree rule and one deliberately breaking it, both posted and dated with the difference named in the syllabus's own terms. This feeds C1 production, [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]], [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]], and Component 2 Section A. It is also the last technical element before the plan is locked and cameras go out over the break, and the C3 major video task is itself an editing task, so what you learn here decides whether your footage is usable.
 
-
-<figure class="plate">
-  <img src="../../../static/img/cloud-sequence.jpg" alt="Alfred Stieglitz, Music: A Sequence of Ten Cloud Photographs, No. 1, 1922" loading="lazy" />
-  <figcaption>Alfred Stieglitz, <em>Music: A Sequence of Ten Cloud Photographs, No. 1</em>, 1922</figcaption>
-</figure>
-
 ## The ideas
 
 ### Reading pace through cuts
@@ -61,6 +55,22 @@ Count the cuts in a timed sequence and you can read what the editor is doing to 
 ### The continuity system
 
 The **continuity system** is the invisible grammar that makes separate shots feel like one continuous action. Its parts:
+
+
+<div class="plate-row">
+<figure class="plate">
+  <img src="../../../static/img/weems-triptych-1.jpg" alt="Carrie Mae Weems, Untitled (Man Reading Newspaper), 1990, first frame. One table, one light, the distance held" loading="lazy" />
+  <figcaption>Carrie Mae Weems, <em>Untitled (Man Reading Newspaper)</em>, 1990, first frame. One table, one light, the distance held</figcaption>
+</figure>
+<figure class="plate">
+  <img src="../../../static/img/weems-triptych-2.jpg" alt="Carrie Mae Weems, second frame. The camera has not moved; only the people have, and the story has already turned" loading="lazy" />
+  <figcaption>Carrie Mae Weems, second frame. The camera has not moved; only the people have, and the story has already turned</figcaption>
+</figure>
+<figure class="plate">
+  <img src="../../../static/img/weems-triptych-3.jpg" alt="Carrie Mae Weems, third frame. The cut is what happens between frames, never inside one" loading="lazy" />
+  <figcaption>Carrie Mae Weems, third frame. The cut is what happens between frames, never inside one</figcaption>
+</figure>
+</div>
 
 - **180-degree rule**: an imaginary line runs through the scene, and the camera stays on one side of it so screen directions stay consistent.
 - **shot / reverse shot**: alternating shots of two people in a conversation, each facing the other.

@@ -145,7 +145,7 @@ const HEROES = {
   "classes/media-studies/lesson-plans/9607-s1-lesson-03-camera.md": "the-tugboat",
   "classes/media-studies/lesson-plans/9607-s1-lesson-04-sound.md": "musicians",
   "classes/media-studies/lesson-plans/9607-s1-lesson-05-mise-en-scene.md":
-    "calling-of-matthew",
+    "vandeelen-interior",
   "classes/media-studies/lesson-plans/9607-s1-lesson-06-editing.md": "cloud-sequence",
   "classes/media-studies/lesson-plans/9607-s1-lesson-09-genre.md": "at-the-telephone",
   "classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock.md":
@@ -692,16 +692,24 @@ const FIGURES = {
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-04-sound.md": [
     {
-      // The part of music that happens before the music: ambient sound made visible.
-      slugs: ["musicians"],
-      anchor: /the room with the screen off|Sound only \(20 min\)/i,
+      // A picture that is entirely a soundtrack, against the reconstruct-from-audio
+      // block. Anchors here match the *published* text: the vault's "Sound only
+      // (20 min)" heading lives in How it runs, which the reframe collapses.
+      slugs: ["bird-concert"],
+      anchor: /Play a sequence with the screen black/i,
+    },
+    {
+      // The audience alone in the dark, against the music-and-genre block.
+      slugs: ["hopper-theater"],
+      anchor: /choices the audience made and which were made for them/i,
     },
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-05-mise-en-scene.md": [
     {
-      // One window doing the casting, against the lighting block.
+      // One window doing the casting, against the lighting block. The published
+      // text spells the three roles out, so anchor on the fill-light gloss.
       slugs: ["calling-of-matthew"],
-      anchor: /key, fill and back light/i,
+      anchor: /softens shadows/i,
     },
     {
       // Production design read whole, against the four-locations activity.
@@ -711,9 +719,11 @@ const FIGURES = {
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-06-editing.md": [
     {
-      // Meaning assembled by sequence rather than by any single frame.
-      slugs: ["cloud-sequence"],
-      anchor: /Clap the cuts|Two sequences, contrasting in pace/i,
+      // The continuity system in still form: one locked-off frame across three
+      // exposures, where the meaning is made between the frames and never inside
+      // one. The hero already carries Stieglitz's cloud sequence.
+      slugs: ["weems-triptych-1", "weems-triptych-2", "weems-triptych-3"],
+      anchor: /the invisible grammar that makes separate shots/i,
     },
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-09-genre.md": [

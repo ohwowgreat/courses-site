@@ -716,6 +716,49 @@ const PLATES = [
     file: "Print & Advertising/Glamour/Cover-Rita_glamour_5aug15_pr_b.webp",
     credit: "*Glamour*, cover, August 2015",
   },
+  // ── The four technical elements, 2026-08-10 ────────────────────────────────
+  // L04, L05 and L06 were new at the 2026-08-09 rebuild and each carried a single
+  // plate that duplicated its own hero. These are the second plates, chosen to
+  // teach rather than decorate.
+  {
+    slug: "bird-concert",
+    file: "Dutch and Flemish Still Life Painting (Art Paintings)/Frans Snyders (1579-1557)/Bird Concert (1629-1630) (98 x 137) (Madrid, Prado).jpg",
+    credit:
+      "Frans Snyders, *Bird Concert*, c. 1630. A score hung in a tree and twenty open beaks: a picture you hear before you read it",
+  },
+  {
+    slug: "hopper-theater",
+    file: "Edward Hopper, Solitary Figure in a Theater, 1902.jpeg",
+    credit:
+      "Edward Hopper, *Solitary Figure in a Theater*, 1902. The screen is blank and the room is dark, which is where sound does its work",
+  },
+  {
+    slug: "vandeelen-interior",
+    file: "Dirck van Deelen, Distinguished Dinner Company in an Interior, 1631.jpg",
+    credit:
+      "Dirck van Deelen, *Distinguished Dinner Company in an Interior*, 1631. Architecture, costume, properties and placing: every element decided before anyone speaks",
+  },
+  // Weems's triptych is a locked-off camera across three exposures, which is the
+  // continuity system in still form: the frame never moves, and the meaning is
+  // made by what changes between the frames.
+  {
+    slug: "weems-triptych-1",
+    file: "Photographers/Carrie Mae Weems/04h.+Untitled+(Man+Reading+Newspaper+Triptych+1).webp",
+    credit:
+      "Carrie Mae Weems, *Untitled (Man Reading Newspaper)*, 1990, first frame. One table, one light, the distance held",
+  },
+  {
+    slug: "weems-triptych-2",
+    file: "Photographers/Carrie Mae Weems/05g.+Untitled+(Man+Reading+Newspaper+Triptych+2).webp",
+    credit:
+      "Carrie Mae Weems, second frame. The camera has not moved; only the people have, and the story has already turned",
+  },
+  {
+    slug: "weems-triptych-3",
+    file: "Photographers/Carrie Mae Weems/06g.+Untitled+(Man+Reading+Newspaper+Triptych+3).webp",
+    credit:
+      "Carrie Mae Weems, third frame. The cut is what happens between frames, never inside one",
+  },
 ]
 
 await mkdir(OUT, { recursive: true })

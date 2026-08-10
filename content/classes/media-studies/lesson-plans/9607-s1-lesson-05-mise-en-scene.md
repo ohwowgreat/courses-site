@@ -12,8 +12,8 @@ related:
 modified: 2026-08-09
 ---
 <figure class="plate plate--hero">
-  <img src="../../../static/img/calling-of-matthew.jpg" alt="Caravaggio, The Calling of Saint Matthew, 1599 — one light source, five gestures: a room you can read" loading="lazy" />
-  <figcaption>Caravaggio, <em>The Calling of Saint Matthew</em>, 1599 — one light source, five gestures: a room you can read</figcaption>
+  <img src="../../../static/img/vandeelen-interior.jpg" alt="Dirck van Deelen, Distinguished Dinner Company in an Interior, 1631. Architecture, costume, properties and placing: every element decided before anyone speaks" loading="lazy" />
+  <figcaption>Dirck van Deelen, <em>Distinguished Dinner Company in an Interior</em>, 1631. Architecture, costume, properties and placing: every element decided before anyone speaks</figcaption>
 </figure>
 
 # Lesson 05: Mise-en-scène
@@ -44,12 +44,6 @@ modified: 2026-08-09
 
 This lesson covers **mise-en-scène**, the third of the four technical elements. You learn to read every part of the frame as a designed choice and to name the effect it creates. You produce **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS5]]**, a mise-en-scène design board for your own opening, posted and dated on the blog on Tue 09-22. This board is your Component 1 design document. It feeds your C1 production, [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]], and [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]]. Colour, lighting, and costume are visible and full of connotation, and you do not need to hear fast dialogue to read them. The one thing that earns nothing is description. Every item on your board must answer one question: and what does that say?
 
-
-<figure class="plate">
-  <img src="../../../static/img/calling-of-matthew.jpg" alt="Caravaggio, The Calling of Saint Matthew, 1599 — one light source, five gestures: a room you can read" loading="lazy" />
-  <figcaption>Caravaggio, <em>The Calling of Saint Matthew</em>, 1599 — one light source, five gestures: a room you can read</figcaption>
-</figure>
-
 ## The ideas
 
 ### Everything in the frame is a decision
@@ -77,6 +71,12 @@ Production design alone can imply genre and character before a person appears. A
 Light has both direction and quality, and each choice has an effect.
 
 Direction gives you three roles: **key light** (the main light), **fill light** (softens shadows), and **back light** (separates the subject from the background). A phone torch moved to four positions, front, side, from below, and behind, shows how much the same face changes.
+
+
+<figure class="plate">
+  <img src="../../../static/img/calling-of-matthew.jpg" alt="Caravaggio, The Calling of Saint Matthew, 1599 — one light source, five gestures: a room you can read" loading="lazy" />
+  <figcaption>Caravaggio, <em>The Calling of Saint Matthew</em>, 1599 — one light source, five gestures: a room you can read</figcaption>
+</figure>
 
 Two named set-ups:
 

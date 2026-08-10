@@ -4,7 +4,7 @@ title: Image library
 
 # Image library
 
-Every image used across these courses, gathered in one place — 321 public-domain works from the shared teaching collection, each captioned with artist, title and date. In-copyright works studied in class are named in the lessons rather than shown here.
+Every image used across these courses, gathered in one place — 327 public-domain works from the shared teaching collection, each captioned with artist, title and date. In-copyright works studied in class are named in the lessons rather than shown here.
 
 <div class="gallery">
   <figure class="plate">
@@ -490,6 +490,30 @@ Every image used across these courses, gathered in one place — 321 public-doma
   <figure class="plate">
     <img src="static/img/glamour-cover.jpg" alt="Glamour, cover, August 2015" loading="lazy" />
     <figcaption><em>Glamour</em>, cover, August 2015</figcaption>
+  </figure>
+  <figure class="plate">
+    <img src="static/img/bird-concert.jpg" alt="Frans Snyders, Bird Concert, c. 1630. A score hung in a tree and twenty open beaks: a picture you hear before you read it" loading="lazy" />
+    <figcaption>Frans Snyders, <em>Bird Concert</em>, c. 1630. A score hung in a tree and twenty open beaks: a picture you hear before you read it</figcaption>
+  </figure>
+  <figure class="plate">
+    <img src="static/img/hopper-theater.jpg" alt="Edward Hopper, Solitary Figure in a Theater, 1902. The screen is blank and the room is dark, which is where sound does its work" loading="lazy" />
+    <figcaption>Edward Hopper, <em>Solitary Figure in a Theater</em>, 1902. The screen is blank and the room is dark, which is where sound does its work</figcaption>
+  </figure>
+  <figure class="plate">
+    <img src="static/img/vandeelen-interior.jpg" alt="Dirck van Deelen, Distinguished Dinner Company in an Interior, 1631. Architecture, costume, properties and placing: every element decided before anyone speaks" loading="lazy" />
+    <figcaption>Dirck van Deelen, <em>Distinguished Dinner Company in an Interior</em>, 1631. Architecture, costume, properties and placing: every element decided before anyone speaks</figcaption>
+  </figure>
+  <figure class="plate">
+    <img src="static/img/weems-triptych-1.jpg" alt="Carrie Mae Weems, Untitled (Man Reading Newspaper), 1990, first frame. One table, one light, the distance held" loading="lazy" />
+    <figcaption>Carrie Mae Weems, <em>Untitled (Man Reading Newspaper)</em>, 1990, first frame. One table, one light, the distance held</figcaption>
+  </figure>
+  <figure class="plate">
+    <img src="static/img/weems-triptych-2.jpg" alt="Carrie Mae Weems, second frame. The camera has not moved; only the people have, and the story has already turned" loading="lazy" />
+    <figcaption>Carrie Mae Weems, second frame. The camera has not moved; only the people have, and the story has already turned</figcaption>
+  </figure>
+  <figure class="plate">
+    <img src="static/img/weems-triptych-3.jpg" alt="Carrie Mae Weems, third frame. The cut is what happens between frames, never inside one" loading="lazy" />
+    <figcaption>Carrie Mae Weems, third frame. The cut is what happens between frames, never inside one</figcaption>
   </figure>
   <figure class="plate">
     <img src="static/img/lib/albert-edelfelt-ruokolaksgumma-elli-ja-ppinen-1902.jpg" alt="Albert Edelfelt, Ruokolaksgumma (Elli Jäppinen), 1902" loading="lazy" />

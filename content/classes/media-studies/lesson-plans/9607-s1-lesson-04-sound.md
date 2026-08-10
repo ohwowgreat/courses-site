@@ -45,12 +45,6 @@ modified: 2026-08-09
 
 This lesson covers sound, the second of the four technical elements of media language. You learn the sound lexicon and how sound shapes what an audience thinks it sees. You produce **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS4]]**, a 30-second soundscape for your own C1 opening. You record it, post it dated to the blog, and write a rationale that names every diegetic and non-diegetic choice. CS4 is due Fri 2026-09-18. It feeds your C1 production, [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]], [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]], and Component 2 Section A, and it is Component 1 practice evidence. Sound also carries every C3 video task, so the work here returns later.
 
-
-<figure class="plate">
-  <img src="../../../static/img/musicians.jpg" alt="Caravaggio, The Musicians, 1595 — rehearsal, mid-note" loading="lazy" />
-  <figcaption>Caravaggio, <em>The Musicians</em>, 1595 — rehearsal, mid-note</figcaption>
-</figure>
-
 ## The ideas
 
 ### Diegetic and non-diegetic sound
@@ -73,9 +67,21 @@ Extension vocabulary, worth having and rarely seen in scripts: harmony, dissonan
 
 Play a sequence with the screen black and you can reconstruct a whole scene from audio alone. The gap between what you imagine and what the picture actually shows is the point: it shows how much work sound was doing while you watched the images.
 
+
+<figure class="plate">
+  <img src="../../../static/img/bird-concert.jpg" alt="Frans Snyders, Bird Concert, c. 1630. A score hung in a tree and twenty open beaks: a picture you hear before you read it" loading="lazy" />
+  <figcaption>Frans Snyders, <em>Bird Concert</em>, c. 1630. A score hung in a tree and twenty open beaks: a picture you hear before you read it</figcaption>
+</figure>
+
 ### Music and genre
 
 Take one sequence, change only the non-diegetic music bed, and the genre flips. Non-diegetic music alone can move a text between genres. Ask which choices the audience made and which were made for them.
+
+
+<figure class="plate">
+  <img src="../../../static/img/hopper-theater.jpg" alt="Edward Hopper, Solitary Figure in a Theater, 1902. The screen is blank and the room is dark, which is where sound does its work" loading="lazy" />
+  <figcaption>Edward Hopper, <em>Solitary Figure in a Theater</em>, 1902. The screen is blank and the room is dark, which is where sound does its work</figcaption>
+</figure>
 
 ### Foley
 
