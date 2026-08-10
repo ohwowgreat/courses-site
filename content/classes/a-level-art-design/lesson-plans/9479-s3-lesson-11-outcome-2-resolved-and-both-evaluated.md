@@ -30,17 +30,17 @@ modified: 2026-08-05
 
 In this lesson you bring outcome 2 to the same finish as outcome 1, photograph it to the same standard, then evaluate both outcomes in writing against your intention. Your deliverable is outcome 2 resolved and documented, plus the paired evaluation, which is **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS8]]** on Fri 2027-12-03. The two outcomes then move into assembly in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-12-assembly-sequence-documentation-bibliography|Lesson 12]]. These dates are projected and may shift when the school publishes the calendar for this period.
 
-
-<figure class="plate">
-  <img src="../../../static/img/impossible-bouquet.jpg" alt="Ambrosius Bosschaert the Elder, A Still Life of Flowers, 1609–10 — flowers that never bloom together, composed anyway" loading="lazy" />
-  <figcaption>Ambrosius Bosschaert the Elder, <em>A Still Life of Flowers</em>, 1609–10 — flowers that never bloom together, composed anyway</figcaption>
-</figure>
-
 ## The ideas
 
 ### Judged as a pair
 
 **Same standard.** Both outcomes must be resolved and photographed to the same level of finish. An unequal pair reads as one finished piece and one draft, so outcome 2 needs the same care and the same quality of photography as outcome 1.
+
+
+<figure class="plate">
+  <img src="../../../static/img/impossible-bouquet.jpg" alt="Ambrosius Bosschaert the Elder, A Still Life of Flowers, 1609–10 — flowers that never bloom together, composed anyway" loading="lazy" />
+  <figcaption>Ambrosius Bosschaert the Elder, <em>A Still Life of Flowers</em>, 1609–10 — flowers that never bloom together, composed anyway</figcaption>
+</figure>
 
 **One voice.** Both outcomes should trace visibly back to your preparation and speak with one voice. Two voices fail AO4.
 

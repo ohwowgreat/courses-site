@@ -485,7 +485,7 @@ const FIGURES = {
   "classes/a-level-art-design/lesson-plans/9479-s3-lesson-08-building-outcome-1.md": [
     {
       slugs: ["cafe-terrace"],
-      anchor: /the sustained build of final outcome 1|what it names, you act on the same day/i,
+      anchor: /a single continuous build, not a series of fresh restarts/i,
     },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s3-lesson-09-resolving-outcome-1-and-the-final-paper-text.md":
@@ -506,7 +506,7 @@ const FIGURES = {
     [
       {
         slugs: ["impossible-bouquet"],
-        anchor: /judges the pair against the intention/i,
+        anchor: /An unequal pair reads as one finished piece and one draft/i,
       },
     ],
   "classes/a-level-art-design/lesson-plans/9479-s3-lesson-12-assembly-sequence-documentation-bibliography.md":

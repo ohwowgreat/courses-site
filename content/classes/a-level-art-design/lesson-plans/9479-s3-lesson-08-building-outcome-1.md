@@ -30,17 +30,17 @@ modified: 2026-08-05
 
 This week you build final outcome 1 in one sustained run, moving AO3 Develop into AO4 Present. You execute the plan you set in [[classes/a-level-art-design/assessments/9479-s3-assessments|CS5]]. Midway through, you get a mid-production review: **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS6]]** on Thu 2027-11-04, placed while the work can still change. You then act on that review the same day. The build resolves and is photographed in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-09-resolving-outcome-1-and-the-final-paper-text|Lesson 09]], alongside the final text of the paper. These dates are projected and may shift when the school publishes the calendar for this period.
 
-
-<figure class="plate">
-  <img src="../../../static/img/cafe-terrace.jpg" alt="Vincent van Gogh, Café Terrace at Night, 1888" loading="lazy" />
-  <figcaption>Vincent van Gogh, <em>Café Terrace at Night</em>, 1888</figcaption>
-</figure>
-
 ## The ideas
 
 ### One sustained run
 
 You build outcome 1 as **one sustained run**: a single continuous build, not a series of fresh restarts. Continuity is what carries your work from AO3 into AO4. You execute the plan from CS5 rather than reinvent it.
+
+
+<figure class="plate">
+  <img src="../../../static/img/cafe-terrace.jpg" alt="Vincent van Gogh, Café Terrace at Night, 1888" loading="lazy" />
+  <figcaption>Vincent van Gogh, <em>Café Terrace at Night</em>, 1888</figcaption>
+</figure>
 
 ### The mid-production review
 
