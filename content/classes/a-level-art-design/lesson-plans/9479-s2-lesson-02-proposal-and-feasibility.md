@@ -29,17 +29,17 @@ modified: 2026-08-05
 
 This week you turn your strongest candidate into a written proposal you can defend on paper: a theme, aims, a primary-source plan, and an artist shortlist. You stress-test the whole proposal against the eight-stage pipeline before you take it to consultation. You submit the proposal as **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS1]]** on Fri 2027-03-05, and you leave consultation 2 with either a decision to lock or one named fix. Fixing a weak proposal now, on paper, is cheap. This proposal sets up the theme lock next week in Lesson 03.
 
-
-<figure class="plate">
-  <img src="../../../static/img/banqueting-sketch.jpg" alt="Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from" loading="lazy" />
-  <figcaption>Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from</figcaption>
-</figure>
-
 ## The ideas
 
 ### The proposal
 
 A **proposal** is a written statement of your theme, your aims, your primary-source plan, and your artist shortlist. It is judged on whether it is defensible: sources you can reach are named, aims are in your own words, and artists are chosen for reasons. Write the theme and aims from the candidate that survived last week. Say what the investigation will look at and why it can sustain the full pipeline to December. Use your own words for the aims, not borrowed exemplar language.
+
+
+<figure class="plate">
+  <img src="../../../static/img/banqueting-sketch.jpg" alt="Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from" loading="lazy" />
+  <figcaption>Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from</figcaption>
+</figure>
 
 ### The primary-source plan
 

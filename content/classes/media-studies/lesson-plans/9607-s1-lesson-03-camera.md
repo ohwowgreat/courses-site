@@ -44,18 +44,6 @@ modified: 2026-08-09
 
 This lesson is camera, the first of the four technical elements of media language. You learn the full camera vocabulary from the syllabus: not just to name a close-up, but to say what it does and who it does it to. You then produce **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS3]]**, a six-shot rebuild of a given storyboard, shot on your own kit and posted dated to the C1 blog on Tue 2026-09-15, with one line of intention per shot. That post is your first practice entry in the Component 1 evidence trail. The same vocabulary carries into the C3 major video task and into your [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]], [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]], and Component 2 Section A work.
 
-
-<figure class="plate">
-  <img src="../../../static/img/sea-of-steps.jpg" alt="Frederick H. Evans, A Sea of Steps, Wells Cathedral, 1903" loading="lazy" />
-  <figcaption>Frederick H. Evans, <em>A Sea of Steps, Wells Cathedral</em>, 1903</figcaption>
-</figure>
-
-
-<figure class="plate">
-  <img src="../../../static/img/st-pauls-spires.jpg" alt="Alvin Langdon Coburn, St. Paul's and Other Spires, c. 1909" loading="lazy" />
-  <figcaption>Alvin Langdon Coburn, <em>St. Paul's and Other Spires</em>, c. 1909</figcaption>
-</figure>
-
 ## The ideas
 
 ### Camera as verbs
@@ -83,6 +71,12 @@ The syllabus adds "and variations of these".
 - **High angle**: the camera looks down, making the subject small or weak.
 - **Low angle**: the camera looks up, making the subject tower over you.
 - **Canted angle** (**Dutch tilt**): the frame is tilted, which reads as unease or disorder.
+
+<figure class="plate">
+  <img src="../../../static/img/st-pauls-spires.jpg" alt="Alvin Langdon Coburn, St. Paul's and Other Spires, c. 1909" loading="lazy" />
+  <figcaption>Alvin Langdon Coburn, <em>St. Paul's and Other Spires</em>, c. 1909</figcaption>
+</figure>
+
 
 ### Movement
 
@@ -120,6 +114,12 @@ Two worked examples: the *Goodfellas* tracking shot and the *Jaws* reverse zoom.
 - **Rule of thirds**: divide the frame into thirds and place the subject on the lines.
 - **Depth of field**: **deep focus** keeps foreground and background sharp; **shallow focus** keeps the subject sharp and blurs the rest.
 - **Focus pull**: the sharp point shifts from one plane to another during the shot.
+
+<figure class="plate">
+  <img src="../../../static/img/sea-of-steps.jpg" alt="Frederick H. Evans, A Sea of Steps, Wells Cathedral, 1903" loading="lazy" />
+  <figcaption>Frederick H. Evans, <em>A Sea of Steps, Wells Cathedral</em>, 1903</figcaption>
+</figure>
+
 
 ### Camera and representation
 

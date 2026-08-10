@@ -31,17 +31,17 @@ These dates are projected. They may shift when the school publishes the calendar
 
 This week you narrow and deepen. In the studio you carry two candidate compositions forward and develop both to the same standard, so your later choice is fair. Alongside the studio, you reopen the research paper as draft 2: structure first, then argument, with your summer reading woven in. Your deliverable is the set of draft 2 sections, graded as **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS3]]** on Fri 2027-09-17. Both candidates feed the honest critique in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-04-development-studies-and-targeted-tests|Lesson 04]], and the paper's written thread runs on through CS3 here toward **[[classes/a-level-art-design/assessments/9479-s3-assessments|A3]]**.
 
-
-<figure class="plate">
-  <img src="../../../static/img/repin-nevsky-studies.jpg" alt="Ilya Repin, Studies for Figures on the Nevsky Prospect, 1891" loading="lazy" />
-  <figcaption>Ilya Repin, <em>Studies for Figures on the Nevsky Prospect</em>, 1891</figcaption>
-</figure>
-
 ## The ideas
 
 ### Two candidates carried forward
 
 **Carrying two candidates forward** means you develop two compositions, not one. Keep two, because a single idea cannot be compared. With only one, there is nothing to judge it against. Develop both to the same standard so neither wins by neglect of the other. When you finally choose, write down the rejection: record which candidate you drop and why. Because both reach a judgeable standard, the comparison in the Lesson 04 critique stays honest.
+
+
+<figure class="plate">
+  <img src="../../../static/img/repin-nevsky-studies.jpg" alt="Ilya Repin, Studies for Figures on the Nevsky Prospect, 1891" loading="lazy" />
+  <figcaption>Ilya Repin, <em>Studies for Figures on the Nevsky Prospect</em>, 1891</figcaption>
+</figure>
 
 ### Research paper draft 2
 

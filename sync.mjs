@@ -144,8 +144,7 @@ const HEROES = {
     "skull-cigarette",
   "classes/media-studies/lesson-plans/9607-s1-lesson-03-camera.md": "the-tugboat",
   "classes/media-studies/lesson-plans/9607-s1-lesson-04-sound.md": "musicians",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-05-mise-en-scene.md":
-    "vandeelen-interior",
+  "classes/media-studies/lesson-plans/9607-s1-lesson-05-mise-en-scene.md": "vandeelen-interior",
   "classes/media-studies/lesson-plans/9607-s1-lesson-06-editing.md": "cloud-sequence",
   "classes/media-studies/lesson-plans/9607-s1-lesson-09-genre.md": "at-the-telephone",
   "classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock.md":
@@ -189,6 +188,26 @@ const CITATIONS = {}
 // unmatched figure lands at the end of the body instead of vanishing, so the git
 // diff of content/ shows exactly where each one settled. Entries with several
 // slugs render side by side as a .plate-row grid.
+//
+// ⚠ Anchors match the PUBLISHED body, not the vault page. Three rules, all of
+// them learned the hard way on 2026-08-10, when 26 of 112 anchors were silently
+// falling back:
+//   1. Write the anchor against `content/<path>`, never against `wiki/<path>`.
+//      The reframe rewrites vault prose into student voice, and anything under
+//      the vault's `## How it runs` is collapsed into one-line `## Day by day`
+//      summaries. Every one of the 26 had been written from vault wording.
+//   2. `## Practice` and the stat-strip do not exist yet at insert time
+//      (splitPractice pulls Practice out in phase 1 and it is re-appended after
+//      this runs; statStrip runs later too). A phrase that appears only in
+//      Practice can never match, and the At-a-glance region is still a plain
+//      markdown table, so a careless anchor can match a Deliverable row and
+//      park the plate above `## Overview`.
+//   3. `body.search(/a|b/)` returns the earliest match of EITHER alternative,
+//      not the first one listed. Keep alternatives inside the same paragraph or
+//      the plate silently migrates up the page.
+// After changing any anchor, run `node sync.mjs` and grep the output for
+// "anchor fallback". It is advisory and carries no ⚠, so it never blocks a
+// publish and is easy to miss.
 const FIGURES = {
   // ── Art Appreciation S1 (period exemplars, one per lesson) ────────────────
   "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-01-opening-the-atlas.md": [
@@ -264,10 +283,17 @@ const FIGURES = {
       },
     ],
   "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-14-the-retrospective.md": [
-    { slugs: ["album-leaf"], anchor: /read back as one argument/i },
+    {
+      slugs: ["album-leaf"],
+      anchor: /read it back as a single argument|one body of work rather than four/i,
+    },
   ],
   "classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-15-return.md": [
-    { slugs: ["wanderer"], anchor: /Semester 2 trailer|re-read their own work/i },
+    {
+      slugs: ["wanderer"],
+      anchor:
+        /Semester 2 looks at where the money in art comes from|who decides what is worth money/i,
+    },
   ],
   // ── A Level Art & Design S1 (C1 Portfolio) — one artwork per pipeline stage ──
   "classes/a-level-art-design/lesson-plans/9479-s1-lesson-01-introduction-and-the-theme-menu.md": [
@@ -277,7 +303,7 @@ const FIGURES = {
     },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s1-lesson-02-formal-elements-on-the-theme.md": [
-    { slugs: ["mark-making"], anchor: /five different instruments|each formal element/i },
+    { slugs: ["mark-making"], anchor: /a different instrument each/i },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s1-lesson-03-intention-and-composition-planning.md":
     [
@@ -309,7 +335,7 @@ const FIGURES = {
   "classes/a-level-art-design/lesson-plans/9479-s1-lesson-09-artist-2-bridge-piece-and-a2.md": [
     {
       slugs: ["repin-cossacks-study"],
-      anchor: /second artist against the first|from study into develop/i,
+      anchor: /carries your artist study into your own development/i,
     },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s1-lesson-10-composition-1.md": [
@@ -322,7 +348,10 @@ const FIGURES = {
     { slugs: ["skull-cigarette"], anchor: /what the critique left unresolved|targeted tests/i },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s1-lesson-13-final-plan-and-a3.md": [
-    { slugs: ["van-gogh-outskirts"], anchor: /solved small|palette and materials are settled/i },
+    {
+      slugs: ["van-gogh-outskirts"],
+      anchor: /are settled, swatched, and tested on the actual support/i,
+    },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s1-lesson-14-the-final-outcome.md": [
     { slugs: ["cafe-terrace"], anchor: /one continuous run|underdrawing through to surface/i },
@@ -340,7 +369,7 @@ const FIGURES = {
   "classes/a-level-art-design/lesson-plans/9479-s2-lesson-02-proposal-and-feasibility.md": [
     {
       slugs: ["banqueting-sketch"],
-      anchor: /stress-test the whole thing|a proposal you can defend/i,
+      anchor: /judged on whether it is defensible/i,
     },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked.md": [
@@ -359,7 +388,12 @@ const FIGURES = {
     },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s2-lesson-06-media-exploration.md": [
-    { slugs: ["mark-making"], anchor: /twelve media experiments|experiments built so they/i },
+    {
+      // Was matching "Twelve media experiments" in the At-a-glance Deliverable
+      // row, which put the plate above ## Overview inside the metadata block.
+      slugs: ["mark-making"],
+      anchor: /A safe experiment that can only succeed proves nothing/,
+    },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s2-lesson-07-artist-1-in-full.md": [
     {
@@ -411,46 +445,41 @@ const FIGURES = {
     [
       {
         slugs: ["repin-cossacks-study"],
-        anchor:
-          /compose final-outcome candidates from the summer production|the semester's contract/i,
+        anchor: /You compose your final-outcome candidates/i,
       },
     ],
   "classes/a-level-art-design/lesson-plans/9479-s3-lesson-03-candidate-compositions-and-the-paper-reopens.md":
     [
       {
         slugs: ["repin-nevsky-studies"],
-        anchor:
-          /a single idea can't be compared|both are developed to the same standard so the eventual decision/i,
+        anchor: /a single idea cannot be compared/i,
       },
     ],
   "classes/a-level-art-design/lesson-plans/9479-s3-lesson-04-development-studies-and-targeted-tests.md":
     [
       {
         slugs: ["mark-making"],
-        anchor: /run on only what is still unresolved|Development that decides things/i,
+        anchor: /run only on what is still unresolved/i,
       },
     ],
   "classes/a-level-art-design/lesson-plans/9479-s3-lesson-05-evaluation-and-the-national-day-break.md":
     [
       {
         slugs: ["vanitas"],
-        anchor:
-          /carry it across the National Day break intact|the chosen candidate is brought up to standard before the break/i,
+        anchor: /Bring it up to standard before the break/i,
       },
     ],
   "classes/a-level-art-design/lesson-plans/9479-s3-lesson-06-a1-the-development-milestone.md": [
     {
       slugs: ["tone-and-form"],
-      anchor:
-        /the close of the development second pass|three specific actions to carry into Unit 5/i,
+      anchor: /it wants to see what you tried, what you set aside, and what you chose/i,
     },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s3-lesson-07-outcome-1-opens-and-a2-the-mock-review.md":
     [
       {
         slugs: ["album-leaf"],
-        anchor:
-          /before the Seniors. Days remove all of next week|the whole investigation gets its/i,
+        anchor: /sequence your whole investigation as if you were submitting it/i,
       },
     ],
   "classes/a-level-art-design/lesson-plans/9479-s3-lesson-08-building-outcome-1.md": [
@@ -463,31 +492,28 @@ const FIGURES = {
     [
       {
         slugs: ["van-gogh-outskirts"],
-        anchor:
-          /Finish outcome 1 to the standard the examiner will see|confirming every claim points at real work/i,
+        anchor: /so the piece reaches a markable finish/i,
       },
     ],
   "classes/a-level-art-design/lesson-plans/9479-s3-lesson-10-a3-the-research-paper-and-outcome-2-opens.md":
     [
       {
         slugs: ["rubens-title-page"],
-        anchor:
-          /The research paper is done, and the second outcome begins|The two outcomes stay inside one investigation/i,
+        anchor: /Every claim in the paper must be evidenced in your portfolio/i,
       },
     ],
   "classes/a-level-art-design/lesson-plans/9479-s3-lesson-11-outcome-2-resolved-and-both-evaluated.md":
     [
       {
         slugs: ["impossible-bouquet"],
-        anchor: /Bring outcome 2 to the same finish as outcome 1|then judge the pair/i,
+        anchor: /judges the pair against the intention/i,
       },
     ],
   "classes/a-level-art-design/lesson-plans/9479-s3-lesson-12-assembly-sequence-documentation-bibliography.md":
     [
       {
         slugs: ["assembling"],
-        anchor:
-          /What the sequence exposes as a gap gets repaired before the critique|its documentation is verified page by page/i,
+        anchor: /Sequence is an AO4 mark, not a formality/i,
       },
     ],
   "classes/a-level-art-design/lesson-plans/9479-s3-lesson-13-the-viva-rehearsal-critique.md": [
@@ -508,22 +534,19 @@ const FIGURES = {
     [
       {
         slugs: ["album-leaf"],
-        anchor:
-          /Close Component 3 and turn toward Component 2|assemble the PDF to the Cambridge screen limits/i,
+        anchor: /A submission that fails to open earns nothing/i,
       },
     ],
   "classes/a-level-art-design/lesson-plans/9479-s4-lesson-01-the-esa-question-locked.md": [
     {
       slugs: ["first-marks"],
-      anchor:
-        /Component 2 opens on the Cambridge paper itself|the decision is made against evidence/i,
+      anchor: /not on preference and not on hope/i,
     },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s4-lesson-02-recording-at-exam-pace.md": [
     {
       slugs: ["drawn-from-life"],
-      anchor:
-        /Annotation ties every page back to the question|An intention is stated on the locked question/i,
+      anchor: /is reference you make yourself/i,
     },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s4-lesson-03-sustained-study-and-a1.md": [
@@ -535,14 +558,13 @@ const FIGURES = {
   "classes/a-level-art-design/lesson-plans/9479-s4-lesson-04-exploration-and-artist-1.md": [
     {
       slugs: ["mark-making"],
-      anchor: /Citation without response earns nothing here|A1 feedback becomes targets/i,
+      anchor: /Citation without response earns nothing/i,
     },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s4-lesson-05-artist-2-the-bridge-piece-and-a2.md": [
     {
       slugs: ["kahnweiler"],
-      anchor:
-        /Close exploration and carry it into development|surfaces problems now, not in the test room/i,
+      anchor: /look at the same question from a new direction/i,
     },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s4-lesson-06-development-and-a3-the-content-close.md":
@@ -563,8 +585,7 @@ const FIGURES = {
     [
       {
         slugs: ["the-great-wave"],
-        anchor:
-          /Turn the test piece into a submission|so A4 grades the packaging and completeness/i,
+        anchor: /Correct the image without flattering it/i,
       },
     ],
   "classes/a-level-art-design/lesson-plans/9479-s4-lesson-09-board-week-handover-and-records.md": [
@@ -682,12 +703,12 @@ const FIGURES = {
     {
       // A viewpoint nobody can stand in, against the angle bullet.
       slugs: ["st-pauls-spires"],
-      anchor: /high, low, canted/i,
+      anchor: /the frame is tilted, which reads as unease or disorder/,
     },
     {
       // A photograph made about composition, against the composition bullet.
       slugs: ["sea-of-steps"],
-      anchor: /rule of thirds, depth of field/i,
+      anchor: /the sharp point shifts from one plane to another/,
     },
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-04-sound.md": [
@@ -747,32 +768,31 @@ const FIGURES = {
       anchor: /framing → camera → light/i,
     },
   ],
-  "classes/media-studies/lesson-plans/9607-s1-lesson-10-narrative-barthes-and-the-blog-audit.md":
-    [
-      {
-        // The coursebook's own worked example for Todorov (§3.2), one plate per
-        // stage. Moved here 2026-08-09 with narrative itself.
-        slugs: [
-          "toystory-equilibrium",
-          "toystory-disruption",
-          "toystory-recognition",
-          "toystory-repair",
-          "toystory-new-equilibrium",
-        ],
-        anchor: /Todorov's arc/i,
-      },
-      { slugs: ["peasant-wedding"], anchor: /by what they do, not who they are/i },
-      {
-        // The pack's own worked binaries table is built on this series.
-        slugs: ["lupin-vitrine", "lupin-assane"],
-        anchor: /worked \*?Lupin\*? table/i,
-      },
-      { slugs: ["vivarini-exorcism"], anchor: /where did Propp fail|withheld function/i },
-      {
-        slugs: ["hampton-geography"],
-        anchor: /describe → question → suggest|audited post by post/i,
-      },
-    ],
+  "classes/media-studies/lesson-plans/9607-s1-lesson-10-narrative-barthes-and-the-blog-audit.md": [
+    {
+      // The coursebook's own worked example for Todorov (§3.2), one plate per
+      // stage. Moved here 2026-08-09 with narrative itself.
+      slugs: [
+        "toystory-equilibrium",
+        "toystory-disruption",
+        "toystory-recognition",
+        "toystory-repair",
+        "toystory-new-equilibrium",
+      ],
+      anchor: /Todorov's arc/i,
+    },
+    { slugs: ["peasant-wedding"], anchor: /by what they do, not who they are/i },
+    {
+      // The pack's own worked binaries table is built on this series.
+      slugs: ["lupin-vitrine", "lupin-assane"],
+      anchor: /worked \*?Lupin\*? table/i,
+    },
+    { slugs: ["vivarini-exorcism"], anchor: /where did Propp fail|withheld function/i },
+    {
+      slugs: ["hampton-geography"],
+      anchor: /describe, question, suggest|post by post against the mid-point checklist/i,
+    },
+  ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-11-representation-applied-to-your-own-product.md":
     [{ slugs: ["lincoln-mcclellan"], anchor: /photo-op is older than the word|posed in a tent/i }],
   "classes/media-studies/lesson-plans/9607-s1-lesson-12-the-gaze.md": [
@@ -806,7 +826,7 @@ const FIGURES = {
 const HANDOUTS = {
   "classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics.md": {
     dir: "art-appreciation",
-    anchor: /Lesson 6 — Hyperreality/,
+    anchor: /Cassatt, Rosler, then A3|hyperreality coda/i,
     items: [
       { label: "Eat Drink Man Woman", file: "eat-drink-man-woman" },
       { label: "Heda and Still Life", file: "heda-and-still-life" },

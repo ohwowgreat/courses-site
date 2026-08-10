@@ -29,17 +29,17 @@ modified: 2026-08-05
 
 This week you bring outcome 1 to a finish and photograph it, and you take the research paper to its final text. You resolve the focal areas, unify the surface, then shoot the piece as the version that gets marked and lay it into your pages. In parallel you set the paper's argument and tighten the prose to serve it. All of this feeds **[[classes/a-level-art-design/assessments/9479-s3-assessments|A3]]**, the final research paper, which you sit on Mon 2027-11-15. These dates are projected and may shift when the school publishes the calendar for that period.
 
-
-<figure class="plate">
-  <img src="../../../static/img/van-gogh-outskirts.jpg" alt="Vincent van Gogh, On the Outskirts of Paris, 1887" loading="lazy" />
-  <figcaption>Vincent van Gogh, <em>On the Outskirts of Paris</em>, 1887</figcaption>
-</figure>
-
 ## The ideas
 
 ### Resolving and photographing outcome 1
 
 To **resolve** outcome 1 means the focal areas are resolved and the surface is unified, so the piece reaches a markable finish. You resolve it first, then you photograph it. **The photograph is the mark**: the examiner sees your photograph, not the piece itself, so the photograph must document the resolved work, not a hopeful angle. Shoot it honestly, correct the image without flattering it, then lay it into the pages.
+
+
+<figure class="plate">
+  <img src="../../../static/img/van-gogh-outskirts.jpg" alt="Vincent van Gogh, On the Outskirts of Paris, 1887" loading="lazy" />
+  <figcaption>Vincent van Gogh, <em>On the Outskirts of Paris</em>, 1887</figcaption>
+</figure>
 
 ### The research paper at final text
 

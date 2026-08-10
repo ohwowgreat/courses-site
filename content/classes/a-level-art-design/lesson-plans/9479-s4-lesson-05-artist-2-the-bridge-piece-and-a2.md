@@ -32,17 +32,17 @@ These dates are projected. They may shift when the school publishes the calendar
 
 This lesson closes exploration and carries it into development. You study a second artist and answer them in your own work. You make a **bridge piece** that moves your study into development, and you run a **scale trial** at the supervised-test dimensions to expose problems now. You lay out exploration pages that reason rather than display swatches. On Tue 03-21 you sit **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS5]]**, which checks your artist pages and bridge piece. On Fri 03-24 you sit **[[classes/a-level-art-design/assessments/9479-s4-assessments|A2]]**, which marks the whole unit across AO2 and AO3.
 
-
-<figure class="plate">
-  <img src="../../../static/img/kahnweiler.jpg" alt="Pablo Picasso, Portrait of Daniel-Henry Kahnweiler, 1910" loading="lazy" />
-  <figcaption>Pablo Picasso, <em>Portrait of Daniel-Henry Kahnweiler</em>, 1910</figcaption>
-</figure>
-
 ## The ideas
 
 ### A different angle on the same question
 
 Artist 2 gives you **a different angle on the same question**. You use a second artist to look at the same question from a new direction, not to repeat the first artist. Citation without response earns nothing. **The response is the evidence**: for both artists, you must answer them in your work, not just cite them. By the end you have two artists with visible responses.
+
+
+<figure class="plate">
+  <img src="../../../static/img/kahnweiler.jpg" alt="Pablo Picasso, Portrait of Daniel-Henry Kahnweiler, 1910" loading="lazy" />
+  <figcaption>Pablo Picasso, <em>Portrait of Daniel-Henry Kahnweiler</em>, 1910</figcaption>
+</figure>
 
 ### The bridge piece
 

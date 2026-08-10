@@ -30,12 +30,6 @@ modified: 2026-08-05
 
 This week you record under **AO1 Record**, at exam pace. You state an intention on your locked question and plan the reference shoot in the same session. You shoot and draw your reference within the same week, open one study to sustain, and build your recording pages as the work happens. You submit **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS2]]** on Fri 2028-03-03: your intention, thumbnails, and shoot plan. This opens the sustained study that you push further in [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-03-sustained-study-and-a1|Lesson 03]]. These dates are projected and may shift when the school publishes the calendar for this period.
 
-
-<figure class="plate">
-  <img src="../../../static/img/drawn-from-life.jpg" alt="Ilya Repin, Portrait of a Russian Peasant, 1871" loading="lazy" />
-  <figcaption>Ilya Repin, <em>Portrait of a Russian Peasant</em>, 1871</figcaption>
-</figure>
-
 ## The ideas
 
 ### Exam pace
@@ -45,6 +39,12 @@ This week you record under **AO1 Record**, at exam pace. You state an intention 
 ### Self-generated reference
 
 **Self-generated reference** is reference you make yourself: you shoot it and draw it. The rule is "nothing found, nothing borrowed," and it does not relax under exam pressure. You state your intention and plan the shoot in the same session, then shoot and draw the reference within the same week.
+
+
+<figure class="plate">
+  <img src="../../../static/img/drawn-from-life.jpg" alt="Ilya Repin, Portrait of a Russian Peasant, 1871" loading="lazy" />
+  <figcaption>Ilya Repin, <em>Portrait of a Russian Peasant</em>, 1871</figcaption>
+</figure>
 
 ### Sustained study
 

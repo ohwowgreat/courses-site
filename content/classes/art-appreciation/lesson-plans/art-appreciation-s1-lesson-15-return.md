@@ -31,12 +31,6 @@ modified: 2026-08-05
 
 These are the return days after the exam window and after the grades deadline. Nothing you do here changes your Semester 1 grade. You get your work back, talk one-to-one about what you made, and set a Semester 2 goal that is about a practice rather than about a grade. This goal is the deliverable. [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB9]] is posted on Tue 2027-01-19 and counts toward Semester 2. The last day also previews the Semester 2 topics.
 
-
-<figure class="plate">
-  <img src="../../../static/img/wanderer.jpg" alt="Caspar David Friedrich, Wanderer Above the Sea of Fog, 1818 — who is he? what does he see? the enigma code at work" loading="lazy" />
-  <figcaption>Caspar David Friedrich, <em>Wanderer Above the Sea of Fog</em>, 1818 — who is he? what does he see? the enigma code at work</figcaption>
-</figure>
-
 ## The ideas
 
 ### Acting on feedback
@@ -50,6 +44,12 @@ A Semester 2 goal should be about a **practice**, something you do and can repea
 ### Semester 2 preview
 
 Semester 2 looks at where the money in art comes from. **Patronage** is support for an artist from a patron who pays for the work. **The market** is the buying and selling of art, where price is set by demand. Together these raise one question: who decides what is worth money.
+
+
+<figure class="plate">
+  <img src="../../../static/img/wanderer.jpg" alt="Caspar David Friedrich, Wanderer Above the Sea of Fog, 1818 — who is he? what does he see? the enigma code at work" loading="lazy" />
+  <figcaption>Caspar David Friedrich, <em>Wanderer Above the Sea of Fog</em>, 1818 — who is he? what does he see? the enigma code at work</figcaption>
+</figure>
 
 ## Day by day
 

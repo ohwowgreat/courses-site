@@ -32,12 +32,6 @@ These dates are projected. They may shift when the school publishes the calendar
 
 This week opens Unit 5. You plan final outcome 1 in full, then begin its build. You also sit **[[classes/a-level-art-design/assessments/9479-s3-assessments|A2]]**, a mock portfolio review of your whole investigation. You produce two graded pieces: **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS5]]** on Tue 2027-10-19, your outcome 1 plan, and **A2** on Thu 2027-10-21, your investigation reviewed against AO1–AO4. The build you open this week continues in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-08-building-outcome-1|L08]].
 
-
-<figure class="plate">
-  <img src="../../../static/img/album-leaf.jpg" alt="Aoki Shukuya, Double Album of Landscape Studies after Ikeno Taiga, 18th century" loading="lazy" />
-  <figcaption>Aoki Shukuya, <em>Double Album of Landscape Studies after Ikeno Taiga</em>, 18th century</figcaption>
-</figure>
-
 ## The ideas
 
 ### Planning outcome 1
@@ -47,6 +41,12 @@ Plan final outcome 1 so nothing is left to the build day. Decide your compositio
 ### The dress rehearsal
 
 **A2** is a **dress rehearsal**: you sequence your whole investigation as if you were submitting it, and it is marked against AO1–AO4. The point is to see the full investigation as a real submission before the real thing. A2 also works as a portfolio asset for Oxbridge and Early Decision applicants.
+
+
+<figure class="plate">
+  <img src="../../../static/img/album-leaf.jpg" alt="Aoki Shukuya, Double Album of Landscape Studies after Ikeno Taiga, 18th century" loading="lazy" />
+  <figcaption>Aoki Shukuya, <em>Double Album of Landscape Studies after Ikeno Taiga</em>, 18th century</figcaption>
+</figure>
 
 A2 sits on Thursday because it must land before the Seniors week. That week, W9 (Seniors' Days), has no teaching. It becomes an independent-production week, so A2 cannot fall inside it. This is why attendance and the plan matter: a missed week costs build time, and the studio does not wait.
 

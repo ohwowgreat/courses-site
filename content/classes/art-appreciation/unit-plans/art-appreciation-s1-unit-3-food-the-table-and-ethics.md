@@ -54,6 +54,9 @@ This unit treats the table as a place where rules get enforced, not just a setti
 - [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-08-heda-and-the-image-of-work|Lesson 08: Heda and the Image of Work]] — 6 meetings; Heda twice, Last Supper, Bruegel/Steen, Qingming, the moral image of work; [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS4]], [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB5]].
 - [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-09-food-the-table-and-ethics|Lesson 09: Food, the Table and Ethics]] — 4 meetings; Cassatt, Rosler, then A3 in the Tuesday double, Weems after it, hyperreality coda.
 
+
+<p class="handouts"><strong>Handouts (PDF):</strong> <a href="../../../static/handouts/art-appreciation/eat-drink-man-woman.pdf">Eat Drink Man Woman</a> · <a href="../../../static/handouts/art-appreciation/heda-and-still-life.pdf">Heda and Still Life</a> · <a href="../../../static/handouts/art-appreciation/the-shared-meal.pdf">The Shared Meal</a> · <a href="../../../static/handouts/art-appreciation/the-moral-image-of-work.pdf">The Moral Image of Work</a> · <a href="../../../static/handouts/art-appreciation/martha-rosler-intro.pdf">Martha Rosler Intro</a> · <a href="../../../static/handouts/art-appreciation/semiotics-of-the-kitchen.pdf">Semiotics of the Kitchen</a> · <a href="../../../static/handouts/art-appreciation/hyperreality-and-paratheatre.pdf">Hyperreality + Paratheatre</a> · <a href="../../../static/handouts/art-appreciation/lunch-and-discussion.pdf">Lunch and discussion</a> · <a href="../../../static/handouts/art-appreciation/culinary-aesthetics.pdf">Culinary Aesthetics</a></p>
+
 > [!note] The screening
 > The film runs 123 minutes. You view it in class, possibly split across sessions. Three questions carry across the sessions: how food works as communication, what moral meanings attach to cooking, and how eating together both unites and divides.
 
@@ -70,6 +73,3 @@ This unit treats the table as a place where rules get enforced, not just a setti
 | **A3 sits** | **Tue 2026-11-17** | In-class essay: food, the table and ethics, argued from the pictures. |
 
 Full detail in the [[classes/art-appreciation/assessments/art-appreciation-s1-assessments|full register]].
-
-<p class="handouts"><strong>Handouts (PDF):</strong> <a href="../../../static/handouts/art-appreciation/eat-drink-man-woman.pdf">Eat Drink Man Woman</a> · <a href="../../../static/handouts/art-appreciation/heda-and-still-life.pdf">Heda and Still Life</a> · <a href="../../../static/handouts/art-appreciation/the-shared-meal.pdf">The Shared Meal</a> · <a href="../../../static/handouts/art-appreciation/the-moral-image-of-work.pdf">The Moral Image of Work</a> · <a href="../../../static/handouts/art-appreciation/martha-rosler-intro.pdf">Martha Rosler Intro</a> · <a href="../../../static/handouts/art-appreciation/semiotics-of-the-kitchen.pdf">Semiotics of the Kitchen</a> · <a href="../../../static/handouts/art-appreciation/hyperreality-and-paratheatre.pdf">Hyperreality + Paratheatre</a> · <a href="../../../static/handouts/art-appreciation/lunch-and-discussion.pdf">Lunch and discussion</a> · <a href="../../../static/handouts/art-appreciation/culinary-aesthetics.pdf">Culinary Aesthetics</a></p>
-

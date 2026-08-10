@@ -31,12 +31,6 @@ These dates are projected. They may shift when the school publishes the calendar
 
 This week you push the candidate compositions until development decides things. You make development studies that resolve real questions, then run targeted tests on what is still unresolved and change the composition on the evidence. You end with a structured critique that judges the candidates against your intention. The deliverable is the targeted tests, graded as **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS4]]** on Fri 2027-09-24, plus the critique. What survives the critique is refined toward the evaluation and the Stage 6 page in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-05-evaluation-and-the-national-day-break|Lesson 05]].
 
-
-<figure class="plate">
-  <img src="../../../static/img/mark-making.jpg" alt="Peter Paul Rubens, Anatomical Studies, pen and ink, c. 1605" loading="lazy" />
-  <figcaption>Peter Paul Rubens, <em>Anatomical Studies</em>, pen and ink, c. 1605</figcaption>
-</figure>
-
 ## The ideas
 
 ### Development studies
@@ -46,6 +40,12 @@ This week you push the candidate compositions until development decides things. 
 ### Targeted tests
 
 **Targeted tests** run only on what is still unresolved: a color relationship, a passage that is not reading, a material that may not hold. A targeted test changes the composition because of evidence, meaning the test result and not a preference. A test that changes nothing was decoration.
+
+
+<figure class="plate">
+  <img src="../../../static/img/mark-making.jpg" alt="Peter Paul Rubens, Anatomical Studies, pen and ink, c. 1605" loading="lazy" />
+  <figcaption>Peter Paul Rubens, <em>Anatomical Studies</em>, pen and ink, c. 1605</figcaption>
+</figure>
 
 ### Tested, rejected, decided
 

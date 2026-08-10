@@ -30,17 +30,17 @@ modified: 2026-08-05
 
 This week you assemble your complete investigation under AO4 Present. You put the work in order so it reads to a stranger, verify the documentation page by page, and fold the bibliography into the body. You produce a sequenced, documented investigation, checked by **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS9]]** on Fri 2027-12-10. This sets up the viva-rehearsal critique in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-13-the-viva-rehearsal-critique|Lesson 13]] and makes the submission QC in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-15-submission-qc-the-return-and-into-c2|Lesson 15]] a check, not a scramble. These dates are projected and may shift when the school publishes the calendar for that period.
 
-
-<figure class="plate">
-  <img src="../../../static/img/assembling.jpg" alt="Aleksandr Rodchenko, Assembling for a Demonstration, 1928" loading="lazy" />
-  <figcaption>Aleksandr Rodchenko, <em>Assembling for a Demonstration</em>, 1928</figcaption>
-</figure>
-
 ## The ideas
 
 ### Sequencing so it reads to a stranger
 
 **Sequencing** is the order in which your investigation is read: where it starts, where it turns, and where it lands. The work must **read in order without you in the room**. Sequence is an AO4 mark, not a formality. If a stranger stalls on a page, the sequence has a gap to fix.
+
+
+<figure class="plate">
+  <img src="../../../static/img/assembling.jpg" alt="Aleksandr Rodchenko, Assembling for a Demonstration, 1928" loading="lazy" />
+  <figcaption>Aleksandr Rodchenko, <em>Assembling for a Demonstration</em>, 1928</figcaption>
+</figure>
 
 ### Documentation verified page by page
 

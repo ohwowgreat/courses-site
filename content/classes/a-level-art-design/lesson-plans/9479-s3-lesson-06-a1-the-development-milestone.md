@@ -30,12 +30,6 @@ modified: 2026-08-05
 
 This lesson closes the second pass at development and brings you to your first graded milestone of the semester. Monday to Wednesday, you finish your evaluation and close the named gaps in your work, then check your pages honestly against the AO3 band descriptors. On Thursday you sit **[[classes/a-level-art-design/assessments/9479-s3-assessments|A1]]**, the development milestone, marked against AO3. On Friday you turn the marker's response into three specific actions for Unit 5. A1 feeds your mid-term grade, and Unit 5 opens straight into building your final outcomes. These dates are projected and may shift when the school publishes the calendar for that period.
 
-
-<figure class="plate">
-  <img src="../../../static/img/tone-and-form.jpg" alt="Peter Paul Rubens, Head of a Boy (Nicolaas Rubens), c. 1619" loading="lazy" />
-  <figcaption>Peter Paul Rubens, <em>Head of a Boy (Nicolaas Rubens)</em>, c. 1619</figcaption>
-</figure>
-
 ## The ideas
 
 ### The self-check against AO3
@@ -47,6 +41,12 @@ The **self-check against the AO3 band descriptors** means applying the AO3 band 
 **A1** is the **development milestone**. You submit your outcome-candidate compositions, targeted tests, evaluation, Stage 6 page, and **research paper draft 2**. It is marked against AO3.
 
 AO3 reads development as **tested, rejected, decided**: it wants to see what you tried, what you set aside, and what you chose. Your submission should show that trail, not just a finished-looking result.
+
+
+<figure class="plate">
+  <img src="../../../static/img/tone-and-form.jpg" alt="Peter Paul Rubens, Head of a Boy (Nicolaas Rubens), c. 1619" loading="lazy" />
+  <figcaption>Peter Paul Rubens, <em>Head of a Boy (Nicolaas Rubens)</em>, c. 1619</figcaption>
+</figure>
 
 A1 feeds your mid-term grade (around Thu 2027-10-28) at the two-week minimum. [[classes/a-level-art-design/assessments/9479-s3-assessments|A2]] next week informs your comments, not the grade. The milestone is a gate, not a pause: Unit 5 opens straight into building your final outcomes.
 

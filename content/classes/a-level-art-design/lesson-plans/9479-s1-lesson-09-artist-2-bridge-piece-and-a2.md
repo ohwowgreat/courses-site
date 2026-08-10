@@ -29,12 +29,6 @@ modified: 2026-08-05
 
 This lesson closes Unit 3. You study a second artist against your first, then make a piece that carries your study into development. You produce a **bridge piece**: start it Tue 2026-11-03 and finish it across the six-day Juniors Days gap. On Mon 2026-11-09 you sit **[[classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study|A2]]**, a review of your whole Unit 3 portfolio against AO2 and AO3. You leave with one direction you can defend, which sets up Unit 4.
 
-
-<figure class="plate">
-  <img src="../../../static/img/repin-cossacks-study.jpg" alt="Ilya Repin, study for Reply of the Zaporozhian Cossacks, 1878" loading="lazy" />
-  <figcaption>Ilya Repin, study for <em>Reply of the Zaporozhian Cossacks</em>, 1878</figcaption>
-</figure>
-
 ## The ideas
 
 ### Artist 2 against Artist 1
@@ -44,6 +38,12 @@ You choose your second artist to argue with your first. **Artist 2** is set agai
 ### The bridge piece
 
 A **bridge piece** is one work that carries your artist study into your own development. You plan it from the two artists: its composition, its media, and what it takes from each artist. Make it in one sustained session with no restarts, then finish it during the six-day gap. This is the deliberate finishing window.
+
+
+<figure class="plate">
+  <img src="../../../static/img/repin-cossacks-study.jpg" alt="Ilya Repin, study for Reply of the Zaporozhian Cossacks, 1878" loading="lazy" />
+  <figcaption>Ilya Repin, study for <em>Reply of the Zaporozhian Cossacks</em>, 1878</figcaption>
+</figure>
 
 ### A2 attainment and the defensible direction
 

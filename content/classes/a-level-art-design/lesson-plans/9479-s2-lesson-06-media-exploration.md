@@ -25,12 +25,6 @@ modified: 2026-08-05
 | Graded | **[[classes/a-level-art-design/assessments/9479-s2-assessments\|CS4]]** (twelve experiments documented) Fri 2027-04-02 — a sketchbook task. **[[classes/a-level-art-design/assessments/9479-s2-assessments\|A2]]** (exploration + artist study, AO2+AO3) sits Fri 2027-04-23 |
 | Homework | Over the Qingming mock week (S7, 04-04 → 10, no regular classes): an independent sketchbook brief if the school permits |
 
-
-<figure class="plate">
-  <img src="../../../static/img/mark-making.jpg" alt="Peter Paul Rubens, Anatomical Studies, pen and ink, c. 1605" loading="lazy" />
-  <figcaption>Peter Paul Rubens, <em>Anatomical Studies</em>, pen and ink, c. 1605</figcaption>
-</figure>
-
 ## Overview
 
 This lesson opens Unit 3 and its exploration stage. You plan and run twelve media experiments to test which media can carry your investigation of the theme. You document the twelve for **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS4]]**, due Fri 2027-04-02, and then select on evidence which two or three media to develop. That selection feeds the artist study and [[classes/a-level-art-design/assessments/9479-s2-assessments|A2]] later in the unit.
@@ -44,6 +38,12 @@ This lesson opens Unit 3 and its exploration stage. You plan and run twelve medi
 ### Experiments built to fail
 
 Design twelve experiments across media. Each tests a real question about the theme: mark, surface, color, transparency, or scale. Build each so it *could* fail. A safe experiment that can only succeed proves nothing. The uncomfortable, less familiar media often carry the investigation furthest.
+
+
+<figure class="plate">
+  <img src="../../../static/img/mark-making.jpg" alt="Peter Paul Rubens, Anatomical Studies, pen and ink, c. 1605" loading="lazy" />
+  <figcaption>Peter Paul Rubens, <em>Anatomical Studies</em>, pen and ink, c. 1605</figcaption>
+</figure>
 
 ### Selecting on evidence
 

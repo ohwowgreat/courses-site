@@ -30,17 +30,17 @@ modified: 2026-08-05
 
 This lesson closes Component 3 and turns you toward Component 2. In two sessions in W18 you assemble the PDF submission to the Cambridge screen limits and pass it through submission QC, so your work is board-ready before the break, not after it. In W19 your complete investigation is returned to you one to one, you repair anything QC named, and you get a preview of Component 2. No attainment is graded in this lesson. The End of Term, the Final, falls in the January window that follows, and the winter homework opens Component 2 in [[classes/a-level-art-design/unit-plans/9479-semester-4-plan|Semester 4]].
 
-
-<figure class="plate">
-  <img src="../../../static/img/album-leaf.jpg" alt="Aoki Shukuya, Double Album of Landscape Studies after Ikeno Taiga, 18th century" loading="lazy" />
-  <figcaption>Aoki Shukuya, <em>Double Album of Landscape Studies after Ikeno Taiga</em>, 18th century</figcaption>
-</figure>
-
 ## The ideas
 
 ### The submission
 
 **Cambridge screen limits** are the size and page limits your PDF submission must meet. Assemble the PDF to these limits, and make sure every page renders. A submission that fails to open earns nothing.
+
+
+<figure class="plate">
+  <img src="../../../static/img/album-leaf.jpg" alt="Aoki Shukuya, Double Album of Landscape Studies after Ikeno Taiga, 18th century" loading="lazy" />
+  <figcaption>Aoki Shukuya, <em>Double Album of Landscape Studies after Ikeno Taiga</em>, 18th century</figcaption>
+</figure>
 
 **Submission QC** is the final check on the assembled PDF. It is the last mark you can earn in Component 3, so pass it before the break.
 

@@ -30,12 +30,6 @@ modified: 2026-08-05
 
 This lesson closes out your development work before the National Day break. You draft your evaluation in writing, you assemble your Stage 6 page as a decision trail, and you bring your chosen candidate up to standard so it is ready when you return. [[classes/a-level-art-design/assessments/9479-s3-assessments|A1]] and [[classes/a-level-art-design/assessments/9479-s3-assessments|A2]] are both announced on Thu 2027-09-30. The work here feeds the development milestone, A1, in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-06-a1-the-development-milestone|L06]]. These dates are projected and may shift when the school publishes the calendar for this period.
 
-
-<figure class="plate">
-  <img src="../../../static/img/vanitas.jpg" alt="Edwaert Collier, Vanitas Still Life, 1662" loading="lazy" />
-  <figcaption>Edwaert Collier, <em>Vanitas Still Life</em>, 1662</figcaption>
-</figure>
-
 ## The ideas
 
 ### The evaluation
@@ -47,6 +41,12 @@ The **evaluation** is your written judgment of the development against your inte
 The **Stage 6 page** is a trail of decisions: what you tested, what you rejected, and what you decided, and why. It is the evidence of **AO3 Develop**. Build it so it is legible without you in the room.
 
 Your **chosen candidate** is the option you carry forward. Bring it up to standard before the break, and set your own independent targets so it is ready for the milestone when you return.
+
+
+<figure class="plate">
+  <img src="../../../static/img/vanitas.jpg" alt="Edwaert Collier, Vanitas Still Life, 1662" loading="lazy" />
+  <figcaption>Edwaert Collier, <em>Vanitas Still Life</em>, 1662</figcaption>
+</figure>
 
 ### A1 and A2
 

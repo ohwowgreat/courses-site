@@ -32,17 +32,17 @@ modified: 2026-08-06
 
 This lesson reads the whole semester back as one argument. You build the **retrospective**, the semester-close constellation of your work, and you sit it in class on Tue 2027-01-05 as the End of Term assessment, worth 20%. It is the third constellation of the year, and the one where the method finally looks like a method rather than a rule. Everything you have made is available: the Unit 1 boards and the Unit 4 syntheses go up on the walls. The question you name at the end of the week feeds into Semester 2.
 
-
-<figure class="plate">
-  <img src="../../../static/img/album-leaf.jpg" alt="Aoki Shukuya, Double Album of Landscape Studies after Ikeno Taiga, 18th century" loading="lazy" />
-  <figcaption>Aoki Shukuya, <em>Double Album of Landscape Studies after Ikeno Taiga</em>, 18th century</figcaption>
-</figure>
-
 ## The ideas
 
 ### The retrospective
 
 A **retrospective** is the whole semester seen as one body of work rather than four separate units. You lay everything out and read it back as a single argument.
+
+
+<figure class="plate">
+  <img src="../../../static/img/album-leaf.jpg" alt="Aoki Shukuya, Double Album of Landscape Studies after Ikeno Taiga, 18th century" loading="lazy" />
+  <figcaption>Aoki Shukuya, <em>Double Album of Landscape Studies after Ikeno Taiga</em>, 18th century</figcaption>
+</figure>
 
 ### The constellation
 

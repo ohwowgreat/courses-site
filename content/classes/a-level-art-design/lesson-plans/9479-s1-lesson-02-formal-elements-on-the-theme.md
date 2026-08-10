@@ -29,17 +29,17 @@ modified: 2026-08-05
 
 This lesson works the four **formal elements**, line, tone and form, texture, and color, directly on your own theme rather than in the abstract. Across six days you make a study set in each element, then compose Recording Page 1 from those studies and set up your digital portfolio. You produce the formal elements study set and Recording Page 1, collected as [[classes/a-level-art-design/assessments/9479-s1-course-skills|CS1]] on Mon 2026-09-14. This lesson ends Unit 1, and CS1 is your practice for [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone|A1]].
 
-
-<figure class="plate">
-  <img src="../../../static/img/mark-making.jpg" alt="Peter Paul Rubens, Anatomical Studies, pen and ink, c. 1605" loading="lazy" />
-  <figcaption>Peter Paul Rubens, <em>Anatomical Studies</em>, pen and ink, c. 1605</figcaption>
-</figure>
-
 ## The ideas
 
 ### Line
 
 A **contour line** follows the outer edge of what you see. A **structural line** describes how the object is built underneath. You make two A4 line studies of the same object with a different instrument each, then note which line told the truth about the object.
+
+
+<figure class="plate">
+  <img src="../../../static/img/mark-making.jpg" alt="Peter Paul Rubens, Anatomical Studies, pen and ink, c. 1605" loading="lazy" />
+  <figcaption>Peter Paul Rubens, <em>Anatomical Studies</em>, pen and ink, c. 1605</figcaption>
+</figure>
 
 ### Tone and form
 

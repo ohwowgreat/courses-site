@@ -42,12 +42,6 @@ modified: 2026-08-09
 
 This lesson teaches narrative, the second macro element. You learn three narrative models: Todorov, Propp, and Barthes. You also complete **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS9]]**, a peer blog audit on Wed 10-21, checked against the same checklist [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2]] is marked with. You do the audit three teaching days before A2 is due, so you still have time to act on what it finds. A2 is due Monday 10-26. This work also feeds [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]] and the End of Term Exam.
 
-
-<figure class="plate">
-  <img src="../../../static/img/hampton-geography.jpg" alt="Frances Benjamin Johnston, Geography — Studying the Seasons, Hampton Institute, 1899 — work checked together, in the room" loading="lazy" />
-  <figcaption>Frances Benjamin Johnston, <em>Geography — Studying the Seasons</em>, Hampton Institute, 1899 — work checked together, in the room</figcaption>
-</figure>
-
 ## The ideas
 
 ### Todorov: the narrative arc
@@ -130,6 +124,12 @@ A Section A response has a clear shape: an introduction that names the argument,
 </div>
 
 - **Wed 10-21 (double).** [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]] scripts are returned; read yours and write one action. Learn Barthes's enigma code and action code from a screened cold open. Then complete **CS9**: swap blogs and audit a peer's blog post by post against the mid-point checklist, using the protocol describe, question, suggest. Write findings as actions, for example "post 3 has no audience data, add the survey screenshot." Start your own action list in class. You have three teaching days to Monday.
+
+<figure class="plate">
+  <img src="../../../static/img/hampton-geography.jpg" alt="Frances Benjamin Johnston, Geography — Studying the Seasons, Hampton Institute, 1899 — work checked together, in the room" loading="lazy" />
+  <figcaption>Frances Benjamin Johnston, <em>Geography — Studying the Seasons</em>, Hampton Institute, 1899 — work checked together, in the room</figcaption>
+</figure>
+
 - **Fri 10-23.** Map a contemporary trailer's cast onto Propp's functions in pairs, then write where Propp failed to fit and why that is interesting. Add strain log entries. Rehearse the exam sentence and sketch the Section A answer shape. Blogs must be to standard by Monday. A2 is submitted work, not a sitting.
 
 ## Assessment

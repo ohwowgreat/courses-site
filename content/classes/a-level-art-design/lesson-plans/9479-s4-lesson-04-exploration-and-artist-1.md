@@ -32,12 +32,6 @@ These dates are projected. They may shift when the school publishes the calendar
 
 This week you explore at exam pace. You turn your [[classes/a-level-art-design/assessments/9479-s4-assessments|A1]] feedback into targets, then run eight media experiments from your proven selections. You produce **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS4]]** on Fri 2028-03-17: the experiment documentation plus your artist 1 response. You also analyze artist 1 and answer them in visible work. This exploration feeds the development stage that follows in Lesson 05.
 
-
-<figure class="plate">
-  <img src="../../../static/img/mark-making.jpg" alt="Peter Paul Rubens, Anatomical Studies, pen and ink, c. 1605" loading="lazy" />
-  <figcaption>Peter Paul Rubens, <em>Anatomical Studies</em>, pen and ink, c. 1605</figcaption>
-</figure>
-
 ## The ideas
 
 ### Eight experiments to a decision
@@ -53,6 +47,12 @@ Your media choices carry conceptual logic even at exam pace. Each of the eight e
 You analyze artist 1, then answer them in your own work within single sessions. The influence must be made visible in what you make.
 
 **Citation without response earns nothing.** Naming or analyzing an artist is not the credit. The response, the work you make in answer, is what the marker credits.
+
+
+<figure class="plate">
+  <img src="../../../static/img/mark-making.jpg" alt="Peter Paul Rubens, Anatomical Studies, pen and ink, c. 1605" loading="lazy" />
+  <figcaption>Peter Paul Rubens, <em>Anatomical Studies</em>, pen and ink, c. 1605</figcaption>
+</figure>
 
 ## Day by day
 

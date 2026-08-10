@@ -29,12 +29,6 @@ modified: 2026-08-05
 
 This lesson opens Component 2 on the Cambridge ESA paper itself. You read the paper closely, learn how it is marked, and choose your question. Your deliverable is one question locked in writing with a rationale, due at **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS1]]** on Fri 2028-02-25. The whole semester runs on this choice, so you make it against evidence. Recording at exam pace begins in the next lesson. These dates are projected and may shift when the school publishes the calendar.
 
-
-<figure class="plate">
-  <img src="../../../static/img/first-marks.jpg" alt="Ilya Repin, Leo Tolstoy at Work, 1891" loading="lazy" />
-  <figcaption>Ilya Repin, <em>Leo Tolstoy at Work</em>, 1891</figcaption>
-</figure>
-
 ## The ideas
 
 ### Component 2 and the ESA paper
@@ -48,6 +42,12 @@ Each question permits some things and quietly forbids others. These constraints 
 ### The strengths audit
 
 The **strengths audit** matches each question to proven strengths from C1 and C3. You choose on what your portfolio and drawing-regimen work already show, not on preference and not on hope. The exam rewards what you can already do at pace. The winter regimen closes here: your past-paper review notes and drawing-regimen evidence feed the audit directly.
+
+
+<figure class="plate">
+  <img src="../../../static/img/first-marks.jpg" alt="Ilya Repin, Leo Tolstoy at Work, 1891" loading="lazy" />
+  <figcaption>Ilya Repin, <em>Leo Tolstoy at Work</em>, 1891</figcaption>
+</figure>
 
 ### Locking the question
 

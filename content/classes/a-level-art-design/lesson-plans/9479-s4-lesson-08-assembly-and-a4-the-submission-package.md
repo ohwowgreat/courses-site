@@ -32,12 +32,6 @@ These dates are projected. They may shift when the school publishes the calendar
 
 This lesson turns your test piece into a finished submission. You photograph the final piece as the version the examiner sees, then assemble the **submission package** in the exact order the Cambridge specification sets. You run supervised quality control line by line. On Thu 04-20 you complete **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS7]]**, the submission checklist and reflection. On Fri 04-21 you sit **[[classes/a-level-art-design/assessments/9479-s4-assessments|A4]]**, graded across AO1–AO4. After A4, no edits. The board handover follows in [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-09-board-week-handover-and-records|Lesson 09]].
 
-
-<figure class="plate">
-  <img src="../../../static/img/the-great-wave.jpg" alt="Gustave Le Gray, The Great Wave, Sète, 1857" loading="lazy" />
-  <figcaption>Gustave Le Gray, <em>The Great Wave, Sète</em>, 1857</figcaption>
-</figure>
-
 ## The ideas
 
 ### A4 grades the package, not the artwork
@@ -51,6 +45,12 @@ The package must match the Cambridge specification exactly: the same sequence, t
 ### Photographing the final piece
 
 You photograph the final piece as the version the examiner sees. Shoot it to the specification. Correct the image without flattering it, so the photo shows the true work.
+
+
+<figure class="plate">
+  <img src="../../../static/img/the-great-wave.jpg" alt="Gustave Le Gray, The Great Wave, Sète, 1857" loading="lazy" />
+  <figcaption>Gustave Le Gray, <em>The Great Wave, Sète</em>, 1857</figcaption>
+</figure>
 
 ### CS7: checklist and reflection
 

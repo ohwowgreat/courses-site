@@ -32,17 +32,17 @@ These dates are projected. They may shift when the school publishes the calendar
 
 This week you finish the research paper and start your second outcome. On Monday you submit **[[classes/a-level-art-design/assessments/9479-s3-assessments|A3]]**, the final research paper, marked against the C3 written criteria in a one-to-one review. Then outcome 2 opens. You plan it before you build it, so nothing is left to the day. Outcome 2 must answer outcome 1 rather than repeat it, and both outcomes stay inside one investigation, in one voice. On Friday, **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS7]]** marks your outcome 2 plan and progress. This work leads into [[classes/a-level-art-design/assessments/9479-s3-assessments|A4]], the complete investigation, next week.
 
-
-<figure class="plate">
-  <img src="../../../static/img/rubens-title-page.jpg" alt="Peter Paul Rubens, title-page design for Obsidio Bredana, 1626" loading="lazy" />
-  <figcaption>Peter Paul Rubens, title-page design for <em>Obsidio Bredana</em>, 1626</figcaption>
-</figure>
-
 ## The ideas
 
 ### The final research paper (A3)
 
 **A3** is the final research paper. It is marked against the **C3 written criteria** and submitted with a one-to-one review. Every claim in the paper must be evidenced in your portfolio.
+
+
+<figure class="plate">
+  <img src="../../../static/img/rubens-title-page.jpg" alt="Peter Paul Rubens, title-page design for Obsidio Bredana, 1626" loading="lazy" />
+  <figcaption>Peter Paul Rubens, title-page design for <em>Obsidio Bredana</em>, 1626</figcaption>
+</figure>
 
 ### Two outcomes, one voice
 

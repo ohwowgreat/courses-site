@@ -32,12 +32,6 @@ These dates are projected. They may shift when the school publishes the calendar
 
 This week has two jobs. First, you turn your summer audit into a written, dated, signed action plan that names pages, pieces, and dates. This plan closes Unit 1 and governs the semester up to submission. Then the development pipeline resumes: you compose final-outcome candidates from your summer production and start building them far enough to be judged. Your graded deliverable is **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS2]]**, the composition studies for these candidates, due Fri 2027-09-10 in your sketchbook. The candidates you build here feed the choice made in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-03-candidate-compositions-and-the-paper-reopens|Lesson 03]], where two go forward and one is set aside.
 
-
-<figure class="plate">
-  <img src="../../../static/img/repin-cossacks-study.jpg" alt="Ilya Repin, study for Reply of the Zaporozhian Cossacks, 1878" loading="lazy" />
-  <figcaption>Ilya Repin, study for <em>Reply of the Zaporozhian Cossacks</em>, 1878</figcaption>
-</figure>
-
 ## The ideas
 
 ### The action plan
@@ -49,6 +43,12 @@ The **action plan** is your contract for the semester. It is written, dated, sig
 The pipeline now returns to development on its **second pass**. In Semester 2 you built first-pass compositions. Now you develop outcome candidates. Recording and exploration, the earlier stages, are complete and are not repeated.
 
 You compose your final-outcome candidates **from the summer production, not from memory**. An outcome invented from nowhere fails AO4 later, no matter how good it looks. Build each candidate far enough that it can be judged.
+
+
+<figure class="plate">
+  <img src="../../../static/img/repin-cossacks-study.jpg" alt="Ilya Repin, study for Reply of the Zaporozhian Cossacks, 1878" loading="lazy" />
+  <figcaption>Ilya Repin, study for <em>Reply of the Zaporozhian Cossacks</em>, 1878</figcaption>
+</figure>
 
 ## Day by day
 

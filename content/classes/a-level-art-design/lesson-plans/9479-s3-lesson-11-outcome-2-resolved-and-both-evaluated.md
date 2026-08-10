@@ -30,12 +30,6 @@ modified: 2026-08-05
 
 This lesson brings outcome 2 to the same finish as outcome 1. You resolve and photograph outcome 2 to the same standard as outcome 1, so the two can be judged together. Then you evaluate both outcomes in writing against the intention: what the investigation found, not what it cost. That written evaluation of the pair is [[classes/a-level-art-design/assessments/9479-s3-assessments|CS8]], due Fri 2027-12-03. During the short week you also receive the [[classes/a-level-art-design/assessments/9479-s3-assessments|A4]] notice, the complete Personal Investigation, announced on Wed 2027-11-24. Assembly begins in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-12-assembly-sequence-documentation-bibliography|Lesson 12]]. These dates are projected and may shift when the school publishes the calendar for that period.
 
-
-<figure class="plate">
-  <img src="../../../static/img/impossible-bouquet.jpg" alt="Ambrosius Bosschaert the Elder, A Still Life of Flowers, 1609–10 — flowers that never bloom together, composed anyway" loading="lazy" />
-  <figcaption>Ambrosius Bosschaert the Elder, <em>A Still Life of Flowers</em>, 1609–10 — flowers that never bloom together, composed anyway</figcaption>
-</figure>
-
 ## The ideas
 
 ### Judged as a pair
@@ -45,6 +39,12 @@ This lesson brings outcome 2 to the same finish as outcome 1. You resolve and ph
 **One voice.** Both outcomes trace visibly back to your preparation and speak with one voice. Two voices fail AO4.
 
 **Evaluation against the intention.** The written evaluation judges the pair against the intention, naming what each outcome found. This is AO4 evidence, not a diary. Say what the investigation found, not what it cost.
+
+
+<figure class="plate">
+  <img src="../../../static/img/impossible-bouquet.jpg" alt="Ambrosius Bosschaert the Elder, A Still Life of Flowers, 1609–10 — flowers that never bloom together, composed anyway" loading="lazy" />
+  <figcaption>Ambrosius Bosschaert the Elder, <em>A Still Life of Flowers</em>, 1609–10 — flowers that never bloom together, composed anyway</figcaption>
+</figure>
 
 ## Day by day
 
