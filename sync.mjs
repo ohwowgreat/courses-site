@@ -1352,7 +1352,14 @@ function stripAnnouncements(body) {
       .replace(/\*\*A\d is announced[^*]*\*\*/gi, "")
       // Session-table / inline markers, with an optional leading "·" or ";" separator:
       // "A2 announced", "A1 + CS1 announced", "**A3 announced**", "**CS4** · A4 announced".
-      .replace(/(?:\s*[·;]\s*)?\*{0,2}A\d(?:\s*\+\s*CS\d)?\s+announced\*{0,2}/g, "")
+      // The trailing day/date is part of the marker: without consuming it, an
+      // "A3 announced Thu" cell published as "final direction Thu", and
+      // "announced Mon 2027-11-01" left a bare "-01". Verified 2026-08-10 across
+      // all 135 occurrences in the vault: 35 lines improved, none regressed.
+      .replace(
+        /(?:\s*[·;]\s*)?\*{0,2}A\d(?:\s*\+\s*CS\d)?\s+announced(?:\s+(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)\b(?:\s+\d{2,4}(?:-\d{2}){1,2}\b)?)?\*{0,2}/g,
+        "",
+      )
       // Register cell note "— announced with A1 on 09-16" and "A4's announcement on 12-16".
       .replace(/\s*—?\s*announced with [^|.\n]*/gi, "")
       .replace(/\s*A\d's announcement on \d\d-\d\d/gi, "")
