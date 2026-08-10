@@ -7,11 +7,11 @@ related:
   - "[[classes/media-studies/assessments/9607-s1-a3-c1-portfolio]]"
   - "[[concepts/process-evidence-and-reflection]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-08-02
+modified: 2026-08-10
 ---
 # Media Studies · S1 A2: Blog Mid-Point
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/assessments/9607-s1-assessments|S1 Assessment Register]] · [[classes/media-studies/lesson-plans/9607-s1-lesson-11-representation-applied-to-your-own-product|Lesson 08]] · Attainment 2 of 4
+[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/assessments/9607-s1-assessments|S1 Assessment Register]] · [[classes/media-studies/lesson-plans/9607-s1-lesson-11-representation-applied-to-your-own-product|Lesson 11]] · Attainment 2 of 4
 
 ## At a glance
 
@@ -60,15 +60,15 @@ Submission is simple. You post the URL in the first five minutes of class on Mon
 
 ## Instructions
 
-1. Finish posts 1 to 7 to standard over the week before the deadline. Your homework from Lesson 07 is exactly this.
+1. Finish posts 1 to 7 to standard over the week before the deadline. This is exactly the homework set in Lesson 10.
 2. Use the **mid-point checklist** to check yourself. It is the same instrument A2 is marked with, so the standard is clear.
 3. **CS9, the peer blog audit on Wed 2026-10-21**, runs against that same checklist. Whatever your peer finds is what your teacher will find. Fix it before Monday.
 4. Check every URL from a signed-out browser. A blog nobody but you can open is not submitted.
 5. Post the URL on Mon 10-26 in the first five minutes.
 
-**Backdating is not allowed and is visible.** Posts are dated the day the work happened. A blog that appears all at once the night before evidences AO3 at the bottom of the range, no matter how good the content is. The point of process evidence is that it records a process.
+**Backdating is not allowed and is visible.** Posts are dated the day the work happened. A blog that appears all at once the night before evidences AO3 at the bottom of the range no matter how good the content is, because the point of process evidence is that it records a process.
 
-**If you are absent.** Contact your teacher **at least 24 hours before** the deadline. Extensions are also requested 24 hours ahead. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8). A blog is submitted by URL, so absence is rarely a reason for lateness.
+**If you are absent.** Contact your teacher **at least 24 hours before** the deadline. You also request extensions 24 hours ahead. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8). A blog is submitted by URL, so absence is rarely a reason for lateness.
 
 ## Rubric
 
@@ -87,21 +87,21 @@ Cambridge's own bands for that strand, from the 2027 syllabus:
 
 The phrase that decides most marks is **"implementation of research"**. Research that sits in post 2 and never reappears is research nobody implemented. The top bands need your planning and your early production evidence to visibly carry what the research taught you. A blog can be thorough and still land at 5 or 6 if posts 2 and 5 do not talk to each other.
 
-At the mid-point the checklist's three mechanical rules are also gatekeepers: undated posts, unlabeled contributions, and gaps all read as incomplete process evidence.
+At the mid-point the checklist's three mechanical rules are also gatekeepers: undated posts, unlabeled contributions and gaps all read as incomplete process evidence.
 
 Your mark is curved under [[shared/bnds-assessment-framework|the BNDS framework]] rather than reported raw.
 
 ## After the sit
 
 - Marking starts the same night, because **mid-term grades are due Thu 2026-10-29**. A2 is the attainment that feeds them.
-- Whatever A2 finds is the thing to fix before A3 on Fri 2026-11-27, when the same blog is marked again as part of the complete portfolio. Nothing about A2 is final. It is a mid-point, so the second half can be better.
+- Whatever A2 finds is the thing to fix before A3 on Fri 2026-11-27, when the same blog is marked again as part of the complete portfolio. Nothing about A2 is final: it is a mid-point, so the second half can be better.
 
 ## How to prepare
 
 | Where it came from | What to use it for |
 |---|---|
 | **CS9**, the peer blog audit (Wed 2026-10-21) | The dress rehearsal, run on the real instrument, with working days to spare |
-| The **mid-point checklist** from Lesson 07 | Self-check, post by post |
+| The **mid-point checklist** from Lesson 10 | Self-check, post by post |
 | **HW1**, the break production window | Posts 6 and 7 exist because of it |
-| Lesson 07's reading-order and PEEM work | Post 2's research needs to read texts, not list them |
+| Lesson 08's reading-order and PEEM work | Post 2's research needs to read texts, not list them |
 | [[concepts/process-evidence-and-reflection\|Process evidence and reflection]] | Why the blog is assessed at all, and what it is evidence of |

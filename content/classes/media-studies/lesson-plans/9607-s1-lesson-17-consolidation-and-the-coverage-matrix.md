@@ -8,7 +8,7 @@ related:
   - "[[classes/media-studies/9607-resource-library]]"
   - "[[concepts/four-key-concepts]]"
   - "[[concepts/case-study-method]]"
-modified: 2026-08-03
+modified: 2026-08-10
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/moon-atlas.jpg" alt="Loewy & Puiseux, plate from the Atlas Photographique de la Lune, c. 1900 — the whole surface, plate by plate, so no region goes unexamined" loading="lazy" />
@@ -38,57 +38,46 @@ modified: 2026-08-03
 
 ## Overview
 
-This lesson consolidates the semester before the End of Term Exam tests it. You review your returned [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]] script against the mark scheme, rehearse Section B arguments aloud, and build a case-study coverage matrix across the four Key Concepts. By the end you name your weakest cell in writing, and that cell becomes your [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|HW2]] target. You complete the coverage matrix on Wed 12-23. HW2, the break revision pack, is set that day and is due Mon 2027-01-04. All of this feeds the End of Term Exam.
+This lesson audits what you have learned before the exam tests it. You review your [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]] script against the mark scheme, rehearse a Section B argument aloud, and build a coverage matrix that crosses every case study against the four Key Concepts. On Wed 12-23 you complete the coverage matrix and leave with your weakest cell named in writing. That cell is your [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|HW2]] target, and the whole audit prepares you for the End of Term Exam.
 
 ## The ideas
 
-### Reviewing A4 against the mark scheme
+### Reviewing your A4 script
 
-When A4 comes back, band your own script first. Re-read it against the five-criterion rubric and give yourself a band on each criterion before you see your mark. The **AO gap** is the distance between your self-band and the actual mark, criterion by criterion. Your target comes from the **per-criterion AO splits**. Write your target down and connect it to your L11 target: is it the same thread, or a new gap? Two data points now exist, so your Forecast Grade has evidence.
+Read your A4 script against the five-criterion rubric and band yourself on each criterion before you see your mark. The gap between your own banding and the mark you were given is your target. Log one target from the AO splits and connect it in writing to your Lesson 14 target: is it the same thread, or a new gap? You now have two data points, so the Forecast Grade conversation has evidence.
 
-### The Section B argument
+### A Section B argument
 
-A Section B argument has four moves: **claim → evidence → counter → response**. This is not an essay plan. It is an argument you could win out loud. You make a claim, back it with evidence, raise the counter-argument, then respond to it. An argument that has survived a counter holds up better than a plan written cold.
+A Section B argument has four moves: **claim → evidence → counter → response**. This is an argument you could win out loud, not just an essay plan. You practice it by arguing one case-study question in a trio: one person argues, one counters from the same case study, one referees for evidence. Only after the talk do you write the argued case up as a skeleton plan. A plan that has survived a counter holds up better than one written cold.
 
 ### The coverage matrix
 
-A **coverage matrix** crosses every case study against the four Key Concepts. The rows are the case studies in your documents. The columns are the four Key Concepts: **Language**, **Representation**, **Industry**, and **Audience**. For each cell, you produce the evidence from your documents. Each cell is scored honestly: evidenced, thin, or empty. An honest "empty" counts too, because the point is the audit, not the bluff. Your weakest cell, named in writing, is your HW2 target. (Aside: a century ago two astronomers photographed the whole moon plate by plate so no region went unexamined; that is the standard of coverage here.)
-
-### The break revision pack (HW2)
-
-HW2 is the break pack. Write one revision page per case study. The WS 5.3 National Geographic sheet is the model of what a page should contain. Add one Section B essay plan aimed at your named weakest cell. The total is 3–4 hours across the break. It is due Mon 2027-01-04, the first day back.
-
-### The End of Term Exam
-
-The End of Term Exam is the full two-hour Component 2. The exam window opens Mon 2027-01-11. The format is A4's format plus Section B: nothing you have not now done.
+A **coverage matrix** crosses every case study against the four Key Concepts. The columns are **Language**, **Representation**, **Industry**, and **Audience**. For each cell you produce the evidence from your case-study documents, and the cell is scored honestly: evidenced, thin, or empty. Naming a cell empty is fine; the point is an honest audit, not a bluff. Your weakest cell is what HW2 exists to fill.
 
 ## Day by day
 
-- **Mon 12-21.** A4 is returned. You band your own script against the rubric, then compare it with your mark and the per-criterion AO splits. You log one target and connect it in writing to your L11 target.
-- **Tue 12-22.** You rehearse Section B arguments aloud in trios: one argues a case-study question, one counters from the same case study, one referees for evidence. You rotate three times, then capture your argued case as a skeleton plan in the last ten minutes.
-- **Wed 12-23 (double).** You build the coverage matrix and name your weakest cell in writing. [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|LB5]] is posted (case-study document contributions since L12). HW2 is set and is due Mon 2027-01-04. The End of Term Exam is announced. Take your revision-card deck and case-study document home.
+- **Mon 12-21.** A4 is returned. Band your script against the rubric first, then compare it with your mark and its per-criterion AO splits. Log one target and connect it in writing to your Lesson 14 target.
+- **Tue 12-22.** Argue one Section B case-study question aloud in a trio, rotating three times, then capture the argued case as a skeleton plan.
+- **Wed 12-23 (double).** Build the coverage matrix and name your weakest cell in writing. [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|LB5]] posts. HW2 is set: one revision page per case study, plus one Section B essay plan aimed at your named weakest cell, 3–4 hours across the break, due Mon 2027-01-04. The End of Term Exam is announced: the full two-hour Component 2, in the exam window from Mon 2027-01-11. Its format is A4's format plus Section B.
 
 ## Assessment
 
 | Item | Date | What |
 |---|---|---|
 | LB5 | Wed 2026-12-23 | Case-study document contributions |
-| HW2 | set Wed 12-23 → due Mon 2027-01-04 | Case-study revision pack (one page each) plus one Section B essay plan aimed at the named matrix gap (AO1) |
+| HW2 | set Wed 12-23 → due Mon 2027-01-04 | Case-study revision pack (one page each) + one Section B essay plan aimed at your named matrix gap (AO1) |
+| ~~[[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB6]]~~ | ~~Wed 2026-12-30~~ | 🚫 **Cancelled:** that week is winter break |
 
-There is no [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|LB6]]. Week 18 is winter break.
-
-A4 is returned Mon 12-21. The End of Term Exam is announced Wed 12-23. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+A4 is returned Mon 12-21; the End of Term Exam is announced Wed 12-23. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
 ## Review
 
 Check you can:
 
-- Band your own A4 script against the rubric and name the AO gap in one sentence.
-- Connect your A4 target to your L11 target.
-- Structure a Section B argument as claim → evidence → counter → response.
-- Complete a coverage matrix across Language, Representation, Industry, and Audience.
-- Name your weakest Key Concept cell with evidence and set it as your HW2 target.
-- State the End of Term Exam format: the two-hour Component 2, A4's format plus Section B.
+- Band your A4 script against the five-criterion rubric and name your AO gap in one sentence.
+- Name the four Key Concepts: Language, Representation, Industry, and Audience.
+- Complete a coverage matrix and identify your weakest Key Concept cell with evidence.
+- Build a Section B argument through its four moves: claim, evidence, counter, response.
 
 ## Practice
 
@@ -114,7 +103,7 @@ Rows are your case studies. Columns are **Language, Representation, Industry, Au
 
 <details class="reveal"><summary>Show answer</summary>
 
-Calibration. The conversation that matters is the gap between your band and the marker's, per criterion. With the L11 target you now have two data points on yourself. The gaps shrink when you track them, and the Forecast Grade conversation runs on that evidence.
+Calibration. The conversation that matters is the gap between your band and the marker's, per criterion. With the L14 target you now have two data points on yourself. The gaps shrink when you track them, and the Forecast Grade conversation runs on that evidence.
 
 </details>
 

@@ -9,11 +9,11 @@ related:
   - "[[concepts/media-language]]"
   - "[[concepts/technical-elements]]"
   - "[[concepts/the-viewing-protocol]]"
-modified: 2026-08-02
+modified: 2026-08-10
 ---
 # Media Studies · S1 A1: Timed Media Language Analysis
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/assessments/9607-s1-assessments|S1 Assessment Register]] · [[classes/media-studies/lesson-plans/9607-s1-lesson-08-the-viewing-protocol-and-a1|Lesson 06]] · Attainment 1 of 4
+[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/assessments/9607-s1-assessments|S1 Assessment Register]] · [[classes/media-studies/lesson-plans/9607-s1-lesson-08-the-viewing-protocol-and-a1|Lesson 08]] · Attainment 1 of 4
 
 ## At a glance
 
@@ -40,7 +40,7 @@ This assessment asks you to show, in writing and without help, that you can:
 
 1. Analyze an extract you have never seen, naming how camera, sound, mise-en-scène and editing construct its meaning.
 2. Tie every observation to an effect. A technique that is named but not explained does not count.
-3. Cover all four code families in order, not just the one you noticed first.
+3. Cover all four code families in order, rather than writing at length about the one you noticed first.
 4. Use precise media terminology throughout, including the sound and editing vocabulary, not only the camera terms.
 5. Where you bring in a theory or a context, say where the extract complicates it as well as where it fits.
 6. Sustain 60 minutes of continuous analytical writing under exam conditions.
@@ -49,7 +49,7 @@ This assessment asks you to show, in writing and without help, that you can:
 
 You are given an unseen extract from a television drama, 2 to 3 minutes long, and the Paper 2 Section A prompt: analyze how the extract constructs meaning through camera, sound, mise-en-scène and editing. It is the same wording as the real examination, which uses it in every paper.
 
-The extract is deliberately unfamiliar. Everything the prompt names has been taught, and shot, since Week 1: signs and codes ([[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-signs-and-codes|L02]]), then **camera** ([[classes/media-studies/lesson-plans/9607-s1-lesson-03-camera|L03]]), **sound** ([[classes/media-studies/lesson-plans/9607-s1-lesson-04-sound|L04]]), **mise-en-scène** ([[classes/media-studies/lesson-plans/9607-s1-lesson-05-mise-en-scene|L05]]) and **editing** ([[classes/media-studies/lesson-plans/9607-s1-lesson-06-editing|L06]]) a lesson each, integrated on one extract at [[classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock|L07]], with the four-pass [[concepts/the-viewing-protocol|viewing protocol]] rehearsed at [[classes/media-studies/lesson-plans/9607-s1-lesson-08-the-viewing-protocol-and-a1|L08]]. What is new is the text, not the skill.
+The extract is deliberately unfamiliar. Everything the prompt names has been taught, and shot, since Week 1: signs and codes ([[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-signs-and-codes|L02]]), then **camera** ([[classes/media-studies/lesson-plans/9607-s1-lesson-03-camera|L03]]), **sound** ([[classes/media-studies/lesson-plans/9607-s1-lesson-04-sound|L04]]), **mise-en-scène** ([[classes/media-studies/lesson-plans/9607-s1-lesson-05-mise-en-scene|L05]]) and **editing** ([[classes/media-studies/lesson-plans/9607-s1-lesson-06-editing|L06]]) a lesson each, brought together on one extract at [[classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock|L07]], with the four-pass [[concepts/the-viewing-protocol|viewing protocol]] rehearsed at [[classes/media-studies/lesson-plans/9607-s1-lesson-08-the-viewing-protocol-and-a1|L08]]. What is new is the text, not the skill.
 
 ## Instructions
 
@@ -60,7 +60,7 @@ The extract is deliberately unfamiliar. Everything the prompt names has been tau
 1. Conditions are briefed once, then the room goes silent.
 2. The extract is screened **four times**, following the examination's own protocol: watch the first time without writing, then take a note pass on each of the three remaining screenings.
 3. Write for **60 minutes**, continuously.
-4. Hand in your script. If it is unfinished at 60 minutes, it is submitted at 60 minutes. The timebox is part of what this samples.
+4. Hand in your script. If you are unfinished at 60 minutes, you submit at 60 minutes. The timebox is part of what this samples.
 
 **Writing the answer.** Work through the code families, not through the extract's timeline. For each observation, name the technique, point to the exact moment, and say what it does to the viewer. One well-chosen moment analyzed properly is worth more than five moments listed. If you use Propp or Todorov, include at least one sentence on where the extract strains the model.
 
@@ -94,9 +94,9 @@ The five criteria and their band words are Cambridge's. The descriptions in this
 
 ### How the mark becomes a grade
 
-The 25-mark total is **not** what goes into MB. Attainments are curved against CIE past-paper data, allowing for where the class is in its learning, so the grade reflects your trajectory rather than what the script would score on a Cambridge paper today. You will always be told how the boundaries and curve were set. The grade scale is on [[shared/bnds-assessment-framework|BNDS Assessment Framework]].
+The 25-mark total is **not** what goes into MB. Attainments are curved against CIE past-paper data, allowing for where the class is in its learning trajectory, so the grade reflects trajectory rather than what the script would score on a Cambridge paper today. You will always be told how the boundaries and curve were set. The grade scale is on [[shared/bnds-assessment-framework|BNDS Assessment Framework]].
 
-Two things worth knowing now: this is one of **four** attainments this semester, and because the course runs four rather than six, **no student is eligible to have a lowest attainment dropped.** That is a fact about how the course is built, not about conduct.
+Two consequences worth knowing now: this is one of **four** attainments this semester, and because the course runs four rather than six, **no student is eligible to have a lowest attainment dropped.** That is a fact about how the course is built, not about conduct.
 
 ## After the sit
 

@@ -8,11 +8,11 @@ related:
   - "[[classes/media-studies/9607-resource-library]]"
   - "[[concepts/the-viewing-protocol]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-08-02
+modified: 2026-08-10
 ---
 # Media Studies · S1 A4: Section A in Authentic Format
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/assessments/9607-s1-assessments|S1 Assessment Register]] · [[classes/media-studies/lesson-plans/9607-s1-lesson-16-a4-section-a-in-authentic-format|Lesson 13]] · Attainment 4 of 4
+[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/assessments/9607-s1-assessments|S1 Assessment Register]] · [[classes/media-studies/lesson-plans/9607-s1-lesson-16-a4-section-a-in-authentic-format|Lesson 16]] · Attainment 4 of 4
 
 ## At a glance
 
@@ -43,7 +43,7 @@ This assessment asks you to show that you can:
 
 ## The task
 
-You answer the same Section A question as A1, but in the **authentic examination format**. That difference is the point of this assessment.
+The same Section A question as A1, in the **authentic examination format**. That difference is the point of this assessment.
 
 A1 was one hour of continuous writing. A4 splits the time the way the real paper does: half an hour with the extract and your notes, then three quarters of an hour writing. These are different skills. The viewing window rewards a note system. The writing window rewards working from that system instead of trying to re-watch the extract in your head.
 
@@ -51,18 +51,18 @@ The prompt is the Paper 2 Section A stem: analyze how the extract constructs mea
 
 ## Instructions
 
-1. The format difference from A1 is stated once at the start, because it is what this assessment tests.
-2. **30 minutes: viewing and notes.** The extract is screened under examination protocol. Build structured notes: a note grid or four-column chart by code family, not a running commentary. A transcript is a wasted half hour.
-3. **45 minutes: writing.** Work from your notes. Do not expect another screening.
+1. **Conditions briefed once.** The format difference from A1 is stated explicitly, because it is what is being tested.
+2. **30 minutes: viewing and notes.** The extract is screened on the examination's protocol. Build structured notes: a note grid or four-column chart by code family, not a running commentary. A transcript is a wasted half hour.
+3. **45 minutes: writing.** Write from your notes. Do not expect another screening.
 4. Hand in your script.
 
-**How to spend the viewing window.** Watch once. Then use later passes to isolate one code family at a time. Count cuts where editing matters. Note the exact moment for anything you intend to quote, because strand 5 of the rubric is *use of examples*, and a marker has to be able to find what you cite.
+**How to spend the viewing window.** One pass to watch. Then passes that isolate one code family at a time. Count cuts where editing matters. Note the exact moment for anything you intend to quote, because strand 5 of the rubric is *use of examples* and a marker has to be able to find what you cite.
 
 **If you are absent.** Contact your teacher **at least 24 hours before** the sitting. Illness needs a doctor's note. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8).
 
 ## Rubric
 
-This uses the **official Cambridge Paper 2 rubric**, the same five criteria used for A1 and the End of Term Exam. 25 marks, five criteria of 5, each banded **independently** on best fit.
+The **official Cambridge Paper 2 rubric**, the same five criteria used for A1 and the End of Term Exam. 25 marks, five criteria of 5, each banded **independently** on best fit.
 
 | # | Criterion | AO | Marks |
 |---|---|---|---|
@@ -76,7 +76,7 @@ Totals: **AO1 15, AO2 10.** Band words per criterion: **5** sophisticated or ins
 
 ### What each band looks like in this task
 
-The criteria and band words are Cambridge's. The descriptions below are **ours**, written for this course. They are the same descriptors used for A1, with one addition: at A4 the note-taking window is part of what is being assessed, so the top bands expect the coverage a note grid makes possible.
+The criteria and band words are Cambridge's. The descriptions below are ours, written for this course. They are the same descriptors used for A1, with one addition: at A4 the note-taking window is part of what is being assessed, so the top bands expect the coverage a note grid makes possible.
 
 | Criterion | Band 5 | Band 3 | Band 1 |
 |---|---|---|---|
@@ -86,7 +86,7 @@ The criteria and band words are Cambridge's. The descriptions below are **ours**
 | **Analysis of meaning** | Every observation reaches an effect. Nothing is listed | Most observations reach an effect, some stop at description | What happens is described, meaning left implied |
 | **Use of Examples** | Specific timed moments from **all four** code families, findable from your description alone | Real examples, unevenly distributed across code families | Examples general, or about the extract as a whole |
 
-Marks are curved under [[shared/bnds-assessment-framework|the BNDS framework]] rather than reported raw. A4 is the **Forecast Grade anchor**: it is the single piece of evidence weighted most heavily when your forecast is set, because it is the most authentic sitting of the semester.
+Marks are curved under [[shared/bnds-assessment-framework|the BNDS framework]] rather than reported raw. A4 is the **Forecast Grade anchor**. It is the single piece of evidence weighted most heavily when your forecast is set, because it is the most authentic sitting of the semester.
 
 ## After the sit
 
@@ -103,4 +103,4 @@ Marks are curved under [[shared/bnds-assessment-framework|the BNDS framework]] r
 | **CS12**, guided Section A with the mark scheme open (Wed 12-09) | The direct rehearsal, one week before, with the rubric visible |
 | Your note grid or four-column chart | The viewing window's whole purpose. Practice it before the day |
 | The **strain log** and your theory cards | Criterion 2, contexts and critical debates |
-| Mon and Tue of Lesson 13, one institution end to end | Industry context you can actually use on an extract |
+| Mon and Tue of Lesson 16, one institution end to end | Industry context you can actually use on an extract |

@@ -7,27 +7,23 @@ related:
   - "[[classes/media-studies/unit-plans/9607-semester-1-plan]]"
   - "[[classes/media-studies/assessments/9607-s1-assessments]]"
   - "[[concepts/technical-elements]]"
-modified: 2026-08-09
+modified: 2026-08-10
 ---
 # 9607 Curriculum Drift
 
-Semester 1 of Media Studies teaches **the four technical elements**: camera, sound, mise-en-scène, and editing. These, together with semiotics, make up the largest block of examinable content in the AS year. The plans for this content are [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] and [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis|Unit 3]].
+Semester 1 teaches Media Language across two units. The plans are [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] and [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis|Unit 3]].
 
-## What the curriculum asks for
+## What the course covers
 
-**The coursebook.** Unit 2, "Media Language: Micro elements", runs pp. 16–58. It covers semiotics (§2.1, 4 pp), shots, angles, movement and composition (§2.2, 14 pp), sound (§2.3, 6 pp), mise-en-scène (§2.4, 7 pp), and editing (§2.5, 11 pp). Each section has its own activities.
+Media Language has five topics: **semiotics** (signs and codes), and the four technical elements, **camera** (shots, angle, movement, composition), **sound**, **mise-en-scène**, and **editing**.
 
-**The Scheme of Work** puts Component 1, the Foundation Portfolio, first at 90 hours, and states:
+Component 2 Section A names all four technical elements in its prompt on every paper. It asks how an extract constructs meaning through camera, sound, mise-en-scène, and editing.
 
-> "The subject content (camera shots, angle, movement, composition; sound; mise-en-scène; editing) should inform the practice and the reflection on practice."
+Component 1 is the Foundation Portfolio. You evidence your practice on the C1 blog.
 
-The practice programme includes a slow tilt to reveal character, an establishing shot, a close-up for significance, a canted angle for dissonance, POV simulation, shooting from a supplied storyboard, then two- and three-shot edits, shot / reverse shot with the 180-degree rule, exterior-to-interior cuts, crosscutting, foley, non-diegetic music tests, and recut trailers. You evidence all of it on the blog.
+## Unit 2: Media Language
 
-**The syllabus** lists the four elements as examinable content. Component 2 Section A names all four in its prompt on every paper.
-
-## The Unit 2 plan
-
-Unit 2 runs from Week 2 to Week 6, 15 teaching days. Each lesson produces a practical output, posted and dated on the Component 1 blog:
+Unit 2 runs Weeks 2 to 6, 15 teaching days. Each technical exercise is a dated blog post that counts as Component 1 research-and-practice evidence under the Scheme of Work's five-stage structure. Each lesson also names what the skill carries forward into Component 3 in G12. CS3 to CS6 each carry both an AO1 and an AO3 mark: the same work is knowledge shown and evidence banked.
 
 | Lesson | Days | Practical output, posted and dated on the C1 blog |
 |---|---|---|
@@ -38,10 +34,12 @@ Unit 2 runs from Week 2 to Week 6, 15 teaching days. Each lesson produces a prac
 | L06 Editing | 2 | CS6 three-shot sequence, continuity held and broken |
 | L07 Integration and the Planning Lock | 3 | CS7 four-element paragraph; C1 plan locked |
 
-**How it works: teaching by doing.** Each technical exercise output is a dated blog post that counts as Component 1 research-and-practice evidence under the Scheme of Work's own five-stage structure. Each lesson also names what the skill carries forward into Component 3 in G12. This is why CS3 to CS6 carry both an AO1 and an AO3 mark: the same artifact is knowledge demonstrated and evidence banked.
+Unit 3 covers the macro elements, genre and narrative.
 
-Genre and narrative are taught later, in Unit 3 (macro elements), after A1.
+Weeks 2 to 5 each carry a graded Course Skills task. Learning Behaviour postings fill the weeks that have none.
 
-## Key dates
+## Assessment dates
 
-You sit A1 on Wed 10-14, A2 on Mon 10-26, A3 on Fri 11-27, and A4 on Wed 12-16. The End of Term window and the Component 1 planning lock before the National Day break are also fixed points in the semester.
+You sit A1 on Wed 2026-10-14, A2 on Mon 10-26, A3 on Fri 11-27, and A4 on Wed 12-16, then the End of Term window. The C1 plan is locked before the National Day break.
+
+A1 uses the real Section A prompt: how the extract constructs meaning through camera, sound, mise-en-scène, and editing. You need the sound and editing vocabulary, not only the camera terms.

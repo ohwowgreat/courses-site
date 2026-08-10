@@ -9,7 +9,7 @@ related:
   - "[[concepts/media-industry]]"
   - "[[concepts/media-regulation]]"
   - "[[concepts/media-vocabulary]]"
-modified: 2026-08-03
+modified: 2026-08-10
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/lindbergh-1927.jpg" alt="Underwood & Underwood, Charles Lindbergh, 1927 — the first global media event: one man, every channel" loading="lazy" />
@@ -39,38 +39,38 @@ modified: 2026-08-03
 
 ## Overview
 
-This lesson traces one institution from end to end and then puts you in the real Section A format. Over Monday and Tuesday you follow a single institution from greenlight to your feed, using integration, synergy, and convergence, while your case-study documents update. On Wednesday 2026-12-16 you sit [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]], the first authentic Section A: 30 minutes of viewing and note-making, then 45 minutes of writing. Friday adds regulation while the sit is still fresh. Your A4 script is the Forecast Grade anchor and feeds the End of Term Exam.
+This lesson traces one institution end to end: integration, synergy, and convergence, from the greenlight to your feed. You then sit [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]] on Wed 2026-12-16, the first Section A in the authentic format: 30 minutes of viewing and note-making, then 45 minutes of writing. Friday adds regulation while the sit is fresh. A4 is your Forecast Grade anchor and it feeds the End of Term Exam.
 
 ## The ideas
 
 ### The three institution words
 
-**Integration** means owning the stages of production. Owning the stages above and below you is vertical integration. Owning your neighbors at the same stage is horizontal integration.
+**Integration** means owning more of the process. Owning the stages of production is vertical integration. Owning your neighbors at the same stage is horizontal integration.
 
-**Synergy** means the parts of an institution selling each other. One product promotes another.
+**Synergy** is when the parts of a business sell each other.
 
-**Convergence** means different media and platforms flowing together, so content moves across formats and devices.
+**Convergence** is when media and platforms flow together.
 
-One historical anchor shows all three before the internet. In 1927, Lindbergh's flight was carried by every channel of the era at once: newsreels, press syndicates, radio, and records, all selling the same story. The media event predates the internet by about seventy years.
+One historical anchor: Lindbergh, 1927. One man, and every channel of the era sold the same story to itself: newsreels, press syndicates, radio, records. The media event predates the internet by seventy years.
 
-### One institution, end to end
-
-You follow a single institution from decision to screen as one chain: who greenlights, who produces, who distributes, how it is marketed, where audiences meet it, and who takes the revenue. Each link connects to your case-study documents. This extends the chain from Lesson 12 by one more link: decision ← incentive ← payer ← **regulator**.
+You track one institution's real current output for all three: where it integrates, what synergizes with what, and where it has converged onto new platforms. Then you follow the same institution from decision to screen: who greenlights, who produces, who distributes, how it is marketed, where audiences meet it, and who takes the revenue.
 
 ### Structured notes
 
-**Structured notes** are notes made in a grid, not a transcript. In the viewing window you fill a four-family grid, not full sentences. This is the skill A4 tests in its viewing time, and it is different from [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]]'s single writing hour.
+In the A4 viewing window, make **structured notes, not a transcript**. Use the four-family grid. Write notes, not sentences.
 
-### Regulation
+### Regulation as the fourth context
 
-**Regulation** is the fourth context. It is the body that regulates your case-study institution, in its home market: for example Ofcom, the FCC, or platform self-regulation. Learn its powers and what it visibly changes about the output: scheduling, cuts, ratings, and what never gets made. As a brief aside, the NRTA sits alongside these, because a case-study institution that is exam-eligible makes its regulator eligible too.
+**Regulation** is the fourth context. It answers who regulates your case-study institution, with what powers, and what that visibly changes about its output: scheduling, cuts, ratings, and what never gets made. The regulator depends on the home market: Ofcom, the FCC, or platform self-regulation. Your case-study institution is exam-eligible, so its regulator is too. (The NRTA is a spoken aside here.)
+
+This extends the chain from Lesson 15 by one link: decision ← incentive ← payer ← **regulator**.
 
 ## Day by day
 
-- **Mon 12-14.** Define integration, synergy, and convergence, and hunt one institution's current output for all three: where it integrates, what synergizes with what, and where it has converged onto new platforms. Date entries in the case-study documents as they land. Practice the structured-notes drill on a short trailer.
-- **Tue 12-15.** Trace the same institution from decision to screen as one annotated chain. Band a specimen answer against the five criteria, then reread your Lesson 12 "unfed criterion" note: which rubric row went hungry in [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS12]], and what will feed it. Practice the structured-notes drill again.
-- **Wed 12-16.** You sit A4 (double period): 30 minutes of viewing and notes on an unseen extract, then 45 minutes writing the Section A response, run to the paper's clock. An optional one-page viewing-notes frame is available. There is no debrief today: doing the real format is the lesson.
-- **Fri 12-18.** Learn regulation as the fourth context, then research and date the regulation row of your case-study document, extending the chain to the regulator. This is the last teaching Friday of the semester. Preview W17 (consolidation and the coverage matrix). A4 scripts return with AO splits recorded, and the Forecast Grade conversation happens at Lesson 14 with that evidence. No homework: attainment week.
+- **Mon 12-14.** Define integration, synergy, and convergence, and hunt for all three in one institution's real output. Close with a structured-notes drill.
+- **Tue 12-15.** Trace the same institution from decision to screen as one chain. Reread your Lesson 15 note on which rubric row went hungry in [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS12]], and plan what will feed it. Second structured-notes drill.
+- **Wed 12-16 (double).** You sit A4: Component 2 Section A in the authentic format, an unseen extract, 30 minutes of viewing and notes then 45 minutes of writing. Scripts are collected. There is no debrief today; the format is the lesson.
+- **Fri 12-18.** Research and date the regulation row of your case-study document. Preview of Week 17 (consolidation and the coverage matrix). A4 scripts return with AO splits recorded, and the Forecast Grade conversation happens at Lesson 17 with that evidence.
 
 ## Assessment
 
@@ -86,10 +86,11 @@ See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
 Check you can:
 
-- Define **integration**, **synergy**, and **convergence**, and give evidence of each from one institution.
-- Use the 30-minute viewing window to make **structured notes**, not a transcript.
+- Define **integration**, **synergy**, and **convergence**, and give evidence for each from one institution.
+- Distinguish vertical integration from horizontal integration.
+- Use the 30-minute viewing window to make **structured notes** in the four-family grid, not a transcript.
 - Sustain the 45-minute write from your notes rather than from memory.
-- Explain who regulates your case-study institution and one concrete consequence of that regulation.
+- Name who regulates your case-study institution and state one concrete consequence for its output.
 
 ## Practice
 
