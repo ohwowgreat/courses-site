@@ -1113,6 +1113,11 @@ const DROP_PAGES = new Set([
   // The vault's home page is a teacher's dashboard: vault status, the live Bases
   // table, links to the index and dashboard. The site gets site-home.md instead.
   "home.md",
+  // Cooke collaboration map (2026-08-11): where a colleague's Sociology and AP Lang
+  // material could plug into these five courses. Names him, snapshots his external
+  // site, and records rejected fits and unverified hypotheses — staffroom planning,
+  // not student content.
+  "analyses/cooke-collaboration-map.md",
 ])
 
 // Assessment registers ARE published — students get real value from the per-item
