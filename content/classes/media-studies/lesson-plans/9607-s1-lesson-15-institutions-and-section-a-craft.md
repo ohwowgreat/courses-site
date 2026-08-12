@@ -19,7 +19,7 @@ modified: 2026-08-03
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts|Unit 5]] · Lesson 15 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-14-audiences-and-the-portfolio-submission|Lesson 14]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-16-a4-section-a-in-authentic-format|Lesson 16]] →
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-15-institutions-and-section-a-craft.pptx">Download the deck (PowerPoint, 819 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-15-institutions-and-section-a-craft.pptx">Download the deck (PowerPoint, 1.2 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
 ## At a glance
 

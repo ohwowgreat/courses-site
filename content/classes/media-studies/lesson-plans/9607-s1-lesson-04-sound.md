@@ -23,7 +23,7 @@ modified: 2026-08-09
 > [!note] Second of the four technical elements
 > [[classes/media-studies/lesson-plans/9607-s1-lesson-03-camera|Camera]] · Sound · [[classes/media-studies/lesson-plans/9607-s1-lesson-05-mise-en-scene|Mise-en-scène]] · [[classes/media-studies/lesson-plans/9607-s1-lesson-06-editing|Editing]], then [[classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock|integration]].
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-04-sound.pptx">Download the deck (PowerPoint, 358 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-04-sound.pptx">Download the deck (PowerPoint, 506 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
 ## At a glance
 

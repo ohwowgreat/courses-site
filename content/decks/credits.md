@@ -123,6 +123,37 @@ design read whole.
 illustration for shot duration and were checked first. The plates in the library are
 nude studies, so they are out for a school deck regardless of their public-domain status.
 
+### Policy change and new plates, 2026-08-12
+
+Doğan's directive: the technical-element decks teach camera, sound, mise-en-scène
+and editing, and paintings cannot carry those lessons alone; use film stills,
+production photographs and the works the lessons actually reference, sourcing
+beyond the local library where needed. This matches the student site's stance
+(its public-domain rule was lifted 2026-08-08): classroom teaching use is
+cleared, the site is behind a fail-closed password gate, and **nudes stay out
+regardless of status**. Every image below was viewed before use.
+
+| Key | Image | Source | Status | Deck |
+|---|---|---|---|---|
+| `gbh-overhead` | *The Grand Budapest Hotel* (2014), overhead two-shot | film-grab.com | film still, teaching use | L03 (angle) |
+| `goodfellas-copa-1/-2` | *Goodfellas* (1990), Copacabana steadicam shot, two frames | local `Film & TV/Goodfellas/` | film stills, teaching use | L03 (movement, new slide) |
+| `jaws-bts` | *Jaws* (1975), beach set production photograph | local `Film & TV/Jaws/` | production photo, teaching use | L03 (apparatus, new slide) |
+| `jaws-dollyzoom` | *Jaws* (1975), the dolly-zoom frame | local `Film & TV/Jaws/` (480px; a sharper copy is welcome) | film still, teaching use | L03 (apparatus) |
+| `foley-room` | A foley artist at work | Wikimedia Commons, File:Foley Room at the Sound Design Campus.jpg, Vancouver Film School | **CC BY 2.0, credited on-slide** | L04 (sound made visible) |
+| `gbh-concierge` | *The Grand Budapest Hotel* (2014), the concierge desk | film-grab.com | film still, teaching use | L05 (production design) |
+| `adolescence-bts` | *Adolescence* (Netflix, 2025), grips carrying the rig mid-take | local `Film & TV/Adolescence/` | production photo, teaching use | L06 (duration) |
+| `lupin-unit` | *Lupin* Part 3 (Netflix, 2023), unit still 305_02043 | local `Film & TV/Lupin/` | unit still, teaching use | L10 (enigma) |
+| `nationwide-title` | *Nationwide* title sequence, BBC One | local `Film & TV/Nationwide/` | broadcast still, teaching use | L15 (Morley, new slide) |
+
+Retired by this pass (files kept in `_build/img/` for any rollback): Coburn's
+*St. Paul's* (L03), Caravaggio's *Musicians* in L04 (it remains in L18, where the
+rehearsal reading is apt), Bruegel's *Peasant Wedding* (L05), Stieglitz's cloud
+sequence (L06), Friedrich's *Wanderer* (L10). Kept deliberately: Caravaggio's
+*Calling of Saint Matthew* in L05 — the lesson plan itself argues chiaroscuro
+reads better in a painting than a screengrab; Evans's *Sea of Steps* in L03; the
+L09 vanitas diptych, whose point is that genre recognition precedes film
+vocabulary; both Manets in L12.
+
 ## Art Appreciation
 
 Works downloaded for the Art Appreciation decks — the lessons whose art the school's image library did not already hold. Everything else in those decks comes from the library.
@@ -150,7 +181,7 @@ Every plate in the Pre A Level intro decks is public domain and came from the sc
 | Key | Work | Artist, date | Status | Source folder |
 |---|---|---|---|---|
 | `repin-tolstoy` | Lev Nikolaevich Tolstoy at Work | Ilya Repin, 1891 | PD (author d. 1930) | `Ilya Repin (Drawings)/` |
-| `repin-naked-sketch` | Naked, sketch | Ilya Repin, before 1930 | PD | same |
+| `repin-koni` | Portrait of Anatoly Koni | Ilya Repin, 1897 | PD | same |
 | `rubens-sheet-forearm` | Sheet of Anatomical Studies | Peter Paul Rubens, before 1640 | PD (author d. 1640) | `Peter Paul Rubens, 1577-1640 (Drawings)/` |
 | `rubens-head-old-man` | Head of an Old Man, possibly Seneca | Peter Paul Rubens, c. 1620 | PD | same |
 | `atget-rue-mazet` | 10 rue Mazet, Paris | Eugène Atget, 1907 | PD (author d. 1927) | `Photographers/Eugène Atget/` |
@@ -170,3 +201,12 @@ surface, read together, meaning built by adjacency. The slide says as much in it
 
 If you want an actual collage on that slide, the cleanest route is a work made in the room:
 photograph a strong student collage from a previous run and drop it in as `collage-exemplar`.
+
+### Swap, 2026-08-12
+
+Deck 02's drawing slide carried `repin-naked-sketch`, a nude figure study, for its
+first two weeks. The 2026-08-12 all-deck image audit flagged it: nudes are out for
+school decks regardless of public-domain status (the same rule that rejected the
+Muybridge plates above), and this deck is projected to a Grade 10 room and published
+to the student site. Replaced with Repin's pencil portrait of Anatoly Koni (1897),
+which carries the same point on that slide: sustained observational looking.
