@@ -1095,29 +1095,36 @@ const DROP_PAGES = new Set([
   "classes/pre-a-level-art-design/pal-prior-plans.md", // prior-plans catalog: teacher planning reference (added 2026-07-20)
   "classes/art-appreciation/lesson-plans/art-appreciation-legacy-lesson-bank.md", // prior generation
   "classes/art-appreciation/unit-plans/art-appreciation-food-and-ethics-prior-unit.md", // prior generation
-  // Provenance analysis, teacher-facing in its entirety: which theorists are
-  // Cambridge's vs the centre's, what the vault holds no readings for (2026-07-20).
-  "analyses/9607-theory-provenance.md",
-  // The S1 engagement layer's own apparatus (both 2026-08-03): the rollout
-  // record, and the routine rulebook with its print specs and planted-card
-  // teacher keys. What students need of each routine is inline on the lesson
-  // pages; links here degrade to plain text via derefDropped.
-  "analyses/9607-engagement-revision-plan.md",
+  // The S1 engagement layer's routine rulebook (2026-08-03), with its print specs
+  // and planted-card teacher keys. What students need of each routine is inline on
+  // the lesson pages; links here degrade to plain text via derefDropped.
   "classes/media-studies/9607-activity-routines.md",
-  // Planning history preserved from the deleted courses-dashboard.md (2026-07-29):
-  // build waves, congestion risks, resolved decisions — teacher-facing throughout.
-  "analyses/summer-2026-buildout.md",
-  // Productization feasibility (2026-08-09): product strategy, pricing hypotheses,
-  // pilot plans — teacher-facing throughout.
-  "analyses/productization-feasibility.md",
   // The vault's home page is a teacher's dashboard: vault status, the live Bases
   // table, links to the index and dashboard. The site gets site-home.md instead.
   "home.md",
-  // Cooke collaboration map (2026-08-11): where a colleague's Sociology and AP Lang
-  // material could plug into these five courses. Names him, snapshots his external
-  // site, and records rejected fits and unverified hypotheses — staffroom planning,
-  // not student content.
-  "analyses/cooke-collaboration-map.md",
+  // NOTE: analyses/ is no longer listed here one page at a time. That folder is
+  // withheld by default — see PUBLISH_ANALYSES below.
+])
+
+// analyses/ is withheld by default, and this is the allowlist of the exceptions.
+//
+// Inverted 2026-08-12, after the one-by-one design came within one successful run
+// of publishing analyses/cooke-collaboration-map.md — the third near-miss of the
+// same kind, after summer-2026-buildout (2026-07-29) and productization-feasibility
+// (2026-08-09). The folder is where planning thinking goes: provenance arguments,
+// build history, product strategy, notes on colleagues. Exactly one of its six
+// pages has ever been meant for students, so listing the exclusions was the wrong
+// way round — a new page defaulted to published, and only a human noticing stood
+// between it and the site.
+//
+// A page added here should be one written for students, not one that merely looks
+// harmless. Withheld pages still resolve: inbound links degrade to plain text via
+// derefDropped, so withholding never breaks a published page.
+const PUBLISH_ANALYSES = new Set([
+  // The curriculum-drift analysis is genuinely student-facing: it explains why the
+  // Media Studies sequence teaches the four technical elements when it does, and
+  // the Media pages link to it as their "why".
+  "analyses/9607-curriculum-drift.md",
 ])
 
 // Assessment registers ARE published — students get real value from the per-item
@@ -1180,7 +1187,11 @@ const STRIP_SECTIONS = [
 // Matched as a prefix, so "## Gaps this material does *not* fill" is caught by "Gaps".
 // Safe for this list: none of these names begins a student-facing heading.
 
-const isDropped = (rel) => DROP_PAGES.has(rel) || DROP_DIRS.some((d) => rel.includes(d))
+const isDropped = (rel) =>
+  DROP_PAGES.has(rel) ||
+  DROP_DIRS.some((d) => rel.includes(d)) ||
+  // analyses/ is fail-closed: withheld unless explicitly allowlisted.
+  (rel.startsWith("analyses/") && !PUBLISH_ANALYSES.has(rel))
 
 async function walk(dir) {
   const out = []
@@ -1474,6 +1485,20 @@ function cleanFrontmatter(fm, publishedTargets) {
 
 const files = await walk(VAULT)
 const published = files.map((f) => relative(VAULT, f)).filter((rel) => !isDropped(rel))
+
+// The safety valve on the fail-closed analyses/ rule: name what it withheld, so a
+// page written for students that simply was not allowlisted is visible in the log
+// rather than silently absent from the site. Not a ⚠ — withholding is the correct
+// default here, and warnings block the whole publish.
+const heldAnalyses = files
+  .map((f) => relative(VAULT, f))
+  .filter((rel) => rel.startsWith("analyses/") && !PUBLISH_ANALYSES.has(rel) && !DROP_PAGES.has(rel))
+if (heldAnalyses.length) {
+  console.log(
+    `analyses/ withheld by default (${heldAnalyses.length}): ${heldAnalyses.join(", ")}` +
+      ` — add to PUBLISH_ANALYSES in sync.mjs if one is meant for students`,
+  )
+}
 
 // Wikilinks in this vault use full vault-relative paths without the .md suffix.
 const publishedTargets = new Set(published.map((rel) => rel.replace(/\.md$/, "")))

@@ -17,7 +17,8 @@
 // Keychain (see install-autosync.sh for the one-time `security` command).
 
 import { execFileSync, execSync } from "node:child_process"
-import { appendFileSync } from "node:fs"
+import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
 
 process.chdir(import.meta.dirname)
 process.env.PATH = `/opt/homebrew/bin:/usr/local/bin:${process.env.PATH}`
@@ -36,6 +37,102 @@ function notify(title, message) {
   }
 }
 
+// ── Status file ──────────────────────────────────────────────────────────────
+// Every run rewrites one JSON file inside the vault, whatever the outcome, so the
+// vault dashboard can state the truth instead of carrying a hand-kept guess. This
+// exists because home.md asserted "publishing is blocked" for about two weeks after
+// the cause had been fixed: a notification is gone in a second, and a missing change
+// looks identical whether the sync warned, the repo was dirty, or GitHub was down.
+//
+// It is the ONLY thing here that writes back into the vault, and it stays outside
+// wiki/ (which sync.mjs walks, so a file there would become a published page) at a
+// path the vault's .gitignore excludes. Runtime state, not knowledge. A failure to
+// write it must never fail a publish, hence the swallowed catch.
+const VAULT_ROOT = process.env.VAULT_ROOT ?? "/Users/dogan/Documents/Vaults/Courses"
+const STATUS_FILE = join(VAULT_ROOT, "assets", "dashboard", "site-status.json")
+
+const grab = (re, s, i = 1) => {
+  const m = re.exec(s ?? "")
+  return m ? Number(m[i]) : null
+}
+
+// "published" — this run pushed something. "current" — sync verified the site is
+// already up to date. Everything else needs a human, and the dashboard says so.
+const HEALTHY = new Set(["published", "current"])
+
+// The first status file has no history to carry forward, which would report "never
+// published" on a site that has been live for weeks. Recover it from the commits
+// this script itself writes, so the field is right from the first run.
+function lastAutoSyncCommit() {
+  try {
+    const out = execFileSync("git", ["log", "-1", "--format=%cI|%h", "--grep=^Auto-sync "], {
+      encoding: "utf8",
+    }).trim()
+    if (!out) return {}
+    const [at, sha] = out.split("|")
+    return { at, sha }
+  } catch {
+    return {}
+  }
+}
+
+function writeStatus(outcome, detail, output = "") {
+  try {
+    let prev = {}
+    try {
+      prev = JSON.parse(readFileSync(STATUS_FILE, "utf8"))
+    } catch {
+      /* first run, or the file was cleaned away */
+    }
+    const published = outcome === "published"
+    let sha = null
+    try {
+      sha = sh("git rev-parse --short HEAD")
+    } catch {
+      /* not a repo / git unavailable — the rest of the status is still useful */
+    }
+    const status = {
+      ranAt: new Date().toISOString(),
+      outcome,
+      detail,
+      healthy: HEALTHY.has(outcome),
+      warnings: (output.match(/⚠/g) ?? []).length,
+      warningLines: (output.match(/^⚠.*$/gm) ?? []).slice(0, 6),
+      anchorFallbacks: (output.match(/^anchor fallback/gm) ?? []).length,
+      pages: {
+        published: grab(/Published (\d+) of \d+ pages/, output),
+        total: grab(/Published \d+ of (\d+) pages/, output),
+        withheld: grab(/\((\d+) withheld/, output),
+      },
+      decks: {
+        lesson: grab(/Published (\d+) lesson deck/, output),
+        course: grab(/and (\d+) course deck/, output),
+      },
+      // Carried forward on every non-publishing run, so "when did students last
+      // get a change" survives a week of quiet or failed ones; recovered from the
+      // git log when there is no previous file to carry.
+      lastPublishedAt: published
+        ? new Date().toISOString()
+        : (prev.lastPublishedAt ?? lastAutoSyncCommit().at ?? null),
+      lastPublishedSha: published ? sha : (prev.lastPublishedSha ?? lastAutoSyncCommit().sha ?? null),
+      headSha: sha,
+    }
+    mkdirSync(dirname(STATUS_FILE), { recursive: true })
+    writeFileSync(STATUS_FILE, `${JSON.stringify(status, null, 2)}\n`)
+  } catch (err) {
+    console.log(`[status] could not write ${STATUS_FILE}: ${err.message}`)
+  }
+}
+
+// Write the status, then notify, then leave. Every exit path below goes through
+// this, which is the point — a run that dies without recording why is the failure
+// mode this file was added to remove.
+function finish(code, outcome, message, output = "") {
+  writeStatus(outcome, message, output)
+  notify(outcome, message)
+  process.exit(code)
+}
+
 // ── Credentials ──────────────────────────────────────────────────────────────
 if (!process.env.ANTHROPIC_API_KEY) {
   try {
@@ -52,8 +149,7 @@ if (!process.env.ANTHROPIC_API_KEY) {
 // ── Preconditions: clean main, in step with origin ──────────────────────────
 const branch = sh("git rev-parse --abbrev-ref HEAD")
 if (branch !== "main") {
-  notify("skipped", `repo is on '${branch}', not main — not auto-publishing`)
-  process.exit(0)
+  finish(0, "skipped", `repo is on '${branch}', not main — not auto-publishing`)
 }
 
 // content/ and reframe-cache.json are regenerated every run, so leftover
@@ -61,17 +157,15 @@ if (branch !== "main") {
 // dirty means a human is mid-work in the repo — stay out of the way.
 const dirty = sh(`git status --porcelain -- ':!content' ':!reframe-cache.json'`)
 if (dirty) {
-  notify("skipped", "uncommitted changes outside content/ — resolve manually")
   console.log(dirty)
-  process.exit(0)
+  finish(0, "skipped", "uncommitted changes outside content/ — resolve manually")
 }
 
 try {
   sh("git pull --ff-only origin main", { stdio: ["ignore", "pipe", "pipe"] })
 } catch (err) {
-  notify("error", "could not fast-forward main from origin — resolve manually")
   console.log(String(err.stderr || err.message))
-  process.exit(1)
+  finish(1, "error", "could not fast-forward main from origin — resolve manually")
 }
 
 // ── Sync ─────────────────────────────────────────────────────────────────────
@@ -79,21 +173,27 @@ let output
 try {
   output = sh("node sync.mjs 2>&1", { maxBuffer: 64 * 1024 * 1024 })
 } catch (err) {
-  console.log(String(err.stdout || ""))
-  notify(
+  const failed = String(err.stdout || "")
+  console.log(failed)
+  finish(
+    1,
     "sync failed",
     String(err.stdout || err.message)
       .trim()
       .split("\n")
       .at(-1),
+    failed,
   )
-  process.exit(1)
 }
 console.log(output)
 
 if (output.includes("⚠")) {
-  notify("review needed", "sync produced warnings — nothing was published; will retry next run")
-  process.exit(0)
+  finish(
+    0,
+    "review needed",
+    "sync produced warnings — nothing was published; will retry next run",
+    output,
+  )
 }
 
 // ── Publish ──────────────────────────────────────────────────────────────────
@@ -122,10 +222,13 @@ if (sh("git rev-list --count origin/main..HEAD") !== "0") {
     }
   }
   if (!pushed) {
-    notify("error", "push failed after retries — commit is local; will push next run")
-    process.exit(1)
+    finish(1, "error", "push failed after retries — commit is local; will push next run", output)
   }
-  notify("published", summary.split("\n")[0] || "site updated")
+  finish(0, "published", summary.split("\n")[0] || "site updated", output)
 } else {
+  // Not a failure: sync ran clean and the site already matches the vault. Recorded
+  // as its own outcome so the dashboard can distinguish "verified current today"
+  // from "last published three days ago and untested since".
   console.log("No changes — nothing to publish.")
+  writeStatus("current", "sync clean; site already matches the vault", output)
 }
