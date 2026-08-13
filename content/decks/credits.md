@@ -19,7 +19,9 @@ Every plate in the A Level intro and assignment decks is public domain and came 
 | `rubens-head-medusa` | Head of Medusa | Peter Paul Rubens, before 1640 | PD | same |
 | `rubens-head-old-man` | Head of an Old Man, possibly Seneca | Peter Paul Rubens, c. 1620 | PD | same |
 | `repin-tolstoy` | Lev Nikolaevich Tolstoy at Work | Ilya Repin, 1891 | PD (author d. 1930) | `Ilya Repin (Drawings)/` |
-| `repin-naked-sketch` | Naked, sketch | Ilya Repin, before 1930 | PD | same |
+| `repin-kozy` | Portrait of Mitrophan Kozy | Ilya Repin, 1880 | PD | same |
+| `repin-cafe-studies` | Studies for A Parisian Café (seated figures, furniture) | Ilya Repin, 1874 | PD | `Unsorted/` |
+| `repin-magdalena` | Maria Magdalena | Ilya Repin, 1880 | PD | `Ilya Repin (Drawings)/` |
 | `repin-stoking-fire` | Man in a Dressing Gown Stoking a Fire | Ilya Repin, 1909 | PD | same |
 | `bosschaert-bouquet` | Bouquet of flowers in a Chinese vase | Ambrosius Bosschaert the Elder, before 1621 | PD | `Dutch and Flemish Still Life Painting/` |
 | `pissarro-still-life` | Still Life with Apples and Pitcher | Camille Pissarro, 1872 | PD (author d. 1903) | `Camille Pissarro/` |
@@ -40,6 +42,23 @@ in-copyright work stays on clearly-labelled text slides, per the deck rules in `
 The plates are used as **study material, not as a house style**. Two grid slides say so on the
 slide itself, because a G11 room shown four old-master sheets will otherwise conclude that the
 course wants pastiche.
+
+### Swap, 2026-08-13
+
+Three of these decks carried `repin-naked-sketch`, a nude figure study, from build
+day until the 2026-08-12 all-deck image audit flagged it (a fourth copy sat in the
+PAL intro decks). Nudes are out for school decks regardless of public-domain
+status, and these decks publish to the student site. Replacements, each matched to
+its slot's reading:
+
+- **a1, the sustained-study feature** → *Portrait of Mitrophan Kozy* (1880): a
+  worked charcoal portrait, duration visible in it.
+- **intro-02, the "Exploring" cell** → *Studies for A Parisian Café* (1874): a
+  test sheet, figure and furniture variations on one page.
+- **a3, the "Alternative" cell** → *Maria Magdalena* (1880): a resolved
+  composition study, set aside but built properly.
+
+All three viewed before use; every rebuilt deck passes verify.py.
 
 ## Media Studies
 
@@ -182,6 +201,7 @@ Every plate in the Pre A Level intro decks is public domain and came from the sc
 |---|---|---|---|---|
 | `repin-tolstoy` | Lev Nikolaevich Tolstoy at Work | Ilya Repin, 1891 | PD (author d. 1930) | `Ilya Repin (Drawings)/` |
 | `repin-koni` | Portrait of Anatoly Koni | Ilya Repin, 1897 | PD | same |
+| `repin-murashko` | Portrait of Nikolai Murashko | Ilya Repin, 1866 | PD | same |
 | `rubens-sheet-forearm` | Sheet of Anatomical Studies | Peter Paul Rubens, before 1640 | PD (author d. 1640) | `Peter Paul Rubens, 1577-1640 (Drawings)/` |
 | `rubens-head-old-man` | Head of an Old Man, possibly Seneca | Peter Paul Rubens, c. 1620 | PD | same |
 | `atget-rue-mazet` | 10 rue Mazet, Paris | Eugène Atget, 1907 | PD (author d. 1927) | `Photographers/Eugène Atget/` |
@@ -210,3 +230,7 @@ school decks regardless of public-domain status (the same rule that rejected the
 Muybridge plates above), and this deck is projected to a Grade 10 room and published
 to the student site. Replaced with Repin's pencil portrait of Anatoly Koni (1897),
 which carries the same point on that slide: sustained observational looking.
+
+Deck 01's four-units grid carried the same nude in its "Drawing" cell; caught in
+the same audit's closing sweep (2026-08-13) and replaced with Repin's *Portrait of
+Nikolai Murashko*, a pencil portrait. Both decks rebuilt, verify.py PASS.
