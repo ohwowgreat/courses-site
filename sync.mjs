@@ -1099,8 +1099,11 @@ const DROP_PAGES = new Set([
   // and planted-card teacher keys. What students need of each routine is inline on
   // the lesson pages; links here degrade to plain text via derefDropped.
   "classes/media-studies/9607-activity-routines.md",
-  // The vault's home page is a teacher's dashboard: vault status, the live Bases
-  // table, links to the index and dashboard. The site gets site-home.md instead.
+  // Tombstone. The vault's home page is a teacher's dashboard (vault status, the
+  // live Bases table, the marking queue) and the site gets site-home.md instead.
+  // Since 2026-08-13 home.md sits at the vault ROOT, outside the wiki/ tree that
+  // walk() covers, so this entry no longer matches anything and the page cannot
+  // publish by any route. Kept as cheap insurance if it ever moves back in.
   "home.md",
   // NOTE: analyses/ is no longer listed here one page at a time. That folder is
   // withheld by default — see PUBLISH_ANALYSES below.
