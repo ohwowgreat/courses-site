@@ -5,6 +5,12 @@ tags: [calendar]
 
 # Pre A Level Art & Design — Calendar
 
+## The next two weeks
+
+<div class="fortnight"><section class="fortnight__week"><p class="fortnight__label">This week <span>10 Aug to 16 Aug</span></p><p class="fortnight__none">Nothing scheduled.</p></section><section class="fortnight__week"><p class="fortnight__label">Next week <span>17 Aug to 23 Aug</span></p><p class="fortnight__none">Nothing scheduled.</p></section></div><p class="fortnight__ahead">Next up: <strong>First teaching day</strong> on Tue 1 Sep.</p>
+
+## Month view
+
 Semester 1, September 2026 – January 2027. Solid chips are the graded attainments; outlined chips are class tasks and homework; **LB** marks participation postings. The bar above each week is the unit running through those dates, with each lesson labelled where it begins. Holidays and the exam window are shaded. Everything on the grid is a link — chips open the assessment register, lesson labels the lesson plan, unit bars the unit plan.
 
 <div class="calwrap cal--pal"><div class="cal-legend"><span class="cal-key cal-key--att">A1–A4 / EoT</span><span class="cal-key cal-key--cs">class task / homework</span><span class="cal-key cal-key--lb">LB</span><span class="cal-key cal-key--unit">unit</span><span class="cal-key cal-key--holiday">holiday</span><span class="cal-key cal-key--exam">exam window</span></div>

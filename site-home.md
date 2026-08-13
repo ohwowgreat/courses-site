@@ -70,6 +70,10 @@ what's due.</p>
   </li>
 </ul>
 
+## The next two weeks
+
+<!--fortnight-->
+
 ## Key dates
 
 [[calendar|The Semester 1 calendar]] runs September 2026 to January 2027 — every

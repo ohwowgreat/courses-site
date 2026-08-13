@@ -79,6 +79,10 @@ what's due.</p>
   </li>
 </ul>
 
+## The next two weeks
+
+<div class="fortnight"><section class="fortnight__week"><p class="fortnight__label">This week <span>10 Aug to 16 Aug</span></p><p class="fortnight__none">Nothing scheduled.</p></section><section class="fortnight__week"><p class="fortnight__label">Next week <span>17 Aug to 23 Aug</span></p><p class="fortnight__none">Nothing scheduled.</p></section></div><p class="fortnight__ahead">Next up: <strong>First teaching day</strong> on Tue 1 Sep.</p>
+
 ## Key dates
 
 [[calendar|The Semester 1 calendar]] runs September 2026 to January 2027 — every

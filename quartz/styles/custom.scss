@@ -1407,3 +1407,123 @@ details.reveal {
     margin-bottom: 0.35rem;
   }
 }
+
+// ── The next two weeks ───────────────────────────────────────────────────────
+// A companion to the month grid, answering the one question students arrive
+// with: what is due soon. Deliberately a list and not a grid — the audience is
+// on a phone, where seven columns of mostly-empty cells is the wrong shape.
+// Hues come from the calendar palette above, so a chip here and a chip on the
+// grid mean the same course.
+.fortnight {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem 2rem;
+  margin: 1.2rem 0 2rem;
+
+  // One column well before the sidebar breakpoint: two 4-word columns is worse
+  // than one readable one.
+  @media (max-width: 720px) {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.4rem;
+  }
+}
+
+.fortnight__label {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.6rem;
+  margin: 0 0 0.5rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--lightgray);
+  font-family: var(--headerFont);
+  font-size: 0.95rem;
+  font-weight: 600;
+
+  span {
+    font-family: var(--bodyFont);
+    font-size: 0.75rem;
+    font-weight: 400;
+    color: var(--gray);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+}
+
+.fortnight__days {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.fortnight__day {
+  display: flex;
+  gap: 0.75rem;
+  padding: 0.35rem 0;
+
+  & + & {
+    border-top: 1px solid var(--lightgray);
+  }
+}
+
+// Fixed basis so the dates form a column and the events align, tabular figures
+// so 9 and 30 occupy the same width.
+.fortnight__date {
+  flex: 0 0 3.6rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--secondary);
+  font-variant-numeric: tabular-nums;
+  padding-top: 0.15rem;
+}
+
+.fortnight__evs {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  min-width: 0;
+}
+
+// The hue arrives inline as --c from fortnight(); school items carry none and
+// fall back to the body rule, which is what an anchor or a holiday should read as.
+.fortnight__ev {
+  display: block;
+  border-left: 3px solid var(--c, var(--lightgray));
+  border-radius: 0 3px 3px 0;
+  padding: 0.15rem 0.45rem;
+  font-size: 0.85rem;
+  line-height: 1.35;
+  color: var(--darkgray);
+  background: var(--light);
+  transition:
+    background 0.12s ease,
+    color 0.12s ease;
+
+  b {
+    font-weight: 600;
+    color: var(--c, var(--secondary));
+  }
+
+  &:hover {
+    background: var(--lightgray);
+    color: var(--dark);
+  }
+}
+
+.fortnight__none {
+  margin: 0.2rem 0 0;
+  font-size: 0.85rem;
+  color: var(--gray);
+}
+
+// Shown only when the whole fortnight is empty, so the holidays read as
+// "term restarts on X" rather than as two columns of nothing.
+.fortnight__ahead {
+  margin: -0.8rem 0 2rem;
+  font-size: 0.85rem;
+  color: var(--darkgray);
+
+  strong {
+    font-weight: 600;
+  }
+}

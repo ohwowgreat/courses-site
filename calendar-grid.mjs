@@ -447,13 +447,214 @@ export function calendarBlock(events, mode, detail = null) {
 }
 
 const WEEKDAY = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
+const MONTH_SHORT = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 const dayName = (iso) => WEEKDAY[new Date(iso + "T00:00:00Z").getUTCDay()]
 
+// ── The next two weeks ───────────────────────────────────────────────────────
+// A compact companion to the month grid, for the question students actually
+// arrive with: what is due soon. A list, not a grid, because the audience is on
+// a phone and seven columns of mostly-empty cells is the wrong shape for one.
+//
+// **Week-aligned on purpose.** It renders the whole of the current Monday-to-Sunday
+// week plus the next one, and marks no "today". That keeps the output identical for
+// seven days at a stretch, so this block does not make content/ change every
+// morning and turn the cowardly daily publisher into a daily committer. It also
+// stays correct all week rather than only on the day it was built. The cost is that
+// a day already past still shows; its date is right there, and the passed item is
+// useful context anyway.
+//
+// Each event lands on ONE day, the one a student cares about: the due date for a
+// task that spans "set → due", the start otherwise. Spans like a holiday week
+// therefore appear once, with their own label carrying the range.
+const HUE = {
+  "a-level": "--c-a-level",
+  media: "--c-media",
+  "art-app": "--c-art-app",
+  pal: "--c-pal",
+  oxbridge: "--c-oxbridge",
+}
+
+const hueVar = (ev) =>
+  HUE[ev.course] ?? (ev.kind === "holiday" ? "--c-holiday" : ev.kind === "exam" ? "--c-exam" : null)
+
+// Monday of the week containing `iso`, as an ISO date.
+function mondayOf(iso) {
+  const d = new Date(iso + "T00:00:00Z")
+  d.setUTCDate(d.getUTCDate() - ((d.getUTCDay() + 6) % 7))
+  return d.toISOString().slice(0, 10)
+}
+
+const shortDate = (iso) => {
+  const d = new Date(iso + "T00:00:00Z")
+  return `${d.getUTCDate()} ${MONTH_SHORT[d.getUTCMonth()]}`
+}
+
+// The chip's words. Three sources, in order of how student-facing they are:
+//
+// 1. `ev.desc`, when a register or lesson plan supplied it. Already written for
+//    students, so it is used as-is.
+// 2. The label's leading **bold** segment. The agenda's convention is
+//    "**Headline** — prose clarifying it for whoever reads the table", and that
+//    prose is written for a colleague: the Oxbridge deadline row explains it is
+//    "a G12 application anchor, *not* a milestone in the Discussion Group", which
+//    is exactly the sort of aside a student should never be shown.
+// 3. The whole label, cleaned, when there is no bold head — some rows are simply
+//    "Parent meeting — G11 (eve)", where the tail after the dash is the content
+//    and cutting at the dash would throw away the half that matters.
+function fortnightLabel(ev, withCourse) {
+  const code = ev.code ?? ev.label?.match(/\b(A[1-4]|EoT|CS\d+|HW\d+|LB\d+)\b/)?.[1]
+  const strip = (t) =>
+    t
+      .replace(/\[\[[^\]|]*\\?\|([^\]]*)\]\]/g, "$1") // [[path|alias]] keeps the alias
+      .replace(/\[\[([^\]]*)\]\]/g, "$1")
+      .replace(/\*+/g, "")
+      .trim()
+
+  // Descriptions and headlines both tend to elaborate after a dash or a colon
+  // ("Unit 2 comparative essay — one claim about Titian vs Manet"). A chip is a
+  // label, not the brief: cut at the separator so it reads whole, rather than
+  // truncating mid-clause into an ellipsis. The full text is one click away on the
+  // register. This also keeps em dashes out of generated prose, per house style.
+  // Cut at a dash or colon always, since what follows those is elaboration. Fall
+  // back to the first comma only when the result would still be ellipsized, which
+  // is what turns "Technical lexicon quiz, 30 items in 20 min, across all four"
+  // into a label instead of a sentence with its end bitten off.
+  const room = code ? 52 : 62
+  const head = (t) => {
+    let x = t.split(/\s+—\s+|:\s+/)[0].trim()
+    if (x.length > room) {
+      const c = x.split(/,\s+/)[0].trim()
+      if (c.length >= 12) x = c
+    }
+    return x
+  }
+
+  let text
+  if (ev.desc) text = head(strip(ev.desc))
+  else {
+    const raw = ev.label ?? ""
+    const bold = raw.match(/^\s*\*\*(.+?)\*\*/)?.[1]
+    text = head(strip(bold ?? raw))
+  }
+  // The label often repeats the code it was mined from; do not print it twice.
+  if (code) text = text.replace(new RegExp(`^${code}\\b[\\s:·-]*`), "").trim()
+
+  const prefix = withCourse && COURSE_KEYS[ev.course] ? `${COURSE_KEYS[ev.course]} ` : ""
+  return (
+    prefix +
+    (code ? `<b>${code}</b>` : "") +
+    (code && text ? " " : "") +
+    (text ? trunc(text, room) : "")
+  ).trim()
+}
+
+/**
+ * `mode` is null for the combined view or a COURSES key for one course's own.
+ * `depth` is how far the host page sits below content/ root, so hrefs resolve
+ * (0 for index.md, 2 for classes/<course>/course-calendar.md).
+ */
+export function fortnight(events, mode, todayISO, depth = 0, ownHref = null) {
+  const up = "../".repeat(depth)
+  const scoped = mode ? eventsForCourse(events, mode) : eventsCombined(events)
+
+  // Lessons are excluded. This view answers "what do I have to do", and a lesson
+  // title is neither a deadline nor a disruption; the month grid already labels
+  // each lesson where it begins, and mixing the two buries the items that carry a
+  // date the student has to act on. Drop the filter to include them.
+  const dated = scoped.filter((ev) => ev.kind !== "lesson")
+
+  // One operative day per event.
+  const byDay = new Map()
+  for (const ev of dated) {
+    const day = ev.kind === "cs" || ev.kind === "lb" ? (ev.end ?? ev.start) : ev.start
+    if (!byDay.has(day)) byDay.set(day, [])
+    byDay.get(day).push(ev)
+  }
+  for (const list of byDay.values()) list.sort((a, b) => (WEIGHT[a.kind] ?? 1) - (WEIGHT[b.kind] ?? 1))
+
+  const start = mondayOf(todayISO)
+  const weeks = []
+  for (let w = 0; w < 2; w++) {
+    const days = []
+    for (let i = 0; i < 7; i++) {
+      const d = new Date(start + "T00:00:00Z")
+      d.setUTCDate(d.getUTCDate() + w * 7 + i)
+      const iso = d.toISOString().slice(0, 10)
+      const evs = byDay.get(iso) ?? []
+      if (evs.length) days.push({ iso, evs })
+    }
+    const first = new Date(start + "T00:00:00Z")
+    first.setUTCDate(first.getUTCDate() + w * 7)
+    const last = new Date(first)
+    last.setUTCDate(last.getUTCDate() + 6)
+    weeks.push({
+      title: w === 0 ? "This week" : "Next week",
+      range: `${shortDate(first.toISOString().slice(0, 10))} to ${shortDate(last.toISOString().slice(0, 10))}`,
+      days,
+    })
+  }
+
+  const weekHtml = (wk) => {
+    const body = wk.days.length
+      ? `<ul class="fortnight__days">${wk.days
+          .map(
+            (d) =>
+              `<li class="fortnight__day"><span class="fortnight__date">${dayName(d.iso)} ${new Date(d.iso + "T00:00:00Z").getUTCDate()}</span>` +
+              `<span class="fortnight__evs">${d.evs
+                .map((ev) => {
+                  const hue = hueVar(ev)
+                  const style = hue ? ` style="--c: var(${hue})"` : ""
+                  // On a course's own page, a chip linking to that page is a
+                  // no-op: send it to the register the item was parsed from, the
+                  // same target the list further down the page uses. On the
+                  // combined view, send it to the course's calendar instead.
+                  const href = !(ev.course && COURSES[ev.course])
+                    ? `${up}calendar`
+                    : mode && ownHref
+                      ? `${up}${ownHref}`
+                      : `${up}${COURSES[ev.course].dir}/course-calendar`
+                  return `<a class="fortnight__ev" href="${href}"${style}>${fortnightLabel(ev, !mode)}</a>`
+                })
+                .join("")}</span></li>`,
+          )
+          .join("")}</ul>`
+      : `<p class="fortnight__none">Nothing scheduled.</p>`
+    return `<section class="fortnight__week"><p class="fortnight__label">${wk.title} <span>${wk.range}</span></p>${body}</section>`
+  }
+
+  // Both weeks empty is normal in the holidays, and "Nothing scheduled" twice tells
+  // a student nothing. Name the next dated thing beyond the window instead.
+  let note = ""
+  if (!weeks.some((w) => w.days.length)) {
+    const endOfWindow = new Date(start + "T00:00:00Z")
+    endOfWindow.setUTCDate(endOfWindow.getUTCDate() + 13)
+    const endISO = endOfWindow.toISOString().slice(0, 10)
+    const next = dated
+      .filter((ev) => (ev.start ?? "") > endISO)
+      .sort((a, b) => a.start.localeCompare(b.start))[0]
+    if (next)
+      note =
+        `<p class="fortnight__ahead">Next up: <strong>${fortnightLabel(next, !mode)}</strong>` +
+        ` on ${dayName(next.start)} ${shortDate(next.start)}.</p>`
+  }
+
+  return `<div class="fortnight">${weeks.map(weekHtml).join("")}</div>${note}`
+}
+
 // A generated per-course calendar page (site-only — links use Quartz wikilinks).
-export function coursePage(key, events, detail) {
+export function coursePage(key, events, detail, todayISO) {
   const c = COURSES[key]
   const own = events.filter((ev) => ev.course === key && !isContext(ev))
   const all = detail ? mergeCourseEvents(own, detail.events) : own
+
+  // The fortnight's own set. Detail events come from the registers and lesson
+  // plans, which do not carry a `course` key, so they are stamped with this one:
+  // without it fortnight()'s course filter silently dropped every graded item and
+  // a Media student's page showed a G12 school anchor but not their own A1.
+  const forFortnight = [
+    ...all.map((ev) => ({ ...ev, course: ev.course ?? key })),
+    ...events.filter(isContext),
+  ]
 
   // The code links to the page the item was parsed from — the register for graded
   // items, so the list below the grid clicks through the same way the chips do.
@@ -484,6 +685,7 @@ tags: [calendar]
 
 # ${c.name} — Calendar
 
+${todayISO ? `## The next two weeks\n\n${fortnight(forFortnight, key, todayISO, 2, href)}\n\n## Month view\n` : ""}
 Semester 1, September 2026 – January 2027. Solid chips are the graded attainments; outlined chips are class tasks and homework; **LB** marks participation postings. The bar above each week is the unit running through those dates, with each lesson labelled where it begins. Holidays and the exam window are shaded. Everything on the grid is a link — chips open the assessment register, lesson labels the lesson plan, unit bars the unit plan.
 
 ${calendarBlock(events, key, detail)}
