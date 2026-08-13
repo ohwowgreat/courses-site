@@ -148,9 +148,13 @@ const HEROES = {
   "classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-signs-and-codes.md":
     "skull-cigarette",
   "classes/media-studies/lesson-plans/9607-s1-lesson-03-camera.md": "the-tugboat",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-04-sound.md": "musicians",
+  // The deck swapped Caravaggio for a foley stage on 2026-08-12; the page follows.
+  // Musicians stays the hero on L18 and unit 6, where the reading is rehearsal.
+  "classes/media-studies/lesson-plans/9607-s1-lesson-04-sound.md": "foley-room",
   "classes/media-studies/lesson-plans/9607-s1-lesson-05-mise-en-scene.md": "vandeelen-interior",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-06-editing.md": "cloud-sequence",
+  // Was Stieglitz's cloud sequence. The deck teaches duration with the one-take
+  // production photograph instead, and the plate already exists for L03.
+  "classes/media-studies/lesson-plans/9607-s1-lesson-06-editing.md": "adolescence-one-take",
   "classes/media-studies/lesson-plans/9607-s1-lesson-09-genre.md": "at-the-telephone",
   "classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock.md":
     "banqueting-sketch",
@@ -706,9 +710,19 @@ const FIGURES = {
       anchor: /tap to lock, not auto|expose for the face/i,
     },
     {
-      // A viewpoint nobody can stand in, against the angle bullet.
-      slugs: ["st-pauls-spires"],
+      // A viewpoint nobody can stand in, against the angle bullet. Was Coburn's
+      // St Paul's rooftop; the deck makes the same argument with a film frame, so
+      // the page does too. Anchor unchanged, so placement cannot drift.
+      slugs: ["gbh-overhead"],
       anchor: /the frame is tilted, which reads as unease or disorder/,
+    },
+    {
+      // The apparatus behind a camera move, against the line where the published
+      // text names this very example. Only the production photograph: the
+      // dolly-zoom frame itself exists at 480px, and sips -Z upscales, so it
+      // would ship to students visibly soft. Deck-only until a sharper copy turns up.
+      slugs: ["jaws-bts"],
+      anchor: /\*Jaws\* reverse zoom/i,
     },
     {
       // A photograph made about composition, against the composition bullet.
@@ -738,8 +752,11 @@ const FIGURES = {
       anchor: /softens shadows/i,
     },
     {
-      // Production design read whole, against the four-locations activity.
-      slugs: ["peasant-wedding"],
+      // Production design read whole, against the four-locations activity. Was
+      // Bruegel's Peasant Wedding, which the deck replaced with a built film set:
+      // the point is that nothing in the frame arrived by accident, and a set makes
+      // that harder to argue with. Bruegel keeps its Propp reading on L10.
+      slugs: ["gbh-concierge"],
       anchor: /a country manor/i,
     },
   ],

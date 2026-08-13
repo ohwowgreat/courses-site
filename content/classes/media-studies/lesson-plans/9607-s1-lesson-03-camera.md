@@ -73,8 +73,8 @@ The syllabus adds "and variations of these".
 - **Canted angle** (**Dutch tilt**): the frame is tilted, which reads as unease or disorder.
 
 <figure class="plate">
-  <img src="../../../static/img/st-pauls-spires.jpg" alt="Alvin Langdon Coburn, St. Paul's and Other Spires, c. 1909" loading="lazy" />
-  <figcaption>Alvin Langdon Coburn, <em>St. Paul's and Other Spires</em>, c. 1909</figcaption>
+  <img src="../../../static/img/gbh-overhead.jpg" alt="The Grand Budapest Hotel (2014). Directly overhead: a position no one in the scene could stand in" loading="lazy" />
+  <figcaption><em>The Grand Budapest Hotel</em> (2014). Directly overhead: a position no one in the scene could stand in</figcaption>
 </figure>
 
 
@@ -107,6 +107,12 @@ Name movement as verbs: the camera creeps toward, refuses to follow, or looks up
 - **Zoom** and **reverse zoom**: the lens moves in or pulls back without the camera moving.
 
 Two worked examples: the *Goodfellas* tracking shot and the *Jaws* reverse zoom.
+
+
+<figure class="plate">
+  <img src="../../../static/img/jaws-bts.jpg" alt="Jaws (1975), on location. Track laid on sand and lights rigged at noon: what one camera move costs to make" loading="lazy" />
+  <figcaption><em>Jaws</em> (1975), on location. Track laid on sand and lights rigged at noon: what one camera move costs to make</figcaption>
+</figure>
 
 ### Composition
 

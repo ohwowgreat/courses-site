@@ -13,8 +13,8 @@ related:
 modified: 2026-08-09
 ---
 <figure class="plate plate--hero">
-  <img src="../../../static/img/cloud-sequence.jpg" alt="Alfred Stieglitz, Music: A Sequence of Ten Cloud Photographs, No. 1, 1922" loading="lazy" />
-  <figcaption>Alfred Stieglitz, <em>Music: A Sequence of Ten Cloud Photographs, No. 1</em>, 1922</figcaption>
+  <img src="../../../static/img/adolescence-one-take.jpg" alt="Adolescence (2025). The camera is carried, not cut: the rig crossing a street scene" loading="lazy" />
+  <figcaption><em>Adolescence</em> (2025). The camera is carried, not cut: the rig crossing a street scene</figcaption>
 </figure>
 
 # Lesson 06: Editing

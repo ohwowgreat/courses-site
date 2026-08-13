@@ -62,8 +62,8 @@ Production design alone can imply genre and character before a person appears. A
 
 
 <figure class="plate">
-  <img src="../../../static/img/peasant-wedding.jpg" alt="Pieter Bruegel the Elder, The Peasant Wedding, 1567 — every figure a function: bride, piper, steward, pourer" loading="lazy" />
-  <figcaption>Pieter Bruegel the Elder, <em>The Peasant Wedding</em>, 1567 — every figure a function: bride, piper, steward, pourer</figcaption>
+  <img src="../../../static/img/gbh-concierge.jpg" alt="The Grand Budapest Hotel (2014). Every object placed and every colour chosen: production design read whole" loading="lazy" />
+  <figcaption><em>The Grand Budapest Hotel</em> (2014). Every object placed and every colour chosen: production design read whole</figcaption>
 </figure>
 
 ### Lighting

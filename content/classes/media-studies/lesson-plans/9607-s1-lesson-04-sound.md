@@ -12,8 +12,8 @@ related:
 modified: 2026-08-09
 ---
 <figure class="plate plate--hero">
-  <img src="../../../static/img/musicians.jpg" alt="Caravaggio, The Musicians, 1595 — rehearsal, mid-note" loading="lazy" />
-  <figcaption>Caravaggio, <em>The Musicians</em>, 1595 — rehearsal, mid-note</figcaption>
+  <img src="../../../static/img/foley-room.jpg" alt="A foley room at work. Vancouver Film School, CC BY 2.0. Almost nothing you hear was recorded on set" loading="lazy" />
+  <figcaption>A foley room at work. Vancouver Film School, CC BY 2.0. Almost nothing you hear was recorded on set</figcaption>
 </figure>
 
 # Lesson 04: Sound

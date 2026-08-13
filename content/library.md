@@ -4,7 +4,7 @@ title: Image library
 
 # Image library
 
-Every image used across these courses, gathered in one place — 327 public-domain works from the shared teaching collection, each captioned with artist, title and date. In-copyright works studied in class are named in the lessons rather than shown here.
+Every image used across these courses, gathered in one place — 331 public-domain works from the shared teaching collection, each captioned with artist, title and date. In-copyright works studied in class are named in the lessons rather than shown here.
 
 <div class="gallery">
   <figure class="plate">
@@ -414,6 +414,22 @@ Every image used across these courses, gathered in one place — 327 public-doma
   <figure class="plate">
     <img src="static/img/goodfellas-copacabana-3.jpg" alt="Goodfellas (1990). One continuous move, ending at the table" loading="lazy" />
     <figcaption><em>Goodfellas</em> (1990). One continuous move, ending at the table</figcaption>
+  </figure>
+  <figure class="plate">
+    <img src="static/img/foley-room.jpg" alt="A foley room at work. Vancouver Film School, CC BY 2.0. Almost nothing you hear was recorded on set" loading="lazy" />
+    <figcaption>A foley room at work. Vancouver Film School, CC BY 2.0. Almost nothing you hear was recorded on set</figcaption>
+  </figure>
+  <figure class="plate">
+    <img src="static/img/gbh-overhead.jpg" alt="The Grand Budapest Hotel (2014). Directly overhead: a position no one in the scene could stand in" loading="lazy" />
+    <figcaption><em>The Grand Budapest Hotel</em> (2014). Directly overhead: a position no one in the scene could stand in</figcaption>
+  </figure>
+  <figure class="plate">
+    <img src="static/img/gbh-concierge.jpg" alt="The Grand Budapest Hotel (2014). Every object placed and every colour chosen: production design read whole" loading="lazy" />
+    <figcaption><em>The Grand Budapest Hotel</em> (2014). Every object placed and every colour chosen: production design read whole</figcaption>
+  </figure>
+  <figure class="plate">
+    <img src="static/img/jaws-bts.jpg" alt="Jaws (1975), on location. Track laid on sand and lights rigged at noon: what one camera move costs to make" loading="lazy" />
+    <figcaption><em>Jaws</em> (1975), on location. Track laid on sand and lights rigged at noon: what one camera move costs to make</figcaption>
   </figure>
   <figure class="plate">
     <img src="static/img/adolescence-one-take.jpg" alt="Adolescence (2025). The camera is carried, not cut: the rig crossing a street scene" loading="lazy" />

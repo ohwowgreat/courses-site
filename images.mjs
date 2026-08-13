@@ -19,10 +19,14 @@
 // public-domain neighbour for it.
 //
 // Two source roots. `file` resolves against the shared Image Slides library by
-// default. `root: "sourced"` resolves against ./sourced, which holds public-domain
-// works fetched from Wikimedia Commons because the library lacks them (Titian's
-// Venus of Urbino, Manet's Olympia, and the rest of the Berger set). Anything in
-// ./sourced is public domain and safe to keep in the repo.
+// default. `root: "sourced"` resolves against ./sourced, which holds works the
+// library lacks: the public-domain paintings fetched from Wikimedia Commons
+// (Titian's Venus of Urbino, Manet's Olympia, and the rest of the Berger set),
+// and from 2026-08-13 three images that are not public domain and are used under
+// the teaching-use standing above — two Grand Budapest Hotel frames, and one
+// CC BY 2.0 photograph whose attribution rides on its credit line. So ./sourced is
+// no longer "all public domain"; check a plate's credit before reusing it anywhere
+// the teaching-use standing does not apply.
 
 import { execFile } from "node:child_process"
 import { mkdir, writeFile, access } from "node:fs/promises"
@@ -611,6 +615,40 @@ const PLATES = [
     slug: "goodfellas-copacabana-3",
     file: "Film & TV/Goodfellas/goodfellas1.jpg.webp",
     credit: "*Goodfellas* (1990). One continuous move, ending at the table",
+  },
+  // Added 2026-08-13, bringing the lesson pages into line with the decks, which
+  // moved to film imagery on 2026-08-12. The three sourced files came with the deck
+  // build: the Jaws production photograph is in the library already.
+  {
+    slug: "foley-room",
+    root: "sourced",
+    // The sourced file is already cropped to a hero-shaped band on the artist's head
+    // and headphones. The full 3000x4500 frame runs head to floor, and heroFigure
+    // takes a wide strip from the vertical centre, which landed on his jeans.
+    file: "foley-room.jpg",
+    // CC BY 2.0: the attribution is not optional, so it lives in the credit itself.
+    credit:
+      "A foley room at work. Vancouver Film School, CC BY 2.0. Almost nothing you hear was recorded on set",
+  },
+  {
+    slug: "gbh-overhead",
+    root: "sourced",
+    file: "gbh-overhead.jpg",
+    credit:
+      "*The Grand Budapest Hotel* (2014). Directly overhead: a position no one in the scene could stand in",
+  },
+  {
+    slug: "gbh-concierge",
+    root: "sourced",
+    file: "gbh-concierge.jpg",
+    credit:
+      "*The Grand Budapest Hotel* (2014). Every object placed and every colour chosen: production design read whole",
+  },
+  {
+    slug: "jaws-bts",
+    file: "Film & TV/Jaws/dolly behind the scenes.avif",
+    credit:
+      "*Jaws* (1975), on location. Track laid on sand and lights rigged at noon: what one camera move costs to make",
   },
   {
     slug: "adolescence-one-take",
