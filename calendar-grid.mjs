@@ -354,7 +354,25 @@ export function renderCalendar(events, units = []) {
 
 // School holidays, the exam window and the major term anchors are context on every
 // calendar; assessments belong to their course.
-const isContext = (ev) => ev.kind === "holiday" || ev.kind === "exam" || ev.kind === "anchor"
+// School-wide items that belong on every calendar, whoever's it is.
+//
+// `school-event` joined this set on 2026-08-13 (Doğan: "add the ⚠ school events
+// too"). Note that the ⚠ in the vault's own event notes does NOT survive into the
+// agenda table this parses: make-up days carry "⚠️ School" in the scope column, but
+// Foreign Culture Day is plain "School", so a rule keyed on the marker would have
+// missed the clearest example of the thing being asked for. The whole class is
+// admitted instead — 17 rows across Semester 1: assemblies, introduction days,
+// parent evenings, make-up days, the field trip, three Foreign Culture Days,
+// Seniors' Days, application deadlines and the end-of-semester activity. Every one
+// of them changes a student's day, which is the test.
+//
+// They render as quiet text via .cal-ev--school, the same weight as a holiday name
+// or a term anchor, so admitting them does not shout over the graded chips.
+const isContext = (ev) =>
+  ev.kind === "holiday" ||
+  ev.kind === "exam" ||
+  ev.kind === "anchor" ||
+  ev.kind === "school-event"
 
 export function eventsForCourse(all, key) {
   return all.filter((ev) => ev.course === key || isContext(ev))
@@ -515,13 +533,18 @@ function fortnightLabel(ev, withCourse) {
   // label, not the brief: cut at the separator so it reads whole, rather than
   // truncating mid-clause into an ellipsis. The full text is one click away on the
   // register. This also keeps em dashes out of generated prose, per house style.
-  // Cut at a dash or colon always, since what follows those is elaboration. Fall
+  // Cut at a dash, colon or opening parenthesis, since what follows is elaboration
+  // and often planning language: the field-trip row ends "(date ambiguous)" and a
+  // make-up day "(timetable TBC)", neither of which is a student's business.
+  // chipHtml cuts on the same characters for the month grid, so both views agree.
+  // The cost is a genuinely useful "(eve)" on the parent-meeting rows; the grid has
+  // always dropped it too, and the calendar page spells those out in full. Fall
   // back to the first comma only when the result would still be ellipsized, which
   // is what turns "Technical lexicon quiz, 30 items in 20 min, across all four"
   // into a label instead of a sentence with its end bitten off.
   const room = code ? 52 : 62
   const head = (t) => {
-    let x = t.split(/\s+—\s+|:\s+/)[0].trim()
+    let x = t.split(/\s+—\s+|:\s+|\s*\(/)[0].trim()
     if (x.length > room) {
       const c = x.split(/,\s+/)[0].trim()
       if (c.length >= 12) x = c
