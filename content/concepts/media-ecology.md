@@ -9,19 +9,19 @@ related:
   - "[[entities/neil-postman]]"
   - "[[classes/media-studies/unit-plans/9607-course-map]]"
   - "[[classes/media-studies/9607-resource-library]]"
-modified: 2026-08-03
+modified: 2026-08-13
 ---
 # Media Ecology
 
-Media Ecology is a compulsory A Level topic in Component 4. It is the only Component 4 topic with no choice attached. It is examined in Component 4 Section B as one 30-mark synoptic question, worth half the paper.
+Media Ecology is compulsory A Level content. It is the only Component 4 topic with no choice attached (Syllabus 2027 pp.9, 19). It is examined as Component 4 Section B: one 30-mark synoptic question, half the paper.
 
-The 2028–30 syllabus, which is the one you sit, renames it **Changing media environments**. The content transfers. The name and the exam format do not. See [[classes/media-studies/media-studies|Media Studies]].
+The topic is renamed **Changing media environments** in the 2028–30 syllabus, which is the specification G12 sits. The content transfers. The name and the exam format do not. See [[classes/media-studies/media-studies|Media Studies]].
 
 ## The syllabus definition (p.19)
 
 > "Media ecology refers to the complex environments within which media texts, producers, distributors, technologies and audiences exist. It is a way of conceiving the structure of these environments, their content, and impact on people."
 
-## Possible areas of focus (p.19)
+## Possible areas of focus (Syllabus 2027 p.19)
 
 - audience engagement with evolving media environments
 - convergence of personal communication technology and mass communication technology
@@ -33,57 +33,58 @@ The 2028–30 syllabus, which is the one you sit, renames it **Changing media en
 - the impact of developing technologies on media language
 - changing modes of reception and their impact on audiences
 
-This is the only syllabus topic phrased as "possible areas of focus for candidates" rather than "candidates should study." The syllabus adds that these "are not exhaustive but provide examples of how candidates might adapt and apply their knowledge and understanding gained throughout the course" (p.19). So Media ecology is a compulsory topic with non-compulsory sub-content. You study something like this list, not a fixed version of it.
+This is the only topic in the syllabus phrased as "Possible areas of focus for candidates are" rather than "Candidates should study." It closes with: "The possible areas of focus are not exhaustive but provide examples of how candidates might adapt and apply their knowledge and understanding gained throughout the course" (p.19).
+
+So Media Ecology is a compulsory topic with non-compulsory sub-content. Nothing on the list has to be taught, but something like it does.
 
 ## What "synoptic" means here
 
-> "Section B is synoptic, requiring candidates to **synthesise their knowledge and understanding of the key concepts of language, representation, industry and audience, studied throughout the course**. Candidates are expected to adapt and apply this knowledge and understanding to contemporary examples from **at least two media forms** in order to explore evolving media environments."
+The exam requires (Syllabus 2027 p.26):
 
-You synthesize the four key concepts, language, representation, industry, and audience, that you studied across the course. You then apply them to contemporary examples from at least two media forms. The two-media-form requirement is stated twice in the same paragraph. It is the hardest constraint in Component 4. Studying one media area at AS does not meet it, per [[concepts/case-study-method|Case Study Method]].
+> "Section B is synoptic, requiring candidates to synthesise their knowledge and understanding of the key concepts of language, representation, industry and audience, studied throughout the course. Candidates are expected to adapt and apply this knowledge and understanding to contemporary examples from at least two media forms in order to explore evolving media environments."
 
-Two learning objectives are unique to this topic: **synthesising** knowledge of the key concepts, and **adapting and applying** that knowledge to a variety of media environments. The syllabus also says examples "can and should" be drawn from other components, particularly those that show changes in power, technology and audience engagement.
+**Synoptic** means you pull together everything you have studied: language, representation, industry, and audience. You must use contemporary examples from at least two media forms. This two-media-form requirement is stated twice in that one paragraph. Per [[concepts/case-study-method|Case Study Method]], studying one media area at AS does not satisfy it.
+
+Two learning objectives are unique to this topic: **synthesising** your knowledge of the key concepts, and **adapting and applying** that knowledge to a variety of media environments. The guidance also says: "Examples from other components can and should, be drawn upon – particularly those that illustrate changes in power, technology and audience engagement."
 
 Nothing new is taught here so much as everything already taught is re-aimed.
 
-## What you study
+## What the topic covers
 
-The topic opens with a **media diary**: a one-day record of your own media habits. An extension looks at the attention economy and at how you use Facebook / X / BlueSky / Snapchat / Instagram. This connects to the media diary in [[concepts/media-audience|Media Audience]].
+You start with a **media diary**: you record one day of your own media use. An extension asks how you use platforms like Facebook, X, BlueSky, Snapchat, and Instagram.
 
-You compare audience behaviour across three eras:
+You then compare audience behavior across three eras:
 
-- the **broadcast era**, to the late 1980s ("launch of Sky in the UK")
-- the **early digital era**, late 1980s to early 2000s ("to the arrival of Netflix in the UK and the launch of BBC iPlayer")
-- the **contemporary platform era**, 2000s onwards
+- **broadcast era**: up to the late 1980s ("launch of Sky in the UK")
+- **early digital era**: late 1980s to early 2000s ("to the arrival of Netflix in the UK and the launch of BBC iPlayer")
+- **contemporary platform era**: 2000s onwards
 
-Exam answers use these UK and international anchors. (In class you may map them onto Chinese media, from the CCTV-dominant broadcast era to the WeChat, Bilibili and Douyin platform era, but that stays a classroom aside.)
+Exam answers use the UK and international anchors above. In class we may compare these to China's own eras (a CCTV-dominant broadcast era, a portal and BBS era, and a WeChat, Bilibili, and Douyin platform era), but that comparison stays out of exam answers.
 
-The topic is built around four focus areas:
+The topic has four focus areas:
 
-1. **Audience behaviour**: engagement with evolving environments; changing modes of reception; changes to "audiences' perception of knowledge, truth and reality"; fan and "prosumer" culture.
-2. **Economics of media**: ownership and distribution models; funding models; globalisation and the responses of audiences and institutions.
+1. **Audience behaviour**: engagement with evolving environments; changing modes of reception; changes to "audiences' perception of knowledge, truth and reality"; fan and **prosumer** culture.
+2. **Economics of media**: ownership and distribution models; funding models; globalization and the responses of audiences and institutions.
 3. **Ethics**: platform responsibility for what is "published"; technological change including data collection and protection; public and private personae.
-4. **Technological convergence**: old and new media blurring; convergence of personal and mass communication; software, hardware and audience relationships; impact on media language, codes and conventions.
+4. **Technological convergence**: old and new media blurring; personal and mass communication convergence; software, hardware, and audience relationships; impact on media language, codes, and conventions.
 
-Each focus area links to Section A topics. For example, Audience behaviour links to Power (audience agency versus institutional control), Postmodern Media (hyperreality and fragmented identity), and Regulation (challenges in moderating user-generated content).
+Each focus area links to the Section A topics. For example, Audience behaviour links to Power (audience agency versus institutional control), Postmodern Media (hyperreality and fragmented identity), and Regulation (challenges in moderating user-generated content).
 
-Useful sources for this topic include the Nielsen Norman Group (attention economy), the Pew Research Centre, and the Ofcom Online Nation Report.
+Useful sources: the Nielsen Norman Group (attention economy), the Pew Research Centre, and the Ofcom Online Nation Report.
 
-## Named theory
+## The 30-mark question and a marked example
 
-The syllabus names no theorists for this topic. The idea is often traced back to **Neil Postman** and **Marshall McLuhan** (see [[entities/neil-postman|Neil Postman]], [[entities/marshall-mcluhan|Marshall McLuhan]]), but the current syllabus names neither and names no one in their place. The top band is still hard to reach without named theory, so your reading list for this topic comes from class.
+There is a marked specimen answer for this question: "Explain how changes in technology and audience behaviour have had an impact on how the media is funded" [30]. One answer scored 27/30 (high) and another scored 17/30 (middle).
 
-## The connection to Grade 11
+The 30-marker is marked **AO1 18 / AO2 12**, using the five-criteria rubric at 6 marks apiece, the same shape as the rest of 9607.
 
-The work you do for Component 2 lays the foundations for Component 4, particularly Media Ecology. Your AS case study, your media diaries, and the industry work in [[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts|Unit 5]] are all Component 4 material.
+What separates the high answer from the middle answer:
 
-## The marked specimen answer
+- The high answer is **periodized**: legacy advertising and licence-fee funding, then fragmentation, then subscription and surveillance models, with a concrete case at each stage (Premier League rights costs rose 57% across five seasons). It could still make the "then versus now" comparison sharper.
+- The middle answer is a list of companies (*The Guardian*, Spotify, Mr Beast). The material is real, but it treats funding through a business lens and ignores political, social, and cultural factors. Funding here is a media-environment question, not a business question.
+- Strong answers name theorists. The high answer uses **Hesmondhalgh** (cultural industries; horizontal and vertical integration; the big-hits logic), **Shoshana Zuboff** (surveillance capitalism), **danah boyd** (three stages of legacy-media response), **Eli Pariser** (filter bubbles), **Clay Shirky**, **David Gauntlett**, **Cory Doctorow**, and **Jaron Lanier**. The syllabus names no theory for this topic, so this reading comes from class. The middle answer reaches for **McLuhan** and is not penalized for it, but it loses marks for describing rather than analyzing.
+- **AI** is live material here: SAG-AFTRA, training-data rights, audience backlash to AI imagery, and Netflix using AI in production. It is recent enough to be worth using and recent enough to date fast.
 
-A marked high answer and a marked middle answer are available for the Section B synoptic question: "Explain how changes in technology and audience behaviour have had an impact on how the media is funded" [30]. The high answer scores 27/30; the middle answer scores 17/30. Marks split AO1 18 / AO2 12, across a five-criteria rubric at 6 marks each, the same shape as elsewhere in 9607.
+## Past exam questions
 
-The high answer runs on named theory: **Hesmondhalgh** (cultural industries, horizontal and vertical integration, the big-hits logic), **Shoshana Zuboff** (surveillance capitalism), **danah boyd** (three stages of legacy-media response), **Eli Pariser** (filter bubbles), **Clay Shirky**, **David Gauntlett**, **Cory Doctorow**, and **Jaron Lanier**. The middle answer reaches for McLuhan and is not penalized for it; it loses marks for describing rather than analyzing.
-
-What separates 27 from 17:
-
-- The high answer is periodized: legacy advertising and licence-fee funding, then fragmentation, then subscription and surveillance models, with a concrete case anchoring each (Premier League rights costs rising 57% across five seasons). It could still make the "then versus now" comparison sharper.
-- The middle answer is a list of companies: *The Guardian*, Spotify, Mr Beast. This is real material, but it treats funding through a business lens and ignores political, social and cultural factors. Here funding is a media-environment question, not a business one.
-- AI is live material in this topic: SAG-AFTRA, training-data rights, audience backlash to AI imagery, and Netflix using AI in production.
+Recent Section B questions are each written from the "possible areas of focus" list, made examinable. So although that list is described as non-compulsory, in practice it is what the topic examines. Every question requires contemporary examples from at least two media forms.

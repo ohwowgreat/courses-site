@@ -7,7 +7,7 @@ related:
   - "[[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-08-10
+modified: 2026-08-13
 ---
 # Media Studies · S1 End of Term: Component 2 Paper
 
@@ -34,36 +34,38 @@ modified: 2026-08-10
 
 This exam asks you to show that you can:
 
-1. Sit a full two-hour paper using the **minute budget** you rehearsed, so you are not deciding on a budget under pressure.
+1. Sit a full two-hour paper using the **minute budget you rehearsed**, rather than working out a budget under pressure.
 2. Analyze an unseen extract to the Section A standard you reached at A4.
-3. Write a Section B contexts essay: a sustained argument built from your own case study and your research, not recall.
-4. Read your own AO breakdown afterward and name your gap without prompting.
+3. Write a Section B contexts essay: a sustained argument built from research on your own case study, not recall.
+4. Read your own AO breakdown afterwards and name your gap.
+
+These dates are set for the exam window shown. Your exact slot may shift once the exam office publishes it.
 
 ## The task
 
-The full Component 2 paper, in the format and the duration of the real examination. This is the only real two-hour sitting of the semester. That is why it happens in the school exam window and not in a lesson.
+The full Component 2 paper, in the format and duration of the real examination. This is the only genuine two-hour sitting of the semester, which is why it happens in the school exam window rather than in a lesson.
 
-**Section A**, 25 marks. An unseen moving-image extract. You analyze how it makes meaning through camera, sound, mise-en-scène and editing. This is the same task as A1 and A4, with the same rubric.
+**Section A**, 25 marks. An unseen moving-image extract, analyzed for how it constructs meaning through camera, sound, mise-en-scène and editing. The same task as A1 and A4, with the same rubric.
 
-**Section B**, 25 marks. A contexts essay. This part is new. It draws on your own case study, which must be **student-built and less than five years old**, and on the audience, industry and regulation material from Unit 5.
+**Section B**, 25 marks. A contexts essay. This part is new: it draws on your own **case study**, which must be student-built and less than five years old, and on the audience, industry and regulation material from Unit 5.
 
 ## Instructions
 
-1. **Your slot and venue come from the exam office.** Check them. Your teacher does not set them.
+1. **Your slot and venue come from the exam office.** Check them. They are not set by your teacher.
 2. **Bring nothing.** No notes, no case-study document. Section B runs on what you built and learned.
-3. **Use the minute budget from the Lesson 18 rehearsal.** Two hours across two 25-mark sections means neither section can eat the other. The rehearsal exists so the budget is a habit, not a choice you make at minute 70.
-4. **Section A:** use the screening protocol as at A4. Notes first, then write.
-5. **Section B:** plan before you write. Your HW2 essay plan was practice for exactly this.
+3. **Apply the minute budget from the Lesson 18 rehearsal.** Two hours across two 25-mark sections means neither section can eat the other.
+4. **Section A**: use the screening protocol as at A4. Notes first, then write.
+5. **Section B**: plan before writing. Your HW2 essay plan was practice for exactly this.
 
-**Screening.** Section A needs playback in the venue. If your room cannot screen the extract, say so at once, not on the day.
+**Screening.** Section A needs playback in the venue. If your slot's room cannot screen the extract, say so at once, not on the day.
 
-**If you are absent.** An exam-window absence goes through the exam office as well as your teacher, and the 24-hour advance-contact rule still applies (AL Student Guide p.8). This is a 20% category. A missed sitting is not a small problem.
+**If you are absent.** An exam-window absence goes through the exam office as well as your teacher, and the 24-hour advance-contact rule still applies (AL Student Guide p.8). This is a 20% category, so a missed sitting is a serious problem.
 
 ## Rubric
 
 ### Section A, 25 marks
 
-The **official Paper 2 five-criteria rubric**, the same as A1 and A4:
+The **official Paper 2 five-criteria rubric**, identical to A1 and A4:
 
 | # | Criterion | AO | Marks |
 |---|---|---|---|
@@ -75,28 +77,33 @@ The **official Paper 2 five-criteria rubric**, the same as A1 and A4:
 
 ### Section B, 25 marks
 
-The **same five criteria**, applied to the contexts essay. This is worth knowing: Cambridge marks Section B on the identical grid. The habits that earn marks in extract analysis earn them in the essay too. Terminology, examples and analysis tied to effect are assessed either way. What changes is where the evidence comes from: your case study, not an extract on screen.
+The **same five criteria and the same band ladder**, applied to the contexts essay. The habits that earn marks in extract analysis earn them here too: terminology, examples and analysis tied to effect are assessed either way.
+
+Two things change, and both matter for revision. Both are printed in the official Section B marking grid:
+
+1. **The concepts assessed swap.** Section A's concepts criterion rewards language and representation. Section B's rewards **audience and industry**. The four key concepts split cleanly across the paper, so revising representation theory for Section B is revising the wrong half.
+2. **The evidence comes from your case study, not an extract on screen.** The top bands reward analysis that reaches across a **range of texts within your studied area**, not a single product described in depth.
 
 ### The bands
 
-Per criterion, on both sections: **5** sophisticated or insightful · **4** thorough or effective · **3** clear or appropriate · **2** limited · **1** basic · **0** no creditable content. Best fit, and each criterion is banded on its own.
+Per criterion, on both sections: **5** sophisticated or insightful · **4** thorough or effective · **3** clear or appropriate · **2** limited · **1** basic · **0** no creditable content. Best fit, and each criterion is banded independently.
 
 Across the paper: **AO1 60%, AO2 40%.**
 
-Marks are curved under [[shared/bnds-assessment-framework|the BNDS framework]], not reported raw. This is the 20% End of Term category, summative on previously covered content.
+Marks are curved under [[shared/bnds-assessment-framework|the BNDS framework]] rather than reported raw. This is the 20% End of Term category, summative on previously covered content.
 
 ## After the exam
 
-- **Tue 2027-01-19: scripts returned** with **question-level AO breakdowns.** Not just a total.
-- **Wed 2027-01-20, the double:** you turn that data into a **one-page Semester 2 target sheet**: where the marks went, which AO is your gap, and one action. It is logged as LB7. Write it to survive being read in February, so make it specific enough to act on months later.
+- **Tue 2027-01-19: scripts returned** with **question-level AO breakdowns**, not just a total.
+- **Wed 2027-01-20, the double:** you turn that data into a **one-page Semester 2 target sheet**: where the marks went, which AO is your gap, and one action. It is logged as LB7. Make it specific enough to act on months later, in February.
 - Grades and comments are due Wed 2027-01-20.
 
 ## How to prepare
 
 | Where it came from | What to use it for |
 |---|---|
-| **CS13**, timed Section B, 45 minutes (Wed 2027-01-06) | The only timed Section B before the exam. Peer-marked, then moderated |
-| **HW2**, case-study revision pack and one Section B essay plan | Built over the break, feeds CS13, then feeds this |
+| **CS13**, timed Section B, 45 minutes (Wed 2027-01-06) | The only timed Section B before the exam. Peer-marked then moderated |
+| **HW2**, case-study revision pack + one Section B essay plan | Built over the break, feeds CS13, then feeds this |
 | **Lesson 18**, the exam rehearsal | Where the minute budget comes from. It is the rehearsal, not a revision lesson |
 | **Lesson 17**, the coverage matrix | What you have covered and what you have not, before revision starts |
 | **A1 and A4** and their AO splits | Two Section A attempts already marked on this rubric, with your gap named |

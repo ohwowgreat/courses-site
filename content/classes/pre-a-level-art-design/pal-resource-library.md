@@ -6,7 +6,7 @@ related:
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-u4-printmaking-variant]]"
-modified: 2026-07-20
+modified: 2026-08-13
 ---
 # Pre A Level Art & Design · Resource Library
 
