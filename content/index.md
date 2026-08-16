@@ -81,7 +81,7 @@ what's due.</p>
 
 ## The next two weeks
 
-<div class="fortnight"><section class="fortnight__week"><p class="fortnight__label">This week <span>10 Aug to 16 Aug</span></p><p class="fortnight__none">Nothing scheduled.</p></section><section class="fortnight__week"><p class="fortnight__label">Next week <span>17 Aug to 23 Aug</span></p><p class="fortnight__none">Nothing scheduled.</p></section></div><p class="fortnight__ahead">Next up: <strong>G10 assembly & programme meeting</strong> on Mon 31 Aug.</p>
+<div class="fortnight"><section class="fortnight__week"><p class="fortnight__label">This week <span>17 Aug to 23 Aug</span></p><p class="fortnight__none">Nothing scheduled.</p></section><section class="fortnight__week"><p class="fortnight__label">Next week <span>24 Aug to 30 Aug</span></p><p class="fortnight__none">Nothing scheduled.</p></section></div><p class="fortnight__ahead">Next up: <strong>G10 assembly & programme meeting</strong> on Mon 31 Aug.</p>
 
 ## Key dates
 
