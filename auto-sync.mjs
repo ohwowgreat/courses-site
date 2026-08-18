@@ -21,12 +21,73 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 
 process.chdir(import.meta.dirname)
+
 process.env.PATH = `/opt/homebrew/bin:/usr/local/bin:${process.env.PATH}`
 
 const sh = (cmd, opts = {}) => execSync(cmd, { encoding: "utf8", ...opts }).trim()
 
+// The log carried no timestamps at all, so "when did this last run, and did it
+// fail every morning or just once" could not be answered from it — the site's own
+// commit history had to stand in. Stamp the run boundary and every status line.
+const ts = () => new Date().toISOString().replace("T", " ").slice(0, 19)
+const log = (...a) => console.log(`[${ts()}]`, ...a)
+
+// Reaching GitHub from this machine fails intermittently: the log shows
+// SSL_ERROR_SYSCALL and "HTTP2 framing layer" aborting otherwise healthy runs,
+// and launchd runs bare (no proxy in its environment, unlike an interactive
+// shell). These are worth retrying. A non-fast-forward, by contrast, is a real
+// divergence that a human must look at, so it must NOT be retried.
+const TRANSIENT =
+  /unable to access|SSL_ERROR|SSL_connect|HTTP2 framing|Could not resolve host|Connection reset|Recv failure|Empty reply|Operation timed out|TLS connect|gnutls|Failed to connect/i
+
+// Optional last resort. If every direct attempt failed and this machine has a
+// local proxy listening (the one an interactive shell uses), try once through it
+// before giving up. Nothing depends on the proxy existing.
+const FALLBACK_PROXY = process.env.GIT_FALLBACK_PROXY ?? "http://127.0.0.1:1082"
+
+function proxyListening() {
+  try {
+    const u = new URL(FALLBACK_PROXY)
+    execFileSync("/usr/bin/nc", ["-z", "-G", "1", "-w", "1", u.hostname, u.port], {
+      stdio: "ignore",
+    })
+    return true
+  } catch {
+    return false
+  }
+}
+
+// Retry a git network command through transient failures. Returns its stdout.
+// Throws immediately on anything that is not a recognised network error.
+function gitRetry(cmd, label) {
+  let lastErr
+  for (const wait of [0, 5, 15, 40]) {
+    if (wait) execSync(`sleep ${wait}`)
+    try {
+      return sh(cmd, { stdio: ["ignore", "pipe", "pipe"] })
+    } catch (err) {
+      lastErr = err
+      const msg = String(err.stderr || err.message)
+      if (!TRANSIENT.test(msg)) throw err
+      log(`${label}: transient network error, retrying — ${msg.trim().split("\n").at(-1)}`)
+    }
+  }
+  if (proxyListening()) {
+    log(`${label}: direct attempts failed; retrying once via ${FALLBACK_PROXY}`)
+    try {
+      return sh(cmd, {
+        stdio: ["ignore", "pipe", "pipe"],
+        env: { ...process.env, HTTPS_PROXY: FALLBACK_PROXY, HTTP_PROXY: FALLBACK_PROXY },
+      })
+    } catch (err) {
+      lastErr = err
+    }
+  }
+  throw lastErr
+}
+
 function notify(title, message) {
-  console.log(`[${title}] ${message}`)
+  console.log(`[${ts()}] [${title}] ${message}`)
   try {
     execFileSync("/usr/bin/osascript", [
       "-e",
@@ -133,6 +194,8 @@ function finish(code, outcome, message, output = "") {
   process.exit(code)
 }
 
+log("── run start ──")
+
 // ── Credentials ──────────────────────────────────────────────────────────────
 if (!process.env.ANTHROPIC_API_KEY) {
   try {
@@ -162,10 +225,21 @@ if (dirty) {
 }
 
 try {
-  sh("git pull --ff-only origin main", { stdio: ["ignore", "pipe", "pipe"] })
+  gitRetry("git pull --ff-only origin main", "pull")
 } catch (err) {
-  console.log(String(err.stderr || err.message))
-  finish(1, "error", "could not fast-forward main from origin — resolve manually")
+  const msg = String(err.stderr || err.message)
+  console.log(msg)
+  // Two very different failures wore the same message before: a transient network
+  // error (retries next run, nothing for a human to do) and a genuine divergence
+  // (needs a human). Saying "resolve manually" for a blip sent the reader looking
+  // for a git problem that was not there.
+  finish(
+    1,
+    "error",
+    TRANSIENT.test(msg)
+      ? "GitHub unreachable after retries — nothing to fix; will retry next run"
+      : "main does not fast-forward from origin — diverged, resolve manually",
+  )
 }
 
 // ── Sync ─────────────────────────────────────────────────────────────────────
@@ -210,18 +284,9 @@ if (sh("git diff --cached --name-only")) {
 // Push anything unpushed — this run's commit, or one left over from a run
 // whose push failed.
 if (sh("git rev-list --count origin/main..HEAD") !== "0") {
-  let pushed = false
-  for (const wait of [0, 2, 4, 8, 16]) {
-    if (wait) execSync(`sleep ${wait}`)
-    try {
-      sh("git push origin main", { stdio: ["ignore", "pipe", "pipe"] })
-      pushed = true
-      break
-    } catch {
-      /* transient network — retry with backoff */
-    }
-  }
-  if (!pushed) {
+  try {
+    gitRetry("git push origin main", "push")
+  } catch {
     finish(1, "error", "push failed after retries — commit is local; will push next run", output)
   }
   finish(0, "published", summary.split("\n")[0] || "site updated", output)
