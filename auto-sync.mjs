@@ -276,9 +276,16 @@ const summary = output
   .split("\n")
   .filter((l) => /^(Published|Reframed)/.test(l))
   .join("\n")
+
+// Whether THIS run changed anything students can see. The push below fires for any
+// unpushed commit, including ones that have nothing to do with content (a fix to
+// this script, say). Reporting those as "published" would move the dashboard's
+// "students last got a change" to today on a day students got nothing.
+let publishedContent = false
 if (sh("git diff --cached --name-only")) {
   const stamp = new Date().toISOString().slice(0, 16).replace("T", " ")
   execFileSync("git", ["commit", "-q", "-m", `Auto-sync ${stamp}`, "-m", summary])
+  publishedContent = true
 }
 
 // Push anything unpushed — this run's commit, or one left over from a run
@@ -289,7 +296,14 @@ if (sh("git rev-list --count origin/main..HEAD") !== "0") {
   } catch {
     finish(1, "error", "push failed after retries — commit is local; will push next run", output)
   }
-  finish(0, "published", summary.split("\n")[0] || "site updated", output)
+  finish(
+    0,
+    publishedContent ? "published" : "current",
+    publishedContent
+      ? summary.split("\n")[0] || "site updated"
+      : "sync clean; pushed non-content commits, students saw no change",
+    output,
+  )
 } else {
   // Not a failure: sync ran clean and the site already matches the vault. Recorded
   // as its own outcome so the dashboard can distinguish "verified current today"
