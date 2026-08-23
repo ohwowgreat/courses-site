@@ -7,7 +7,7 @@ tags: [calendar]
 
 ## The next two weeks
 
-<div class="fortnight"><section class="fortnight__week"><p class="fortnight__label">This week <span>17 Aug to 23 Aug</span></p><p class="fortnight__none">Nothing scheduled.</p></section><section class="fortnight__week"><p class="fortnight__label">Next week <span>24 Aug to 30 Aug</span></p><p class="fortnight__none">Nothing scheduled.</p></section></div><p class="fortnight__ahead">Next up: <strong>G10 assembly & programme meeting</strong> on Mon 31 Aug.</p>
+<div class="fortnight"><section class="fortnight__week"><p class="fortnight__label">This week <span>24 Aug to 30 Aug</span></p><p class="fortnight__none">Nothing scheduled.</p></section><section class="fortnight__week"><p class="fortnight__label">Next week <span>31 Aug to 6 Sep</span></p><ul class="fortnight__days"><li class="fortnight__day"><span class="fortnight__date">Mon 31</span><span class="fortnight__evs"><a class="fortnight__ev" href="../../calendar">G10 assembly & programme meeting</a></span></li><li class="fortnight__day"><span class="fortnight__date">Tue 1</span><span class="fortnight__evs"><a class="fortnight__ev" href="../../calendar">First teaching day</a></span></li><li class="fortnight__day"><span class="fortnight__date">Wed 2</span><span class="fortnight__evs"><a class="fortnight__ev" href="../../calendar">A-Level Introduction Days</a></span></li><li class="fortnight__day"><span class="fortnight__date">Fri 4</span><span class="fortnight__evs"><a class="fortnight__ev" href="../../calendar">G11 students+parents meeting</a><a class="fortnight__ev" href="../../classes/media-studies/assessments/9607-s1-assessments" style="--c: var(--c-media)"><b>CS1</b> Denotation-only analytical paragraph</a></span></li></ul></section></div>
 
 ## Month view
 
