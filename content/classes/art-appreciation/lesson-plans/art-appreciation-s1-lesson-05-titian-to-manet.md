@@ -34,7 +34,7 @@ modified: 2026-08-05
 
 This lesson looks at three paintings and asks how one picture answers another. You study Gentileschi, Titian, and Manet, and you learn to build a real comparison rather than a list. You write **[[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison|A2]]**, your Unit 2 comparative essay, in class on Tue 2026-10-13: one claim about two pictures, evidenced from the pictures. A2 carries your mid-term grades, which are due Thu 2026-10-29.
 
-## The ideas
+## 1 · Learn
 
 ### Comparison, not a list
 
@@ -68,7 +68,7 @@ Ask what the picture asks you to accept as natural. A painting can present a pos
 
 Look at *Olympia* first with no context. Locate the exact **refusals** Manet makes of Titian, one by one: the specific choices where Manet declines to do what the *Venus of Urbino* does, and what each choice costs. This pairing is the heart of A2.
 
-## Day by day
+## 2 · Do
 
 - **Fri 10-09.** Storyboards from the break homework are returned. You read them against the criteria and find the frame where the sequence stopped being legible. [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS3]] is posted; the assessment review protocol applies.
 - **Sat 10-10.** Close looking at Gentileschi's *Judith Slaying Holofernes*: describe the violence first, then work out who the picture puts you next to.
@@ -85,7 +85,7 @@ Look at *Olympia* first with no context. Locate the exact **refusals** Manet mak
 - **A2 sits Tue 2026-10-13.** In-class comparative essay, one claim about two pictures, evidenced from the pictures rather than the reception. Announced Wed 2026-09-30.
 - A2 carries the mid-term grades, due Thu 2026-10-29.
 
-## Review
+## 3 · Check
 
 Check you can:
 

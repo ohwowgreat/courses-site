@@ -32,7 +32,7 @@ modified: 2026-08-05
 
 This week you turn your strongest candidate into a written proposal you can defend on paper: a theme, aims, a primary-source plan, and an artist shortlist. You stress-test the whole proposal against the eight-stage pipeline before you take it to consultation. You submit the proposal as **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS1]]** on Fri 2027-03-05, and you leave consultation 2 with either a decision to lock or one named fix. Fixing a weak proposal now, on paper, is cheap. This proposal sets up the theme lock next week in Lesson 03.
 
-## The ideas
+## 1 · Learn
 
 ### The proposal
 
@@ -60,7 +60,7 @@ The **eight-stage pipeline** is the path your investigation must complete. To ru
 
 At **consultation 2** you meet one to one and defend your fixed proposal. You leave with a decision to proceed to the lock, or a single specific fix to make before Lesson 03.
 
-## Day by day
+## 2 · Do
 
 - **Mon 03-01.** Draft the theme and aims from the candidate that survived last week: what the investigation looks at and why it can sustain the pipeline to December.
 - **Tue 03-02.** Build the primary-source plan. List the shoots and sittings you control, and check the plan does not depend on found imagery.
@@ -72,7 +72,7 @@ At **consultation 2** you meet one to one and defend your fixed proposal. You le
 
 **CS1** (proposal draft: theme, aims, primary-source plan, artist shortlist) is due **Fri 2027-03-05**. It is a Course Skills written annotation that sets up the theme lock directly. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It is marked on whether the proposal is defensible: reachable sources named, aims in your own words, artists chosen for reasons. Next comes the statement of intent and annotated references (**CS2**, Fri 2027-03-12), and then the theme is **locked in writing** in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked|L03]]. After that there are no restarts.
 
-## Review
+## 3 · Check
 
 Check you can:
 

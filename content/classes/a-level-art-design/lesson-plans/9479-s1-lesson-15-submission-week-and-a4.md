@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-5-final-outcome-and-portfolio]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-14-the-final-outcome]]"
   - "[[classes/a-level-art-design/9479-c3-winter-brief]]"
-modified: 2026-08-05
+modified: 2026-08-25
 ---
 # S1 Lesson 15: Submission Week and A4
 
@@ -19,7 +19,7 @@ modified: 2026-08-05
 <div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO4 Present</span><span class="contract-ao">across AO1–AO4</span></span></div>
 <p class="contract-job">The portfolio photographed, sequenced, edited and submitted; <a href="../../../classes/a-level-art-design/assessments/9479-s1-a4-final-portfolio">A4</a> sat; the semester reflected on</p>
 <div class="contract-grid">
-<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-01-04 → Fri 2027-01-08<span class="contract-cell-note">Sessions: 5 days, 7 sessions (W19) — Unit 5 and the semester close; attainment review protocol</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-01-04 · Tue 01-05 · Thu 01-07 (A4) · Fri 01-08 (double)<span class="contract-cell-note">Sessions: 5 sessions over 4 days (W19). Unit 5 and the semester close.</span></span></div>
 <div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><strong>A4 Thu 2027-01-07</strong>: final portfolio, marked against AO1–AO4; no edits after. Marking window Thu 01-07 → Wed 01-20 (nine working days)</span></div>
 </div>
 <div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Reflection: the semester look-back, finished after Friday. Winter HW: three candidate C3 themes with annotated references, the <a href="../../../classes/a-level-art-design/9479-c3-winter-brief">C3 Winter Brief</a></span></div>
@@ -28,13 +28,15 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson closes Unit 5 and the semester. You photograph your final outcome, then sequence and edit your whole portfolio so it reads in order, then submit it. You sit **[[classes/a-level-art-design/assessments/9479-s1-a4-final-portfolio|A4]]** on Thu 2027-01-07: the final portfolio, marked against AO1–AO4, with nothing edited after. You also write a semester reflection and take on your winter homework, three candidate themes for your C3 Personal Investigation.
+This lesson closes Unit 5 and the semester. You photograph your final outcome, sequence the whole portfolio, and edit out what does not belong. Then you sit **[[classes/a-level-art-design/assessments/9479-s1-a4-final-portfolio|A4]]** on Thu 2027-01-07: your final portfolio, marked against AO1–AO4, with no edits after submission. On Friday you reflect on the semester and pick up the C3 Winter Brief, which sets up the Personal Investigation next semester.
 
-## The ideas
+## 1 · Learn
+
+Submission is a supervised craft, not a scramble. You work through it in order: photograph, sequence, edit, check, submit.
 
 ### Photographing the outcome
 
-**The photograph is the version the examiner sees.** Treat it as craft, not a scramble. Rig, light, and shoot the outcome, with detail passes. Then prepare the images: crop, color-correct, name, and file them to the template.
+The **photograph is the version the examiner sees**, so it must show your outcome well. Rig, light, and shoot it, then take detail passes. Afterward, prepare the images: crop, correct, name them, and file them to the template.
 
 
 <figure class="plate">
@@ -44,45 +46,39 @@ This lesson closes Unit 5 and the semester. You photograph your final outcome, t
 
 ### Sequencing the portfolio
 
-**Sequencing** puts your whole journey in an order that reads on its own. The portfolio must read the whole journey in order without narration: theme, recording, exploration, artists, development, outcome. Read the exemplar's page order as a story, then lay out your own full run order. A stranger should be able to follow it without stumbling.
+**Sequencing** means putting the whole journey in an order that reads as a story without narration: theme, recording, exploration, artists, development, outcome. A stranger should be able to follow it in order without stumbling.
 
 ### Editing and the AO check
 
-**Cut what does not earn its place.** Remove pages that do not add to the story, and log every cut. Then run a final **AO check**: confirm all four descriptors, AO1–AO4, in writing.
+**Editing** means cutting whatever does not earn its place, and logging every cut you make. The **AO check** is a written check of your portfolio against all four Assessment Objectives, AO1–AO4. You sign it. The portfolio itself stays in the studio; the signed check is verified at Thursday's door.
 
-### A4 and no edits after
+### The Personal Investigation
 
-**A4** is the final portfolio: the resolved outcome plus the complete supporting portfolio, sequenced and edited. You submit it in session on Thu 2027-01-07. Once it is in, nothing is edited after.
+A **Personal Investigation** is the C3 project. Your winter homework starts it: three candidate themes, each with annotated references, set out in the [[classes/a-level-art-design/9479-c3-winter-brief|C3 Winter Brief]].
 
-### Personal Investigation
+## 2 · Do
 
-A **Personal Investigation** is the self-directed C3 study you begin next. Your winter homework opens it: three candidate themes, each with annotated references, set out in the [[classes/a-level-art-design/9479-c3-winter-brief|C3 Winter Brief]].
-
-## Day by day
-
-- **Mon 01-04.** Photograph your outcome: rig, light, and shoot with detail passes. Then prepare the images: crop, correct, name, and file to the template.
-- **Tue 01-05.** Lay out the full run order of your portfolio and walk it once. A peer walks it too, to find where a reader stumbles.
-- **Wed 01-06.** Cut what does not earn its place and log every cut. Do the final AO check: all four descriptors, AO1–AO4, in writing.
-- **Thu 01-07.** You sit A4. Your final portfolio is due and submitted in session. No edits after.
-- **Fri 01-08.** Your submission is acknowledged. Marking runs Thu 01-07 → Wed 01-20 (nine working days); grades and comments are due Wed 2027-01-20, and portfolios return with one-to-one feedback in W21 (Tue–Thu). W20 (Mon 01-11 onward) is the exam window, with no Art and Design classes; the End of Term Exam format for a studio course will be confirmed in class. You write your semester reflection. Winter vacation runs 2027-01-24 → 2027-02-21, and your three C3 theme candidates open the Semester 2 consultation cycle on Mon 2027-02-22.
+- **Mon 01-04.** Photograph the outcome: rig, light, shoot, and take detail passes. Then crop, correct, name, and file the images to the template.
+- **Tue 01-05.** Read the exemplar's page order as a story, then sequence your own portfolio and walk it once. The signed AO check across all four descriptors goes home tonight; the portfolio stays in the studio. Bring the signed check to Thursday.
+- **Thu 01-07.** You sit **A4**. Your final portfolio is due and submitted in session, with the signed AO checks in. No edits after.
+- **Fri 01-08 (double).** Submission acknowledged. What happens next: the marking window closes Wed 2027-01-20, when grades and comments are due, and portfolios return with one-to-one feedback on Tue 01-19 and Thu 01-21. Write your semester reflection. Take up the C3 Winter Brief: three candidate themes with annotated references. W20 (Mon 01-11 on) is the exam window, with no Art and Design classes; the End of Term Exam format will be confirmed in class. Winter vacation runs 2027-01-24 → 2027-02-21, and the C3 consultation cycle opens Mon 2027-02-22.
 
 ## Assessment
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/a-level-art-design/assessments/9479-s1-a4-final-portfolio|A4 Final Portfolio]].
 
-**A4** (final portfolio: the resolved outcome plus the complete supporting portfolio, sequenced and edited) sits Thu 2027-01-07 — see the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. The sequence must read the whole journey in order without narration: theme, recording, exploration, artists, development, outcome.
+**A4** (final portfolio: the resolved outcome plus the complete supporting portfolio, sequenced and edited) sits Thu 2027-01-07. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. The sequence must read the whole journey in order without narration: theme, recording, exploration, artists, development, outcome.
 
-## Review
+## 3 · Check
 
 Check you can:
 
 - Photograph your outcome as the version the examiner will see.
-- Sequence your portfolio so it reads the whole journey in order: theme, recording, exploration, artists, development, outcome.
-- Cut work that does not earn its place, and log every cut.
-- Run a final AO check across all four descriptors, AO1–AO4, in writing.
+- Sequence the whole portfolio so it reads the journey in order: theme, recording, exploration, artists, development, outcome.
+- Cut what does not earn its place and log every cut.
+- Complete a signed AO check against all four Assessment Objectives, AO1–AO4.
 - Sit A4 and submit with nothing edited after.
-- Explain what a Personal Investigation is, and prepare three candidate C3 themes with annotated references.
-- Write your semester reflection.
+- Explain what a Personal Investigation is and prepare three candidate C3 themes with annotated references.
 
 ## Practice
 

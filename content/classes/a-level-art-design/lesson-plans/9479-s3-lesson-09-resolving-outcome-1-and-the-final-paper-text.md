@@ -32,7 +32,7 @@ modified: 2026-08-05
 
 This week you bring outcome 1 to a finish and photograph it, and you take the research paper to its final text. You resolve the focal areas, unify the surface, then shoot the piece as the version that gets marked and lay it into your pages. In parallel you set the paper's argument and tighten the prose to serve it. All of this feeds **[[classes/a-level-art-design/assessments/9479-s3-assessments|A3]]**, the final research paper, which you sit on Mon 2027-11-15. These dates are projected and may shift when the school publishes the calendar for that period.
 
-## The ideas
+## 1 · Learn
 
 ### Resolving and photographing outcome 1
 
@@ -50,14 +50,14 @@ To **resolve** outcome 1 means the focal areas are resolved and the surface is u
 
 The **integration check** confirms that **every claim points at real work** in the portfolio. This is what stops the written element from bolting on. A claim with no page behind it is either cut or evidenced before A3.
 
-## Day by day
+## 2 · Do
 
 - **Mon 11-08 and Tue 11-09.** Studio work across two days: resolve the focal areas of outcome 1 and unify the surface, bringing the piece to a markable finish.
 - **Wed 11-10.** Photograph outcome 1 as the version the examiner sees. Shoot it honestly, correct the image, and lay it into the pages.
 - **Thu 11-11.** Bring the research paper to final text. Set the argument and make the prose serve it, in exact specialist language.
 - **Fri 11-12.** Final text and integration check: make sure every claim points at real work, and cut or evidence any claim with no page behind it. Homework (≤30 min): list any paper claim not yet pointing at a real page.
 
-## Review
+## 3 · Check
 
 Check you can:
 

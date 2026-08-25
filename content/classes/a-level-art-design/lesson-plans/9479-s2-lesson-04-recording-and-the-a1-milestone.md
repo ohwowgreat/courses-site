@@ -36,7 +36,7 @@ This lesson opens Unit 2, the recording stage. You turn the intention and first 
   <figcaption>Ilya Repin, <em>Portrait of a Russian Peasant</em>, 1871</figcaption>
 </figure>
 
-## The ideas
+## 1 · Learn
 
 ### The Stage 1 page
 
@@ -54,7 +54,7 @@ A **sustained study** is one study you build and stay with, not a quick sketch. 
 
 **A1** is the recording milestone. It reviews your approved intention, the Stage 1 page, the first sustained study, and its supporting recording, all judged against the published **AO1 (Record)** criteria in C3 specialist language. Nothing is added during the review. Because this is the recording layer of the investigation, it is judged as recording: sources that are your own, a study genuinely sustained, and annotation that reads.
 
-## Day by day
+## 2 · Do
 
 - **Mon 03-15.** Compose the Stage 1 page. Lay out your intention, first shoot, and early observations so a stranger could follow your thinking, and sequence it so AO1 reads without explanation.
 - **Tue 03-16.** Begin sustained study 1 from your own primary sources. Build it; do not restart it.
@@ -66,7 +66,7 @@ A **sustained study** is one study you build and stay with, not a quick sketch. 
 
 You sit **A1** (recording milestone: approved intention, Stage 1 pages, first sustained study, supporting recording) on **Fri 2027-03-19**, marked against AO1 with C3 specialist language in view. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. The feedback becomes **three specific written actions**, which you consolidate next week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-05-recording-pages-and-feedback|L05]] (**[[classes/a-level-art-design/assessments/9479-s2-assessments|CS3]]**, recording-pages build check, Fri 2027-03-26).
 
-## Review
+## 3 · Check
 
 Check you can:
 

@@ -34,7 +34,7 @@ modified: 2026-08-05
 
 This lesson runs over eight days. You spend five days building the vocabulary of visual storytelling: narrative, myth, allegory, and the cycle. Then you spend three days making. You produce **[[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS2]]**, a ten-frame storyboard that a stranger can read in the right order with no captions and no dialogue. CS2 is set as your break homework on day 8, Wed 2026-09-30, and it should take 3 to 4 hours across the twelve-day holiday. The same day, the [[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison|A2]] brief goes out: Titian against Manet, due Tue 13 October. This lesson feeds A2.
 
-## The ideas
+## 1 · Learn
 
 ### The critique flow
 
@@ -66,7 +66,7 @@ A **cycle** is a story told across several panels rather than inside a single on
 
 A storyboard carries a story through framing alone. One story can be told in three different framings, and each choice changes what the viewer reads. Your goal is ten frames a stranger can put in the right order with no captions and no dialogue.
 
-## Day by day
+## 2 · Do
 
 - **Sun 09-20.** Make-up day. The critique flow is taught cold: describe, account, judge, run on an image nobody has seen.
 - **Mon 09-21.** What a narrative image has to solve: finding where a still image puts time.
@@ -83,7 +83,7 @@ A storyboard carries a story through framing alone. One story can be told in thr
 - **CS2.** Tue 2026-09-29. A ten-frame storyboard a stranger can read in the right order, with no captions and no dialogue.
 - CS2 is debriefed as [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS3]] on Fri 2026-10-09 in lesson 05.
 
-## Review
+## 3 · Check
 
 Check you can:
 

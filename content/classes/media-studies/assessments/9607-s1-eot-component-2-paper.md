@@ -7,7 +7,7 @@ related:
   - "[[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format]]"
   - "[[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-08-13
+modified: 2026-08-25
 ---
 # Media Studies · S1 End of Term: Component 2 Paper
 
@@ -19,7 +19,7 @@ modified: 2026-08-13
   <div class="stat"><dt>Sits</dt><dd>In the school exam window<span class="stat-x"><strong>Mon 2027-01-11 to Mon 2027-01-18</strong>. Your slot is set by the exam office</span></dd></div>
   <div class="stat"><dt>Marks</dt><dd>50</dd></div>
   <div class="stat"><dt>Assesses</dt><dd>AO1 and AO2</dd></div>
-  <div class="stat"><dt>Returned</dt><dd>Tue 2027-01-19<span class="stat-x">with question-level AO breakdowns</span></dd></div>
+  <div class="stat"><dt>Returned</dt><dd>Wed 2027-01-20 in the double<span class="stat-x">with question-level AO breakdowns</span></dd></div>
 </dl>
 
 | | |
@@ -34,32 +34,30 @@ modified: 2026-08-13
 
 This exam asks you to show that you can:
 
-1. Sit a full two-hour paper using the **minute budget you rehearsed**, rather than working out a budget under pressure.
+1. Sit a full two-hour paper using the **minute budget** you rehearsed, rather than working one out under pressure.
 2. Analyze an unseen extract to the Section A standard you reached at A4.
-3. Write a Section B contexts essay: a sustained argument built from research on your own case study, not recall.
-4. Read your own AO breakdown afterwards and name your gap.
-
-These dates are set for the exam window shown. Your exact slot may shift once the exam office publishes it.
+3. Write a Section B contexts essay: a sustained argument using your own case study, built from research rather than recall.
+4. Read your own AO breakdown afterward and state your gap.
 
 ## The task
 
-The full Component 2 paper, in the format and duration of the real examination. This is the only genuine two-hour sitting of the semester, which is why it happens in the school exam window rather than in a lesson.
+The full Component 2 paper, in the format and the duration of the real examination. This is the only genuine two-hour sitting of the semester, which is why it happens in the school exam window rather than in a lesson.
 
 **Section A**, 25 marks. An unseen moving-image extract, analyzed for how it constructs meaning through camera, sound, mise-en-scène and editing. The same task as A1 and A4, with the same rubric.
 
-**Section B**, 25 marks. A contexts essay. This part is new: it draws on your own **case study**, which must be student-built and less than five years old, and on the audience, industry and regulation material from Unit 5.
+**Section B**, 25 marks. A contexts essay. This part is new: it draws on your own case study, which must be **student-built and less than five years old**, and on the audience, industry and regulation material from Unit 5.
 
 ## Instructions
 
-1. **Your slot and venue come from the exam office.** Check them. They are not set by your teacher.
+1. **Your slot and venue come from the exam office.** Check them.
 2. **Bring nothing.** No notes, no case-study document. Section B runs on what you built and learned.
-3. **Apply the minute budget from the Lesson 18 rehearsal.** Two hours across two 25-mark sections means neither section can eat the other.
+3. **Apply the minute budget from the Lesson 18 rehearsal.** Two hours across two 25-mark sections means neither section can eat the other. Rehearse it so the budget is a habit, not a decision made at minute 70.
 4. **Section A**: use the screening protocol as at A4. Notes first, then write.
-5. **Section B**: plan before writing. Your HW2 essay plan was practice for exactly this.
+5. **Section B**: plan before writing. HW2's essay plan was practice for exactly this.
 
-**Screening.** Section A needs playback in the venue. If your slot's room cannot screen the extract, say so at once, not on the day.
+**Screening facilities.** Section A needs playback in the venue. If your slot's room cannot screen the extract, say so at once rather than on the day.
 
-**If you are absent.** An exam-window absence goes through the exam office as well as your teacher, and the 24-hour advance-contact rule still applies (AL Student Guide p.8). This is a 20% category, so a missed sitting is a serious problem.
+**If you are absent.** An exam-window absence goes through the exam office as well as your teacher, and the 24-hour advance-contact rule still applies (AL Student Guide p.8). This is a 20% category: a missed sitting is not a small problem.
 
 ## Rubric
 
@@ -77,12 +75,12 @@ The **official Paper 2 five-criteria rubric**, identical to A1 and A4:
 
 ### Section B, 25 marks
 
-The **same five criteria and the same band ladder**, applied to the contexts essay. The habits that earn marks in extract analysis earn them here too: terminology, examples and analysis tied to effect are assessed either way.
+The **same five criteria and the same band ladder**, applied to the contexts essay. The habits that earn marks in extract analysis earn them here too: terminology, examples and analysis-tied-to-effect are assessed either way.
 
-Two things change, and both matter for revision. Both are printed in the official Section B marking grid:
+Two things change, and both matter for revision:
 
-1. **The concepts assessed swap.** Section A's concepts criterion rewards language and representation. Section B's rewards **audience and industry**. The four key concepts split cleanly across the paper, so revising representation theory for Section B is revising the wrong half.
-2. **The evidence comes from your case study, not an extract on screen.** The top bands reward analysis that reaches across a **range of texts within your studied area**, not a single product described in depth.
+1. **The concepts assessed swap.** Section A's concepts criterion rewards language and representation; Section B's rewards **audience and industry**. The **four key concepts** split cleanly across the paper, so revising representation theory for Section B is revising the wrong half.
+2. **The evidence comes from your case study rather than an extract on screen**, and the top bands reward analysis that reaches across a **range of texts within your studied area**, not a single product described in depth.
 
 ### The bands
 
@@ -94,7 +92,7 @@ Marks are curved under [[shared/bnds-assessment-framework|the BNDS framework]] r
 
 ## After the exam
 
-- **Tue 2027-01-19: scripts returned** with **question-level AO breakdowns**, not just a total.
+- **Wed 2027-01-20: scripts returned** in the double with **question-level AO breakdowns**, not just a total.
 - **Wed 2027-01-20, the double:** you turn that data into a **one-page Semester 2 target sheet**: where the marks went, which AO is your gap, and one action. It is logged as LB7. Make it specific enough to act on months later, in February.
 - Grades and comments are due Wed 2027-01-20.
 

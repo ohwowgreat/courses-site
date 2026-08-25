@@ -46,7 +46,7 @@ This lesson asks the question the course has been building toward: what makes so
 </figure>
 </div>
 
-## The ideas
+## 1 · Learn
 
 ### The artworld and the end of art
 
@@ -56,7 +56,7 @@ The question here is what makes something art when looking cannot settle it. **D
 
 To see the artworld at work, you follow the object out of the studio and into the institution, and you name who decided, and where. **Duchamp** and **Warhol** are the key cases: ordinary objects become art through the institution that receives them, not through the artist's hand alone. **Pluralism** is the result: many kinds of thing can be art at once, and no single look defines it.
 
-## Day by day
+## 2 · Do
 
 - **Mon 12-21.** Danto on the artworld and the end of art, the argument taken straight.
 - **Tue 12-22.** Warhol, Duchamp, and pluralism: follow the object out of the studio and into the institution, and name who decided and where. [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB8]] is posted today. The End-of-Semester Activity also runs today, in a short session.
@@ -67,7 +67,7 @@ To see the artworld at work, you follow the object out of the studio and into th
 - **LB8.** Posted Tue 2026-12-22.
 - **Retrospective announced** Wed 2026-12-23. You get 13 days' notice covering the holiday. The brief is also your break homework.
 
-## Review
+## 3 · Check
 
 Check you can:
 

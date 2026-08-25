@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-4-development]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-10-composition-1]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-12-targeted-tests-and-direction]]"
-modified: 2026-08-05
+modified: 2026-08-25
 ---
 # S1 Lesson 11: Composition 2 and Critique
 
@@ -19,8 +19,8 @@ modified: 2026-08-05
 <div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO3 Develop</span></span></div>
 <p class="contract-job">Composition 2 composed, built and resolved; a structured critique of both compositions; the critique acted on</p>
 <div class="contract-grid">
-<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2026-11-18 → Fri 2026-11-20, then Mon 2026-11-23 → Tue 2026-11-24<span class="contract-cell-note">Sessions: 5 days (W12–W13) — studio production template</span></span></div>
-<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS8</a> collected Fri 2026-11-20 (slips to Monday if Foreign Culture Day takes the Friday; the sequence holds)</span></div>
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Thu 2026-11-19 · Fri 11-20 (double), then Mon 2026-11-23 · Tue 11-24<span class="contract-cell-note">Sessions: 5 sessions over 4 days (W12–W13), studio production template</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS8</a> collected Fri 2026-11-20</span></div>
 </div>
 <div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Sketchbook: nightly studies toward whichever composition is weaker</span></div>
 </div>
@@ -28,7 +28,13 @@ modified: 2026-08-05
 
 ## Overview
 
-In this lesson you compose, build, and resolve Composition 2, then critique both compositions and change your work in response. Composition 2 is the alternative you rejected in Lesson 3, built with the same effort as Composition 1 so the comparison is fair. You hand in **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS8]]**, both compositions photographed and laid out side by side, on Fri 2026-11-20. This may slip to Monday if Foreign Culture Day takes the Friday, but the order of days stays the same. The critique you take from this lesson guides the targeted work in Lesson 12.
+You compose, build, and resolve **Composition 2**, the alternative you set aside in Lesson 3. You give it the same effort as Composition 1 so the comparison is honest. You photograph both compositions and lay them side by side for [[classes/a-level-art-design/assessments/9479-s1-course-skills|CS8]], collected Fri 2026-11-20. Then you critique both against your stated intention and change something real because of what you heard. These dates fall on Foreign Culture Day; lessons run as normal.
+
+## 1 · Learn
+
+### Composition 2: the road not taken
+
+**Composition 2** is the thumbnail you rejected back in Lesson 3, now built fully. You start from your studies and give it the same care as Composition 1. To do this, put the rejected thumbnail on the table and read its rejection note back to yourself, then compose from there.
 
 
 <figure class="plate">
@@ -36,40 +42,35 @@ In this lesson you compose, build, and resolve Composition 2, then critique both
   <figcaption>Edwaert Collier, <em>Vanitas Still Life</em>, 1662</figcaption>
 </figure>
 
-## The ideas
+**Honest comparison** means both compositions get equal effort. If one is rushed, the comparison is not fair. Composition 2 must genuinely be the rejected alternative, not a variation of Composition 1.
 
-### Composition 2, the road not taken
+### Critique against intention
 
-**Composition 2** is the road not taken: the thumbnail you rejected in Lesson 3, now built in full. You compose it from your studies and give it the same effort you gave Composition 1. It must genuinely be the rejected alternative, not a variation of Composition 1. Equal effort is what makes the comparison honest. If one composition is built carefully and the other is rushed, you are comparing effort, not ideas.
-
-### Structured critique
-
-A **structured critique** judges the work against its stated intention, not against how hard someone worked. You pin both compositions with the intention written between them. The class works in rounds and follows a fixed protocol: describe what you see, evaluate it against the intention, then offer one suggestion. The maker speaks last, and notes are taken word for word. Each maker then circles the two comments that matter most.
+A **structured critique** judges the work against your stated intention, not against how much effort it took. Pin both compositions with the intention written between them. The class works in rounds and each speaker does three things: describe what is there, evaluate it against the intention, and offer one suggestion. The maker speaks last and writes the comments down word for word, then circles the two comments that matter most.
 
 ### Acting on the critique
 
-The critique only counts when it changes the work. You make one real change to the stronger composition, then annotate what you changed and which comment caused the change. This links the decision to the feedback.
+Acting on the critique means you change something real because of what you heard. You work on the stronger composition, make an actual change, then annotate what changed and which comment caused it.
 
-## Day by day
+## 2 · Do
 
-- **Wed 11-18.** Put the rejected thumbnail from Lesson 3 on the table and read back its rejection note. Compose Composition 2 from your studies.
-- **Thu 11-19.** Build Composition 2: get the structure and main relationships down in one day. Work at a steady pace.
-- **Fri 11-20.** Resolve Composition 2. Hand in **CS8**: both compositions photographed and laid out side by side.
-- **Mon 11-23.** Pin both compositions with the intention between them. Run the structured critique across the whole class.
+- **Thu 11-19.** Put the rejected thumbnail from Lesson 3 on the table and read its rejection note back. Compose Composition 2 from your studies. Each night, do sketchbook studies toward whichever composition is weaker.
+- **Fri 11-20 (double).** Build Composition 2's structure and main relationships at a deliberate pace, then resolve it. Photograph both compositions and lay them side by side for CS8, collected today.
+- **Mon 11-23.** Pin both compositions with your intention between them. Run the structured critique in full, whole class in rounds. Speak last as the maker, take notes verbatim, then circle the two comments that matter.
 - **Tue 11-24.** Act on the critique: change something real on the stronger composition, and annotate what changed and which comment caused it.
-- **Homework.** Each night, make studies toward whichever composition is weaker.
 
 ## Assessment
 
-**CS8** (both compositions photographed and laid out) collects Fri 2026-11-20 — see the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. Composition 2 must be genuinely the rejected alternative, not a variation of Composition 1, and both must receive equal effort so the comparison is fair.
+**CS8** (both compositions photographed and laid out side by side) collects Fri 2026-11-20, see the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. Composition 2 must genuinely be the rejected alternative, not a variation of Composition 1, and both must receive equal effort so the comparison is fair.
 
-## Review
+## 3 · Check
 
 Check you can:
 
-- Build Composition 2 as the road not taken, with the same effort as Composition 1, so the comparison is honest.
-- Run a structured critique that judges both compositions against the stated intention, not against effort.
-- Change something in your work because of what you heard in the critique, and annotate the change and its cause.
+- Build Composition 2, the road not taken from Lesson 3, with the same effort as Composition 1.
+- Explain why an honest comparison needs equal effort on both compositions.
+- Run a structured critique that judges the work against its intention, not its effort.
+- Act on the critique by changing something real and annotating which comment caused it.
 
 ## Practice
 

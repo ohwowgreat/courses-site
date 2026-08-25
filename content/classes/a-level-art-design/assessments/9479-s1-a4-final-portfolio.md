@@ -7,7 +7,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-5-final-outcome-and-portfolio]]"
   - "[[classes/a-level-art-design/9479-c3-winter-brief]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-08-02
+modified: 2026-08-25
 ---
 # A Level Art & Design · S1 A4: Final Portfolio
 
@@ -49,7 +49,7 @@ What you submit:
 - **The complete supporting portfolio**: intention, recording pages, sustained study, media experiments, media selection, scale trial, both artist studies, the bridge piece, both compositions, targeted tests, evaluations, and the final composition plan.
 - **In sequence**, laid out as a run order that a stranger can follow.
 
-You submit all work digitally. Cambridge takes no hyperlinks and no QR codes. Annotation is assessed within AO3 and must be **typed**.
+All work is submitted digitally. Cambridge takes no hyperlinks and no QR codes. Annotation is assessed within AO3 and must be **typed**.
 
 ## Instructions
 
@@ -57,13 +57,13 @@ You submit all work digitally. Cambridge takes no hyperlinks and no QR codes. An
 
 1. **Mon 01-04.** Photograph the outcome, then prepare the images: crop, correct, name, file to the template.
 2. **Tue 01-05.** Sequence the portfolio. Lay the full run order out and walk it once. Then a peer walks it and tells you where a stranger stumbles.
-3. **Wed 01-06.** Edit and clean. Cut what does not earn its place and **log every cut.** Then do the final AO check: all four descriptors, in writing, signed.
+3. **Tue 01-05, second beat.** Edit and clean. Cut what does not earn its place and **log every cut.** The final AO check goes home that night: all four descriptors, in writing, signed, verified at Thursday's door. The portfolio itself stays in the studio.
 4. **Thu 01-07.** Submit, in session. **Nothing is edited after.**
-5. **Fri 01-08.** Submission is acknowledged, you write your semester reflection, and the winter homework is set.
+5. **Fri 01-08.** Submission acknowledged, semester reflection written, and the winter homework set.
 
 **The rule that matters most: no edits after submission.** Work not in the portfolio on Thursday is not in the portfolio.
 
-**If you are absent.** Contact your teacher **at least 24 hours before** the deadline. Request extensions 24 hours ahead. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8). The school's usual late-work cutoff, roughly three weeks before the last school day of the semester, falls inside the winter break for S1, so do not rely on it.
+**If you are absent.** Contact your teacher **at least 24 hours before** the deadline. Extensions are requested 24 hours ahead. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8). The school also sets a late-work cutoff, about three weeks before the last school day of the semester. For S1 this falls inside the winter break. The exact date will be confirmed in class, so do not rely on it.
 
 ## Rubric
 
@@ -82,11 +82,11 @@ The other three AOs have been sampled at A1, A2 and A3. AO4 is assessed for the 
 
 | Level | Marks | Descriptor |
 |---|---|---|
-| **5** | 9–10 | **Accomplished** portfolio that **fully** realises intentions · perceptive application of visual language to communicate ideas |
-| **4** | 7–8 | Confident portfolio that effectively realises intentions · confident application of visual language |
-| **3** | 5–6 | Competent portfolio that realises intentions · relevant application of visual language |
-| **2** | 3–4 | Adequate portfolio that **partly** realises intentions · some application of visual language |
-| **1** | 1–2 | Basic portfolio that does **not fully** realise intentions · limited application of visual language |
+| **5** | 9–10 | **Accomplished** portfolio that **fully** realizes intentions · perceptive application of visual language to communicate ideas |
+| **4** | 7–8 | Confident portfolio that effectively realizes intentions · confident application of visual language |
+| **3** | 5–6 | Competent portfolio that realizes intentions · relevant application of visual language |
+| **2** | 3–4 | Adequate portfolio that **partly** realizes intentions · some application of visual language |
+| **1** | 1–2 | Basic portfolio that does **not fully** realize intentions · limited application of visual language |
 | **0** | 0 | No creditable response |
 
 AO4 is where sequencing and editing are paid for. Cambridge asks that the work be "thoughtfully and appropriately selected and presented" so that ideas and progress read clearly. A portfolio holding strong work in a confusing order loses marks here that the work itself had earned.
@@ -108,6 +108,6 @@ Marks are curved under [[shared/bnds-assessment-framework|the BNDS framework]] r
 |---|---|
 | **CS10**, mid-production review reflection | The last checkpoint before the outcome was finished |
 | The amended composition plan from A3 | What the outcome was supposed to be. AO4 asks whether it was realized |
-| Your cut log from Wed 01-06 | Evidence of editing judgment, and useful to you in Semester 2 |
-| All three earlier self-checks | The AO check on Wed 01-06 is the fourth and the only one covering all four AOs |
+| Your cut log from Tue 01-05 | Evidence of editing judgment, and useful to you in Semester 2 |
+| All three earlier self-checks | The take-home AO check signed Tue 01-05 night is the fourth and the only one covering all four AOs |
 | [[classes/a-level-art-design/9479-assessment-criteria\|The full criteria grid]] | Sign the final check against Cambridge's words |

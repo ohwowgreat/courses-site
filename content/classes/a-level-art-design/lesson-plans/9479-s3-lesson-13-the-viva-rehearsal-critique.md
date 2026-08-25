@@ -41,7 +41,7 @@ This week is the dress rehearsal for your submission and for any interview. You 
   <figcaption>Caravaggio, <em>The Musicians</em>, 1595 — rehearsal, mid-note</figcaption>
 </figure>
 
-## The ideas
+## 1 · Learn
 
 ### Presenting and defending the investigation
 
@@ -53,7 +53,7 @@ Every decision you name in the viva must be **visible on a page**. A defense the
 
 After the critique you act on what it exposes. Change what broke. Log what held. **Nothing new starts after the critique.** The run to A4 is refinement, not fresh work, so from here you make last touches only.
 
-## Day by day
+## 2 · Do
 
 - **Mon 12-13.** Prepare your presentation. Speak the process, the research, and the outcomes out loud, the case for your investigation.
 - **Tue 12-14.** Final critique presentations begin: defend your decisions, take questions, trace every claim to a page.
@@ -63,7 +63,7 @@ After the critique you act on what it exposes. Change what broke. Log what held.
 
 Homework: in up to 30 minutes, write the answer to the hardest question the critique put to you.
 
-## Review
+## 3 · Check
 
 Check you can:
 

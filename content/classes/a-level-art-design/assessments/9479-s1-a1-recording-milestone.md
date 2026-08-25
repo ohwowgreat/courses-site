@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-05-recording-pages-and-a1]]"
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-08-02
+modified: 2026-08-25
 ---
 # A Level Art & Design · S1 A1: Recording Milestone
 
@@ -50,7 +50,7 @@ What is on the table:
 - **The sustained study.** The single extended piece, finished to the standard the rest of the work sits at.
 - **Supporting studies.** Everything that fed the above, including the holiday sketchbook recording, dated.
 
-This is a **Component 1 milestone**, so it is marked with the real Cambridge criteria rather than a classroom substitute. Component 1 is eventually marked by Cambridge as one whole portfolio out of 60. A1 samples the AO1 column of that grid, 15 marks, while there is still a semester left to act on it.
+This is a **Component 1 milestone**, so it is marked with the real Cambridge criteria, not a classroom substitute. Cambridge eventually marks Component 1 as one whole portfolio out of 60. A1 samples the AO1 column of that grid, 15 marks, while there is still a semester left to act on it.
 
 ## Instructions
 
@@ -60,9 +60,9 @@ This is a **Component 1 milestone**, so it is marked with the real Cambridge cri
 
 1. Lay out the intention, the Stage 1 pages, the sustained study and the supporting studies, in the order you want them read.
 2. The review happens in session, with you present.
-3. **Nothing is added during the review.** Work that is not on the table at the start is not assessed.
+3. Nothing is added during the review. Work that is not on the table at the start is not assessed.
 
-**After.** A1 comes back banded on Sat 2026-10-10. You convert the feedback into **three specific written actions**, one to one. Those three actions are retrieved at A2.
+**After.** A1 comes back banded on Sat 2026-10-10. You turn the feedback into **three specific written actions**, one to one. Those three actions are retrieved at A2.
 
 **If you are absent.** Contact your teacher at least 24 hours before the review. Illness needs a doctor's note. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8). Request extensions 24 hours ahead too.
 
@@ -70,7 +70,7 @@ This is a **Component 1 milestone**, so it is marked with the real Cambridge cri
 
 **AO1 Record**, 15 marks, from Cambridge's Component 1 grid. Full grid and all four AOs: [[classes/a-level-art-design/9479-assessment-criteria|9479 Assessment Criteria]].
 
-AO1 asks you to *record ideas, observations and insights relevant to intentions, reflecting critically on work and progress.* Three things are judged: **selection of subject matter**, **methods of recording**, and **communication of intention through critical reflection**.
+AO1 asks you to *record ideas, observations and insights relevant to intentions, reflecting critically on work and progress.* Three things are being judged: **selection of subject matter**, **methods of recording**, and **communication of intention through critical reflection**.
 
 | Level | Marks | Descriptor |
 |---|---|---|
@@ -83,7 +83,7 @@ AO1 asks you to *record ideas, observations and insights relevant to intentions,
 
 Two distinctions decide most of the marks:
 
-- **"A variety of sources" against "different sources."** Levels 4 and 5 need variety. In practice that means primary recording (places, people, objects, gallery or studio visits) alongside secondary material, not a folder of images off a screen.
+- **"A variety of sources" against "different sources."** Levels 4 and 5 need variety, which in practice means primary recording (places, people, objects, gallery or studio visits) alongside secondary material, not a folder of images off a screen.
 - **"Consistently" against once.** Level 5 needs critical reflection running through the work, not one strong statement at the front.
 
 Your mark is then curved under [[shared/bnds-assessment-framework|the BNDS framework]] rather than reported raw, because it is a Forecast Grade signal partway through a two-year course, not a Cambridge score.
@@ -92,7 +92,7 @@ Your mark is then curved under [[shared/bnds-assessment-framework|the BNDS frame
 
 - Returned Sat 2026-10-10, banded, with feedback given one to one on a rota.
 - You write **three specific actions** from that feedback. Not three feelings about it.
-- The self-check target: your own banding lands within one band of your teacher's. This is the calibration habit the whole course leans on, and the gap is tracked across all four attainments.
+- The self-check target: your own banding lands within one band of your teacher's. This is the calibration habit the whole course leans on, and the gap gets tracked across all four attainments.
 - A1 feeds the mid-term grades due Thu 2026-10-29.
 
 ## How to prepare
@@ -102,6 +102,6 @@ Your mark is then curved under [[shared/bnds-assessment-framework|the BNDS frame
 | **CS1**, formal elements study set + Recording Page 1 | The first version of what A1 reviews. Reread its feedback |
 | **CS2**, intention statement + mind map | Your intention, already written and marked once |
 | **CS3**, the sustained-study progress check | Whether the sustained study is actually on track |
-| **CS4**, recording pages build check (Wed 09-30) | The dress rehearsal. What CS4 flagged is what A1 will find |
+| **CS4**, recording pages build check (Tue 09-29) | The dress rehearsal. What CS4 flagged is what A1 will find |
 | The break sketchbook homework | Primary-source recording, dated. This is where "a variety of sources" is won |
 | [[classes/a-level-art-design/9479-assessment-criteria\|The AO1 criteria]] | The Thu 10-08 self-check. Use Cambridge's words, not your own summary of them |

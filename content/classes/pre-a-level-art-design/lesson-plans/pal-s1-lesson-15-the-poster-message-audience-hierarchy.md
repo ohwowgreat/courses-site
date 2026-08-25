@@ -42,7 +42,7 @@ modified: 2026-08-05
 
 This lesson opens Unit 4 and asks what a poster must do. You learn the four questions to ask any poster, then annotate one poster and design your own final poster in thumbnail. Your deliverable is **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS4]]**: one annotated poster analysis plus a four-thumbnail set with type studies, one circled with a reason. You produce and hand it in on Wed 2026-12-16. It rehearses [[classes/pre-a-level-art-design/assessments/pal-s1-a4-final-poster|A4]], the final poster, which you make in class on Wed 2026-12-23.
 
-## The ideas
+## 1 · Learn
 
 A poster works differently from the images you made earlier this semester. Those could wait to be understood. A poster has **three seconds and three meters**: it has that long to deliver one message to one audience, or it fails. To design one, ask it four questions.
 
@@ -74,7 +74,7 @@ A poster works differently from the images you made earlier this semester. Those
 
 **Type as voice** means the lettering carries a tone. The same word in three different letterings sounds like three different people. This is the text-as-image idea from Lesson 11, now in charge of the poster.
 
-## Day by day
+## 2 · Do
 
 - **Wed 12-16.** Your [[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage|A3]] collages are returned with feedback and one written action each. You learn the four poster questions on worked exemplars, then take one poster and annotate it against the four questions, marking the first, second, and third read with arrows (CS4 part one). Then you design four thumbnails of a poster for an exhibition of your own work, your [[classes/pre-a-level-art-design/assessments/pal-s1-a2-photographic-series|A2]] photo series or A3 collage, for a real audience: this school, this hallway. Give the four thumbnails four different hierarchies (image-led, type-led, split, crowded-to-sparse), hand-letter the title word in two voices, and circle one thumbnail with one line saying why (CS4 part two). CS4 is collected in class. Homework: gather or make anything your circled thumbnail needs (images, lettering references, files), and post to MB.
 
@@ -82,7 +82,7 @@ A poster works differently from the images you made earlier this semester. Those
 
 **CS4**, the thumbnail set plus poster analysis, is sat and collected in this double, with a focus on hierarchy and audience. It rehearses **A4**, the final poster, one week ahead. You sit A4 on Wed 2026-12-23: you make it in class, handmade or digital, and it is marked on hierarchy, typography, message, and audience. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

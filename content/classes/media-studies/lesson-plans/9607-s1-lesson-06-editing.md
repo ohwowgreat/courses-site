@@ -47,7 +47,7 @@ modified: 2026-08-09
 
 Editing is the fourth of the four technical elements, and it stays invisible until you break it. Across two days you build a three-shot sequence that holds together, then rebuild the same sequence wrong on purpose so you can see the illusion collapse. You produce **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS6]]** on Mon 09-28: a cut three-shot sequence in two versions, one obeying the 180-degree rule and one deliberately breaking it, both posted and dated with the difference named in the syllabus's own terms. This feeds C1 production, [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]], [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]], and Component 2 Section A. It is also the last technical element before the plan is locked and cameras go out over the break, and the C3 major video task is itself an editing task, so what you learn here decides whether your footage is usable.
 
-## The ideas
+## 1 · Learn
 
 ### Reading pace through cuts
 
@@ -97,7 +97,7 @@ Ways of moving from one shot to the next beyond a straight cut: **dissolve**, **
 
 Editing controls how time passes on screen: **ellipsis** (time skipped), **expansion of time** (time stretched), **long take**, **short take**, and **slow motion**. Note this clearly: long take, short take, and slow motion belong under editing, not camera. Candidates misfile them every year.
 
-## Day by day
+## 2 · Do
 
 - **Wed 09-23 (double).** You count cuts in two contrasting sequences and link the count to how each felt. You learn the continuity system with each part shown on a clip. Then in pairs, using phones and free editing software, you shoot and cut a three-shot sequence: a two-person exchange built from shot / reverse shot, opened by an establishing shot, with one eyeline match. A few are screened, then you watch a version shot from the wrong side of the line and see the two people swap places: crossing the line.
 - **Mon 09-28.** Retrieval first, from memory: the 180-degree rule in one sentence, then three cuts named. You then learn cuts that break continuity, crosscutting and parallel editing, transitions, and time and duration. You build **CS6**: version two of Wednesday's sequence, re-cut to break the 180-degree rule deliberately, plus one transition chosen and justified. Post both versions to the blog, dated, with two or three sentences naming what breaks in version two and what the continuity system did for the viewer in version one. Before you leave, log your production group's equipment decision: school camera sign-out or your own kit, named and already tested across Lessons 03 to 06.
@@ -110,7 +110,7 @@ Editing controls how time passes on screen: **ellipsis** (time skipped), **expan
 
 You are marked on the continuity version actually holding, the break being the intended one rather than an accident, and the written difference using correct terms. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

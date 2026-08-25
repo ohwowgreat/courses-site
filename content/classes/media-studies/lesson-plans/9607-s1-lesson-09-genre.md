@@ -45,7 +45,7 @@ modified: 2026-08-09
 
 This lesson introduces genre, the first of the macro elements. You learn to treat genre not as a list of tropes but as an agreement between the industry and the audience. You then evidence a genre from codes alone, and you map the genre contract onto your own C1 product, posting it to the blog as a research entry. That post feeds [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2]], [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]] and the C2 case-study document. Every C3 brief you meet later is a genre contract before it is a production.
 
-## The ideas
+## 1 · Learn
 
 ### Genre as a contract
 
@@ -83,7 +83,7 @@ Attribute a genre and defend it from codes alone. Use the micro elements you hav
 
 **Hybridity**: genres are not boxes. Some texts sit across two genres. Name such a text and say what each parent genre contributes.
 
-## Day by day
+## 2 · Do
 
 - **Fri 10-16.** Genre is a contract. Learn Neale (repetition and difference) and Altman (genre as the deal). Map one exam-plausible genre you know well (horror, crime drama, sitcom, documentary, reality TV) onto the contract: what repeats, what varies, who profits from the repetition, what the audience is promised. A C-drama or xianxia mapping is fine as a spoken aside; keep your written mapping exam-facing.
 - **Mon 10-19.** Prove genre from codes, then turn it on your own product. Watch four short unlabeled clips and match each to one of four candidate genres, defending your choice from codes alone with two pieces of evidence. Then post your genre-contract research entry to the blog: what genre your opening offers, what it promises the audience, which three codes carry the promise, and what you will vary so the text is not a copy. No homework, as A2 falls Mon 10-26.
@@ -92,7 +92,7 @@ Attribute a genre and defend it from codes alone. Use the micro elements you hav
 
 No graded item sits in this lesson. The genre-contract post is C1 blog evidence and is audited as part of **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS9]]** at [[classes/media-studies/lesson-plans/9607-s1-lesson-10-narrative-barthes-and-the-blog-audit|L10]]. **A2** falls Mon 10-26. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

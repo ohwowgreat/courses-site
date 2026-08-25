@@ -7,7 +7,7 @@ related:
   - "[[concepts/production-craft]]"
   - "[[concepts/process-evidence-and-reflection]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-08-10
+modified: 2026-08-25
 ---
 # Media Studies · S1 A3: Component 1 Portfolio
 
@@ -18,7 +18,7 @@ modified: 2026-08-10
 <dl class="stat-strip">
   <div class="stat"><dt>Due</dt><dd>Fri 2026-11-27<span class="stat-x">submitted in session. <strong>No edits after</strong></span></dd></div>
   <div class="stat"><dt>Assesses</dt><dd><strong>AO3 (40 marks) + AO2 (10 marks)</strong><span class="stat-x">the full 50-mark component</span></dd></div>
-  <div class="stat"><dt>Returned</dt><dd>Tue 2026-12-01<span class="stat-x">self-assessment first</span></dd></div>
+  <div class="stat"><dt>Returned</dt><dd>Mon 2026-11-30<span class="stat-x">self-assessment first</span></dd></div>
 </dl>
 
 | | |
@@ -48,7 +48,7 @@ A3 is the whole of Component 1. You submit three things together:
 
 **1. The product.** Your finished film opening or magazine, exported and playable, in the genre you registered.
 
-**2. The Creative Critical Reflection (CCR).** Your reflection **in a creative format**, posted. It answers the four set questions. It is assessed on its own technical and creative skill as well as on what it says. A CCR read off a page as a talking head answers the questions while failing the format.
+**2. The Creative Critical Reflection (CCR).** Your reflection **in a creative format**, posted. It answers the four set questions. It is assessed on its own technical and creative skill as well as on what it says. A CCR read off a page as a talking head answers the questions but fails the format.
 
 **3. The blog, complete.** Every post, dated on the day, contributions labeled, no gaps. This is the same blog A2 sampled at its mid-point, now finished.
 
@@ -56,10 +56,10 @@ A3 is the whole of Component 1. You submit three things together:
 
 **The week is built around Friday.**
 
-1. **Wed 11-25, the double: CCR surgery.** This is the last window where help is available. The queue runs in **triage order by CS11 severity**, not by hand-raising, so everyone is seen. Every visit ends with **one fix executed**, not promised.
+1. **Wed 11-25, the double: CCR surgery.** This is the last window where help is available. The queue runs in **triage order by CS11 severity**, not by hand-raising, so everyone is seen and the strongest drafts get peer support rather than teacher time. Every visit ends with **one fix executed**, not promised.
 2. **The submission checklist**, run at the close of Wednesday: product exported and playable · CCR in its creative format, posted · blog complete, posts dated, contributions labeled · URLs correct.
-3. **Fri 11-27: submission.** Final checks against the checklist. URLs and files logged on the submission sheet, confirmation shown on screen per group.
-4. **No edits after.** This is absolute. Friday is logistics, not heroics.
+3. **Fri 11-27: submission.** Run the final checks against the checklist. Log your URLs and files on the submission sheet, and show the confirmation on screen for your group.
+4. **No edits after.** This is absolute. Friday is logistics, not last-minute changes.
 
 **Run this at the close of the Wednesday session**, not on Friday morning.
 
@@ -71,11 +71,11 @@ A3 is the whole of Component 1. You submit three things together:
 
 **If you are absent.** Contact your teacher **at least 24 hours before** the deadline. Extensions are requested 24 hours ahead. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8).
 
-**Group work.** Where the production is group work, individual contributions must be labeled in the blog. The CCR is your own.
+**Group work.** Where the production is group work, label individual contributions in the blog. The CCR is your own.
 
 ## Rubric
 
-Cambridge's **Component 1 assessment criteria**, 2027 syllabus. Five strands of 10 marks, **50 marks total**: four strands are AO3 Practical Application (40 marks), one is AO2 Evaluation (10 marks).
+This uses Cambridge's **Component 1 assessment criteria**, 2027 syllabus. There are five strands of 10 marks, **50 marks total**: four strands are AO3 Practical Application (40 marks), one is AO2 Evaluation (10 marks).
 
 | Strand | AO | What it judges | Marks |
 |---|---|---|---|
@@ -100,7 +100,7 @@ Every strand runs on the same band ladder: **9–10 sophisticated · 7–8 effec
 
 Three things are worth reading twice:
 
-- **"Knowingly subverts" sits at the top with "accurately follows."** Breaking a convention on purpose and being able to say why scores as well as observing it perfectly.
+- **"Knowingly subverts" sits at the top with "accurately follows."** Breaking a convention on purpose, and being able to say why, scores as well as observing it perfectly.
 - **The CCR is marked twice**: once for its own technical and creative skill (strand 4, AO3) and once for the quality of the evaluation in it (strand 5, AO2). A creative CCR that says nothing loses strand 5. A thoughtful CCR delivered as a read-aloud essay loses strand 4.
 - **"All four questions"** is the phrase in strand 5's top three bands. Uneven coverage caps that strand at 3 or 4, however good the strongest answer is.
 
@@ -108,7 +108,7 @@ Marks are curved under [[shared/bnds-assessment-framework|the BNDS framework]] r
 
 ## After the sit
 
-- **Returned Tue 2026-12-01.** The protocol is fixed: **you band your own portfolio against these criteria before any mark is discussed.** The conversation is about the gap between your band and the mark, not about the mark.
+- **Returned Mon 2026-11-30.** You band your own portfolio against these criteria before any mark is discussed. The conversation is about the gap between your band and the mark, not about the mark.
 - You then write **one production target**: specific, evidenced from the feedback, achievable in Semester 2. "Hold focus in low light" beats "get better at filming". It is logged as LB4 and collected on in S2.
 - The next assessment, [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]], sits Wed 2026-12-16.
 
@@ -118,7 +118,7 @@ Marks are curved under [[shared/bnds-assessment-framework|the BNDS framework]] r
 |---|---|
 | **A2**, the blog mid-point | The same blog, already marked once. Its feedback is your instruction sheet |
 | **CS11**, CCR draft review against the real criteria | Where the CCR stands, and your place in Wednesday's triage queue |
-| The **Mon 11-02 screening and Tue 11-03 audit** | Real audience testimony on your product, and the pickup list from it |
+| The **Mon 11-02 screening and the audit that closes at L12 (Mon 11-09)** | Real audience testimony on your product, and the pickup list from it |
 | Wednesday's **submission checklist** | Run it yourself before Wednesday, so surgery time goes on the CCR rather than on admin |
 | The four CCR questions | Coverage of all four is what strand 5's top bands require |
 | **Cambridge's Level 3 exemplar** | What a mid-band portfolio actually looks like, and the three reasons it stopped there |

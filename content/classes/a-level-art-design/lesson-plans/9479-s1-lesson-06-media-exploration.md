@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-05-recording-pages-and-a1]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-07-selection-and-scale]]"
-modified: 2026-08-05
+modified: 2026-08-25
 ---
 # S1 Lesson 06: Media Exploration
 
@@ -19,8 +19,8 @@ modified: 2026-08-05
 <div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO2 Explore</span><span class="contract-ao">with AO3 opening</span></span></div>
 <p class="contract-job">Twelve media experiments run as one three-day session; a keep-or-change decision made with evidence</p>
 <div class="contract-grid">
-<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-10-12 → Fri 2026-10-16<span class="contract-cell-note">Sessions: 5 days (W7) — Unit 3 opens; first use of the studio production template</span></span></div>
-<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS5</a> collected Fri 2026-10-16 (slips to Monday if Foreign Culture Day takes the Friday)</span></div>
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-10-12 · Tue 10-13 · Thu 10-15 · Fri 10-16 (double)<span class="contract-cell-note">Sessions: 5 sessions over 4 days (W7) — Unit 3 opens; first use of the studio production template</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS5</a> collected Fri 2026-10-16</span></div>
 </div>
 <div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Sketchbook: continue the two most promising experiments at home, ten minutes each</span></div>
 </div>
@@ -28,19 +28,17 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson opens Unit 3. You run twelve media experiments across three days, then decide which media to keep and which to drop. The point is to find which media carry your theme, not which only describe it. You produce **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS5]]**: the twelve experiments documented in your sketchbook, collected Fri 2026-10-16. At least one experiment must fail, and you must say so and say why. The media you keep here feed the next lesson, where you test them at scale.
+This lesson opens Unit 3. Over three days you run twelve set media experiments to find which media carry your theme, not which only describe it. You produce twelve documented experiments and a keep-or-change decision made with evidence. This is **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS5]]**, collected on Fri 2026-10-16. It feeds the next lesson, where you test the media you keep at scale. These dates may shift when the school publishes the calendar for this period; if Foreign Culture Day takes the Friday, CS5 slips to the following Monday, and this will be confirmed in class.
 
-## The ideas
+## 1 · Learn
 
 ### Media that carry the theme
 
-A medium **carries** the theme when the material itself does part of the work: its texture, weight, or behavior belongs to your idea. A medium only **describes** the theme when it just shows the subject with no feeling added. The twelve experiments are built to test this difference.
-
-Experiments are allowed to fail. A safe test teaches nothing. If an experiment does not work, that is useful information, and you record it.
+The goal is to test which media **carry** your theme rather than which only **describe** it. A medium carries the theme when the material itself does the work of the idea, not just the picture. Design each experiment so it could fail: safe tests teach nothing. At least one experiment must fail, and you say so in its annotation and say why.
 
 ### The twelve experiments
 
-Run them in three blocks of four, one block per day, on A5 unless stated. Every experiment uses your own source material.
+Run twelve set experiments in three blocks of four, one block per day, on A5 unless stated. Every experiment uses your own source material.
 
 1. Ink and stick, blind then sighted.
 2. Charcoal laid then erased back.
@@ -52,38 +50,38 @@ Run them in three blocks of four, one block per day, on A5 unless stated. Every 
 8. Acrylic impasto with card scraper.
 9. Pen stippling or cross-hatching, one passage pushed to full dark.
 10. Mixed-media layering, any three stacked.
-11. **Low-relief test**: a card or clay maquette photographed in raking light. This runs the 2D-to-3D loop the top-band exemplar uses.
-12. Digital pass: your own photograph through threshold and overlay, printed.
+11. **Low-relief test**: a card or clay maquette photographed in raking light. This is the 2D-to-3D loop the top-band exemplar runs.
+12. Digital pass: your own photograph put through threshold and overlay, then printed.
 
 ### The keep-or-change decision
 
-At the end you make a **keep-or-change decision**: for each experiment, carry it forward, adapt it, or drop it. You base the choice on evidence from the work in front of you. For every experiment you drop, you write the reason. You name what you rejected.
+The **keep-or-change decision** is your final judgment on each experiment: carry forward, adapt, or drop. Make it with evidence. For every experiment you drop, write a reason. Name what you rejected.
 
-## Day by day
+## 2 · Do
 
-- **Mon 10-12.** The twelve experiments are presented, one exemplar strip each. Plan your exploration: decide which source feeds which experiment, and fix the formats and order. Set up your stations.
-- **Tue 10-13 → Thu 10-15.** The three-day run: experiments 1–4, then 5–8, then 9–12, one block per day, about ten minutes each. Annotate as you go. Each day, circle your most surprising result. For homework, continue your two most promising experiments at home, ten minutes each.
-- **Fri 10-16.** Lay out all twelve in grid order. Sort them keep-or-change, with a written reason for every drop. **CS5 is collected.** You preview testing the keepers at scale.
+- **Mon 10-12.** The twelve experiments are presented with one exemplar strip each. Plan your exploration: which source feeds which experiment, with formats and order fixed. Stations are set up.
+- **Tue 10-13.** First block: experiments 1–4, about ten minutes each, annotating as you go. Close by circling the most surprising result.
+- **Thu 10-15.** Second block: experiments 5–8, same run. Close by circling the most surprising result.
+- **Fri 10-16.** Third block in P3: experiments 9–12. In P4, lay all twelve out in grid order and make the keep-or-change sort, with a written reason for every drop. CS5 is collected. Homework: continue your two most promising experiments at home, ten minutes each.
 
 ## Assessment
 
-**CS5** (twelve experiments documented, sketchbook) is collected Fri 2026-10-16. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. At least one experiment must fail, and its annotation says so and says why. This date may move to the Monday if Foreign Culture Day takes the Friday; this will be confirmed in class.
+**CS5** (twelve experiments documented, sketchbook) collects Fri 2026-10-16 — see the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. At least one experiment must fail, and its annotation says so and says why.
 
-## Review
+## 3 · Check
 
 Check you can:
 
-- Run each of the twelve prescribed experiments on your own source material.
+- Run twelve media experiments designed so that they could fail.
+- Judge which media carry the theme rather than describe it.
 
 <figure class="plate">
   <img src="../../../static/img/repin-nevsky-studies.jpg" alt="Ilya Repin, Studies for Figures on the Nevsky Prospect, 1891" loading="lazy" />
   <figcaption>Ilya Repin, <em>Studies for Figures on the Nevsky Prospect</em>, 1891</figcaption>
 </figure>
 
-- Explain when a medium **carries** the theme rather than only describes it.
-- Judge which media carry your theme, using the evidence in front of you.
-- Make a **keep-or-change decision** and write a reason for each experiment you drop.
-- Let an experiment fail, and annotate what failed and why.
+- Make a keep-or-change decision with evidence, naming what you rejected.
+- Run the low-relief test as a 2D-to-3D loop.
 
 ## Practice
 

@@ -32,7 +32,7 @@ modified: 2026-08-05
 
 This lesson opens Unit 4 and the development stage. You compose your first full composition, **composition 1**, from your [[classes/a-level-art-design/assessments/9479-s2-assessments|A2]] feedback and your own studies. You build it across two studio days and push it as far as it goes before the May Day break. Midway through the week you receive the research paper outline and populate it with your own material. That is your **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS6]]**, a written annotation due Thu 2027-04-29. Composition 1 continues in Lesson 10, and this development work feeds **[[classes/a-level-art-design/assessments/9479-s2-assessments|A3]]**, which you sit Fri 2027-05-28.
 
-## The ideas
+## 1 · Learn
 
 ### The development stage
 
@@ -48,7 +48,7 @@ Development rewards **holding one idea**. You commit to a single idea and build 
 
 The **research paper outline** gives you the structure of your research paper. The structure is set for you; the content is yours. You populate it with the artist material you began in Unit 3: artist context, sources, and argument. From here the paper drafts alongside your studio work, integrated, so the writing keeps pace with the making. **CS6** checks that the outline carries your own material, not an empty template.
 
-## Day by day
+## 2 · Do
 
 - **Mon 04-26.** Use your A2 feedback and your own studies to compose composition 1, the development your exploration pointed to.
 - **Tue 04-27.** Commit to one idea and build composition 1, day 1.
@@ -60,7 +60,7 @@ The **research paper outline** gives you the structure of your research paper. T
 
 **CS6** (research paper outline populated) is due **Thu 2027-04-29**. It is a written annotation that starts your paper drafting in step with the development work. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It is marked on whether the outline carries your own material, artist context, sources, and argument, not an empty template. Studio resumes in the reduced May Day week (S11, ~05-01 → 05) in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-10-resolving-composition-1|Lesson 10]], where composition 1 is resolved and photographed. The third attainment, **A3** (development + research paper draft 1, AO3), sits **Fri 2027-05-28**. These spring dates may shift when the school publishes the calendar for that period.
 
-## Review
+## 3 · Check
 
 Check you can:
 

@@ -40,7 +40,7 @@ modified: 2026-08-05
 
 This lesson closes Unit 2. You make [[classes/pre-a-level-art-design/assessments/pal-s1-a2-photographic-series|A2]], your **photographic series**, from work you already shot. There is no new shooting here: the double is selection, sequence, and words. You choose 6 to 8 images, put them in order, give the series a title, and write a reflection. You post the series and reflection to MB by the end of the class on Wed 2026-11-04. Your contact sheet and your rejected frames go into the sketchbook as process evidence for [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|SB2]]/[[classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook|A5]]. A2 is the semester's second attainment.
 
-## The ideas
+## 1 · Learn
 
 ### The test of a series
 
@@ -98,7 +98,7 @@ Write one page, in full sentences, that accounts for your choices. These frames 
 - "My viewpoint/light decision that worked best was … "
 - "If I shot the theme again I would … "
 
-## Day by day
+## 2 · Do
 
 - **Wed 2026-11-04.** You select, sequence, and title your final 6 to 8-image series, then write the one-page reflection. Post the series, title, and reflection to MB by close. Put the contact sheet and your annotated rejected frames into the sketchbook as process evidence. No new homework: keep posting your weekly MB sketchbook. U3 Collage opens next week and supplies its own material, so bring nothing extra.
 
@@ -108,7 +108,7 @@ Write one page, in full sentences, that accounts for your choices. These frames 
 
 **A2 — photographic series + reflection**, sat and submitted in class. Marking focus: **framing, viewpoint, light, series thinking**. Series thinking is judged on the sequence and on the reasons in your reflection, not only on the individual frames. Returned with feedback within five working days. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
 
-## Review
+## 3 · Check
 
 Check you can:
 - Select and sequence 6 to 8 images so that removing any one costs the series something.

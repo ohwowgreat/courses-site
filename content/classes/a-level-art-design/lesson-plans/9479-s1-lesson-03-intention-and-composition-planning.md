@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-02-formal-elements-on-the-theme]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-04-the-sustained-study]]"
-modified: 2026-08-05
+modified: 2026-08-25
 ---
 # S1 Lesson 03: Intention and Composition Planning
 
@@ -25,7 +25,7 @@ modified: 2026-08-05
 <div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1 Record</span></span></div>
 <p class="contract-job">Written intention; mind map; thumbnail sheet with one composition chosen and the rejections annotated</p>
 <div class="contract-grid">
-<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Tue 2026-09-15 → Fri 2026-09-18<span class="contract-cell-note">Sessions: 4 days (W3) — Unit 2 opens</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Tue 2026-09-15 · Thu 09-17 · Fri 09-18 (double)<span class="contract-cell-note">Sessions: 4 sessions over 3 days (W3). Unit 2 opens.</span></span></div>
 <div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS2</a> collected Fri 2026-09-18 — direct practice for <a href="../../../classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone">A1</a></span></div>
 </div>
 <div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Written annotation: expand the intention to a paragraph a stranger could follow</span></div>
@@ -34,45 +34,49 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson turns the theme into an investigation. You write what you are looking at and why, open the theme wider than your first idea, and choose one composition to sustain. You produce a CS2 sheet: a written intention, a mind map, and a thumbnail sheet with one composition chosen and every rejection annotated. It is collected on Fri 2026-09-18. This is direct practice for [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone|A1]]: the intention and mind map return inside the recording milestone.
+This lesson turns your theme into an investigation. You write an intention that says what you are looking at and why, open the theme wider on a mind map, and test compositions in thumbnails. By Friday you produce a **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS2]]** sheet: your written intention, mind map, and a thumbnail sheet with one composition chosen and the rejections annotated. CS2 is collected on Fri 2026-09-18 and is direct practice for [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone|A1]]. The sustained study begins the following Monday.
 
-## The ideas
+## 1 · Learn
 
-### The intention statement
+### Written intention
 
-An **intention statement** is a written statement of what you are investigating and why. Use this frame: *I am investigating / because / I will record*. Cut every empty word so a stranger could follow it. Your homework is to expand this into a full paragraph.
+A **written intention** states, in writing, what you are looking at and why. Draft it with this frame: *I am investigating / because / I will record*. Then tighten it, cutting every empty word, so a stranger could follow it.
 
-### The mind map
+### Mind map
 
-A **mind map** opens the theme wider than your first idea. Start from the object and work outward: material, function, memory, opposite. Push at least three branches past your first idea. The branch that surprises you is often the strongest one to develop.
+A **mind map** opens the theme wider than your first idea. Work from the object outward: material, function, memory, opposite. The strongest branches give you your compositions to test.
 
-### The thumbnail
+### Thumbnails
 
-A **thumbnail** is a cheap, fast test of a composition, drawn small (5×7 cm) with the tone blocked in and about thirty seconds of decision each. Make six or more from the strongest branches of your mind map. Thumbnails let you try many compositions before you commit to one.
+A **thumbnail** is a small, quick test of a composition: 5×7 cm, tone blocked, about thirty seconds of decision each. Make six or more from your mind map's strongest branches. Use a squint test to see which ones hold together.
 
-### Choosing and rejecting in writing
+Then choose one composition to sustain, and annotate every rejected thumbnail with one honest line saying why you rejected it. Choosing and rejecting in writing is the top-band habit this lesson installs.
 
-Choose one composition to sustain. Then annotate every rejected thumbnail with one honest line saying why it did not survive. Writing down what you reject, and why, is the top-band habit this lesson installs.
+### Stage 1 page architecture
 
-## Day by day
+**Stage 1 page architecture** is how you lay out a page: hierarchy, breathing room, and annotation placement. You compose the Stage 1 page from this week's material, then photograph and file it.
 
-- **Tue 09-15.** Read two exemplar intentions, one strong and one vague. Draft your own intention using the frame *I am investigating / because / I will record*, then tighten it.
-- **Wed 09-16.** Build an A3 mind map from the object outward: material, function, memory, opposite. Push at least three branches past your first idea and circle the branch that surprised you.
-- **Thu 09-17.** Make six or more thumbnails (5×7 cm, tone blocked) from the mind map's strongest branches.
-- **Fri 09-18.** Re-read your intention against the surviving thumbnails, choose one, and annotate every rejection with one honest line. Assemble the CS2 sheet. **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS2]] collected.** The sustained study begins Sunday.
+## 2 · Do
+
+- **Tue 09-15.** Read a strong intention and a vague one. Draft your own written intention with the frame, swap with a partner, and cut every empty word.
+- **Thu 09-17.** Build a mind map from the object outward, then go straight into thumbnails as cheap tests: six or more from your strongest branches. Pin up and squint-test them.
+- **Fri 09-18.** Re-read your intention against the surviving thumbnails, choose one, and annotate every rejection with one honest line. Assemble the CS2 sheet; CS2 is collected today. Then learn Stage 1 page architecture and compose, photograph, and file your Stage 1 page. Homework: expand your intention to a paragraph a stranger could follow.
+
+A Sunday 09-20 session may also run; if it does, it covers composition-planning depth. This will be confirmed in class.
 
 ## Assessment
 
-**CS2** (intention statement, mind map, written annotation) is collected Fri 2026-09-18. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. It is direct practice for A1: the intention and mind map reappear inside the recording milestone.
+**CS2** (intention statement + mind map, written annotation) is collected Fri 2026-09-18 — see the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. It is direct practice for A1: the intention and mind map reappear inside the recording milestone.
 
-## Review
+## 3 · Check
 
 Check you can:
 
-- State in writing, using an **intention statement**, what you are investigating and why.
-- Build a **mind map** that opens the theme at least three branches past your first idea.
-- Make **thumbnails** to test compositions quickly.
-- Choose one composition to sustain and annotate each rejected thumbnail with a reason.
+- State in writing what you are looking at and why, using a written intention.
+- Open the theme wider than your first idea on a mind map.
+- Test compositions quickly with thumbnails.
+- Choose one composition to sustain and annotate the rejected thumbnails with reasons.
+- Lay out a Stage 1 page using hierarchy, breathing room, and annotation placement.
 
 ## Practice
 

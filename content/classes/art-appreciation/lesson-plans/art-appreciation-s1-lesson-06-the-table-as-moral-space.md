@@ -34,7 +34,7 @@ modified: 2026-08-05
 
 This lesson opens Unit 3. You look at the table as a place where a family enforces its rules, not just a setting for a meal. You watch Ang Lee's film *Eat Drink Man Woman* across two days, then replay one meal twice. You produce a one-page written reading of a single meal sequence on Thu 2026-10-22. This reading feeds [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay|A3]]. It is the plan for now, and the exact form will be confirmed in class.
 
-## The ideas
+## 1 · Learn
 
 ### The table as moral space
 
@@ -48,7 +48,7 @@ This lesson opens Unit 3. You look at the table as a place where a family enforc
 
 **Eat Drink Man Woman**, directed by Ang Lee, is the film for this unit. Its cooking scenes are the argument: the family's tensions come out through food before they come out in words. In the Friday seminar you also read the meal for food, class, and who is not in the picture.
 
-## Day by day
+## 2 · Do
 
 - **Mon 10-19.** The table as moral space, the frame for the whole unit. First look at three paintings of meals: who is where.
 
@@ -69,7 +69,7 @@ If the screening runs short, finish the film for homework.
 - **LB3.** Fri 2026-10-23, seminar posting. It moves if the field trip takes Friday.
 - **Written reading.** A one-page written reading of a single meal sequence, due Thu 2026-10-22.
 
-## Review
+## 3 · Check
 
 Check you can:
 

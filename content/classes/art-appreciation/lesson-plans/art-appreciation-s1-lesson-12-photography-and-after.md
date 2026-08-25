@@ -34,7 +34,7 @@ modified: 2026-08-06
 
 This lesson closes Unit 4. You look at what photographs claim to show, whether you should believe them, and where the line between serious art and kitsch stops holding. You produce [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis|A4]], the Unit 4 synthesis constellation, which you build and write in the second period of the Tuesday double on 2026-12-15. A4 is the last thing you submit this semester, so nothing here can be handed in late. This synthesis is your second constellation of the year, and it feeds into the retrospective.
 
-## The ideas
+## 1 · Learn
 
 ### The poor image
 
@@ -62,7 +62,7 @@ Photographs carry a strong claim to truth: we tend to believe that what a photog
 
 A **constellation** is an argument built across the whole unit. A strong one argues across all of Unit 4, not just a selection of favorites. Because this is your second constellation, it should be a clear step up from the first.
 
-## Day by day
+## 2 · Do
 
 - **Fri 12-11.** What the poor image gains: what circulation gives and what quality takes.
 - **Mon 12-14.** Photography and the claim to truth: why we believe photographs, and whether we should. The Sontag reading (first essay, 30 min) is set today, due next lesson. The Unit 1 boards go back on the wall before you build.
@@ -77,7 +77,7 @@ A **constellation** is an argument built across the whole unit. A strong one arg
 - **A4 sits Tue 2026-12-15**, the Unit 4 synthesis constellation. It is marked on arguing across the whole unit, not on a selection of favorites.
 - Review happens in-lesson on day five. This is the only in-lesson review this term, and it works because the work is still fresh.
 
-## Review
+## 3 · Check
 
 Check you can:
 

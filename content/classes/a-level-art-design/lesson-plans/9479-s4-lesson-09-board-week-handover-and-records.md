@@ -39,7 +39,7 @@ This is the week the component leaves the building. You do supervised gap repair
   <figcaption>Aleksandr Rodchenko, <em>Assembling for a Demonstration</em>, 1928</figcaption>
 </figure>
 
-## The ideas
+## 1 · Learn
 
 ### All three components, one handover
 
@@ -53,7 +53,7 @@ The final check is against the **specification**: every page, label and limit, c
 
 Your portfolio is photographed for you before it goes. Once the work is submitted you no longer hold it, so the photographed record is what survives. Keep your own personal copy of that record.
 
-## Day by day
+## 2 · Do
 
 - **Mon 04-24.** Supervised gap repair for the board. Close only what QC named; no new work enters a submitted package.
 - **Tue 04-25.** Final checks against the specification: every page, label and limit, one last time.
@@ -65,7 +65,7 @@ Your portfolio is photographed for you before it goes. Once the work is submitte
 
 **CS8** falls on Thu 2028-04-27: portfolio photography for student records. No attainment is graded this week.
 
-## Review
+## 3 · Check
 
 Check you can:
 

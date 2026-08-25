@@ -39,7 +39,7 @@ This lesson reopens the Personal Investigation where your summer work left it. Y
   <figcaption>Diego Rivera, <em>Self-Portrait</em>, 1907 — the maker examining himself</figcaption>
 </figure>
 
-## The ideas
+## 1 · Learn
 
 ### The audit standard
 
@@ -55,7 +55,7 @@ The summer reading reflections are not idle. They open **research paper draft 2*
 
 The audit becomes the semester's contract. From it you build a written, dated, signed action plan in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-02-the-action-plan-and-development-resumes|Lesson 02]], which governs every week to the December submission.
 
-## Day by day
+## 2 · Do
 
 - **Wed 09-01.** Course reopening and the summer audit brief. Lay out all your summer output at once against the June targets. A piece counts only if it is present and annotated against a named target, judged in AO1–AO4 language.
 - **Thu 09-02.** One-to-one reviews begin. Defend the work piece by piece. Each piece is marked met, missed, or missing against its June target, not against how hard it was to make.
@@ -65,7 +65,7 @@ The audit becomes the semester's contract. From it you build a written, dated, s
 
 **CS1**, Fri 2027-09-03: summer portfolio audit against the set targets, marked piece by piece. No attainment grade this week.
 
-## Review
+## 3 · Check
 
 Check you can:
 

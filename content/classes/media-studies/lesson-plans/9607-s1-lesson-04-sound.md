@@ -46,7 +46,7 @@ modified: 2026-08-09
 
 This lesson covers sound, the second of the four technical elements of media language. You learn the sound lexicon and how sound shapes what an audience thinks it sees. You produce **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS4]]**, a 30-second soundscape for your own C1 opening. You record it, post it dated to the blog, and write a rationale that names every diegetic and non-diegetic choice. CS4 is due Fri 2026-09-18. It feeds your C1 production, [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]], [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]], and Component 2 Section A, and it is Component 1 practice evidence. Sound also carries every C3 video task, so the work here returns later.
 
-## The ideas
+## 1 · Learn
 
 ### Diegetic and non-diegetic sound
 
@@ -88,7 +88,7 @@ Take one sequence, change only the non-diegetic music bed, and the genre flips. 
 
 **Foley** is sound recorded to stand in for real sound: footsteps, a door, cloth, a punch, liquid poured. The rule from professional practice is that it does not have to be the real thing, it has to *sound* like the real thing. Two habits matter for every take: headphones on, and the mic as close as the frame allows. Recording near an open door and playing it back on a speaker shows what an uncontrolled space costs.
 
-## Day by day
+## 2 · Do
 
 - **Wed 09-16 (double).** Hear a sequence twice with the screen black, reconstruct it, then watch it and compare. Land the sound lexicon on moments from that sequence. Watch a recut trailer with two different music beds to see the genre flip. Record foley at stations on phones, keeping your best three takes. CS4 is briefed. Homework: collect three sounds from your own environment, recorded on a phone, before Friday.
 - **Fri 09-18.** Lexicon Bingo retrieval round from the sound lexicon, no notes. Build your **CS4** soundscape from your own recordings, your foley takes, and one non-diegetic element. It must include at least one clearly diegetic sound, one clearly non-diegetic sound, one sound with a near or far perspective, and one that carries across an implied cut as a bridge. Upload it to the blog, dated, with a rationale that names each choice by its term and says what it should do to the listener. Two soundscapes are then played blind, and the room says what the opening looks like.
@@ -101,7 +101,7 @@ Take one sequence, change only the non-diegetic music bed, and the genre flips. 
 
 CS4 is marked on **terminology accuracy**, **the four required elements present**, and **a rationale that states intended effect**, not on production polish. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

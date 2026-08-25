@@ -33,7 +33,7 @@ modified: 2026-08-05
 
 This lesson brings your Personal Investigation to its Component 3 internal submission. On Monday and Tuesday you do the final page-by-page AO check. On Wednesday you submit at **[[classes/a-level-art-design/assessments/9479-s3-assessments|A4]]**: the complete Personal Investigation, both outcomes with the supporting portfolio and the research paper, marked across AO1–AO4. There are no edits after A4. You begin submission photography while the work is still at hand, before the Christmas break. These dates are projected and may shift when the school publishes the calendar. The digital submission is assembled to the Cambridge screen limits and passes QC in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-15-submission-qc-the-return-and-into-c2|Lesson 15]].
 
-## The ideas
+## 1 · Learn
 
 ### A4: the complete investigation
 
@@ -57,13 +57,13 @@ Once you submit at A4, the submission is fixed. There are **no edits after A4**.
 
 You begin **submission photography** on Wednesday, while the physical work is still at hand. This captures the outcomes before the Christmas break.
 
-## Day by day
+## 2 · Do
 
 - **Mon 12-20.** Pre-submission AO check, page by page: confirm all four descriptors are evidenced in writing.
 - **Tue 12-21.** Continue the AO check. Close the last named gaps and earn the last available marks.
 - **Wed 12-22.** Sit **A4**: submit the complete Personal Investigation, both outcomes with portfolio and paper, marked across AO1–AO4. No edits after. Begin submission photography while the work is at hand.
 
-## Review
+## 3 · Check
 
 Check you can:
 

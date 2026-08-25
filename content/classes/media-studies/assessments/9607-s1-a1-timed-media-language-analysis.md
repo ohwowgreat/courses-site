@@ -9,7 +9,7 @@ related:
   - "[[concepts/media-language]]"
   - "[[concepts/technical-elements]]"
   - "[[concepts/the-viewing-protocol]]"
-modified: 2026-08-10
+modified: 2026-08-25
 ---
 # Media Studies · S1 A1: Timed Media Language Analysis
 
@@ -40,7 +40,7 @@ This assessment asks you to show, in writing and without help, that you can:
 
 1. Analyze an extract you have never seen, naming how camera, sound, mise-en-scène and editing construct its meaning.
 2. Tie every observation to an effect. A technique that is named but not explained does not count.
-3. Cover all four code families in order, rather than writing at length about the one you noticed first.
+3. Cover all four code families in order rather than writing at length about the one you noticed first.
 4. Use precise media terminology throughout, including the sound and editing vocabulary, not only the camera terms.
 5. Where you bring in a theory or a context, say where the extract complicates it as well as where it fits.
 6. Sustain 60 minutes of continuous analytical writing under exam conditions.
@@ -49,7 +49,7 @@ This assessment asks you to show, in writing and without help, that you can:
 
 You are given an unseen extract from a television drama, 2 to 3 minutes long, and the Paper 2 Section A prompt: analyze how the extract constructs meaning through camera, sound, mise-en-scène and editing. It is the same wording as the real examination, which uses it in every paper.
 
-The extract is deliberately unfamiliar. Everything the prompt names has been taught, and shot, since Week 1: signs and codes ([[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-signs-and-codes|L02]]), then **camera** ([[classes/media-studies/lesson-plans/9607-s1-lesson-03-camera|L03]]), **sound** ([[classes/media-studies/lesson-plans/9607-s1-lesson-04-sound|L04]]), **mise-en-scène** ([[classes/media-studies/lesson-plans/9607-s1-lesson-05-mise-en-scene|L05]]) and **editing** ([[classes/media-studies/lesson-plans/9607-s1-lesson-06-editing|L06]]) a lesson each, brought together on one extract at [[classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock|L07]], with the four-pass [[concepts/the-viewing-protocol|viewing protocol]] rehearsed at [[classes/media-studies/lesson-plans/9607-s1-lesson-08-the-viewing-protocol-and-a1|L08]]. What is new is the text, not the skill.
+The extract is unfamiliar on purpose. Everything the prompt names has been taught, and shot, since Week 1: signs and codes ([[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-signs-and-codes|L02]]), then **camera** ([[classes/media-studies/lesson-plans/9607-s1-lesson-03-camera|L03]]), **sound** ([[classes/media-studies/lesson-plans/9607-s1-lesson-04-sound|L04]]), **mise-en-scène** ([[classes/media-studies/lesson-plans/9607-s1-lesson-05-mise-en-scene|L05]]) and **editing** ([[classes/media-studies/lesson-plans/9607-s1-lesson-06-editing|L06]]) a lesson each, integrated on one extract at [[classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock|L07]], with the four-pass [[concepts/the-viewing-protocol|viewing protocol]] rehearsed at [[classes/media-studies/lesson-plans/9607-s1-lesson-08-the-viewing-protocol-and-a1|L08]]. What is new is the text, not the skill.
 
 ## Instructions
 
@@ -59,7 +59,7 @@ The extract is deliberately unfamiliar. Everything the prompt names has been tau
 
 1. Conditions are briefed once, then the room goes silent.
 2. The extract is screened **four times**, following the examination's own protocol: watch the first time without writing, then take a note pass on each of the three remaining screenings.
-3. Write for **60 minutes**, continuously.
+3. Write for **60 minutes**, without stopping.
 4. Hand in your script. If you are unfinished at 60 minutes, you submit at 60 minutes. The timebox is part of what this samples.
 
 **Writing the answer.** Work through the code families, not through the extract's timeline. For each observation, name the technique, point to the exact moment, and say what it does to the viewer. One well-chosen moment analyzed properly is worth more than five moments listed. If you use Propp or Todorov, include at least one sentence on where the extract strains the model.
@@ -68,7 +68,7 @@ The extract is deliberately unfamiliar. Everything the prompt names has been tau
 
 ## Rubric
 
-Marked on the **official Cambridge Paper 2 criteria**, transcribed from the June 2024 mark schemes. Five criteria, 25 marks, and each criterion is banded **independently** on a best-fit basis. A script can sit in different bands on different criteria, so a strong terminology mark does not lift a weak analysis mark.
+Marked on the **official Cambridge Paper 2 criteria**, transcribed from the June 2024 mark schemes. There are five criteria, 25 marks, and each criterion is banded **independently** on a best-fit basis. A script can sit in different bands on different criteria, so a strong terminology mark does not lift a weak analysis mark.
 
 | # | Criterion | AO | Marks |
 |---|---|---|---|
@@ -82,7 +82,7 @@ Totals: **AO1 15, AO2 10.** Cambridge's band words, per criterion: **5** sophist
 
 ### What each band looks like in this task
 
-The five criteria and their band words are Cambridge's. The descriptions in this table are **ours**, written for this course so that you can check the criteria before you write rather than only after you are marked. They are how the bands are applied here. They are not Cambridge's published wording.
+The five criteria and their band words are Cambridge's. The descriptions in this table are **ours**, written for this course so that the criteria are checkable before you write rather than only after you are marked. They are how the bands are applied here. They are not Cambridge's published wording.
 
 | Criterion | Band 5 | Band 3 | Band 1 |
 |---|---|---|---|
@@ -94,14 +94,14 @@ The five criteria and their band words are Cambridge's. The descriptions in this
 
 ### How the mark becomes a grade
 
-The 25-mark total is **not** what goes into MB. Attainments are curved against CIE past-paper data, allowing for where the class is in its learning trajectory, so the grade reflects trajectory rather than what the script would score on a Cambridge paper today. You will always be told how the boundaries and curve were set. The grade scale is on [[shared/bnds-assessment-framework|BNDS Assessment Framework]].
+The 25-mark total is **not** what goes into MB. Attainments are curved against CIE past-paper data, allowing for where the class is in its learning, so the grade reflects your trajectory rather than what the script would score on a Cambridge paper today. You will always be told how the boundaries and curve were set. The grade scale is on [[shared/bnds-assessment-framework|BNDS Assessment Framework]].
 
-Two consequences worth knowing now: this is one of **four** attainments this semester, and because the course runs four rather than six, **no student is eligible to have a lowest attainment dropped.** That is a fact about how the course is built, not about conduct.
+Two things worth knowing now: this is one of **four** attainments this semester, and because the course runs four rather than six, **no student can have a lowest attainment dropped.** That is a fact about how the course is built, not about conduct.
 
 ## After the sit
 
 - Scripts come back within **five working days**.
-- You self-assess against the mark scheme **before** any discussion of marks. This is not optional and it is not a formality: the target is that your own banding lands within one band of the teacher's.
+- You self-assess against the mark scheme **before** any discussion of marks. This is not optional and it is not a formality: the aim is that your own banding lands within one band of the teacher's.
 - You then log **exactly one** target, in your own words. It is retrieved and checked at the next assessment.
 - The full review runs at [[classes/media-studies/lesson-plans/9607-s1-lesson-10-narrative-barthes-and-the-blog-audit|L10]]. A1 also feeds the mid-term grades due Thu 2026-10-29.
 
@@ -109,7 +109,7 @@ Two consequences worth knowing now: this is one of **four** attainments this sem
 
 | Where it came from | What to use it for |
 |---|---|
-| **CS7**, the four-element paragraph (Tue 2026-09-29) | The direct rehearsal for this task. Reread the feedback on it before the sit |
+| **CS7**, the four-element paragraph (Thu 2026-10-08) | The direct rehearsal for this task. Reread the feedback on it before the sit |
 | **CS3 to CS6**, the four technical builds | You have shot, recorded, designed and cut each element the prompt names. Analysis of a technique you have produced yourself is faster and more precise under time |
 | **CS8**, the lexicon quiz (Mon 2026-10-12) | Your terminology audit, two days out. Whatever you missed there is what to revise |
 | Your **code checklist** from L02 | Systematic coverage. Bring it |

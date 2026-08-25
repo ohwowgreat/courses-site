@@ -46,7 +46,7 @@ This lesson works through **John Berger**'s argument that a reproduction is not 
 </figure>
 </div>
 
-## The ideas
+## 1 · Learn
 
 ### Reproduction is not a neutral copy
 
@@ -88,7 +88,7 @@ As a brief aside, you watch one extract from Godard's *Goodbye to Language* and 
   <figcaption>Jean-Luc Godard, <em>Goodbye to Language</em>, 2014. An image that refuses to add up</figcaption>
 </figure>
 
-## Day by day
+## 2 · Do
 
 - **Mon 11-23.** Berger's argument stated plainly: a reproduction is not a neutral copy. You take the first objection to it seriously. Homework set: watch *Ways of Seeing* episode one or read the first essay, 30 minutes, due Wed 11-25.
 - **Tue 11-24 (double).** One painting in four contexts: change the words around an image and watch its meaning move. Then read a reproduction as an object with decisions of its own.
@@ -102,7 +102,7 @@ As a brief aside, you watch one extract from Godard's *Goodbye to Language* and 
 - **LB7.** Tue 2026-12-01, floating-world posting.
 - The caption exercise is the ungraded deliverable both cohorts complete.
 
-## Review
+## 3 · Check
 
 Check you can:
 

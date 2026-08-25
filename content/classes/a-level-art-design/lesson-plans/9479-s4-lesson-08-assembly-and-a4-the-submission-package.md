@@ -35,7 +35,7 @@ These dates are projected. They may shift when the school publishes the calendar
 
 This lesson turns your test piece into a finished submission. You photograph the final piece as the version the examiner sees, then assemble the **submission package** in the exact order the Cambridge specification sets. You run supervised quality control line by line. On Thu 04-20 you complete **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS7]]**, the submission checklist and reflection. On Fri 04-21 you sit **[[classes/a-level-art-design/assessments/9479-s4-assessments|A4]]**, graded across AO1–AO4. After A4, no edits. The board handover follows in [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-09-board-week-handover-and-records|Lesson 09]].
 
-## The ideas
+## 1 · Learn
 
 ### A4 grades the package, not the artwork
 
@@ -59,7 +59,7 @@ You photograph the final piece as the version the examiner sees. Shoot it to the
 
 **CS7** is the submission checklist and reflection. You check the specification line by line: every item present, in order, and labeled.
 
-## Day by day
+## 2 · Do
 
 - **Mon 04-17.** Debrief the supervised test. Review what it produced and plan the package around it.
 - **Tue 04-18.** Photograph the final piece: the version the examiner sees, shot to the specification.
@@ -72,7 +72,7 @@ You photograph the final piece as the version the examiner sees. Shoot it to the
 - **CS7**, Thu 2028-04-20: submission checklist and reflection.
 - **A4**, Fri 2028-04-21: the submission package, graded AO1–AO4. The final C2 piece is marked externally by Cambridge.
 
-## Review
+## 3 · Check
 
 Check you can:
 

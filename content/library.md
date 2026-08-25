@@ -110,8 +110,8 @@ Filter the wall by when a work was made, what it was made with, the movement it 
     <figcaption>Gustave Le Gray, <em>The Great Wave, Sète</em>, 1857</figcaption>
   </figure>
   <figure class="plate p-era-1900-1940 p-med-photograph p-mov-pictorialism p-cls-a-level-art-design p-cls-media-studies p-cls-pre-a-level-art-design">
-    <img src="static/img/sea-of-steps.jpg" alt="Frederick H. Evans, A Sea of Steps, Wells Cathedral, 1903" loading="lazy" />
-    <figcaption>Frederick H. Evans, <em>A Sea of Steps, Wells Cathedral</em>, 1903</figcaption>
+    <img src="static/img/sea-of-steps.jpg" alt="Frederick H. Evans, A Sea of Steps, Wells Cathedral, 1903 — sharp from the first step to the last: depth of field held as a choice, and the frame built from receding lines" loading="lazy" />
+    <figcaption>Frederick H. Evans, <em>A Sea of Steps, Wells Cathedral</em>, 1903 — sharp from the first step to the last: depth of field held as a choice, and the frame built from receding lines</figcaption>
   </figure>
   <figure class="plate p-era-1900-1940 p-med-photograph p-mov-pictorialism p-cls-pre-a-level-art-design">
     <img src="static/img/st-pauls-spires.jpg" alt="Alvin Langdon Coburn, St. Paul's and Other Spires, c. 1909" loading="lazy" />
@@ -134,8 +134,8 @@ Filter the wall by when a work was made, what it was made with, the movement it 
     <figcaption>Gertrude Käsebier, <em>Portrait</em>, c. 1905</figcaption>
   </figure>
   <figure class="plate p-era-1800-1899 p-med-photograph p-mov-early-photography p-cls-media-studies p-cls-pre-a-level-art-design">
-    <img src="static/img/the-tugboat.jpg" alt="Gustave Le Gray, The Tugboat, 1857" loading="lazy" />
-    <figcaption>Gustave Le Gray, <em>The Tugboat</em>, 1857</figcaption>
+    <img src="static/img/the-tugboat.jpg" alt="Gustave Le Gray, The Tugboat, 1857 — the sea and the sky exposed on separate negatives, joined in the print: the frame was decided before the shutter" loading="lazy" />
+    <figcaption>Gustave Le Gray, <em>The Tugboat</em>, 1857 — the sea and the sky exposed on separate negatives, joined in the print: the frame was decided before the shutter</figcaption>
   </figure>
   <figure class="plate p-era-1900-1940 p-med-photograph p-mov-modern-photography p-cls-pre-a-level-art-design">
     <img src="static/img/cloud-sequence.jpg" alt="Alfred Stieglitz, Music: A Sequence of Ten Cloud Photographs, No. 1, 1922" loading="lazy" />

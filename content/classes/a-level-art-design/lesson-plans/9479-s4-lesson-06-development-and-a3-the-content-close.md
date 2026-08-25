@@ -41,7 +41,7 @@ This is the tightest week in the unit, and the point after which nothing new is 
   <figcaption>Ilya Repin, study for <em>Reply of the Zaporozhian Cossacks</em>, 1878</figcaption>
 </figure>
 
-## The ideas
+## 1 · Learn
 
 ### Composing and choosing
 
@@ -57,7 +57,7 @@ The **final composition plan** must be complete enough that the supervised test 
 
 **A3 is the content close.** Nothing new is taught after A3. The compression here is deliberate: there is one taught development week, widened only by the elastic window (reading B), and every gained day lands in this unit. A3 is marked across AO3 and AO4.
 
-## Day by day
+## 2 · Do
 
 - **Mon 03-27.** Feedback, then compose your final-piece candidates from your own studies.
 - **Tue 03-28.** Build the draft comparison page: compare the candidates with the rejections written out.
@@ -65,7 +65,7 @@ The **final composition plan** must be complete enough that the supervised test 
 - **Thu 03-30.** Complete every supporting study and close any gaps. Submit **CS6**: the composition critique response plus the draft comparison page.
 - **Fri 03-31.** Sit **A3**, marked across AO3 and AO4: comparison page, final plan, and mounted order. This is the content close, and nothing new is taught after today.
 
-## Review
+## 3 · Check
 
 Check you can:
 

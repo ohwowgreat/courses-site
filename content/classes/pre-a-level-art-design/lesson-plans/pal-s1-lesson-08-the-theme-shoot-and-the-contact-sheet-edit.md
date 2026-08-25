@@ -41,7 +41,7 @@ modified: 2026-08-05
 
 This lesson works two skills back to back: shooting a lot, then choosing well. You go out on campus and shoot at least 20 new frames on your approved theme. Then you build a contact sheet, circle 12 keepers, and mark 6 to 8 series candidates, writing a reason for every keep and every cut. This session, with your Lesson 06 circuit frames, is collected as [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS2]] before the close. Everything you make here feeds [[classes/pre-a-level-art-design/assessments/pal-s1-a2-photographic-series|A2]], the photographic series, next week.
 
-## The ideas
+## 1 · Learn
 
 ### Abundance and selection
 
@@ -67,7 +67,7 @@ Work **non-destructively**: never edit the only copy. In Photoshop or Affinity, 
 
 Your pictures are files. Know where they live.
 
-## Day by day
+## 2 · Do
 
 - **Wed 10-28.** Say your theme and frame count so far; if you are stuck or have no theme, choose one now from your Lesson 07 shortlist. Shoot at least 20 new theme frames on campus, one composition decision and one light decision per frame. Back in the room, learn the contact sheet and the edit order, then build your contact sheet, circle 12 keepers, and mark 6 to 8 series candidates with reasons. CS2 is collected before the close. Homework: finish the edits on your candidates (crop, then tone, then color, originals kept), draft a sequence order for next week's A2 session, and post to MB.
 
@@ -75,7 +75,7 @@ Your pictures are files. Know where they live.
 
 **CS2, the composition practice set plus contact-sheet edit,** is collected today. The 72-hour notice is met by the MB posting. It is marked for **framing and selection**: honest reasons on your keeps and cuts count more than pretty frames. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

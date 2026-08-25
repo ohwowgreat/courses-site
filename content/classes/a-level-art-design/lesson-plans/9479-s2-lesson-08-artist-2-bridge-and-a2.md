@@ -36,7 +36,7 @@ modified: 2026-08-05
 
 This lesson closes Unit 3 and moves you from studying art into developing your own. You choose a second artist, set their work against your first, make a bridge piece, trial it at scale, and lay out your Stage 3 pages. Then you sit **[[classes/a-level-art-design/assessments/9479-s2-assessments|A2]]** on Fri 2027-04-23, which marks the whole unit against AO2 and AO3. The bridge piece and scale trial also open the directions you carry into Unit 4 next week. These dates may shift if the school publishes a different calendar for this period.
 
-## The ideas
+## 1 · Learn
 
 ### Artist 2 against Artist 1
 
@@ -54,7 +54,7 @@ The **scale trial** means trialing the work larger to find what breaks. Composit
 
 Lay out the **Stage 3 pages** so your exploration reads as reasoning, not a scrapbook. Sequence experiments, selection, artists, bridge, and scale so each one leads to the next decision.
 
-## Day by day
+## 2 · Do
 
 - **Mon 04-19.** Choose your second artist and analyze the two artists against each other. Plan the bridge piece: how their methods combine on your theme.
 - **Tue 04-20.** Make the bridge piece that carries the artist study into your own development.
@@ -66,7 +66,7 @@ Lay out the **Stage 3 pages** so your exploration reads as reasoning, not a scra
 
 You sit **A2** (exploration and artist study) on **Fri 2027-04-23**, marked against AO2+AO3. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. A2 covers the whole of Unit 3 together: the twelve experiments and their media selection, both artist pages, the bridge piece and scale trial, and the Stage 3 pages. Unit 4 opens next week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-09-composition-1|L09]] on composition and the development stage, where the research paper outline is issued. The next attainment, **[[classes/a-level-art-design/assessments/9479-s2-assessments|A3]]** (development and research paper draft 1, AO3), sits **Fri 2027-05-28**.
 
-## Review
+## 3 · Check
 
 Check you can:
 

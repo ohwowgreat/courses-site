@@ -41,7 +41,7 @@ modified: 2026-08-05
 
 This lesson has two halves joined by one idea. First, you learn that light has direction and quality, and that moving yourself or the lamp is a choice as expressive as framing. Second, you learn that [[classes/pre-a-level-art-design/assessments/pal-s1-a2-photographic-series|A2]] is not five nice photos but a series: one idea looked at again and again with intention. The join is your theme. In the double you shoot a four-position light circuit and you write one series theme in your sketchbook and get it approved. That theme feeds **A2**, the photographic series and reflection you submit in class on Wed 2026-11-04. **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|SB1]]**, your first sketchbook spot-check, also runs today.
 
-## The ideas
+## 1 · Learn
 
 ### Light and shadow
 
@@ -61,8 +61,8 @@ Light has a direction and a quality. Moving the light, or moving yourself, chang
   <figcaption>Gertrude Käsebier, <em>Portrait</em>, c. 1905</figcaption>
 </figure>
 <figure class="plate">
-  <img src="../../../static/img/the-tugboat.jpg" alt="Gustave Le Gray, The Tugboat, 1857" loading="lazy" />
-  <figcaption>Gustave Le Gray, <em>The Tugboat</em>, 1857</figcaption>
+  <img src="../../../static/img/the-tugboat.jpg" alt="Gustave Le Gray, The Tugboat, 1857 — the sea and the sky exposed on separate negatives, joined in the print: the frame was decided before the shutter" loading="lazy" />
+  <figcaption>Gustave Le Gray, <em>The Tugboat</em>, 1857 — the sea and the sky exposed on separate negatives, joined in the print: the frame was decided before the shutter</figcaption>
 </figure>
 </div>
 
@@ -95,7 +95,7 @@ The **A2 brief**: 6–8 photographs on one theme, selected from many, sequenced,
 
 Your theme should be shootable at school or home within the fortnight. Shortlist three candidates (for example doors, hands, red, lunch, shadows, pairs), talk them through with a partner, then write your chosen one in the sketchbook and get it initialed before you leave.
 
-## Day by day
+## 2 · Do
 
 - **Wed 10-21.** You warm up on last week's homework thirds frames, learn the four light positions and exposure control, shoot a four-position light circuit, learn what makes a series, and write and get one series theme approved. **A2** is announced today. Homework: begin the theme shoot with at least 15 frames on your chosen theme before next Wednesday, and post to MB.
 
@@ -103,7 +103,7 @@ Your theme should be shootable at school or home within the fortnight. Shortlist
 
 **A2** (photographic series and reflection, Wed 2026-11-04) is announced today, 14 days and two classes ahead. Marking focus: **framing, viewpoint, light, series thinking**. **SB1**, the first sketchbook spot-check, is taken during the studio blocks. It checks progress and upkeep (2–3 pages a week since W1), not a full grade. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

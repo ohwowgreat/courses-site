@@ -33,7 +33,7 @@ modified: 2026-08-05
 
 This week you record under **AO1 Record**, at exam pace. You state an intention on your locked question and plan the reference shoot in the same session. You shoot and draw your reference within the same week, open one study to sustain, and build your recording pages as the work happens. You submit **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS2]]** on Fri 2028-03-03: your intention, thumbnails, and shoot plan. This opens the sustained study that you push further in [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-03-sustained-study-and-a1|Lesson 03]]. These dates are projected and may shift when the school publishes the calendar for this period.
 
-## The ideas
+## 1 · Learn
 
 ### Exam pace
 
@@ -61,7 +61,7 @@ A **sustained study** is one observed study that you open now and keep developin
 
 Homework stays capped at 30 minutes. Exam pace is not exam-season homework inflation.
 
-## Day by day
+## 2 · Do
 
 - **Mon 02-28.** State your intention on the locked question and plan the reference shoot in the same session.
 - **Tue–Wed 02-29/03-01.** Studio: shoot your primary source and make first studies over a 2-day run. Reference is generated, not sourced.
@@ -72,7 +72,7 @@ Homework stays capped at 30 minutes. Exam pace is not exam-season homework infla
 
 **CS2** is graded on Fri 2028-03-03: your intention, thumbnails, and shoot plan. There is no attainment grade this week.
 
-## Review
+## 3 · Check
 
 Check you can:
 

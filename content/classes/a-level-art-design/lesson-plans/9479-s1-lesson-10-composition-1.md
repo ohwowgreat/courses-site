@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-4-development]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-09-artist-2-bridge-piece-and-a2]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-11-composition-2-and-critique]]"
-modified: 2026-08-05
+modified: 2026-08-25
 ---
 # S1 Lesson 10: Composition 1
 
@@ -17,18 +17,20 @@ modified: 2026-08-05
 
 <div class="contract">
 <div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO3 Develop</span></span></div>
-<p class="contract-job">Composition 1 composed from the student's own studies, built across a two-day run, resolved and photographed</p>
+<p class="contract-job">Composition 1 composed from your own studies, built across a two-day run, resolved and photographed</p>
 <div class="contract-grid">
-<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2026-11-11 → Fri 2026-11-13, then Mon 2026-11-16 → Tue 2026-11-17<span class="contract-cell-note">Sessions: 5 days (W11–W12) — Unit 4 opens; studio production template</span></span></div>
-<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">Nothing collected — the homework layer carries the fortnight; <a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS8</a> collects at the end of Lesson 11 with both compositions</span></div>
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Thu 2026-11-12 · Fri 11-13 (double), then Mon 2026-11-16 · Tue 11-17<span class="contract-cell-note">Sessions: 5 sessions over 4 days (W11–W12). Unit 4 opens.</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">Nothing collected here. <a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS8</a> collects at the end of Lesson 11 with both compositions.</span></div>
 </div>
-<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Reflection after the <a href="../../../classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study">A2</a> return settles (W11); sketchbook composition studies nightly (W12)</span></div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Reflection after the <a href="../../../classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study">A2</a> return (W11); sketchbook composition studies nightly (W12)</span></div>
 </div>
 
+
+These dates may shift when the school publishes its calendar for this period.
 
 ## Overview
 
-This lesson opens Unit 4, where development begins with making. You compose Composition 1 from your own recorded studies, never from memory. You build it across two uninterrupted days, resolve it, then photograph it well. Nothing is collected here. Composition 1 travels with you into Lesson 11, where [[classes/a-level-art-design/assessments/9479-s1-course-skills|CS8]] collects both compositions at the end of that lesson.
+This lesson opens Unit 4 and starts your development work through making, not talking. You compose **Composition 1** from your own recorded studies, build it across two days, resolve it, and photograph it. Nothing is collected in this lesson. [[classes/a-level-art-design/assessments/9479-s1-course-skills|CS8]] collects at the end of Lesson 11 with both compositions, so the work you make here carries forward.
 
 
 <figure class="plate">
@@ -36,42 +38,40 @@ This lesson opens Unit 4, where development begins with making. You compose Comp
   <figcaption>Clara Peeters, <em>Still Life with Cheeses, Almonds and Pretzels</em>, c. 1613</figcaption>
 </figure>
 
-## The ideas
+## 1 · Learn
 
-### Composing from your own studies
+### Composing from your studies
 
-You build **Composition 1** from your own recorded studies, not from memory. Working from studies keeps the drawing grounded in what you have observed. You use **tracing-paper overlays** to test arrangements before committing. You keep a short **direction sentence** in view as you work: one line that states what the piece is about, so each choice serves that idea.
+**Composition 1** is the first composition. You compose it from your own recorded studies, never from memory. You work up a full-size **cartoon**, a worked drawing that sets the composition before you build it. Tracing-paper overlays help you test the layout, and you keep your direction sentence in view as you compose.
 
-You compose the piece as a **cartoon**: a full-size drawing that plans the whole composition, blocking structure and the main relationships before you develop detail.
+### Building and resolving
 
-### The two-day build
+You build across two uninterrupted days. First you block the structure and the main relationships, then you develop the passages toward the whole. To **resolve** a piece is to finish it and declare it done in writing. Name the passages that are still unresolved, then resolve them. As the source puts it: "Unresolved work cannot be judged; badly photographed work loses real marks."
 
-You build the piece across two days without interruption. Day one blocks structure and the main relationships. Day two develops passages toward a resolved whole. Each day ends with an **exit annotation**: a short written note naming the one decision that held the idea together that day.
+### Documenting your work
 
-To **resolve** a piece means to finish it and declare it done in writing. First name the passages that are still unresolved, then finish them, then state that the work is complete. Unresolved work cannot be judged.
+Documentation means photographing the finished work well: correct light, angle, and color truth. Photograph Composition 1 with its trail, the studies, the cartoon, and the build shots, then lay it out and file it to your digital portfolio. Badly photographed work loses real marks.
 
-### Documenting the work
+## 2 · Do
 
-Badly photographed work loses real marks. When you photograph Composition 1, control the **light, angle, and color truth** so the image shows the work as it is. Lay out the finished piece with its trail: the studies, the cartoon, and the build shots. File everything to your digital portfolio.
-
-## Day by day
-
-- **Wed 11-11.** Compose Composition 1 from your studies using tracing-paper overlays, with your direction sentence in view. Produce a full-size cartoon or worked drawing.
-- **Thu 11-12.** Begin the two-day build: block structure and the main relationships. Write your exit annotation for the day.
-- **Fri 11-13.** Develop passages toward the whole. Write your exit annotation for the day.
+- **Thu 11-12.** Compose Composition 1 from your studies as a full-size cartoon or worked drawing, using tracing-paper overlays and your direction sentence.
+- **Fri 11-13 (double).** Build in one continuous run: block the structure and main relationships, then develop the passages toward the whole. Close with a note on the decision that held the idea together.
 - **Mon 11-16.** Name the unresolved passages, then resolve Composition 1: finish it and declare it done in writing.
-- **Tue 11-17.** Photograph Composition 1 with attention to light, angle, and color truth. Lay it out with its trail (studies, cartoon, build shots) and file it to your digital portfolio.
+- **Tue 11-17.** Photograph and lay out Composition 1 with its trail, then file it to your digital portfolio.
 
-## Review
+## Assessment
+
+Nothing is collected in this lesson. CS8 collects at the end of Lesson 11 with both compositions.
+
+## 3 · Check
 
 Check you can:
 
-- Compose from your own recorded studies rather than from memory.
-- Plan a composition as a full-size cartoon before developing detail.
-- Build across two uninterrupted days and resolve the piece.
-- Write an exit annotation naming the decision that held the day's work together.
-- Resolve a piece by naming unresolved passages, finishing them, and declaring it done in writing.
-- Photograph the work with correct light, angle, and color truth so it does not lose marks.
+- Compose Composition 1 from your own recorded studies rather than from memory.
+- Work up a full-size cartoon before you build.
+- Build across two days, then resolve the piece and declare it done in writing.
+- Photograph the finished work to standard for light, angle, and color truth.
+- File the work with its trail of studies, cartoon, and build shots to your digital portfolio.
 
 ## Practice
 

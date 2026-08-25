@@ -34,7 +34,7 @@ These dates are projected. They may shift when the school publishes the calendar
 
 This week you narrow and deepen. In the studio you carry two candidate compositions forward and develop both to the same standard, so your later choice is fair. Alongside the studio, you reopen the research paper as draft 2: structure first, then argument, with your summer reading woven in. Your deliverable is the set of draft 2 sections, graded as **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS3]]** on Fri 2027-09-17. Both candidates feed the honest critique in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-04-development-studies-and-targeted-tests|Lesson 04]], and the paper's written thread runs on through CS3 here toward **[[classes/a-level-art-design/assessments/9479-s3-assessments|A3]]**.
 
-## The ideas
+## 1 · Learn
 
 ### Two candidates carried forward
 
@@ -54,7 +54,7 @@ Your summer reading appears **woven into the argument, not as summary**. Use eac
 
 The research paper has no coursework sitting of its own. Its written thread runs through CS3 here and continues in the Unit 5 final-text sessions toward A3.
 
-## Day by day
+## 2 · Do
 
 - **Mon 09-13.** Studio. Lay the candidates in order and carry two forward. Developing only one leaves nothing to compare.
 - **Tue 09-14.** Studio. Push both candidates to the same standard, so neither wins by neglect of the other.
@@ -62,7 +62,7 @@ The research paper has no coursework sitting of its own. Its written thread runs
 - **Thu 09-16.** Research paper draft 2 opens. Structure first: the sections and what each must prove. Argument before prose.
 - **Fri 09-17.** Draft 2 sections continue, with the summer reading woven into the argument. CS3 marks the sections drafted. Homework (≤30 min): outline the next draft-2 section, the argument, not the prose.
 
-## Review
+## 3 · Check
 
 Check you can:
 

@@ -34,7 +34,7 @@ modified: 2026-08-06
 
 This lesson teaches you to read a painting of a table as a list of possessions, to find the exact moment an artist chose to show, and to write about it in words you can defend. You look closely at Heda's still life, at Leonardo's *The Last Supper*, at the disorderly tables of Bruegel and Steen, and at how work became a subject worth painting. You produce **[[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS4]]**, one paragraph on the Heda painting, collected Fri 2026-11-13, plus **[[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB5]]**. The work feeds [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay|A3]], the Unit 3 essay. These dates fall in late 2026 and may shift when the school publishes its calendar for that term.
 
-## The ideas
+## 1 · Learn
 
 ### The still life as inventory
 
@@ -64,7 +64,7 @@ At some point, work itself became worth painting. Ask when that happened, and fo
 
 Good writing about art uses no adjective it cannot defend. Every adjective must be **earned**: the painting must give you the evidence for the word you choose.
 
-## Day by day
+## 2 · Do
 
 - **Mon 11-02.** Heda: read the still life as an inventory. Name every object and who owns it.
 - **Tue 11-03 (double).** A3 is announced in the first ten minutes: the Unit 3 essay, which you sit Tue 2026-11-17. You then return to the same Heda painting for a longer second look. LB5 is posted. The class is then out for three days (G11 Juniors Days, Wed 11-04 to Fri 11-06).
@@ -79,7 +79,7 @@ Good writing about art uses no adjective it cannot defend. Every adjective must 
 - **CS4.** Fri 2026-11-13. The Heda paragraph: "one paragraph that earns every adjective in it."
 - **A3** is announced Tue 2026-11-03 and sits Tue 2026-11-17, which gives you 14 days' notice. If that Tuesday session is lost, A3 moves, not the announcement.
 
-## Review
+## 3 · Check
 
 Check you can:
 

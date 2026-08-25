@@ -40,7 +40,7 @@ modified: 2026-08-05
 
 This lesson opens the course. You learn what the four units make and how your grade is built, you set up your sketchbook and learn the rules attached to it, and you start drawing. You complete the **Introduction Survey**, including a garlic drawing, and you leave with your first line studies on paper. The survey is your day-one baseline, made before any teaching. The sketchbook you set up today runs all the way to [[classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook|A5]] on Wed 2027-01-06.
 
-## The ideas
+## 1 · Learn
 
 ### The course and the grade
 
@@ -64,7 +64,7 @@ The **visual elements** are line, shape, color, value, texture, space, and form.
 
 The **mark grids** in *Drawing Exercises 1* are copied into your sketchbook: a hard-pencil grid (6H–2H) and a soft-pencil grid (2B–6B). They show the range each pencil can make.
 
-## Day by day
+## 2 · Do
 
 - **Wed 09-02.** You meet the course and its grade, complete the Introduction Survey with the garlic drawing, set up your sketchbook and learn its rules, then draw: two blind contour studies, one continuous line study, and the start of the *Drawing Exercises 1* mark grids. Homework: finish the *Drawing Exercises 1* mark sheets, decorate your sketchbook cover at home, and post this session's pages on MB.
 
@@ -72,7 +72,7 @@ The **mark grids** in *Drawing Exercises 1* are copied into your sketchbook: a h
 
 Nothing is graded this session. The survey is a baseline, not a mark. The sketchbook regime announced today is the standing notice for **A5**, the whole semester's book, submitted Wed 2027-01-06. Full register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

@@ -41,7 +41,7 @@ modified: 2026-08-05
 
 This lesson is about composition: deciding a drawing before you make it. You compare three viewfinder thumbnails and choose one in writing, with a reason. Then you begin the final observational drawing on good paper, building it from your chosen thumbnail using the tone and texture from Lessons 02 and 03. Your **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS1]]** exercise set is collected and graded this session. The drawing you start today is finished as **[[classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing|A1]]** next session (W5, 09-30).
 
-## The ideas
+## 1 · Learn
 
 **Composition** is how you arrange what you draw inside the page. You decide it before a mark goes on the good paper, and you decide it by comparing options, not by defaulting to the middle. Four decisions do the work.
 
@@ -59,7 +59,7 @@ A **thumbnail composition** is a small, fast sketch of tonal masses only, with n
 
 When you start the final drawing, structure comes first. Use light construction lines, block proportions against your thumbnail, and lay the main masses of tone. No detail and no texture yet. By the end of the session the drawing should be decided everywhere and finished nowhere.
 
-## Day by day
+## 2 · Do
 
 - **Wed 09-23.** You learn composition through four decisions (viewpoint, placement, scale to frame, cropping) and a viewfinder demo. At the still-life stations you make three thumbnail compositions, circle one, and write your reason. Then you begin the final drawing on good paper: construction lines, proportions, main masses of tone. **CS1 is collected** at the close. Homework: one 10-minute observational sketch of a home object, posted to MB.
 
@@ -67,7 +67,7 @@ When you start the final drawing, structure comes first. Use light construction 
 
 **CS1** (exercise-set check) is collected and graded today. It covers your contour work, value scale and tonal study, texture pieces, and negative-space study. It is marked for completeness and honest looking, not polish, and returned within five working days. Your thumbnails and today's construction work are process evidence for **A1**, which you finish next session. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

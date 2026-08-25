@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-03-intention-and-composition-planning]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-05-recording-pages-and-a1]]"
-modified: 2026-08-05
+modified: 2026-08-25
 ---
 # S1 Lesson 04: The Sustained Study
 
@@ -17,9 +17,9 @@ modified: 2026-08-05
 
 <div class="contract">
 <div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1 Record</span></span></div>
-<p class="contract-job">Stage 1 page composed; the sustained observed study carried across two days; supporting color and texture studies</p>
+<p class="contract-job">The sustained observed study carried across the week without restarting; supporting color and texture studies (sketchbook); Stage 1 page already composed at L03</p>
 <div class="contract-grid">
-<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Sun 2026-09-20 → Thu 2026-09-24<span class="contract-cell-note">Sessions: 5 days (W4, Sunday make-up day included)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">(Sun 2026-09-20 make-up, timetable TBC) · Mon 09-21 · Tue 09-22 · Thu 09-24<span class="contract-cell-note">Sessions: 3 firm sessions + the TBC Sunday make-up (W4) — reflowed 2026-08-25: no Wednesday slot; the Stage 1 page moved to L03's Friday double, and the study resolves Thursday</span></span></div>
 <div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS3</a> progress check Thu 2026-09-24</span></div>
 </div>
 <div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Sketchbook: ten minutes of observed drawing per night from the chosen composition's source</span></div>
@@ -34,47 +34,48 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson builds the spine of AO1 Record: one long observed study, started and finished without restarting. You first compose your Stage 1 page from your Lesson 3 material. You then commit to the **sustained observed study** across a genuine two-day run on one sheet. You finish by supporting it with two focused color and texture studies. Your [[classes/a-level-art-design/assessments/9479-s1-course-skills|CS3]] progress check comes on Thu 2026-09-24, and the holiday sketchbook brief is set the same day.
+This lesson builds one long observed study and carries it across the week without restarting it. You begin the study on Mon 09-21, build its tonal structure on Tue 09-22, and resolve it on Thu 09-24. The Stage 1 page is already composed at Lesson 03. You also support the study with focused color and texture studies in your sketchbook. On Thu 2026-09-24 your progress is checked at [[classes/a-level-art-design/assessments/9479-s1-course-skills|CS3]] against the AO1 descriptors.
 
-## The ideas
+## 1 · Learn
 
-### The sustained observed study
+### The sustained study
 
-A **sustained observed study** is one observed drawing carried across two days without restarting it. It is the spine of AO1. What it shows is stamina: staying with one study long enough to resolve structure, then edges, surface, and depth. Stamina is the content here.
+A **sustained study** is one long observed study, started and finished without restarting. It is the spine of AO1 Record. The point is stamina: keep working the same study over days rather than making many fresh starts. Stamina is the content.
 
-The rule for this study is **cover, do not erase**. When something is wrong, you draw over it rather than rubbing it out. This keeps the record of your thinking visible on the sheet.
+The **no-restarts rule** stays in force all week. When a mark goes wrong, **cover, do not erase**. Work over the problem; do not begin the sheet again. The one-day gap between Tuesday and Thursday is survivable, and the sheet you start on Monday is the sheet you resolve on Thursday.
 
-Work the two days in order. Day one builds the tonal structure. Day two resolves edges, surface, and depth. Before any mark, spend five minutes looking at the source.
+Start each session by spending five minutes with the source before you make any mark.
 
 ### The Stage 1 page
 
-The **Stage 1 page** is the composed page that presents your recording work. Compose it so a stranger can follow your thinking. Three things make this work: hierarchy, so the eye knows what matters most; breathing room, so the page is not crowded; and annotation placement, so notes sit where they belong. Photograph and file the page when it is composed.
+The **Stage 1 page** is composed so a stranger can follow your thinking. It was built at Lesson 03.
 
 ### Color and texture studies
 
-**Color and texture studies** are small, focused studies that support the main sustained study. Keep each to A5. The point is focused support, not repeating the same drawing. They add color and surface information the main study needs.
+Support the sustained study with focused **color and texture studies**, not more of the same drawing. This week you make two A5 studies, done as nightly sketchbook homework.
 
-## Day by day
+## 2 · Do
 
-- **Sun 09-20 (make-up day).** Compose your Stage 1 page from your Lesson 3 material, using hierarchy, breathing room, and annotation placement. Photograph and file the page.
-- **Mon 09-21.** Look at the source for five minutes before any mark. Begin the sustained study: light structural drawing, then commit to placement. The sheet you start today finishes Wednesday. Cover, do not erase.
-- **Tue 09-22.** Continue the same sheet. Build the tonal structure.
-- **Wed 09-23.** Finish the same sheet. Resolve edges, surface, and depth.
-- **Thu 09-24.** Make two focused A5 color and texture studies to support the main study. Your CS3 progress check runs this session against the AO1 descriptors. The holiday sketchbook brief is set today, due Fri 2026-10-09.
+- **Sun 09-20.** A make-up session may run. The timetable is not yet set, so this session will be confirmed in class.
+- **Mon 09-21.** Begin the sustained study: light structural drawing, then commit to placement. The sheet you start today finishes Thursday.
+- **Tue 09-22.** Build the tonal structure. This is the middle day of the run, with a midpoint checkpoint.
+- **Thu 09-24.** Resolve the study: surface and depth first, then edges. Your progress is checked at **CS3** against the AO1 descriptors. You also get the holiday sketchbook brief, due Fri 2026-10-09.
+
+Homework: ten minutes of observed drawing each night from your chosen composition's source. The two focused A5 color and texture studies are part of this nightly sketchbook work this week.
 
 ## Assessment
 
-**CS3** (sustained-study progress check, walked, not collected, recorded on the rota sheet) sits Thu 2026-09-24, in the same session. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]].
+**CS3** (sustained-study progress check) sits Thu 2026-09-24. It is walked, not collected, and recorded on the rota sheet. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]].
 
-## Review
+## 3 · Check
 
 Check you can:
 
-- Carry one **sustained observed study** across two days without restarting it.
-- Apply **cover, do not erase** instead of rubbing out.
-- Compose a **Stage 1 page** with hierarchy, breathing room, and annotation placement so a stranger can follow your thinking.
-- Use **color and texture studies** to support the main study rather than repeat it.
-- Explain how the sustained study meets AO1 Record.
+- Carry one **sustained study** across the week without restarting it.
+- Apply the **no-restarts rule**: cover, do not erase.
+- Compose a **Stage 1 page** so a stranger can follow your thinking.
+- Support the study with focused **color and texture studies** rather than more drawing.
+- Explain how this study meets AO1 Record.
 
 ## Practice
 
@@ -92,7 +93,7 @@ Looking. Five minutes with the source before any mark, so placement and structur
 
 <details class="reveal"><summary>Show answer</summary>
 
-No restarts, and cover, do not erase. The sheet that starts Monday finishes Wednesday. One study carried across two days without starting again is the point of the exercise: stamina is the content, and a corrected passage shows more looking than a clean one.
+No restarts, and cover, do not erase. The sheet that starts Monday finishes Thursday. One study carried across the week without starting again is the point of the exercise: stamina is the content, and a corrected passage shows more looking than a clean one.
 
 </details>
 

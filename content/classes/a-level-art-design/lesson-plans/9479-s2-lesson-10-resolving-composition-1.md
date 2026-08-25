@@ -32,7 +32,7 @@ modified: 2026-08-05
 
 This is a short week around the May Day break, with one job: bring composition 1 to a finished state and document it honestly. You produce composition 1, resolved and laid into your development pages, photographed as it is. Nothing is graded this week. This resolved and documented composition 1 becomes the first half of the development comparison that continues in Lesson 11 with composition 2.
 
-## The ideas
+## 1 · Learn
 
 **Unresolved work cannot be judged.** Work that is left open or "nearly" finished cannot be marked. Before you move on, you bring composition 1 to a state that can actually be assessed. Here, resolution is the development itself, not a tidy-up: finishing the open passages is the work.
 
@@ -46,7 +46,7 @@ This is a short week around the May Day break, with one job: bring composition 1
 
 **Equal effort.** Composition 2 is the rejected alternative from your earlier studies, tried with the same effort you gave composition 1. A fair comparison needs both compositions made with equal effort.
 
-## Day by day
+## 2 · Do
 
 - **Thu 05-06.** Back from the May Day break, resolve composition 1. Finish the passages you left open and the parts that were "nearly."
 - **Fri 05-07.** Photograph composition 1 honestly and lay it into your development pages. Homework (≤30 min): prepare composition 2 from your rejected-alternative studies, ahead of Lesson 11.
@@ -55,7 +55,7 @@ This is a short week around the May Day break, with one job: bring composition 1
 
 Nothing is graded this reduced week. Composition 1, resolved and documented, is the first half of the development comparison. Composition 2, the rejected alternative tried with equal effort, begins next week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-11-composition-2-and-paper-drafts|Lesson 11]], where **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS7]]** (paper section drafts) is due Fri 2027-05-14. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. **[[classes/a-level-art-design/assessments/9479-s2-assessments|A3]]** (development + research paper draft 1, AO3) sits Fri 2027-05-28. These spring dates may shift when the school publishes the calendar for that period.
 
-## Review
+## 3 · Check
 
 Check you can:
 

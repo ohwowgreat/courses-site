@@ -34,7 +34,7 @@ modified: 2026-08-06
 
 This lesson looks at what happens to images when they are copied and moved around. You start with ukiyo-e prints, because a print is already many, not one. That makes Walter Benjamin's idea of the aura easier to grasp: it names something you have already seen. Then you meet Hito Steyerl and the poor image, the idea you will actually use. On the last day you make the [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS5]] poor-image lab, due Wed 2026-12-09. This is your practice for [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis|A4]].
 
-## The ideas
+## 1 · Learn
 
 ### Ukiyo-e
 
@@ -54,7 +54,7 @@ This lesson looks at what happens to images when they are copied and moved aroun
 
 The **poor image** is Hito Steyerl's term for the low-resolution image. You defend it as a thing with its own value, not merely a compromise or a worse version of something better. Part of that value comes from circulation: what the image gains by being copied and passed around.
 
-## Day by day
+## 2 · Do
 
 - **Mon 12-07.** Ukiyo-e: a print is many, not one, and the market that made them. Homework set: read Benjamin, the aura passages only, 30 min, due next day.
 - **Tue 12-08 (double).** First period: aura, defined precisely enough to argue with Benjamin, then argued with. Second period: Steyerl and the poor image. Defend the low-resolution image, and say what circulation gives it.
@@ -64,7 +64,7 @@ The **poor image** is Hito Steyerl's term for the low-resolution image. You defe
 
 - **CS5.** Wed 2026-12-09, poor-image lab write-up. Describe exactly what changed, "not that it got worse".
 
-## Review
+## 3 · Check
 
 Check you can:
 

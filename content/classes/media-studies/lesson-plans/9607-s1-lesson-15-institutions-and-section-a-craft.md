@@ -8,7 +8,7 @@ related:
   - "[[classes/media-studies/9607-resource-library]]"
   - "[[concepts/media-industry]]"
   - "[[concepts/case-study-method]]"
-modified: 2026-08-03
+modified: 2026-08-25
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/above-fifth-avenue.jpg" alt="Underwood & Underwood, Above Fifth Avenue, Looking North, c. 1905 — the industry at work: somebody pays for this vantage" loading="lazy" />
@@ -27,7 +27,7 @@ modified: 2026-08-03
 <div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1</span><span class="contract-ao">AO2</span></span></div>
 <p class="contract-job"><a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">CS12</a> guided Section A script; C2 case-study document opened and structured</p>
 <div class="contract-grid">
-<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-12-07 · Tue 12-08 · Wed 12-09 · Fri 12-11<span class="contract-cell-note">Days: 4 — Mon single, Tue single, Wed double (CS12), Fri single</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-12-07 · Wed 12-09 · Thu 12-10 · Fri 12-11<span class="contract-cell-note">Days: 4 — Mon, Wed double (CS12), Thu, Fri (reflowed 2026-08-25: the ownership day now follows the double — CS12 is Section A craft and never depended on it, and Thursday's funding chains feed straight into Friday's case-study build)</span></span></div>
 <div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format">A4</a></span></div>
 </div>
 <div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-15-institutions-and-section-a-craft.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (3.0 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> First case-study entries (30-min cap)</span></div>
@@ -39,13 +39,13 @@ modified: 2026-08-03
 
 ## Overview
 
-This lesson connects two ideas about media institutions and then puts them to work. You learn why the same text is read differently by different audiences, and why texts say what they say when funding shapes content. On Wed 2026-12-09 you write [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS12]], a guided Section A response with the mark scheme open on your desk. On Fri 12-11 you open your Component 2 case-study document, the file you will still be using in May. CS12 is direct practice for [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]], where the scaffold is removed. The case-study document feeds A4, the End of Term Exam, and Paper 2.
+This lesson moves you toward Component 2. You learn why the same text reads differently for different people, and why texts say what they say. In the Wednesday double you write [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS12]], a guided Section A script, with the mark scheme open on your desk (Wed 2026-12-09). On Friday you open your C2 case-study document and structure it. That document is the destination: [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]], the End of Term Exam, and Paper 2 all draw from it.
 
-## The ideas
+## 1 · Learn
 
-### Differential readings
+### Differential readings (Morley)
 
-**Morley** studied real audiences watching the *Nationwide* broadcast. His finding: real audiences, in groups, produce **systematically different readings** of the same text. The differences track people's situations, not their intelligence. You can see this in the room: screen one short text, gather readings, group them, and the groupings line up with who the viewers are.
+**Morley's *Nationwide* study** shows that real audiences, working in groups, produce **systematically different readings** of the same broadcast. The differences track people's situations, not their intelligence. You see this for yourself: the class watches one short text, everyone writes a reading, and the readings are grouped on the board. Those groupings are Morley's data in miniature.
 
 
 <figure class="plate">
@@ -53,13 +53,17 @@ This lesson connects two ideas about media institutions and then puts them to wo
   <figcaption><em>Nationwide</em> (BBC). The broadcast on which Morley tested differential readings</figcaption>
 </figure>
 
-If readings differ by situation, then who makes the text matters even more. That leads to ownership.
+If readings differ by situation, then who makes the text matters even more. That question leads to ownership.
 
-### Ownership: funding follows content
+### The Section A mark scheme
 
-Media institutions are paid for in different ways. **Public service broadcasting (PSB)** is funded by a license fee or the state. Commercial media is funded by advertisers or subscribers. Each payer buys something, and that shapes what gets made.
+Section A is marked on five criteria: concepts, contexts, terminology, analysis, and examples, each scored 0–5. Knowing the criteria is the whole secret. When you write with the mark scheme visible, you can check the band language and label your own work, for example marking one sentence as your terminology evidence. Then you map each paragraph to the criterion it earns, and find the criterion you never fed. That gap is your next target.
 
-**Curran & Seaton** argue that **ownership concentration narrows the stories that get told.** Funding follows content, and it always has. The historical proof: Gustave Le Gray photographed the Emperor's camp on commission in 1857. The frame belonged to the payer, then as now.
+### Ownership and funding
+
+**Ownership** explains why texts say what they say: funding follows content. Public service broadcasting (PSB) and commercial media differ in who pays, whether that is the license fee, advertisers, subscribers, or the state, and each payer buys something different.
+
+**Curran & Seaton** argue that ownership concentration narrows the stories that get told. The historical proof: Le Gray photographed the Emperor's camp on commission in 1857, and the frame belonged to the payer. The same is true now.
 
 
 <figure class="plate">
@@ -67,42 +71,35 @@ Media institutions are paid for in different ways. **Public service broadcasting
   <figcaption>Gustave Le Gray, <em>Preparation of the Emperor's Table, Camp de Châlons</em>, 1857 — photographed on imperial commission: the frame belonged to the payer</figcaption>
 </figure>
 
-You can trace this as a chain: decision ← incentive ← payer. Take one visible decision, an ad break's placement, a family-friendly cut, a product in shot, a story not covered, and follow it back to who pays for it. This same chain is the exam answer when applied to your case-study institution's own funding.
+To make this concrete, you trace one visible decision back to who pays for it: the ad break's placement, the family-friendly cut, the product in shot, the story not covered. Write the chain out as decision ← incentive ← payer. The exam answer runs this chain on your case-study institution's own funding. (As a local aside, the same chain runs on what you watch, such as CCTV, Tencent, or bilibili, but that is not exam material.)
 
-As a local aside, the same chain runs on what you watch (CCTV, Tencent, bilibili). This is background, not exam material.
+### The C2 case-study document
 
-### The Section A mark scheme
+Your **C2 case-study document** tracks one institution from now to Paper 2. The media area you committed to in Lesson 02 chooses the institution. The document has a fixed structure: identity and ownership; production patterns; distribution and marketing; audience and consumption; regulation; technology; dated key facts; and a final row mapping your coverage against the four Key Concepts. Entries must be dated, because the ≤5-year contemporaneity rule starts mattering today. The National Geographic sheet on WS 5.3 is the model of what good entries look like.
 
-Section A responses are marked on five criteria: concepts, contexts, terminology, analysis, and examples, each scored 0–5. Keeping the mark scheme visible while you write is the whole method. As you draft, you can check the band language and label which criterion each paragraph is earning. When you map paragraphs to bands, you also find the criterion you never fed. That gap is your target for A4.
+## 2 · Do
 
-### The Component 2 case-study document
-
-You start one case study you will use all the way to Paper 2: one institution, tracked from now on. The media area chosen in Lesson 02 sets the institution. The document has a fixed structure: identity and ownership; production patterns; distribution and marketing; audience and consumption; regulation; technology; dated key facts; and a final row mapping coverage against the four Key Concepts. Every entry is dated, because facts must be no more than 5 years old to count as contemporary. Good entries look like the National Geographic model sheet (WS 5.3).
-
-## Day by day
-
-- **Mon 12-07.** Learn Morley's *Nationwide* study and replicate it in miniature: one text screened, readings gathered and grouped, the groupings explained.
-- **Tue 12-08.** Learn PSB versus commercial funding and Curran & Seaton on ownership concentration, with the Le Gray example. In pairs, trace one visible decision back to its payer, then rehearse the chain on your case-study institution.
-- **Wed 12-09 (double).** Warm up with the U5.2 context-terms quiz. Write CS12, a Section A response with the mark scheme visible. Then label which criterion each of your paragraphs earned and find the one you never fed.
-- **Fri 12-11.** Open your C2 case-study document from the template, build the full structure, and make your first dated entries. Homework set: two entries a week, 30-minute cap, from public sources you can read.
+- **Mon 12-07.** Learn Morley's *Nationwide* study, then replicate it in miniature: watch one short text, gather readings anonymously, group them on the board, and explain the groupings.
+- **Wed 12-09 (double).** Warm-up with the context-terms quiz. Write CS12, a Section A response, with the mark scheme visible and consultable. Then label which criterion each paragraph earned and find the gap.
+- **Thu 12-10.** Compare PSB and commercial funding: who pays and what each payer buys. Attach Curran & Seaton. In pairs, trace one visible decision back to its payer and write out the chain.
+- **Fri 12-11.** Open your C2 case-study document from the template, build the full structure, and make and date your first entries. Homework: two case-study entries a week, 30-minute cap, from public sources you can read.
 
 ## Assessment
 
 | Item | Date | What | AO |
 |---|---|---|---|
-| CS12 | Wed 2026-12-09 | Guided Section A script, mark scheme open; direct practice for A4, same format family, scaffold removed next week | AO1+AO2 |
+| CS12 | Wed 2026-12-09 | Guided Section A script, mark scheme open; direct practice for A4 in the same format family, with the scaffold removed next week | AO1+AO2 |
 
 See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
-## Review
+## 3 · Check
 
 Check you can:
 
-- Explain **differential readings** using Morley and one example from the room.
-- Trace one editorial or content decision back to an ownership structure, using the chain decision ← incentive ← payer.
-- State **Curran & Seaton**'s claim that ownership concentration narrows the stories that get told.
+- Explain differential readings using **Morley** and an example from class.
+- Trace one editorial or content decision back to an ownership structure.
 - Write a Section A response while consulting the mark scheme, and say which band each paragraph targets.
-- Open your C2 case-study document with the full structure in place and your first entries dated.
+- Open a case-study document with the full structure in place and first entries dated.
 
 ## Practice
 

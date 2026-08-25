@@ -39,7 +39,7 @@ modified: 2026-08-05
 
 This is the semester's last teaching session. You gather a whole semester of work, the four finals, your process work, and your sketchbooks, and turn it into one organized portfolio. You produce two things by the close on Wed 2027-01-06: the End-of-Term ([[classes/pre-a-level-art-design/assessments/pal-s1-eot-semester-portfolio|EoT]]) portfolio as one organized file, and your sketchbook ([[classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook|A5]]). Both are submitted in session. The EoT portfolio is 20% of the grade and the sketchbook is the fifth attainment. Together they set your semester's final grades. You end by filling in a survey that shapes next semester. No class runs in exam week. Everything returns on Wed 2027-01-20 with grades and 1:1 feedback.
 
-## The ideas
+## 1 · Learn
 
 ### The portfolio as an argument
 
@@ -55,7 +55,7 @@ You select and sequence at semester scale, the same choosing you did at the end 
 
 Your **sketchbook** is your evidence of process across the whole semester. Settle the final pages, put your name on the spine, and mark the page you are proudest of with a paper slip. The book is submitted as the fifth attainment. It is marked on five things: **ideas, experimentation, visual research, reflection, and presentation.**
 
-## Day by day
+## 2 · Do
 
 - **Wed 2027-01-06.** Bring out the four finals (drawing, series, collage, poster), your process work, and your sketchbooks. Document anything not yet digital, then select, sequence, and export your portfolio as one named file, submitted before the close. Submit your sketchbook (A5) alongside it. Fill in the End of Semester Survey: themes, formats, freedom, what worked, and your dream project. No homework; the semester's work is in. There is no class in exam week. Work returns on Wed 2027-01-20 with grades and 1:1 feedback.
 
@@ -65,7 +65,7 @@ Your **sketchbook** is your evidence of process across the whole semester. Settl
 
 **EoT, the semester portfolio (20%)**, is submitted in session and reviewed during the exam window with no sitting. **A5, the sketchbook**, the whole semester's book, is submitted alongside it. Both are marked to the published criteria. Grades and comments arrive at the return session, Wed 2027-01-20. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

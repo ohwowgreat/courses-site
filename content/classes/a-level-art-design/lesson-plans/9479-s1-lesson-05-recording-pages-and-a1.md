@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-04-the-sustained-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-06-media-exploration]]"
-modified: 2026-08-05
+modified: 2026-08-25
 ---
 # S1 Lesson 05: Recording Pages and A1
 
@@ -19,16 +19,18 @@ modified: 2026-08-05
 <div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1 Record</span></span></div>
 <p class="contract-job">Recording pages built and sequenced; <a href="../../../classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone">A1</a> sat; feedback converted to three actions</p>
 <div class="contract-grid">
-<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-09-28 → Wed 2026-09-30, then Thu 2026-10-08 → Sat 2026-10-10<span class="contract-cell-note">Sessions: 6 days (W5–W6, split by National Day) — Unit 2 closes; first use of the attainment review protocol</span></span></div>
-<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS4</a> build check Wed 2026-09-30; <strong>A1 Fri 2026-10-09</strong> (feeds mid-term grades due Thu 2026-10-29)</span></div>
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-09-28 · Tue 09-29 · Thu 2026-10-08 · Fri 10-09 (double) · possible Sat 10-10 make-up<span class="contract-cell-note">Sessions: 5 sessions plus a possible Saturday make-up (W5–W6, split by National Day). Unit 2 closes, and this is the first use of the attainment review protocol.</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS4</a> build check Tue 2026-09-29; <strong>A1 Fri 2026-10-09</strong> (feeds mid-term grades due Thu 2026-10-29)</span></div>
 </div>
 <div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Over the break: sketchbook recording from primary sources, dated. After A1: reflection turning feedback into three actions</span></div>
 </div>
 
 
+These dates may shift when the school publishes the calendar for this period. The Saturday make-up will be confirmed in class.
+
 ## Overview
 
-This lesson turns everything you have recorded so far into **recording pages** an examiner could read without explanation. You build and sequence those pages, then sit [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone|A1]] on Fri 2026-10-09, marked against AO1 Record. A1 feeds your mid-term grades, due Thu 2026-10-29. The National Day break splits the lesson on purpose: you build the pages before it, and the review happens after it. On your return you self-check your own recording against what AO1 asks, then convert your banded feedback into three specific actions.
+This lesson turns everything you have recorded so far into recording pages an examiner could read without explanation, then reviews them together. The holiday splits the lesson on purpose: you build the pages before it and review them after it. You sit **[[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone|A1]]**, the recording milestone marked against AO1, on Fri 2026-10-09, and that mark feeds your mid-term grades, due Thu 2026-10-29. You also meet a **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS4]]** build check on Tue 2026-09-29. After A1, you turn banded feedback into three specific actions.
 
 
 <figure class="plate">
@@ -36,54 +38,51 @@ This lesson turns everything you have recorded so far into **recording pages** a
   <figcaption>Ilya Repin, <em>Portrait of a Russian Peasant</em>, 1871</figcaption>
 </figure>
 
-## The ideas
+## 1 · Learn
 
-### Recording pages and AO1
+### Recording pages
 
-**Recording pages** are your studies built and sequenced so an examiner can read them without any explanation from you. They sit under **AO1 Record**, the assessment objective this lesson focuses on.
+**Recording pages** are pages an examiner could read without explanation. You build and sequence them so they show your recording clearly. When you shoot reference, work with light, angle, and series. Annotate your selects for what each one shows, not what it evokes.
 
-**The AO1 read** is the order in which an examiner moves through your pages. You sequence the pages so that read is clear: intention first, then your studies, then the sustained study and its supports.
+**The AO1 read** is the order your pages are sequenced in so they read as a clear record. You line up your studies, name the weakest, and bring everything to one standard before sequencing.
 
-### Shooting and annotating reference
+### AO1 Record
 
-When you shoot reference from primary sources, control three things: **light**, **angle**, and **series** (a set of related shots, not one). Annotate the shots you select for what each one shows, not what it evokes. Annotation records information, not mood.
+**AO1 (Record)** is the assessment objective in focus this lesson. A1 is marked against the published AO1 criteria. Self-check your recording against what AO1 actually asks, not against what you think it asks.
 
-### Bringing studies to one standard
+### Self-check against the band descriptors
 
-Line up all your studies and name the weakest. Bring every study up to the same standard. Nothing half-finished rides along into the recording pages.
+The **AO1 band descriptors** are the published bands used to mark recording. On return from the break, you mark your own recording against them, in writing and honestly. The target: your own banding lands within one band of the teacher's.
 
-### The self-check
+### The attainment review protocol
 
-The **AO1 band descriptors** are the published criteria A1 is marked against. On your return, mark your own recording against these descriptors, in writing and honestly. The target: your own banding lands within one band of the teacher's. On self-check day you make a final fixes list only. Nothing new starts.
+The **attainment review protocol** is a one-to-one portfolio review. In A1 you review your intention, your Stage 1 pages, and the sustained study and supports against the published AO1 criteria. The double gives ninety minutes instead of forty-five, so the review has room for genuine one-to-one passes. Nothing is added to the portfolio during review.
 
-### Turning feedback into actions
+You then convert banded feedback into three specific written actions.
 
-A1 comes back with banded feedback. You convert that feedback into three specific written actions. General reactions are not actions; each one names a concrete change you will make.
+## 2 · Do
 
-## Day by day
-
-- **Mon 09-28.** Shoot reference from primary sources: control light, angle, and series. Annotate the shots you select for what each shows.
-- **Tue 09-29.** Line up all studies, name the weakest, and bring every study up to the same standard.
-- **Wed 09-30.** Sequencing demo (the AO1 read); build the recording pages; **[[classes/a-level-art-design/assessments/9479-s1-course-skills|CS4]]** build check. Holiday homework set: sketchbook recording from primary sources, dated.
-- **Thu 10-08.** Re-entry after the break with holiday sketchbooks. Self-check your recording against the AO1 band descriptors in writing. Make a final fixes list only; nothing new starts.
-- **Fri 10-09.** **A1 attainment.** Portfolio review in session: intention, Stage 1 pages, the sustained study and supports, against the published AO1 criteria. Nothing is added during the review.
-- **Sat 10-10** (make-up day). A1 returned with banded feedback. Convert your feedback into three specific written actions. Unit 3 preview.
+- **Mon 09-28.** Shoot reference from primary sources: light, angle, and series. Annotate the selects for what each shows.
+- **Tue 09-29.** Last session before National Day. Line up your studies, name the weakest, and bring everything to one standard. See the sequencing demo ("the AO1 read") and start your recording pages. Your CS4 build check is walked during the work. Homework over the break: sketchbook recording from primary sources, dated.
+- **Thu 10-08.** Re-entry after the break, holiday sketchbooks on tables. Finish your recording pages from Tuesday's sequence. Self-check: mark your own recording against the AO1 band descriptors, in writing. Make a final fixes list only; start nothing new.
+- **Fri 10-09 (double).** **A1 attainment.** Portfolio review in session against the published AO1 criteria. Nothing is added during review.
+- **Sat 10-10 (possible make-up).** A1 returned with banded feedback, converted into three specific written actions, one-to-one; Unit 3 preview. If Saturday does not run, this opens Lesson 06 on Mon 10-12.
 
 ## Assessment
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone|A1 Recording]].
 
-**CS4** (recording pages build check) Wed 2026-09-30. **A1** (recording milestone, marked against AO1) Fri 2026-10-09. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. Self-check target: your own banding lands within one band of the teacher's.
+**CS4** (recording pages build check) Tue 2026-09-29. **A1** (recording milestone, marked against AO1) Fri 2026-10-09. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. Self-check target: your own banding lands within one band of the teacher's.
 
-## Review
+## 3 · Check
 
 Check you can:
 
 - Build and sequence **recording pages** an examiner could read without explanation.
-- Explain **the AO1 read** and order your pages to match it.
-- Shoot reference controlling **light**, **angle**, and **series**.
-- Annotate selected shots for what each shows, not what it evokes.
-- Mark your own recording against the **AO1 band descriptors** within one band of the teacher.
+- Sequence pages as **the AO1 read** so they read as a clear record.
+- Annotate selects for what each one shows, not what it evokes.
+- Sit **A1** and self-check your recording against what **AO1 (Record)** asks.
+- Mark your own recording against the **AO1 band descriptors** in writing.
 - Convert banded feedback into three specific written actions.
 
 ## Practice

@@ -33,7 +33,7 @@ modified: 2026-08-05
 
 These are the return days after the exam window and after the grades deadline. Nothing you do here changes your Semester 1 grade. You get your work back, talk one-to-one about what you made, and set a Semester 2 goal that is about a practice rather than about a grade. This goal is the deliverable. [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB9]] is posted on Tue 2027-01-19 and counts toward Semester 2. The last day also previews the Semester 2 topics.
 
-## The ideas
+## 1 · Learn
 
 ### Acting on feedback
 
@@ -53,7 +53,7 @@ Semester 2 looks at where the money in art comes from. **Patronage** is support 
   <figcaption>Caspar David Friedrich, <em>Wanderer Above the Sea of Fog</em>, 1818 — who is he? what does he see? the enigma code at work</figcaption>
 </figure>
 
-## Day by day
+## 2 · Do
 
 - **Tue 01-19.** Work returned. You get one-to-one feedback while everyone else re-reads their own work against the criteria.
 - **Wed 01-20.** One-to-one feedback continues. Grades and comments are due today.
@@ -64,7 +64,7 @@ Semester 2 looks at where the money in art comes from. **Patronage** is support 
 - **LB9.** Tue 2027-01-19, posted after the Wednesday grades deadline. It counts toward Semester 2, not Semester 1.
 - The Semester 2 goal is the deliverable. Write it about a practice rather than about a grade.
 
-## Review
+## 3 · Check
 
 Check you can:
 

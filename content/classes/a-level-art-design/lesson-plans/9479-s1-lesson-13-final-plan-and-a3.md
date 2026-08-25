@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-4-development]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-12-targeted-tests-and-direction]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-14-the-final-outcome]]"
-modified: 2026-08-05
+modified: 2026-08-25
 ---
 # S1 Lesson 13: Final Plan and A3
 
@@ -19,8 +19,8 @@ modified: 2026-08-05
 <div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO3 closing into AO4</span></span></div>
 <p class="contract-job">Final composition plan, supporting thumbnails, palette and materials settled; <a href="../../../classes/a-level-art-design/assessments/9479-s1-a3-development-milestone">A3</a> sat; the plan adjusted from feedback</p>
 <div class="contract-grid">
-<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-12-07 → Fri 2026-12-11<span class="contract-cell-note">Sessions: 5 days (W15) — Unit 4 closes; attainment review protocol</span></span></div>
-<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><strong>A3 Thu 2026-12-10</strong>: development milestone, marked against AO3. Foreign Culture Day may take Fri 12-11: the feedback lesson slips, never the assessment</span></div>
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-12-07 · Tue 12-08 · Thu 12-10 (A3) · Fri 12-11 (double)<span class="contract-cell-note">Sessions: 5 sessions over 4 days (W15) — Unit 4 closes; attainment review protocol</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><strong>A3 Thu 2026-12-10</strong>: development milestone, marked against AO3</span></div>
 </div>
 <div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Reflection: the plan adjustment written up after Friday's feedback</span></div>
 </div>
@@ -28,21 +28,21 @@ modified: 2026-08-05
 
 ## Overview
 
-This lesson closes Unit 4. You plan the final composition and solve it small before you make it large. You settle your palette and materials before the outcome begins. You produce a final composition plan with supporting thumbnails, palette and materials fixed. You sit [[classes/a-level-art-design/assessments/9479-s1-a3-development-milestone|A3]] on Thu 2026-12-10, a development milestone marked against AO3. On Friday you turn the feedback into plan adjustments while there is still time for them to matter, and this feeds the build run in Lesson 14.
+This lesson closes Unit 4. You plan the final composition, solve it small with thumbnails, and settle your palette and materials before the outcome begins. You sit **[[classes/a-level-art-design/assessments/9479-s1-a3-development-milestone|A3]]**, a development milestone marked against AO3, on Thu 2026-12-10. After that you turn the feedback into plan adjustments while there is still time for them to matter. Your homework is a written reflection on the plan adjustment, done after Friday's feedback. This work carries you into the build of the final outcome in AO4.
 
-## The ideas
+## 1 · Learn
 
 ### The final composition plan
 
-The **final composition plan** is a full-size or scaled plan of the outcome, with structure, values, and the sequence of work marked. The bar is simple: the plan must be complete enough that a capable stranger could begin the piece from it. You plan and solve the outcome before the day you make it, so nothing is left to chance.
+The **final composition plan** is a full-size or scaled plan of your final piece, with structure, values, and the sequence of work marked. You solve the piece small before you make it large, so nothing about the final outcome is left to the day itself. The bar for the plan: "complete enough that a capable stranger could begin the piece from it."
 
-### Thumbnails that solve, not decorate
+### Thumbnails that solve
 
-**Thumbnails that solve** are small tests of the plan, not decoration. You test the plan at small scale, push one genuine alternative, reject it on paper, and annotate why you rejected it. The point is to find problems small, before they cost you at full size.
+**Thumbnails** are small studies that test the plan, not decorate it. Push one genuine alternative composition, then reject it on paper and annotate why. The rejection is part of the thinking: it shows you tested the plan rather than settling for the first idea.
 
-### A palette argued from meaning
+### Palette and materials
 
-Your **palette and materials** are settled, swatched, and tested on the actual support, then named for what they carry. You choose color and material for meaning, not habit.
+Settle your **palette** and materials before the outcome begins. Argue the palette from meaning: swatch it on the actual support, and name each color for what it carries. Do the same for materials, so the choices are decided, not improvised.
 
 
 <figure class="plate">
@@ -50,33 +50,32 @@ Your **palette and materials** are settled, swatched, and tested on the actual s
   <figcaption>Vincent van Gogh, <em>On the Outskirts of Paris</em>, 1887</figcaption>
 </figure>
 
-### A3: the development milestone
+### A3 and AO3
 
-**A3** is a portfolio review marked against AO3. In session, your compositions 1 and 2, targeted tests, written evaluation, and final composition plan are reviewed against the published AO3 criteria. Nothing is added during the review. Afterward the work is banded, and you convert the feedback into physical changes to the plan.
+**A3** is a development milestone, marked against the published AO3 criteria. The portfolio review happens in the session and covers compositions 1 and 2, your targeted tests, the written evaluation, and the final composition plan. Nothing is added during the review. Afterward the work is banded, and you convert the feedback into plan adjustments while there is still time.
 
-## Day by day
+## 2 · Do
 
-- **Mon 12-07.** Put your direction sentence and evaluation on the table. Start the final composition plan: full-size or scaled, with structure, values, and sequence of work marked.
-- **Tue 12-08.** Test the plan small. Push one genuine alternative, reject it on paper, and annotate the rejection.
-- **Wed 12-09.** Settle and swatch your palette and materials, test them on the actual support, and name what they carry. Self-check against the AO3 descriptors in writing.
-- **Thu 12-10.** Sit A3. Your portfolio is reviewed in session against the published AO3 criteria. Nothing is added during review.
-- **Fri 12-11.** A3 is returned and banded. Amend the plan from the feedback and initial the changes. You also preview the build run. Homework: write up the plan adjustment after this feedback. If Foreign Culture Day falls on this day, the feedback lesson may move; A3 still sits on Thursday.
+- **Mon 12-07.** Put the direction sentence and evaluation on the table. Build the final composition plan: full-size or scaled, with structure, values, and sequence of work marked.
+- **Tue 12-08.** Test the plan with thumbnails, and push one alternative that you then reject and annotate. Settle the palette and materials, swatched on the actual support and named for what they carry. Write the AO3 self-check.
+- **Thu 12-10.** Sit A3. The portfolio is reviewed in session against the AO3 criteria. Nothing is added during review.
+- **Fri 12-11 (double).** A3 is returned and banded. Amend the plan physically from feedback and initial the changes, with one-to-one passes, plus a preview of the build run and studio booking. If Foreign Culture Day falls on this day, this feedback lesson may move, but A3 does not; this will be confirmed in class. Homework: write up the plan adjustment as a reflection.
 
 ## Assessment
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/a-level-art-design/assessments/9479-s1-a3-development-milestone|A3 Development]].
 
-**A3** (development milestone, AO3) sits Thu 2026-12-10 — see the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. The bar for the plan: "complete enough that a capable stranger could begin the piece from it."
+**A3** (development milestone, AO3) is sat Thu 2026-12-10. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. The bar for the plan: "complete enough that a capable stranger could begin the piece from it."
 
-## Review
+## 3 · Check
 
 Check you can:
 
-- Draw a **final composition plan** with structure, values, and sequence of work, complete enough for a stranger to begin the piece.
-- Use **thumbnails that solve**: test the plan small, reject one alternative on paper, and annotate why.
-- Settle a **palette and materials** argued from meaning, swatched and tested on the actual support.
-- Sit **A3** and have your portfolio reviewed against the AO3 criteria.
-- Turn A3 feedback into written and physical plan adjustments.
+- Plan the final composition as a full-size or scaled **final composition plan** with structure, values, and sequence marked.
+- Use **thumbnails** to solve the composition small, testing and rejecting one alternative on paper.
+- Settle your **palette** and materials, swatched on the actual support and named for what they carry.
+- Sit **A3** and show your development against the published AO3 criteria.
+- Turn A3 feedback into concrete plan adjustments.
 
 ## Practice
 

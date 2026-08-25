@@ -6,7 +6,7 @@ related:
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-13-final-plan-and-a3]]"
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-4-development]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-08-02
+modified: 2026-08-25
 ---
 # A Level Art & Design · S1 A3: Development Milestone
 
@@ -28,6 +28,8 @@ modified: 2026-08-02
 | Feeds | Component 1 Portfolio, and the build run that makes the final outcome |
 | Unit | [[classes/a-level-art-design/unit-plans/9479-s1-unit-4-development\|U4 Development]] |
 
+These dates may shift when the school publishes the calendar for this period.
+
 ## Objectives
 
 This assessment asks you to show that you can:
@@ -37,7 +39,7 @@ This assessment asks you to show that you can:
 3. Push one real alternative, reject it on paper, and annotate why you rejected it.
 4. Argue your palette and materials from **meaning**, not from preference or availability.
 5. Evaluate your own development in writing, naming weaknesses as precisely as strengths.
-6. Produce a final composition plan **complete enough that a capable stranger could begin the piece from it.**
+6. Produce a final composition plan complete enough that a capable stranger could begin the piece from it.
 
 ## The task
 
@@ -51,23 +53,23 @@ What is on the table:
 - **The final composition plan**: full-size or scaled, with structure, values and the sequence of work marked, plus the thumbnails that tested it and the annotated rejection.
 - **Palette and materials**, swatched and tested on the actual support you will use.
 
-This is the last review before the final outcome is built. Everything it asks for exists so that the build run is execution, not invention.
+This is the last review before you build the final outcome. Everything it asks for exists so that the build run is execution, not invention.
 
 ## Instructions
 
-**Before the review.** On Wed 12-09 you self-check against the AO3 criteria below, **in writing.** Settle your palette and materials, swatch them, test them on the real support, and name them for what they carry, before the review, not during the build.
+**Before the review.** On Tue 12-08 you self-check against the AO3 criteria below, in writing. Settle your palette and materials, swatch them, test them on the real support, and name them for what they carry, before the review, not during the build.
 
 **On the day.**
 
 1. Lay out both compositions side by side, the tests, the evaluation and the plan.
 2. The review happens in session, with you present.
-3. **Nothing is added during the review.**
+3. Add nothing during the review.
 
-**After.** A3 comes back banded on Fri 12-11. You then **physically amend the plan** from the feedback and initial the changes. This is the one attainment whose feedback you can still spend, because the outcome has not been built yet.
+**After.** A3 comes back banded on Fri 12-11. You physically amend the plan from the feedback and initial the changes. This is the one attainment whose feedback you can still spend, because you have not built the outcome yet.
 
-**If Friday is lost.** Foreign Culture Day may take Fri 12-11. If it does, the feedback lesson moves to the next available session. The assessment itself does not move.
+**If Friday is lost.** Foreign Culture Day may take Fri 12-11. If it does, the feedback lesson slips, but the assessment does not move.
 
-**If you are absent.** Contact your teacher **at least 24 hours before**. Illness needs a doctor's note. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8).
+**If you are absent.** Contact your teacher at least 24 hours before. Illness needs a doctor's note. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8).
 
 ## Rubric
 
@@ -108,4 +110,4 @@ AO3 carries the most marks of any AO in Component 1, 20 of 60, because this spec
 | **CS9**, targeted tests + critique response | Already marked once. The critique response is AO3 reflection evidence |
 | The direction sentence you defended at A2 | The development should visibly serve it |
 | Mon to Wed of Lesson 13 | The plan, the thumbnails, the palette. All three are assessed |
-| [[classes/a-level-art-design/9479-assessment-criteria\|The AO3 criteria]] | The Wed 12-09 self-check, in writing |
+| [[classes/a-level-art-design/9479-assessment-criteria\|The AO3 criteria]] | The Tue 12-08 self-check, in writing |

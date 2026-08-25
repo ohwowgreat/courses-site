@@ -33,7 +33,7 @@ modified: 2026-08-05
 
 In this lesson you bring outcome 2 to the same finish as outcome 1, photograph it to the same standard, then evaluate both outcomes in writing against your intention. Your deliverable is outcome 2 resolved and documented, plus the paired evaluation, which is **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS8]]** on Fri 2027-12-03. The two outcomes then move into assembly in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-12-assembly-sequence-documentation-bibliography|Lesson 12]]. These dates are projected and may shift when the school publishes the calendar for this period.
 
-## The ideas
+## 1 · Learn
 
 ### Judged as a pair
 
@@ -49,7 +49,7 @@ In this lesson you bring outcome 2 to the same finish as outcome 1, photograph i
 
 **Evaluation against the intention.** The evaluation judges the pair against your stated intention and names what each outcome found. This is AO4 evidence, not a diary. Say what the investigation found, not what it cost.
 
-## Day by day
+## 2 · Do
 
 - **Mon–Tue 11-22/23.** Studio work on outcome 2, carried toward resolution through the reduced week.
 - **Wed 11-24.** Studio work on outcome 2. **[[classes/a-level-art-design/assessments/9479-s3-assessments|A4]]** (the complete Personal Investigation) is announced today, 28 days ahead.
@@ -58,7 +58,7 @@ In this lesson you bring outcome 2 to the same finish as outcome 1, photograph i
 - **Wed 12-01.** Photograph outcome 2. Both outcomes are now documented to the same standard.
 - **Thu–Fri 12-02/03.** Evaluate both outcomes in writing against your intention. **CS8** marks this paired evaluation. Homework (≤30 min): write one honest line on what each outcome found that the other did not.
 
-## Review
+## 3 · Check
 
 Check you can:
 

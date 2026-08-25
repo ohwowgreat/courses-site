@@ -35,7 +35,7 @@ These dates are projected. They may shift when the school publishes the calendar
 
 This week you explore at exam pace. You turn your [[classes/a-level-art-design/assessments/9479-s4-assessments|A1]] feedback into targets, then run eight media experiments from your proven selections. You produce **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS4]]** on Fri 2028-03-17: the experiment documentation plus your artist 1 response. You also analyze artist 1 and answer them in visible work. This exploration feeds the development stage that follows in Lesson 05.
 
-## The ideas
+## 1 · Learn
 
 ### Eight experiments to a decision
 
@@ -57,7 +57,7 @@ You analyze artist 1, then answer them in your own work within single sessions. 
   <figcaption>Peter Paul Rubens, <em>Anatomical Studies</em>, pen and ink, c. 1605</figcaption>
 </figure>
 
-## Day by day
+## 2 · Do
 
 - **Mon 03-13.** Turn A1 feedback into targets, then plan the eight experiments around the question.
 - **Tue 03-14.** Studio: run the media experiments, judging each in writing on what carries the question. This is a two-day run.
@@ -65,7 +65,7 @@ You analyze artist 1, then answer them in your own work within single sessions. 
 - **Thu 03-16.** Analyze artist 1 and answer them in work in one pass.
 - **Fri 03-17.** Continue the artist 1 response work. **CS4** is due: the experiment documentation plus the artist 1 response. Your **[[classes/a-level-art-design/assessments/9479-s4-assessments|A3]]** notice is announced today, 14 days out, before [[classes/a-level-art-design/assessments/9479-s4-assessments|A2]] has sat.
 
-## Review
+## 3 · Check
 
 Check you can:
 

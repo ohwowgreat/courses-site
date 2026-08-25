@@ -40,7 +40,7 @@ modified: 2026-08-05
 
 In this lesson you finish your final collage under assessment conditions and write a reflection about it. You put down the top layer, resolve the edges, set the words, and sign the back. You then submit the collage and the reflection together. This is **[[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage|A3]]**, the semester's third attainment, made in class. The mark rewards decisions you can point to, both in the work and in the reflection. Unit 3 closes here, and Unit 4 opens next Wednesday, 12-16, with the [[classes/pre-a-level-art-design/assessments/pal-s1-a4-final-poster|A4]] route decision.
 
-## The ideas
+## 1 · Learn
 
 ### The cover test
 
@@ -63,7 +63,7 @@ Finish in order. Place and glue the speaker, the strongest element. Set the text
 
 Write one page in full sentences. These sentence frames can start you off: "My collage is about … ", "The juxtaposition of … and … says … ", "My layering decision that works best is … because … ", "I placed … at … so that … ", "If I made it again I would …."
 
-## Day by day
+## 2 · Do
 
 - **Wed 2026-12-09.** Finish the top layer, edges, and words under assessment conditions. Apply the cover test and remove anything that is only decoration. Write your one-page reflection, then submit the collage and reflection. Put your process trail into the sketchbook: both drafts, the dry-fit photographs, and the best rejected scraps, annotated. No new homework; keep up your weekly MB posting.
 
@@ -73,7 +73,7 @@ Write one page in full sentences. These sentence frames can start you off: "My c
 
 **A3 — final collage + reflection**, sat and submitted in class. Marking focus: **juxtaposition, layering, composition, meaning**. Meaning is judged on the work and on the reasons in your reflection. Returned with feedback within five working days. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

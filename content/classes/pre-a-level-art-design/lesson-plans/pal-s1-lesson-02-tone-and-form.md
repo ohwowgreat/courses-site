@@ -41,7 +41,7 @@ modified: 2026-08-05
 
 This lesson is about value and how to make an object look solid with light and dark instead of lines. You produce three pieces in your sketchbook on Wed 2026-09-09: a 10-step value scale, one shaded-form study from the chart, and one tonal study of a lit object. The value scale and the tonal study are two of the four pieces checked at [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS1]] in W4.
 
-## The ideas
+## 1 · Learn
 
 ### Value and the value scale
 
@@ -72,7 +72,7 @@ There are four ways to lay tone:
 
 You practice these on the chart forms: cylinder, cube, cone, and sphere.
 
-## Day by day
+## 2 · Do
 
 - **Wed 09-09.** Warm-up value ladder, then a demo of one object under one lamp showing the five things tone does and the four ways to lay tone. You build the 10-step value scale, render one form from the chart in a chosen technique, then draw a lit object (egg, paper cup, or sphere) with no outline, large, pushing the darks dark. At the pin-up, each drawing is asked one question: where is the light coming from? Annotate the study in your sketchbook: "The light comes from … " / "The darkest value is in … " / "Next time I will … ". Homework: two tonal studies of one home object in two different lightings, plus an MB posting.
 
@@ -80,7 +80,7 @@ You practice these on the chart forms: cylinder, cube, cone, and sphere.
 
 Nothing is graded today. The value scale and tonal study go into your sketchbook as two of CS1's four pieces, checked in W4 on 09-23. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

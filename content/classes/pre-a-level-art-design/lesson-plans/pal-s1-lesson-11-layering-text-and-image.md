@@ -53,7 +53,7 @@ modified: 2026-08-05
 
 This is the unit's making session. You learn two craft skills that separate a collage from a scrapbook page: **layering** and **text as image**. You produce two studies, a layering study and a text-and-image study, and add them to your experiment set. Those two studies, plus the two from Lesson 10 and your home experiment, complete the set that **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS3]]** collects next Wednesday, 2026-11-25. Dates here may shift when the school publishes its calendar for this period.
 
-## The ideas
+## 1 · Learn
 
 ### Layering
 
@@ -71,7 +71,7 @@ This is the unit's making session. You learn two craft skills that separate a co
 
 **Barbara Kruger** sets text barking over found photographs. Her work shows text used as image: the words carry a voice, not a label.
 
-## Day by day
+## 2 · Do
 
 - **Wed 11-18.** You learn layering (order, edges, transparency) and text as image, using Barbara Kruger and John Stezaker as examples. In the studio you make two studies for the experiment set: a layering study with at least three layers, at least one torn edge and one knife edge, and one semi-transparent layer; and a text-and-image study using one found image plus cut-out text that changes what the image means. Dry-fit each study, photograph the dry-fit, then glue. At home, make one more experiment in any technique, keep harvesting material, and post to MB.
 
@@ -86,7 +86,7 @@ You may **remix an analog study digitally** as an extra experiment, using Photos
 
 Nothing is graded today. Your two studies, together with Lesson 10's two studies and your home experiment, complete the **experiment set for CS3** (Wed 2026-11-25). Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

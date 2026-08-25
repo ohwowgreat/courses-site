@@ -9,11 +9,11 @@ modified: 2026-08-25
 ---
 # Teacher Timetable
 
-**The weekly class grid, Semester 1 2026-27.** For dates, holidays and anchors, see the [[calendar|academic calendar]].
+This is the weekly grid for Semester 1, 2026-27. For dates, holidays, and anchors, see the [[calendar|academic calendar]].
 
 ## Bell schedule
 
-Nine 45-minute periods.
+Each day has nine 45-minute periods.
 
 | Period | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |---|---|---|---|---|---|---|---|---|---|
@@ -29,14 +29,18 @@ Nine 45-minute periods.
 | **Thu** | Media | — | — | — | — | **9479** | — | — | — |
 | **Fri** | — | Art App | **9479** | **9479** | — | Media | — | — | — |
 
+Mondays end late: 9479 in P9 runs to 16:20.
+
 ## Per-course slots
 
-| Course | Slots | Room | Load | Timetable label |
-|---|---|---|---|---|
-| [[classes/a-level-art-design/a-level-art-design\|9479 A Level]] | Mon P9 · Tue P3 · Thu P6 · **Fri P3+P4 (double)** | 710 | 5 periods over 4 days — **no Wednesday** | 11AD / AD.o1 (Fri block AS1–AS4) |
-| [[classes/media-studies/media-studies\|Media Studies 9607]] | Mon P6 · **Wed P6+P7 (double)** · Thu P1 · Fri P6 | 710 | 5 periods over 4 days — **no Tuesday** | 11MS / MS.o3 (Wed block AS1–AS4) |
-| [[classes/art-appreciation/art-appreciation\|Art Appreciation]] | Mon P4 · **Tue P6+P7 (double)** · Wed P1 · Fri P2 | 608 | 5 periods over 4 days | 12Op4 / AL1–AL4 |
-| [[classes/pre-a-level-art-design/pre-a-level-art-design\|Pre A Level]] | **Wed P3+P4 (double)** | 710 | 2 periods, one day | 10Art / PAL1–PAL4 |
-| [[classes/oxbridge/oxbridge\|Oxbridge]] | not on this timetable | — | — | — |
+| Course | Slots | Room | Load |
+|---|---|---|---|
+| [[classes/a-level-art-design/a-level-art-design\|9479 A Level]] | Mon P9 · Tue P3 · Thu P6 · **Fri P3+P4 (double)** | 710 | 5 periods over 4 days, **no Wednesday** |
+| [[classes/media-studies/media-studies\|Media Studies 9607]] | Mon P6 · **Wed P6+P7 (double)** · Thu P1 · Fri P6 | 710 | 5 periods over 4 days, **no Tuesday** |
+| [[classes/art-appreciation/art-appreciation\|Art Appreciation]] | Mon P4 · **Tue P6+P7 (double)** · Wed P1 · Fri P2 | 608 | 5 periods over 4 days |
+| [[classes/pre-a-level-art-design/pre-a-level-art-design\|Pre A Level]] | **Wed P3+P4 (double), 9:50–11:30** | 710 | 2 periods, one day |
+| [[classes/oxbridge/oxbridge\|Oxbridge]] | not yet on the timetable | — | — |
 
-Mondays end late: 9479's P9 runs to 16:20.
+## Make-up work days
+
+Sun 2026-09-20 and Sat 2026-10-10 are make-up work days. Which weekday timetable each one runs will be confirmed in class.

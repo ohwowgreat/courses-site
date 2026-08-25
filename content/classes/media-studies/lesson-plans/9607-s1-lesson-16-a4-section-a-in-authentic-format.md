@@ -9,7 +9,7 @@ related:
   - "[[concepts/media-industry]]"
   - "[[concepts/media-regulation]]"
   - "[[concepts/media-vocabulary]]"
-modified: 2026-08-10
+modified: 2026-08-25
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/lindbergh-1927.jpg" alt="Underwood & Underwood, Charles Lindbergh, 1927 — the first global media event: one man, every channel" loading="lazy" />
@@ -28,7 +28,7 @@ modified: 2026-08-10
 <div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1</span><span class="contract-ao">AO2</span></span></div>
 <p class="contract-job"><a href="../../../classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format">A4</a> script: Component 2 Section A — 30 min viewing and notes plus 45 min writing</p>
 <div class="contract-grid">
-<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-12-14 · Tue 12-15 · Wed 12-16 · Fri 12-18<span class="contract-cell-note">Days: 4 — Mon+Tue two-day block, Wed double (A4 sits), Fri single</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-12-14 · Wed 12-16 · Thu 12-17 · Fri 12-18<span class="contract-cell-note">Days: 4 — Mon, Wed double (A4 sits), Thu, Fri (reflowed 2026-08-25: the old Tuesday prep compresses into Monday; Thursday banks the self-band while the sit is fresh and runs the end-to-end trace)</span></span></div>
 <div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">End of Term Exam; Forecast Grade anchor</span></div>
 </div>
 <div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-16-a4-section-a-in-authentic-format.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (3.6 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> None: attainment week</span></div>
@@ -40,38 +40,38 @@ modified: 2026-08-10
 
 ## Overview
 
-This lesson traces one institution end to end: integration, synergy, and convergence, from the greenlight to your feed. You then sit [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]] on Wed 2026-12-16, the first Section A in the authentic format: 30 minutes of viewing and note-making, then 45 minutes of writing. Friday adds regulation while the sit is fresh. A4 is your Forecast Grade anchor and it feeds the End of Term Exam.
+This lesson works with the exam's three institution words and then puts you through the first authentic Section A sitting. You sit [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]] on Wed 12-16: Component 2 Section A on an unseen TV-drama extract, 30 minutes of viewing and note-making followed by 45 minutes of writing. This is your Forecast Grade anchor, and it feeds the End of Term Exam. After the sit you band your own script, then trace one institution from decision to screen and add regulation. The marked scripts and your Forecast Grade come at Lesson 17.
 
-## The ideas
+## 1 · Learn
 
 ### The three institution words
 
-**Integration** means owning more of the process. Owning the stages of production is vertical integration. Owning your neighbors at the same stage is horizontal integration.
+**Integration** is owning more than one stage of the media chain. Owning the stages above and below you is vertical integration. Owning your neighbors at the same stage is horizontal integration.
 
-**Synergy** is when the parts of a business sell each other.
+**Synergy** is parts of a business selling each other, so one product drives sales of another.
 
-**Convergence** is when media and platforms flow together.
+**Convergence** is media and platforms flowing together, so content moves across devices and services.
 
-One historical anchor: Lindbergh, 1927. One man, and every channel of the era sold the same story to itself: newsreels, press syndicates, radio, records. The media event predates the internet by seventy years.
+One historical anchor shows all three before the internet: **Lindbergh, 1927**. One man, and every channel of the era sold the same story to itself, through newsreels, press syndicates, radio, and records. The media event predates the internet by seventy years. You hunt these three words in one institution's real current output: where it integrates, what synergizes with what, and where it has converged onto new platforms.
 
-You track one institution's real current output for all three: where it integrates, what synergizes with what, and where it has converged onto new platforms. Then you follow the same institution from decision to screen: who greenlights, who produces, who distributes, how it is marketed, where audiences meet it, and who takes the revenue.
+### Structured notes, not a transcript
 
-### Structured notes
+In the viewing window you make **structured notes**: entries in a four-family grid, not full sentences and not a word-for-word transcript. The grid is what you write from in the 45-minute response.
 
-In the A4 viewing window, make **structured notes, not a transcript**. Use the four-family grid. Write notes, not sentences.
+### The institution end to end
+
+You follow one institution from decision to screen as a single chain: who greenlights, who produces, who distributes, how it is marketed, where audiences meet it, and who takes the revenue. Each link is annotated from your case-study documents.
 
 ### Regulation as the fourth context
 
-**Regulation** is the fourth context. It answers who regulates your case-study institution, with what powers, and what that visibly changes about its output: scheduling, cuts, ratings, and what never gets made. The regulator depends on the home market: Ofcom, the FCC, or platform self-regulation. Your case-study institution is exam-eligible, so its regulator is too. (The NRTA is a spoken aside here.)
+**Regulation** is who controls an institution's output and with what powers. Which body regulates depends on the institution's home market: Ofcom, the FCC, or platform self-regulation. What matters is what regulation visibly changes: scheduling, cuts, ratings, and what never gets made. This extends the chain one link: decision ← incentive ← payer ← **regulator**. (As an aside, the NRTA sits alongside these: your case-study institution is exam-eligible, so its regulator is too.)
 
-This extends the chain from Lesson 15 by one link: decision ← incentive ← payer ← **regulator**.
+## 2 · Do
 
-## Day by day
-
-- **Mon 12-14.** Define integration, synergy, and convergence, and hunt for all three in one institution's real output. Close with a structured-notes drill.
-- **Tue 12-15.** Trace the same institution from decision to screen as one chain. Reread your Lesson 15 note on which rubric row went hungry in [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS12]], and plan what will feed it. Second structured-notes drill.
-- **Wed 12-16 (double).** You sit A4: Component 2 Section A in the authentic format, an unseen extract, 30 minutes of viewing and notes then 45 minutes of writing. Scripts are collected. There is no debrief today; the format is the lesson.
-- **Fri 12-18.** Research and date the regulation row of your case-study document. Preview of Week 17 (consolidation and the coverage matrix). A4 scripts return with AO splits recorded, and the Forecast Grade conversation happens at Lesson 17 with that evidence.
+- **Mon 12-14.** Define integration, synergy, and convergence, and hunt all three in one institution's real output, dating each entry in your case-study documents. Close with a short structured-notes drill on a trailer clip.
+- **Wed 12-16 (double).** Sit A4: Component 2 Section A on an unseen extract, 30 minutes of viewing and notes, then 45 minutes of writing, run to the paper's clock. Scripts are collected, with no debrief that day.
+- **Thu 12-17.** Band your own script per criterion from memory of what you wrote, in writing. It is sealed until the marked scripts return at Lesson 17. Then trace the same institution end to end on the board.
+- **Fri 12-18.** Cover regulation: who regulates your case-study institution, with what powers, and what it changes. Add the regulation row to your case-study document. Close with a preview of Week 17 (consolidation and the coverage matrix); A4 scripts return with AO splits recorded.
 
 ## Assessment
 
@@ -83,15 +83,15 @@ This extends the chain from Lesson 15 by one link: decision ← incentive ← pa
 
 See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
-## Review
+## 3 · Check
 
 Check you can:
 
-- Define **integration**, **synergy**, and **convergence**, and give evidence for each from one institution.
-- Distinguish vertical integration from horizontal integration.
-- Use the 30-minute viewing window to make **structured notes** in the four-family grid, not a transcript.
-- Sustain the 45-minute write from your notes rather than from memory.
-- Name who regulates your case-study institution and state one concrete consequence for its output.
+- Define integration, synergy, and convergence, and give one example of each from a real institution.
+- Use the 30-minute viewing window to make structured notes in the grid, not a transcript.
+- Write the Section A response in 45 minutes from your notes rather than from memory.
+- Trace one institution from greenlight to revenue as a single chain.
+- Explain who regulates your case-study institution and one concrete consequence for its output.
 
 ## Practice
 

@@ -32,7 +32,7 @@ modified: 2026-08-05
 
 This week you decide which of your two resolved compositions becomes the mid-point piece, and why. You critique both against your intention, act on what you hear, run targeted tests on what is still unresolved, and choose the final direction. You produce **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS8]]**, the targeted tests plus your critique response, due Fri 2027-05-21 in your sketchbook. The written rejection of the composition you drop is part of this work. It feeds [[classes/a-level-art-design/assessments/9479-s2-assessments|A3]], the development milestone and paper draft 1, which you sit Fri 2027-05-28.
 
-## The ideas
+## 1 · Learn
 
 ### Critique against the intention
 
@@ -54,7 +54,7 @@ A critique only counts when you act on it. A critique you nod at and ignore is w
 
 Choosing the final direction is development in its own right. You pick which composition carries into the mid-point piece, and you **write the rejection**: why not the other one. A choice you can justify earns AO3. A choice by default does not. A reasoned "not this one" earns AO3 as much as the piece you keep.
 
-## Day by day
+## 2 · Do
 
 - **Mon 05-17.** Set both compositions against your stated intention and critique each on whether it does what the investigation set out to do.
 - **Tue 05-18.** Act on the critique: change something in the work because of what you heard.
@@ -66,7 +66,7 @@ Choosing the final direction is development in its own right. You pick which com
 
 **CS8** (targeted tests + critique response) is due **Fri 2027-05-21**, a sketchbook task marked on whether you acted on the critique and tested the right things. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. The written rejection matters: a choice you can justify is AO3; a choice by default is not. Next week is **A3**, the development milestone plus research paper draft 1, marked against AO3 on **Fri 2027-05-28** in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-13-evaluation-draft-1-and-a3|Lesson 13]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

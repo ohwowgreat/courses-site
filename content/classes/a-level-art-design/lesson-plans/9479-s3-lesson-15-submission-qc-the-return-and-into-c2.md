@@ -33,7 +33,7 @@ modified: 2026-08-05
 
 This lesson closes Component 3 and turns you toward Component 2. In two sessions in W18 you assemble the PDF submission to the Cambridge screen limits and pass it through submission QC, so your work is board-ready before the break, not after it. In W19 your complete investigation is returned to you one to one, you repair anything QC named, and you get a preview of Component 2. No attainment is graded in this lesson. The End of Term, the Final, falls in the January window that follows, and the winter homework opens Component 2 in [[classes/a-level-art-design/unit-plans/9479-semester-4-plan|Semester 4]].
 
-## The ideas
+## 1 · Learn
 
 ### The submission
 
@@ -59,7 +59,7 @@ The **End of Term** is met by **the Final**, not a sit-down exam. The Final is a
 
 The **C2 preview** shows what Component 2 will ask of you in the spring. Component 2 is set through the **Externally Set Assignment (ESA)**. Over the vacation, your drawing regimen and past-paper review start this work, and feed [[classes/a-level-art-design/unit-plans/9479-s4-unit-1-foundations-on-the-question|S4 Unit 1]].
 
-## Day by day
+## 2 · Do
 
 These dates are projected. They may shift when the school publishes the 2027-28 calendar.
 
@@ -72,7 +72,7 @@ These dates are projected. They may shift when the school publishes the 2027-28 
 
 No attainment is graded in this lesson. The **End of Term (the Final)** falls in the projected window Mon 2028-01-10 → Mon 01-17. It is a teacher-marked assessment of your portfolio against the Cambridge criteria, with no paper and no invigilation, and it meets the 20% End-of-Term category. See the [[classes/a-level-art-design/assessments/9479-s3-assessments|register]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

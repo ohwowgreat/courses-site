@@ -32,7 +32,7 @@ modified: 2026-08-05
 
 This lesson opens Unit 3 and its exploration stage. You plan and run twelve media experiments to test which media can carry your investigation of the theme. You document the twelve for **[[classes/a-level-art-design/assessments/9479-s2-assessments|CS4]]**, due Fri 2027-04-02, and then select on evidence which two or three media to develop. That selection feeds the artist study and [[classes/a-level-art-design/assessments/9479-s2-assessments|A2]] later in the unit.
 
-## The ideas
+## 1 · Learn
 
 ### Media exploration
 
@@ -52,7 +52,7 @@ Design twelve experiments across media. Each tests a real question about the the
 
 Select on evidence, not on taste. Keep what works, and name what you reject: a reasoned "no" is exploration too. The record matters as much as the result, so photograph and label each experiment with the question it tested and what it showed.
 
-## Day by day
+## 2 · Do
 
 - **Mon 03-29.** Plan the media exploration: design twelve experiments across media, each testing a real question about the theme.
 - **Tue 03-30.** Run the first block of experiments from your own recording. Work fast and document as you go.
@@ -64,7 +64,7 @@ Select on evidence, not on taste. Keep what works, and name what you reject: a r
 
 **CS4** (twelve experiments documented) is due **Fri 2027-04-02**. It is a sketchbook task, marked on the *range and honesty* of the testing, not on tidy results. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. Unit 3 then breaks for the **Qingming mock week** (S7, Mon 2027-04-04 → 10): no regular Art & Design classes and no new content. If the school permits, an independent sketchbook brief keeps the exploration moving. Artist 1 begins when classes resume in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-07-artist-1-in-full|L07]] (S8), and the second attainment, **A2** (exploration + artist study, AO2+AO3), sits **Fri 2027-04-23**. These spring dates may shift when the school publishes the calendar for that period.
 
-## Review
+## 3 · Check
 
 Check you can:
 

@@ -40,7 +40,7 @@ modified: 2026-08-05
 
 This week runs as five separate days, each complete on its own. They share a theme, not a sequence: five ways into the same question, and any one works alone. If you miss a day, you miss that day's content, not a thread that ties the week together. You produce a written reflection on your own table, finished Wed 2026-10-28. This work feeds [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay|A3]].
 
-## The ideas
+## 1 · Learn
 
 ### The meal as a work
 
@@ -62,7 +62,7 @@ Think about what a **shared meal** makes visible that talking does not. Eating t
 
 **Hospitality** is the seminar question: is offering hospitality an act of generosity, or an obligation you owe.
 
-## Day by day
+## 2 · Do
 
 - **Mon 10-26.** Shared-lunch prep. Plan the meal as a work, in pairs, with decisions you can defend.
 - **Tue 10-27.** Still life and the ethics of abundance: what did this cost, who paid.
@@ -77,7 +77,7 @@ Think about what a **shared meal** makes visible that talking does not. Eating t
 - **LB4.** Posted Fri 2026-10-30 for the students in the room. G12 students at Seniors' Day are not penalized for being away.
 - Mid-term grades are due Thu 2026-10-29. They rest on [[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison|A2]] and participation.
 
-## Review
+## 3 · Check
 
 Check you can:
 

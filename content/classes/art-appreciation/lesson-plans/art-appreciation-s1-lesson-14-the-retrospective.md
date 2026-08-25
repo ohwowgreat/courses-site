@@ -34,7 +34,7 @@ modified: 2026-08-06
 
 This lesson reads the whole semester back as one argument. You build the **retrospective**, the semester-close constellation of your work, and you sit it in class on Tue 2027-01-05 as the End of Term assessment, worth 20%. It is the third constellation of the year, and the one where the method finally looks like a method rather than a rule. Everything you have made is available: the Unit 1 boards and the Unit 4 syntheses go up on the walls. The question you name at the end of the week feeds into Semester 2.
 
-## The ideas
+## 1 · Learn
 
 ### The retrospective
 
@@ -54,7 +54,7 @@ A **constellation** is an arrangement of works where the argument lives in the l
 
 You choose three works and defend them to someone who chose differently. The point is to hold your reasoning and not just concede when challenged.
 
-## Day by day
+## 2 · Do
 
 - **Mon 04 Jan.** Inventory: everything goes on the wall. Look, but do not arrange yet.
 - **Tue 05 Jan (double).** First period: defend the three works you chose over the break to someone who chose differently, then take a last workshop pass on your layout while it can still change. Second period: the retrospective sits in class, 40 minutes, End of Term, 20%.
@@ -68,7 +68,7 @@ You choose three works and defend them to someone who chose differently. The poi
 - The [[classes/art-appreciation/assessments/art-appreciation-s1-eot-retrospective|EoT]] retrospective sits Tue 2027-01-05. Criteria are issued with the announcement. You are marked on showing a semester of looking as one argument, with the argument in the layout.
 - You sit it in class, not in the exam window (Mon 2027-01-11 to Mon 2027-01-18). Any remaining detail will be confirmed in class.
 
-## Review
+## 3 · Check
 
 Check you can:
 

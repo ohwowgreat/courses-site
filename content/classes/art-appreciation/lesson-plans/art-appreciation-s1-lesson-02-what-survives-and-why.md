@@ -34,7 +34,7 @@ modified: 2026-08-05
 
 This lesson asks what survives from the deep past, and why. You look at cave images made by people who left no writing, and learn to argue from the wall itself. You produce a one-page panel reading on Thu 2026-09-10, built from two paired images; it rehearses the [[classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board|A1]] justification, the same move at greater length. A1 is announced on Fri 2026-09-04 and is due Fri 2026-09-18. [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB1]] is posted from the seminar on Fri 2026-09-11.
 
-## The ideas
+## 1 · Learn
 
 ### What survives, and why
 
@@ -58,7 +58,7 @@ These are people who left no writing, so **the wall is the evidence**. You argue
 
 In seminar, the skill is to change your position when someone else is right, out loud, and to say that is what happened. This is what LB1 watches.
 
-## Day by day
+## 2 · Do
 
 - **Fri 09-04.** A1 is announced in the first ten minutes: the board, the reason for it, due Fri 2026-09-18. Then: what survives, and why. Name what had to happen for an object to reach you.
 - **Mon 09-07.** First pass over Lascaux and Chauvet, describing what you see, no commentary yet. Chauvet reading set, 30 minutes, due Wed 2026-09-09.
@@ -73,7 +73,7 @@ In seminar, the skill is to change your position when someone else is right, out
 - **LB1**, Fri 2026-09-11, posted from the seminar. Graded on whether you took a position and moved it. This is a behavior, so it is what is watched in the seminar.
 - **One-page panel reading**, Thu 2026-09-10. Direct rehearsal for the A1 justification, the same move at greater length.
 
-## Review
+## 3 · Check
 
 Check you can:
 

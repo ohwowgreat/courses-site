@@ -1,7 +1,7 @@
 ---
 title: Semester 1 Calendar
 related:
-modified: 2026-07-29
+modified: 2026-08-25
 ---
 <figure class="plate plate--hero">
   <img src="static/img/calendar.jpg" alt="Pieter Bruegel the Elder, The Hunters in the Snow, 1565" loading="lazy" />

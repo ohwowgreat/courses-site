@@ -9,11 +9,11 @@ related:
   - "[[concepts/technical-elements]]"
   - "[[concepts/production-craft]]"
   - "[[concepts/media-vocabulary]]"
-modified: 2026-08-09
+modified: 2026-08-25
 ---
 <figure class="plate plate--hero">
-  <img src="../../../static/img/the-tugboat.jpg" alt="Gustave Le Gray, The Tugboat, 1857" loading="lazy" />
-  <figcaption>Gustave Le Gray, <em>The Tugboat</em>, 1857</figcaption>
+  <img src="../../../static/img/the-tugboat.jpg" alt="Gustave Le Gray, The Tugboat, 1857 — the sea and the sky exposed on separate negatives, joined in the print: the frame was decided before the shutter" loading="lazy" />
+  <figcaption>Gustave Le Gray, <em>The Tugboat</em>, 1857 — the sea and the sky exposed on separate negatives, joined in the print: the frame was decided before the shutter</figcaption>
 </figure>
 
 # Lesson 03: Camera
@@ -30,11 +30,11 @@ modified: 2026-08-09
 <div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1</span><span class="contract-ao">AO3</span></span></div>
 <p class="contract-job"><strong><a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">CS3</a></strong> six-shot rebuild: a given storyboard shot on their own kit, posted and dated on the C1 blog with one line of intention per shot</p>
 <div class="contract-grid">
-<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-09-14 · Tue 09-15<span class="contract-cell-note">Days: 2 · Mon single, Tue single</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-09-14 · Thu 09-17<span class="contract-cell-note">Days: 2 · Mon single, Thu single</span></span></div>
 <div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">C1 production · <a href="../../../classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis">A1</a> · <a href="../../../classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format">A4</a> · Component 2 Section A</span></div>
 <div class="contract-cell"><span class="contract-cell-label">Carries forward</span><span class="contract-cell-value">The C3 major video task (music promotion, film promotion, documentary, short film) is shot on this vocabulary</span></div>
 </div>
-<div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-03-camera.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (5.4 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> None set: kit charged and cleared for Tuesday</span></div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-03-camera.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (5.4 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> None set: kit charged and cleared for Thursday</span></div>
 <div class="contract-more">
 <span class="contract-line"><span class="contract-line-label">Band/Unit</span> U2 Media Language, micro (<a href="../../../classes/media-studies/unit-plans/9607-s1-unit-2-media-language">S1 Unit 2</a>)</span>
 </div>
@@ -43,45 +43,28 @@ modified: 2026-08-09
 
 ## Overview
 
-This lesson is camera, the first of the four technical elements of media language. You learn the full camera vocabulary from the syllabus: not just to name a close-up, but to say what it does and who it does it to. You then produce **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS3]]**, a six-shot rebuild of a given storyboard, shot on your own kit and posted dated to the C1 blog on Tue 2026-09-15, with one line of intention per shot. That post is your first practice entry in the Component 1 evidence trail. The same vocabulary carries into the C3 major video task and into your [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]], [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]], and Component 2 Section A work.
+Camera is the first technical element, and the one you may think you already know. This lesson teaches the full camera vocabulary: shots, angles, movement, and composition, each as a verb with an effect, not just a name. On Thu 2026-09-17 you produce **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS3]]**, a six-shot rebuild of a storyboard you did not draw, shot on your own kit and posted dated to the C1 blog with one line of intention per shot. That post is not a warm-up. Under the Foundation Portfolio structure it is Component 1 evidence, the practice phase with a dated rationale. It feeds your C1 production, [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]], [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]], and Component 2 Section A, and it carries into the C3 major video task.
 
-## The ideas
+## 1 · Learn
 
-### Camera as verbs
+### The camera vocabulary
 
-Every camera choice is a decision someone made about where you stand and what you see. Learn each term with its effect, in the form "low angle: he towers, I am small". Naming the move is only half; the marks come from saying what it does to the viewer.
+You learn every term in the syllabus list, always as **term then effect**: state the name and what it does to the viewer, for example "low angle: he towers, I am small."
 
-### Shots
-
-Shots describe how much the frame shows and how close you are.
-
-- **Establishing shot**: opens a scene and shows where you are.
-- **Master shot**: a single wide take that covers the whole scene.
-- **Close-up**: fills the frame with a face or object.
-- **Mid-shot**: a person from about the waist up.
-- **Long shot** and **wide shot**: the subject sits small inside the space.
-- **Two-shot**: two people held in one frame.
-- **Aerial shot**: taken from high above.
-- **Point-of-view shot**: shows what a character sees.
-- **Over-the-shoulder shot**: shot from behind one person toward another.
-
-The syllabus adds "and variations of these".
-
-### Angles
-
-- **High angle**: the camera looks down, making the subject small or weak.
-- **Low angle**: the camera looks up, making the subject tower over you.
-- **Canted angle** (**Dutch tilt**): the frame is tilted, which reads as unease or disorder.
+- **Shots.** The frame and how much it holds: establishing, master, close-up, mid-shot, long, wide, two-shot, aerial, point-of-view, over-the-shoulder, and variations of these.
+- **Angles.** Where the camera sits relative to the subject: high, low, and canted (Dutch tilt).
 
 <figure class="plate">
   <img src="../../../static/img/gbh-overhead.jpg" alt="The Grand Budapest Hotel (2014). Directly overhead: a position no one in the scene could stand in" loading="lazy" />
   <figcaption><em>The Grand Budapest Hotel</em> (2014). Directly overhead: a position no one in the scene could stand in</figcaption>
 </figure>
 
+- **Movement.** What the camera does, named as verbs: pan, tilt, track, dolly, crane, steadicam, hand-held, zoom, reverse zoom. The camera creeps toward, refuses to follow, or looks up at. Worked examples: the *Goodfellas* tracking shot and the *Jaws* reverse zoom.
 
-### Movement
-
-Name movement as verbs: the camera creeps toward, refuses to follow, or looks up at.
+<figure class="plate">
+  <img src="../../../static/img/jaws-bts.jpg" alt="Jaws (1975), on location. Track laid on sand and lights rigged at noon: what one camera move costs to make" loading="lazy" />
+  <figcaption><em>Jaws</em> (1975), on location. Track laid on sand and lights rigged at noon: what one camera move costs to make</figcaption>
+</figure>
 
 
 <div class="plate-row">
@@ -99,45 +82,24 @@ Name movement as verbs: the camera creeps toward, refuses to follow, or looks up
 </figure>
 </div>
 
-- **Pan**: the camera turns side to side.
-- **Tilt**: the camera turns up or down.
-- **Track** and **dolly**: the camera moves through space with the subject.
-- **Crane**: the camera rises or drops on an arm.
-- **Steadicam**: smooth moving shots that stay level.
-- **Hand-held**: shaky, close, urgent.
-- **Zoom** and **reverse zoom**: the lens moves in or pulls back without the camera moving.
-
-Two worked examples: the *Goodfellas* tracking shot and the *Jaws* reverse zoom.
-
+- **Composition.** How the frame is arranged: framing, rule of thirds, depth of field (deep and shallow focus), and focus pulls.
 
 <figure class="plate">
-  <img src="../../../static/img/jaws-bts.jpg" alt="Jaws (1975), on location. Track laid on sand and lights rigged at noon: what one camera move costs to make" loading="lazy" />
-  <figcaption><em>Jaws</em> (1975), on location. Track laid on sand and lights rigged at noon: what one camera move costs to make</figcaption>
-</figure>
-
-### Composition
-
-- **Framing**: what you place inside the shot and what you leave out.
-- **Rule of thirds**: divide the frame into thirds and place the subject on the lines.
-- **Depth of field**: **deep focus** keeps foreground and background sharp; **shallow focus** keeps the subject sharp and blurs the rest.
-- **Focus pull**: the sharp point shifts from one plane to another during the shot.
-
-<figure class="plate">
-  <img src="../../../static/img/sea-of-steps.jpg" alt="Frederick H. Evans, A Sea of Steps, Wells Cathedral, 1903" loading="lazy" />
-  <figcaption>Frederick H. Evans, <em>A Sea of Steps, Wells Cathedral</em>, 1903</figcaption>
+  <img src="../../../static/img/sea-of-steps.jpg" alt="Frederick H. Evans, A Sea of Steps, Wells Cathedral, 1903 — sharp from the first step to the last: depth of field held as a choice, and the frame built from receding lines" loading="lazy" />
+  <figcaption>Frederick H. Evans, <em>A Sea of Steps, Wells Cathedral</em>, 1903 — sharp from the first step to the last: depth of field held as a choice, and the frame built from receding lines</figcaption>
 </figure>
 
 
 ### Camera and representation
 
-Camera choice constructs a **representation** of a person, place, or event, not just a mood. Ask of any extract: who is shot from a high angle and who from low? Who gets the close-ups? Who is left in the wide? What does the camera suggest about hierarchy? This is the half students skip, and it is the half A1 rewards.
+Camera choice does more than set a mood. It constructs a **representation** of a person, place, or event. Ask who is shot from a high angle and who from low, who gets the close-ups, and who is left in the wide. Those choices suggest hierarchy. This is the half students skip, and it is the half A1 rewards.
 
 ### The three controls
 
-When you shoot CS3, three controls are each a marking point:
+When you shoot, three controls are non-negotiable, and each is a marking point:
 
-- **Hold focus** on your subject.
-- **Expose for the face**: tap to lock, do not leave it on auto, especially against a bright window.
+- **Hold focus.** Keep the subject sharp.
+- **Expose for the face.** Tap to lock, do not leave it on auto, so a bright window does not blow out the face.
 
 <div class="plate-row">
 <figure class="plate">
@@ -150,35 +112,34 @@ When you shoot CS3, three controls are each a marking point:
 </figure>
 </div>
 
-- **Frame to the thirds**.
+- **Frame to the thirds.** Place the subject on the rule-of-thirds lines.
 
-### CS3 as Component 1 evidence
+### Where CS3 fits
 
-CS3 is not a warm-up. Under the Foundation Portfolio structure for Component 1 (research, practice, planning, production, reflection), your dated blog post with a rationale is the practice phase. Every technical lesson in this unit works this way.
+The Foundation Portfolio runs in five phases: research, practice, planning, production, and reflection. CS3 is your first **practice** entry: dated, on the blog, with a rationale. Every technical lesson in this band works the same way.
 
-## Day by day
+## 2 · Do
 
-- **Mon 09-14.** Learn the full camera vocabulary: shots, angles, movement, and composition, each taught term-then-effect. Practice naming shots at speed, first the move, then what it does to you. Finish with the camera power mind map on one extract, using camera choice to read hierarchy and representation. Homework: bring your kit charged and cleared for Tuesday.
-- **Tue 09-15.** In pairs, with phones or school kit, shoot a given six-frame storyboard: establishing shot, mid-shot on a character, slow tilt up to reveal, close-up on an object, low angle on the same character, and a point-of-view shot. No dialogue, plot, or acting: the exercise is the camera. Hold the three controls throughout. Post your footage to the C1 blog, dated, six clips or one assembly, with one line of intention per shot in the syllabus's terms. This post is **CS3**. Two sequences are screened at the end.
+- **Mon 09-14.** You learn the whole camera vocabulary in four passes, always term then effect, and drill it in a rapid naming sprint: first name the move, then name what it does to you. You then do a camera-power mind map on one extract, reading angle and shot choice as representation. Homework: no task set, but bring your kit charged and cleared for Thursday.
+- **Thu 09-17.** In pairs, with phones or school kit, you shoot a six-frame storyboard you did not draw: establishing shot, mid-shot on a character, slow tilt up to reveal, close-up on an object, low angle on the same character, and point-of-view. No dialogue or acting is needed; the exercise is the camera, not the story. You then post the footage to the C1 blog, dated, as six clips or one assembly, with one line of intention per shot in the syllabus's terms. This post is CS3.
 
 ## Assessment
 
 | Item | Date | What | AO |
 |---|---|---|---|
-| CS3 | Tue 2026-09-15 | Six-shot rebuild to a given storyboard, posted and dated on the C1 blog with one line of intention per shot | AO1 + AO3 |
+| CS3 | Thu 2026-09-17 | Six-shot rebuild to a given storyboard, posted and dated on the C1 blog with one line of intention per shot | AO1 + AO3 |
 
 CS3 is marked on three things and no others: **terms used accurately**, **the three controls held** (focus, exposure, thirds), and **intention stated per shot**. Camera operation quality is not marked here, and acting is not assessed anywhere in this syllabus. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
-## Review
+## 3 · Check
 
 Check you can:
 
-- Name any shot, angle, movement, and composition term from the syllabus list at speed.
-- State the effect as well as the term, for example "low angle: he towers, I am small".
-- Explain how camera choice builds a **representation** of a person, place, or event, not just a mood.
-- Identify **deep focus**, **shallow focus**, and a **focus pull** in a frame.
-- Shoot six planned shots to a given storyboard while you hold focus, expose for the face, and frame to the thirds.
-- Post a dated sequence to the C1 blog with one line of intention per shot, as **CS3**.
+- Name shots, angles, movement, and composition accurately and at speed from the syllabus list.
+- State the effect as well as the term, in the form "low angle: he towers, I am small."
+- Explain how a camera choice constructs a representation of a person, place, or event, not just a mood.
+- Shoot six planned shots to a given storyboard while holding focus and exposing for a face against a bright window.
+- Post the sequence to the C1 blog, dated, with one line of intention per shot for CS3.
 
 ## Practice
 

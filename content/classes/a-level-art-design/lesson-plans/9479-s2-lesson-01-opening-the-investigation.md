@@ -38,7 +38,7 @@ This week opens Component 3. You learn how the Personal Investigation is marked,
   <figcaption>Ilya Repin, <em>Leo Tolstoy at Work</em>, 1891</figcaption>
 </figure>
 
-## The ideas
+## 1 · Learn
 
 ### Component 3: the Personal Investigation
 
@@ -62,7 +62,7 @@ A theme you propose earns its place only if it passes all five screens:
 
 The three-candidate longlist exists so the decision is made by comparison. A single idea is a hope. Three candidates screened against these five criteria is a choice you can defend. Next week you draft the strongest into the proposal for **CS1**, before locking it in writing in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked|L03]].
 
-## Day by day
+## 2 · Do
 
 - **Mon 02-22.** Briefing on Component 3: what the Personal Investigation is, how it is weighted, and how the written element and eight-stage pipeline work. Orientation only, nothing graded.
 - **Tue 02-23.** Read one 90/100 Personal Investigation end to end, top-band and middle-band pages side by side, using the AO-language worksheet. Name three things this investigation does that a middle-band one does not, with attention to how the written element threads through the pages.
@@ -70,7 +70,7 @@ The three-candidate longlist exists so the decision is made by comparison. A sin
 - **Thu 02-25.** Defend each candidate to the teacher one to one. A theme survives on the sources you can reach and the problems it opens. You leave with each candidate marked keep, fix, or drop.
 - **Fri 02-26.** Test each surviving candidate against reachable primary sources and walk it through all eight pipeline stages. Drop what breaks. Exit with a shortlist of one or two, ready to draft into the proposal next week. Homework (≤30 min): write a short case for each surviving candidate, naming the sources you can reach and the problems it opens, begun toward the CS1 proposal draft.
 
-## Review
+## 3 · Check
 
 Check you can:
 

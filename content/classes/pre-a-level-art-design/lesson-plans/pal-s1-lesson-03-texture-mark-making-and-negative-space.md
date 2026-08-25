@@ -41,7 +41,7 @@ modified: 2026-08-05
 
 This lesson teaches two ways of looking that beginners often skip: drawing a surface by choosing the right mark, and drawing the shape of the air around an object. You produce a traced-hand texture sheet, an observed texture grid, and one negative-space study. The texture grid and the negative-space study complete your [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS1]] set. Both skills feed straight into the final observational drawing that starts next week, and this session is when [[classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing|A1]] and CS1 are announced.
 
-## The ideas
+## 1 · Learn
 
 ### Texture and mark-making
 
@@ -55,7 +55,7 @@ Build a vocabulary of marks first. Copy eight marks from the *Drawing Basics* ta
 
 **Negative space** is the shape of the air around an object. It is as drawable as the object itself, and often more accurate. When you draw a chair, the subject becomes the holes: the shapes the chair cuts out of the air. Figure and ground flip. In the negative-space study, you draw a chair or stool against a plain wall, draw only the spaces, shade them solid, and never draw the chair itself. Drawing the negative space is also a way to check the object's accuracy.
 
-## Day by day
+## 2 · Do
 
 - **Wed 09-16.** Copy and name eight marks, complete the traced-hand texture sheet and the observed texture grid, then draw one negative-space study. A1 and CS1 are announced today. Homework: finish the texture worksheet and post to MB.
 
@@ -63,7 +63,7 @@ Build a vocabulary of marks first. Copy eight marks from the *Drawing Basics* ta
 
 A1 (Wed 2026-09-30) and CS1 (Wed 2026-09-23) are both announced today. Today's texture grid and negative-space study complete the CS1 set. A1 is one final observational drawing plus a short written reflection, made in class across W4 and W5, marked on **observation, tone, composition**. CS1 checks four exercise pieces: contour work, the value scale/tonal study, texture, and negative space. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

@@ -33,7 +33,7 @@ modified: 2026-08-05
 
 This lesson closes out your development work before the National Day break. You draft your evaluation in writing, you assemble your Stage 6 page as a decision trail, and you bring your chosen candidate up to standard so it is ready when you return. [[classes/a-level-art-design/assessments/9479-s3-assessments|A1]] and [[classes/a-level-art-design/assessments/9479-s3-assessments|A2]] are both announced on Thu 2027-09-30. The work here feeds the development milestone, A1, in [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-06-a1-the-development-milestone|L06]]. These dates are projected and may shift when the school publishes the calendar for this period.
 
-## The ideas
+## 1 · Learn
 
 ### The evaluation
 
@@ -55,7 +55,7 @@ Your **chosen candidate** is the option you carry forward. Bring it up to standa
 
 The **14-day rule** means an assessment is announced at least 14 days before it falls. Thu 2027-09-30 is the last session that clears the 14-day rule for both A1 and A2 before the holiday, because the National Day break sits inside both windows. Both notices go out that day.
 
-## Day by day
+## 2 · Do
 
 - **Mon 09-27.** Draft your evaluation in writing, against your intention.
 - **Tue 09-28.** Assemble your Stage 6 page as a trail of what was tested, rejected, and decided.
@@ -68,7 +68,7 @@ The **14-day rule** means an assessment is announced at least 14 days before it 
 
 No attainment is graded this lesson. A1 and A2 are both announced Thu 2027-09-30, the last session that clears the 14-day rule for each before the holiday. See the [[classes/a-level-art-design/assessments/9479-s3-assessments|register]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

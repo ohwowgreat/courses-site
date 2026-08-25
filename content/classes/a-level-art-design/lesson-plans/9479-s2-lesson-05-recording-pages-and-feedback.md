@@ -38,7 +38,7 @@ This week turns your [[classes/a-level-art-design/assessments/9479-s2-assessment
   <figcaption>Ilya Repin, <em>Studies for Figures on the Nevsky Prospect</em>, 1891</figcaption>
 </figure>
 
-## The ideas
+## 1 · Learn
 
 ### Three actions from A1 feedback
 
@@ -56,7 +56,7 @@ A **sustained study** is a detailed study worked from your own primary sources o
 
 **AO1 Record** is the assessment objective for recording ideas, observations, and insights. Build and sequence your **recording pages** so they read in order on their own: intention, studies, reference. A stranger should read your recording in sequence, without narration or explanation from you.
 
-## Day by day
+## 2 · Do
 
 - **Mon 03-22.** Take your A1 banding and write your three specific actions from it.
 - **Tue 03-23.** Start sustained study 2 from your own sources, chosen to push past the first.
@@ -68,7 +68,7 @@ A **sustained study** is a detailed study worked from your own primary sources o
 
 **CS3** (recording-pages build check) is due **Fri 2027-03-26**. It is a sketchbook task that consolidates your A1 feedback into built, sequenced recording pages. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It is checked on two things: the pages read in order without explanation, and the three actions from A1 are visibly done, not just noted. This closes Unit 2's recording stage. Unit 3 opens next week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-06-media-exploration|L06]] on media exploration, and the second attainment, **[[classes/a-level-art-design/assessments/9479-s2-assessments|A2]]** (exploration and artist study, AO2+AO3), sits **Fri 2027-04-23**.
 
-## Review
+## 3 · Check
 
 Check you can:
 

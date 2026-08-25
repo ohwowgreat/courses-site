@@ -34,7 +34,7 @@ modified: 2026-08-06
 
 This lesson looks at food, the table, and domestic work as subjects for art. You study three artists: Cassatt, Rosler, and Weems, plus the idea of the food image itself. You produce [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay|A3]], an in-class essay on food, the table, and ethics, which you sit on Tue 2026-11-17. The work feeds Unit 4, which takes the same question into mediation.
 
-## The ideas
+## 1 · Learn
 
 ### Domestic labor as labor
 
@@ -58,7 +58,7 @@ This lesson looks at food, the table, and domestic work as subjects for art. You
 
 **Hyperreality** is a copy or image that stands in for a real thing that is not there. Applied to food, it asks what a food image is for when nobody intends to eat. This question is the hand-off into Unit 4.
 
-## Day by day
+## 2 · Do
 
 - **Mon 11-16.** Study one Cassatt domestic interior as a workplace: domestic labor as labor.
 - **Tue 11-17 (double).** In the first period, watch Rosler's *Semiotics of the Kitchen* twice. In the second period, sit A3 in class, 40 minutes: argue one claim about food and ethics from the pictures themselves, not from the ethics.
@@ -83,7 +83,7 @@ This lesson looks at food, the table, and domestic work as subjects for art. You
 
 - **A3 sits Tue 2026-11-17**. In-class essay on food, the table and ethics.
 
-## Review
+## 3 · Check
 
 Check you can:
 

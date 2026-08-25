@@ -38,7 +38,7 @@ This week Unit 3 turns from your own experiments to an artist who solves the pro
   <figcaption>Vincent van Gogh, <em>Paul Gauguin's Armchair</em>, 1888</figcaption>
 </figure>
 
-## The ideas
+## 1 · Learn
 
 ### Choosing Artist 1
 
@@ -60,7 +60,7 @@ Place the artist: what the work meant, when it was made, and for whom. This is t
 
 Lay out the artist page so the influence is visible in your own work, not just described in words.
 
-## Day by day
+## 2 · Do
 
 - **Mon 04-12.** Back from the break, choose Artist 1 whose work solves a problem in your investigation, and analyze how the work is made and why it holds.
 - **Tue 04-13.** Write the artist's meaning and context, the first material of your research paper.
@@ -72,7 +72,7 @@ Lay out the artist page so the influence is visible in your own work, not just d
 
 **CS5** (Artist 1 pages: analysis, method, response) is due **Fri 2027-04-16**. It is a written annotation that also opens your research-paper material. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It is marked on two things: whether the influence shows in your own work, and whether the context is written well enough to carry into the paper. Next week closes Unit 3 with Artist 2 and the bridge piece, and the second attainment, **[[classes/a-level-art-design/assessments/9479-s2-assessments|A2]]** (exploration + artist study, AO2+AO3), sits **Fri 2027-04-23** in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-08-artist-2-bridge-and-a2|L08]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

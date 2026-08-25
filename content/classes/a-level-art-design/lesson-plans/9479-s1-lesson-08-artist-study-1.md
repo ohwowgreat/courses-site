@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-07-selection-and-scale]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-09-artist-2-bridge-piece-and-a2]]"
-modified: 2026-08-05
+modified: 2026-08-25
 ---
 # S1 Lesson 08: Artist Study 1
 
@@ -19,22 +19,16 @@ modified: 2026-08-05
 <div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO3 Develop</span><span class="contract-ao">contextual study</span></span></div>
 <p class="contract-job">Artist pages: analysis, meaning and context, method study, personal response, influence note</p>
 <div class="contract-grid">
-<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-10-26 → Fri 2026-10-30<span class="contract-cell-note">Sessions: 5 days (W9) — first use of the artist study template</span></span></div>
-<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS7</a> collected Fri 2026-10-30 — exactly 14 days before Mon 2026-11-09. Mid-term grades due Thu 2026-10-29, fed by <a href="../../../classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone">A1</a></span></div>
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-10-26 · Tue 10-27 · Thu 10-29 · Fri 10-30 (double)<span class="contract-cell-note">Sessions: 5 sessions over 4 days (W9), first use of the artist study template. No Wednesday slot: the personal response and the influence note share the Friday double</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS7</a> collected Fri 2026-10-30, exactly 14 days before Mon 2026-11-09. Mid-term grades due Thu 2026-10-29, fed by <a href="../../../classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone">A1</a></span></div>
 </div>
-<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Written annotation: the meaning-and-context paragraph drafted at home</span></div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Written annotation: draft the meaning-and-context paragraph at home</span></div>
 </div>
 
 
 ## Overview
 
-This week you run your first full artist study. You choose one artist, analyze a work, place its meaning in context, copy the artist's method to learn it, then answer the artist with your own work. What you produce is a set of artist pages: analysis, meaning and context, method study, personal response, and an influence note. These pages are collected as [[classes/a-level-art-design/assessments/9479-s1-course-skills|CS7]] on Fri 2026-10-30, and they feed the work you build in Lesson 09 and beyond.
-
-## The ideas
-
-### Choosing your artist
-
-Choose your first artist because they solve your problem, not because you like them. Write a **choice rationale**: name the problem in your own work, and say how this artist's approach solves it.
+This lesson runs your first artist study. You choose one artist from the pool for your theme, then work through the full arc: analyze the work, place its meaning in context, copy the method to learn it, and make your own response. You produce artist pages: analysis, meaning and context, method study, personal response, and an influence note. These pages form [[classes/a-level-art-design/assessments/9479-s1-course-skills|CS7]], collected Fri 2026-10-30. Choose the artist because they solve your problem, not because you like them.
 
 
 <figure class="plate">
@@ -42,46 +36,54 @@ Choose your first artist because they solve your problem, not because you like t
   <figcaption>Vincent van Gogh, <em>Paul Gauguin's Armchair</em>, 1888</figcaption>
 </figure>
 
+## 1 · Learn
+
+### Choosing your artist
+
+**Choice rationale**: pick the artist because they solve a problem in your own work, not because you like them. Write which problem this artist solves. A swap to an artist outside the pool needs a one-to-one case.
+
 ### The artist study arc
 
-The week moves through five stages.
+**Analysis**: read the work through composition, tone, mark, and color.
 
-- **Analysis.** Read the work by composition, tone, mark, and color.
-- **Meaning and context.** Say what the work meant in its own time and what it means for you now. Write so every sentence points at this artist. A sentence that could describe any artist is too vague.
-- **Method study.** Copy a passage of the artist's method in the artist's own logic, then annotate what the copying taught you.
-- **Personal response.** Work your own source through what the artist taught you. You should be able to name the artist's fingerprint in your piece.
-- **Influence note.** Point at the evidence in your work. Influence must be visible in the work, not only claimed in the writing.
+**Meaning and context**: what the work meant then, and what it means for you now. Every sentence must fit only this artist. Strike any sentence that could describe any artist.
 
-### Artist pools by theme
+**Method study**: copy a passage of the artist's method in the artist's own logic, then annotate what the copying taught you.
 
-Choose from the pool for your committed theme. A swap outside the pool needs a one-to-one case.
+**Personal response**: work your own source through what the artist taught you. Name the artist's fingerprint in your piece.
+
+**Influence note**: point at the evidence in your work. Influence must be visible in the work, not only claimed in the writing.
+
+### The artist pools
+
+Choose from the pool for your committed theme.
 
 - **Reflections and Surfaces**: Richard Estes (urban glass), Janet Fish (glass, light, still-life color), M. C. Escher (reflecting-sphere drawings).
 - **Worn and Weathered**: Antoni Tàpies (matter and surface), Aaron Siskind (photographed peeling walls), Anselm Kiefer (material and memory, for stronger students).
 - **Hands at Work**: Käthe Kollwitz (working hands and figures), Albrecht Dürer (praying-hands studies), Yoshitoshi or a contemporary craft documentary photographer as a non-European anchor.
 - **Structures of the Everyday**: Charles Sheeler (industrial structure), Lyonel Feininger (architecture into geometry), Rachel Whiteread (structure into 3D casting, which feeds the 3D loop).
 
-## Day by day
+## 2 · Do
 
-- **Mon 10-26.** Pools are presented, two works per artist. Choose your artist and begin the analysis: composition, tone, mark, color. Write your choice rationale, the problem this artist solves. Note the deadline: Mon 2026-11-09.
-- **Tue 10-27.** Meaning and context, using a writing frame. Homework: draft the meaning-and-context paragraph at home.
-- **Wed 10-28.** Method study: copy a passage of the artist's method in the artist's logic, then annotate what the copying taught.
-- **Thu 10-29.** Personal response: your own source worked through what the artist taught. Name the artist's fingerprint in your piece. Mid-term grades are due this day.
-- **Fri 10-30.** Write the influence note, pointing at evidence, and assemble the artist pages. CS7 collected.
+- **Mon 10-26.** The pools are presented, two works per artist. Choose your artist and begin the analysis: composition, tone, mark, color. Write your choice rationale: which problem this artist solves.
+- **Tue 10-27.** Meaning and context: what the work meant then, and what it means for you now. A peer read strikes every sentence that could describe any artist. Homework: draft the meaning-and-context paragraph at home.
+- **Thu 10-29.** Method study: copy a passage of the artist's method in the artist's logic, then annotate what it taught you.
+- **Fri 10-30 (P3).** Personal response: work your own source through what the artist taught. Name the artist's fingerprint in your piece.
+- **Fri 10-30 (P4).** Influence note: point at the evidence and assemble your artist pages. CS7 is collected.
 
 ## Assessment
 
-**CS7** (artist analysis pages, written annotation) collects Fri 2026-10-30. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]].
+**CS7** (artist analysis pages, written annotation) collects Fri 2026-10-30, see the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]].
 
-## Review
+## 3 · Check
 
 Check you can:
 
 - Choose an artist because they solve your problem, not because you like them.
-- Analyze a work by composition, tone, mark, and color.
-- Place a work's meaning in context, then and now.
-- Run a method study: copy the artist's method to learn it.
-- Make an artist's influence visible in your own personal response.
+- Analyze a work through composition, tone, mark, and color.
+- Place a work's meaning in context, both then and now.
+- Copy an artist's method and annotate what it taught you.
+- Make a personal response, and point to the artist's influence in your own work.
 
 ## Practice
 

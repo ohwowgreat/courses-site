@@ -9,7 +9,7 @@ related:
   - "[[concepts/media-language]]"
   - "[[entities/roland-barthes]]"
   - "[[concepts/media-vocabulary]]"
-modified: 2026-08-09
+modified: 2026-08-25
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/skull-cigarette.jpg" alt="Vincent van Gogh, Skull of a Skeleton with Burning Cigarette, 1885 — what it shows is simple; what it suggests is the lesson" loading="lazy" />
@@ -28,7 +28,7 @@ modified: 2026-08-09
 <div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1</span></span></div>
 <p class="contract-job"><a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">CS2</a> annotated media text from daily life, ≥6 code labels</p>
 <div class="contract-grid">
-<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-09-07 · Tue 09-08 · Wed 09-09 · Fri 09-11<span class="contract-cell-note">Days: 4 · Mon+Tue two-day block, Wed double, Fri single</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-09-07 · Wed 09-09 · Thu 09-10 · Fri 09-11<span class="contract-cell-note">Days: 4 · Mon single, Wed double, Thu single, Fri single (reflowed 2026-08-25: the old Tuesday day now sits Thursday, after the double)</span></span></div>
 <div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">L03 to L06 (the technical block) · <a href="../../../classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis">A1</a></span></div>
 </div>
 <div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-02-semiotics-signs-and-codes.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (4.8 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> CS2 annotation task (set day 1, 72-hour rule), capped at 30 min per day</span></div>
@@ -40,34 +40,30 @@ modified: 2026-08-09
 
 ## Overview
 
-This lesson gives you the full set of tools for taking a sign apart and reading what it means. You learn signifier and signified, denotation and connotation, Peirce's three sign types, audience address, anchorage, and the four code families. You produce [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS2]], an annotated everyday media text with at least six accurate code labels, collected on Fri 2026-09-11. You also commit to your media area on Wed 09-09, and that choice stays until May. This week is the foundation for the technical block in Lessons 03 to 06 and for [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]].
+This lesson gives you the semiotic toolkit in one week: two ways to take a sign apart, the audience side of meaning, and the four code families you will use for the rest of the course. You produce **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS2]]**, an annotated everyday media text with at least six accurate code labels, collected Fri 2026-09-11. It is set as homework on day 1 under the 72-hour rule, capped at 30 minutes per day. What you learn here feeds the technical block in Lessons 03 to 06 and your first assessment, [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]]. The four code families are a checklist that the next four lessons fill in, one element at a time, with a camera in your hands.
 
-## The ideas
+## 1 · Learn
 
 ### Signs: signifier and signified
 
-A sign has two parts. The **signifier** is the form you see or hear. The **signified** is the idea it stands for. A sign is a signifier plus a signified. This split comes from Saussure.
+A sign is made of two parts. The **signifier** is the form, the thing you see or hear. The **signified** is the idea it stands for. This split comes from **Saussure**.
 
-**Denotation** is what a text literally shows. **Connotation** is the ideas the text suggests on top of that. You practice both by reading an advertisement closely.
+**Denotation** is what a sign literally shows. **Connotation** is what it suggests beyond that. A single advertisement can be read for both.
 
-**Polysemy** means one image can carry several legitimate readings at once. The same picture can suggest different things to different viewers, and more than one reading can be correct.
+**Polysemy** is when one image carries several legitimate readings at once. When you name a suggestion, point to the signifier that triggers it.
 
-### Connotation is cultural
+### Audience: address and anchorage
 
-Connotations are learned, not natural. You can build a connotation chain from a single signifier: rose → romance → Valentine's → spending. Each link can be challenged: who taught you that? Colors and objects carry these learned meanings too: red, white, black, the rose, the dove, the suit. Where two cultures read the same sign differently is worth noting as a quick aside.
+Every text speaks to an assumed reader. Build an **implied-reader profile** by asking what the text assumes: age, gender, income, knowledge, the mood it invites, and the pronouns it uses. Address can be formal or informal, direct or indirect. The two-way point: texts do not just find audiences, they construct them.
 
-
-<figure class="plate">
-  <img src="../../../static/img/mummy-portrait.jpg" alt="Mummy portrait of a man wearing an ivy wreath, Roman Egypt, c. 101 CE — wreath, gold, gaze: codes at work for 1,900 years" loading="lazy" />
-  <figcaption>Mummy portrait of a man wearing an ivy wreath, Roman Egypt, c. 101 CE — wreath, gold, gaze: codes at work for 1,900 years</figcaption>
-</figure>
+**Anchorage** (**Barthes**) is text that pins down which meaning of a polysemic image you take. A caption can steer the same image toward sympathy, suspicion, or comedy while the image never changes. **Relay** is different: words and image take turns to carry the meaning.
 
 ### How signs mean: Peirce
 
-Peirce gives a second way to sort signs, by how they mean.
+**Peirce** gives a second way to sort signs by how they mean.
 
 - An **icon** means by resembling its object, like a portrait.
-- An **index** means by a physical trace or link, like a footprint, smoke, or the photograph itself.
+- An **index** means by physical trace, like a footprint, smoke, or the photograph itself.
 - A **symbol** means by convention alone, like a flag.
 
 <div class="plate-row">
@@ -86,31 +82,33 @@ Peirce gives a second way to sort signs, by how they mean.
 </div>
 
 
-A photograph is the interesting case: it is an index that looks like an icon. Most signs are blends of these types, and arguing about which type a sign is is where the learning happens.
+A photograph is the interesting case: an index that looks like an icon. Most real signs are blends, and arguing over which they are is the point.
 
-### Audience: address and anchorage
-
-Every text has an **implied-reader**, the audience it is built for. You can profile that reader from the text: age, gender, income, knowledge assumed, mood invited, and pronouns used. Address can be formal or informal, direct or indirect. The key point works both ways: texts do not just find audiences, they construct them.
-
-**Anchorage** (Barthes) is text that pins down which of a polysemic image's meanings you take, like a caption fixing who the people in a photo are. **Relay** is when words and image take turns to carry the meaning. One image with three different captions, one for sympathy, one for suspicion, one for comedy, shows how much the words steer you while the image never changes.
+Connotation is cultural. From one signifier you can build a chain (rose → romance → Valentine's → spending), and each link was taught to you by a culture. Colors and objects such as red, white, black, the rose, the dove, and the suit carry meanings that can differ between cultures. Where two cultures read a sign differently is worth noting in passing.
 
 ### The four code families
 
-Every media extract can be read through four code families. This is the checklist you use for the next two years.
+Run every media text through four families:
 
-- **Technical** codes: camera, light, edit.
-- **Symbolic** codes: objects, color, gesture, dress.
-- **Written** codes: any text in the frame.
-- **Audio** codes: sound, music, silence.
+- **Technical codes**: camera, light, edit.
+- **Symbolic codes**: objects, color, gesture, dress.
+- **Written codes**: any text in the frame.
+- **Audio codes**: sound, music, silence.
 
-From these you build your own **personal code checklist**, the pocket version you carry into A1 and, later, Paper 2.
+Build your own **personal code checklist**, the pocket version you carry into A1 and later into Paper 2. The technical family is not one bullet. It is four lessons with equipment in hand, one per element, and every exercise you shoot is a dated post in your Component 1 blog. Camera starts on Monday.
 
-## Day by day
+## 2 · Do
 
-- **Mon 09-07.** Learn signifier and signified, denotation and connotation, and polysemy, then label everyday images by what they show and what they suggest. CS2 is set today: an everyday text with at least six code labels, capped at 30 minutes, under the 72-hour rule. Homework: make two theory cards, Saussure and Barthes.
-- **Tue 09-08.** See why connotation is cultural through connotation chains, then learn Peirce's icon, index, and symbol and sort signs by how they mean. Homework: a theory card for Peirce.
-- **Wed 09-09 (double).** Build implied-reader profiles for contrasting texts and test them against evidence, then learn anchorage and relay through a caption swap. Commit your media area and log it on the blog with one line of justification. This choice is not revisited next week and it survives until May.
-- **Fri 09-11.** Learn the four code families, map a dense still through all four, and build your personal code checklist. Your CS2 annotations are peer-checked against the exemplar (six accurate labels is the bar) and collected. Camera work starts Monday.
+- **Mon 09-07.** Learn signifier and signified, denotation versus connotation, and polysemy. CS2 is set today (an everyday text, at least six code labels, 72-hour rule, 30-minute daily cap). Homework: make two theory cards, Saussure and Barthes.
+- **Wed 09-09 (double).** Build implied-reader profiles for contrasting texts and test them with evidence. Learn anchorage and relay. Commit your media area on the blog with one line of justification; this feeds the case-study document opened in [[classes/media-studies/lesson-plans/9607-s1-lesson-15-institutions-and-section-a-craft|L15]] and stays fixed until May. Write one paragraph: "This text addresses me as … but I am …"
+- **Thu 09-10.** See that connotation is cultural through connotation chains. Learn Peirce's icon, index, and symbol, and sort signs by how they mean. Add a Peirce theory card next to Saussure.
+
+<figure class="plate">
+  <img src="../../../static/img/mummy-portrait.jpg" alt="Mummy portrait of a man wearing an ivy wreath, Roman Egypt, c. 101 CE — wreath, gold, gaze: codes at work for 1,900 years" loading="lazy" />
+  <figcaption>Mummy portrait of a man wearing an ivy wreath, Roman Egypt, c. 101 CE — wreath, gold, gaze: codes at work for 1,900 years</figcaption>
+</figure>
+
+- **Fri 09-11.** Learn the four code families and map them on one still. Build your personal code checklist. Bring your CS2 annotations, peer-check them against the exemplar (six accurate labels is the bar), and hand them in.
 
 ## Assessment
 
@@ -118,21 +116,19 @@ From these you build your own **personal code checklist**, the pocket version yo
 |---|---|---|---|
 | CS2 | Fri 2026-09-11 | Annotated everyday media text, ≥6 accurate code labels; homework-based, set day 1 (72-hour rule) | AO1 |
 
-Milestone this week: you commit your media area on Wed 09-09. The vocabulary quiz is [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS8]], at [[classes/media-studies/lesson-plans/9607-s1-lesson-08-the-viewing-protocol-and-a1|L08]], with 30 items, set after all four technical elements have been taught so it tests the whole lexicon. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+Milestone inside the week: you commit your media area on Wed 09-09. The vocabulary quiz now sits at [[classes/media-studies/lesson-plans/9607-s1-lesson-08-the-viewing-protocol-and-a1|L08]] as [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS8]], with 30 items, after all four technical elements have been taught, so it tests the whole lexicon. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
-## Review
+## 3 · Check
 
 Check you can:
 
-- Use signifier, signified, denotation, and connotation correctly in your own sentence.
-- Explain polysemy and give an image that has more than one valid reading.
-- Show how a connotation is cultural by building and challenging a connotation chain.
-- Sort a sign into icon, index, or symbol and defend your choice.
-- Explain why a photograph is an index that looks like an icon.
-- Identify a text's implied-reader and cite the address features that prove it.
-- Define anchorage and relay and show how a caption changes an image's meaning.
-- Name all four code families and give one example of each from a single still.
-- Annotate an everyday text with at least six accurate code labels (CS2).
+- Use **signifier**, **signified**, **denotation**, and **connotation** correctly in your own sentence.
+- Explain **polysemy** and point to the signifier behind a reading.
+- Sort unfamiliar signs into **icon**, **index**, and **symbol** and defend each placement.
+- Build an **implied-reader profile** and cite the address features that prove it.
+- Explain **anchorage** and how it differs from **relay**.
+- Name the four code families (**technical**, **symbolic**, **written**, **audio**) and give one example of each from a single still.
+- Annotate an everyday text with at least six accurate code labels for CS2.
 - State your committed media area and one reason it will last until May.
 
 ## Practice

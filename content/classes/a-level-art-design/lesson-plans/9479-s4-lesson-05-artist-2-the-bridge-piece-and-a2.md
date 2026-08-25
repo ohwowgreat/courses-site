@@ -35,7 +35,7 @@ These dates are projected. They may shift when the school publishes the calendar
 
 This lesson closes exploration and carries it into development. You study a second artist and answer them in your own work. You make a **bridge piece** that moves your study into development, and you run a **scale trial** at the supervised-test dimensions to expose problems now. You lay out exploration pages that reason rather than display swatches. On Tue 03-21 you sit **[[classes/a-level-art-design/assessments/9479-s4-assessments|CS5]]**, which checks your artist pages and bridge piece. On Fri 03-24 you sit **[[classes/a-level-art-design/assessments/9479-s4-assessments|A2]]**, which marks the whole unit across AO2 and AO3.
 
-## The ideas
+## 1 · Learn
 
 ### A different angle on the same question
 
@@ -59,7 +59,7 @@ The **scale trial** is a trial run at the exact dimensions the supervised test w
 
 Your exploration pages should reason, not display swatches. Show why you chose these media for this question. A swatch chart shows what you tried; a page that reasons shows why you tried it.
 
-## Day by day
+## 2 · Do
 
 - **Mon 03-20.** Analyze and respond to artist 2. Answer them in your work, not just cite them.
 - **Tue 03-21.** Studio: make the bridge piece, moving from study into development. **CS5** checks your artist pages and bridge piece.
@@ -72,7 +72,7 @@ Your exploration pages should reason, not display swatches. Show why you chose t
 - **CS5** Tue 2028-03-21: artist pages and bridge piece check.
 - **A2** Fri 2028-03-24: the whole unit, marked across AO2 and AO3.
 
-## Review
+## 3 · Check
 
 Check you can:
 

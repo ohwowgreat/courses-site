@@ -41,7 +41,7 @@ modified: 2026-08-05
 
 This lesson opens Unit 3 and starts collage. In Unit 2 you chose images. Now you cut them apart and make them argue. You learn the core vocabulary and the two cheapest tools for meaning, juxtaposition and scale. You produce two fast A5 studies, one of each, in your sketchbook. Both studies open the experiment set that [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS3]] checks at W13, so keep them.
 
-## The ideas
+## 1 · Learn
 
 ### The vocabulary of collage
 
@@ -79,7 +79,7 @@ The unit's spine is **combine · meaning**. A collage is not decoration. It is a
 
 **Scale** means using the wrong size on purpose. A teacup taller than a building means something. A person smaller than a shoe means something else. If a partner cannot name the third thing your two images say, the juxtaposition is decoration, not meaning yet.
 
-## Day by day
+## 2 · Do
 
 - **Wed 2026-11-11.** Unit 3 opens. Define the four terms, cover the history of collage, and learn juxtaposition and scale. Make two fast A5 studies from the class material bin, scissors only: one juxtaposition study, two images with no business together that make one new meaning; one scale study, one element deliberately the wrong size. Dry-fit before you glue. Title each with one line: "this says …". Homework: collect your own raw material, magazines, printed photos including your own U2 frames, packaging, and tickets, at least 20 usable images by next week, plus the MB posting.
 
@@ -87,7 +87,7 @@ The unit's spine is **combine · meaning**. A collage is not decoration. It is a
 
 Nothing is graded today. Both studies open the **experiment set** that CS3 checks at W13. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

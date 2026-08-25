@@ -40,8 +40,8 @@ modified: 2026-08-05
 
 <div class="plate-row">
 <figure class="plate">
-  <img src="../../../static/img/sea-of-steps.jpg" alt="Frederick H. Evans, A Sea of Steps, Wells Cathedral, 1903" loading="lazy" />
-  <figcaption>Frederick H. Evans, <em>A Sea of Steps, Wells Cathedral</em>, 1903</figcaption>
+  <img src="../../../static/img/sea-of-steps.jpg" alt="Frederick H. Evans, A Sea of Steps, Wells Cathedral, 1903 — sharp from the first step to the last: depth of field held as a choice, and the frame built from receding lines" loading="lazy" />
+  <figcaption>Frederick H. Evans, <em>A Sea of Steps, Wells Cathedral</em>, 1903 — sharp from the first step to the last: depth of field held as a choice, and the frame built from receding lines</figcaption>
 </figure>
 <figure class="plate">
   <img src="../../../static/img/st-pauls-spires.jpg" alt="Alvin Langdon Coburn, St. Paul's and Other Spires, c. 1909" loading="lazy" />
@@ -57,7 +57,7 @@ modified: 2026-08-05
 
 This lesson opens Unit 2 and moves you from the pencil to the camera. You arrive with your twenty [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|HW1]] photographs and learn that the real decisions happen before the shutter: where you stand, what goes in the frame, what you leave out. You produce two things today: a best-three selection from HW1 with written reasons, and a five-viewpoint circuit shoot of one subject with three selects. Those circuit frames feed [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS2]] in W9.
 
-## The ideas
+## 1 · Learn
 
 ### Shoot many, keep few, know why
 
@@ -79,7 +79,7 @@ Any camera counts: phone, compact, or DSLR. Turn on the framing grid, the grid o
 
 For each idea, ask the same question of a photograph: "what did the photographer decide here?"
 
-## Day by day
+## 2 · Do
 
 - **Wed 10-14.** Unit 2 opens. HW1 is due and checked. Turn on your framing grid and add the unit vocabulary (terms 1–13: elements, principles, composition) to your sketchbook. Choose your best three and worst one from HW1 and explain each to a partner. Learn framing and viewpoint from the *Seeing Photographs* exemplars. Shoot one subject from five viewpoints (eye level, high, low, close, far-with-context), at least fifteen frames, then select three and post them to MB with a one-line reason each. Homework: shoot ten frames placed on the thirds and five that deliberately break them, write one line on which felt better, and post to MB.
 
@@ -87,7 +87,7 @@ For each idea, ask the same question of a photograph: "what did the photographer
 
 **HW1** (at least 20 photos, one subject, varied viewpoint and light, set 09-30) is due and checked today. It is marked for looking, not luck. Today's circuit frames and the thirds homework feed **CS2** (W9). Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

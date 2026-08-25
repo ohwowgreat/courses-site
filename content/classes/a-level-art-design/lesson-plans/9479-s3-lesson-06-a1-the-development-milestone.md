@@ -33,7 +33,7 @@ modified: 2026-08-05
 
 This lesson closes the second pass at development and brings you to your first graded milestone of the semester. Monday to Wednesday, you finish your evaluation and close the named gaps in your work, then check your pages honestly against the AO3 band descriptors. On Thursday you sit **[[classes/a-level-art-design/assessments/9479-s3-assessments|A1]]**, the development milestone, marked against AO3. On Friday you turn the marker's response into three specific actions for Unit 5. A1 feeds your mid-term grade, and Unit 5 opens straight into building your final outcomes. These dates are projected and may shift when the school publishes the calendar for that period.
 
-## The ideas
+## 1 · Learn
 
 ### The self-check against AO3
 
@@ -55,7 +55,7 @@ A1 feeds your mid-term grade (around Thu 2027-10-28) at the two-week minimum. [[
 
 You sit A1 on Thursday. This keeps it clear of Fridays, which can collide with Foreign Culture Days. If a collision does land, the feedback slips, never the assessment.
 
-## Day by day
+## 2 · Do
 
 - **Mon 10-11.** Finalize your evaluation as portfolio material, not a note to self, and begin pre-milestone repair.
 - **Tue 10-12.** Close the named gaps from your action plan, the specific ones, not a general polish.
@@ -63,7 +63,7 @@ You sit A1 on Thursday. This keeps it clear of Fridays, which can collide with F
 - **Thu 10-14.** Sit **A1**, the development milestone: outcome-candidate compositions, targeted tests, evaluation, Stage 6 page, and research paper draft 2, marked against AO3.
 - **Fri 10-15.** Get feedback and set three specific actions. Homework (≤30 min): turn those three actions into a dated to-do for Unit 5.
 
-## Review
+## 3 · Check
 
 Check you can:
 

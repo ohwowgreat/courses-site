@@ -41,7 +41,7 @@ modified: 2026-08-05
 
 Today you build your final collage. You take the circled draft from last lesson and assemble it layer by layer, in the order you set. By the close, the work should be decided everywhere and finished except the top layer. You photograph the build in stages, which is process evidence for your sketchbook. **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|SB2]]**, your second sketchbook spot-check, runs during the studio block. You finish the collage next week under [[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage|A3]] conditions, so today's job is to leave the strongest move still live.
 
-## The ideas
+## 1 · Learn
 
 ### Building in layer order
 
@@ -63,7 +63,7 @@ Photograph every stage as you go. The build sequence is process evidence for you
 
 If you work in digital remix, use Photoshop or Affinity. The same layer order applies, and your layers are literal. Save the working file. Never flatten it.
 
-## Day by day
+## 2 · Do
 
 - **Wed 12-02.** You build the final collage in layer order: background, large shapes, middle layers, then stop at the speaker. Dry-fit each layer before gluing, and photograph every stage. Homework: write a finishing list of what remains, in order, and what you need for it; gather any missing material; post to MB.
 
@@ -71,7 +71,7 @@ If you work in digital remix, use Photoshop or Affinity. The same layer order ap
 
 **SB2**, the second sketchbook spot-check, runs table by table during the studio block. It looks at your progress and upkeep since [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|SB1]] (10-21), in short two-minute looks, with marks entered the same day. The build itself is assessed next week as **A3**. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

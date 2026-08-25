@@ -38,7 +38,7 @@ This is the last session of the two-year course. Nothing new is taught. You look
   <figcaption>Claude Monet, <em>The Magpie</em>, 1869 — winter light, and the quiet after</figcaption>
 </figure>
 
-## The ideas
+## 1 · Learn
 
 ### The eight-stage pipeline, run three times
 
@@ -48,7 +48,7 @@ The course is the **eight-stage pipeline run three times**: C1 (portfolio), C3 (
 
 The End-of-Term was **the Final**, not a sit-down exam. It met the 20% End-of-Term category by teacher assessment against the Cambridge criteria.
 
-## Day by day
+## 2 · Do
 
 - **May Day week (Mon 2028-05-01 → Fri 2028-05-05).** No teaching. Reflection homework only.
 - **Week of Mon 2028-05-08.** The two-year review, the portfolio return (everything the board does not hold comes back to you), and the A2-season briefing: results, the A2 timeline, and where this portfolio carries forward. No homework; the course is complete.
@@ -57,7 +57,7 @@ The End-of-Term was **the Final**, not a sit-down exam. It met the 20% End-of-Te
 
 No attainment is graded this week. The 20% End-of-Term category was met by **the Final**, teacher-marked against the Cambridge criteria. The grade rules for the leaving cohort will be confirmed in class.
 
-## Review
+## 3 · Check
 
 Check you can:
 

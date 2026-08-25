@@ -40,7 +40,7 @@ modified: 2026-08-05
 
 This lesson closes Unit 1. You bring your final observational drawing to a finish under assessment conditions, then write a short reflection. Together they are [[classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing|A1]], submitted at the end of the double on Wed 2026-09-30. A1 feeds the mid-term grades due Thu 2026-10-29. You also get [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|HW1]], which opens Unit 2.
 
-## The ideas
+## 1 · Learn
 
 The drawing is marked on three criteria: **observation** (how closely the drawing matches what you see), **tone** (light and dark), and **composition** (how the drawing sits on the page). Work today from your own eyes and your own paper: no phones, no copying a neighbor's drawing.
 
@@ -64,7 +64,7 @@ The **reflection** is one page in your sketchbook, submitted with the drawing. I
 
 A1 is a drawing and the evidence that you can see what you did.
 
-## Day by day
+## 2 · Do
 
 - **Wed 09-30.** You finish the final drawing under assessment conditions and write the reflection. Submit both together at the close. HW1 is set: over the National Day break, take at least 20 photos of one subject in varied viewpoint and light, no editing, and post them to MB. HW1 is due Wed 10-14 and opens Unit 2. There is no class on Wed 10-07 (National Day).
 
@@ -74,7 +74,7 @@ A1 is a drawing and the evidence that you can see what you did.
 
 **A1 — final observational drawing + reflection**, sat in class today. Marking focus is **observation, tone, composition**. It is marked against the criteria as announced, returned with feedback within five working days, and feeds the mid-term grades due Thu 2026-10-29. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

@@ -38,7 +38,7 @@ This lesson opens the final unit, the mid-point portfolio. You choose the one pi
   <figcaption>Vincent van Gogh, <em>The Potato Peeler</em>, 1885</figcaption>
 </figure>
 
-## The ideas
+## 1 · Learn
 
 ### The mid-point piece
 
@@ -52,7 +52,7 @@ The **mid-point piece** is the single resolved piece that carries your investiga
 
 **Page architecture** is the planned sequence of the whole mid-point portfolio, decided before you build it. You set the journey in order, on paper, so that assembly next week follows a plan instead of inventing as it goes.
 
-## Day by day
+## 2 · Do
 
 - **Mon 05-31.** Read your A3 feedback and choose the one resolved piece that carries the investigation.
 - **Tue 06-01.** Refine the chosen piece, day 1, bringing it toward the mid-point standard.
@@ -64,7 +64,7 @@ The **mid-point piece** is the single resolved piece that carries your investiga
 
 **CS9** (bibliography + source integration check) is due **Thu 2027-06-03**. It is a written annotation, marked on whether your sources are integrated into the body of the work rather than detached at the back. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. It is the last CS of the semester, and it protects the AO1 marks a back-of-portfolio bibliography would lose. Next week is submission in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-15-submission-week-and-a4|L15]]: the portfolio photographed, sequenced, edited and submitted, with **[[classes/a-level-art-design/assessments/9479-s2-assessments|A4]]** (mid-point portfolio, AO1–AO4) on **Fri 2027-06-11**.
 
-## Review
+## 3 · Check
 
 Check you can:
 

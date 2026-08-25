@@ -9,7 +9,7 @@ related:
   - "[[concepts/technical-elements]]"
   - "[[concepts/production-craft]]"
   - "[[concepts/representation]]"
-modified: 2026-08-09
+modified: 2026-08-25
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/vandeelen-interior.jpg" alt="Dirck van Deelen, Distinguished Dinner Company in an Interior, 1631. Architecture, costume, properties and placing: every element decided before anyone speaks" loading="lazy" />
@@ -28,13 +28,13 @@ modified: 2026-08-09
 
 <div class="contract">
 <div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1</span><span class="contract-ao">AO3</span></span></div>
-<p class="contract-job"><strong><a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">CS5</a></strong> the mise-en-scène design board for their own product: location, costume, props, lighting plan, colour palette, each with a connotation line. Posted and dated</p>
+<p class="contract-job"><strong><a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">CS5</a></strong> the mise-en-scène design board for your own product: location, costume, props, lighting plan, color palette, each with a connotation line. Posted and dated</p>
 <div class="contract-grid">
-<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-09-21 · Tue 09-22<span class="contract-cell-note">Days: 2 · Mon single, Tue single</span></span></div>
-<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">C1 production (this <strong>is</strong> their design document) · <a href="../../../classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis">A1</a> · <a href="../../../classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format">A4</a></span></div>
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-09-21 · Thu 09-24<span class="contract-cell-note">Days: 2 · Mon single, Thu single</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">C1 production (this <strong>is</strong> your design document) · <a href="../../../classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis">A1</a> · <a href="../../../classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format">A4</a></span></div>
 <div class="contract-cell"><span class="contract-cell-label">Carries forward</span><span class="contract-cell-value">The C3 print task and website home page are mise-en-scène problems before they are anything else</span></div>
 </div>
-<div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-05-mise-en-scene.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (9.2 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> Location photographs for Tuesday: two candidate spaces, shot on a phone</span></div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-05-mise-en-scene.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (9.2 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> Location photographs for Thursday: two candidate spaces, shot on a phone</span></div>
 <div class="contract-more">
 <span class="contract-line"><span class="contract-line-label">Band/Unit</span> U2 Media Language, micro (<a href="../../../classes/media-studies/unit-plans/9607-s1-unit-2-media-language">S1 Unit 2</a>)</span>
 </div>
@@ -43,23 +43,21 @@ modified: 2026-08-09
 
 ## Overview
 
-This lesson covers **mise-en-scène**, the third of the four technical elements. You learn to read every part of the frame as a designed choice and to name the effect it creates. You produce **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS5]]**, a mise-en-scène design board for your own opening, posted and dated on the blog on Tue 09-22. This board is your Component 1 design document. It feeds your C1 production, [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]], and [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]]. Colour, lighting, and costume are visible and full of connotation, and you do not need to hear fast dialogue to read them. The one thing that earns nothing is description. Every item on your board must answer one question: and what does that say?
+This lesson covers mise-en-scène, the third of the four technical elements. You learn the syllabus's list of mise-en-scène elements, how lighting and color make meaning, and where the syllabus draws its boundary. You produce **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS5]]**, the mise-en-scène design board for your own opening, posted and dated on the blog on Thu 2026-09-24. This board is not a class exercise on the side. It is your Component 1 design document, and it feeds your C1 production, [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]], and [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]].
 
-## The ideas
+## 1 · Learn
 
-### Everything in the frame is a decision
+### The syllabus elements
 
-**Mise-en-scène** is everything placed inside the frame on purpose. Nothing in a shot arrives by accident, so every visible choice carries meaning. If you list ten things you can see in a still, none of them got there by chance.
+**Mise-en-scène** means everything placed in the frame on purpose. In a designed image nothing arrives by accident. The syllabus lists these elements, and you should name each one:
 
-The syllabus names these elements:
+- **production design**: location, studio, set design, costume and make-up, properties.
+- **lighting**.
+- **color design**.
 
-- **production design**: location, studio, set design, costume and make-up, properties
-- **lighting**
-- **colour design**
+The syllabus also draws a boundary that candidates cross every year: **acting and performance are not assessed in this syllabus**. Body language and expression are not in the syllabus bullet. Write about the costume and the prop, not the performance.
 
-There is a boundary you must respect. **Acting and performance are not assessed in this syllabus.** Body language and expression are absent from the syllabus bullet, even though the Scheme of Work's glossary mentions expression and movement. Write about the costume and the prop, not the performance.
-
-Production design alone can imply genre and character before a person appears. A country manor, a city apartment, an abandoned building, and an office each suggest a different world through décor, colour, furniture, props, and what is outside the window.
+One way to feel how much a setting says: picture four locations, a country manor, a city apartment, an abandoned building, an office. Describe each in detail, décor, color, what is outside the window, furniture, props. Each one already implies a genre and a character before any person appears.
 
 
 <figure class="plate">
@@ -67,11 +65,11 @@ Production design alone can imply genre and character before a person appears. A
   <figcaption><em>The Grand Budapest Hotel</em> (2014). Every object placed and every colour chosen: production design read whole</figcaption>
 </figure>
 
+The strongest analysis names a **design system**, the pattern that repeats across many frames, rather than a single item. Reading nine frames of one title sequence as a grid makes that system visible.
+
 ### Lighting
 
-Light has both direction and quality, and each choice has an effect.
-
-Direction gives you three roles: **key light** (the main light), **fill light** (softens shadows), and **back light** (separates the subject from the background). A phone torch moved to four positions, front, side, from below, and behind, shows how much the same face changes.
+Light has a direction and a quality, and both carry meaning. By direction, the standard set-up uses a **key light** (the main light), a **fill light** (softens the shadows), and a **back light** (separates the subject from the background). By overall style:
 
 
 <figure class="plate">
@@ -79,57 +77,44 @@ Direction gives you three roles: **key light** (the main light), **fill light** 
   <figcaption>Caravaggio, <em>The Calling of Saint Matthew</em>, 1599 — one light source, five gestures: a room you can read</figcaption>
 </figure>
 
-Two named set-ups:
-
 - **high key**: bright, even light with few shadows. Common in comedy and lifestyle.
 - **low key**: hard contrast and deep shadow. Common in thriller and horror.
 
-Quality runs from **hard** (sharp-edged shadows) to **soft** (gentle shadows).
+Quality runs from **hard** (sharp-edged shadows) to **soft** (gentle, diffused shadows). To test the effect, one phone torch moved to front, side, below, and behind a face changes the mood before anyone names it.
 
-### Colour design
+### Color as a system
 
-**Colour design** is a system, not a description. Look for a palette that repeats, a colour assigned to a character or a world, and a colour shift that marks a turn in the story. This is the colour-connotation work from Lesson 02, now used as a production decision.
+**color design** works as a system, not a description. Look for a palette that repeats, a color tied to a character or a world, and a color shift that marks a turn in the story. Do not just say what color something is. Say what the color does.
 
-### The design system
+## 2 · Do
 
-A single item carries meaning, but a **design system** is the pattern that repeats across a whole sequence. When you annotate nine frames from one title sequence for production design, lighting, and colour, the repeating pattern is the system. Naming a system beats naming a single item.
-
-### Your design board (CS5)
-
-Your board has six cells, each with **one connotation line**:
-
-1. **Location**, with the photograph you took for homework
-2. **Costume** for one character
-3. **Two properties** that carry meaning
-4. **Lighting plan**, named by set-up and quality, with your torch photographs as reference
-5. **Colour palette**, three to five swatches
-6. **The one-sentence claim**: what this design says about the person, place, or world it shows
-
-This is not a moodboard. Every cell must state what its choice means.
-
-## Day by day
-
-- **Mon 09-21.** Study the syllabus list of mise-en-scène elements and the boundary that acting and performance are not assessed. Build a location in a group of four and read the genre and character it implies, then annotate a nine-frame grid from one title sequence for production design, lighting, and colour to find the design system. Homework: photograph two candidate locations on your phone for Tuesday.
-- **Tue 09-22.** Watch the torch demo of four lighting positions and photograph all four set-ups for your notes, review colour design as a system, then build **CS5**, your six-cell design board, on the blog. Two boards close the lesson, each answered with the same question: what does that say, and how do you know?
+- **Mon 09-21.** You go through the syllabus's mise-en-scène elements and the acting boundary, work the four-locations activity in groups, then annotate a nine-frame grid for production design, lighting, and color to find its design system. Homework: photograph two candidate locations on a phone for Thursday.
+- **Thu 09-24.** A torch demo names the lighting set-ups and qualities, and color is treated as a system. You then build **CS5**, your mise-en-scène design board, on the blog, posted and dated. Six required cells, each with one connotation line:
+  1. **Location**, with your homework photograph.
+  2. **Costume** for one character.
+  3. **Two properties** that carry meaning.
+  4. **Lighting plan**, named by set-up and quality.
+  5. **Color palette**, three to five swatches.
+  6. **The one-sentence claim**: what this design says about the person, place, or world it shows.
 
 ## Assessment
 
 | Item | Date | What | AO |
 |---|---|---|---|
-| CS5 | Tue 2026-09-22 | Mise-en-scène design board for their own product, six cells, each with a stated connotation, posted and dated | AO1 + AO3 |
+| CS5 | Thu 2026-09-24 | Mise-en-scène design board for your own product, six cells, each with a stated connotation, posted and dated | AO1 + AO3 |
 
 Marked on **coverage of the syllabus elements**, **a connotation stated for every cell**, and **internal consistency** (does the palette agree with the lighting, does the costume agree with the location). Not marked on visual polish. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
-## Review
+## 3 · Check
 
 Check you can:
 
-- List the syllabus's mise-en-scène elements and say what each one contributes to meaning.
-- Name a lighting set-up by direction and quality, and state its effect.
-- Define **high key** and **low key** and give a genre for each.
-- Read **colour design** as a designed system rather than a description.
-- Explain why acting and performance sit outside what this syllabus assesses.
-- Produce a design board (**CS5**) in which every cell carries a stated connotation.
+- List the mise-en-scène elements and say what each one contributes to meaning.
+- Name a lighting set-up by direction and quality and state its effect.
+- Distinguish high key and low key lighting.
+- Read color design as a system, not a description.
+- Explain why acting and performance are not assessed in this syllabus.
+- Produce a CS5 design board in which every cell carries a stated connotation.
 
 ## Practice
 

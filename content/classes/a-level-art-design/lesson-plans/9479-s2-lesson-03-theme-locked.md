@@ -38,7 +38,7 @@ This week your theme stops being a proposal and becomes the thing you will make.
   <figcaption>Paul Cézanne, <em>A Painter at Work</em>, 1875</figcaption>
 </figure>
 
-## The ideas
+## 1 · Learn
 
 ### Locking the theme
 
@@ -56,7 +56,7 @@ A **research plan** lists your reading, sources, and dates: what you will read, 
 
 A **primary-source shoot** is your own first-hand photography of real sources: light, angle, series. Nothing found, nothing borrowed. This is reference you will draw from for months, so shoot far more than you think you need. When you **annotate** the images, you name what each image *shows*, not what it makes you feel.
 
-## Day by day
+## 2 · Do
 
 - **Mon 03-08.** You sign the locked theme against the exemplar criteria. This is the gate: the investigation now runs on this theme to submission in December, with no restarts.
 - **Tue 03-09.** You finalize your statement of intent, writing the investigation in your own words.
@@ -68,7 +68,7 @@ A **primary-source shoot** is your own first-hand photography of real sources: l
 
 **CS2** (statement of intent + annotated references) is due **Fri 2027-03-12**, a written annotation that consolidates the locked theme into recordable foundations. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. The theme lock on Monday carries no mark, but it is signed, and there are no restarts after it. Unit 2 opens next week, and the first attainment, **A1**, the recording milestone marked against AO1, sits **Fri 2027-03-19** in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-04-recording-and-the-a1-milestone|L04]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

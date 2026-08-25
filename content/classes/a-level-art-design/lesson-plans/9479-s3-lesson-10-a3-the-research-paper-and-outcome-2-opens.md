@@ -35,7 +35,7 @@ These dates are projected. They may shift when the school publishes the calendar
 
 This week you finish the research paper and start your second outcome. On Monday you submit **[[classes/a-level-art-design/assessments/9479-s3-assessments|A3]]**, the final research paper, marked against the C3 written criteria in a one-to-one review. Then outcome 2 opens. You plan it before you build it, so nothing is left to the day. Outcome 2 must answer outcome 1 rather than repeat it, and both outcomes stay inside one investigation, in one voice. On Friday, **[[classes/a-level-art-design/assessments/9479-s3-assessments|CS7]]** marks your outcome 2 plan and progress. This work leads into [[classes/a-level-art-design/assessments/9479-s3-assessments|A4]], the complete investigation, next week.
 
-## The ideas
+## 1 · Learn
 
 ### The final research paper (A3)
 
@@ -55,7 +55,7 @@ Outcome 2 **answers** outcome 1. It asks a different question inside the same in
 
 Both outcomes speak with **one voice**. Two voices fail AO4. The pair should read as one investigation, which is why you start outcome 2 while the first is still fresh.
 
-## Day by day
+## 2 · Do
 
 - **Mon 11-15.** Submit **A3**, the final research paper, and review it one to one. It is marked against the C3 written criteria.
 - **Tue 11-16.** Plan outcome 2: decide composition, palette, and materials, and state how the plan answers outcome 1. Homework (≤30 min): write the outcome 2 plan showing how it answers outcome 1 without repeating it.
@@ -63,7 +63,7 @@ Both outcomes speak with **one voice**. Two voices fail AO4. The pair should rea
 - **Thu 11-18.** Studio: continue building outcome 2.
 - **Fri 11-19.** Studio: continue outcome 2. **CS7** marks your outcome 2 plan and progress. A4 is announced next week.
 
-## Review
+## 3 · Check
 
 Check you can:
 

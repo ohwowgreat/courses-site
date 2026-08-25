@@ -36,7 +36,7 @@ This lesson closes Unit 4 on AO3. You write the evaluation against your intentio
   <figcaption>Vincent van Gogh, <em>On the Outskirts of Paris</em>, 1887</figcaption>
 </figure>
 
-## The ideas
+## 1 · Learn
 
 ### Evaluation against intention
 
@@ -50,7 +50,7 @@ The **Stage 6 page** lays out your development as a trail of decisions: composit
 
 **Research paper draft 1** pulls your drafted sections into one full draft against your outline. This is the first time the paper exists end to end. Reading it whole exposes weak points: the thin section, the claim without a source, the join that does not hold. You fix these in the work itself, not as detached edits.
 
-## Day by day
+## 2 · Do
 
 - **Mon 05-24.** Write the evaluation. Judge the development against your intention: what the direction achieves, what it cost, what you would push next.
 - **Tue 05-25.** Assemble the Stage 6 page so the development reads as a trail of decisions, each step visible.
@@ -62,7 +62,7 @@ The **Stage 6 page** lays out your development as a trail of decisions: composit
 
 You sit **A3** (development milestone + research paper draft 1) on **Fri 2027-05-28**, marked against AO3 with integration in view. See the [[classes/a-level-art-design/assessments/9479-s2-assessments|full register]]. A3 gathers all of Unit 4: two resolved compositions, the targeted tests, the evaluation, the Stage 6 page, and the paper's first full draft. This is the last taught session before [[classes/a-level-art-design/assessments/9479-s2-assessments|A4]]. The next two weeks (Unit 5) build the mid-point portfolio in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-14-mid-point-piece-and-bibliography|Lesson 14]], and **A4** (mid-point portfolio, AO1–AO4) sits **Fri 2027-06-11**.
 
-## Review
+## 3 · Check
 
 Check you can:
 

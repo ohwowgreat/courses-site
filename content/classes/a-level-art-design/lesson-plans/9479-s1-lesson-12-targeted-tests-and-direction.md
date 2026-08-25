@@ -5,7 +5,7 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-s1-unit-4-development]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-11-composition-2-and-critique]]"
   - "[[classes/a-level-art-design/lesson-plans/9479-s1-lesson-13-final-plan-and-a3]]"
-modified: 2026-08-05
+modified: 2026-08-25
 ---
 # S1 Lesson 12: Targeted Tests and Direction
 
@@ -25,60 +25,56 @@ modified: 2026-08-05
 <div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO3 Develop</span></span></div>
 <p class="contract-job">Targeted tests on the unresolved questions only; final direction chosen with its rejection articulated; the written evaluation; the Stage 6 page</p>
 <div class="contract-grid">
-<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2026-11-25 → Fri 2026-11-27, then Mon 2026-11-30 → Tue 2026-12-01<span class="contract-cell-note">Sessions: 5 days (W13–W14, the tail before the Juniors Days)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Thu 2026-11-26 · Fri 11-27 (double), then Mon 2026-11-30 · Tue 12-01<span class="contract-cell-note">Sessions: 5 sessions over 4 days (W13–W14, the tail before the Juniors Days)</span></span></div>
 <div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS9</a> collected Fri 2026-11-27, inside the tests run</span></div>
 </div>
 <div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Written annotation: the evaluation drafted across the Juniors Days gap</span></div>
 </div>
 
 
+These dates may shift when the school publishes the calendar for this period.
+
 ## Overview
 
-This lesson turns your critique into decisions. You run targeted tests on the questions your critique left open, choose your final direction, and write down what you rejected and why. You then build the Stage 6 page so your development reads as a clear sequence of decisions. You produce the tests, the chosen direction, the written evaluation, and the Stage 6 page. [[classes/a-level-art-design/assessments/9479-s1-course-skills|CS9]] is collected Fri 2026-11-27. This work is where top-band AO3 Develop is won or lost, and it is direct practice for [[classes/a-level-art-design/assessments/9479-s1-a3-development-milestone|A3]].
+In this lesson you run tests on the questions your critique left unresolved, then choose and defend your final direction. You produce your targeted tests plus a written critique response, collected as [[classes/a-level-art-design/assessments/9479-s1-course-skills|CS9]] on Fri 2026-11-27, along with a written evaluation and the Stage 6 page. This is direct practice for [[classes/a-level-art-design/assessments/9479-s1-a3-development-milestone|A3]], and it is where top-band AO3 Develop is won or lost.
 
-## The ideas
-
-### No decoration
-
-The rule for this lesson is **no decoration**: every test must answer a real, unresolved question. A test does not exist because it was enjoyable or looks good. If a test does not answer a named question from your critique, it does not belong on the page.
+## 1 · Learn
 
 ### Targeted tests
 
-A **targeted test** is a single test aimed at one question your critique left unresolved. List those questions first, then plan one test per question. Label each finished test with the question it answered, so the reason for the test is visible.
+**Targeted tests** are tests that answer only the questions your critique left unresolved. Run one test per unresolved question, and label each test with the question it answers. No test exists because it was enjoyable, and none is decoration.
 
-### Final direction and rejection
+### Choosing a direction
 
-You choose your **final direction** by laying out your tests and both compositions together and deciding which one to carry forward. You then write the **rejection**: full sentences saying what you did not choose and why. Writing the rejection is what shows the decision was made on purpose, not by chance.
+Lay out your tests and both compositions, then choose your **final direction**. Write the **rejection**: full sentences saying what you did not choose and why. Recording what you rejected, and your reason, is what makes the development read as a set of decisions.
 
-### Written evaluation
+### The written evaluation
 
-The **written evaluation** states what your development achieved against your intention, where it fell short, and what your final piece must therefore do. You draft it across the Juniors Days gap as homework.
+The **written evaluation** measures the development against your intention. It says what the development achieved, where it fell short, and what the final piece must therefore do.
 
-### Stage 6 page as a decision trail
+### The Stage 6 page
 
-The **Stage 6 page** presents your development as a decision trail: studies, compositions, critique, tests, and final choice, in order. Assembled this way, the page reads as a sequence of decisions rather than a pile of images.
+The **Stage 6 page** presents your development as a decision trail: studies, compositions, critique, tests, choice. Assemble it so the whole page reads as a sequence of decisions.
 
-## Day by day
+## 2 · Do
 
-- **Wed 11-25.** Start the two-day tests run. List the unresolved questions from critique and plan one test per question.
-- **Thu 11-26.** Read the criteria (final deadline: Thu 2026-12-10), then complete the tests. Label each test with the question it answered.
-- **Fri 11-27.** Lay out your tests and both compositions, choose the final direction, and write the rejection in full sentences. CS9 is collected today (tests plus critique response).
-- **Mon 11-30.** Write the evaluation: what the development achieved against the intention, where it fell short, what the final piece must do. A peer reads it for honesty.
-- **Tue 12-01.** Assemble the Stage 6 page as a decision trail: studies, compositions, critique, tests, choice. Photograph and file it. Homework: draft the evaluation across the Juniors Days gap (Wed–Fri).
+- **Thu 11-26.** Read the criteria. The final piece is due Thu 2026-12-10. List the unresolved questions from critique, plan one test per question, and begin.
+- **Fri 11-27 (double).** Complete the tests, each labeled with the question it answers. Lay out the tests and both compositions, choose the final direction, and write the rejection in full sentences. CS9 (tests plus critique response) is collected today.
+- **Mon 11-30.** Write the evaluation: what the development achieved against the intention, where it fell short, what the final piece must do. A frame is provided then removed. A peer reads your evaluation for honesty.
+- **Tue 12-01.** Assemble the Stage 6 page as a decision trail, then photograph and file it. Draft the evaluation across the Juniors Days gap (Wed–Fri).
 
 ## Assessment
 
-**CS9** (targeted tests + critique response, written annotation) is collected Fri 2026-11-27. It is direct practice for A3. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. Every test must answer a named unresolved question.
+**CS9** (targeted tests + critique response, written annotation) collects Fri 2026-11-27, direct practice for A3. See the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. Every test answers a named unresolved question.
 
-## Review
+## 3 · Check
 
 Check you can:
 
-- Run a **targeted test** that answers one unresolved question from your critique.
-- Apply **no decoration**: leave out any test that does not answer a question.
-- Choose your **final direction** and write the **rejection** in full sentences.
-- Write a **written evaluation** covering what your development achieved, where it fell short, and what the final piece must do.
-- Assemble the **Stage 6 page** as a decision trail from studies through to final choice.
+- Run targeted tests that each answer an unresolved question from critique, with no decoration.
+- Choose your final direction and write the rejection: what you did not choose and why.
+- Write an evaluation that measures the development against your intention.
+- Assemble the Stage 6 page so it reads as a sequence of decisions.
 
 ## Practice
 

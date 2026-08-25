@@ -36,11 +36,11 @@ This lesson is the exam proper. You realize the final piece you planned at [[cla
 
 
 <figure class="plate">
-  <img src="../../../static/img/sea-of-steps.jpg" alt="Frederick H. Evans, A Sea of Steps, Wells Cathedral, 1903" loading="lazy" />
-  <figcaption>Frederick H. Evans, <em>A Sea of Steps, Wells Cathedral</em>, 1903</figcaption>
+  <img src="../../../static/img/sea-of-steps.jpg" alt="Frederick H. Evans, A Sea of Steps, Wells Cathedral, 1903 — sharp from the first step to the last: depth of field held as a choice, and the frame built from receding lines" loading="lazy" />
+  <figcaption>Frederick H. Evans, <em>A Sea of Steps, Wells Cathedral</em>, 1903 — sharp from the first step to the last: depth of field held as a choice, and the frame built from receding lines</figcaption>
 </figure>
 
-## The ideas
+## 1 · Learn
 
 ### Nothing invented under supervision
 
@@ -54,12 +54,12 @@ Your work is stored securely and documented between sittings. There is **no acce
 
 The **15-hour supervised test** floats: it fits only the mock window or a school exam window, never the daily timetable. This is why the dates below are projected. On one reading the whole unit (test, Unit 5, [[classes/a-level-art-design/assessments/9479-s4-assessments|A4]], [[classes/a-level-art-design/assessments/9479-s4-assessments|CS7]]) pulls forward one week.
 
-## Day by day
+## 2 · Do
 
 - **Elastic window week.** The four teaching days before the test go to refinement and rehearsal of your plan. This is not new work.
 - **The 15-hour supervised test.** You realize your plan under exam conditions. On one reading the test runs Mon 2028-04-10 to Fri 04-14, five sittings of 3 hours. On the other it runs around Qingming (Tue 04-04), four sittings of 3h45, with the whole tail moved one week earlier. There is no homework: the test is the work, and you rest between sittings. These dates are projected and may shift when the school publishes the calendar; the exact schedule will be confirmed in class.
 
-## Review
+## 3 · Check
 
 Check you can:
 

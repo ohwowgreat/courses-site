@@ -41,7 +41,7 @@ modified: 2026-08-05
 
 This lesson turns your experiments into a work. You decide what your collage is about, then you plan how it will look. You write your **main idea** in one sentence, then make two different composition drafts of that idea. You circle one draft and write why it argues the idea more strongly. Your **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|CS3]]** experiment set is collected this session. The circled draft leads into your final collage, made in class over W14 and W15, which is your **[[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage|A3]]** deliverable, due Wed 2026-12-09.
 
-## The ideas
+## 1 · Learn
 
 ### Meaning
 
@@ -69,7 +69,7 @@ Make two dry-fit compositions of the same main idea, on separate boards. Make th
 
 Then circle one draft and write the reason it argues your idea more strongly.
 
-## Day by day
+## 2 · Do
 
 - **Wed 2026-11-25.** Study **Romare Bearden** and the **vanitas** to see collage as meaning. Write your **main idea** in one sentence, then make two different composition drafts and circle one with a written reason. **CS3**, your experiment set, is collected today. For homework, gather any material your chosen draft still needs and post to MB.
 
@@ -77,7 +77,7 @@ Then circle one draft and write the reason it argues your idea more strongly.
 
 **CS3** (experiment set, combination and meaning) is collected today. **A3** (final collage and reflection, Wed 2026-12-09) is announced today. The final collage is marked on juxtaposition, layering, composition, and meaning. Register: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|PAL S1 Assessments]].
 
-## Review
+## 3 · Check
 
 Check you can:
 

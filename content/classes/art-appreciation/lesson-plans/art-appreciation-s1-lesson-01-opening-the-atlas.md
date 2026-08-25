@@ -33,7 +33,7 @@ modified: 2026-08-05
 
 This lesson opens the course. You learn how the course is organized, you practice looking at an image before you explain it, and you make a print in the darkroom. Your deliverable is the [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS1]] darkroom reflection, written in the room and collected on Fri 2026-09-04. The idea of an image as a physical thing that light made returns in Unit 4 in December.
 
-## The ideas
+## 1 · Learn
 
 ### The atlas method
 
@@ -53,7 +53,7 @@ The **atlas method** is the way this course is arranged: by resemblance between 
 
 In the darkroom, an image is not a screen. It is a **physical trace**: a thing that light did to a surface. Making a print shows this directly. This is why the CS1 reflection asks you to name a physical decision you made, not a feeling about how the print turned out.
 
-## Day by day
+## 2 · Do
 
 - **Tue 09-01.** Introductions and how the course runs. Then the atlas method and how you are marked: Warburg's panels, why resemblance beats date, and the course map with the four majors and the retrospective. You name one thing about this course that sounds wrong to you.
 - **Wed 09-02.** You spend ten minutes silent on one image with the title withheld. You describe it in writing for two minutes, then out loud. You share what someone else saw that you did not.
@@ -65,7 +65,7 @@ In the darkroom, an image is not a screen. It is a **physical trace**: a thing t
 - No homework this week.
 - [[classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board|A1]] is not announced here. It is announced in Lesson 02 on Fri 2026-09-04.
 
-## Review
+## 3 · Check
 
 Check you can:
 

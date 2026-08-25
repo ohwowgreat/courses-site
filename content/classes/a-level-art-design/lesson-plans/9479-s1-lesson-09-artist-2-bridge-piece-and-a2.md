@@ -30,7 +30,7 @@ modified: 2026-08-05
 
 This lesson closes Unit 3. You study a second artist against your first, then make a piece that carries your study into development. You produce a **bridge piece**: start it Tue 2026-11-03 and finish it across the six-day Juniors Days gap. On Mon 2026-11-09 you sit **[[classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study|A2]]**, a review of your whole Unit 3 portfolio against AO2 and AO3. You leave with one direction you can defend, which sets up Unit 4.
 
-## The ideas
+## 1 · Learn
 
 ### Artist 2 against Artist 1
 
@@ -50,7 +50,7 @@ A **bridge piece** is one work that carries your artist study into your own deve
 
 **A2** is the exploration and artist study milestone, marked against AO2 and AO3. It reviews everything from Unit 3: your twelve experiments, media selection, scale trial, artist pages, and bridge piece, against the published AO2 and AO3 criteria. Nothing is added during the review. After A2 is returned and banded, you write one-sentence **direction** and defend it in a two-minute stand-up. A defensible direction is a single choice you can explain and stand behind.
 
-## Day by day
+## 2 · Do
 
 - **Mon 11-02.** Analyze Artist 2 against Artist 1 and name where they disagree about the theme. Plan the bridge piece: its composition, media, and what it carries from each artist. Get the plan signed off before you leave.
 - **Tue 11-03.** Make the bridge piece in one sustained session, no restarts. Set your finishing schedule and date it in your sketchbook.
@@ -64,7 +64,7 @@ A **bridge piece** is one work that carries your artist study into your own deve
 
 **A2** (exploration and artist study milestone, AO2+AO3) sits Mon 2026-11-09 — see the [[classes/a-level-art-design/assessments/9479-s1-assessments|full register]]. Choose Artist 2 to argue with Artist 1: the comparison names a tension, not a similarity.
 
-## Review
+## 3 · Check
 
 Check you can:
 

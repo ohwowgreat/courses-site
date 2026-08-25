@@ -34,7 +34,7 @@ modified: 2026-08-05
 
 This lesson is the first time you build a board. You spend two days on content, Neolithic image-making and ritual objects, then three days building. The board is the course in miniature: the same move repeats in every later unit. You produce **[[classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board|A1]]**, your Unit 1 board and a written justification, collected on Fri 2026-09-18. A mood board is not enough. The justification is what makes the board an argument, so it is the part to work hardest on.
 
-## The ideas
+## 1 · Learn
 
 ### The Neolithic and the made object
 
@@ -50,7 +50,7 @@ An **adjacency** is a pairing of two images placed next to each other on the boa
 
 Arrange the board so the argument is legible from the layout before anyone reads a word. The placement itself should carry the meaning. Do not start arranging before you have enough candidate images: if you build with too few, you arrange only what you happen to have.
 
-## Day by day
+## 2 · Do
 
 - **Mon 09-14.** Neolithic settlement and the made object: what changes in images when people stop moving. Gather candidate images, 30 min tonight.
 - **Tue 09-15.** Ritual objects and ancestral presence: what an object does, not only what it depicts. Gather candidate images, 30 min tonight.
@@ -72,7 +72,7 @@ Arrange the board so the argument is legible from the layout before anyone reads
 - You are marked on: every adjacency justified with a reason that could not be moved to a different pair; the argument legible from the layout before a word is read; objects described by what they do.
 - The grade is half collective and half individual: the group builds the board together, and you each write your own justification.
 
-## Review
+## 3 · Check
 
 Check you can:
 
