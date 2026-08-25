@@ -8,11 +8,6 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s1-assessments]]"
 modified: 2026-07-17
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/composition.jpg" alt="Clara Peeters, Still Life with Cheeses, Almonds and Pretzels, c. 1613" loading="lazy" />
-  <figcaption>Clara Peeters, <em>Still Life with Cheeses, Almonds and Pretzels</em>, c. 1613</figcaption>
-</figure>
-
 # S1 Unit 4: Development
 
 <div class="pagebar">
@@ -20,8 +15,12 @@ modified: 2026-07-17
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 4 of 5</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study" aria-label="Previous: Unit 3"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-5-final-outcome-and-portfolio" aria-label="Next: Unit 5"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/composition.jpg" alt="Clara Peeters, Still Life with Cheeses, Almonds and Pretzels, c. 1613" loading="lazy" />
+  <figcaption>Clara Peeters, <em>Still Life with Cheeses, Almonds and Pretzels</em>, c. 1613</figcaption>
+</figure>
 
-## What this unit does
+
 
 This is the development stage, under **AO3 Develop**. You build two full compositions: first the direction you chose, then the alternative you genuinely rejected. You critique both against your intention. Targeted tests then answer only what the critique left unresolved. The unit closes when you plan the final outcome completely, before [[classes/a-level-art-design/assessments/9479-s1-a3-development-milestone|A3]] reviews the whole development trail. AO3 closes into **AO4** in the final lesson.
 

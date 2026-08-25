@@ -8,11 +8,6 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s3-assessments]]"
 modified: 2026-07-18
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/cafe-terrace.jpg" alt="Vincent van Gogh, Café Terrace at Night, 1888" loading="lazy" />
-  <figcaption>Vincent van Gogh, <em>Café Terrace at Night</em>, 1888</figcaption>
-</figure>
-
 # S3 Unit 5: Final Outcomes
 
 <div class="pagebar">
@@ -20,8 +15,12 @@ modified: 2026-07-18
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 5 · 3rd of 4 this semester</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass" aria-label="Previous: Unit 4"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-6-assembly-and-submission" aria-label="Next: Unit 6"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/cafe-terrace.jpg" alt="Vincent van Gogh, Café Terrace at Night, 1888" loading="lazy" />
+  <figcaption>Vincent van Gogh, <em>Café Terrace at Night</em>, 1888</figcaption>
+</figure>
 
-## What this unit does
+
 
 You build both final outcomes and finish the research paper, under AO3 Develop and AO4 Present. You plan each outcome fully first, so nothing is left to the day itself: composition, palette, and materials. You build across merged multi-day runs, with a mid-production review while you can still change things, then you resolve and photograph each outcome to examiner standard. The two outcomes stay inside one investigation with one voice. The research paper reaches final text, with every claim pointing at real work. This unit carries **two attainments**: **[[classes/a-level-art-design/assessments/9479-s3-assessments|A2]]**, the whole-investigation mock review, before the Seniors week removes W9, and **[[classes/a-level-art-design/assessments/9479-s3-assessments|A3]]**, the final research paper.
 

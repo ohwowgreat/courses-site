@@ -1873,7 +1873,15 @@ for (const { rel, frontmatter: fm, body: cleaned, practice } of pages) {
       : null
     chrome = lessonChrome(body, depth, deckInfo, courseIndex)
   } else if (/\/unit-plans\//.test(rel)) {
-    chrome = unitChrome(body, depth, courseIndex)
+    // The unit hero rides beside the title as a side plate (unitChrome places
+    // it after the pagebar) rather than as the full-bleed banner lessons keep.
+    chrome = unitChrome(
+      body,
+      depth,
+      courseIndex,
+      HEROES[rel] ? figureHtml(HEROES[rel], depth, "plate plate--side") : null,
+    )
+    if (chrome && HEROES[rel]) chrome.heroPlaced = true
   }
   if (chrome) body = chrome.body
   if (deck && !chrome?.carded) body = insertDeckLine(body, deckLine(deck, depth))
@@ -1887,7 +1895,7 @@ for (const { rel, frontmatter: fm, body: cleaned, practice } of pages) {
   body = statStrip(body)
   // The closing prev/next, after Practice so it stays the last thing on the page.
   if (chrome?.footer) body = body.trimEnd() + "\n\n" + chrome.footer
-  if (HEROES[rel]) body = heroFigure(HEROES[rel], depth) + body
+  if (HEROES[rel] && !chrome?.heroPlaced) body = heroFigure(HEROES[rel], depth) + body
 
   const dest = join(OUT, rel)
   await mkdir(dirname(dest), { recursive: true })

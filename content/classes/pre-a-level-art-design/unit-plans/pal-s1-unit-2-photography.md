@@ -13,11 +13,6 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
 modified: 2026-07-21
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/the-great-wave.jpg" alt="Gustave Le Gray, The Great Wave, Sète, 1857" loading="lazy" />
-  <figcaption>Gustave Le Gray, <em>The Great Wave, Sète</em>, 1857</figcaption>
-</figure>
-
 # Unit 2: Photography
 
 <div class="pagebar">
@@ -25,8 +20,12 @@ modified: 2026-07-21
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 2 of 4</span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements" aria-label="Previous: Unit 1: Drawing"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage" aria-label="Next: Unit 3: Collage"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/the-great-wave.jpg" alt="Gustave Le Gray, The Great Wave, Sète, 1857" loading="lazy" />
+  <figcaption>Gustave Le Gray, <em>The Great Wave, Sète</em>, 1857</figcaption>
+</figure>
 
-## What this unit does
+
 
 Spine: **"Compose · intention."** Four Wednesday double sessions (W7–10) after the National Day break move observation from pencil to camera: framing, viewpoint, light, and above all *choosing*. The working motto is "shoot many, keep few, know why." The unit opens on your reviewed break-photo homework and closes on [[classes/pre-a-level-art-design/assessments/pal-s1-a2-photographic-series|A2]], a photographic series that you shoot, select, and sequence around one theme.
 

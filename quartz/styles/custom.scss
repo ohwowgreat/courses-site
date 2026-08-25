@@ -1952,3 +1952,37 @@ details.reveal {
     display: none;
   }
 }
+
+// The unit hero as a side plate: floated beside the title and lede (the picked
+// mockup's shape) instead of a full-bleed banner. The strip clears it so the
+// dashboard row always starts on its own line.
+.plate--side {
+  float: right;
+  width: 250px;
+  margin: 0.3rem 0 1.1rem 1.7rem;
+
+  img {
+    width: 100%;
+    border-radius: 3px;
+    display: block;
+  }
+
+  figcaption {
+    font-size: 0.72rem;
+    line-height: 1.5;
+    color: var(--gray);
+    margin-top: 0.4rem;
+  }
+}
+
+.stat-strip {
+  clear: both;
+}
+
+@media all and (max-width: 720px) {
+  .plate--side {
+    float: none;
+    width: 100%;
+    margin: 0.5rem 0 1rem;
+  }
+}

@@ -12,11 +12,6 @@ related:
   - "[[classes/media-studies/9607-resource-library]]"
 modified: 2026-08-10
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/kasebier-wild-west.jpg" alt="Gertrude Käsebier, American Indian Portrait, c. 1899 — a studio construction: who made the choices in this image, and for whom?" loading="lazy" />
-  <figcaption>Gertrude Käsebier, <em>American Indian Portrait</em>, c. 1899 — a studio construction: who made the choices in this image, and for whom?</figcaption>
-</figure>
-
 # Unit 4: Representation
 
 <div class="pagebar">
@@ -24,23 +19,28 @@ modified: 2026-08-10
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 4 of 6</span><a class="pb-arrow" href="../../../classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis" aria-label="Previous: Unit 3"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts" aria-label="Next: Unit 5"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/kasebier-wild-west.jpg" alt="Gertrude Käsebier, American Indian Portrait, c. 1899 — a studio construction: who made the choices in this image, and for whom?" loading="lazy" />
+  <figcaption>Gertrude Käsebier, <em>American Indian Portrait</em>, c. 1899 — a studio construction: who made the choices in this image, and for whom?</figcaption>
+</figure>
+
 
 **Concepts:** [[concepts/representation|Representation]] · [[concepts/production-craft|Production Craft]] · [[concepts/process-evidence-and-reflection|Process Evidence and Reflection]]
 
-## What this unit does
 
 You learn **Representation** as construction, then turn it on your own work. [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2]] opens the unit. You screen rough cuts under audience conditions and audit them for the stereotypes their makers did not notice, while there is still production time to fix them. You test gaze theory across decades instead of reciting it. You draft the CCR, review it against the real C1 criteria, and redraft it to reflect rather than describe.
 
 *Numbering note: "U4" here is the S1 calendar band. In the coursebook's separate "Units 1–8" numbering, Representation is Unit 3.*
 
-## Dates & span
-
-**W9–W12: Mon 2026-10-26 → Fri 11-20**, 14 teaching days (L11: 6, L12: 4, L13: 4). W10 runs Mon–Tue only, before Juniors Days. Mid-term grades fall Thu 10-29. These dates may shift when the school publishes the calendar for that period.
-
 <dl class="stat-strip">
+  <div class="stat"><dt>Span</dt><dd>W9–W12<span class="stat-x">14 teaching days</span></dd></div>
   <div class="stat"><dt>Lessons</dt><dd>3<span class="stat-x">L11–L13</span></dd></div>
   <div class="stat"><dt>Graded items</dt><dd>4</dd></div>
 </dl>
+
+## Dates & span
+
+**W9–W12: Mon 2026-10-26 → Fri 11-20**, 14 teaching days (L11: 6, L12: 4, L13: 4). W10 runs Mon–Tue only, before Juniors Days. Mid-term grades fall Thu 10-29. These dates may shift when the school publishes the calendar for that period.
 
 ## Lessons
 

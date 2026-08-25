@@ -17,11 +17,6 @@ related:
   - "[[analyses/9607-curriculum-drift]]"
 modified: 2026-08-09
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/migrant-mother.jpg" alt="Dorothea Lange, Migrant Mother, 1936 — one frame chosen from six exposures, then cropped" loading="lazy" />
-  <figcaption>Dorothea Lange, <em>Migrant Mother</em>, 1936 — one frame chosen from six exposures, then cropped</figcaption>
-</figure>
-
 # Unit 2: Media Language (Micro Elements)
 
 <div class="pagebar">
@@ -29,10 +24,14 @@ modified: 2026-08-09
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 2 of 6</span><a class="pb-arrow" href="../../../classes/media-studies/unit-plans/9607-s1-unit-1-introduction" aria-label="Previous: Unit 1"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis" aria-label="Next: Unit 3"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/migrant-mother.jpg" alt="Dorothea Lange, Migrant Mother, 1936 — one frame chosen from six exposures, then cropped" loading="lazy" />
+  <figcaption>Dorothea Lange, <em>Migrant Mother</em>, 1936 — one frame chosen from six exposures, then cropped</figcaption>
+</figure>
+
 
 **Concepts:** [[concepts/media-language|Media Language]] · [[concepts/technical-elements|Technical Elements]] · [[concepts/production-craft|Production Craft]] · [[concepts/media-vocabulary|Media Vocabulary]]
 
-## What this unit does
 
 This unit covers the micro end of media language. You start with a compact semiotic foundation. Then you take **the four technical elements** one lesson at a time, with equipment in hand. Then you bring everything together on one unseen extract and lock the Component 1 plan before the break.
 
@@ -40,14 +39,15 @@ The unit follows the Scheme of Work's structure for the Foundation Portfolio: **
 
 Genre and narrative are not in this unit. You study them in [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis|Unit 3]].
 
-## Dates & span
-
-**W2 to W6: Mon 2026-09-07 → Fri 10-09**, 15 teaching days. Fri 09-25 is lost to Mid-Autumn Festival. The National Day break sits between Wed 09-30 and Fri 10-09. W6 gives one session, Fri 10-09, which is part of L07.
-
 <dl class="stat-strip">
+  <div class="stat"><dt>Span</dt><dd>W2–W6<span class="stat-x">15 teaching days</span></dd></div>
   <div class="stat"><dt>Lessons</dt><dd>6<span class="stat-x">L02–L07</span></dd></div>
   <div class="stat"><dt>Graded items</dt><dd>8</dd></div>
 </dl>
+
+## Dates & span
+
+**W2 to W6: Mon 2026-09-07 → Fri 10-09**, 15 teaching days. Fri 09-25 is lost to Mid-Autumn Festival. The National Day break sits between Wed 09-30 and Fri 10-09. W6 gives one session, Fri 10-09, which is part of L07.
 
 ## Lessons
 

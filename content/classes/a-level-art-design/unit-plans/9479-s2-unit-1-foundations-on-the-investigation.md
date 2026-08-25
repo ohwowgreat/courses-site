@@ -7,11 +7,6 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s2-assessments]]"
 modified: 2026-07-18
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/first-marks.jpg" alt="Ilya Repin, Leo Tolstoy at Work, 1891" loading="lazy" />
-  <figcaption>Ilya Repin, <em>Leo Tolstoy at Work</em>, 1891</figcaption>
-</figure>
-
 # S2 Unit 1: Foundations on the Investigation
 
 <div class="pagebar">
@@ -19,8 +14,12 @@ modified: 2026-07-18
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 1 of 5</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s2-unit-2-recording-and-sustained-study" aria-label="Next: Unit 2"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/first-marks.jpg" alt="Ilya Repin, Leo Tolstoy at Work, 1891" loading="lazy" />
+  <figcaption>Ilya Repin, <em>Leo Tolstoy at Work</em>, 1891</figcaption>
+</figure>
 
-## What this unit does
+
 
 This unit opens Component 3 at its foundations stage. You read a 90/100 investigation and name what earns the marks. Then you propose three candidate themes and defend them one to one. Each theme is screened against primary sources you can actually reach and against all eight pipeline stages. You **lock one theme in writing**: you propose it, and the teacher approves it against the exemplar criteria. The unit closes with a statement of intent in your own words, a research plan, and your first primary-source shoot. Locked means locked: your investigation runs on this theme to submission next December.
 

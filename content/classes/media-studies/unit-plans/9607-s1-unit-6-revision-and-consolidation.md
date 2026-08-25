@@ -11,11 +11,6 @@ related:
   - "[[classes/media-studies/9607-resource-library]]"
 modified: 2026-08-10
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/musicians.jpg" alt="Caravaggio, The Musicians, 1595 — rehearsal, mid-note" loading="lazy" />
-  <figcaption>Caravaggio, <em>The Musicians</em>, 1595 — rehearsal, mid-note</figcaption>
-</figure>
-
 # Unit 6: Revision and Consolidation
 
 > [!note] Winter break
@@ -26,23 +21,28 @@ modified: 2026-08-10
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Unit 6 of 6</span><a class="pb-arrow" href="../../../classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts" aria-label="Previous: Unit 5"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/musicians.jpg" alt="Caravaggio, The Musicians, 1595 — rehearsal, mid-note" loading="lazy" />
+  <figcaption>Caravaggio, <em>The Musicians</em>, 1595 — rehearsal, mid-note</figcaption>
+</figure>
+
 
 **Concepts:** [[concepts/four-key-concepts|Four Key Concepts]] · [[concepts/technical-elements|Technical Elements]] · [[concepts/case-study-method|Case Study Method]]
 
-## What this unit does
 
 You review the semester's knowledge, drill it, then sit it. [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]] feedback becomes your targets. The **coverage matrix** crosses every case study against the four Key Concepts to find the gaps [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|HW2]] fills over the break. Exam rehearsal makes the paper routine: format, timing, and the mark scheme's **AO economy** (how marks are earned across the Assessment Objectives) are all rehearsed. Then you sit the full two-hour Component 2 in the school exam window. It returns as question-level AO data and one-page Semester 2 target sheets.
 
 *Numbering note: "U6" here is the S1 calendar band (revision, no coursebook counterpart). L19's Semester 2 preview "U6 to U8" refers to the coursebook's separate "Units 1–8" numbering.*
 
-## Dates & span
-
-**W17–W21: Mon 2026-12-21 → Wed 2027-01-20**, 9 teaching days, plus the exam window Mon 2027-01-11 → Mon 01-18. Last teaching day is Fri 01-08. Winter break runs Thu 12-24 → Sun 01-03, continuous.
-
 <dl class="stat-strip">
+  <div class="stat"><dt>Span</dt><dd>W17–W21<span class="stat-x">9 teaching days</span></dd></div>
   <div class="stat"><dt>Lessons</dt><dd>3<span class="stat-x">L17–L19</span></dd></div>
   <div class="stat"><dt>Graded items</dt><dd>5</dd></div>
 </dl>
+
+## Dates & span
+
+**W17–W21: Mon 2026-12-21 → Wed 2027-01-20**, 9 teaching days, plus the exam window Mon 2027-01-11 → Mon 01-18. Last teaching day is Fri 01-08. Winter break runs Thu 12-24 → Sun 01-03, continuous.
 
 ## Lessons
 

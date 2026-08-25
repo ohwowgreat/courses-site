@@ -10,11 +10,6 @@ related:
   - "[[classes/art-appreciation/assessments/art-appreciation-s1-assessments]]"
 modified: 2026-07-19
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/deer-mandala.jpg" alt="Deer Mandala of the Kasuga Shrine, 15th century — a symbol: it means by convention alone" loading="lazy" />
-  <figcaption><em>Deer Mandala of the Kasuga Shrine</em>, 15th century — a symbol: it means by convention alone</figcaption>
-</figure>
-
 # Unit 1: Origins and Ancestral Memory
 
 <div class="pagebar">
@@ -22,8 +17,12 @@ modified: 2026-07-19
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 1 of 5</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/deer-mandala.jpg" alt="Deer Mandala of the Kasuga Shrine, 15th century — a symbol: it means by convention alone" loading="lazy" />
+  <figcaption><em>Deer Mandala of the Kasuga Shrine</em>, 15th century — a symbol: it means by convention alone</figcaption>
+</figure>
 
-## What this unit does
+
 
 This unit installs the course method in one move. The method is the **atlas**, from the art historian **Aby Warburg**. It is thematic and non-linear. It groups images by resemblance, not by date. You meet it on day one.
 
@@ -33,17 +32,17 @@ The darkroom session in Lesson 01 shows an image stop being a screen and become 
 
 Key theorist: Aby Warburg. Key material: cave imagery, Neolithic figures, ritual objects.
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Lessons</dt><dd>3<span class="stat-x">L01–L03</span></dd></div>
+  <div class="stat"><dt>Graded items</dt><dd>3</dd></div>
+</dl>
+
 ## Dates and span
 
 - **Weeks 1–3**: Tue 2026-09-01 to Fri 2026-09-18. 14 sessions (3 + 6 + 5), no holidays.
 - [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS1]] sits Fri 2026-09-04, exactly 14 days before [[classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board|A1]].
 
 These dates may shift when the school publishes the calendar for this period.
-
-<dl class="stat-strip">
-  <div class="stat"><dt>Lessons</dt><dd>3<span class="stat-x">L01–L03</span></dd></div>
-  <div class="stat"><dt>Graded items</dt><dd>3</dd></div>
-</dl>
 
 ## Lessons
 

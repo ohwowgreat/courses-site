@@ -8,11 +8,6 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
 modified: 2026-07-18
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/composition.jpg" alt="Clara Peeters, Still Life with Cheeses, Almonds and Pretzels, c. 1613" loading="lazy" />
-  <figcaption>Clara Peeters, <em>Still Life with Cheeses, Almonds and Pretzels</em>, c. 1613</figcaption>
-</figure>
-
 # S4 Unit 4: Development
 
 <div class="pagebar">
@@ -20,8 +15,12 @@ modified: 2026-07-18
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 4 of 5</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-3-exploration-and-artist-study" aria-label="Previous: Unit 3"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-5-supervised-test-and-submission" aria-label="Next: Unit 5"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/composition.jpg" alt="Clara Peeters, Still Life with Cheeses, Almonds and Pretzels, c. 1613" loading="lazy" />
+  <figcaption>Clara Peeters, <em>Still Life with Cheeses, Almonds and Pretzels</em>, c. 1613</figcaption>
+</figure>
 
-## What this unit does
+
 
 This is the development stage. It covers **AO3 Develop** closing into **AO4 Present**. You compose your final-piece candidates from your own studies. The test then realizes one of them. You compare the candidates on a **draft comparison page** and write out why you rejected the others. You fix a final composition plan so nothing is invented under supervision. You complete every supporting study and decide the mounted order. Content closes at [[classes/a-level-art-design/assessments/9479-s4-assessments|A3]]. Nothing new is taught after it. There is one taught development week, widened only by the elastic window (reading B, or any earlier CNY opening).
 

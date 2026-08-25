@@ -8,11 +8,6 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s3-assessments]]"
 modified: 2026-07-18
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/repin-cossacks-study.jpg" alt="Ilya Repin, study for Reply of the Zaporozhian Cossacks, 1878" loading="lazy" />
-  <figcaption>Ilya Repin, study for <em>Reply of the Zaporozhian Cossacks</em>, 1878</figcaption>
-</figure>
-
 # S3 Unit 4: Development, Second Pass
 
 <div class="pagebar">
@@ -20,8 +15,12 @@ modified: 2026-07-18
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 4 · 2nd of 4 this semester</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-1-review-and-goal-setting" aria-label="Previous: Unit 1"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-5-final-outcomes" aria-label="Next: Unit 5"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/repin-cossacks-study.jpg" alt="Ilya Repin, study for Reply of the Zaporozhian Cossacks, 1878" loading="lazy" />
+  <figcaption>Ilya Repin, study for <em>Reply of the Zaporozhian Cossacks</em>, 1878</figcaption>
+</figure>
 
-## What this unit does
+
 
 This unit finishes the development pass, under **AO3 Develop**. You compose final-outcome candidates from your summer production, not from memory. You carry two candidates forward and build both to the same standard. Targeted tests change the composition based on evidence. A structured critique and a written evaluation build the decision trail on your **Stage 6** page. You complete **research paper draft 2** section by section, and your teacher marks it. Before the milestone, you run a self-check against the AO3 descriptors. The unit closes with **[[classes/a-level-art-design/assessments/9479-s3-assessments|A1]]**, marked against AO3.
 

@@ -5,7 +5,7 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-semester-2-outline]]"
   - "[[classes/art-appreciation/assessments/art-appreciation-s1-assessments]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-29
+modified: 2026-08-25
 ---
 <figure class="plate plate--hero">
   <img src="../../static/img/art-appreciation.jpg" alt="Pieter Bruegel the Elder, The Peasant Wedding, 1567" loading="lazy" />

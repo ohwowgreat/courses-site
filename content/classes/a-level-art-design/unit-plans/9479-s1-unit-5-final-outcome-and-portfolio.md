@@ -7,11 +7,6 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s1-assessments]]"
 modified: 2026-07-17
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/cafe-terrace.jpg" alt="Vincent van Gogh, Café Terrace at Night, 1888" loading="lazy" />
-  <figcaption>Vincent van Gogh, <em>Café Terrace at Night</em>, 1888</figcaption>
-</figure>
-
 # S1 Unit 5: Final Outcome & Portfolio
 
 <div class="pagebar">
@@ -19,8 +14,12 @@ modified: 2026-07-17
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Unit 5 of 5</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-4-development" aria-label="Previous: Unit 4"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/cafe-terrace.jpg" alt="Vincent van Gogh, Café Terrace at Night, 1888" loading="lazy" />
+  <figcaption>Vincent van Gogh, <em>Café Terrace at Night</em>, 1888</figcaption>
+</figure>
 
-## What this unit does
+
 
 This is the final-outcome and portfolio stage, under **AO4 Present**. You build the final outcome in one protected run: four build days, a mid-production review with real time still left, then three resolve days, all set out in the Lesson 14 plan. Submission week treats assembly as a supervised craft. You photograph the work at examiner grade, sequence the whole journey, edit it with a cut log, and submit **[[classes/a-level-art-design/assessments/9479-s1-a4-final-portfolio|A4]]**, the final portfolio. A4 is marked across AO1–AO4 and closes the semester.
 

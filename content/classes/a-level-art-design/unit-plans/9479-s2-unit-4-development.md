@@ -8,11 +8,6 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s2-assessments]]"
 modified: 2026-07-18
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/repin-cossacks-study.jpg" alt="Ilya Repin, study for Reply of the Zaporozhian Cossacks, 1878" loading="lazy" />
-  <figcaption>Ilya Repin, study for <em>Reply of the Zaporozhian Cossacks</em>, 1878</figcaption>
-</figure>
-
 # S2 Unit 4: Development
 
 <div class="pagebar">
@@ -20,8 +15,12 @@ modified: 2026-07-18
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 4 of 5</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s2-unit-3-exploration-and-artist-study" aria-label="Previous: Unit 3"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s2-unit-5-mid-point-portfolio" aria-label="Next: Unit 5"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/repin-cossacks-study.jpg" alt="Ilya Repin, study for Reply of the Zaporozhian Cossacks, 1878" loading="lazy" />
+  <figcaption>Ilya Repin, study for <em>Reply of the Zaporozhian Cossacks</em>, 1878</figcaption>
+</figure>
 
-## What this unit does
+
 
 This is the development stage, under **AO3 Develop**, with the research paper drafted at the same time. You build two competing compositions to the same resolved standard: your chosen direction and a genuinely rejected alternative. You critique both against your intention. Targeted tests then answer only what the critique left unresolved. You choose the final direction and write out why you rejected the other. You write the evaluation and assemble the Stage 6 page, which is the record of your decisions. You also complete research paper **draft 1** from your contextual writing, following a teacher-set outline. The unit closes with **[[classes/a-level-art-design/assessments/9479-s2-assessments|A3]]**, marked against AO3 with written and practical work seen together.
 

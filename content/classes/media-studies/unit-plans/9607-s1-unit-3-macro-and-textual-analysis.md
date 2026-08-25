@@ -13,11 +13,6 @@ related:
   - "[[analyses/9607-curriculum-drift]]"
 modified: 2026-08-09
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/folies-bergere.jpg" alt="Édouard Manet, A Bar at the Folies-Bergère, 1882 — who is looking at whom? the mirror refuses to agree" loading="lazy" />
-  <figcaption>Édouard Manet, <em>A Bar at the Folies-Bergère</em>, 1882 — who is looking at whom? the mirror refuses to agree</figcaption>
-</figure>
-
 # Unit 3: Macro and Textual Analysis
 
 <div class="pagebar">
@@ -25,25 +20,30 @@ modified: 2026-08-09
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 3 of 6</span><a class="pb-arrow" href="../../../classes/media-studies/unit-plans/9607-s1-unit-2-media-language" aria-label="Previous: Unit 2"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/media-studies/unit-plans/9607-s1-unit-4-representation" aria-label="Next: Unit 4"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/folies-bergere.jpg" alt="Édouard Manet, A Bar at the Folies-Bergère, 1882 — who is looking at whom? the mirror refuses to agree" loading="lazy" />
+  <figcaption>Édouard Manet, <em>A Bar at the Folies-Bergère</em>, 1882 — who is looking at whom? the mirror refuses to agree</figcaption>
+</figure>
+
 
 **Concepts:** [[concepts/the-viewing-protocol|The Viewing Protocol]] · [[concepts/media-language|Media Language]] · [[concepts/narrative|Narrative]] · [[concepts/process-evidence-and-reflection|Process Evidence and Reflection]]
 
-## What this unit does
 
 This is the first attainment band, and it covers the macro elements. The week opens by turning a month of technical teaching into exam method: the full lexicon you are tested on, the **viewing protocol**, and the **PEEM** paragraph. You then sit **[[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]]** on Wed 10-14. The two weeks after that teach the macro end of media language, genre and narrative, and audit every Component 1 blog against the checklist [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2]] is marked with.
 
 Genre and narrative sit in this unit, after A1, rather than in Unit 2.
+
+<dl class="stat-strip">
+  <div class="stat"><dt>Span</dt><dd>W7–W8<span class="stat-x">8 teaching days</span></dd></div>
+  <div class="stat"><dt>Lessons</dt><dd>3<span class="stat-x">L08–L10</span></dd></div>
+  <div class="stat"><dt>Graded items</dt><dd>3</dd></div>
+</dl>
 
 ## Dates & span
 
 **W7 to W8: Mon 2026-10-12 → Fri 10-23**, 8 teaching days (L08: 3, L09: 2, L10: 3).
 
 These dates may shift when the school publishes its calendar for that period.
-
-<dl class="stat-strip">
-  <div class="stat"><dt>Lessons</dt><dd>3<span class="stat-x">L08–L10</span></dd></div>
-  <div class="stat"><dt>Graded items</dt><dd>3</dd></div>
-</dl>
 
 ## Lessons
 

@@ -8,11 +8,6 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
 modified: 2026-07-18
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/observation.jpg" alt="Vincent van Gogh, The Potato Peeler, 1885" loading="lazy" />
-  <figcaption>Vincent van Gogh, <em>The Potato Peeler</em>, 1885</figcaption>
-</figure>
-
 # S4 Unit 2: Recording
 
 <div class="pagebar">
@@ -20,8 +15,12 @@ modified: 2026-07-18
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 2 of 5</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-1-foundations-on-the-question" aria-label="Previous: Unit 1"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-3-exploration-and-artist-study" aria-label="Next: Unit 3"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/observation.jpg" alt="Vincent van Gogh, The Potato Peeler, 1885" loading="lazy" />
+  <figcaption>Vincent van Gogh, <em>The Potato Peeler</em>, 1885</figcaption>
+</figure>
 
-## What this unit does
+
 
 This is the recording stage at **exam pace**, under AO1 Record. You state an intention on your chosen question and plan the reference shoot in the same session. You shoot and draw your self-generated reference within the same week. You open one observed study and sustain it without restarting. Your annotation ties every page to the question. You build your recording pages as the work happens: there is no later. The unit closes with **[[classes/a-level-art-design/assessments/9479-s4-assessments|A1]]**, marked against AO1.
 

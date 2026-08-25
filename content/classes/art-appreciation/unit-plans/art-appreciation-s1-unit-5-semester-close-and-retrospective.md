@@ -10,11 +10,6 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-semester-2-outline]]"
 modified: 2026-08-06
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/wanderer.jpg" alt="Caspar David Friedrich, Wanderer Above the Sea of Fog, 1818 — who is he? what does he see? the enigma code at work" loading="lazy" />
-  <figcaption>Caspar David Friedrich, <em>Wanderer Above the Sea of Fog</em>, 1818 — who is he? what does he see? the enigma code at work</figcaption>
-</figure>
-
 # Unit 5: Semester Close and Retrospective
 
 <div class="pagebar">
@@ -22,10 +17,19 @@ modified: 2026-08-06
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Unit 5 of 5</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/wanderer.jpg" alt="Caspar David Friedrich, Wanderer Above the Sea of Fog, 1818 — who is he? what does he see? the enigma code at work" loading="lazy" />
+  <figcaption>Caspar David Friedrich, <em>Wanderer Above the Sea of Fog</em>, 1818 — who is he? what does he see? the enigma code at work</figcaption>
+</figure>
 
-## What this unit does
+
 
 This unit reads the whole semester back as one argument. The End-of-Term retrospective is your third constellation of the year, after the A1 board and the [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis|A4]] synthesis, and it works at the largest scale. You start with an inventory: everything on the wall, no arranging. Then you defend the three works from your break homework against someone who chose differently. A last workshop follows, then the sit, then a forward look. The exam window holds no exam for this course; it is the marking window. After it come three uncoded, weightless return days: one-to-one feedback, Semester 2 goals about a practice rather than a grade, and the only preview of Semester 2.
+
+<dl class="stat-strip">
+  <div class="stat"><dt>Lessons</dt><dd>2<span class="stat-x">L14–L15</span></dd></div>
+  <div class="stat"><dt>Graded items</dt><dd>3</dd></div>
+</dl>
 
 ## Dates and span
 
@@ -35,11 +39,6 @@ This unit reads the whole semester back as one argument. The End-of-Term retrosp
 - Exam window Mon 2027-01-11 to Mon 2027-01-18: no exam for this course. It is used to mark the retrospective.
 - **Grades and comments due Wed 2027-01-20.** [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB9]] (Tue 2027-01-19) lands after this deadline and carries no Semester 1 weight. It counts toward Semester 2.
 - Last school day Fri 2027-01-22. Winter vacation 2027-01-24 to 02-21.
-
-<dl class="stat-strip">
-  <div class="stat"><dt>Lessons</dt><dd>2<span class="stat-x">L14–L15</span></dd></div>
-  <div class="stat"><dt>Graded items</dt><dd>3</dd></div>
-</dl>
 
 ## Lessons
 

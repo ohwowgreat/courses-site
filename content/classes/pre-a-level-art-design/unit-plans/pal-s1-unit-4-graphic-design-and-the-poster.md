@@ -12,11 +12,6 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
 modified: 2026-07-21
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/mucha-poster.jpg" alt="Alphonse Mucha, Calendar of Cherry Blossom, 1898" loading="lazy" />
-  <figcaption>Alphonse Mucha, <em>Calendar of Cherry Blossom</em>, 1898</figcaption>
-</figure>
-
 # Unit 4: Graphic Design & the Poster
 
 <div class="pagebar">
@@ -24,8 +19,12 @@ modified: 2026-07-21
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Unit 4 of 4</span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage" aria-label="Previous: Unit 3: Collage"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/mucha-poster.jpg" alt="Alphonse Mucha, Calendar of Cherry Blossom, 1898" loading="lazy" />
+  <figcaption>Alphonse Mucha, <em>Calendar of Cherry Blossom</em>, 1898</figcaption>
+</figure>
 
-## What this unit does
+
 
 This unit turns composition into communication. Its spine is **"Communicate · audience."** It runs over three Wednesday doubles: W16, W17, and W19. There is no class in W18, which falls in the winter break (Thu 2026-12-24 to Sun 2027-01-03).
 

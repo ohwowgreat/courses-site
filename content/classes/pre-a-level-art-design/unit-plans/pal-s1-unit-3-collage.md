@@ -14,11 +14,6 @@ related:
   - "[[classes/pre-a-level-art-design/pal-resource-library]]"
 modified: 2026-07-21
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/lissitzky-schwitters.jpg" alt="El Lissitzky, Kurt Schwitters, c. 1924 — a photomontage portrait of the great collagist" loading="lazy" />
-  <figcaption>El Lissitzky, <em>Kurt Schwitters</em>, c. 1924 — a photomontage portrait of the great collagist</figcaption>
-</figure>
-
 # Unit 3: Collage
 
 <div class="pagebar">
@@ -26,8 +21,12 @@ modified: 2026-07-21
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 3 of 4</span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography" aria-label="Previous: Unit 2: Photography"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster" aria-label="Next: Unit 4: Graphic Design &amp; the Poster"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/lissitzky-schwitters.jpg" alt="El Lissitzky, Kurt Schwitters, c. 1924 — a photomontage portrait of the great collagist" loading="lazy" />
+  <figcaption>El Lissitzky, <em>Kurt Schwitters</em>, c. 1924 — a photomontage portrait of the great collagist</figcaption>
+</figure>
 
-## What this unit does
+
 
 The spine is **"Combine · meaning."** Five Wednesday double sessions (W11–15) move from single images to combinations. You start with **juxtaposition** and **scale**, the idea that two images together say a third thing. Then you work on **layering** and text-with-image. Then you draft toward one final collage, made in class for [[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage|A3]]. This is the semester's longest unit.
 

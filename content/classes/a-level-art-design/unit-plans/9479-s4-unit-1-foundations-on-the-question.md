@@ -7,11 +7,6 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
 modified: 2026-07-18
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/banqueting-sketch.jpg" alt="Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from" loading="lazy" />
-  <figcaption>Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from</figcaption>
-</figure>
-
 # S4 Unit 1: Foundations on the Question
 
 <div class="pagebar">
@@ -19,8 +14,12 @@ modified: 2026-07-18
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 1 of 5</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-2-recording" aria-label="Next: Unit 2"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/banqueting-sketch.jpg" alt="Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from" loading="lazy" />
+  <figcaption>Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from</figcaption>
+</figure>
 
-## What this unit does
+
 
 This unit opens the Component 2 Externally Set Assignment. You work from the Cambridge paper itself, given out over the vacation. You read the paper closely. You name each question for what it permits and what it quietly forbids. You match your choice to your **proven strengths from C1 and C3**, shown by your drawing regimen and past work, not by hopes. You defend two candidate questions one to one. You lock one question in writing with a rationale by Friday. The whole semester runs on it. This is the exam.
 

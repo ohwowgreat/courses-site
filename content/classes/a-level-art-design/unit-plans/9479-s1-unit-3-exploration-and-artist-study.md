@@ -8,11 +8,6 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s1-assessments]]"
 modified: 2026-07-17
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/mark-making.jpg" alt="Peter Paul Rubens, Anatomical Studies, pen and ink, c. 1605" loading="lazy" />
-  <figcaption>Peter Paul Rubens, <em>Anatomical Studies</em>, pen and ink, c. 1605</figcaption>
-</figure>
-
 # S1 Unit 3: Exploration & Artist Study
 
 <div class="pagebar">
@@ -20,8 +15,12 @@ modified: 2026-07-17
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 3 of 5</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study" aria-label="Previous: Unit 2"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-4-development" aria-label="Next: Unit 4"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/mark-making.jpg" alt="Peter Paul Rubens, Anatomical Studies, pen and ink, c. 1605" loading="lazy" />
+  <figcaption>Peter Paul Rubens, <em>Anatomical Studies</em>, pen and ink, c. 1605</figcaption>
+</figure>
 
-## What this unit does
+
 
 This is the exploration and artist-study stage. The front half carries **AO2 Explore**: twelve prescribed media experiments, evidence-based selection, and a scale trial at outcome size. The back half opens **AO3**: two artist studies chosen to solve, then argue about, your problem, plus the bridge piece that carries the study into development. The unit closes with [[classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study|A2]], marked against AO2 and AO3 together.
 

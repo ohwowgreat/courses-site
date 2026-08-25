@@ -5,16 +5,16 @@ related:
   - "[[classes/media-studies/unit-plans/9607-course-map]]"
   - "[[classes/media-studies/assessments/9607-s1-assessments]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-08-09
+modified: 2026-08-25
 ---
 # Media Studies · Semester 1 Plan
 
 > [[classes/media-studies/media-studies|Media Studies]] · Semester 1 of 4 ([[classes/media-studies/unit-plans/9607-course-map|course map]]) · next: S2 C1 submission + Paper 2
 
-**G11 (AS year), autumn 2026-27.** This semester runs across **63 teaching days in 21 weeks**, with 19 lessons built around deliverables. The goal: you master media language and textual analysis, launch and complete **Component 1** internally by **Fri 2026-11-27**, and build the craft for C2 Section A. Dates follow the [[calendar|school calendar]]. Future dates may shift when the school publishes the calendar for that period.
+**G11 (AS year), autumn 2026-27.** This semester runs 19 lessons across 21 weeks. The goal: master media language and textual analysis, launch, produce and complete **Component 1 by Fri 2026-11-27**, and establish C2 Section A craft. Dates follow the [[calendar|school calendar]] and may shift if the school updates it.
 
-> [!important] Weekly shape
-> Lessons run as singles on Mon, Tue, and Fri, plus a **double on Wed**. Every in-class assessment sits in the Wednesday double.
+> [!note] Timetable
+> Your Media Studies sessions are **Mon P6, Wed P6+P7 (double), Thu P1, and Fri P6**, in room 710. Sit dates: **A1** Wed 10-14, **A2** due Mon 10-26, **A3** due Fri 11-27, **A4** Wed 12-16, and **EoT** in the exam window. Because Wednesday is a double, every sit keeps its date. A lost Wednesday costs a full unit stage, so attendance matters.
 
 ## The six units
 
@@ -33,7 +33,7 @@ Each unit page lists its lessons. Full register: [[classes/media-studies/assessm
 
 **Full briefs** (objectives, task, instructions, rubric): [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1 Timed Analysis]] · [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point|A2 Blog Mid-Point]] · [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio|A3 C1 Portfolio]] · [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4 Section A]] · [[classes/media-studies/assessments/9607-s1-eot-component-2-paper|End of Term Exam]].
 
-Dates, notice, and the CS/LB layers are in the register.
+Dates, notice and the CS and LB layers are in the register.
 
 ## Week by week
 
@@ -42,7 +42,7 @@ Dates, notice, and the CS/LB layers are in the register.
 | W1 | 09-01 → 04 | The four Key Concepts on a known text; blog set-up; [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS1]] |
 | W2 | 09-07 → 11 | Semiotics, signs and codes in one week; **media area decided Wed**; [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS2]] |
 | W3 | 09-14 → 18 | **Camera** ([[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS3]] six-shot rebuild) then **Sound** ([[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS4]] soundscape) |
-| W4 | 09-20 → 23 | **Mise-en-scène** (CS5 design board); **Editing** opens in the Wed double. Fri is lost to Mid-Autumn; a Sunday make-up day will be confirmed in class |
+| W4 | 09-20 → 23 | **Mise-en-scène** (CS5 design board); **Editing** opens in the Wed double (Fri lost to Mid-Autumn) |
 | W5 | 09-28 → 30 | Editing closes ([[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS6]]); integration paragraph ([[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS7]]); **C1 planning locked**; [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|HW1]] set |
 | W6 | 10-09 | Single post-holiday day: break footage reviewed, HW1 debrief, [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB1]] |
 | W7 | 10-12 → 16 | [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS8]] lexicon quiz; viewing protocol + PEEM; **A1 Wed 10-14** (60-min unseen analysis); genre opens Fri |
@@ -52,11 +52,11 @@ Dates, notice, and the CS/LB layers are in the register.
 | W11 | 11-09 → 13 | The gaze (van Zoonen, Mulvey, hooks); [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS10]] |
 | W12 | 11-16 → 20 | CCR drafted from blog evidence; [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS11]] review vs C1 criteria |
 | W13 | 11-23 → 27 | Audiences; CCR surgery; **A3 Fri 11-27: C1 complete, no edits after** |
-| W14 | 11-30 → 12-01 | U&G; A3 returned (Juniors Days Wed–Fri) |
-| W15 | 12-07 → 11 | Morley; institutions; [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS12]] guided Section A; C2 case-study document opened |
-| W16 | 12-14 → 18 | Integration/synergy/convergence; **A4 Wed 12-16** (authentic Section A format) |
+| W14 | 11-30 → 12-01 | U&G; A3 returned; Juniors Days Wed–Fri |
+| W15 | 12-07 → 11 | Morley; institutions; [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS12]] guided Section A; C2 case-study document started |
+| W16 | 12-14 → 18 | Integration, synergy, convergence; **A4 Wed 12-16** (authentic Section A format) |
 | W17 | 12-21 → 23 | A4 self-assessment; coverage matrix; **EoT announced**; [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|HW2]] set |
-| W18 | 12-29 → 30 | Whether this week has teaching will be confirmed in class |
+| W18 | — | Winter break, continuous through 01-03 ([[calendar|calendar]]) |
 | W19 | 01-04 → 08 | Exam rehearsal; HW2 due Mon; [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS13]] timed Section B; Fri = last teaching day |
 | W20 | 01-11 → 18 | **EoT: full 2-hour Component 2** in the exam window |
-| W21 | 01-19 → 20 | Scripts + AO breakdowns; S2 target sheets; grades due Wed 01-20 |
+| W21 | 01-19 → 20 | Scripts + AO breakdowns; S2 target sheets |

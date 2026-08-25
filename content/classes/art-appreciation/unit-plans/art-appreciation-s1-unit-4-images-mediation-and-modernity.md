@@ -12,11 +12,6 @@ related:
   - "[[classes/art-appreciation/assessments/art-appreciation-s1-assessments]]"
 modified: 2026-08-06
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/le-gras.jpg" alt="Joseph Nicéphore Niépce, View from the Window at Le Gras, 1826. The first photograph, and eight hours of light" loading="lazy" />
-  <figcaption>Joseph Nicéphore Niépce, <em>View from the Window at Le Gras</em>, 1826. The first photograph, and eight hours of light</figcaption>
-</figure>
-
 # Unit 4: Images, Mediation and Modernity
 
 <div class="pagebar">
@@ -24,12 +19,21 @@ modified: 2026-08-06
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 4 of 5</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/le-gras.jpg" alt="Joseph Nicéphore Niépce, View from the Window at Le Gras, 1826. The first photograph, and eight hours of light" loading="lazy" />
+  <figcaption>Joseph Nicéphore Niépce, <em>View from the Window at Le Gras</em>, 1826. The first photograph, and eight hours of light</figcaption>
+</figure>
 
-## What this unit does
+
 
 This unit teaches the main theorists of the course, in teaching order. **John Berger** argues that a reproduction is not a neutral copy. **Walter Benjamin** describes the **aura** of an artwork. You meet this idea through ukiyo-e prints, where a print is already many copies. **Hito Steyerl** defends the **poor image**, and you make one in a lab. **Susan Sontag** treats photographing as an act on the world. **Clement Greenberg** sets out **avant-garde and kitsch**. **Arthur Danto** names the **artworld**, using Warhol and Duchamp.
 
 The [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis|A4]] synthesis is the second constellation of the year. It argues across the whole unit.
+
+<dl class="stat-strip">
+  <div class="stat"><dt>Lessons</dt><dd>4<span class="stat-x">L10–L13</span></dd></div>
+  <div class="stat"><dt>Graded items</dt><dd>6</dd></div>
+</dl>
 
 ## Dates and span
 
@@ -42,11 +46,6 @@ The [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthes
 - Christmas break begins Thu 2026-12-24. The late-work cutoff is around 2027-01-01, so A4 is the last thing you submit this semester.
 
 Some later dates, including Foreign Culture Day and the New Year cutoff, may shift when the school publishes the calendar. They will be confirmed in class.
-
-<dl class="stat-strip">
-  <div class="stat"><dt>Lessons</dt><dd>4<span class="stat-x">L10–L13</span></dd></div>
-  <div class="stat"><dt>Graded items</dt><dd>6</dd></div>
-</dl>
 
 ## Lessons
 

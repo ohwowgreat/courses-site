@@ -8,11 +8,6 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s1-assessments]]"
 modified: 2026-07-17
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/observation.jpg" alt="Vincent van Gogh, The Potato Peeler, 1885" loading="lazy" />
-  <figcaption>Vincent van Gogh, <em>The Potato Peeler</em>, 1885</figcaption>
-</figure>
-
 # S1 Unit 2: Recording & Sustained Study
 
 <div class="pagebar">
@@ -20,8 +15,12 @@ modified: 2026-07-17
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 2 of 5</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-1-foundations-on-the-theme" aria-label="Previous: Unit 1"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study" aria-label="Next: Unit 3"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/observation.jpg" alt="Vincent van Gogh, The Potato Peeler, 1885" loading="lazy" />
+  <figcaption>Vincent van Gogh, <em>The Potato Peeler</em>, 1885</figcaption>
+</figure>
 
-## What this unit does
+
 
 This is the recording and sustained-study stage of the course, all under **AO1 Record**. You turn the theme into a written investigation: an intention, a mind map, and thumbnails with annotated rejections. You then build its spine, one long observed study carried across two days without restarting. Everything you record becomes pages an examiner could read. The unit closes with [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone|A1]], the semester's first attainment and your first use of the **attainment review protocol**.
 

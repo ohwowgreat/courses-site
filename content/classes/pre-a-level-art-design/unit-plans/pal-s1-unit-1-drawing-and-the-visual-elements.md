@@ -12,11 +12,6 @@ related:
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing]]"
 modified: 2026-07-20
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/first-marks.jpg" alt="Ilya Repin, Leo Tolstoy at Work, 1891" loading="lazy" />
-  <figcaption>Ilya Repin, <em>Leo Tolstoy at Work</em>, 1891</figcaption>
-</figure>
-
 # Unit 1: Drawing & the Visual Elements
 
 <div class="pagebar">
@@ -24,8 +19,12 @@ modified: 2026-07-20
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 1 of 4</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography" aria-label="Next: Unit 2: Photography"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/first-marks.jpg" alt="Ilya Repin, Leo Tolstoy at Work, 1891" loading="lazy" />
+  <figcaption>Ilya Repin, <em>Leo Tolstoy at Work</em>, 1891</figcaption>
+</figure>
 
-## What this unit does
+
 
 Spine: **"Observe · the elements."** Five Wednesday double sessions (W1–5) open the Grade 10 year. You work through the visual elements: line, tone and form, texture, mark-making, negative space, all from observation. The unit closes on the semester's first Attainment: one final observational drawing made in class, with a written reflection.
 

@@ -451,12 +451,24 @@ export function lessonChrome(body, depth, deck, index) {
   return { body: carded ?? out, footer: footerNav(meta, depth, index.titles), carded: !!carded }
 }
 
-export function unitChrome(body, depth, index) {
+export function unitChrome(body, depth, index, heroHtml = null) {
   const meta = parseMeta(body, "Unit")
   if (!meta) return null
 
   const lines = body.split("\n")
-  lines[meta.lineIdx] = pagebar(meta, depth, { count: meta.total, current: meta.num }, meta.posText)
+  // The hero rides beside the title and lede as a right-floated side plate (the
+  // picked mockup's shape) instead of a full-bleed banner — placed here, right
+  // after the pagebar, so the lede wraps around it.
+  lines[meta.lineIdx] =
+    pagebar(meta, depth, { count: meta.total, current: meta.num }, meta.posText) +
+    (heroHtml ? `\n${heroHtml}` : "")
+
+  // "## What this unit does" gives way to a lede: with the dashboard above the
+  // fold the prose introduces the unit directly under the title, and a heading
+  // announcing that it is about to do so is furniture. Exact match only — a
+  // unit that names the section differently keeps its heading.
+  const wtud = lines.findIndex((l) => l.trim() === "## What this unit does")
+  if (wtud !== -1) lines.splice(wtud, 1)
   let out = lines.join("\n")
 
   const lessons = unitLessonRows(out, depth)
@@ -464,17 +476,32 @@ export function unitChrome(body, depth, index) {
   const due = unitDueCard(out, depth)
   if (due) out = due.body
 
-  // The masthead strip, from the same counts the sections just rendered — only
-  // when both numbers exist (stripHtml itself refuses a one-cell strip).
+  // The masthead strip, directly under the lede — before the first remaining
+  // heading, so the unit's numbers are above the fold. Only when the counts
+  // exist (stripHtml itself refuses a one-cell strip). Span is read from the
+  // "## Dates & span" paragraph when it has the house shape.
   if (lessons && due) {
     const first = lessons.rows[0].num
     const last = lessons.rows[lessons.rows.length - 1].num
-    const strip = stripHtml([
+    const cells = []
+    const outLines = out.split("\n")
+    const ds = outLines.findIndex((l) => l.trim() === "## Dates & span")
+    if (ds !== -1) {
+      let p = ds + 1
+      while (p < outLines.length && outLines[p].trim() === "") p++
+      const m = outLines[p]
+        ?.replace(/\*\*/g, "")
+        .match(/^(W\d+(?:\s*(?:to|–|—|→)\s*W\d+)?):.*?,\s*(\d+) teaching days/)
+      if (m) cells.push({ label: "Span", value: m[1].replace(/\s*to\s*/, "–"), note: `${m[2]} teaching days` })
+    }
+    cells.push(
       { label: "Lessons", value: String(lessons.count), note: `L${first}–L${last}` },
       { label: "Graded items", value: String(due.count) },
-    ]).trimEnd()
-    const outLines = out.split("\n")
-    const at = outLines.findIndex((l) => l.trim() === "## Lessons")
+    )
+    // First h2 from the top — the H1 is a single hash, so this is the first
+    // section heading, wherever the earlier transforms left it.
+    const strip = stripHtml(cells).trimEnd()
+    const at = outLines.findIndex((l) => /^## /.test(l.trim()))
     if (at !== -1) out = [...outLines.slice(0, at), strip, "", ...outLines.slice(at)].join("\n")
   }
 

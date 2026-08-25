@@ -12,11 +12,6 @@ related:
   - "[[classes/art-appreciation/assessments/art-appreciation-s1-assessments]]"
 modified: 2026-08-06
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/the-table.jpg" alt="Jan Steen, The Merry Family, 1668" loading="lazy" />
-  <figcaption>Jan Steen, <em>The Merry Family</em>, 1668</figcaption>
-</figure>
-
 # Unit 3: Food, the Table and Ethics
 
 <div class="pagebar">
@@ -24,8 +19,12 @@ modified: 2026-08-06
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 3 of 5</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/the-table.jpg" alt="Jan Steen, The Merry Family, 1668" loading="lazy" />
+  <figcaption>Jan Steen, <em>The Merry Family</em>, 1668</figcaption>
+</figure>
 
-## What this unit does
+
 
 This unit treats the table as a place where rules get enforced, not just a setting. It opens with film, Ang Lee's *Eat Drink Man Woman*, because the table is easier to see when it is moving. It then works through still life as inventory (Heda, with the same painting studied two days running), Leonardo's *Last Supper* as a chosen moment, the disorder in Bruegel and Steen taken seriously, and the Qingming scroll walked along its printed length. It closes on three artists the earlier paintings could not anticipate: Cassatt (domestic labor as labor), Rosler's *Semiotics of the Kitchen*, and Weems's *Kitchen Table Series*. It ends with the [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay|A3]] essay. This is the longest unit of the semester.
 
@@ -41,6 +40,11 @@ This unit treats the table as a place where rules get enforced, not just a setti
 </figure>
 </div>
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Lessons</dt><dd>4<span class="stat-x">L06–L09</span></dd></div>
+  <div class="stat"><dt>Graded items</dt><dd>5</dd></div>
+</dl>
+
 ## Dates and span
 
 - **Weeks 8–12:** Mon 2026-10-19 to Fri 2026-11-20. 18 teaching days / 23 periods (4 days a week, Tuesday a double). Week 10 loses Wednesday and Friday to G11 Juniors Days.
@@ -50,11 +54,6 @@ This unit treats the table as a place where rules get enforced, not just a setti
 - **Mid-term grades** due Thu 2026-10-29, carried by [[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison|A2]] and participation.
 - **G11 Juniors Days, Wed 2026-11-04 to Fri 2026-11-06:** no class. Lesson 08 runs across 6 meetings over 10 calendar days.
 - **Foreign Culture Day, Fri 2026-11-20:** lessons run. The essay is already in by then; A3 sits Tue 11-17.
-
-<dl class="stat-strip">
-  <div class="stat"><dt>Lessons</dt><dd>4<span class="stat-x">L06–L09</span></dd></div>
-  <div class="stat"><dt>Graded items</dt><dd>5</dd></div>
-</dl>
 
 ## Lessons
 

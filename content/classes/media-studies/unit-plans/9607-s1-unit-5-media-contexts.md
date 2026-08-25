@@ -12,11 +12,6 @@ related:
   - "[[classes/media-studies/9607-resource-library]]"
 modified: 2026-08-10
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/above-fifth-avenue.jpg" alt="Underwood & Underwood, Above Fifth Avenue, Looking North, c. 1905 — the industry at work: somebody pays for this vantage" loading="lazy" />
-  <figcaption>Underwood & Underwood, <em>Above Fifth Avenue, Looking North</em>, c. 1905 — the industry at work: somebody pays for this vantage</figcaption>
-</figure>
-
 # Unit 5: Media Contexts
 
 <div class="pagebar">
@@ -24,21 +19,26 @@ modified: 2026-08-10
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 5 of 6</span><a class="pb-arrow" href="../../../classes/media-studies/unit-plans/9607-s1-unit-4-representation" aria-label="Previous: Unit 4"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation" aria-label="Next: Unit 6"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/above-fifth-avenue.jpg" alt="Underwood & Underwood, Above Fifth Avenue, Looking North, c. 1905 — the industry at work: somebody pays for this vantage" loading="lazy" />
+  <figcaption>Underwood & Underwood, <em>Above Fifth Avenue, Looking North</em>, c. 1905 — the industry at work: somebody pays for this vantage</figcaption>
+</figure>
+
 
 **Concepts:** [[concepts/media-industry|Media Industry]] · [[concepts/media-audience|Media Audience]] · [[concepts/case-study-method|Case Study Method]]
 
-## What this unit does
 
 This unit closes Component 1 and turns the course toward Component 2. You submit your portfolio on Friday of W13. No edits are allowed after that, and the feedback you get becomes your production targets for Semester 2. You then study audience and institutions theory: uses and gratifications, Morley, ownership, integration, synergy, convergence, and regulation. This builds toward [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format|A4]], your first Section A sit in the real exam format and your Forecast Grade anchor. It also opens the case-study document that carries A4, the End of Term Exam, and Paper 2.
+
+<dl class="stat-strip">
+  <div class="stat"><dt>Span</dt><dd>W13–W16<span class="stat-x">14 teaching days</span></dd></div>
+  <div class="stat"><dt>Lessons</dt><dd>3<span class="stat-x">L14–L16</span></dd></div>
+  <div class="stat"><dt>Graded items</dt><dd>4</dd></div>
+</dl>
 
 ## Dates & span
 
 **W13–W16: Mon 2026-11-23 → Fri 12-18**, 14 teaching days (L14: 6, L15: 4, L16: 4). W14 gives only Mon 11-30 and Tue 12-01.
-
-<dl class="stat-strip">
-  <div class="stat"><dt>Lessons</dt><dd>3<span class="stat-x">L14–L16</span></dd></div>
-  <div class="stat"><dt>Graded items</dt><dd>4</dd></div>
-</dl>
 
 ## Lessons
 

@@ -8,11 +8,6 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s3-assessments]]"
 modified: 2026-07-18
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/the-great-wave.jpg" alt="Gustave Le Gray, The Great Wave, Sète, 1857" loading="lazy" />
-  <figcaption>Gustave Le Gray, <em>The Great Wave, Sète</em>, 1857</figcaption>
-</figure>
-
 # S3 Unit 6: Assembly & Submission
 
 <div class="pagebar">
@@ -20,8 +15,12 @@ modified: 2026-07-18
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Unit 6 · 4th of 4 this semester</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-5-final-outcomes" aria-label="Previous: Unit 5"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/the-great-wave.jpg" alt="Gustave Le Gray, The Great Wave, Sète, 1857" loading="lazy" />
+  <figcaption>Gustave Le Gray, <em>The Great Wave, Sète</em>, 1857</figcaption>
+</figure>
 
-## What this unit does
+
 
 This is the assembly and submission stage, under **AO4 Present**. You put the complete Personal Investigation in order so the argument reads to a stranger. You check your documentation page by page: each piece photographed, labeled, and legible. You integrate the bibliography into the body of the work, not the back. You present and defend the investigation in a viva-style critique, then fix what breaks. You assemble the digital submission to the Cambridge screen limits and pass QC. The unit closes with **[[classes/a-level-art-design/assessments/9479-s3-assessments|A4]]**, the complete investigation, marked across AO1–AO4, with no edits after. The C3 internal submission lands here. C2 begins in [[classes/a-level-art-design/unit-plans/9479-semester-4-plan|Semester 4]].
 

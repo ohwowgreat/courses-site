@@ -7,11 +7,6 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
 modified: 2026-07-18
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/the-great-wave.jpg" alt="Gustave Le Gray, The Great Wave, Sète, 1857" loading="lazy" />
-  <figcaption>Gustave Le Gray, <em>The Great Wave, Sète</em>, 1857</figcaption>
-</figure>
-
 # S4 Unit 5: Supervised Test & Submission
 
 <div class="pagebar">
@@ -19,8 +14,12 @@ modified: 2026-07-18
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Unit 5 of 5</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-4-development" aria-label="Previous: Unit 4"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/the-great-wave.jpg" alt="Gustave Le Gray, The Great Wave, Sète, 1857" loading="lazy" />
+  <figcaption>Gustave Le Gray, <em>The Great Wave, Sète</em>, 1857</figcaption>
+</figure>
 
-## What this unit does
+
 
 This is the test, assembly, and board stage, under **AO4 Present**. You realize your planned outcome inside the **15-hour supervised test** under exam conditions. Your work is stored securely between sittings: no access, no additions. You photograph the final piece and assemble the submission package exactly as the Cambridge specification orders it. Supervised quality control checks it line by line. On the linear entry, **C1, C2, and C3 all reach the board in the same window**. The unit closes with **[[classes/a-level-art-design/assessments/9479-s4-assessments|A4]]**, the submission package as the internal grade layer. The final piece itself is marked by Cambridge.
 

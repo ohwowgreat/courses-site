@@ -7,11 +7,6 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s1-assessments]]"
 modified: 2026-07-17
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/banqueting-sketch.jpg" alt="Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from" loading="lazy" />
-  <figcaption>Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from</figcaption>
-</figure>
-
 # S1 Unit 1: Foundations on the Theme
 
 <div class="pagebar">
@@ -19,8 +14,12 @@ modified: 2026-07-17
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 1 of 5</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study" aria-label="Next: Unit 2"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/banqueting-sketch.jpg" alt="Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from" loading="lazy" />
+  <figcaption>Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from</figcaption>
+</figure>
 
-## What this unit does
+
 
 This unit opens the Component 1 portfolio at its foundations stage. You learn how the portfolio is marked by the four **Assessment Objectives (AOs)**, what a top-band portfolio does, and you make the semester's biggest decision: you commit to one theme from the menu against set criteria, not by mood. You then work the **formal elements** directly on your chosen theme, with a focus on AO1 Record. By the unit's close, you have looked at the theme through five instruments, and your first portfolio page can argue something.
 

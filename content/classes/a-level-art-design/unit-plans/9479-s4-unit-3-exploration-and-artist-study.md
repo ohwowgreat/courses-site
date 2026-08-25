@@ -8,11 +8,6 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s4-assessments]]"
 modified: 2026-07-18
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/mark-making.jpg" alt="Peter Paul Rubens, Anatomical Studies, pen and ink, c. 1605" loading="lazy" />
-  <figcaption>Peter Paul Rubens, <em>Anatomical Studies</em>, pen and ink, c. 1605</figcaption>
-</figure>
-
 # S4 Unit 3: Exploration & Artist Study
 
 <div class="pagebar">
@@ -20,8 +15,12 @@ modified: 2026-07-18
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 3 of 5</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-2-recording" aria-label="Previous: Unit 2"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-4-development" aria-label="Next: Unit 4"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/mark-making.jpg" alt="Peter Paul Rubens, Anatomical Studies, pen and ink, c. 1605" loading="lazy" />
+  <figcaption>Peter Paul Rubens, <em>Anatomical Studies</em>, pen and ink, c. 1605</figcaption>
+</figure>
 
-## What this unit does
+
 
 This unit is the exploration and artist-study stage, worked at exam pace, across **AO2 Explore** and **AO3 Develop**. You turn your [[classes/a-level-art-design/assessments/9479-s4-assessments|A1]] feedback into targets. You run **eight** experiments, drawn from selections you have already proven, and end each one with a written keep-or-change decision. You analyze two artists and answer each in visible work within single sessions. A **bridge piece** and a **scale trial**, made at the supervised-test dimensions, carry your study toward development. The unit closes with **[[classes/a-level-art-design/assessments/9479-s4-assessments|A2]]**, marked across AO2 and AO3.
 

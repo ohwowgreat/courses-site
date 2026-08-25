@@ -8,11 +8,6 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s2-assessments]]"
 modified: 2026-07-18
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/the-great-wave.jpg" alt="Gustave Le Gray, The Great Wave, Sète, 1857" loading="lazy" />
-  <figcaption>Gustave Le Gray, <em>The Great Wave, Sète</em>, 1857</figcaption>
-</figure>
-
 # S2 Unit 5: Mid-Point Portfolio
 
 <div class="pagebar">
@@ -20,8 +15,12 @@ modified: 2026-07-18
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Unit 5 of 5</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s2-unit-4-development" aria-label="Previous: Unit 4"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/the-great-wave.jpg" alt="Gustave Le Gray, The Great Wave, Sète, 1857" loading="lazy" />
+  <figcaption>Gustave Le Gray, <em>The Great Wave, Sète</em>, 1857</figcaption>
+</figure>
 
-## What this unit does
+
 
 This is the mid-point portfolio stage, under AO1–AO4 Present. You refine one resolved piece to a standard the mid point can stand on. You integrate the **bibliography** into the body of the work, not as a separate list at the back. You plan the page architecture before you build it. Then you sequence the whole journey, edit it (cut what does not earn its place), photograph it to submission standard, and quality-control it in supervised sessions. The unit closes with **[[classes/a-level-art-design/assessments/9479-s2-assessments|A4]]**, the C3 mid-point portfolio, marked across all four AOs, with no edits after. The summer production window then feeds into [[classes/a-level-art-design/unit-plans/9479-s3-unit-1-review-and-goal-setting|Semester 3]].
 

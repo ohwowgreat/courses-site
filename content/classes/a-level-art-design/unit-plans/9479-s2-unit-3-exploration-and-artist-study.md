@@ -8,11 +8,6 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s2-assessments]]"
 modified: 2026-07-18
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/van-gogh-armchair.jpg" alt="Vincent van Gogh, Paul Gauguin's Armchair, 1888" loading="lazy" />
-  <figcaption>Vincent van Gogh, <em>Paul Gauguin's Armchair</em>, 1888</figcaption>
-</figure>
-
 # S2 Unit 3: Exploration & Artist Study
 
 <div class="pagebar">
@@ -20,8 +15,12 @@ modified: 2026-07-18
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 3 of 5</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s2-unit-2-recording-and-sustained-study" aria-label="Previous: Unit 2"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s2-unit-4-development" aria-label="Next: Unit 4"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/van-gogh-armchair.jpg" alt="Vincent van Gogh, Paul Gauguin's Armchair, 1888" loading="lazy" />
+  <figcaption>Vincent van Gogh, <em>Paul Gauguin's Armchair</em>, 1888</figcaption>
+</figure>
 
-## What this unit does
+
 
 This is the exploration and artist-study stage. The front half is **AO2 Explore**: you run twelve prescribed media experiments, then make an evidence-based selection and name what you reject. The back half opens **AO3**: you study two artists until their work visibly changes your own, through analysis, meaning and context, method, and personal response, plus a bridge piece and a scale trial. The contextual writing you produce here is the **first material of the research paper**. The unit closes with **[[classes/a-level-art-design/assessments/9479-s2-assessments|A2]]**, marked across AO2 and AO3. It runs around the S7 Qingming mock float.
 

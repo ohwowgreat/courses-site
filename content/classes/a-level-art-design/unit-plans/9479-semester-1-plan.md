@@ -5,13 +5,17 @@ related:
   - "[[classes/a-level-art-design/unit-plans/9479-course-map]]"
   - "[[classes/a-level-art-design/assessments/9479-s1-assessments]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-07-17
+modified: 2026-08-25
 ---
 # A Level Art & Design · Semester 1 Plan
 
 > [[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · Semester 1 of 4 ([[classes/a-level-art-design/unit-plans/9479-course-map|course map]]) · next: S2 C3 part 1
 
-**Component 1 (Portfolio), G11, autumn 2026-27.** You have one 45-minute session every teaching day: 80 sessions across 77 teaching days. The first session is Tue 2026-09-01; the last teaching day is Fri 2027-01-08. Dates follow the [[calendar|school calendar]] and may shift when the school publishes the calendar for this period.
+**Component 1 (Portfolio), G11, autumn 2026-27.** Sessions are 45 minutes. The first session is Tue 2026-09-01. The last teaching day is Fri 2027-01-08.
+
+Schedule: **Mon P9, Tue P3, Thu P6, Fri P3+P4 (double), room 710.** That is five periods a week over four days. There is no Wednesday session. Friday is a double: two periods in a row, 9:50–11:30, good for sustained work and critiques.
+
+Dates follow the [[calendar|school calendar]]. Some future dates may shift when the school publishes the calendar for that period; changes will be confirmed in class.
 
 ## The five units
 
@@ -52,7 +56,7 @@ Dates, notice and the CS/LB layers are in the register.
 | W15 | 12-07 → 11 | Final composition plan; **A3 Thu 12-10** |
 | W16 | 12-14 → 18 | **Final outcome 4-day build** + mid-production review |
 | W17 | 12-21 → 23 | 3-day resolve run (window covers the break) |
-| W18 | — | Break. Late-work cutoff about Fri 01-01. No late portfolio possible. |
+| W18 | — | Break. Late-work cutoff around Fri 01-01: no late portfolio is possible |
 | W19 | 01-04 → 08 | Photograph, sequence, edit with cut log; **A4 Thu 01-07**; reflection Fri |
-| W20 | 01-11 → 18 | Exam window: no classes; A4 marking. No Art & Design EoT. |
+| W20 | 01-11 → 18 | Exam window: no classes |
 | W21 | 01-19 → 21 | Returns + 1:1s; C3 bridge; winter HW: three candidate C3 themes |

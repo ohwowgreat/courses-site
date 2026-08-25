@@ -7,11 +7,6 @@ related:
   - "[[classes/a-level-art-design/assessments/9479-s3-assessments]]"
 modified: 2026-07-18
 ---
-<figure class="plate plate--hero">
-  <img src="../../../static/img/first-marks.jpg" alt="Ilya Repin, Leo Tolstoy at Work, 1891" loading="lazy" />
-  <figcaption>Ilya Repin, <em>Leo Tolstoy at Work</em>, 1891</figcaption>
-</figure>
-
 # S3 Unit 1: Review & Goal Setting
 
 <div class="pagebar">
@@ -19,8 +14,12 @@ modified: 2026-07-18
 <span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 1 · 1st of 4 this semester</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass" aria-label="Next: Unit 4"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
 </div>
 
+<figure class="plate plate--side">
+  <img src="../../../static/img/first-marks.jpg" alt="Ilya Repin, Leo Tolstoy at Work, 1891" loading="lazy" />
+  <figcaption>Ilya Repin, <em>Leo Tolstoy at Work</em>, 1891</figcaption>
+</figure>
 
-## What this unit does
+
 
 This unit reopens your Personal Investigation after the summer. You lay out all your summer work and audit it honestly against the targets you set in June: met, missed, missing. You defend it one to one, piece by piece. You then turn the audit into goals that name pages, pieces, and dates. The unit closes with a **written, dated, signed action plan** that governs the semester up to the December submission.
 
