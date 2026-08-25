@@ -18,21 +18,25 @@ modified: 2026-08-05
 
 # Lesson 15: The Poster — Message, Audience, Hierarchy
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster|Unit 4]] · U4·L1 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage|Lesson 14]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-16-a4-the-final-poster|Lesson 16]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/pre-a-level-art-design/pre-a-level-art-design">Pre A Level Art &amp; Design</a> · <a href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster">Unit 4</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 3 in this unit · L01</span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage" aria-label="Previous: Lesson 14"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-16-a4-the-final-poster" aria-label="Next: Lesson 16"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session</dt><dd>W16<span class="stat-x">one Wednesday double (~90 min) — Unit 4 opens; the compressed double (two former sessions in one)</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Wed 2026-12-16</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job"><strong><a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework">CS4</a></strong>: one annotated poster analysis + a four-thumbnail set with type studies, one circled with a reason</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2026-12-16<span class="contract-cell-note">Session: W16, one Wednesday double (~90 min) — Unit 4 opens; the compressed double (two former sessions in one)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">this session** (sits next Wednesday, 12-23)</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Gather or make anything the circled thumbnail needs (images, lettering references, files); MB posting</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Focus</span> What a poster must do: message, audience, hierarchy, type as voice; thumbnails for the final</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Focus | What a poster must do: message, audience, hierarchy, type as voice; thumbnails for the final |
-| Deliverable | **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|CS4]]**: one annotated poster analysis + a four-thumbnail set with type studies, one circled with a reason |
-| Feeds | this session** (sits next Wednesday, 12-23) |
-| Homework | Gather or make anything the circled thumbnail needs (images, lettering references, files); MB posting |
 
 ## Overview
 
@@ -127,3 +131,8 @@ The same word in three different letterings sounds like three different people. 
 </details>
 
 **5.** A4 sits next Wednesday, marked on hierarchy, typography, message, audience: a poster for an exhibition of your own work, for this school's hallway. The homework is logistics: gather or make everything your circled thumbnail needs, so the making session makes.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage">← Lesson 14 · A3 — The Final Collage</a>
+<a class="page-nav-next" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-16-a4-the-final-poster">Lesson 16 · A4 — The Final Poster →</a>
+</div>

@@ -9,24 +9,26 @@ modified: 2026-08-06
 ---
 # Lesson 12: Photography and After
 
-[[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity|Unit 4]] · Lesson 12 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image|Lesson 11]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief|Lesson 13]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/art-appreciation/art-appreciation">Art Appreciation</a> · <a href="../../../classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity">Unit 4</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 3 of 4 in this unit · L12 of 15</span><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image" aria-label="Previous: Lesson 11"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief" aria-label="Next: Lesson 13"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-12-photography-and-after.pptx">Download the deck (PowerPoint, 3.1 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis">A4</a>: Unit 4 synthesis</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Fri 2026-12-11 to Fri 2026-12-18<span class="contract-cell-note">Days: 5 meetings (Tue is a double)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">The retrospective</span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/art-appreciation/art-appreciation-s1-lesson-12-photography-and-after.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (3.1 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> Sontag, first essay, 30 min, set day 2, due day 3</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Session codes</span> `U4·L12`–`U4·L17`</span>
+<span class="contract-line"><span class="contract-line-label">Template</span> ASSESSED</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session codes</dt><dd>`U4·L12`–`U4·L17`</dd></div>
-  <div class="stat"><dt>Days</dt><dd>5 meetings (Tue is a double)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Fri 2026-12-11 to Fri 2026-12-18</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Template | ASSESSED |
-| Deliverable | [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis\|A4]]: Unit 4 synthesis |
-| Feeds | The retrospective |
-| Homework | Sontag, first essay, 30 min, set day 2, due day 3 |
 
 ## Overview
 
@@ -122,3 +124,8 @@ A constellation that argues across the whole unit, not a selection of favorites.
 </details>
 
 **5.** A4 is the last submission of the semester, placed well before the late-work cutoff, which means nothing about it can be handed in late. Prepare the way the course taught: gather more candidates than you need, test adjacencies out loud, and let the layout make the argument before the writing confirms it.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image">← Lesson 11 · Aura and the Poor Image</a>
+<a class="page-nav-next" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief">Lesson 13 · The Artworld and the Brief →</a>
+</div>

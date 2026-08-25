@@ -9,24 +9,26 @@ modified: 2026-08-05
 ---
 # Lesson 05: Titian to Manet
 
-[[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory|Unit 2]] · Lesson 05 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-04-telling-it-without-words|Lesson 04]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-06-the-table-as-moral-space|Lesson 06]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/art-appreciation/art-appreciation">Art Appreciation</a> · <a href="../../../classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory">Unit 2</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 2 of 2 in this unit · L05 of 15</span><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-04-telling-it-without-words" aria-label="Previous: Lesson 04"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-06-the-table-as-moral-space" aria-label="Next: Lesson 06"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-05-titian-to-manet.pptx">Download the deck (PowerPoint, 2.5 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison">A2</a>: Unit 2 comparative essay</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Fri 2026-10-09 to Fri 2026-10-16<span class="contract-cell-note">Days: 6 meetings (Tue is a double)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">Mid-term grades, due Thu 2026-10-29</span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/art-appreciation/art-appreciation-s1-lesson-05-titian-to-manet.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (2.5 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> Reading on Olympia's reception, 30 min, set day 4, due day 6</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Session codes</span> `U2·L9`–`U2·L16`</span>
+<span class="contract-line"><span class="contract-line-label">Template</span> ASSESSED</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session codes</dt><dd>`U2·L9`–`U2·L16`</dd></div>
-  <div class="stat"><dt>Days</dt><dd>6 meetings (Tue is a double)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Fri 2026-10-09 to Fri 2026-10-16</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Template | ASSESSED |
-| Deliverable | [[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison\|A2]]: Unit 2 comparative essay |
-| Feeds | Mid-term grades, due Thu 2026-10-29 |
-| Homework | Reading on Olympia's reception, 30 min, set day 4, due day 6 |
 
 ## Overview
 
@@ -131,3 +133,8 @@ Who does the picture put you next to? Gentileschi's Judith makes the question un
 </details>
 
 **5.** Carry Monday's question with you: what does this image ask you to accept as natural? It works on a Titian, and it works on every advertisement you will see this week. Ask it three times before Tuesday's essay. The habit is the preparation.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-04-telling-it-without-words">← Lesson 04 · Telling It Without Words</a>
+<a class="page-nav-next" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-06-the-table-as-moral-space">Lesson 06 · The Table as Moral Space →</a>
+</div>

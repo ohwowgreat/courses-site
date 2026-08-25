@@ -10,21 +10,24 @@ modified: 2026-08-05
 ---
 # S3 Lesson 11: Outcome 2 Resolved and Both Evaluated
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s3-unit-5-final-outcomes|Unit 5]] · Lesson 11 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-10-a3-the-research-paper-and-outcome-2-opens|Lesson 10]] | [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-12-assembly-sequence-documentation-bibliography|Lesson 12]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-5-final-outcomes">Unit 5</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 5 of 5 in this unit · L11 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-10-a3-the-research-paper-and-outcome-2-opens" aria-label="Previous: Lesson 10"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-12-assembly-sequence-documentation-bibliography" aria-label="Next: Lesson 12"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>3 days (W13, reduced — Seniors take Thu–Fri) + 5 days (W14)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-11-22 → Fri 2027-12-03 <em>(projected)</em></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop → AO4 Present<span class="stat-x">the paired evaluation</span></dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO3 Develop → AO4 Present; the paired evaluation</span></span></div>
+<p class="contract-job">Outcome 2 resolved and photographed to the same standard as outcome 1; both outcomes evaluated in writing against the intention</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-11-22 → Fri 2027-12-03 <em>(projected)</em><span class="contract-cell-note">Sessions: 3 days (W13, reduced — Seniors take Thu–Fri) + 5 days (W14)</span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> ≤30 min: for the evaluation, one honest line on what each outcome found that the other did not</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> No attainment. (28 days ahead) · <strong><a href="../../../classes/a-level-art-design/assessments/9479-s3-assessments">CS8</a></strong> Fri 2027-12-03 (evaluation of both outcomes)</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Outcome 2 resolved and photographed to the same standard as outcome 1; both outcomes evaluated in writing against the intention |
-| Graded | No attainment. (28 days ahead) · **[[classes/a-level-art-design/assessments/9479-s3-assessments\|CS8]]** Fri 2027-12-03 (evaluation of both outcomes) |
-| Homework | ≤30 min: for the evaluation, one honest line on what each outcome found that the other did not |
 
 ## Overview
 
@@ -102,3 +105,8 @@ Both outcomes trace visibly back to the preparation, and both speak with one voi
 </details>
 
 **5.** The homework feeds the evaluation: one honest line per outcome on what it found that the other did not. If the two lines say the same thing, the outcomes repeated each other, and the evaluation should say that honestly too.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-10-a3-the-research-paper-and-outcome-2-opens">← Lesson 10 · A3 — The Research Paper and Outcome 2 Opens</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-12-assembly-sequence-documentation-bibliography">Lesson 12 · Assembly — Sequence, Documentation, Bibliography →</a>
+</div>

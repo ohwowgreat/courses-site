@@ -10,21 +10,24 @@ modified: 2026-08-05
 ---
 # S4 Lesson 08: Assembly and A4 — the Submission Package
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s4-unit-5-supervised-test-and-submission|Unit 5]] · Lesson 08 of 10 · ← [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-07-the-15-hour-supervised-test|Lesson 07]] | [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-09-board-week-handover-and-records|Lesson 09]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-5-supervised-test-and-submission">Unit 5</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 2 of 4 in this unit · L08 of 10</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-07-the-15-hour-supervised-test" aria-label="Previous: Lesson 07"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-09-board-week-handover-and-records" aria-label="Next: Lesson 09"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (S9) <em>(pinned, floats with the test)</em></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2028-04-17 → Fri 2028-04-21 <em>(projected)</em></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO4 Present</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO4 Present</span></span></div>
+<p class="contract-job">The final piece photographed; the submission package assembled exactly as the Cambridge specification orders it; supervised QC line by line</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2028-04-17 → Fri 2028-04-21 <em>(projected)</em><span class="contract-cell-note">Sessions: 5 days (S9) <em>(pinned, floats with the test)</em></span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> ≤30 min: the submission checklist — every item present, ordered and labeled</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> <strong><a href="../../../classes/a-level-art-design/assessments/9479-s4-assessments">CS7</a></strong> Thu 2028-04-20 (submission checklist and reflection) · <strong><a href="../../../classes/a-level-art-design/assessments/9479-s4-assessments">A4</a></strong> Fri 2028-04-21 (AO1–AO4) — the package; <strong>the piece itself is externally marked</strong></span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | The final piece photographed; the submission package assembled exactly as the Cambridge specification orders it; supervised QC line by line |
-| Graded | **[[classes/a-level-art-design/assessments/9479-s4-assessments\|CS7]]** Thu 2028-04-20 (submission checklist and reflection) · **[[classes/a-level-art-design/assessments/9479-s4-assessments\|A4]]** Fri 2028-04-21 (AO1–AO4) — the package; **the piece itself is externally marked** |
-| Homework | ≤30 min: the submission checklist — every item present, ordered and labeled |
 
 These dates are projected. They may shift when the school publishes the calendar for that period, and the whole tail floats with the supervised test.
 
@@ -116,3 +119,8 @@ The specification, line by line, against the assembled package, with CS7 collect
 </details>
 
 **5.** The homework is the submission checklist run by you before it is run on you: every item present, ordered, and labeled. Read the labels out loud. The error QC catches most is the one reading silently skips.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-07-the-15-hour-supervised-test">← Lesson 07 · The 15-Hour Supervised Test</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-09-board-week-handover-and-records">Lesson 09 · Board Week — Handover and Records →</a>
+</div>

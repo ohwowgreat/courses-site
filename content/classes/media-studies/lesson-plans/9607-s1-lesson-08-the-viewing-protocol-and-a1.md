@@ -18,24 +18,25 @@ modified: 2026-08-09
 
 # Lesson 08: The Viewing Protocol and A1
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis|Unit 3]] · Lesson 08 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock|Lesson 07]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-09-genre|Lesson 09]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/media-studies/media-studies">Media Studies</a> · <a href="../../../classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis">Unit 3</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 3 in this unit · L08 of 19</span><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock" aria-label="Previous: Lesson 07"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-09-genre" aria-label="Next: Lesson 09"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-08-the-viewing-protocol-and-a1.pptx">Download the deck (PowerPoint, 1.5 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1</span><span class="contract-ao">AO2</span></span></div>
+<p class="contract-job"><strong><a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">CS8</a></strong> the technical lexicon quiz, and the <strong><a href="../../../classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis">A1</a></strong> script</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-10-12 · Tue 10-13 · Wed 10-14<span class="contract-cell-note">Days: 3 · Mon+Tue two-day block, Wed double (A1 sits)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">AS Component 2 Section A</span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-08-the-viewing-protocol-and-a1.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (1.5 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> None: attainment week</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Band/Unit</span> U3 Macro and Textual Analysis (<a href="../../../classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis">S1 Unit 3</a>)</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Days</dt><dd>3<span class="stat-x">Mon+Tue two-day block, Wed double (A1 sits)</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-10-12<span class="stat-x">Tue 10-13 · Wed 10-14</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO1 + AO2</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Band/Unit | U3 Macro and Textual Analysis ([[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis\|S1 Unit 3]]) |
-| Deliverable | **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS8]]** the technical lexicon quiz, and the **[[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]]** script |
-| Feeds | AS Component 2 Section A |
-| Homework | None: attainment week |
 
 ## Overview
 
@@ -149,3 +150,8 @@ Point: the extract establishes the detective's authority before he speaks. Evide
 </details>
 
 **6.** Re-run the sit at home as revision. Any unseen two to three minute drama extract, sixty minutes, exam conditions, the exam prompt. Then mark yourself for coverage only: which of the four elements is missing?
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock">← Lesson 07 · Integration and the Planning Lock</a>
+<a class="page-nav-next" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-09-genre">Lesson 09 · Genre →</a>
+</div>

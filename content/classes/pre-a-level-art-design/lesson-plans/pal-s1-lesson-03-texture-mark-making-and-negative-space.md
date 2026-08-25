@@ -17,21 +17,25 @@ modified: 2026-08-05
 
 # Lesson 03: Texture, Mark-Making and Negative Space
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1]] · U1·L3 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-02-tone-and-form|Lesson 02]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-04-composing-the-final-drawing|Lesson 04]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/pre-a-level-art-design/pre-a-level-art-design">Pre A Level Art &amp; Design</a> · <a href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements">Unit 1</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 3 of 5 in this unit · L03</span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-02-tone-and-form" aria-label="Previous: Lesson 02"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-04-composing-the-final-drawing" aria-label="Next: Lesson 04"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session</dt><dd>W3<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Wed 2026-09-16</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job">Traced-hand texture sheet; observed texture grid; one negative-space study</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2026-09-16<span class="contract-cell-note">Session: W3, one Wednesday double (~90 min)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><strong><a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing">A1</a> and <a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework">CS1</a> announced this session</strong> (A1 sits W5, 09-30; CS1 checks W4, 09-23)</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Finish the texture worksheet; MB posting</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Focus</span> Texture and the mark that makes it; negative space</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Focus | Texture and the mark that makes it; negative space |
-| Deliverable | Traced-hand texture sheet; observed texture grid; one negative-space study |
-| Feeds | **[[classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing\|A1]] and [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|CS1]] announced this session** (A1 sits W5, 09-30; CS1 checks W4, 09-23) |
-| Homework | Finish the texture worksheet; MB posting |
 
 ## Overview
 
@@ -105,3 +109,8 @@ The contour work, the value scale and tonal study, the texture grid, and the neg
 </details>
 
 **5.** At home: finish the texture worksheet, then try one more negative-space study, a chair against a plain wall. Shade only the spaces, never the chair. Post your pages on MB.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-02-tone-and-form">← Lesson 02 · Tone and Form</a>
+<a class="page-nav-next" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-04-composing-the-final-drawing">Lesson 04 · Composing the Final Drawing →</a>
+</div>

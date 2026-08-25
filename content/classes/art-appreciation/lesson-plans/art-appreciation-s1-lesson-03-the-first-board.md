@@ -9,24 +9,26 @@ modified: 2026-08-05
 ---
 # Lesson 03: The First Board
 
-[[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-1-origins-and-ancestral-memory|Unit 1]] · Lesson 03 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-02-what-survives-and-why|Lesson 02]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-04-telling-it-without-words|Lesson 04]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/art-appreciation/art-appreciation">Art Appreciation</a> · <a href="../../../classes/art-appreciation/unit-plans/art-appreciation-s1-unit-1-origins-and-ancestral-memory">Unit 1</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 3 of 3 in this unit · L03 of 15</span><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-02-what-survives-and-why" aria-label="Previous: Lesson 02"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-04-telling-it-without-words" aria-label="Next: Lesson 04"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-03-the-first-board.pptx">Download the deck (PowerPoint, 2.1 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board">A1</a>: Unit 1 board and justification</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-09-14 to Fri 2026-09-18<span class="contract-cell-note">Days: 5</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">The whole course — &quot;this is the move every unit repeats&quot;</span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/art-appreciation/art-appreciation-s1-lesson-03-the-first-board.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (2.1 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> Gather candidate images, 30 min/night, days 1–3</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Session codes</span> `U1·L10`–`U1·L14`</span>
+<span class="contract-line"><span class="contract-line-label">Template</span> PRODUCTION</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session codes</dt><dd>`U1·L10`–`U1·L14`</dd></div>
-  <div class="stat"><dt>Days</dt><dd>5</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-09-14 to Fri 2026-09-18</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Template | PRODUCTION |
-| Deliverable | [[classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board\|A1]]: Unit 1 board and justification |
-| Feeds | The whole course — "this is the move every unit repeats" |
-| Homework | Gather candidate images, 30 min/night, days 1–3 |
 
 ## Overview
 
@@ -116,3 +118,8 @@ Make the argument legible. A stranger at the door should see what goes with what
 </details>
 
 **5.** A1 marks three things: adjacencies justified with immovable reasons, an argument legible from the layout, and objects described by what they do rather than what they show. Gather candidates thirty minutes a night, more than you can use. The board stays on the wall after Friday, and the rest of the course argues next to it.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-02-what-survives-and-why">← Lesson 02 · What Survives, and Why</a>
+<a class="page-nav-next" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-04-telling-it-without-words">Lesson 04 · Telling It Without Words →</a>
+</div>

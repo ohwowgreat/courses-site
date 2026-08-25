@@ -9,21 +9,22 @@ modified: 2026-08-05
 ---
 # S1 Lesson 08: Artist Study 1
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study|Unit 3]] · Lesson 08 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-07-selection-and-scale|Lesson 07]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-09-artist-2-bridge-piece-and-a2|Lesson 09]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study">Unit 3</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 3 of 4 in this unit · L08 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-07-selection-and-scale" aria-label="Previous: Lesson 07"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-09-artist-2-bridge-piece-and-a2" aria-label="Next: Lesson 09"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (W9)<span class="stat-x">first use of the artist study template</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-10-26 → Fri 2026-10-30</dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop<span class="stat-x">contextual study</span></dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO3 Develop</span><span class="contract-ao">contextual study</span></span></div>
+<p class="contract-job">Artist pages: analysis, meaning and context, method study, personal response, influence note</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-10-26 → Fri 2026-10-30<span class="contract-cell-note">Sessions: 5 days (W9) — first use of the artist study template</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS7</a> collected Fri 2026-10-30 — exactly 14 days before Mon 2026-11-09. Mid-term grades due Thu 2026-10-29, fed by <a href="../../../classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone">A1</a></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Written annotation: the meaning-and-context paragraph drafted at home</span></div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Artist pages: analysis, meaning and context, method study, personal response, influence note |
-| Feeds | [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS7]] collected Fri 2026-10-30 — exactly 14 days before Mon 2026-11-09. Mid-term grades due Thu 2026-10-29, fed by [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone\|A1]] |
-| Homework | Written annotation: the meaning-and-context paragraph drafted at home |
 
 ## Overview
 
@@ -119,3 +120,8 @@ Every sentence that could describe any artist. "He uses light and shadow to crea
 </details>
 
 **5.** Influence must be visible in the work, not claimed in the writing. Thursday's exit asks you to name the artist's fingerprint in your own piece. Rehearse it now on the study you are making, and draft the meaning-and-context paragraph at home tonight. A2's date is on the board: Mon 2026-11-09.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-07-selection-and-scale">← Lesson 07 · Selection and Scale</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-09-artist-2-bridge-piece-and-a2">Lesson 09 · Artist 2, Bridge Piece and A2 →</a>
+</div>

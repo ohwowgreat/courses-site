@@ -9,21 +9,22 @@ modified: 2026-08-05
 ---
 # S1 Lesson 05: Recording Pages and A1
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study|Unit 2]] · Lesson 05 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-04-the-sustained-study|Lesson 04]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-06-media-exploration|Lesson 06]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study">Unit 2</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 3 of 3 in this unit · L05 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-04-the-sustained-study" aria-label="Previous: Lesson 04"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-06-media-exploration" aria-label="Next: Lesson 06"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>6 days (W5–W6, split by National Day)<span class="stat-x">Unit 2 closes; first use of the attainment review protocol</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-09-28 → Wed 2026-09-30<span class="stat-x">then Thu 2026-10-08 → Sat 2026-10-10</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO1 Record</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1 Record</span></span></div>
+<p class="contract-job">Recording pages built and sequenced; <a href="../../../classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone">A1</a> sat; feedback converted to three actions</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-09-28 → Wed 2026-09-30, then Thu 2026-10-08 → Sat 2026-10-10<span class="contract-cell-note">Sessions: 6 days (W5–W6, split by National Day) — Unit 2 closes; first use of the attainment review protocol</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS4</a> build check Wed 2026-09-30; <strong>A1 Fri 2026-10-09</strong> (feeds mid-term grades due Thu 2026-10-29)</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Over the break: sketchbook recording from primary sources, dated. After A1: reflection turning feedback into three actions</span></div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Recording pages built and sequenced; [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone\|A1]] sat; feedback converted to three actions |
-| Feeds | [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS4]] build check Wed 2026-09-30; **A1 Fri 2026-10-09** (feeds mid-term grades due Thu 2026-10-29) |
-| Homework | Over the break: sketchbook recording from primary sources, dated. After A1: reflection turning feedback into three actions |
 
 ## Overview
 
@@ -122,3 +123,8 @@ On the return from the break, you mark your own recording against the AO1 band d
 </details>
 
 **5.** After A1 returns, the feedback becomes three specific written actions. "Get better at drawing" is not one. "Check proportion against the source every ten minutes" is. Over the break, keep the sketchbook recording from primary sources, dated, and arrive with pages, not excuses.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-04-the-sustained-study">← Lesson 04 · The Sustained Study</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-06-media-exploration">Lesson 06 · Media Exploration →</a>
+</div>

@@ -10,21 +10,24 @@ modified: 2026-08-05
 ---
 # S3 Lesson 12: Assembly — Sequence, Documentation, Bibliography
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s3-unit-6-assembly-and-submission|Unit 6]] · Lesson 12 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-11-outcome-2-resolved-and-both-evaluated|Lesson 11]] | [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-13-the-viva-rehearsal-critique|Lesson 13]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-6-assembly-and-submission">Unit 6</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 4 in this unit · L12 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-11-outcome-2-resolved-and-both-evaluated" aria-label="Previous: Lesson 11"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-13-the-viva-rehearsal-critique" aria-label="Next: Lesson 13"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (W15)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-12-06 → Fri 2027-12-10 <em>(projected)</em></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO4 Present</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO4 Present</span></span></div>
+<p class="contract-job">The investigation sequenced so it reads in order to a stranger; documentation verified page by page; the bibliography integrated into the body</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-12-06 → Fri 2027-12-10 <em>(projected)</em><span class="contract-cell-note">Sessions: 5 days (W15)</span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> ≤30 min: read your sequence as a stranger and mark the first page where it stalls</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> No attainment. <strong><a href="../../../classes/a-level-art-design/assessments/9479-s3-assessments">CS9</a></strong> Fri 2027-12-10 (sequencing and documentation check)</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | The investigation sequenced so it reads in order to a stranger; documentation verified page by page; the bibliography integrated into the body |
-| Graded | No attainment. **[[classes/a-level-art-design/assessments/9479-s3-assessments\|CS9]]** Fri 2027-12-10 (sequencing and documentation check) |
-| Homework | ≤30 min: read your sequence as a stranger and mark the first page where it stalls |
 
 ## Overview
 
@@ -108,3 +111,8 @@ So the submission QC in Lesson 15 is a check, not a scramble. The sequence walk 
 </details>
 
 **5.** The homework is the stranger read: walk your own sequence cold and mark the first page where it stalls. One mark, honestly placed. Friday's CS9 runs the same test with other eyes, and it is better to have found the stall first.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-11-outcome-2-resolved-and-both-evaluated">← Lesson 11 · Outcome 2 Resolved and Both Evaluated</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-13-the-viva-rehearsal-critique">Lesson 13 · The Viva-Rehearsal Critique →</a>
+</div>

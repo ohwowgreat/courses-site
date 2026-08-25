@@ -9,21 +9,22 @@ modified: 2026-08-05
 ---
 # S1 Lesson 02: Formal Elements on the Theme
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-1-foundations-on-the-theme|Unit 1]] · Lesson 02 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-01-introduction-and-the-theme-menu|Lesson 01]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-03-intention-and-composition-planning|Lesson 03]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-1-foundations-on-the-theme">Unit 1</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 2 of 2 in this unit · L02 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-01-introduction-and-the-theme-menu" aria-label="Previous: Lesson 01"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-03-intention-and-composition-planning" aria-label="Next: Lesson 03"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>6 days (W2–W3)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-09-07 → Fri 2026-09-11<span class="stat-x">plus Mon 2026-09-14</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO1 Record</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1 Record</span></span></div>
+<p class="contract-job">Formal elements study set (line, tone and form, texture, color) and Recording Page 1; digital portfolio set up</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-09-07 → Fri 2026-09-11, plus Mon 2026-09-14<span class="contract-cell-note">Sessions: 6 days (W2–W3)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS1</a> collected Mon 2026-09-14 — practice for <a href="../../../classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone">A1</a></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Sketchbook: one further study per night from the theme, alternating element; ten minutes each, dated</span></div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Formal elements study set (line, tone and form, texture, color) and Recording Page 1; digital portfolio set up |
-| Feeds | [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS1]] collected Mon 2026-09-14 — practice for [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone\|A1]] |
-| Homework | Sketchbook: one further study per night from the theme, alternating element; ten minutes each, dated |
 
 ## Overview
 
@@ -121,3 +122,8 @@ Selection before layout: choose the studies that make one point about your theme
 </details>
 
 **5.** The nightly habit starts now: one further study per night from the theme, alternating element, ten minutes, dated. Keep the dates honest. A dated sketchbook is the portfolio's spine, and it cannot be faked in the last week.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-01-introduction-and-the-theme-menu">← Lesson 01 · Introduction and the Theme Menu</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-03-intention-and-composition-planning">Lesson 03 · Intention and Composition Planning →</a>
+</div>

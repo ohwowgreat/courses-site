@@ -12,7 +12,11 @@ modified: 2026-07-25
 ---
 # Oxbridge Unit 5: Memory and Forgetting
 
-[[classes/oxbridge/oxbridge|Oxbridge]] · [[classes/oxbridge/unit-plans/oxbridge-seminar-plan|Seminar Plan]] · Unit 5 of 8 · Week 10 · [[classes/oxbridge/unit-plans/oxbridge-unit-4-the-body-and-the-machine|← Unit 4]] | [[classes/oxbridge/unit-plans/oxbridge-unit-6-collective-reality|Unit 6 →]]
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/oxbridge/oxbridge">Oxbridge</a> · <a href="../../../classes/oxbridge/unit-plans/oxbridge-seminar-plan">Seminar Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 5 of 8</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
+</div>
+
 
 ## Unit question
 
@@ -60,3 +64,8 @@ The session returns to Week 9. It asks the harder version: if a machine forgot t
 > If each person's past is repainted privately, the question becomes how any two people share anything at all.
 
 W10 closes on the question that opens the next unit: money is real, borders are real, weekends are real, who agreed? [[classes/oxbridge/unit-plans/oxbridge-unit-6-collective-reality|Unit 6]].
+
+<div class="page-nav">
+<span class="page-nav-slot"></span>
+<span class="page-nav-slot"></span>
+</div>

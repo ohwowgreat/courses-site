@@ -9,21 +9,24 @@ modified: 2026-08-05
 ---
 # S2 Lesson 02: Proposal and Feasibility
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-1-foundations-on-the-investigation|Unit 1]] · Lesson 02 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-01-opening-the-investigation|Lesson 01]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked|Lesson 03]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s2-unit-1-foundations-on-the-investigation">Unit 1</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 2 of 3 in this unit · L02 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-01-opening-the-investigation" aria-label="Previous: Lesson 01"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked" aria-label="Next: Lesson 03"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (S2)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-03-01 → Fri 2027-03-05</dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>Foundations for AO1<span class="stat-x">proposal, sources, artists</span></dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">Foundations for AO1 — proposal</span><span class="contract-ao">sources</span><span class="contract-ao">artists</span></span></div>
+<p class="contract-job">A written proposal — theme, aims, primary-source plan, artist shortlist — stress-tested against the pipeline and defended at consultation 2</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-03-01 → Fri 2027-03-05<span class="contract-cell-note">Sessions: 5 days (S2)</span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> ≤30 min: act on your consultation-2 feedback and begin the statement of intent + annotated references for <strong><a href="../../../classes/a-level-art-design/assessments/9479-s2-assessments">CS2</a></strong> (Fri 2027-03-12)</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> <strong><a href="../../../classes/a-level-art-design/assessments/9479-s2-assessments">CS1</a></strong> (proposal draft) due Fri 2027-03-05 — the first C3 task, a Course Skills written annotation. The theme locks next week in <a href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked">L03</a></span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | A written proposal — theme, aims, primary-source plan, artist shortlist — stress-tested against the pipeline and defended at consultation 2 |
-| Graded | **[[classes/a-level-art-design/assessments/9479-s2-assessments\|CS1]]** (proposal draft) due Fri 2027-03-05 — the first C3 task, a Course Skills written annotation. The theme locks next week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked\|L03]] |
-| Homework | ≤30 min: act on your consultation-2 feedback and begin the statement of intent + annotated references for **[[classes/a-level-art-design/assessments/9479-s2-assessments\|CS2]]** (Fri 2027-03-12) |
 
 ## Overview
 
@@ -117,3 +120,8 @@ Whether the proposal is defensible. Reachable sources named, aims in your own wo
 </details>
 
 **5.** Before consultation, walk the proposal through all eight pipeline stages and mark where it breaks: is there enough to record, to explore, to develop, to resolve? Fix what breaks on paper today. Then start the statement of intent for CS2, due Fri 2027-03-12.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-01-opening-the-investigation">← Lesson 01 · Opening the Investigation</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked">Lesson 03 · Theme Locked →</a>
+</div>

@@ -17,21 +17,25 @@ modified: 2026-08-05
 
 # Lesson 16: A4 — The Final Poster
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster|Unit 4]] · U4·L2 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-15-the-poster-message-audience-hierarchy|Lesson 15]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-17-the-portfolio-and-the-sketchbook|Lesson 17]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/pre-a-level-art-design/pre-a-level-art-design">Pre A Level Art &amp; Design</a> · <a href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster">Unit 4</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 2 of 3 in this unit · L02</span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-15-the-poster-message-audience-hierarchy" aria-label="Previous: Lesson 15"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-17-the-portfolio-and-the-sketchbook" aria-label="Next: Lesson 17"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session</dt><dd>W17<span class="stat-x">one Wednesday double (~90 min) — the last teaching session before the winter break</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Wed 2026-12-23</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job">The final poster + reflection, submitted at close; thumbnails and type studies in the sketchbook as process</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2026-12-23<span class="contract-cell-note">Session: W17, one Wednesday double (~90 min) — the last teaching session before the winter break</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">A4 is the semester's fourth attainment; the work returns as portfolio material at W19</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Over the break: keep the sketchbook alive (2–3 pages a week — <strong><a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook">A5</a> collects it on Jan 6</strong>); read the portfolio spec; MB posting</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Focus</span> <strong><a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-a4-final-poster">A4</a> sat</strong>: the final poster made in class, handmade or digital, plus the reflection</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Focus | **[[classes/pre-a-level-art-design/assessments/pal-s1-a4-final-poster\|A4]] sat**: the final poster made in class, handmade or digital, plus the reflection |
-| Deliverable | The final poster + reflection, submitted at close; thumbnails and type studies in the sketchbook as process |
-| Feeds | A4 is the semester's fourth attainment; the work returns as portfolio material at W19 |
-| Homework | Over the break: keep the sketchbook alive (2–3 pages a week — **[[classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook\|A5]] collects it on Jan 6**); read the portfolio spec; MB posting |
 
 ## Overview
 
@@ -114,3 +118,8 @@ Hierarchy, typography, message, audience. The standard is the unit's own test: p
 </details>
 
 **5.** Over the break: the sketchbook stays alive, two to three pages a week, because A5 collects the whole book on Wed 2027-01-06, the same day the End-of-Term portfolio is due. Read the portfolio spec that went home today. January arrives faster from a break.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-15-the-poster-message-audience-hierarchy">← Lesson 15 · The Poster — Message, Audience, Hierarchy</a>
+<a class="page-nav-next" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-17-the-portfolio-and-the-sketchbook">Lesson 17 · The Portfolio and the Sketchbook →</a>
+</div>

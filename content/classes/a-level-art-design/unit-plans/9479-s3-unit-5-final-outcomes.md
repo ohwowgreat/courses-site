@@ -15,7 +15,11 @@ modified: 2026-07-18
 
 # S3 Unit 5: Final Outcomes
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-3-plan|Semester 3 Plan]] · Unit 5 · 3rd of 4 this semester · ← [[classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass|Unit 4]] | [[classes/a-level-art-design/unit-plans/9479-s3-unit-6-assembly-and-submission|Unit 6]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-semester-3-plan">Semester 3 Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 5 · 3rd of 4 this semester</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass" aria-label="Previous: Unit 4"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-6-assembly-and-submission" aria-label="Next: Unit 6"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
+
 
 ## What this unit does
 
@@ -59,3 +63,8 @@ Two attainments gate this unit. **A2, Thu 2027-10-21** is a mock portfolio revie
 - Both outcomes speak with one voice. Two voices fail AO4.
 - The paper's specialist language is exact, and every claim is evidenced in the portfolio.
 - The A2 mock review is sequenced as a real submission: it is both a dress rehearsal and an application asset.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass">← Unit 4 · Development, Second Pass</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-6-assembly-and-submission">Unit 6 · Assembly &amp; Submission →</a>
+</div>

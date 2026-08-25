@@ -20,7 +20,11 @@ modified: 2026-07-21
 
 # Unit 2: Photography
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan|Semester 1 Plan]] · Unit 2 of 4 · ← [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1: Drawing]] / [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|Unit 3: Collage]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/pre-a-level-art-design/pre-a-level-art-design">Pre A Level Art &amp; Design</a> · <a href="../../../classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan">Semester 1 Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 2 of 4</span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements" aria-label="Previous: Unit 1: Drawing"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage" aria-label="Next: Unit 3: Collage"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
+
 
 ## What this unit does
 
@@ -48,3 +52,8 @@ W10 falls inside G11 Juniors Days (11-04 → 06). Those are for G11 only, so you
 - **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|SB1]] (Course Skills)**: 2026-10-21 (W8): first sketchbook spot-check. This is the first of two evenly spaced progress checks that feed the A5 sketchbook attainment. Focus: sketchbook habit and development. See the [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|register]].
 
 Full details: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|full register]].
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements">← Unit 1: Drawing · Drawing &amp; the Visual Elements</a>
+<a class="page-nav-next" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage">Unit 3: Collage · Collage →</a>
+</div>

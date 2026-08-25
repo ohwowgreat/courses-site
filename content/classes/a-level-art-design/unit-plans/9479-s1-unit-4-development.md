@@ -15,7 +15,11 @@ modified: 2026-07-17
 
 # S1 Unit 4: Development
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-1-plan|Semester 1 Plan]] · Unit 4 of 5 · ← [[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study|Unit 3]] | [[classes/a-level-art-design/unit-plans/9479-s1-unit-5-final-outcome-and-portfolio|Unit 5]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-semester-1-plan">Semester 1 Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 4 of 5</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study" aria-label="Previous: Unit 3"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-5-final-outcome-and-portfolio" aria-label="Next: Unit 5"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
+
 
 ## What this unit does
 
@@ -27,10 +31,13 @@ Wed 2026-11-11 → Fri 2026-12-11 (W11 → W15), around the second G11 Juniors D
 
 ## Lessons
 
-- [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-10-composition-1|Lesson 10: Composition 1]]: compose from your own studies using tracing-paper overlays, build over two days, then resolve and photograph the piece honestly.
-- [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-11-composition-2-and-critique|Lesson 11: Composition 2 and Critique]]: build the rejected alternative deliberately faster, run a full-protocol structured critique, and change something because of what you heard.
-- [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-12-targeted-tests-and-direction|Lesson 12: Targeted Tests and Direction]]: no decoration. Set your final direction with the rejection written in full sentences, write an evaluation, and build the Stage 6 page as a decision trail.
-- [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-13-final-plan-and-a3|Lesson 13: Final Plan and A3]]: plan the final composition, solve thumbnails, argue your palette from meaning, sit A3, then amend the plan from feedback.
+<div class="unit-lessons">
+<div class="ul-row"><span class="ul-num">L10</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-10-composition-1">Composition 1</a></span><span class="ul-desc">compose from your own studies using tracing-paper overlays, build over two days, then resolve and photograph the piece honestly.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+<div class="ul-row"><span class="ul-num">L11</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-11-composition-2-and-critique">Composition 2 and Critique</a></span><span class="ul-desc">build the rejected alternative deliberately faster, run a full-protocol structured critique, and change something because of what you heard.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+<div class="ul-row"><span class="ul-num">L12</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-12-targeted-tests-and-direction">Targeted Tests and Direction</a></span><span class="ul-desc">no decoration. Set your final direction with the rejection written in full sentences, write an evaluation, and build the Stage 6 page as a decision trail.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+<div class="ul-row"><span class="ul-num">L13</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-13-final-plan-and-a3">Final Plan and A3</a></span><span class="ul-desc">plan the final composition, solve thumbnails, argue your palette from meaning, sit A3, then amend the plan from feedback.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+</div>
+
 
 ## Assessment
 
@@ -45,3 +52,8 @@ This unit gates on **A3, Thu 2026-12-10**, the development milestone (compositio
 - The **rejection paragraph** (your final direction, Fri of Lesson 12) is the highest-leverage piece of writing in the AO4 story. Write it in full sentences.
 - The final plan must pass this bar: a capable stranger could begin the piece from it. Choose your palette and materials for meaning, and name them as such.
 - Documentation is taught here because it pays at submission: a bad photograph loses real marks.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study">← Unit 3 · Exploration &amp; Artist Study</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-5-final-outcome-and-portfolio">Unit 5 · Final Outcome &amp; Portfolio →</a>
+</div>

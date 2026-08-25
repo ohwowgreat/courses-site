@@ -10,21 +10,24 @@ modified: 2026-08-05
 ---
 # S3 Lesson 02: The Action Plan and Development Resumes
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s3-unit-1-review-and-goal-setting|Unit 1]] → [[classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass|Unit 4]] · Lesson 02 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-01-reopening-and-the-summer-audit|Lesson 01]] | [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-03-candidate-compositions-and-the-paper-reopens|Lesson 03]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-1-review-and-goal-setting">Unit 1</a> → <a href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass">Unit 4</a></span>
+<span class="pb-pos"><span class="pb-label">Lesson 02 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-01-reopening-and-the-summer-audit" aria-label="Previous: Lesson 01"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-03-candidate-compositions-and-the-paper-reopens" aria-label="Next: Lesson 03"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (W2)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-09-06 → Fri 2027-09-10 <em>(projected)</em></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>Closing review → AO3 Develop opens</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">Closing review → AO3 Develop opens</span></span></div>
+<p class="contract-job">A signed, dated action plan; the first final-outcome candidate compositions underway</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-09-06 → Fri 2027-09-10 <em>(projected)</em><span class="contract-cell-note">Sessions: 5 days (W2)</span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> ≤30 min: composition thumbnails toward the candidates, feeding CS2</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> <strong><a href="../../../classes/a-level-art-design/assessments/9479-s3-assessments">CS2</a></strong> Fri 2027-09-10 — composition studies for the outcome candidates (sketchbook). No attainment this week</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | A signed, dated action plan; the first final-outcome candidate compositions underway |
-| Graded | **[[classes/a-level-art-design/assessments/9479-s3-assessments\|CS2]]** Fri 2027-09-10 — composition studies for the outcome candidates (sketchbook). No attainment this week |
-| Homework | ≤30 min: composition thumbnails toward the candidates, feeding CS2 |
 
 These dates are projected. They may shift when the school publishes the calendar for this period.
 
@@ -104,3 +107,8 @@ The pipeline resumes at development: Semester 2 built first-pass compositions, a
 </details>
 
 **5.** The nightly habit: composition thumbnails toward the candidates, feeding CS2. Compose from the summer pieces on the table, not from the idea of them. Two candidates go forward next week, so thumbnail wider than two.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-01-reopening-and-the-summer-audit">← Lesson 01 · Reopening and the Summer Audit</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-03-candidate-compositions-and-the-paper-reopens">Lesson 03 · Candidate Compositions and the Paper Reopens →</a>
+</div>

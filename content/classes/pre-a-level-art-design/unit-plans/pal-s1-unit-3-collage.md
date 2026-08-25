@@ -21,7 +21,11 @@ modified: 2026-07-21
 
 # Unit 3: Collage
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan|Semester 1 Plan]] · Unit 3 of 4 · ← [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography|Unit 2: Photography]] / [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster|Unit 4: Graphic Design & the Poster]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/pre-a-level-art-design/pre-a-level-art-design">Pre A Level Art &amp; Design</a> · <a href="../../../classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan">Semester 1 Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 3 of 4</span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography" aria-label="Previous: Unit 2: Photography"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster" aria-label="Next: Unit 4: Graphic Design &amp; the Poster"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
+
 
 ## What this unit does
 
@@ -60,3 +64,8 @@ These dates may shift when the school publishes the calendar for this period. An
 - **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|SB2]] (Course Skills)**: 2026-12-02 (W14), the second sketchbook spot-check. This is the last progress check before the A5 sketchbook attainment. Focus: sketchbook habit and development. See the [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|register]].
 
 Full details: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|full register]].
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography">← Unit 2: Photography · Photography</a>
+<a class="page-nav-next" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster">Unit 4: Graphic Design &amp; the Poster · Graphic Design &amp; the Poster →</a>
+</div>

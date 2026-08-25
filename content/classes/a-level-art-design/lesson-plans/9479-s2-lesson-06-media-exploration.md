@@ -9,21 +9,24 @@ modified: 2026-08-05
 ---
 # S2 Lesson 06: Media Exploration
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-3-exploration-and-artist-study|Unit 3]] · Lesson 06 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-05-recording-pages-and-feedback|Lesson 05]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-07-artist-1-in-full|Lesson 07]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s2-unit-3-exploration-and-artist-study">Unit 3</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 3 in this unit · L06 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-05-recording-pages-and-feedback" aria-label="Previous: Lesson 05"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-07-artist-1-in-full" aria-label="Next: Lesson 07"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (S6)<span class="stat-x">Unit 3 opens</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-03-29 → Fri 2027-04-02</dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO2 Explore</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO2 Explore</span></span></div>
+<p class="contract-job">Twelve media experiments planned and run; evidence-based keep-or-change with rejections named</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-03-29 → Fri 2027-04-02<span class="contract-cell-note">Sessions: 5 days (S6) — Unit 3 opens</span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Over the Qingming mock week (S7, 04-04 → 10, no regular classes): an independent sketchbook brief if the school permits</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> <strong><a href="../../../classes/a-level-art-design/assessments/9479-s2-assessments">CS4</a></strong> (twelve experiments documented) Fri 2027-04-02 — a sketchbook task. <strong><a href="../../../classes/a-level-art-design/assessments/9479-s2-assessments">A2</a></strong> (exploration + artist study, AO2+AO3) sits Fri 2027-04-23</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Twelve media experiments planned and run; evidence-based keep-or-change with rejections named |
-| Graded | **[[classes/a-level-art-design/assessments/9479-s2-assessments\|CS4]]** (twelve experiments documented) Fri 2027-04-02 — a sketchbook task. **[[classes/a-level-art-design/assessments/9479-s2-assessments\|A2]]** (exploration + artist study, AO2+AO3) sits Fri 2027-04-23 |
-| Homework | Over the Qingming mock week (S7, 04-04 → 10, no regular classes): an independent sketchbook brief if the school permits |
 
 ## Overview
 
@@ -114,3 +117,8 @@ Each experiment is photographed and labeled with the question it tested and what
 Because a reasoned no is a decision with evidence, and the selection is only as strong as what it beat. Friday's keep-or-change names which two or three media carry the theme and which are rejected, and both lists carry reasons.
 
 </details>
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-05-recording-pages-and-feedback">← Lesson 05 · Recording Pages and Feedback</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-07-artist-1-in-full">Lesson 07 · Artist 1 in Full →</a>
+</div>

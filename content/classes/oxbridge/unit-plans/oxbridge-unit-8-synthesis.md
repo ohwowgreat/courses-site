@@ -12,7 +12,11 @@ modified: 2026-07-25
 ---
 # Oxbridge Unit 8: Synthesis
 
-[[classes/oxbridge/oxbridge|Oxbridge]] · [[classes/oxbridge/unit-plans/oxbridge-seminar-plan|Seminar Plan]] · Unit 8 of 8 · Week 14 · [[classes/oxbridge/unit-plans/oxbridge-unit-7-power-and-visibility|← Unit 7]]
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/oxbridge/oxbridge">Oxbridge</a> · <a href="../../../classes/oxbridge/unit-plans/oxbridge-seminar-plan">Seminar Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Unit 8 of 8</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
+</div>
+
 
 ## Unit question
 
@@ -58,3 +62,8 @@ Each of the four questions reaches back into a different part of the course, whi
 ## After the unit
 
 Mock interviews may run in the following week if the timetable allows: twelve minutes per student, one question, no preparation. That week sits outside the fourteen. See [[classes/oxbridge/oxbridge-interview-preparation|Interview Preparation]] for the format.
+
+<div class="page-nav">
+<span class="page-nav-slot"></span>
+<span class="page-nav-slot"></span>
+</div>

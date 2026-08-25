@@ -19,7 +19,11 @@ modified: 2026-08-06
 
 # Unit 4: Images, Mediation and Modernity
 
-[[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan|Semester 1 Plan]] · Unit 4 of 5 · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics|← Unit 3]] | [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-5-semester-close-and-retrospective|Unit 5 →]]
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/art-appreciation/art-appreciation">Art Appreciation</a> · <a href="../../../classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan">Semester 1 Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 4 of 5</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
+</div>
+
 
 ## What this unit does
 
@@ -39,24 +43,39 @@ The [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthes
 
 Some later dates, including Foreign Culture Day and the New Year cutoff, may shift when the school publishes the calendar. They will be confirmed in class.
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Lessons</dt><dd>4<span class="stat-x">L10–L13</span></dd></div>
+  <div class="stat"><dt>Graded items</dt><dd>6</dd></div>
+</dl>
+
 ## Lessons
 
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-10-berger-and-the-reproduction|Lesson 10: Berger and the Reproduction]] — 5 meetings / 7 sessions across two split weeks; four contexts, caption exercise, Godard on day 5; [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB6]], [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB7]].
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image|Lesson 11: Aura and the Poor Image]] — 3 meetings / 4 sessions; ukiyo-e, Benjamin, Steyerl, degradation lab; [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS5]].
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-12-photography-and-after|Lesson 12: Photography and After]] — 5 meetings; claim to truth, Sontag, then A4 in the Tuesday double, Greenberg after it; review on day 5.
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief|Lesson 13: The Artworld and the Brief]] — 3 days; Danto, Warhol/Duchamp/pluralism; retrospective brief announced as break homework; LB8.
+<div class="unit-lessons">
+<div class="ul-row"><span class="ul-num">L10</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-10-berger-and-the-reproduction">Berger and the Reproduction</a></span><span class="ul-desc">5 meetings / 7 sessions across two split weeks; four contexts, caption exercise, Godard on day 5; <a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">LB6</a>, <a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">LB7</a>.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+<div class="ul-row"><span class="ul-num">L11</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-11-aura-and-the-poor-image">Aura and the Poor Image</a></span><span class="ul-desc">3 meetings / 4 sessions; ukiyo-e, Benjamin, Steyerl, degradation lab; <a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">CS5</a>.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+<div class="ul-row"><span class="ul-num">L12</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-12-photography-and-after">Photography and After</a></span><span class="ul-desc">5 meetings; claim to truth, Sontag, then A4 in the Tuesday double, Greenberg after it; review on day 5.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+<div class="ul-row"><span class="ul-num">L13</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief">The Artworld and the Brief</a></span><span class="ul-desc">3 days; Danto, Warhol/Duchamp/pluralism; retrospective brief announced as break homework; LB8.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+</div>
+
 
 ## Assessment
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis|A4 Unit 4 Synthesis]].
 
-| Item | Date | What |
-|---|---|---|
-| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB6]] | Wed 2026-11-25 | Seminar posting: what the painting lost and gained by reproduction |
-| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB7]] | Tue 2026-12-01 | Posting from the floating-world session |
-| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|CS5]] | Wed 2026-12-09 | Poor-image lab: degrade an image on purpose, describe exactly what changed |
-| **[[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis\|A4]] sits** | **Tue 2026-12-15** | Unit 4 synthesis constellation: argues across the whole unit |
-| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB8]] | Tue 2026-12-22 | Posting on the End-of-Semester Activity day |
-| Retrospective announced | Wed 2026-12-23 | The brief is your break homework |
+<div class="duecard">
+<span class="duecard-kicker">Due dates at a glance</span>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">LB6</a></span><span class="duecard-date">Wed 2026-11-25</span></span><span class="duecard-what">Seminar posting: what the painting lost and gained by reproduction</span></div>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">LB7</a></span><span class="duecard-date">Tue 2026-12-01</span></span><span class="duecard-what">Posting from the floating-world session</span></div>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">CS5</a></span><span class="duecard-date">Wed 2026-12-09</span></span><span class="duecard-what">Poor-image lab: degrade an image on purpose, describe exactly what changed</span></div>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><strong><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis">A4</a> sits</strong></span><span class="duecard-date"><strong>Tue 2026-12-15</strong></span></span><span class="duecard-what">Unit 4 synthesis constellation: argues across the whole unit</span></div>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">LB8</a></span><span class="duecard-date">Tue 2026-12-22</span></span><span class="duecard-what">Posting on the End-of-Semester Activity day</span></div>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item">Retrospective announced</span><span class="duecard-date">Wed 2026-12-23</span></span><span class="duecard-what">The brief is your break homework</span></div>
+</div>
+
 
 Full detail in the [[classes/art-appreciation/assessments/art-appreciation-s1-assessments|full register]].
+
+<div class="page-nav">
+<span class="page-nav-slot"></span>
+<span class="page-nav-slot"></span>
+</div>

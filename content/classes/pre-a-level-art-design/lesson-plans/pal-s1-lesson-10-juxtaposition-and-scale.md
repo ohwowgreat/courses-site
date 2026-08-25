@@ -17,21 +17,25 @@ modified: 2026-08-05
 
 # Lesson 10: Juxtaposition and Scale
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|Unit 3]] · U3·L1 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-09-a2-the-photographic-series|Lesson 09]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-11-layering-text-and-image|Lesson 11]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/pre-a-level-art-design/pre-a-level-art-design">Pre A Level Art &amp; Design</a> · <a href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage">Unit 3</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 5 in this unit · L01</span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-09-a2-the-photographic-series" aria-label="Previous: Lesson 09"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-11-layering-text-and-image" aria-label="Next: Lesson 11"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session</dt><dd>W11<span class="stat-x">one Wednesday double (~90 min) — Unit 3 opens</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Wed 2026-11-11</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job">Vocabulary in the sketchbook; two fast cut-and-paste studies (one juxtaposition, one scale)</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2026-11-11<span class="contract-cell-note">Session: W11, one Wednesday double (~90 min) — Unit 3 opens</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">The experiment set that <a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework">CS3</a> checks (W13) starts today</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Collect raw material — old magazines, printed photos (including your own U2 frames), packaging, tickets; ≥20 usable images by next week; MB posting</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Focus</span> What collage is; juxtaposition and scale — &quot;two images say a third thing&quot;</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Focus | What collage is; juxtaposition and scale — "two images say a third thing" |
-| Deliverable | Vocabulary in the sketchbook; two fast cut-and-paste studies (one juxtaposition, one scale) |
-| Feeds | The experiment set that [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|CS3]] checks (W13) starts today |
-| Homework | Collect raw material — old magazines, printed photos (including your own U2 frames), packaging, tickets; ≥20 usable images by next week; MB posting |
 
 ## Overview
 
@@ -129,3 +133,8 @@ A collage decision is a meaning decision. And the habit: dry-fit before you glue
 </details>
 
 **5.** The homework is the harvest: at least twenty usable images by next week. Old magazines, packaging, tickets, and your own printed Unit 2 photographs, which are excellent material. A collage is only as good as its harvest.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-09-a2-the-photographic-series">← Lesson 09 · A2 — The Photographic Series</a>
+<a class="page-nav-next" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-11-layering-text-and-image">Lesson 11 · Layering, Text and Image →</a>
+</div>

@@ -9,24 +9,26 @@ modified: 2026-08-06
 ---
 # Lesson 09: Food, the Table and Ethics
 
-[[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics|Unit 3]] · Lesson 09 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-08-heda-and-the-image-of-work|Lesson 08]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-10-berger-and-the-reproduction|Lesson 10]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/art-appreciation/art-appreciation">Art Appreciation</a> · <a href="../../../classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics">Unit 3</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 4 of 4 in this unit · L09 of 15</span><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-08-heda-and-the-image-of-work" aria-label="Previous: Lesson 08"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-10-berger-and-the-reproduction" aria-label="Next: Lesson 10"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-09-food-the-table-and-ethics.pptx">Download the deck (PowerPoint, 546 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay">A3</a>: Unit 3 essay on food, the table and ethics</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-11-16 to Fri 2026-11-20<span class="contract-cell-note">Days: 4 meetings (Tue is a double)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">Unit 4, &quot;which takes the same question into mediation&quot;</span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/art-appreciation/art-appreciation-s1-lesson-09-food-the-table-and-ethics.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (546 KB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> None — the essay is in class</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Session codes</span> `U3·L18`–`U3·L22`</span>
+<span class="contract-line"><span class="contract-line-label">Template</span> ASSESSED</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session codes</dt><dd>`U3·L18`–`U3·L22`</dd></div>
-  <div class="stat"><dt>Days</dt><dd>4 meetings (Tue is a double)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-11-16 to Fri 2026-11-20</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Template | ASSESSED |
-| Deliverable | [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay\|A3]]: Unit 3 essay on food, the table and ethics |
-| Feeds | Unit 4, "which takes the same question into mediation" |
-| Homework | None — the essay is in class |
 
 ## Overview
 
@@ -128,3 +130,8 @@ One claim about food and ethics, argued from the pictures themselves, not from t
 </details>
 
 **5.** Carry Friday's question into the next unit: what is a food image for when nobody intends to eat? Your feed is full of the answer. Unit 4 hands the question to Berger, and the reproduction argument starts there.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-08-heda-and-the-image-of-work">← Lesson 08 · Heda and the Image of Work</a>
+<a class="page-nav-next" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-10-berger-and-the-reproduction">Lesson 10 · Berger and the Reproduction →</a>
+</div>

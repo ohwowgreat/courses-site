@@ -18,24 +18,25 @@ modified: 2026-08-03
 
 # Lesson 11: Representation Applied to Your Own Product
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-4-representation|Unit 4]] · Lesson 11 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-10-narrative-barthes-and-the-blog-audit|Lesson 10]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-12-the-gaze|Lesson 12]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/media-studies/media-studies">Media Studies</a> · <a href="../../../classes/media-studies/unit-plans/9607-s1-unit-4-representation">Unit 4</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 3 in this unit · L11 of 19</span><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-10-narrative-barthes-and-the-blog-audit" aria-label="Previous: Lesson 10"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-12-the-gaze" aria-label="Next: Lesson 12"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-11-representation-applied-to-your-own-product.pptx">Download the deck (PowerPoint, 3.1 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO3 (A2 in); representation theory toward AO2</span></span></div>
+<p class="contract-job"><a href="../../../classes/media-studies/assessments/9607-s1-a2-blog-mid-point">A2</a> submitted day 1; stereotype audit of their own rough cut, evidenced for <a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">LB3</a></p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-10-26 · Tue 10-27 · Wed 10-28 · Fri 10-30 · Mon 11-02 · Tue 11-03<span class="contract-cell-note">Days: 6 — Mon (A2 due), Tue, Wed double, Fri, then Mon + Tue standalone</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/media-studies/assessments/9607-s1-a3-c1-portfolio">A3</a></span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-11-representation-applied-to-your-own-product.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (3.1 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> Production pickups identified by the audit</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Band/Unit</span> U4 Representation (<a href="../../../classes/media-studies/unit-plans/9607-s1-unit-4-representation">S1 Unit 4</a>)</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Days</dt><dd>6<span class="stat-x">Mon (A2 due), Tue, Wed double, Fri, then Mon + Tue standalone</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-10-26<span class="stat-x">Tue 10-27 · Wed 10-28 · Fri 10-30 · Mon 11-02 · Tue 11-03</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO3 (A2 in)<span class="stat-x">representation theory toward AO2</span></dd></div>
-</dl>
-
-| | |
-|---|---|
-| Band/Unit | U4 Representation ([[classes/media-studies/unit-plans/9607-s1-unit-4-representation\|S1 Unit 4]]) |
-| Deliverable | [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point\|A2]] submitted day 1; stereotype audit of their own rough cut, evidenced for [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB3]] |
-| Feeds | [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio\|A3]] |
-| Homework | Production pickups identified by the audit |
 
 ## Overview
 
@@ -147,3 +148,8 @@ No fixed answer. The test of a good response: the person never changes across th
 </details>
 
 **6.** Finish the line "My C1 product represents... as..." Then audit it with the week's toolkit: what did we select and combine, what reading did we assume, whose shortcut did we borrow, who is missing? Convert one finding into a production pickup while there is still time to shoot it.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-10-narrative-barthes-and-the-blog-audit">← Lesson 10 · Narrative, Barthes and the Blog Audit</a>
+<a class="page-nav-next" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-12-the-gaze">Lesson 12 · The Gaze →</a>
+</div>

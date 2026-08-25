@@ -11,21 +11,24 @@ modified: 2026-08-05
 ---
 # S4 Lesson 07: The 15-Hour Supervised Test
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s4-unit-5-supervised-test-and-submission|Unit 5]] · Lesson 07 of 10 · ← [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-06-development-and-a3-the-content-close|Lesson 06]] | [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-08-assembly-and-a4-the-submission-package|Lesson 08]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-5-supervised-test-and-submission">Unit 5</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 4 in this unit · L07 of 10</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-06-development-and-a3-the-content-close" aria-label="Previous: Lesson 06"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-08-assembly-and-a4-the-submission-package" aria-label="Next: Lesson 08"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>The elastic window (S7) + the 15-hour supervised test <em>(floats with the mock window)</em></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Reading B: test Mon 2028-04-10 → Fri 04-14<span class="stat-x">5 × 3h. Reading A: test in S7 around Qingming (4 × 3h45), whole tail pulls forward one week <em>(projected)</em></span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO4 Present<span class="stat-x">the plan realized</span></dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO4 Present — the plan realized</span></span></div>
+<p class="contract-job">The planned final piece realized inside the supervised test under exam conditions; work stored securely between sittings</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Reading B: test Mon 2028-04-10 → Fri 04-14 (5 × 3h). Reading A: test in S7 around Qingming (4 × 3h45), whole tail pulls forward one week <em>(projected)</em><span class="contract-cell-note">Sessions: The elastic window (S7) + the 15-hour supervised test <em>(floats with the mock window)</em></span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> None — the test is the work; rest between sittings</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> The supervised test itself (externally marked by Cambridge). No CS or attainment this block</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | The planned final piece realized inside the supervised test under exam conditions; work stored securely between sittings |
-| Graded | The supervised test itself (externally marked by Cambridge). No CS or attainment this block |
-| Homework | None — the test is the work; rest between sittings |
 
 ## Overview
 
@@ -102,3 +105,8 @@ Because the test is the work, and rest between sittings is preparation. Fifteen 
 </details>
 
 **5.** The rehearsal that costs nothing: walk the plan hour by hour, aloud or on paper. What does sitting one block in, what does sitting three resolve, where are the risky passages and which sitting meets them? A plan you can narrate is a plan you can execute.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-06-development-and-a3-the-content-close">← Lesson 06 · Development and A3 — the Content Close</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-08-assembly-and-a4-the-submission-package">Lesson 08 · Assembly and A4 — the Submission Package →</a>
+</div>

@@ -17,7 +17,11 @@ modified: 2026-08-06
 
 # Unit 2: Narrative, Myth and Allegory
 
-[[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan|Semester 1 Plan]] · Unit 2 of 5 · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-1-origins-and-ancestral-memory|← Unit 1]] | [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics|Unit 3 →]]
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/art-appreciation/art-appreciation">Art Appreciation</a> · <a href="../../../classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan">Semester 1 Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 2 of 5</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
+</div>
+
 
 ## What this unit does
 
@@ -37,21 +41,36 @@ The **critique flow**, describe, account, judge, is taught from cold at the top 
 
 These future dates may shift when the school publishes the calendar for this period.
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Lessons</dt><dd>2<span class="stat-x">L04–L05</span></dd></div>
+  <div class="stat"><dt>Graded items</dt><dd>5</dd></div>
+</dl>
+
 ## Lessons
 
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-04-telling-it-without-words|Lesson 04: Telling It Without Words]] — 8 days, the longest lesson in the semester. Covers the critique flow and narrative, myth, allegory, and cycle. You start the storyboard on day 8 and finish it over the break. Sets [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS2]] and [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB2]].
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet|Lesson 05: Titian to Manet]] — 6 meetings. Storyboard debrief, Gentileschi across two sessions, Titian, Manet, and a comparison workshop. A2 sits on day 4 in the Tuesday double. Sets [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS3]].
+<div class="unit-lessons">
+<div class="ul-row"><span class="ul-num">L04</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-04-telling-it-without-words">Telling It Without Words</a></span><span class="ul-desc">8 days, the longest lesson in the semester. Covers the critique flow and narrative, myth, allegory, and cycle. You start the storyboard on day 8 and finish it over the break. Sets <a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">CS2</a> and <a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">LB2</a>.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+<div class="ul-row"><span class="ul-num">L05</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet">Titian to Manet</a></span><span class="ul-desc">6 meetings. Storyboard debrief, Gentileschi across two sessions, Titian, Manet, and a comparison workshop. A2 sits on day 4 in the Tuesday double. Sets <a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">CS3</a>.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+</div>
+
 
 ## Assessment
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison|A2 Titian & Manet]].
 
-| Item | Date | What |
-|---|---|---|
-| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB2]] | Wed 2026-09-23 | Posting from the cycle-reading session |
-| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|CS2]] | Tue 2026-09-29 | Ten-frame storyboard, collected in class |
-| | Wed 2026-09-30 | Last session before the holiday |
-| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|CS3]] | Fri 2026-10-09 | Storyboard debrief: find the frame where the sequence stopped being legible |
-| **[[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison\|A2]] sits** | **Tue 2026-10-13** | In-class comparative essay, Titian vs Manet, closed |
+<div class="duecard">
+<span class="duecard-kicker">Due dates at a glance</span>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">LB2</a></span><span class="duecard-date">Wed 2026-09-23</span></span><span class="duecard-what">Posting from the cycle-reading session</span></div>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">CS2</a></span><span class="duecard-date">Tue 2026-09-29</span></span><span class="duecard-what">Ten-frame storyboard, collected in class</span></div>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"></span><span class="duecard-date">Wed 2026-09-30</span></span><span class="duecard-what">Last session before the holiday</span></div>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">CS3</a></span><span class="duecard-date">Fri 2026-10-09</span></span><span class="duecard-what">Storyboard debrief: find the frame where the sequence stopped being legible</span></div>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><strong><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison">A2</a> sits</strong></span><span class="duecard-date"><strong>Tue 2026-10-13</strong></span></span><span class="duecard-what">In-class comparative essay, Titian vs Manet, closed</span></div>
+</div>
+
 
 A2 carries the mid-term grades, due Thu 2026-10-29, so it is marked within a week rather than the usual five days. Full detail is in the [[classes/art-appreciation/assessments/art-appreciation-s1-assessments|full register]].
+
+<div class="page-nav">
+<span class="page-nav-slot"></span>
+<span class="page-nav-slot"></span>
+</div>

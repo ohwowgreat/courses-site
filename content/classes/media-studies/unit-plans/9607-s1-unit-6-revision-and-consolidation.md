@@ -21,7 +21,11 @@ modified: 2026-08-10
 > [!note] Winter break
 > The winter break runs continuously, Thu 2026-12-24 to Sun 2027-01-03. You return Mon 2027-01-04.
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-semester-1-plan|Semester 1 Plan]] · Unit 6 of 6 · ← [[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts|Unit 5]]
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/media-studies/media-studies">Media Studies</a> · <a href="../../../classes/media-studies/unit-plans/9607-semester-1-plan">Semester 1 Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Unit 6 of 6</span><a class="pb-arrow" href="../../../classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts" aria-label="Previous: Unit 5"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
+</div>
+
 
 **Concepts:** [[concepts/four-key-concepts|Four Key Concepts]] · [[concepts/technical-elements|Technical Elements]] · [[concepts/case-study-method|Case Study Method]]
 
@@ -35,23 +39,33 @@ You review the semester's knowledge, drill it, then sit it. [[classes/media-stud
 
 **W17–W21: Mon 2026-12-21 → Wed 2027-01-20**, 9 teaching days, plus the exam window Mon 2027-01-11 → Mon 01-18. Last teaching day is Fri 01-08. Winter break runs Thu 12-24 → Sun 01-03, continuous.
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Lessons</dt><dd>3<span class="stat-x">L17–L19</span></dd></div>
+  <div class="stat"><dt>Graded items</dt><dd>5</dd></div>
+</dl>
+
 ## Lessons
 
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-17-consolidation-and-the-coverage-matrix|L17 Consolidation and the Coverage Matrix]] — three days: A4 review with self-banding and target setting; Section B arguments aloud; the coverage matrix, where your weakest cell names your HW2 target; [[classes/media-studies/assessments/9607-s1-eot-component-2-paper|EoT]] announced.
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-18-exam-rehearsal|L18 Exam Rehearsal]] — full paper format and minute budgets; [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS13]] timed Section B, peer-marked then moderated; the AO economy of the mark scheme.
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-19-end-of-term-exam-and-return|L19 End of Term Exam and Return]] — the 2-hour Component 2 in the exam window; scripts back with AO breakdowns; Semester 2 target sheets.
+<div class="unit-lessons">
+<div class="ul-row"><span class="ul-num">L17</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-17-consolidation-and-the-coverage-matrix">Consolidation and the Coverage Matrix</a></span><span class="ul-desc">three days: A4 review with self-banding and target setting; Section B arguments aloud; the coverage matrix, where your weakest cell names your HW2 target; <a href="../../../classes/media-studies/assessments/9607-s1-eot-component-2-paper">EoT</a> announced.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+<div class="ul-row"><span class="ul-num">L18</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-18-exam-rehearsal">Exam Rehearsal</a></span><span class="ul-desc">full paper format and minute budgets; <a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">CS13</a> timed Section B, peer-marked then moderated; the AO economy of the mark scheme.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+<div class="ul-row"><span class="ul-num">L19</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-19-end-of-term-exam-and-return">End of Term Exam and Return</a></span><span class="ul-desc">the 2-hour Component 2 in the exam window; scripts back with AO breakdowns; Semester 2 target sheets.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+</div>
+
 
 ## Assessment
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/media-studies/assessments/9607-s1-eot-component-2-paper|End of Term Exam]].
 
-| Item | Date | What | AO |
-|---|---|---|---|
-| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB5]] | Wed 2026-12-23 | Case-study document contributions | — |
-| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|HW2]] | set 12-23 → due Mon 2027-01-04 | Break task: case-study revision pack (one page each) + one Section B essay plan | AO1 |
-| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS13]] | Wed 2027-01-06 | Timed Section B, 45 min, peer-marked then moderated | AO1+AO2 |
-| [[classes/media-studies/assessments/9607-s1-eot-component-2-paper\|EoT]] | window Mon 2027-01-11 → Mon 01-18 | Full Component 2, 2 h, exam venue; 20% category | AO1+AO2 |
-| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB7]] | Wed 2027-01-20 | Response to feedback; S2 goal setting | — |
+<div class="duecard">
+<span class="duecard-kicker">Due dates at a glance</span>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">LB5</a></span><span class="duecard-date">Wed 2026-12-23</span></span><span class="duecard-what">Case-study document contributions<span class="duecard-ao">—</span></span></div>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">HW2</a></span><span class="duecard-date">set 12-23 → due Mon 2027-01-04</span></span><span class="duecard-what">Break task: case-study revision pack (one page each) + one Section B essay plan<span class="duecard-ao">AO1</span></span></div>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">CS13</a></span><span class="duecard-date">Wed 2027-01-06</span></span><span class="duecard-what">Timed Section B, 45 min, peer-marked then moderated<span class="duecard-ao">AO1+AO2</span></span></div>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><a href="../../../classes/media-studies/assessments/9607-s1-eot-component-2-paper">EoT</a></span><span class="duecard-date">window Mon 2027-01-11 → Mon 01-18</span></span><span class="duecard-what">Full Component 2, 2 h, exam venue; 20% category<span class="duecard-ao">AO1+AO2</span></span></div>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">LB7</a></span><span class="duecard-date">Wed 2027-01-20</span></span><span class="duecard-what">Response to feedback; S2 goal setting<span class="duecard-ao">—</span></span></div>
+</div>
+
 
 A4 is returned Mon 12-21. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
@@ -60,3 +74,8 @@ A4 is returned Mon 12-21. See the [[classes/media-studies/assessments/9607-s1-as
 - Coverage matrix: case studies × the four Key Concepts. Your weakest cell names your HW2 target.
 - Section B craft: rehearse arguments aloud (claim, evidence, counter, response) before writing; keep to minute budgets per section; peer mark, so you read the scheme as a marker once.
 - Closing data loop: question-level AO breakdowns; one-page target sheets (gap, evidence, action, review date); grades and comments due Wed 01-20.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts">← Unit 5 · Media Contexts</a>
+<span class="page-nav-slot"></span>
+</div>

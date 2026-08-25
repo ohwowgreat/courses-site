@@ -15,7 +15,11 @@ modified: 2026-07-18
 
 # S2 Unit 4: Development
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-2-plan|Semester 2 Plan]] · Unit 4 of 5 · ← [[classes/a-level-art-design/unit-plans/9479-s2-unit-3-exploration-and-artist-study|Unit 3]] | [[classes/a-level-art-design/unit-plans/9479-s2-unit-5-mid-point-portfolio|Unit 5]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-semester-2-plan">Semester 2 Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 4 of 5</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s2-unit-3-exploration-and-artist-study" aria-label="Previous: Unit 3"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s2-unit-5-mid-point-portfolio" aria-label="Next: Unit 5"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
+
 
 ## What this unit does
 
@@ -58,3 +62,8 @@ You sit **A3 on Fri 2027-05-28**: the development milestone plus research paper 
 - Both compositions reach the same resolved standard, so the comparison is fair. Composition 2 is not built to fail.
 - A draft comparison page with the rejections written out earns top **AO4** in the exemplars. You build it here.
 - Draft 1 grows from your artist writing, not bolted on. Argue before you polish the prose.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/unit-plans/9479-s2-unit-3-exploration-and-artist-study">← Unit 3 · Exploration &amp; Artist Study</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/unit-plans/9479-s2-unit-5-mid-point-portfolio">Unit 5 · Mid-Point Portfolio →</a>
+</div>

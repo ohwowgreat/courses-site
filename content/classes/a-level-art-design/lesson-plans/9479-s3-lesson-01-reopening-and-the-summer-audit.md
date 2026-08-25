@@ -8,21 +8,24 @@ modified: 2026-08-05
 ---
 # S3 Lesson 01: Reopening and the Summer Audit
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s3-unit-1-review-and-goal-setting|Unit 1]] · Lesson 01 of 15 · [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-02-the-action-plan-and-development-resumes|Lesson 02]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-1-review-and-goal-setting">Unit 1</a></span>
+<span class="pb-pos"><span class="pb-label">Lesson 1 of 1 in this unit · L01 of 15</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-02-the-action-plan-and-development-resumes" aria-label="Next: Lesson 02"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>3 days (W1, reduced — term opens Wed)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Wed 2027-09-01 → Fri 2027-09-03 <em>(projected)</em></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>Review against AO1–AO4<span class="stat-x">the summer work audited</span></dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">Review against AO1–AO4; the summer work audited</span></span></div>
+<p class="contract-job">Every summer piece present, annotated and judged against its June target — met, missed, missing — and defended 1:1</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2027-09-01 → Fri 2027-09-03 <em>(projected)</em><span class="contract-cell-note">Sessions: 3 days (W1, reduced — term opens Wed)</span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> ≤30 min: finish annotating any summer piece not yet judged against its named target, ready for the 1:1s</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> <strong><a href="../../../classes/a-level-art-design/assessments/9479-s3-assessments">CS1</a></strong> Fri 2027-09-03 — summer portfolio audit against the set targets, marked piece by piece. No attainment this week</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Every summer piece present, annotated and judged against its June target — met, missed, missing — and defended 1:1 |
-| Graded | **[[classes/a-level-art-design/assessments/9479-s3-assessments\|CS1]]** Fri 2027-09-03 — summer portfolio audit against the set targets, marked piece by piece. No attainment this week |
-| Homework | ≤30 min: finish annotating any summer piece not yet judged against its named target, ready for the 1:1s |
 
 These dates are projected. They may shift once the school publishes the term calendar.
 
@@ -108,3 +111,8 @@ They open research paper draft 2 in Unit 4. The reading was never idle: it becom
 </details>
 
 **5.** Before your one-to-one: finish annotating any summer piece not yet judged, and mark your own verdicts first. Arriving with met, missed, and missing already named turns the review into a conversation about what comes next, which is what it is for.
+
+<div class="page-nav">
+<span class="page-nav-slot"></span>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-02-the-action-plan-and-development-resumes">Lesson 02 · The Action Plan and Development Resumes →</a>
+</div>

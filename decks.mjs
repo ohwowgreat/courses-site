@@ -73,7 +73,7 @@ export const DECK_EXCEPTIONS = new Set([])
 
 const sha256 = (buf) => createHash("sha256").update(buf).digest("hex")
 
-const kb = (bytes) =>
+export const kb = (bytes) =>
   bytes >= 1024 * 1024 ? `${(bytes / 1024 / 1024).toFixed(1)} MB` : `${Math.round(bytes / 1024)} KB`
 
 // Every top-level .pptx in each course's vault decks/ directory. Courses without

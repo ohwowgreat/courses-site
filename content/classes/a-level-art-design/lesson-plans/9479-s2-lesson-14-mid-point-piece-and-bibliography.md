@@ -9,21 +9,24 @@ modified: 2026-08-05
 ---
 # S2 Lesson 14: Mid-Point Piece and Bibliography
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-5-mid-point-portfolio|Unit 5]] · Lesson 14 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-13-evaluation-draft-1-and-a3|Lesson 13]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-15-submission-week-and-a4|Lesson 15]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s2-unit-5-mid-point-portfolio">Unit 5</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 2 in this unit · L14 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-13-evaluation-draft-1-and-a3" aria-label="Previous: Lesson 13"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-15-submission-week-and-a4" aria-label="Next: Lesson 15"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (S15)<span class="stat-x">Unit 5 opens</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-05-31 → Fri 2027-06-04</dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO1–AO4<span class="stat-x">the portfolio pulls all four together</span></dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1–AO4 (the portfolio pulls all four together)</span></span></div>
+<p class="contract-job">Mid-point piece chosen and refined; bibliography integrated into the body; page architecture planned</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-05-31 → Fri 2027-06-04<span class="contract-cell-note">Sessions: 5 days (S15) — Unit 5 opens</span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> ≤30 min: over the weekend, prepare images and page order for the build, ahead of submission week in <a href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-15-submission-week-and-a4">L15</a></span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> <strong><a href="../../../classes/a-level-art-design/assessments/9479-s2-assessments">CS9</a></strong> (bibliography + source integration check) Thu 2027-06-03 — written annotation. <strong><a href="../../../classes/a-level-art-design/assessments/9479-s2-assessments">A4</a></strong> (mid-point portfolio, AO1–AO4) sits Fri 2027-06-11</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Mid-point piece chosen and refined; bibliography integrated into the body; page architecture planned |
-| Graded | **[[classes/a-level-art-design/assessments/9479-s2-assessments\|CS9]]** (bibliography + source integration check) Thu 2027-06-03 — written annotation. **[[classes/a-level-art-design/assessments/9479-s2-assessments\|A4]]** (mid-point portfolio, AO1–AO4) sits Fri 2027-06-11 |
-| Homework | ≤30 min: over the weekend, prepare images and page order for the build, ahead of submission week in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-15-submission-week-and-a4\|L15]] |
 
 ## Overview
 
@@ -107,3 +110,8 @@ Because sequence decided on paper makes next week assembly, not invention. The j
 </details>
 
 **5.** Over the weekend, prepare images and page order for the build. Thirty minutes. Walk the planned sequence once as a stranger would: theme to recording to exploration to artists to development to the resolved piece to the paper. Note where you stumble, and fix the order before Monday.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-13-evaluation-draft-1-and-a3">← Lesson 13 · Evaluation, Draft 1 and A3</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-15-submission-week-and-a4">Lesson 15 · Submission Week and A4 →</a>
+</div>

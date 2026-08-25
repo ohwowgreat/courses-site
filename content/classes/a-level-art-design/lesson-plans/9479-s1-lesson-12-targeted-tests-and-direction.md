@@ -15,21 +15,22 @@ modified: 2026-08-05
   <figcaption>Vincent van Gogh, <em>Skull of a Skeleton with Burning Cigarette</em>, 1885 — what it shows is simple; what it suggests is the lesson</figcaption>
 </figure>
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-4-development|Unit 4]] · Lesson 12 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-11-composition-2-and-critique|Lesson 11]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-13-final-plan-and-a3|Lesson 13]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-4-development">Unit 4</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 3 of 4 in this unit · L12 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-11-composition-2-and-critique" aria-label="Previous: Lesson 11"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-13-final-plan-and-a3" aria-label="Next: Lesson 13"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days<span class="stat-x">W13–W14, the tail before the Juniors Days</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Wed 2026-11-25 → Fri 2026-11-27<span class="stat-x">then Mon 2026-11-30 → Tue 2026-12-01</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO3 Develop</span></span></div>
+<p class="contract-job">Targeted tests on the unresolved questions only; final direction chosen with its rejection articulated; the written evaluation; the Stage 6 page</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2026-11-25 → Fri 2026-11-27, then Mon 2026-11-30 → Tue 2026-12-01<span class="contract-cell-note">Sessions: 5 days (W13–W14, the tail before the Juniors Days)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS9</a> collected Fri 2026-11-27, inside the tests run</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Written annotation: the evaluation drafted across the Juniors Days gap</span></div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Targeted tests on the unresolved questions only; final direction chosen with its rejection articulated; the written evaluation; the Stage 6 page |
-| Feeds | [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS9]] collected Fri 2026-11-27, inside the tests run |
-| Homework | Written annotation: the evaluation drafted across the Juniors Days gap |
 
 ## Overview
 
@@ -116,3 +117,8 @@ Studies, compositions, critique, tests, choice. The page reads as a sequence of 
 </details>
 
 **5.** Across the Juniors Days gap, draft the evaluation with the frame, then strike the frame and read it for honesty. "It went well" is not honest. Name one place it fell short and what the final piece does about it. A3's date is on the board: Thu 2026-12-10.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-11-composition-2-and-critique">← Lesson 11 · Composition 2 and Critique</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-13-final-plan-and-a3">Lesson 13 · Final Plan and A3 →</a>
+</div>

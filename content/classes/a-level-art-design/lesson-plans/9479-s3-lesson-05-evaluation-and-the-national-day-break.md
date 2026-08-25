@@ -10,21 +10,24 @@ modified: 2026-08-05
 ---
 # S3 Lesson 05: Evaluation and the National Day Break
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass|Unit 4]] · Lesson 05 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-04-development-studies-and-targeted-tests|Lesson 04]] | [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-06-a1-the-development-milestone|Lesson 06]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass">Unit 4</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 3 of 4 in this unit · L05 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-04-development-studies-and-targeted-tests" aria-label="Previous: Lesson 04"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-06-a1-the-development-milestone" aria-label="Next: Lesson 06"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>4 days (W5) + 1 day (W6) across the break<span class="stat-x">both reduced</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-09-27 → Thu 09-30<span class="stat-x">then Fri 2027-10-08 <em>(projected; National Day from Fri 10-01)</em></span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop<span class="stat-x">the decision trail</span></dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO3 Develop; the decision trail</span></span></div>
+<p class="contract-job">The evaluation drafted in writing; the Stage 6 page assembled; the chosen candidate up before the break</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-09-27 → Thu 09-30, then Fri 2027-10-08 <em>(projected; National Day from Fri 10-01)</em><span class="contract-cell-note">Sessions: 4 days (W5) + 1 day (W6) across the break — both reduced</span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Over the break, ≤30 min total: a written note on what still needs closing on the chosen candidate, for the gap-repair session</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> No attainment. <strong><a href="../../../classes/a-level-art-design/assessments/9479-s3-assessments">A1</a> and <a href="../../../classes/a-level-art-design/assessments/9479-s3-assessments">A2</a> are both announced Thu 2027-09-30</strong> (see below)</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | The evaluation drafted in writing; the Stage 6 page assembled; the chosen candidate up before the break |
-| Graded | No attainment. **[[classes/a-level-art-design/assessments/9479-s3-assessments\|A1]] and [[classes/a-level-art-design/assessments/9479-s3-assessments\|A2]] are both announced Thu 2027-09-30** (see below) |
-| Homework | Over the break, ≤30 min total: a written note on what still needs closing on the chosen candidate, for the gap-repair session |
 
 ## Overview
 
@@ -112,3 +115,8 @@ The chosen candidate, brought up to standard before the holiday, and a short wri
 </details>
 
 **5.** The break note is the homework, thirty minutes at most across the whole holiday. Write it the day the break starts, while the unresolved passages are still fresh. Re-entry runs from that list.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-04-development-studies-and-targeted-tests">← Lesson 04 · Development Studies and Targeted Tests</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-06-a1-the-development-milestone">Lesson 06 · A1 — The Development Milestone →</a>
+</div>

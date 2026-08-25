@@ -14,7 +14,11 @@ modified: 2026-07-25
 ---
 # Oxbridge Unit 1: The Image
 
-[[classes/oxbridge/oxbridge|Oxbridge]] · [[classes/oxbridge/unit-plans/oxbridge-seminar-plan|Seminar Plan]] · Unit 1 of 8 · Weeks 1–2 · [[classes/oxbridge/unit-plans/oxbridge-unit-2-the-gap|Unit 2 →]]
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/oxbridge/oxbridge">Oxbridge</a> · <a href="../../../classes/oxbridge/unit-plans/oxbridge-seminar-plan">Seminar Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 1 of 8</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
+</div>
+
 
 ## Unit question
 
@@ -62,3 +66,8 @@ Both sessions set a reading. This is the only consecutive pair in the course tha
 > If the image is not a neutral window, the next question is whether anything is. That moves the argument from pictures to measurement, where you expect to find safety.
 
 W02's closing question does the handoff: a thermometer measures temperature; does it show you the temperature, or change it? You are meant to hear a change of subject. [[classes/oxbridge/unit-plans/oxbridge-unit-2-the-gap|Unit 2]] removes the safety.
+
+<div class="page-nav">
+<span class="page-nav-slot"></span>
+<span class="page-nav-slot"></span>
+</div>

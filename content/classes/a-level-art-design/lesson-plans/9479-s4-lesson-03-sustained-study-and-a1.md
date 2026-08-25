@@ -10,21 +10,24 @@ modified: 2026-08-05
 ---
 # S4 Lesson 03: Sustained Study and A1
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s4-unit-2-recording|Unit 2]] · Lesson 03 of 10 · ← [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-02-recording-at-exam-pace|Lesson 02]] | [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-04-exploration-and-artist-1|Lesson 04]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-2-recording">Unit 2</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 2 of 2 in this unit · L03 of 10</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-02-recording-at-exam-pace" aria-label="Previous: Lesson 02"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-04-exploration-and-artist-1" aria-label="Next: Lesson 04"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (S3)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2028-03-06 → Fri 2028-03-10 <em>(projected)</em></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO1 Record</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1 Record</span></span></div>
+<p class="contract-job">The sustained study pushed past comfortable; critical annotation tying the recording to the question; the recording milestone</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2028-03-06 → Fri 2028-03-10 <em>(projected)</em><span class="contract-cell-note">Sessions: 5 days (S3)</span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> ≤30 min (capped): one line per recording page — what it taught about the question</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> <strong><a href="../../../classes/a-level-art-design/assessments/9479-s4-assessments">CS3</a></strong> Thu 2028-03-09 (sustained study progress check) Thu 2028-03-09 · <strong><a href="../../../classes/a-level-art-design/assessments/9479-s4-assessments">A1</a></strong> Fri 2028-03-10 (AO1)</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | The sustained study pushed past comfortable; critical annotation tying the recording to the question; the recording milestone |
-| Graded | **[[classes/a-level-art-design/assessments/9479-s4-assessments\|CS3]]** Thu 2028-03-09 (sustained study progress check) Thu 2028-03-09 · **[[classes/a-level-art-design/assessments/9479-s4-assessments\|A1]]** Fri 2028-03-10 (AO1) |
-| Homework | ≤30 min (capped): one line per recording page — what it taught about the question |
 
 
 <figure class="plate">
@@ -101,3 +104,8 @@ The notice is placed off the sitting day, fifteen days out. Announcements and si
 </details>
 
 **5.** The homework is one line per recording page: what it taught about the question. If a page has no line, it either taught nothing or you have not looked at it since making it. Both are fixable before Friday, and only before.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-02-recording-at-exam-pace">← Lesson 02 · Recording at Exam Pace</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-04-exploration-and-artist-1">Lesson 04 · Exploration and Artist 1 →</a>
+</div>

@@ -9,21 +9,24 @@ modified: 2026-08-05
 ---
 # S2 Lesson 11: Composition 2 and Paper Drafts
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-4-development|Unit 4]] · Lesson 11 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-10-resolving-composition-1|Lesson 10]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-12-critique-and-targeted-tests|Lesson 12]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s2-unit-4-development">Unit 4</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 3 of 5 in this unit · L11 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-10-resolving-composition-1" aria-label="Previous: Lesson 10"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-12-critique-and-targeted-tests" aria-label="Next: Lesson 12"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (S12)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-05-10 → Fri 2027-05-14</dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop (integration in view)</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO3 Develop (integration in view)</span></span></div>
+<p class="contract-job">Composition 2 composed, built across two days, and resolved to the same standard as composition 1; research paper sections drafted against the outline</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-05-10 → Fri 2027-05-14<span class="contract-cell-note">Sessions: 5 days (S12)</span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> ≤30 min: annotate toward next week's critique; bring both compositions ready to compare</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> <strong><a href="../../../classes/a-level-art-design/assessments/9479-s2-assessments">CS7</a></strong> (research paper section drafts) Fri 2027-05-14 — written annotation. <strong><a href="../../../classes/a-level-art-design/assessments/9479-s2-assessments">A3</a></strong> (development + paper draft 1, AO3) sits Fri 2027-05-28</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Composition 2 composed, built across two days, and resolved to the same standard as composition 1; research paper sections drafted against the outline |
-| Graded | **[[classes/a-level-art-design/assessments/9479-s2-assessments\|CS7]]** (research paper section drafts) Fri 2027-05-14 — written annotation. **[[classes/a-level-art-design/assessments/9479-s2-assessments\|A3]]** (development + paper draft 1, AO3) sits Fri 2027-05-28 |
-| Homework | ≤30 min: annotate toward next week's critique; bring both compositions ready to compare |
 
 ## Overview
 
@@ -97,3 +100,8 @@ Real prose built from your own material, integrated with the visual work rather 
 </details>
 
 **4.** The homework aims at Monday: annotate both compositions toward the critique, and bring them ready to compare. Reread your intention first. Next week both pieces are judged against it, and you should already know what you think each one answers.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-10-resolving-composition-1">← Lesson 10 · Resolving Composition 1</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-12-critique-and-targeted-tests">Lesson 12 · Critique and Targeted Tests →</a>
+</div>

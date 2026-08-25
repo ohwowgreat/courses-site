@@ -9,21 +9,22 @@ modified: 2026-08-05
 ---
 # S2 Lesson 04: Recording and the A1 Milestone
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-2-recording-and-sustained-study|Unit 2]] · Lesson 04 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked|Lesson 03]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-05-recording-pages-and-feedback|Lesson 05]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s2-unit-2-recording-and-sustained-study">Unit 2</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 2 in this unit · L04 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked" aria-label="Previous: Lesson 03"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-05-recording-pages-and-feedback" aria-label="Next: Lesson 05"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (S4)<span class="stat-x">Unit 2 opens</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-03-15 → Fri 2027-03-19</dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO1 Record</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1 Record</span></span></div>
+<p class="contract-job">Stage 1 page composed; first sustained study made and annotated; <a href="../../../classes/a-level-art-design/assessments/9479-s2-assessments">A1</a> recording milestone sat</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-03-15 → Fri 2027-03-19<span class="contract-cell-note">Sessions: 5 days (S4) — Unit 2 opens</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><strong>A1 Fri 2027-03-19</strong> — recording milestone (approved intention, Stage 1 pages, first sustained study, supporting recording), marked against AO1</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> ≤30 min: after A1, turn the banded feedback into three specific written actions, ahead of <a href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-05-recording-pages-and-feedback">L05</a></span></div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Stage 1 page composed; first sustained study made and annotated; [[classes/a-level-art-design/assessments/9479-s2-assessments\|A1]] recording milestone sat |
-| Feeds | **A1 Fri 2027-03-19** — recording milestone (approved intention, Stage 1 pages, first sustained study, supporting recording), marked against AO1 |
-| Homework | ≤30 min: after A1, turn the banded feedback into three specific written actions, ahead of [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-05-recording-pages-and-feedback\|L05]] |
 
 ## Overview
 
@@ -111,3 +112,8 @@ What is seen and learned, not what is felt. The annotation says what the study t
 </details>
 
 **5.** After A1 returns, write the three specific actions from the banded feedback before the weekend is out. They drive next week, and CS3 will check that they were done, not noted.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked">← Lesson 03 · Theme Locked</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-05-recording-pages-and-feedback">Lesson 05 · Recording Pages and Feedback →</a>
+</div>

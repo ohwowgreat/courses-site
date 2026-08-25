@@ -9,21 +9,24 @@ modified: 2026-08-05
 ---
 # S2 Lesson 01: Opening the Investigation
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-1-foundations-on-the-investigation|Unit 1]] · Lesson 01 of 15 · [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-02-proposal-and-feasibility|Lesson 02]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s2-unit-1-foundations-on-the-investigation">Unit 1</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 3 in this unit · L01 of 15</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-02-proposal-and-feasibility" aria-label="Next: Lesson 02"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (S1)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-02-22 → Fri 2027-02-26</dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>Orientation to Component 3<span class="stat-x">AO1 in view</span></dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">Orientation to Component 3; AO1 in view</span></span></div>
+<p class="contract-job">Three candidate themes with references, each defended 1:1 and screened against reachable sources; a shortlist narrowed toward the lock</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-02-22 → Fri 2027-02-26<span class="contract-cell-note">Sessions: 5 days (S1)</span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> ≤30 min: a short written case for each surviving candidate — the sources you can reach and the problems it opens — begun toward the CS1 proposal draft</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> Nothing is graded this week. <strong><a href="../../../classes/a-level-art-design/assessments/9479-s2-assessments">CS1</a></strong> (proposal draft) is Fri 2027-03-05; the theme locks in writing in <a href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked">L03</a></span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Three candidate themes with references, each defended 1:1 and screened against reachable sources; a shortlist narrowed toward the lock |
-| Graded | Nothing is graded this week. **[[classes/a-level-art-design/assessments/9479-s2-assessments\|CS1]]** (proposal draft) is Fri 2027-03-05; the theme locks in writing in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-03-theme-locked\|L03]] |
-| Homework | ≤30 min: a short written case for each surviving candidate — the sources you can reach and the problems it opens — begun toward the CS1 proposal draft |
 
 ## Overview
 
@@ -114,3 +117,8 @@ AO1, before a single page is made. Nothing found, nothing borrowed: recording me
 </details>
 
 **5.** This week's homework is the written case for each surviving candidate: the sources you can reach and the problems it opens, thirty minutes at most. Write the case so a skeptic could check it. Next week the strongest candidate becomes the CS1 proposal.
+
+<div class="page-nav">
+<span class="page-nav-slot"></span>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-02-proposal-and-feasibility">Lesson 02 · Proposal and Feasibility →</a>
+</div>

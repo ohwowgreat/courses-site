@@ -9,21 +9,22 @@ modified: 2026-08-05
 ---
 # S1 Lesson 15: Submission Week and A4
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-5-final-outcome-and-portfolio|Unit 5]] · Lesson 15 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-14-the-final-outcome|Lesson 14]]
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-5-final-outcome-and-portfolio">Unit 5</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 2 of 2 in this unit · L15 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-14-the-final-outcome" aria-label="Previous: Lesson 14"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days<span class="stat-x">7 sessions (W19) — Unit 5 and the semester close; attainment review protocol</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-01-04 → Fri 2027-01-08</dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO4 Present<span class="stat-x">across AO1–AO4</span></dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO4 Present</span><span class="contract-ao">across AO1–AO4</span></span></div>
+<p class="contract-job">The portfolio photographed, sequenced, edited and submitted; <a href="../../../classes/a-level-art-design/assessments/9479-s1-a4-final-portfolio">A4</a> sat; the semester reflected on</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-01-04 → Fri 2027-01-08<span class="contract-cell-note">Sessions: 5 days, 7 sessions (W19) — Unit 5 and the semester close; attainment review protocol</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><strong>A4 Thu 2027-01-07</strong>: final portfolio, marked against AO1–AO4; no edits after. Marking window Thu 01-07 → Wed 01-20 (nine working days)</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Reflection: the semester look-back, finished after Friday. Winter HW: three candidate C3 themes with annotated references, the <a href="../../../classes/a-level-art-design/9479-c3-winter-brief">C3 Winter Brief</a></span></div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | The portfolio photographed, sequenced, edited and submitted; [[classes/a-level-art-design/assessments/9479-s1-a4-final-portfolio\|A4]] sat; the semester reflected on |
-| Feeds | **A4 Thu 2027-01-07**: final portfolio, marked against AO1–AO4; no edits after. Marking window Thu 01-07 → Wed 01-20 (nine working days) |
-| Homework | Reflection: the semester look-back, finished after Friday. Winter HW: three candidate C3 themes with annotated references, the [[classes/a-level-art-design/9479-c3-winter-brief\|C3 Winter Brief]] |
 
 ## Overview
 
@@ -120,3 +121,8 @@ The portfolio goes in Thursday, in session, and nothing is edited after. Submiss
 </details>
 
 **5.** Run the final AO check on yourself before Wednesday: for each of AO1 Record, AO2 Explore, AO3 Develop, and AO4 Present, name the pages that carry it. An AO with no page to point at is a gap the sequence cannot hide. Then rest, and over the break gather the three C3 theme candidates with annotated references.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-14-the-final-outcome">← Lesson 14 · The Final Outcome</a>
+<span class="page-nav-slot"></span>
+</div>

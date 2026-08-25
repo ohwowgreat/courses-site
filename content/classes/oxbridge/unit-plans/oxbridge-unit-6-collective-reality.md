@@ -13,7 +13,11 @@ modified: 2026-07-25
 ---
 # Oxbridge Unit 6: Collective Reality
 
-[[classes/oxbridge/oxbridge|Oxbridge]] · [[classes/oxbridge/unit-plans/oxbridge-seminar-plan|Seminar Plan]] · Unit 6 of 8 · Weeks 11–12 · [[classes/oxbridge/unit-plans/oxbridge-unit-5-memory-and-forgetting|← Unit 5]] | [[classes/oxbridge/unit-plans/oxbridge-unit-7-power-and-visibility|Unit 7 →]]
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/oxbridge/oxbridge">Oxbridge</a> · <a href="../../../classes/oxbridge/unit-plans/oxbridge-seminar-plan">Seminar Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 6 of 8</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
+</div>
+
 
 ## Unit question
 
@@ -68,3 +72,8 @@ Nothing is written or collected ([[classes/oxbridge/assessments/oxbridge-writing
 > If agreement is unequally weighted, the next question is who holds the weight.
 
 [[classes/oxbridge/unit-plans/oxbridge-unit-7-power-and-visibility|Unit 7]].
+
+<div class="page-nav">
+<span class="page-nav-slot"></span>
+<span class="page-nav-slot"></span>
+</div>

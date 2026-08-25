@@ -15,21 +15,25 @@ modified: 2026-08-05
 
 # Lesson 17: The Portfolio and the Sketchbook
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster|Unit 4]] · U4·L3 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-16-a4-the-final-poster|Lesson 16]] · **semester close**
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/pre-a-level-art-design/pre-a-level-art-design">Pre A Level Art &amp; Design</a> · <a href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster">Unit 4</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 3 of 3 in this unit · L03</span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-16-a4-the-final-poster" aria-label="Previous: Lesson 16"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session</dt><dd>W19<span class="stat-x">one Wednesday double (~90 min) — the semester's last teaching session, back from the break</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Wed 2027-01-06</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job">The <a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-eot-semester-portfolio">EoT</a> portfolio (one organized file) and the sketchbook, both handed in at close</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2027-01-06<span class="contract-cell-note">Session: W19, one Wednesday double (~90 min) — the semester's last teaching session, back from the break</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">EoT (20%) and A5 (the fifth attainment) — the semester's final grades; the survey feeds next semester's shape</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> None — the semester's work is in. Return session Wed 2027-01-20: work back, grades, 1:1 feedback</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Focus</span> Documentation; the End-of-Term portfolio assembled and submitted; <strong><a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook">A5</a>: the sketchbook submitted</strong></span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Focus | Documentation; the End-of-Term portfolio assembled and submitted; **[[classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook\|A5]]: the sketchbook submitted** |
-| Deliverable | The [[classes/pre-a-level-art-design/assessments/pal-s1-eot-semester-portfolio\|EoT]] portfolio (one organized file) and the sketchbook, both handed in at close |
-| Feeds | EoT (20%) and A5 (the fifth attainment) — the semester's final grades; the survey feeds next semester's shape |
-| Homework | None — the semester's work is in. Return session Wed 2027-01-20: work back, grades, 1:1 feedback |
 
 ## Overview
 
@@ -110,3 +114,8 @@ Ideas, experimentation, visual research, reflection, presentation. Then final pa
 </details>
 
 **5.** The survey at the close is not filler: its answers shape what next semester runs. Say what you actually want, in whole sentences. Then rest. Everything returns Wed 2027-01-20 with grades and one-to-one feedback, and the semester is yours to keep.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-16-a4-the-final-poster">← Lesson 16 · A4 — The Final Poster</a>
+<span class="page-nav-slot"></span>
+</div>

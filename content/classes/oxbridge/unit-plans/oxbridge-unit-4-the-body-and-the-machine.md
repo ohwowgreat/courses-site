@@ -14,7 +14,11 @@ modified: 2026-07-25
 ---
 # Oxbridge Unit 4: The Body and the Machine
 
-[[classes/oxbridge/oxbridge|Oxbridge]] · [[classes/oxbridge/unit-plans/oxbridge-seminar-plan|Seminar Plan]] · Unit 4 of 8 · Weeks 8–9 · [[classes/oxbridge/unit-plans/oxbridge-unit-3-frameworks-and-history|← Unit 3]] | [[classes/oxbridge/unit-plans/oxbridge-unit-5-memory-and-forgetting|Unit 5 →]]
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/oxbridge/oxbridge">Oxbridge</a> · <a href="../../../classes/oxbridge/unit-plans/oxbridge-seminar-plan">Seminar Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 4 of 8</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
+</div>
+
 
 ## Unit question
 
@@ -67,3 +71,8 @@ Nothing is written or collected. The course is [[classes/oxbridge/assessments/ox
 > The strongest surviving distinction students usually offer is that human memory is sedimented and repainted while machine memory is a clean record. That claim deserves its own session.
 
 W09 closes on exactly that question, which [[classes/oxbridge/unit-plans/oxbridge-unit-5-memory-and-forgetting|Unit 5]] takes up.
+
+<div class="page-nav">
+<span class="page-nav-slot"></span>
+<span class="page-nav-slot"></span>
+</div>

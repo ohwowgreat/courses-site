@@ -16,24 +16,25 @@ modified: 2026-08-24
 
 # Lesson 14: Audiences and the Portfolio Submission
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts|Unit 5]] · Lesson 14 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-13-the-creative-critical-reflection|Lesson 13]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-15-institutions-and-section-a-craft|Lesson 15]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/media-studies/media-studies">Media Studies</a> · <a href="../../../classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts">Unit 5</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 3 in this unit · L14 of 19</span><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-13-the-creative-critical-reflection" aria-label="Previous: Lesson 13"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-15-institutions-and-section-a-craft" aria-label="Next: Lesson 15"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-14-audiences-and-the-portfolio-submission.pptx">Download the deck (PowerPoint, 4.3 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO2</span><span class="contract-ao">AO3 (A3</span><span class="contract-ao">50 marks)</span></span></div>
+<p class="contract-job"><a href="../../../classes/media-studies/assessments/9607-s1-a3-c1-portfolio">A3</a> portfolio submitted Fri 11-27 (product, CCR, blog); response-to-feedback target set day 6 (<a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">LB4</a>)</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-11-23 · Tue 11-24 · Wed 11-25 · Fri 11-27 · Mon 11-30 · Tue 12-01<span class="contract-cell-note">Days: 6 — Mon+Tue two-day block, Wed double, Fri (A3 due), then Mon + Tue</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">Component 1 grade; Semester 2 production targets</span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-14-audiences-and-the-portfolio-submission.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (4.3 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> None across the submission; feedback response after</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Band/Unit</span> U5 Media Contexts (<a href="../../../classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts">S1 Unit 5</a>)</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Days</dt><dd>6<span class="stat-x">Mon+Tue two-day block, Wed double, Fri (A3 due), then Mon + Tue</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-11-23<span class="stat-x">Tue 11-24 · Wed 11-25 · Fri 11-27 · Mon 11-30 · Tue 12-01</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO2 + AO3 (A3, 50 marks)</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Band/Unit | U5 Media Contexts ([[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts\|S1 Unit 5]]) |
-| Deliverable | [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio\|A3]] portfolio submitted Fri 11-27 (product, CCR, blog); response-to-feedback target set day 6 ([[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB4]]) |
-| Feeds | Component 1 grade; Semester 2 production targets |
-| Homework | None across the submission; feedback response after |
 
 ## Overview
 
@@ -134,3 +135,8 @@ The second is specific, evidenced from feedback, and achievable in one semester.
 </details>
 
 **6.** Before the Friday submission, run the checklist from memory: product exported and playable on a different machine, CCR posted in its creative format, blog complete with posts dated and contributions labeled, every URL checked from a signed-out browser, everything logged on the submission sheet. After Friday there are no edits. The rule is absolute.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-13-the-creative-critical-reflection">← Lesson 13 · The Creative Critical Reflection</a>
+<a class="page-nav-next" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-15-institutions-and-section-a-craft">Lesson 15 · Institutions and Section A Craft →</a>
+</div>

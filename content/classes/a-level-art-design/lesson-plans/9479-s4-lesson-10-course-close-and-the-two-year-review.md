@@ -9,21 +9,24 @@ modified: 2026-08-05
 ---
 # S4 Lesson 10: Course Close and the Two-Year Review
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s4-unit-5-supervised-test-and-submission|Unit 5]] · Lesson 10 of 10 · ← [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-09-board-week-handover-and-records|Lesson 09]] · the course closes
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-5-supervised-test-and-submission">Unit 5</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 4 of 4 in this unit · L10 of 10</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-09-board-week-handover-and-records" aria-label="Previous: Lesson 09"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>Reduced (S12)<span class="stat-x">after the May Day full week (S11, no teaching)</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2028-05-08 → Fri 2028-05-12 <em>(projected)</em></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>Review and release</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">Review and release</span></span></div>
+<p class="contract-job">A two-year review of the whole A-Level; the portfolio returned (everything the board does not hold); an A2-season briefing</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2028-05-08 → Fri 2028-05-12 <em>(projected)</em><span class="contract-cell-note">Sessions: Reduced (S12) — after the May Day full week (S11, no teaching)</span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> None — the course is complete</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> No attainment. The 20% End-of-Term category was met by <strong>the Final</strong> (teacher-marked against the Cambridge criteria; date at the teacher's discretion)</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | A two-year review of the whole A-Level; the portfolio returned (everything the board does not hold); an A2-season briefing |
-| Graded | No attainment. The 20% End-of-Term category was met by **the Final** (teacher-marked against the Cambridge criteria; date at the teacher's discretion) |
-| Homework | None — the course is complete |
 
 ## Overview
 
@@ -100,3 +103,8 @@ Patience first: results come when they come. The briefing covers the timeline an
 </details>
 
 **5.** Before the portfolio comes back to you, write the two-year line: one sentence about what the work taught you that you intend to keep. No reveal on this one. It is the only piece of writing in the course with no criteria, and it is still worth doing well.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-09-board-week-handover-and-records">← Lesson 09 · Board Week — Handover and Records</a>
+<span class="page-nav-slot"></span>
+</div>

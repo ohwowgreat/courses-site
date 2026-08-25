@@ -1527,3 +1527,428 @@ details.reveal {
     font-weight: 600;
   }
 }
+
+// ── The unit/lesson chrome (2026-08-25 redesign) ─────────────────────────────
+// Pagebar under the title, contract card on lessons, dashboard rows on units,
+// prev/next footer on both. Markup from page-chrome.mjs; one shared vocabulary:
+// the oxblood left-border card always means "what's due".
+
+.pagebar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  margin: 0.4rem 0 1.6rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--lightgray);
+
+  .pb-crumb {
+    font-size: 0.68rem;
+    font-weight: 650;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--gray);
+
+    a {
+      color: var(--secondary);
+    }
+  }
+
+  .pb-pos {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+  }
+
+  .pb-segs {
+    display: flex;
+    gap: 3px;
+  }
+
+  .pb-seg {
+    width: 1.3rem;
+    height: 4px;
+    border-radius: 2px;
+    background: var(--lightgray);
+
+    &--done {
+      background: var(--secondary);
+    }
+    &--now {
+      background: var(--tertiary);
+    }
+  }
+
+  .pb-label {
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: var(--darkgray);
+    white-space: nowrap;
+  }
+
+  .pb-arrow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.7rem;
+    height: 1.7rem;
+    border: 1px solid var(--lightgray);
+    border-radius: 50%;
+    color: var(--darkgray);
+    background: var(--light);
+
+    &:hover {
+      border-color: var(--secondary);
+      color: var(--secondary);
+    }
+
+    &--off {
+      opacity: 0.35;
+      pointer-events: none;
+    }
+  }
+}
+
+// The contract card: the page's opening answer to "what do I owe, and when?".
+.contract {
+  margin: 1.4rem 0 2rem;
+  padding: 1.15rem 1.4rem 1.2rem;
+  border: 1px solid var(--lightgray);
+  border-left: 3px solid var(--secondary);
+  border-radius: 0 6px 6px 0;
+  background: var(--light);
+
+  .contract-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.6rem;
+  }
+
+  .contract-kicker {
+    font-size: 0.66rem;
+    font-weight: 650;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--secondary);
+  }
+
+  .contract-aos {
+    display: flex;
+    gap: 0.3rem;
+  }
+
+  .contract-ao {
+    font-size: 0.68rem;
+    font-weight: 600;
+    padding: 0.06rem 0.55rem;
+    border: 1px solid var(--lightgray);
+    border-radius: 11px;
+    color: var(--darkgray);
+    white-space: nowrap;
+  }
+
+  // The article's p margins are for prose; the card composes its own rhythm.
+  p.contract-job {
+    margin: 0.6rem 0 0;
+    font-family: var(--headerFont);
+    font-size: 1.22rem;
+    line-height: 1.35;
+    font-weight: 600;
+    color: var(--dark);
+  }
+
+  .contract-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1px;
+    margin-top: 0.9rem;
+    background: var(--lightgray);
+    border: 1px solid var(--lightgray);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+
+  .contract-cell {
+    box-sizing: border-box;
+    flex: 1 1 12rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    padding: 0.6rem 0.85rem 0.65rem;
+    background: var(--light);
+  }
+
+  .contract-cell-label {
+    font-size: 0.63rem;
+    font-weight: 650;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--gray);
+  }
+
+  .contract-cell-value {
+    font-size: 0.86rem;
+    line-height: 1.45;
+    color: var(--darkgray);
+  }
+
+  .contract-cell-note {
+    display: block;
+    font-size: 0.76rem;
+    color: var(--gray);
+  }
+
+  .contract-foot {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.4rem 0.9rem;
+    margin-top: 0.9rem;
+  }
+
+  .contract-deck {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    padding: 0.42rem 0.85rem;
+    border-radius: 4px;
+    background: var(--secondary);
+    color: var(--light);
+    font-size: 0.8rem;
+    font-weight: 600;
+
+    &:hover {
+      background: var(--tertiary);
+      color: var(--light);
+    }
+  }
+
+  .contract-credits {
+    font-size: 0.76rem;
+    color: var(--gray);
+  }
+
+  .contract-hw {
+    margin-left: auto;
+    font-size: 0.78rem;
+    line-height: 1.45;
+    color: var(--gray);
+  }
+
+  .contract-line-label {
+    font-size: 0.63rem;
+    font-weight: 650;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--gray);
+    margin-right: 0.3rem;
+  }
+
+  .contract-more {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    margin-top: 0.8rem;
+    padding-top: 0.7rem;
+    border-top: 1px solid color-mix(in srgb, var(--lightgray) 55%, transparent);
+  }
+
+  .contract-line {
+    font-size: 0.82rem;
+    line-height: 1.5;
+    color: var(--darkgray);
+  }
+}
+
+// Lesson pages that carry the card get the banded section headers that make the
+// Learn / Do / Check staging legible; elsewhere h2 stays as it was. Written at
+// the same specificity as the standing `.page > #quartz-body article > h2` rule
+// (its #id outguns any class chain), or the 1px lightgray border wins.
+.page > #quartz-body article:has(.contract) > h2 {
+  border-bottom: 2px solid var(--dark);
+  padding-bottom: 0.35rem;
+}
+
+// The unit page's lesson rows.
+.unit-lessons {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem 0 1.4rem;
+
+  // The row is a div (nested anchors are invalid); the title link's stretched
+  // ::after makes the whole row its hit area, and inner description links sit
+  // above it on their own z-index so they stay clickable.
+  .ul-row {
+    position: relative;
+    display: flex;
+    align-items: baseline;
+    gap: 0.9rem;
+    padding: 0.6rem 0.2rem;
+    border-bottom: 1px solid var(--lightgray);
+
+    &:hover .ul-title {
+      color: var(--secondary);
+    }
+  }
+
+  .ul-num {
+    flex: 0 0 2.4rem;
+    font-family: var(--headerFont);
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: var(--secondary);
+  }
+
+  .ul-body {
+    flex: 1 1 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+    min-width: 0;
+  }
+
+  .ul-title {
+    font-size: 0.92rem;
+    font-weight: 600;
+    color: var(--dark);
+
+    &::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+    }
+  }
+
+  .ul-desc a {
+    position: relative;
+    z-index: 1;
+  }
+
+  .ul-meta {
+    font-size: 0.74rem;
+    font-weight: 500;
+    color: var(--gray);
+  }
+
+  .ul-desc {
+    font-size: 0.8rem;
+    line-height: 1.5;
+    color: var(--darkgray);
+  }
+
+  .ul-chev {
+    flex: 0 0 auto;
+    color: var(--gray);
+    align-self: center;
+  }
+}
+
+// The unit page's due-dates card — same oxblood left border as the contract:
+// one card language for "what's due" across both page kinds.
+.duecard {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  margin: 1rem 0 1.4rem;
+  padding: 0.95rem 1.2rem 1.05rem;
+  border: 1px solid var(--lightgray);
+  border-left: 3px solid var(--secondary);
+  border-radius: 0 6px 6px 0;
+  background: var(--light);
+
+  .duecard-kicker {
+    font-size: 0.66rem;
+    font-weight: 650;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--secondary);
+  }
+
+  .duecard-row {
+    display: flex;
+    flex-direction: column;
+    gap: 0.05rem;
+  }
+
+  .duecard-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.8rem;
+  }
+
+  .duecard-item {
+    font-size: 0.88rem;
+    font-weight: 650;
+    color: var(--dark);
+  }
+
+  .duecard-date {
+    font-size: 0.78rem;
+    color: var(--gray);
+    white-space: nowrap;
+  }
+
+  .duecard-what {
+    font-size: 0.8rem;
+    line-height: 1.45;
+    color: var(--darkgray);
+  }
+
+  .duecard-ao {
+    margin-left: 0.45rem;
+    font-size: 0.66rem;
+    font-weight: 600;
+    padding: 0.02rem 0.5rem;
+    border: 1px solid var(--lightgray);
+    border-radius: 10px;
+    color: var(--gray);
+    white-space: nowrap;
+  }
+}
+
+// The closing prev/next.
+.page-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  margin-top: 2.2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--lightgray);
+  font-size: 0.85rem;
+
+  .page-nav-prev {
+    color: var(--darkgray);
+  }
+
+  .page-nav-next {
+    font-weight: 600;
+    text-align: right;
+    margin-left: auto;
+  }
+
+  .page-nav-slot {
+    flex: 1;
+  }
+}
+
+// Narrow screens: the pagebar stacks, the label may wrap, and the homework note
+// drops under the deck button instead of floating right.
+@media all and (max-width: 600px) {
+  .pagebar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .pagebar .pb-label {
+    white-space: normal;
+  }
+  .contract .contract-hw {
+    margin-left: 0;
+  }
+  .unit-lessons .ul-chev {
+    display: none;
+  }
+}

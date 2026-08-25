@@ -8,24 +8,26 @@ modified: 2026-08-05
 ---
 # Lesson 15: Return
 
-[[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-5-semester-close-and-retrospective|Unit 5]] · Lesson 15 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-14-the-retrospective|Lesson 14]]
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/art-appreciation/art-appreciation">Art Appreciation</a> · <a href="../../../classes/art-appreciation/unit-plans/art-appreciation-s1-unit-5-semester-close-and-retrospective">Unit 5</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 2 of 2 in this unit · L15 of 15</span><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-14-the-retrospective" aria-label="Previous: Lesson 14"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-15-return.pptx">Download the deck (PowerPoint, 455 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job">Semester 2 goals, plus <a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">LB9</a></p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Tue 2027-01-19 to Tue 2027-01-19<span class="contract-cell-note">Days: 3</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">Semester 2</span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/art-appreciation/art-appreciation-s1-lesson-15-return.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (455 KB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> None</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Session codes</span> none — uncoded return days</span>
+<span class="contract-line"><span class="contract-line-label">Template</span> BESPOKE</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session codes</dt><dd>none<span class="stat-x">uncoded return days</span></dd></div>
-  <div class="stat"><dt>Days</dt><dd>3</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Tue 2027-01-19 to Tue 2027-01-19</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Template | BESPOKE |
-| Deliverable | Semester 2 goals, plus [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB9]] |
-| Feeds | Semester 2 |
-| Homework | None |
 
 ## Overview
 
@@ -108,3 +110,8 @@ Because it is posted after the grades deadline, so it cannot count here, and it 
 </details>
 
 **5.** For the trailer: Semester 2 is a genuinely different course. Patronage, the market, and who decides what is worth money. Bring one question you want it to answer, written down. The best goals for the spring start as questions the autumn could not close.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-14-the-retrospective">← Lesson 14 · The Retrospective</a>
+<span class="page-nav-slot"></span>
+</div>

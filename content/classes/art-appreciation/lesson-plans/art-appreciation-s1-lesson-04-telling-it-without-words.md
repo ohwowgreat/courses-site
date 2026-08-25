@@ -9,24 +9,26 @@ modified: 2026-08-05
 ---
 # Lesson 04: Telling It Without Words
 
-[[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory|Unit 2]] · Lesson 04 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-03-the-first-board|Lesson 03]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet|L05]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/art-appreciation/art-appreciation">Art Appreciation</a> · <a href="../../../classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory">Unit 2</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 2 in this unit · L04 of 15</span><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-03-the-first-board" aria-label="Previous: Lesson 03"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet" aria-label="Next: L05"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-04-telling-it-without-words.pptx">Download the deck (PowerPoint, 1.7 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">CS2</a> ten-frame storyboard, set as the break homework</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Sun 2026-09-20 to Wed 2026-09-30<span class="contract-cell-note">Days: 8 — longest lesson of the semester</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison">A2</a></span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/art-appreciation/art-appreciation-s1-lesson-04-telling-it-without-words.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (1.7 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> BREAK HOMEWORK: the ten-frame sequence, 3–4 h across the twelve-day holiday, set day 8</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Session codes</span> `U2·L1`–`U2·L8`</span>
+<span class="contract-line"><span class="contract-line-label">Template</span> MAKE</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session codes</dt><dd>`U2·L1`–`U2·L8`</dd></div>
-  <div class="stat"><dt>Days</dt><dd>8<span class="stat-x">longest lesson of the semester</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Sun 2026-09-20 to Wed 2026-09-30</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Template | MAKE |
-| Deliverable | [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|CS2]] ten-frame storyboard, set as the break homework |
-| Feeds | [[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison\|A2]] |
-| Homework | BREAK HOMEWORK: the ten-frame sequence, 3–4 h across the twelve-day holiday, set day 8 |
 
 ## Overview
 
@@ -129,3 +131,8 @@ A stranger can read it in the right order with no captions and no dialogue. The 
 </details>
 
 **5.** The storyboard is practice for A2, and the link is invisible unless said: both are about reading what a picture decided. Over the break, the sequence takes three to four hours and no more. A2 sits Tue 10-13.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-03-the-first-board">← Lesson 03 · The First Board</a>
+<a class="page-nav-next" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet">L05 · Titian to Manet →</a>
+</div>

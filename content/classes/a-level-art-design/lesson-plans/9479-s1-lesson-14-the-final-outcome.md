@@ -9,21 +9,22 @@ modified: 2026-08-05
 ---
 # S1 Lesson 14: The Final Outcome
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-5-final-outcome-and-portfolio|Unit 5]] · Lesson 14 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-13-final-plan-and-a3|Lesson 13]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-15-submission-week-and-a4|Lesson 15]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-5-final-outcome-and-portfolio">Unit 5</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 2 in this unit · L14 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-13-final-plan-and-a3" aria-label="Previous: Lesson 13"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-15-submission-week-and-a4" aria-label="Next: Lesson 15"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>8 days (W16–W17)<span class="stat-x">Unit 5 opens</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-12-14 → Fri 2026-12-18<span class="stat-x">then Mon 2026-12-21 → Wed 2026-12-23</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO4 Present</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO4 Present</span></span></div>
+<p class="contract-job">The final outcome, built in one sustained run and resolved to a unified surface</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-12-14 → Fri 2026-12-18, then Mon 2026-12-21 → Wed 2026-12-23<span class="contract-cell-note">Sessions: 8 days (W16–W17) — Unit 5 opens</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS10</a> mid-production review Fri 2026-12-18 — direct practice for <a href="../../../classes/a-level-art-design/assessments/9479-s1-a4-final-portfolio">A4</a> (17 days before Thu 2027-01-07; the notice window covers the break)</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Sketchbook during W16; none over the break — the outcome finishes in class and the pages rest</span></div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | The final outcome, built in one sustained run and resolved to a unified surface |
-| Feeds | [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS10]] mid-production review Fri 2026-12-18 — direct practice for [[classes/a-level-art-design/assessments/9479-s1-a4-final-portfolio\|A4]] (17 days before Thu 2027-01-07; the notice window covers the break) |
-| Homework | Sketchbook during W16; none over the break — the outcome finishes in class and the pages rest |
 
 ## Overview
 
@@ -117,3 +118,8 @@ Day six, focal areas. Day seven, surface unity. Day eight, final touches and sto
 </details>
 
 **5.** The daily ritual for all eight days: a re-entry look before touching the piece, and an exit annotation against the plan. One line each evening answering one question: what did today's work do that the plan asked for? Eight honest lines are the build run's whole story.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-13-final-plan-and-a3">← Lesson 13 · Final Plan and A3</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-15-submission-week-and-a4">Lesson 15 · Submission Week and A4 →</a>
+</div>

@@ -26,8 +26,9 @@ import { reframeAll } from "./reframe.mjs"
 import { libraryMarkdown } from "./gallery.mjs"
 import { insertCitations } from "./cite.mjs"
 import { checkDates, PAPER, PAPER_BEFORE } from "./date-check.mjs"
-import { syncDecks, deckLine, courseDeckBlock, DECKS_DIR } from "./decks.mjs"
+import { syncDecks, deckLine, courseDeckBlock, DECKS_DIR, kb } from "./decks.mjs"
 import { statStrip, stripHtml, STAT_LABELS } from "./at-a-glance.mjs"
+import { buildCourseIndex, lessonChrome, unitChrome } from "./page-chrome.mjs"
 
 // Env overrides exist so the pipeline can be exercised off-machine against a
 // fixture vault without touching the real content/. Normal use needs neither.
@@ -1526,6 +1527,19 @@ function cleanFrontmatter(fm, publishedTargets) {
 const files = await walk(VAULT)
 const published = files.map((f) => relative(VAULT, f)).filter((rel) => !isDropped(rel))
 
+// Titles and per-unit lesson rosters for the pagebars and footers, scanned from
+// ALL authored unit/lesson pages — withheld lessons still occupy their slot in
+// the numbering, and a segment bar that skipped them would disagree with the
+// authored "Lesson NN of MM" beside it.
+const courseIndex = buildCourseIndex(
+  await Promise.all(
+    files
+      .map((f) => relative(VAULT, f))
+      .filter((rel) => /\/(lesson-plans|unit-plans)\//.test(rel) && rel.endsWith(".md"))
+      .map(async (rel) => ({ rel, raw: await readFile(join(VAULT, rel), "utf8") })),
+  ),
+)
+
 // The safety valve on the fail-closed analyses/ rule: name what it withheld, so a
 // page written for students that simply was not allowlisted is visible in the log
 // rather than silently absent from the site. Not a ⚠ — withholding is the correct
@@ -1843,7 +1857,26 @@ for (const { rel, frontmatter: fm, body: cleaned, practice } of pages) {
   if (CHECKLISTS[rel]) body = insertChecklist(body, CHECKLISTS[rel], rel)
   if (CITATIONS[rel]) body = insertCitations(body, CITATIONS[rel], rel)
   const deck = decks.byLesson.get(rel)
-  if (deck) body = insertDeckLine(body, deckLine(deck, depth))
+  // The 2026-08-25 redesign: pagebar + contract card on lesson pages, pagebar +
+  // dashboard on unit pages. Runs before insertDeckLine because the card absorbs
+  // the deck line, and before statStrip because the card consumes the whole
+  // At-a-glance table — on any page the chrome declines, both older transforms
+  // still find their shapes untouched and do exactly what they did yesterday.
+  let chrome = null
+  if (/\/lesson-plans\//.test(rel)) {
+    const deckInfo = deck
+      ? {
+          href: `${"../".repeat(depth)}${DECKS_DIR}/${deck.folder}/${deck.file}`,
+          credits: `${"../".repeat(depth)}${DECKS_DIR}/credits`,
+          size: kb(deck.size),
+        }
+      : null
+    chrome = lessonChrome(body, depth, deckInfo, courseIndex)
+  } else if (/\/unit-plans\//.test(rel)) {
+    chrome = unitChrome(body, depth, courseIndex)
+  }
+  if (chrome) body = chrome.body
+  if (deck && !chrome?.carded) body = insertDeckLine(body, deckLine(deck, depth))
   // After the figure inserts, so an unmatched figure's end-of-body fallback
   // lands above Practice, which stays the page's last section.
   if (practice)
@@ -1852,6 +1885,8 @@ for (const { rel, frontmatter: fm, body: cleaned, practice } of pages) {
   // insertDeckLine on the first "## ", and both must still see the page as the vault
   // wrote it.
   body = statStrip(body)
+  // The closing prev/next, after Practice so it stays the last thing on the page.
+  if (chrome?.footer) body = body.trimEnd() + "\n\n" + chrome.footer
   if (HEROES[rel]) body = heroFigure(HEROES[rel], depth) + body
 
   const dest = join(OUT, rel)

@@ -14,7 +14,11 @@ modified: 2026-07-18
 
 # S4 Unit 1: Foundations on the Question
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-4-plan|Semester 4 Plan]] · Unit 1 of 5 · [[classes/a-level-art-design/unit-plans/9479-s4-unit-2-recording|Unit 2]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-semester-4-plan">Semester 4 Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 1 of 5</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-2-recording" aria-label="Next: Unit 2"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
+
 
 ## What this unit does
 
@@ -43,3 +47,8 @@ There are no attainment gates in this unit. The first, **[[classes/a-level-art-d
 - The strengths audit runs on **what your portfolio shows, not on preference**. The exam rewards what you can already do at pace.
 - You lock the question in writing by Friday, with a rationale grounded in evidence.
 - The winter regimen closes here. Your past-paper review notes and drawing-regimen evidence feed the audit directly.
+
+<div class="page-nav">
+<span class="page-nav-slot"></span>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-2-recording">Unit 2 · Recording →</a>
+</div>

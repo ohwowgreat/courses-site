@@ -9,24 +9,26 @@ modified: 2026-08-05
 ---
 # Lesson 07: The Split Weeks
 
-[[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics|Unit 3]] · Lesson 07 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-06-the-table-as-moral-space|Lesson 06]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-08-heda-and-the-image-of-work|Lesson 08]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/art-appreciation/art-appreciation">Art Appreciation</a> · <a href="../../../classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics">Unit 3</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 2 of 4 in this unit · L07 of 15</span><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-06-the-table-as-moral-space" aria-label="Previous: Lesson 06"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-08-heda-and-the-image-of-work" aria-label="Next: Lesson 08"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-07-the-split-weeks.pptx">Download the deck (PowerPoint, 829 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job">The reflection on your own table, plus <a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">LB4</a></p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-10-26 to Fri 2026-10-30<span class="contract-cell-note">Days: 5, each complete in itself</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay">A3</a></span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/art-appreciation/art-appreciation-s1-lesson-07-the-split-weeks.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (829 KB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> None — &quot;half the room cannot do it&quot;</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Session codes</span> `U3·L6`–`U3·L10`</span>
+<span class="contract-line"><span class="contract-line-label">Template</span> BESPOKE</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session codes</dt><dd>`U3·L6`–`U3·L10`</dd></div>
-  <div class="stat"><dt>Days</dt><dd>5<span class="stat-x">each complete in itself</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-10-26 to Fri 2026-10-30</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Template | BESPOKE |
-| Deliverable | The reflection on your own table, plus [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB4]] |
-| Feeds | [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay\|A3]] |
-| Homework | None — "half the room cannot do it" |
 
 
 <figure class="plate">
@@ -120,3 +122,8 @@ Nostalgia instead of reading: warm memories of family dinners, described fondly.
 </details>
 
 **5.** Carry the seminar question for the week: is hospitality generosity or obligation? Hold a position for two days, and write down the strongest thing someone said against it. Moving when someone is right is still the graded behavior, here and all semester.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-06-the-table-as-moral-space">← Lesson 06 · The Table as Moral Space</a>
+<a class="page-nav-next" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-08-heda-and-the-image-of-work">Lesson 08 · Heda and the Image of Work →</a>
+</div>

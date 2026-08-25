@@ -19,7 +19,11 @@ modified: 2026-07-21
 
 # Unit 4: Graphic Design & the Poster
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan|Semester 1 Plan]] · Unit 4 of 4 · ← [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|Unit 3: Collage]]
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/pre-a-level-art-design/pre-a-level-art-design">Pre A Level Art &amp; Design</a> · <a href="../../../classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan">Semester 1 Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Unit 4 of 4</span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage" aria-label="Previous: Unit 3: Collage"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
+</div>
+
 
 ## What this unit does
 
@@ -66,3 +70,8 @@ Full details: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|fu
 ## Library resources
 
 For reference, use the **Fashion** collection and the loose **Mucha** posters at the top level of the shared image slide library.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage">← Unit 3: Collage · Collage</a>
+<span class="page-nav-slot"></span>
+</div>

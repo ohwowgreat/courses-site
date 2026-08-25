@@ -10,21 +10,24 @@ modified: 2026-08-05
 ---
 # S4 Lesson 06: Development and A3 — the Content Close
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s4-unit-4-development|Unit 4]] · Lesson 06 of 10 · ← [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-05-artist-2-the-bridge-piece-and-a2|Lesson 05]] | [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-07-the-15-hour-supervised-test|Lesson 07]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-4-development">Unit 4</a></span>
+<span class="pb-pos"><span class="pb-label">Lesson 1 of 1 in this unit · L06 of 10</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-05-artist-2-the-bridge-piece-and-a2" aria-label="Previous: Lesson 05"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-07-the-15-hour-supervised-test" aria-label="Next: Lesson 07"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (S6) + the elastic window <em>(reading B adds up to 4 days; see L07)</em></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2028-03-27 → Fri 2028-03-31 <em>(projected)</em></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop closing into AO4 Present</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO3 Develop closing into AO4 Present</span></span></div>
+<p class="contract-job">Final-piece candidates composed; a draft comparison page with rejections in writing; a final composition plan; every supporting study complete</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2028-03-27 → Fri 2028-03-31 <em>(projected)</em><span class="contract-cell-note">Sessions: 5 days (S6) + the elastic window <em>(reading B adds up to 4 days; see L07)</em></span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> ≤30 min: write the rejection for the candidate you set aside — why it loses to the one you kept</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> <strong><a href="../../../classes/a-level-art-design/assessments/9479-s4-assessments">CS6</a></strong> Thu 2028-03-30 (composition critique response + draft comparison page) · <strong><a href="../../../classes/a-level-art-design/assessments/9479-s4-assessments">A3</a></strong> Fri 2028-03-31 (AO3+AO4) — <strong>content close</strong> same day</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Final-piece candidates composed; a draft comparison page with rejections in writing; a final composition plan; every supporting study complete |
-| Graded | **[[classes/a-level-art-design/assessments/9479-s4-assessments\|CS6]]** Thu 2028-03-30 (composition critique response + draft comparison page) · **[[classes/a-level-art-design/assessments/9479-s4-assessments\|A3]]** Fri 2028-03-31 (AO3+AO4) — **content close** same day |
-| Homework | ≤30 min: write the rejection for the candidate you set aside — why it loses to the one you kept |
 
 These dates are projected. They may shift when the school publishes the calendar for that period.
 
@@ -108,3 +111,8 @@ Nothing new is taught after Friday. The compression is deliberate: one taught de
 </details>
 
 **5.** The homework is the rejection for the candidate you set aside: why it loses to the one you kept, in full sentences. You have written this paragraph in every component. This is the last time it decides a real piece, so write it like it matters, because it does.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-05-artist-2-the-bridge-piece-and-a2">← Lesson 05 · Artist 2, the Bridge Piece, and A2</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-07-the-15-hour-supervised-test">Lesson 07 · The 15-Hour Supervised Test →</a>
+</div>

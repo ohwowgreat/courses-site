@@ -9,24 +9,26 @@ modified: 2026-08-05
 ---
 # Lesson 06: The Table as Moral Space
 
-[[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics|Unit 3]] · Lesson 06 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet|Lesson 05]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-07-the-split-weeks|Lesson 07]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/art-appreciation/art-appreciation">Art Appreciation</a> · <a href="../../../classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics">Unit 3</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 4 in this unit · L06 of 15</span><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet" aria-label="Previous: Lesson 05"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-07-the-split-weeks" aria-label="Next: Lesson 07"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-06-the-table-as-moral-space.pptx">Download the deck (PowerPoint, 890 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job">Written reading of one meal, plus <a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">LB3</a></p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-10-19 to Fri 2026-10-23<span class="contract-cell-note">Days: 5</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay">A3</a></span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/art-appreciation/art-appreciation-s1-lesson-06-the-table-as-moral-space.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (890 KB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> Finish the film if the screening runs short; otherwise none</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Session codes</span> `U3·L1`, `U3·L2-3` (two-day run), `U3·L4`, `U3·L5`</span>
+<span class="contract-line"><span class="contract-line-label">Template</span> STUDY</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session codes</dt><dd>`U3·L1`<span class="stat-x">`U3·L2-3` (two-day run), `U3·L4`, `U3·L5`</span></dd></div>
-  <div class="stat"><dt>Days</dt><dd>5</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-10-19 to Fri 2026-10-23</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Template | STUDY |
-| Deliverable | Written reading of one meal, plus [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB3]] |
-| Feeds | [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay\|A3]] |
-| Homework | Finish the film if the screening runs short; otherwise none |
 
 ## Overview
 
@@ -112,3 +114,8 @@ Who is fed. Who serves. Who is not in the picture. The third is the quiet one, a
 </details>
 
 **5.** Run the method on a real meal this week: one family dinner or one canteen lunch, read with the three questions. Nothing is handed in. The point is that the method works everywhere, which is what makes it a method.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet">← Lesson 05 · Titian to Manet</a>
+<a class="page-nav-next" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-07-the-split-weeks">Lesson 07 · The Split Weeks →</a>
+</div>

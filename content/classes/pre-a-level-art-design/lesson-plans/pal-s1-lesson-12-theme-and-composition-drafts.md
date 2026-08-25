@@ -17,21 +17,25 @@ modified: 2026-08-05
 
 # Lesson 12: Theme and Composition Drafts
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|Unit 3]] · U3·L3 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-11-layering-text-and-image|Lesson 11]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-13-final-collage-production|Lesson 13]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/pre-a-level-art-design/pre-a-level-art-design">Pre A Level Art &amp; Design</a> · <a href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage">Unit 3</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 3 of 5 in this unit · L03</span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-11-layering-text-and-image" aria-label="Previous: Lesson 11"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-13-final-collage-production" aria-label="Next: Lesson 13"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session</dt><dd>W13<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Wed 2026-11-25</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job">A written main idea + two dry-fit drafts, one circled with a reason</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2026-11-25<span class="contract-cell-note">Session: W13, one Wednesday double (~90 min)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><strong><a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework">CS3</a> collected this session</strong> (the experiment set) (sits W15, 12-09)</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Gather any missing material your chosen draft needs; MB posting</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Focus</span> Meaning; a main idea chosen; two composition drafts for the final collage</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Focus | Meaning; a main idea chosen; two composition drafts for the final collage |
-| Deliverable | A written main idea + two dry-fit drafts, one circled with a reason |
-| Feeds | **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|CS3]] collected this session** (the experiment set) (sits W15, 12-09) |
-| Homework | Gather any missing material your chosen draft needs; MB posting |
 
 ## Overview
 
@@ -121,3 +125,8 @@ Range and honest annotation across the experiment set: juxtaposition, scale, lay
 </details>
 
 **5.** Homework: gather whatever material your circled draft still needs. Look at the draft photo and list the gaps. Arriving next week with the right pieces is the difference between a making session and a hunting session.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-11-layering-text-and-image">← Lesson 11 · Layering, Text and Image</a>
+<a class="page-nav-next" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-13-final-collage-production">Lesson 13 · Final Collage Production →</a>
+</div>

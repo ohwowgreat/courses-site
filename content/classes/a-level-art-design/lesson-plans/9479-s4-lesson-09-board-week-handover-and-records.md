@@ -10,21 +10,24 @@ modified: 2026-08-05
 ---
 # S4 Lesson 09: Board Week — Handover and Records
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s4-unit-5-supervised-test-and-submission|Unit 5]] · Lesson 09 of 10 · ← [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-08-assembly-and-a4-the-submission-package|Lesson 08]] | [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-10-course-close-and-the-two-year-review|Lesson 10]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-5-supervised-test-and-submission">Unit 5</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 3 of 4 in this unit · L09 of 10</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-08-assembly-and-a4-the-submission-package" aria-label="Previous: Lesson 08"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-10-course-close-and-the-two-year-review" aria-label="Next: Lesson 10"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (S10) <em>(floats with the test)</em></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2028-04-24 → Fri 2028-04-28 <em>(projected)</em></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO4 Present<span class="stat-x">completion and handover</span></dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO4 Present — completion and handover</span></span></div>
+<p class="contract-job">Supervised gap repair on what QC named; final checks against the specification; C1, C2 and C3 submitted together to the exam board; the portfolio photographed for student records</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2028-04-24 → Fri 2028-04-28 <em>(projected)</em><span class="contract-cell-note">Sessions: 5 days (S10) <em>(floats with the test)</em></span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> None beyond keeping a personal record of the photographed portfolio</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> <strong><a href="../../../classes/a-level-art-design/assessments/9479-s4-assessments">CS8</a></strong> Thu 2028-04-27 (portfolio photography for student records). No attainment this week</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Supervised gap repair on what QC named; final checks against the specification; C1, C2 and C3 submitted together to the exam board; the portfolio photographed for student records |
-| Graded | **[[classes/a-level-art-design/assessments/9479-s4-assessments\|CS8]]** Thu 2028-04-27 (portfolio photography for student records). No attainment this week |
-| Homework | None beyond keeping a personal record of the photographed portfolio |
 
 ## Overview
 
@@ -108,3 +111,8 @@ The course close. The board has the components, the marks and samples travel to 
 </details>
 
 **5.** Keep your personal record properly: the full portfolio photography, filed and backed up. Universities, foundation courses, and future applications will ask for exactly this, and the board will not give it back.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-08-assembly-and-a4-the-submission-package">← Lesson 08 · Assembly and A4 — the Submission Package</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-10-course-close-and-the-two-year-review">Lesson 10 · Course Close and the Two-Year Review →</a>
+</div>

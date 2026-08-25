@@ -17,21 +17,25 @@ modified: 2026-08-05
 
 # Lesson 07: Light, Shadow and the Series Theme
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography|Unit 2]] · U2·L2 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-06-framing-and-viewpoint|Lesson 06]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-08-the-theme-shoot-and-the-contact-sheet-edit|Lesson 08]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/pre-a-level-art-design/pre-a-level-art-design">Pre A Level Art &amp; Design</a> · <a href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography">Unit 2</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 2 of 4 in this unit · L02</span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-06-framing-and-viewpoint" aria-label="Previous: Lesson 06"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-08-the-theme-shoot-and-the-contact-sheet-edit" aria-label="Next: Lesson 08"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session</dt><dd>W8<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Wed 2026-10-21</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job">A four-position light circuit; a written, approved series theme in the sketchbook</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2026-10-21<span class="contract-cell-note">Session: W8, one Wednesday double (~90 min)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">this session<strong> (sits W10, 11-04); </strong><a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework">SB1</a>** sketchbook spot-check runs today</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Begin the theme shoot — ≥15 frames on the chosen theme before W9; MB posting</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Focus</span> Light and shadow; what makes a series; each student leaves with an <a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-a2-photographic-series">A2</a> theme</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Focus | Light and shadow; what makes a series; each student leaves with an [[classes/pre-a-level-art-design/assessments/pal-s1-a2-photographic-series\|A2]] theme |
-| Deliverable | A four-position light circuit; a written, approved series theme in the sketchbook |
-| Feeds | this session** (sits W10, 11-04); **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|SB1]]** sketchbook spot-check runs today |
-| Homework | Begin the theme shoot — ≥15 frames on the chosen theme before W9; MB posting |
 
 ## Overview
 
@@ -146,3 +150,8 @@ Something shootable at school or home within the fortnight: a noun you walk past
 </details>
 
 **5.** The homework is the start of the real work: at least fifteen frames on your approved theme before next Wednesday. Shoot with the light circuit in your head. Fifteen frames that each chose their light beat forty that did not.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-06-framing-and-viewpoint">← Lesson 06 · Framing and Viewpoint</a>
+<a class="page-nav-next" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-08-the-theme-shoot-and-the-contact-sheet-edit">Lesson 08 · The Theme Shoot and the Contact-Sheet Edit →</a>
+</div>

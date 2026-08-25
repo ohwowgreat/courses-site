@@ -9,21 +9,22 @@ modified: 2026-08-05
 ---
 # S1 Lesson 13: Final Plan and A3
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-4-development|Unit 4]] · Lesson 13 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-12-targeted-tests-and-direction|Lesson 12]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-14-the-final-outcome|Lesson 14]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-4-development">Unit 4</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 4 of 4 in this unit · L13 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-12-targeted-tests-and-direction" aria-label="Previous: Lesson 12"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-14-the-final-outcome" aria-label="Next: Lesson 14"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (W15)<span class="stat-x">Unit 4 closes; attainment review protocol</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-12-07 → Fri 2026-12-11</dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO3 closing into AO4</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO3 closing into AO4</span></span></div>
+<p class="contract-job">Final composition plan, supporting thumbnails, palette and materials settled; <a href="../../../classes/a-level-art-design/assessments/9479-s1-a3-development-milestone">A3</a> sat; the plan adjusted from feedback</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-12-07 → Fri 2026-12-11<span class="contract-cell-note">Sessions: 5 days (W15) — Unit 4 closes; attainment review protocol</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><strong>A3 Thu 2026-12-10</strong>: development milestone, marked against AO3. Foreign Culture Day may take Fri 12-11: the feedback lesson slips, never the assessment</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Reflection: the plan adjustment written up after Friday's feedback</span></div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Final composition plan, supporting thumbnails, palette and materials settled; [[classes/a-level-art-design/assessments/9479-s1-a3-development-milestone\|A3]] sat; the plan adjusted from feedback |
-| Feeds | **A3 Thu 2026-12-10**: development milestone, marked against AO3. Foreign Culture Day may take Fri 12-11: the feedback lesson slips, never the assessment |
-| Homework | Reflection: the plan adjustment written up after Friday's feedback |
 
 ## Overview
 
@@ -114,3 +115,8 @@ Compositions 1 and 2, the targeted tests, the written evaluation, and the final 
 </details>
 
 **5.** Friday converts feedback into a physically amended plan, changes initialed. Rehearse the move now: for any comment you expect, write the plan change it would cause. Feedback that changes nothing on the plan was not heard, and next week the plan governs every session.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-12-targeted-tests-and-direction">← Lesson 12 · Targeted Tests and Direction</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-14-the-final-outcome">Lesson 14 · The Final Outcome →</a>
+</div>

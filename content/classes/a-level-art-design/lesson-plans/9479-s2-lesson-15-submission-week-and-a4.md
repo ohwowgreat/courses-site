@@ -9,21 +9,22 @@ modified: 2026-08-05
 ---
 # S2 Lesson 15: Submission Week and A4
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-5-mid-point-portfolio|Unit 5]] · Lesson 15 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-14-mid-point-piece-and-bibliography|Lesson 14]]
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s2-unit-5-mid-point-portfolio">Unit 5</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 2 of 2 in this unit · L15 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-14-mid-point-piece-and-bibliography" aria-label="Previous: Lesson 14"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (S16)<span class="stat-x">Unit 5 and the semester close</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-06-07 → Fri 2027-06-11</dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO4 Present<span class="stat-x">across AO1–AO4</span></dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO4 Present</span><span class="contract-ao">across AO1–AO4</span></span></div>
+<p class="contract-job">Mid-point portfolio photographed, sequenced, edited, QC'd and submitted; <a href="../../../classes/a-level-art-design/assessments/9479-s2-assessments">A4</a> sat</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-06-07 → Fri 2027-06-11<span class="contract-cell-note">Sessions: 5 days (S16) — Unit 5 and the semester close</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><strong>A4 Fri 2027-06-11</strong> — mid-point portfolio (recording, exploration, artists, development, one resolved piece, research paper draft), marked against AO1–AO4; no edits after</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> After A4, the semester reflection. The summer production briefing (S18) then sets teacher targets for the summer — the largest uninterrupted C3 window before S3</span></div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Mid-point portfolio photographed, sequenced, edited, QC'd and submitted; [[classes/a-level-art-design/assessments/9479-s2-assessments\|A4]] sat |
-| Feeds | **A4 Fri 2027-06-11** — mid-point portfolio (recording, exploration, artists, development, one resolved piece, research paper draft), marked against AO1–AO4; no edits after |
-| Homework | After A4, the semester reflection. The summer production briefing (S18) then sets teacher targets for the summer — the largest uninterrupted C3 window before S3 |
 
 ## Overview
 
@@ -118,3 +119,8 @@ The End-of-Term category is met by a teacher-marked assessment of your portfolio
 </details>
 
 **5.** The summer is the largest uninterrupted C3 window before Semester 3. Arrive at the production briefing already knowing what you would set yourself: which pieces, what recording, which paper sections. Targets you helped set are targets you keep.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-14-mid-point-piece-and-bibliography">← Lesson 14 · Mid-Point Piece and Bibliography</a>
+<span class="page-nav-slot"></span>
+</div>

@@ -16,21 +16,25 @@ modified: 2026-08-05
 
 # Lesson 14: A3 — The Final Collage
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|Unit 3]] · U3·L5 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-13-final-collage-production|Lesson 13]] | next unit: [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster|U4 Graphic Design & the Poster]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/pre-a-level-art-design/pre-a-level-art-design">Pre A Level Art &amp; Design</a> · <a href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage">Unit 3</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 5 of 5 in this unit · L05</span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-13-final-collage-production" aria-label="Previous: Lesson 13"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster" aria-label="Next: U4 Graphic Design &amp; the Poster"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session</dt><dd>W15<span class="stat-x">one Wednesday double (~90 min) — Unit 3 closes</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Wed 2026-12-09</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job">The final collage + reflection, submitted at close; process trail (drafts, dry-fit photos, scraps) in the sketchbook</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2026-12-09<span class="contract-cell-note">Session: W15, one Wednesday double (~90 min) — Unit 3 closes</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">A3 is the semester's third attainment; U4 opens next week with the <a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-a4-final-poster">A4</a> route decision</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> None new — weekly MB posting continues; U4 Graphic Design / Printmaking opens Wed 12-16</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Focus</span> <strong><a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage">A3</a> sat</strong>: the final collage finished under assessment conditions, plus the written reflection</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Focus | **[[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage\|A3]] sat**: the final collage finished under assessment conditions, plus the written reflection |
-| Deliverable | The final collage + reflection, submitted at close; process trail (drafts, dry-fit photos, scraps) in the sketchbook |
-| Feeds | A3 is the semester's third attainment; U4 opens next week with the [[classes/pre-a-level-art-design/assessments/pal-s1-a4-final-poster\|A4]] route decision |
-| Homework | None new — weekly MB posting continues; U4 Graphic Design / Printmaking opens Wed 12-16 |
 
 ## Overview
 
@@ -115,3 +119,8 @@ Both drafts, the dry-fit photographs, and the best rejected scraps, annotated. T
 </details>
 
 **5.** After marking, the collage stays flat and safe: the four finals plus the sketchbook become the End-of-Term portfolio on 2027-01-06. December's care is January's mark. Next week the course turns to posters, and the A4 route is announced.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-13-final-collage-production">← Lesson 13 · Final Collage Production</a>
+<a class="page-nav-next" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-4-graphic-design-and-the-poster">U4 Graphic Design &amp; the Poster · Graphic Design &amp; the Poster →</a>
+</div>

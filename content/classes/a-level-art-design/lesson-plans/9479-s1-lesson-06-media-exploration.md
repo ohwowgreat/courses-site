@@ -9,21 +9,22 @@ modified: 2026-08-05
 ---
 # S1 Lesson 06: Media Exploration
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study|Unit 3]] · Lesson 06 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-05-recording-pages-and-a1|Lesson 05]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-07-selection-and-scale|Lesson 07]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study">Unit 3</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 4 in this unit · L06 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-05-recording-pages-and-a1" aria-label="Previous: Lesson 05"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-07-selection-and-scale" aria-label="Next: Lesson 07"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (W7)<span class="stat-x">Unit 3 opens; first use of the studio production template</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-10-12 → Fri 2026-10-16</dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO2 Explore<span class="stat-x">with AO3 opening</span></dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO2 Explore</span><span class="contract-ao">with AO3 opening</span></span></div>
+<p class="contract-job">Twelve media experiments run as one three-day session; a keep-or-change decision made with evidence</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-10-12 → Fri 2026-10-16<span class="contract-cell-note">Sessions: 5 days (W7) — Unit 3 opens; first use of the studio production template</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS5</a> collected Fri 2026-10-16 (slips to Monday if Foreign Culture Day takes the Friday)</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Sketchbook: continue the two most promising experiments at home, ten minutes each</span></div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Twelve media experiments run as one three-day session; a keep-or-change decision made with evidence |
-| Feeds | [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS5]] collected Fri 2026-10-16 (slips to Monday if Foreign Culture Day takes the Friday) |
-| Homework | Sketchbook: continue the two most promising experiments at home, ten minutes each |
 
 ## Overview
 
@@ -121,3 +122,8 @@ It is the 2D-to-3D loop the top-band exemplar runs: a card or clay test photogra
 </details>
 
 **5.** The pairing of source to experiment is yours, and that is where the thinking shows. Tonight and through the week: continue your two most promising experiments at home, ten minutes each, and close each day by circling the most surprising result. Surprise is data.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-05-recording-pages-and-a1">← Lesson 05 · Recording Pages and A1</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-07-selection-and-scale">Lesson 07 · Selection and Scale →</a>
+</div>

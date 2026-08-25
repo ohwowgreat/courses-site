@@ -9,21 +9,22 @@ modified: 2026-08-05
 ---
 # S1 Lesson 10: Composition 1
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-4-development|Unit 4]] · Lesson 10 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-09-artist-2-bridge-piece-and-a2|Lesson 09]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-11-composition-2-and-critique|Lesson 11]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-4-development">Unit 4</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 4 in this unit · L10 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-09-artist-2-bridge-piece-and-a2" aria-label="Previous: Lesson 09"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-11-composition-2-and-critique" aria-label="Next: Lesson 11"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (W11–W12)<span class="stat-x">Unit 4 opens; studio production template</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Wed 2026-11-11 → Fri 2026-11-13<span class="stat-x">then Mon 2026-11-16 → Tue 2026-11-17</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO3 Develop</span></span></div>
+<p class="contract-job">Composition 1 composed from the student's own studies, built across a two-day run, resolved and photographed</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2026-11-11 → Fri 2026-11-13, then Mon 2026-11-16 → Tue 2026-11-17<span class="contract-cell-note">Sessions: 5 days (W11–W12) — Unit 4 opens; studio production template</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">Nothing collected — the homework layer carries the fortnight; <a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS8</a> collects at the end of Lesson 11 with both compositions</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Reflection after the <a href="../../../classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study">A2</a> return settles (W11); sketchbook composition studies nightly (W12)</span></div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Composition 1 composed from the student's own studies, built across a two-day run, resolved and photographed |
-| Feeds | Nothing collected — the homework layer carries the fortnight; [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS8]] collects at the end of Lesson 11 with both compositions |
-| Homework | Reflection after the [[classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study\|A2]] return settles (W11); sketchbook composition studies nightly (W12) |
 
 ## Overview
 
@@ -109,3 +110,8 @@ Light, angle, and color truth. Badly photographed work loses real marks: the pho
 </details>
 
 **5.** Keep the direction sentence from Lesson 9 taped where you work, and run the nightly sketchbook studies toward the composition. If a night's study drifts from the sentence, note the drift. Drift you notice is development. Drift you do not notice is a different portfolio.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-09-artist-2-bridge-piece-and-a2">← Lesson 09 · Artist 2, Bridge Piece and A2</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-11-composition-2-and-critique">Lesson 11 · Composition 2 and Critique →</a>
+</div>

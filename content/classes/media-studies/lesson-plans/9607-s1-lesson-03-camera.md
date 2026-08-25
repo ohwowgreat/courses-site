@@ -18,27 +18,28 @@ modified: 2026-08-09
 
 # Lesson 03: Camera
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] · Lesson 03 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-signs-and-codes|Lesson 02]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-04-sound|Lesson 04]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/media-studies/media-studies">Media Studies</a> · <a href="../../../classes/media-studies/unit-plans/9607-s1-unit-2-media-language">Unit 2</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 2 of 6 in this unit · L03 of 19</span><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-signs-and-codes" aria-label="Previous: Lesson 02"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-04-sound" aria-label="Next: Lesson 04"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
+
 
 > **First of the four technical elements.** Camera · [[classes/media-studies/lesson-plans/9607-s1-lesson-04-sound|Sound]] · [[classes/media-studies/lesson-plans/9607-s1-lesson-05-mise-en-scene|Mise-en-scène]] · [[classes/media-studies/lesson-plans/9607-s1-lesson-06-editing|Editing]], then [[classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock|integration]].
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-03-camera.pptx">Download the deck (PowerPoint, 5.4 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1</span><span class="contract-ao">AO3</span></span></div>
+<p class="contract-job"><strong><a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">CS3</a></strong> six-shot rebuild: a given storyboard shot on their own kit, posted and dated on the C1 blog with one line of intention per shot</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-09-14 · Tue 09-15<span class="contract-cell-note">Days: 2 · Mon single, Tue single</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">C1 production · <a href="../../../classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis">A1</a> · <a href="../../../classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format">A4</a> · Component 2 Section A</span></div>
+<div class="contract-cell"><span class="contract-cell-label">Carries forward</span><span class="contract-cell-value">The C3 major video task (music promotion, film promotion, documentary, short film) is shot on this vocabulary</span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-03-camera.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (5.4 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> None set: kit charged and cleared for Tuesday</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Band/Unit</span> U2 Media Language, micro (<a href="../../../classes/media-studies/unit-plans/9607-s1-unit-2-media-language">S1 Unit 2</a>)</span>
+</div>
+</div>
 
-## At a glance
-
-<dl class="stat-strip">
-  <div class="stat"><dt>Days</dt><dd>2<span class="stat-x">Mon single, Tue single</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-09-14<span class="stat-x">Tue 09-15</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO1 + AO3</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Band/Unit | U2 Media Language, micro ([[classes/media-studies/unit-plans/9607-s1-unit-2-media-language\|S1 Unit 2]]) |
-| Deliverable | **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS3]]** six-shot rebuild: a given storyboard shot on their own kit, posted and dated on the C1 blog with one line of intention per shot |
-| Feeds | C1 production · [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]] · [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format\|A4]] · Component 2 Section A |
-| Carries forward | The C3 major video task (music promotion, film promotion, documentary, short film) is shot on this vocabulary |
-| Homework | None set: kit charged and cleared for Tuesday |
 
 ## Overview
 
@@ -228,3 +229,8 @@ The **Dutch tilt**. It signals dissonance, instability, something wrong in the w
 </details>
 
 **6.** Re-shoot one frame from your CS3 sequence a second way: same subject, opposite angle. Post both and write one sentence on what changed for the viewer. Nothing teaches the effect half faster than shooting the same thing twice.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-signs-and-codes">← Lesson 02 · Semiotics, Signs and Codes</a>
+<a class="page-nav-next" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-04-sound">Lesson 04 · Sound →</a>
+</div>

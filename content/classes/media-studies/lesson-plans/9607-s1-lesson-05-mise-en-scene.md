@@ -18,27 +18,28 @@ modified: 2026-08-09
 
 # Lesson 05: Mise-en-scène
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] · Lesson 05 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-04-sound|Lesson 04]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-06-editing|Lesson 06]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/media-studies/media-studies">Media Studies</a> · <a href="../../../classes/media-studies/unit-plans/9607-s1-unit-2-media-language">Unit 2</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 4 of 6 in this unit · L05 of 19</span><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-04-sound" aria-label="Previous: Lesson 04"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-06-editing" aria-label="Next: Lesson 06"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
+
 
 > **Third of the four technical elements.** [[classes/media-studies/lesson-plans/9607-s1-lesson-03-camera|Camera]] · [[classes/media-studies/lesson-plans/9607-s1-lesson-04-sound|Sound]] · Mise-en-scène · [[classes/media-studies/lesson-plans/9607-s1-lesson-06-editing|Editing]], then [[classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock|integration]].
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-05-mise-en-scene.pptx">Download the deck (PowerPoint, 9.2 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1</span><span class="contract-ao">AO3</span></span></div>
+<p class="contract-job"><strong><a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">CS5</a></strong> the mise-en-scène design board for their own product: location, costume, props, lighting plan, colour palette, each with a connotation line. Posted and dated</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-09-21 · Tue 09-22<span class="contract-cell-note">Days: 2 · Mon single, Tue single</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">C1 production (this <strong>is</strong> their design document) · <a href="../../../classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis">A1</a> · <a href="../../../classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format">A4</a></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Carries forward</span><span class="contract-cell-value">The C3 print task and website home page are mise-en-scène problems before they are anything else</span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-05-mise-en-scene.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (9.2 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> Location photographs for Tuesday: two candidate spaces, shot on a phone</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Band/Unit</span> U2 Media Language, micro (<a href="../../../classes/media-studies/unit-plans/9607-s1-unit-2-media-language">S1 Unit 2</a>)</span>
+</div>
+</div>
 
-## At a glance
-
-<dl class="stat-strip">
-  <div class="stat"><dt>Days</dt><dd>2<span class="stat-x">Mon single, Tue single</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-09-21<span class="stat-x">Tue 09-22</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO1 + AO3</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Band/Unit | U2 Media Language, micro ([[classes/media-studies/unit-plans/9607-s1-unit-2-media-language\|S1 Unit 2]]) |
-| Deliverable | **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS5]]** the mise-en-scène design board for their own product: location, costume, props, lighting plan, colour palette, each with a connotation line. Posted and dated |
-| Feeds | C1 production (this **is** their design document) · [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]] · [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format\|A4]] |
-| Carries forward | The C3 print task and website home page are mise-en-scène problems before they are anything else |
-| Homework | Location photographs for Tuesday: two candidate spaces, shot on a phone |
 
 ## Overview
 
@@ -169,3 +170,8 @@ It inverts the direction light normally comes from, so the face reads as wrong b
 **5.** Take any single frame and list ten things in it. Then cross out everything that could have been different without changing the meaning. What is left is the mise-en-scène doing actual work.
 
 **6.** Look at your own CS5 board and find the weakest cell: the one whose connotation line you could delete without losing anything. Replace that element with one that earns its place, and say what changed.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-04-sound">← Lesson 04 · Sound</a>
+<a class="page-nav-next" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-06-editing">Lesson 06 · Editing →</a>
+</div>

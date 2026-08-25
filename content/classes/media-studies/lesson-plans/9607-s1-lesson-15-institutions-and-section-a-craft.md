@@ -17,24 +17,25 @@ modified: 2026-08-03
 
 # Lesson 15: Institutions and Section A Craft
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts|Unit 5]] · Lesson 15 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-14-audiences-and-the-portfolio-submission|Lesson 14]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-16-a4-section-a-in-authentic-format|Lesson 16]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/media-studies/media-studies">Media Studies</a> · <a href="../../../classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts">Unit 5</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 2 of 3 in this unit · L15 of 19</span><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-14-audiences-and-the-portfolio-submission" aria-label="Previous: Lesson 14"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-16-a4-section-a-in-authentic-format" aria-label="Next: Lesson 16"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-15-institutions-and-section-a-craft.pptx">Download the deck (PowerPoint, 2.9 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1</span><span class="contract-ao">AO2</span></span></div>
+<p class="contract-job"><a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">CS12</a> guided Section A script; C2 case-study document opened and structured</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-12-07 · Tue 12-08 · Wed 12-09 · Fri 12-11<span class="contract-cell-note">Days: 4 — Mon single, Tue single, Wed double (CS12), Fri single</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format">A4</a></span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-15-institutions-and-section-a-craft.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (3.0 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> First case-study entries (30-min cap)</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Band/Unit</span> U5 Media Contexts (<a href="../../../classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts">S1 Unit 5</a>)</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Days</dt><dd>4<span class="stat-x">Mon single, Tue single, Wed double (CS12), Fri single</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-12-07<span class="stat-x">Tue 12-08 · Wed 12-09 · Fri 12-11</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO1 + AO2</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Band/Unit | U5 Media Contexts ([[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts\|S1 Unit 5]]) |
-| Deliverable | [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS12]] guided Section A script; C2 case-study document opened and structured |
-| Feeds | [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format\|A4]] |
-| Homework | First case-study entries (30-min cap) |
 
 ## Overview
 
@@ -148,3 +149,8 @@ Concepts, contexts, terminology, analysis, examples. Five marks each. This is th
 </details>
 
 **6.** Keep the May document alive: two dated entries a week, thirty minutes, public sources you can actually read. Date every entry. The exam's contemporaneity rule means an undated fact is a fact you cannot safely use in May.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-14-audiences-and-the-portfolio-submission">← Lesson 14 · Audiences and the Portfolio Submission</a>
+<a class="page-nav-next" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-16-a4-section-a-in-authentic-format">Lesson 16 · A4 — Section A in Authentic Format →</a>
+</div>

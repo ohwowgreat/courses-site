@@ -16,7 +16,11 @@ modified: 2026-07-22
 
 # Unit 1: Introduction
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-semester-1-plan|Semester 1 Plan]] · Unit 1 of 6 · [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/media-studies/media-studies">Media Studies</a> · <a href="../../../classes/media-studies/unit-plans/9607-semester-1-plan">Semester 1 Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 1 of 6</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><a class="pb-arrow" href="../../../classes/media-studies/unit-plans/9607-s1-unit-2-media-language" aria-label="Next: Unit 2"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
+
 
 **Concepts:** [[concepts/four-key-concepts|Four Key Concepts]] · [[concepts/media-language|Media Language]]
 
@@ -48,3 +52,8 @@ See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 - Mediation: the same event cropped, framed and captioned three ways.
 - Denotation-only writing modeled live, with ESL sentence frames.
 - C1 groundwork: set up your blog for homework, and open your EN/ZH lexicon (at least 5 entries by Friday).
+
+<div class="page-nav">
+<span class="page-nav-slot"></span>
+<a class="page-nav-next" href="../../../classes/media-studies/unit-plans/9607-s1-unit-2-media-language">Unit 2 · Media Language (Micro Elements) →</a>
+</div>

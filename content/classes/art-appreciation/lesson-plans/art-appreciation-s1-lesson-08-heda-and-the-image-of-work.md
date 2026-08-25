@@ -9,24 +9,26 @@ modified: 2026-08-06
 ---
 # Lesson 08: Heda and the Image of Work
 
-[[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics|Unit 3]] · Lesson 08 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-07-the-split-weeks|Lesson 07]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-09-food-the-table-and-ethics|Lesson 09]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/art-appreciation/art-appreciation">Art Appreciation</a> · <a href="../../../classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics">Unit 3</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 3 of 4 in this unit · L08 of 15</span><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-07-the-split-weeks" aria-label="Previous: Lesson 07"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-09-food-the-table-and-ethics" aria-label="Next: Lesson 09"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-08-heda-and-the-image-of-work.pptx">Download the deck (PowerPoint, 2.5 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">CS4</a> Heda paragraph, plus <a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">LB5</a></p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-11-02 to Fri 2026-11-13 (G11 out Wed 11-04 to Fri 11-06)<span class="contract-cell-note">Days: 6 meetings across 10 calendar days (both Tuesdays are doubles)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay">A3</a></span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/art-appreciation/art-appreciation-s1-lesson-08-heda-and-the-image-of-work.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (2.5 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> Reading on Dutch still life and the inventory, 30 min, set day 4, due day 6</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Session codes</span> `U3·L11`–`U3·L17`</span>
+<span class="contract-line"><span class="contract-line-label">Template</span> STUDY</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session codes</dt><dd>`U3·L11`–`U3·L17`</dd></div>
-  <div class="stat"><dt>Days</dt><dd>6 meetings across 10 calendar days<span class="stat-x">both Tuesdays are doubles</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-11-02 to Fri 2026-11-13<span class="stat-x">G11 out Wed 11-04 to Fri 11-06</span></dd></div>
-</dl>
-
-| | |
-|---|---|
-| Template | STUDY |
-| Deliverable | [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|CS4]] Heda paragraph, plus [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB5]] |
-| Feeds | [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay\|A3]] |
-| Homework | Reading on Dutch still life and the inventory, 30 min, set day 4, due day 6 |
 
 ## Overview
 
@@ -125,3 +127,8 @@ Every adjective is earned. An adjective is earned when the picture forces it: "t
 </details>
 
 **5.** Run the inventory move once at home: any advertisement with a table in it. Name every object and who it says you could be if you owned it. The move transfers, which is why a Dutch merchant's lunch can teach you to read a lifestyle ad.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-07-the-split-weeks">← Lesson 07 · The Split Weeks</a>
+<a class="page-nav-next" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-09-food-the-table-and-ethics">Lesson 09 · Food, the Table and Ethics →</a>
+</div>

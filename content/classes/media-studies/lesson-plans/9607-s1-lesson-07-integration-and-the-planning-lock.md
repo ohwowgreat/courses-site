@@ -18,24 +18,25 @@ modified: 2026-08-09
 
 # Lesson 07: Integration and the Planning Lock
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] · Lesson 07 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-06-editing|Lesson 06]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-08-the-viewing-protocol-and-a1|Lesson 08]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/media-studies/media-studies">Media Studies</a> · <a href="../../../classes/media-studies/unit-plans/9607-s1-unit-2-media-language">Unit 2</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 6 of 6 in this unit · L07 of 19</span><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-06-editing" aria-label="Previous: Lesson 06"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-08-the-viewing-protocol-and-a1" aria-label="Next: Lesson 08"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-07-integration-and-the-planning-lock.pptx">Download the deck (PowerPoint, 2.9 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO2 (CS7)</span><span class="contract-ao">C1 planning evidence (AO3)</span><span class="contract-ao">HW1 rehearses A1</span></span></div>
+<p class="contract-job"><strong><a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">CS7</a></strong> four-element analytical paragraph on an unseen extract, and the C1 plan locked to a shootable standard</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Tue 2026-09-29 · Wed 09-30 · Fri 10-09<span class="contract-cell-note">Days: 3 · Tue single, Wed double, then Fri after the National Day break</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis">A1</a> · <a href="../../../classes/media-studies/assessments/9607-s1-a2-blog-mid-point">A2</a></span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-07-integration-and-the-planning-lock.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (2.9 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> <a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">HW1</a> break task: an A1-format analysis of a self-chosen 2 to 3 minute sequence, plus the production window for shoots (3 to 4 hours)</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Band/Unit</span> U2 Media Language, micro (<a href="../../../classes/media-studies/unit-plans/9607-s1-unit-2-media-language">S1 Unit 2</a>), closing the band</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Days</dt><dd>3<span class="stat-x">Tue single, Wed double, then Fri after the National Day break</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Tue 2026-09-29<span class="stat-x">Wed 09-30 · Fri 10-09</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO2 (CS7)<span class="stat-x">C1 planning evidence (AO3) · HW1 rehearses A1</span></dd></div>
-</dl>
-
-| | |
-|---|---|
-| Band/Unit | U2 Media Language, micro ([[classes/media-studies/unit-plans/9607-s1-unit-2-media-language\|S1 Unit 2]]), closing the band |
-| Deliverable | **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS7]]** four-element analytical paragraph on an unseen extract, and the C1 plan locked to a shootable standard |
-| Feeds | [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]] · [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point\|A2]] |
-| Homework | [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|HW1]] break task: an A1-format analysis of a self-chosen 2 to 3 minute sequence, plus the production window for shoots (3 to 4 hours) |
 
 ## Overview
 
@@ -135,3 +136,8 @@ A plan someone else could shoot without asking questions. Numbered shots, confir
 **5.** Take your own locked plan and find the shot you are least sure you can get. Write the contingency now, before the break, in one line.
 
 **6.** Rehearse HW1 now. Run the protocol on any two-minute sequence and mark yourself for coverage only: which of the four elements did you leave out?
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-06-editing">← Lesson 06 · Editing</a>
+<a class="page-nav-next" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-08-the-viewing-protocol-and-a1">Lesson 08 · The Viewing Protocol and A1 →</a>
+</div>

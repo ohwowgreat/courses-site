@@ -15,7 +15,11 @@ modified: 2026-07-18
 
 # S4 Unit 4: Development
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-4-plan|Semester 4 Plan]] · Unit 4 of 5 · ← [[classes/a-level-art-design/unit-plans/9479-s4-unit-3-exploration-and-artist-study|Unit 3]] | [[classes/a-level-art-design/unit-plans/9479-s4-unit-5-supervised-test-and-submission|Unit 5]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-semester-4-plan">Semester 4 Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 4 of 5</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-3-exploration-and-artist-study" aria-label="Previous: Unit 3"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-5-supervised-test-and-submission" aria-label="Next: Unit 5"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
+
 
 ## What this unit does
 
@@ -45,3 +49,8 @@ Week S6 plus the elastic window. The coded sessions run 2028-03-26 to 2028-03-31
 - A strong **draft comparison page**, with your rejections written out, is what earns top AO4 in the exemplars. It is the center of this unit.
 - Your final plan should be complete enough that the test is execution, not invention.
 - There is one taught development week, widened only by the elastic window. Every gained day lands here.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-3-exploration-and-artist-study">← Unit 3 · Exploration &amp; Artist Study</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-5-supervised-test-and-submission">Unit 5 · Supervised Test &amp; Submission →</a>
+</div>

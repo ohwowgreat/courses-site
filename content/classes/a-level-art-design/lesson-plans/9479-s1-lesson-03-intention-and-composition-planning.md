@@ -15,21 +15,22 @@ modified: 2026-08-05
   <figcaption>Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from</figcaption>
 </figure>
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study|Unit 2]] · Lesson 03 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-02-formal-elements-on-the-theme|Lesson 02]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-04-the-sustained-study|Lesson 04]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-2-recording-and-sustained-study">Unit 2</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 3 in this unit · L03 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-02-formal-elements-on-the-theme" aria-label="Previous: Lesson 02"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-04-the-sustained-study" aria-label="Next: Lesson 04"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>4 days (W3)<span class="stat-x">Unit 2 opens</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Tue 2026-09-15 → Fri 2026-09-18</dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO1 Record</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1 Record</span></span></div>
+<p class="contract-job">Written intention; mind map; thumbnail sheet with one composition chosen and the rejections annotated</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Tue 2026-09-15 → Fri 2026-09-18<span class="contract-cell-note">Sessions: 4 days (W3) — Unit 2 opens</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS2</a> collected Fri 2026-09-18 — direct practice for <a href="../../../classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone">A1</a></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Written annotation: expand the intention to a paragraph a stranger could follow</span></div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Written intention; mind map; thumbnail sheet with one composition chosen and the rejections annotated |
-| Feeds | [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS2]] collected Fri 2026-09-18 — direct practice for [[classes/a-level-art-design/assessments/9479-s1-a1-recording-milestone\|A1]] |
-| Homework | Written annotation: expand the intention to a paragraph a stranger could follow |
 
 ## Overview
 
@@ -110,3 +111,8 @@ Because the first idea is the one everyone has. The investigation starts where t
 </details>
 
 **5.** Tonight: six thumbnails from your strongest branch, squint test at arm's length, then choose one and reject five in writing. Expand your intention to a paragraph a stranger could follow. That paragraph is due as homework, and it opens the sustained study on Sunday.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-02-formal-elements-on-the-theme">← Lesson 02 · Formal Elements on the Theme</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-04-the-sustained-study">Lesson 04 · The Sustained Study →</a>
+</div>

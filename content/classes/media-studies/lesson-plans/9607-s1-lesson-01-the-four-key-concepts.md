@@ -17,24 +17,25 @@ modified: 2026-08-03
 
 # Lesson 01: The Four Key Concepts
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-1-introduction|Unit 1]] · Lesson 01 of 19 · [[classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-signs-and-codes|Lesson 02]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/media-studies/media-studies">Media Studies</a> · <a href="../../../classes/media-studies/unit-plans/9607-s1-unit-1-introduction">Unit 1</a></span>
+<span class="pb-pos"><span class="pb-label">Lesson 1 of 1 in this unit · L01 of 19</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-signs-and-codes" aria-label="Next: Lesson 02"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-01-the-four-key-concepts.pptx">Download the deck (PowerPoint, 7.1 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO2</span></span></div>
+<p class="contract-job"><a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">CS1</a> analytical paragraph — denotation only, written Friday</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Tue 2026-09-01 · Wed 09-02 · Fri 09-04<span class="contract-cell-note">Days: 3 — Tue single, Wed double, Fri single</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis">A1</a> (the denotation discipline is the foundation A1 is marked on)</span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-01-the-four-key-concepts.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (7.2 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> D1: the 24-hour media-use log + blog set-up begun · D2: digital-identity mind map · all week: EN/ZH lexicon (≥5 entries by Friday)</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Band/Unit</span> U1 Introduction (<a href="../../../classes/media-studies/unit-plans/9607-s1-unit-1-introduction">S1 Unit 1</a>)</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Days</dt><dd>3<span class="stat-x">Tue single, Wed double, Fri single</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Tue 2026-09-01<span class="stat-x">Wed 09-02 · Fri 09-04</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO2</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Band/Unit | U1 Introduction ([[classes/media-studies/unit-plans/9607-s1-unit-1-introduction\|S1 Unit 1]]) |
-| Deliverable | [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS1]] analytical paragraph — denotation only, written Friday |
-| Feeds | [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]] (the denotation discipline is the foundation A1 is marked on) |
-| Homework | D1: the 24-hour media-use log + blog set-up begun · D2: digital-identity mind map · all week: EN/ZH lexicon (≥5 entries by Friday) |
 
 ## Overview
 
@@ -155,3 +156,8 @@ One strong version: because every text is made through choices. Something was st
 </details>
 
 **5.** Replay the mediation demo on your own phone. Take one photo of an ordinary scene. Write two captions that steer it two different ways. Keep both in your notes for Lesson 02, where the caption's power gets its theorist.
+
+<div class="page-nav">
+<span class="page-nav-slot"></span>
+<a class="page-nav-next" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-signs-and-codes">Lesson 02 · Semiotics, Signs and Codes →</a>
+</div>

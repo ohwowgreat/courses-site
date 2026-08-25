@@ -9,21 +9,22 @@ modified: 2026-08-05
 ---
 # S2 Lesson 08: Artist 2, Bridge and A2
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-3-exploration-and-artist-study|Unit 3]] · Lesson 08 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-07-artist-1-in-full|Lesson 07]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-09-composition-1|Lesson 09]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s2-unit-3-exploration-and-artist-study">Unit 3</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 3 of 3 in this unit · L08 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-07-artist-1-in-full" aria-label="Previous: Lesson 07"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-09-composition-1" aria-label="Next: Lesson 09"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (S9)<span class="stat-x">Unit 3 closes</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-04-19 → Fri 2027-04-23</dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO2 Explore + AO3 Develop</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO2 Explore</span><span class="contract-ao">AO3 Develop</span></span></div>
+<p class="contract-job">Artist 2 analyzed against Artist 1; the bridge piece made; a scale trial; Stage 3 pages laid out; <a href="../../../classes/a-level-art-design/assessments/9479-s2-assessments">A2</a> sat</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-04-19 → Fri 2027-04-23<span class="contract-cell-note">Sessions: 5 days (S9) — Unit 3 closes</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><strong>A2 Fri 2027-04-23</strong> — exploration and artist study (twelve experiments, media selection, both artist pages, bridge piece, Stage 3 pages), marked against AO2+AO3</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> ≤30 min: after A2, note three development directions the bridge piece and scale trial opened, ahead of Unit 4 in <a href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-09-composition-1">L09</a></span></div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Artist 2 analyzed against Artist 1; the bridge piece made; a scale trial; Stage 3 pages laid out; [[classes/a-level-art-design/assessments/9479-s2-assessments\|A2]] sat |
-| Feeds | **A2 Fri 2027-04-23** — exploration and artist study (twelve experiments, media selection, both artist pages, bridge piece, Stage 3 pages), marked against AO2+AO3 |
-| Homework | ≤30 min: after A2, note three development directions the bridge piece and scale trial opened, ahead of Unit 4 in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-09-composition-1\|L09]] |
 
 
 <figure class="plate">
@@ -112,3 +113,8 @@ Experiments, selection, artists, bridge, scale, each leading to the next decisio
 </details>
 
 **5.** A2 reviews the twelve experiments and their selection, both artist pages, the bridge piece and scale trial, and the Stage 3 pages. Nothing is added during the review. Afterward, the homework: note three development directions the bridge and the trial opened. Unit 4 starts from that list.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-07-artist-1-in-full">← Lesson 07 · Artist 1 in Full</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-09-composition-1">Lesson 09 · Composition 1 →</a>
+</div>

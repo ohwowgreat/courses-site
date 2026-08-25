@@ -19,7 +19,11 @@ modified: 2026-08-06
 
 # Unit 3: Food, the Table and Ethics
 
-[[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan|Semester 1 Plan]] · Unit 3 of 5 · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory|← Unit 2]] | [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity|Unit 4 →]]
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/art-appreciation/art-appreciation">Art Appreciation</a> · <a href="../../../classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan">Semester 1 Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 3 of 5</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
+</div>
+
 
 ## What this unit does
 
@@ -47,12 +51,20 @@ This unit treats the table as a place where rules get enforced, not just a setti
 - **G11 Juniors Days, Wed 2026-11-04 to Fri 2026-11-06:** no class. Lesson 08 runs across 6 meetings over 10 calendar days.
 - **Foreign Culture Day, Fri 2026-11-20:** lessons run. The essay is already in by then; A3 sits Tue 11-17.
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Lessons</dt><dd>4<span class="stat-x">L06–L09</span></dd></div>
+  <div class="stat"><dt>Graded items</dt><dd>5</dd></div>
+</dl>
+
 ## Lessons
 
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-06-the-table-as-moral-space|Lesson 06: The Table as Moral Space]] — 5 days; the frame, the screening, one meal read as an argument; [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB3]].
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-07-the-split-weeks|Lesson 07: The Split Weeks]] — 5 self-contained days while G12 is away; the your-table reflection; [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB4]].
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-08-heda-and-the-image-of-work|Lesson 08: Heda and the Image of Work]] — 6 meetings; Heda twice, Last Supper, Bruegel/Steen, Qingming, the moral image of work; [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|CS4]], [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB5]].
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-09-food-the-table-and-ethics|Lesson 09: Food, the Table and Ethics]] — 4 meetings; Cassatt, Rosler, then A3 in the Tuesday double, Weems after it, hyperreality coda.
+<div class="unit-lessons">
+<div class="ul-row"><span class="ul-num">L06</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-06-the-table-as-moral-space">The Table as Moral Space</a></span><span class="ul-desc">5 days; the frame, the screening, one meal read as an argument; <a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">LB3</a>.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+<div class="ul-row"><span class="ul-num">L07</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-07-the-split-weeks">The Split Weeks</a></span><span class="ul-desc">5 self-contained days while G12 is away; the your-table reflection; <a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">LB4</a>.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+<div class="ul-row"><span class="ul-num">L08</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-08-heda-and-the-image-of-work">Heda and the Image of Work</a></span><span class="ul-desc">6 meetings; Heda twice, Last Supper, Bruegel/Steen, Qingming, the moral image of work; <a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">CS4</a>, <a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">LB5</a>.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+<div class="ul-row"><span class="ul-num">L09</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-09-food-the-table-and-ethics">Food, the Table and Ethics</a></span><span class="ul-desc">4 meetings; Cassatt, Rosler, then A3 in the Tuesday double, Weems after it, hyperreality coda.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+</div>
+
 
 
 <p class="handouts"><strong>Handouts (PDF):</strong> <a href="../../../static/handouts/art-appreciation/eat-drink-man-woman.pdf">Eat Drink Man Woman</a> · <a href="../../../static/handouts/art-appreciation/heda-and-still-life.pdf">Heda and Still Life</a> · <a href="../../../static/handouts/art-appreciation/the-shared-meal.pdf">The Shared Meal</a> · <a href="../../../static/handouts/art-appreciation/the-moral-image-of-work.pdf">The Moral Image of Work</a> · <a href="../../../static/handouts/art-appreciation/martha-rosler-intro.pdf">Martha Rosler Intro</a> · <a href="../../../static/handouts/art-appreciation/semiotics-of-the-kitchen.pdf">Semiotics of the Kitchen</a> · <a href="../../../static/handouts/art-appreciation/hyperreality-and-paratheatre.pdf">Hyperreality + Paratheatre</a> · <a href="../../../static/handouts/art-appreciation/lunch-and-discussion.pdf">Lunch and discussion</a> · <a href="../../../static/handouts/art-appreciation/culinary-aesthetics.pdf">Culinary Aesthetics</a></p>
@@ -64,12 +76,19 @@ This unit treats the table as a place where rules get enforced, not just a setti
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay|A3 Food & Ethics]].
 
-| Item | Date | What |
-|---|---|---|
-| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB3]] | Fri 2026-10-23 | Seminar posting: food, class, and who is not in the picture. |
-| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB4]] | Fri 2026-10-30 | Seminar posting, for whoever is present. If you are G12 and away, you are not penalized. |
-| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB5]] | Tue 2026-11-03 | Posting from the second Heda session. |
-| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|CS4]] | Fri 2026-11-13 | The Heda paragraph: every adjective earned. Direct practice for [[classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay\|A3]]. |
-| **A3 sits** | **Tue 2026-11-17** | In-class essay: food, the table and ethics, argued from the pictures. |
+<div class="duecard">
+<span class="duecard-kicker">Due dates at a glance</span>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">LB3</a></span><span class="duecard-date">Fri 2026-10-23</span></span><span class="duecard-what">Seminar posting: food, class, and who is not in the picture.</span></div>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">LB4</a></span><span class="duecard-date">Fri 2026-10-30</span></span><span class="duecard-what">Seminar posting, for whoever is present. If you are G12 and away, you are not penalized.</span></div>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">LB5</a></span><span class="duecard-date">Tue 2026-11-03</span></span><span class="duecard-what">Posting from the second Heda session.</span></div>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">CS4</a></span><span class="duecard-date">Fri 2026-11-13</span></span><span class="duecard-what">The Heda paragraph: every adjective earned. Direct practice for <a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-a3-food-and-ethics-essay">A3</a>.</span></div>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><strong>A3 sits</strong></span><span class="duecard-date"><strong>Tue 2026-11-17</strong></span></span><span class="duecard-what">In-class essay: food, the table and ethics, argued from the pictures.</span></div>
+</div>
+
 
 Full detail in the [[classes/art-appreciation/assessments/art-appreciation-s1-assessments|full register]].
+
+<div class="page-nav">
+<span class="page-nav-slot"></span>
+<span class="page-nav-slot"></span>
+</div>

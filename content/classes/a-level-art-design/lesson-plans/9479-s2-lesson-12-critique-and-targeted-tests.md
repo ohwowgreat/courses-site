@@ -9,21 +9,24 @@ modified: 2026-08-05
 ---
 # S2 Lesson 12: Critique and Targeted Tests
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-4-development|Unit 4]] · Lesson 12 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-11-composition-2-and-paper-drafts|Lesson 11]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-13-evaluation-draft-1-and-a3|Lesson 13]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s2-unit-4-development">Unit 4</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 4 of 5 in this unit · L12 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-11-composition-2-and-paper-drafts" aria-label="Previous: Lesson 11"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-13-evaluation-draft-1-and-a3" aria-label="Next: Lesson 13"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (S13)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-05-17 → Fri 2027-05-21</dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO3 Develop</span></span></div>
+<p class="contract-job">Both compositions critiqued against the intention; the critique acted on; targeted tests on what is unresolved; the final direction chosen with the rejection written out</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-05-17 → Fri 2027-05-21<span class="contract-cell-note">Sessions: 5 days (S13)</span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> ≤30 min: write evaluation notes toward A3 and consolidate the paper draft, ahead of <a href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-13-evaluation-draft-1-and-a3">Lesson 13</a></span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> <strong><a href="../../../classes/a-level-art-design/assessments/9479-s2-assessments">CS8</a></strong> (targeted tests + critique response) Fri 2027-05-21 — sketchbook. <strong><a href="../../../classes/a-level-art-design/assessments/9479-s2-assessments">A3</a></strong> (development + paper draft 1, AO3) sits Fri 2027-05-28</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Both compositions critiqued against the intention; the critique acted on; targeted tests on what is unresolved; the final direction chosen with the rejection written out |
-| Graded | **[[classes/a-level-art-design/assessments/9479-s2-assessments\|CS8]]** (targeted tests + critique response) Fri 2027-05-21 — sketchbook. **[[classes/a-level-art-design/assessments/9479-s2-assessments\|A3]]** (development + paper draft 1, AO3) sits Fri 2027-05-28 |
-| Homework | ≤30 min: write evaluation notes toward A3 and consolidate the paper draft, ahead of [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-13-evaluation-draft-1-and-a3\|Lesson 13]] |
 
 ## Overview
 
@@ -109,3 +112,8 @@ The written rejection: why not the other one, in full sentences, with the tests 
 </details>
 
 **5.** The homework opens A3 week: write evaluation notes on the chosen direction and consolidate the paper draft. A3 reviews the development and paper draft 1 together on Fri 2027-05-28, and this weekend is where its material gets gathered.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-11-composition-2-and-paper-drafts">← Lesson 11 · Composition 2 and Paper Drafts</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-13-evaluation-draft-1-and-a3">Lesson 13 · Evaluation, Draft 1 and A3 →</a>
+</div>

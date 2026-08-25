@@ -16,21 +16,25 @@ modified: 2026-08-05
 
 # Lesson 09: A2 — The Photographic Series
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography|Unit 2]] · U2·L4 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-08-the-theme-shoot-and-the-contact-sheet-edit|Lesson 08]] | next unit: [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|U3 Collage]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/pre-a-level-art-design/pre-a-level-art-design">Pre A Level Art &amp; Design</a> · <a href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography">Unit 2</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 4 of 4 in this unit · L04</span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-08-the-theme-shoot-and-the-contact-sheet-edit" aria-label="Previous: Lesson 08"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage" aria-label="Next: U3 Collage"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session</dt><dd>W10<span class="stat-x">one Wednesday double (~90 min) — Unit 2 closes</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Wed 2026-11-04</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job">The final 6–8-image series + written reflection, on MB by close; process trail in the sketchbook</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2026-11-04<span class="contract-cell-note">Session: W10, one Wednesday double (~90 min) — Unit 2 closes</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">A2 is the semester's second attainment; the contact sheet and rejects become sketchbook process evidence for <a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework">SB2</a>/<a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook">A5</a></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> None new — weekly MB sketchbook posting continues; U3 Collage opens next week</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Focus</span> <strong><a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-a2-photographic-series">A2</a> sat</strong>: the series selected, sequenced, titled, and submitted with its reflection</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Focus | **[[classes/pre-a-level-art-design/assessments/pal-s1-a2-photographic-series\|A2]] sat**: the series selected, sequenced, titled, and submitted with its reflection |
-| Deliverable | The final 6–8-image series + written reflection, on MB by close; process trail in the sketchbook |
-| Feeds | A2 is the semester's second attainment; the contact sheet and rejects become sketchbook process evidence for [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|SB2]]/[[classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook\|A5]] |
-| Homework | None new — weekly MB sketchbook posting continues; U3 Collage opens next week |
 
 ## Overview
 
@@ -151,3 +155,8 @@ A title is a claim. "Doors of Building B" labels the pictures. "Nobody Uses the 
 </details>
 
 **5.** Recall the criteria: framing, viewpoint, light, series thinking. Series thinking is judged on the sequence and the reflection's reasons, not just the individual frames. Your reflection should account for the selection: what you chose, from how many, and why.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-08-the-theme-shoot-and-the-contact-sheet-edit">← Lesson 08 · The Theme Shoot and the Contact-Sheet Edit</a>
+<a class="page-nav-next" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage">U3 Collage · Collage →</a>
+</div>

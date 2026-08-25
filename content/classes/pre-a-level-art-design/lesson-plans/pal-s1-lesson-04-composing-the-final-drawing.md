@@ -17,21 +17,25 @@ modified: 2026-08-05
 
 # Lesson 04: Composing the Final Drawing
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1]] · U1·L4 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-03-texture-mark-making-and-negative-space|Lesson 03]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing|Lesson 05]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/pre-a-level-art-design/pre-a-level-art-design">Pre A Level Art &amp; Design</a> · <a href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements">Unit 1</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 4 of 5 in this unit · L04</span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-03-texture-mark-making-and-negative-space" aria-label="Previous: Lesson 03"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing" aria-label="Next: Lesson 05"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session</dt><dd>W4<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Wed 2026-09-23</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job">Three viewfinder thumbnails with one chosen in writing; the final drawing constructed and underway</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2026-09-23<span class="contract-cell-note">Session: W4, one Wednesday double (~90 min)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><strong><a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework">CS1</a> collected and graded this session</strong>; the drawing continues into <a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing">A1</a> (W5, 09-30)</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> One 10-minute observational sketch of a home object; MB posting</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Focus</span> Composition; the final observational drawing begun</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Focus | Composition; the final observational drawing begun |
-| Deliverable | Three viewfinder thumbnails with one chosen in writing; the final drawing constructed and underway |
-| Feeds | **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|CS1]] collected and graded this session**; the drawing continues into [[classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing\|A1]] (W5, 09-30) |
-| Homework | One 10-minute observational sketch of a home object; MB posting |
 
 ## Overview
 
@@ -111,3 +115,8 @@ Completeness and honest looking, not polish. All four exercise pieces in the ske
 </details>
 
 **5.** Homework: one ten-minute observational sketch of a home object, and post on MB. Use the four decision words on it before you start. Even a ten-minute sketch deserves a viewpoint chosen on purpose.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-03-texture-mark-making-and-negative-space">← Lesson 03 · Texture, Mark-Making and Negative Space</a>
+<a class="page-nav-next" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing">Lesson 05 · A1 — The Final Observational Drawing →</a>
+</div>

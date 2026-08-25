@@ -9,21 +9,24 @@ modified: 2026-08-05
 ---
 # S2 Lesson 09: Composition 1
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-4-development|Unit 4]] · Lesson 09 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-08-artist-2-bridge-and-a2|Lesson 08]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-10-resolving-composition-1|Lesson 10]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s2-unit-4-development">Unit 4</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 5 in this unit · L09 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-08-artist-2-bridge-and-a2" aria-label="Previous: Lesson 08"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-10-resolving-composition-1" aria-label="Next: Lesson 10"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (S10)<span class="stat-x">Unit 4 opens</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-04-26 → Fri 2027-04-30</dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO3 Develop</span></span></div>
+<p class="contract-job">Composition 1 composed, built across two days, and pushed as far as it goes; research paper outline populated</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-04-26 → Fri 2027-04-30<span class="contract-cell-note">Sessions: 5 days (S10) — Unit 4 opens</span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> ≤30 min: over the May Day holiday (~05-01 → 05), read toward one paper section; no new studio work required</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> <strong><a href="../../../classes/a-level-art-design/assessments/9479-s2-assessments">CS6</a></strong> (research paper outline populated) Thu 2027-04-29 — written annotation. <strong><a href="../../../classes/a-level-art-design/assessments/9479-s2-assessments">A3</a></strong> (development + paper draft 1, AO3) sits Fri 2027-05-28</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Composition 1 composed, built across two days, and pushed as far as it goes; research paper outline populated |
-| Graded | **[[classes/a-level-art-design/assessments/9479-s2-assessments\|CS6]]** (research paper outline populated) Thu 2027-04-29 — written annotation. **[[classes/a-level-art-design/assessments/9479-s2-assessments\|A3]]** (development + paper draft 1, AO3) sits Fri 2027-05-28 |
-| Homework | ≤30 min: over the May Day holiday (~05-01 → 05), read toward one paper section; no new studio work required |
 
 ## Overview
 
@@ -109,3 +112,8 @@ Because studio resumes after the May Day break, and re-entry works from a list, 
 </details>
 
 **5.** Over the holiday, read toward one section of the paper, thirty minutes at a time. No new studio work is required. The paper keeping pace with the making is what makes December's integration possible, and it is built in weeks like this.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-08-artist-2-bridge-and-a2">← Lesson 08 · Artist 2, Bridge and A2</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-10-resolving-composition-1">Lesson 10 · Resolving Composition 1 →</a>
+</div>

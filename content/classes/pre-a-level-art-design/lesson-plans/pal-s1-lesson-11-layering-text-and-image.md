@@ -17,21 +17,25 @@ modified: 2026-08-05
 
 # Lesson 11: Layering, Text and Image
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|Unit 3]] · U3·L2 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-10-juxtaposition-and-scale|Lesson 10]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-12-theme-and-composition-drafts|L12]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/pre-a-level-art-design/pre-a-level-art-design">Pre A Level Art &amp; Design</a> · <a href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage">Unit 3</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 2 of 5 in this unit · L02</span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-10-juxtaposition-and-scale" aria-label="Previous: Lesson 10"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-12-theme-and-composition-drafts" aria-label="Next: L12"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session</dt><dd>W12<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Wed 2026-11-18</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job">A layering study and a text-and-image study added to the experiment set</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2026-11-18<span class="contract-cell-note">Session: W12, one Wednesday double (~90 min)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><strong><a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework">CS3</a> collects the experiment set next week</strong> (W13, 11-25)</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> One more experiment at home in any technique; keep harvesting material; MB posting</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Focus</span> Layering (order, edges, transparency) and text as image — the unit's making session</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Focus | Layering (order, edges, transparency) and text as image — the unit's making session |
-| Deliverable | A layering study and a text-and-image study added to the experiment set |
-| Feeds | **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|CS3]] collects the experiment set next week** (W13, 11-25) |
-| Homework | One more experiment at home in any technique; keep harvesting material; MB posting |
 
 
 <div class="plate-row">
@@ -129,3 +133,8 @@ Cut away from the hand. Blade shallow. Cutting mat always. Cap on when walking. 
 </details>
 
 **5.** Photograph every dry-fit before gluing. It is the collage version of keeping the original: process evidence for the sketchbook, and insurance for the day the glued version disappoints. Homework: one more experiment in any technique, and keep harvesting.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-10-juxtaposition-and-scale">← Lesson 10 · Juxtaposition and Scale</a>
+<a class="page-nav-next" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-12-theme-and-composition-drafts">L12 · Theme and Composition Drafts →</a>
+</div>

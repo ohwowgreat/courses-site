@@ -9,21 +9,24 @@ modified: 2026-08-05
 ---
 # S4 Lesson 01: The ESA Question, Locked
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s4-unit-1-foundations-on-the-question|Unit 1]] · Lesson 01 of 10 · [[classes/a-level-art-design/lesson-plans/9479-s4-lesson-02-recording-at-exam-pace|Lesson 02]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-1-foundations-on-the-question">Unit 1</a></span>
+<span class="pb-pos"><span class="pb-label">Lesson 1 of 1 in this unit · L01 of 10</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-02-recording-at-exam-pace" aria-label="Next: Lesson 02"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (S1)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2028-02-21 → Fri 2028-02-25 <em>(projected)</em></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>Orientation to Component 2<span class="stat-x">the question choice</span></dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">Orientation to Component 2; the question choice</span></span></div>
+<p class="contract-job">The Cambridge ESA paper analyzed question by question; one question <strong>locked in writing</strong> with a rationale grounded in evidence</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2028-02-21 → Fri 2028-02-25 <em>(projected)</em><span class="contract-cell-note">Sessions: 5 days (S1)</span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> ≤30 min: assemble the evidence — the C1/C3 pages and drawing-regimen work that prove your chosen question is a strength</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> <strong><a href="../../../classes/a-level-art-design/assessments/9479-s4-assessments">CS1</a></strong> Fri 2028-02-25 (question choice with written rationale, locked 1:1). with the lock. No attainment this week</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | The Cambridge ESA paper analyzed question by question; one question **locked in writing** with a rationale grounded in evidence |
-| Graded | **[[classes/a-level-art-design/assessments/9479-s4-assessments\|CS1]]** Fri 2028-02-25 (question choice with written rationale, locked 1:1). with the lock. No attainment this week |
-| Homework | ≤30 min: assemble the evidence — the C1/C3 pages and drawing-regimen work that prove your chosen question is a strength |
 
 ## Overview
 
@@ -107,3 +110,8 @@ Because the notice goes out with the lock, exactly fourteen days ahead. The exam
 </details>
 
 **5.** The homework is the evidence file: gather the C1 and C3 pages and the drawing-regimen work that prove your chosen question is a strength. If the file is thin for your favorite question and thick for another, believe the file.
+
+<div class="page-nav">
+<span class="page-nav-slot"></span>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s4-lesson-02-recording-at-exam-pace">Lesson 02 · Recording at Exam Pace →</a>
+</div>

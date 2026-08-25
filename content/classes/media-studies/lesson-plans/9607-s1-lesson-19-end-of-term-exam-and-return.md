@@ -15,24 +15,25 @@ modified: 2026-08-10
 
 # Lesson 19: End of Term Exam and Return
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation|Unit 6]] · Lesson 19 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-18-exam-rehearsal|Lesson 18]]
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/media-studies/media-studies">Media Studies</a> · <a href="../../../classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation">Unit 6</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 3 of 3 in this unit · L19 of 19</span><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-18-exam-rehearsal" aria-label="Previous: Lesson 18"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-19-end-of-term-exam-and-return.pptx">Download the deck (PowerPoint, 1.8 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1</span><span class="contract-ao">AO2 (full paper); AO-level gap analysis after</span></span></div>
+<p class="contract-job">End of Term Exam script (20% category); one-page Semester 2 target sheet per student (<a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">LB7</a>)</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Exam sat in window Mon 2027-01-11 → Mon 01-18 (slot set by exam office) · Tue 01-19 return · Wed 01-20 double, goal setting<span class="contract-cell-note">Days: 2 teaching days + exam window</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">Semester 2; Forecast Grade evidence</span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-19-end-of-term-exam-and-return.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (1.8 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> None</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Band/Unit</span> U6 Revision (<a href="../../../classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation">S1 Unit 6</a>); the two W21 sessions carry no U-codes in the schedule</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Days</dt><dd>2 teaching days + exam window</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Exam sat in window Mon 2027-01-11 → Mon 01-18<span class="stat-x">slot set by exam office. Tue 01-19 return · Wed 01-20 double, goal setting</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO1 + AO2 (full paper)<span class="stat-x">AO-level gap analysis after</span></dd></div>
-</dl>
-
-| | |
-|---|---|
-| Band/Unit | U6 Revision ([[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation\|S1 Unit 6]]); the two W21 sessions carry no U-codes in the schedule |
-| Deliverable | End of Term Exam script (20% category); one-page Semester 2 target sheet per student ([[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB7]]) |
-| Feeds | Semester 2; Forecast Grade evidence |
-| Homework | None |
 
 ## Overview
 
@@ -128,3 +129,8 @@ The model shape: "AO1 contexts: my case-study facts were pre-2020." Not "Section
 </details>
 
 **5.** Build the target sheet to survive February: four rows, gap in AO language, evidence from the script and the semester's data, one specific Semester 2 action, and a review date that falls before the first Semester 2 attainment. Then keep the two living artifacts alive over the break: the theory-card deck and the case-study document both sit Paper 2 with you in June.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-18-exam-rehearsal">← Lesson 18 · Exam Rehearsal</a>
+<span class="page-nav-slot"></span>
+</div>

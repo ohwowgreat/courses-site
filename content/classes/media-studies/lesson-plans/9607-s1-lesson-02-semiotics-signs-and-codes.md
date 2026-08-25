@@ -18,24 +18,25 @@ modified: 2026-08-09
 
 # Lesson 02: Semiotics, Signs and Codes
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] · Lesson 02 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-01-the-four-key-concepts|Lesson 01]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-03-camera|Lesson 03]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/media-studies/media-studies">Media Studies</a> · <a href="../../../classes/media-studies/unit-plans/9607-s1-unit-2-media-language">Unit 2</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 6 in this unit · L02 of 19</span><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-01-the-four-key-concepts" aria-label="Previous: Lesson 01"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-03-camera" aria-label="Next: Lesson 03"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-02-semiotics-signs-and-codes.pptx">Download the deck (PowerPoint, 4.8 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1</span></span></div>
+<p class="contract-job"><a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">CS2</a> annotated media text from daily life, ≥6 code labels</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-09-07 · Tue 09-08 · Wed 09-09 · Fri 09-11<span class="contract-cell-note">Days: 4 · Mon+Tue two-day block, Wed double, Fri single</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">L03 to L06 (the technical block) · <a href="../../../classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis">A1</a></span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-02-semiotics-signs-and-codes.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (4.8 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> CS2 annotation task (set day 1, 72-hour rule), capped at 30 min per day</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Band/Unit</span> U2 Media Language, micro (<a href="../../../classes/media-studies/unit-plans/9607-s1-unit-2-media-language">S1 Unit 2</a>)</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Days</dt><dd>4<span class="stat-x">Mon+Tue two-day block, Wed double, Fri single</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-09-07<span class="stat-x">Tue 09-08 · Wed 09-09 · Fri 09-11</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO1</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Band/Unit | U2 Media Language, micro ([[classes/media-studies/unit-plans/9607-s1-unit-2-media-language\|S1 Unit 2]]) |
-| Deliverable | [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS2]] annotated media text from daily life, ≥6 code labels |
-| Feeds | L03 to L06 (the technical block) · [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]] |
-| Homework | CS2 annotation task (set day 1, 72-hour rule), capped at 30 min per day |
 
 ## Overview
 
@@ -195,3 +196,8 @@ No single right answer. A strong response names an address feature as evidence: 
 </details>
 
 **7.** Build one connotation chain of at least three links, starting from a signifier in the exam set (red, white, black, the rose, the dove, the suit). Then challenge one link: who taught you that?
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-01-the-four-key-concepts">← Lesson 01 · The Four Key Concepts</a>
+<a class="page-nav-next" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-03-camera">Lesson 03 · Camera →</a>
+</div>

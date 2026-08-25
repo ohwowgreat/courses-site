@@ -19,7 +19,11 @@ modified: 2026-07-20
 
 # Unit 1: Drawing & the Visual Elements
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan|Semester 1 Plan]] · Unit 1 of 4 · next: [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography|Unit 2: Photography]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/pre-a-level-art-design/pre-a-level-art-design">Pre A Level Art &amp; Design</a> · <a href="../../../classes/pre-a-level-art-design/unit-plans/pal-semester-1-plan">Semester 1 Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 1 of 4</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography" aria-label="Next: Unit 2: Photography"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
+
 
 ## What this unit does
 
@@ -46,3 +50,8 @@ Dates below may shift if the school publishes a different calendar for this peri
 - **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework|HW1]]** (break photo task, ≥20 photos of one subject in varied viewpoint/light) is *set* at W5 but belongs to Unit 2, due 2026-10-14.
 
 Full details: [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|full register]].
+
+<div class="page-nav">
+<span class="page-nav-slot"></span>
+<a class="page-nav-next" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography">Unit 2: Photography · Photography →</a>
+</div>

@@ -17,21 +17,25 @@ modified: 2026-08-05
 
 # Lesson 13: Final Collage Production
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage|Unit 3]] · U3·L4 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-12-theme-and-composition-drafts|Lesson 12]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage|Lesson 14]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/pre-a-level-art-design/pre-a-level-art-design">Pre A Level Art &amp; Design</a> · <a href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-3-collage">Unit 3</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 4 of 5 in this unit · L04</span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-12-theme-and-composition-drafts" aria-label="Previous: Lesson 12"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage" aria-label="Next: Lesson 14"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session</dt><dd>W14<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Wed 2026-12-02</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job">The final collage substantially built (background and middle layers glued, top layer dry-fit); build photographed in stages</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2026-12-02<span class="contract-cell-note">Session: W14, one Wednesday double (~90 min)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><strong>SB2 sketchbook spot-check runs today</strong>; the collage finishes under <a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage">A3</a> conditions next week</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> A written finishing list (what remains, in order); missing material gathered; MB posting</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Focus</span> The final collage built — the assembly session</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Focus | The final collage built — the assembly session |
-| Deliverable | The final collage substantially built (background and middle layers glued, top layer dry-fit); build photographed in stages |
-| Feeds | **SB2 sketchbook spot-check runs today**; the collage finishes under [[classes/pre-a-level-art-design/assessments/pal-s1-a3-final-collage\|A3]] conditions next week |
-| Homework | A written finishing list (what remains, in order); missing material gathered; MB posting |
 
 ## Overview
 
@@ -115,3 +119,8 @@ What remains, in what order, needing what. Written today while the build is fres
 </details>
 
 **5.** SB2 ran today, and it is the last sketchbook look before the full book goes in as A5 on 2027-01-06. If anything was flagged, fix it across the next five weeks, not in the last one. Homework: gather what your finishing list needs.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-12-theme-and-composition-drafts">← Lesson 12 · Theme and Composition Drafts</a>
+<a class="page-nav-next" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-14-a3-the-final-collage">Lesson 14 · A3 — The Final Collage →</a>
+</div>

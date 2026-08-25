@@ -15,7 +15,11 @@ modified: 2026-07-17
 
 # S1 Unit 2: Recording & Sustained Study
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-1-plan|Semester 1 Plan]] · Unit 2 of 5 · ← [[classes/a-level-art-design/unit-plans/9479-s1-unit-1-foundations-on-the-theme|Unit 1]] | [[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study|Unit 3]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-semester-1-plan">Semester 1 Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 2 of 5</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-1-foundations-on-the-theme" aria-label="Previous: Unit 1"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study" aria-label="Next: Unit 3"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
+
 
 ## What this unit does
 
@@ -27,9 +31,12 @@ Tue 2026-09-15 to Sat 2026-10-10 (W3 to W6), split by the National Day break. Th
 
 ## Lessons
 
-- [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-03-intention-and-composition-planning|Lesson 03: Intention and Composition Planning]]: written intention, mind map, at least 6 thumbnails, one composition chosen, rejections annotated.
-- [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-04-the-sustained-study|Lesson 04: The Sustained Study]]: Stage 1 page, the sustained study across a genuine two-day run.
-- [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-05-recording-pages-and-a1|Lesson 05: Recording Pages and A1]]: your own photography, studies brought to one standard, recording pages sequenced, AO1 self-check, then A1 sat and fed back.
+<div class="unit-lessons">
+<div class="ul-row"><span class="ul-num">L03</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-03-intention-and-composition-planning">Intention and Composition Planning</a></span><span class="ul-desc">written intention, mind map, at least 6 thumbnails, one composition chosen, rejections annotated.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+<div class="ul-row"><span class="ul-num">L04</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-04-the-sustained-study">The Sustained Study</a></span><span class="ul-desc">Stage 1 page, the sustained study across a genuine two-day run.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+<div class="ul-row"><span class="ul-num">L05</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-05-recording-pages-and-a1">Recording Pages and A1</a></span><span class="ul-desc">your own photography, studies brought to one standard, recording pages sequenced, AO1 self-check, then A1 sat and fed back.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+</div>
+
 
 ## Assessment
 
@@ -43,3 +50,8 @@ You sit **A1 on Fri 2026-10-09**. It is the recording milestone (intention, Stag
 - Use the **intention drafting frame** (*I am investigating / because / I will record*) to draft your intention, then drop it. The final voice should be your own.
 - The **AO1 self-check** before A1 is the calibration habit the whole course leans on. Band your own work first. Your banding should land within one band of the teacher's, and the gap is tracked.
 - The holiday split is deliberate: build pages before the break, review after it. Your holiday homework is primary-source sketchbook recording.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-1-foundations-on-the-theme">← Unit 1 · Foundations on the Theme</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study">Unit 3 · Exploration &amp; Artist Study →</a>
+</div>

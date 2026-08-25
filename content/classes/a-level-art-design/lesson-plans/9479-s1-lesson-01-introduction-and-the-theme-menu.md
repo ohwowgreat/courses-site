@@ -14,21 +14,22 @@ modified: 2026-08-05
   <figcaption>Paul Cézanne, <em>A Painter at Work</em>, 1875</figcaption>
 </figure>
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-1-foundations-on-the-theme|Unit 1]] · Lesson 01 of 15 · [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-02-formal-elements-on-the-theme|Lesson 02]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-1-foundations-on-the-theme">Unit 1</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 2 in this unit · L01 of 15</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-02-formal-elements-on-the-theme" aria-label="Next: Lesson 02"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>4 days (W1)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Tue 2026-09-01 → Fri 2026-09-04</dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO1 Record<span class="stat-x">orientation</span></dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1 Record</span><span class="contract-ao">orientation</span></span></div>
+<p class="contract-job">Committed theme with signed commitment card; source folder with first photographs; first line studies</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Tue 2026-09-01 → Fri 2026-09-04<span class="contract-cell-note">Sessions: 4 days (W1)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">Nothing graded — no attainment in W1–W2; the day-3 diagnostic is the baseline for the mid-term narrative</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Reflection, 150 words: why the chosen theme can sustain four months (due Monday)</span></div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Committed theme with signed commitment card; source folder with first photographs; first line studies |
-| Feeds | Nothing graded — no attainment in W1–W2; the day-3 diagnostic is the baseline for the mid-term narrative |
-| Homework | Reflection, 150 words: why the chosen theme can sustain four months (due Monday) |
 
 ## Overview
 
@@ -111,3 +112,8 @@ Continuous line and structural line. Continuous line follows the edge without li
 </details>
 
 **5.** Test your theme against criterion two tonight. List ten things inside it you could still photograph in December. If the list dries up at four, bring that finding to the sign-off. Changing theme this week costs a conversation. Changing in November costs the portfolio.
+
+<div class="page-nav">
+<span class="page-nav-slot"></span>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-02-formal-elements-on-the-theme">Lesson 02 · Formal Elements on the Theme →</a>
+</div>

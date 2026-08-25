@@ -14,7 +14,11 @@ modified: 2026-07-25
 ---
 # Oxbridge Unit 3: Frameworks and History
 
-[[classes/oxbridge/oxbridge|Oxbridge]] · [[classes/oxbridge/unit-plans/oxbridge-seminar-plan|Seminar Plan]] · Unit 3 of 8 · Weeks 6–7 · [[classes/oxbridge/unit-plans/oxbridge-unit-2-the-gap|← Unit 2]] | [[classes/oxbridge/unit-plans/oxbridge-unit-4-the-body-and-the-machine|Unit 4 →]]
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/oxbridge/oxbridge">Oxbridge</a> · <a href="../../../classes/oxbridge/unit-plans/oxbridge-seminar-plan">Seminar Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 3 of 8</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
+</div>
+
 
 ## Unit question
 
@@ -78,3 +82,8 @@ The opening examples sort into two columns: factually wrong in one, category shi
 > You will look for something that stands outside history. The body is the obvious candidate: cold is cold in any century.
 
 W06 closes on the Merleau-Ponty quotation to set this up. [[classes/oxbridge/unit-plans/oxbridge-unit-4-the-body-and-the-machine|Unit 4]] tests the candidate.
+
+<div class="page-nav">
+<span class="page-nav-slot"></span>
+<span class="page-nav-slot"></span>
+</div>

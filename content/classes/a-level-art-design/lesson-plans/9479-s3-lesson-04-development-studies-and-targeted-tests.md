@@ -9,21 +9,24 @@ modified: 2026-08-05
 ---
 # S3 Lesson 04: Development Studies and Targeted Tests
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass|Unit 4]] · Lesson 04 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-03-candidate-compositions-and-the-paper-reopens|Lesson 03]] | [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-05-evaluation-and-the-national-day-break|Lesson 05]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass">Unit 4</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 2 of 4 in this unit · L04 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-03-candidate-compositions-and-the-paper-reopens" aria-label="Previous: Lesson 03"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-05-evaluation-and-the-national-day-break" aria-label="Next: Lesson 05"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (W4)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-09-20 → Fri 2027-09-24 <em>(projected)</em></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO3 Develop</span></span></div>
+<p class="contract-job">Targeted tests that change the composition on evidence; a structured critique of the candidates against the intention</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-09-20 → Fri 2027-09-24 <em>(projected)</em><span class="contract-cell-note">Sessions: 5 days (W4)</span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> ≤30 min: write up one test — what it asked, what it showed, what you changed</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> <strong><a href="../../../classes/a-level-art-design/assessments/9479-s3-assessments">CS4</a></strong> Fri 2027-09-24 — targeted tests (sketchbook). No attainment this week</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Targeted tests that change the composition on evidence; a structured critique of the candidates against the intention |
-| Graded | **[[classes/a-level-art-design/assessments/9479-s3-assessments\|CS4]]** Fri 2027-09-24 — targeted tests (sketchbook). No attainment this week |
-| Homework | ≤30 min: write up one test — what it asked, what it showed, what you changed |
 
 These dates are projected. They may shift when the school publishes the calendar for this period.
 
@@ -108,3 +111,8 @@ Tested, rejected, decided. Not a gallery of effort. Each item on the page is the
 </details>
 
 **5.** The homework is one test written up in three lines: what it asked, what it showed, what you changed. If the third line is empty, either the test failed to test or the result was ignored. Both are worth knowing before CS4.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-03-candidate-compositions-and-the-paper-reopens">← Lesson 03 · Candidate Compositions and the Paper Reopens</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-05-evaluation-and-the-national-day-break">Lesson 05 · Evaluation and the National Day Break →</a>
+</div>

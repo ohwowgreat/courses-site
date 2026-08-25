@@ -17,21 +17,25 @@ modified: 2026-08-05
 
 # Lesson 06: Framing and Viewpoint
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography|Unit 2]] · U2·L1 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing|Lesson 05]] | [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-07-light-shadow-and-the-series-theme|Lesson 07]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/pre-a-level-art-design/pre-a-level-art-design">Pre A Level Art &amp; Design</a> · <a href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography">Unit 2</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 4 in this unit · L01</span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing" aria-label="Previous: Lesson 05"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-07-light-shadow-and-the-series-theme" aria-label="Next: Lesson 07"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session</dt><dd>W7<span class="stat-x">one Wednesday double (~90 min) — Unit 2 opens, first session after National Day</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Wed 2026-10-14</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job">Best-3 selection from <a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework">HW1</a> with written reasons; a five-viewpoint circuit shoot with three selects</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2026-10-14<span class="contract-cell-note">Session: W7, one Wednesday double (~90 min) — Unit 2 opens, first session after National Day</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><strong>HW1 due today</strong>; the circuit frames become part of <a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework">CS2</a>'s composition set (W9)</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Ten frames placed deliberately on the thirds + five deliberately breaking them, one line on which felt better; MB posting</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Focus</span> Framing, viewpoint, rule of thirds — composing with a camera instead of a pencil</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Focus | Framing, viewpoint, rule of thirds — composing with a camera instead of a pencil |
-| Deliverable | Best-3 selection from [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|HW1]] with written reasons; a five-viewpoint circuit shoot with three selects |
-| Feeds | **HW1 due today**; the circuit frames become part of [[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|CS2]]'s composition set (W9) |
-| Homework | Ten frames placed deliberately on the thirds + five deliberately breaking them, one line on which felt better; MB posting |
 
 
 <div class="plate-row">
@@ -130,3 +134,8 @@ Place the important things on the grid's lines and crossings instead of dead cen
 </details>
 
 **5.** Homework: ten frames placed on the thirds, five deliberately breaking them, one line on which felt better. Grid on, from now on, always. Post to MB.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-05-a1-the-final-observational-drawing">← Lesson 05 · A1 — The Final Observational Drawing</a>
+<a class="page-nav-next" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-07-light-shadow-and-the-series-theme">Lesson 07 · Light, Shadow and the Series Theme →</a>
+</div>

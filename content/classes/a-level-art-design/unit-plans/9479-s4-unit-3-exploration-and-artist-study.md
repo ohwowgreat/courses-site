@@ -15,7 +15,11 @@ modified: 2026-07-18
 
 # S4 Unit 3: Exploration & Artist Study
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-4-plan|Semester 4 Plan]] · Unit 3 of 5 · ← [[classes/a-level-art-design/unit-plans/9479-s4-unit-2-recording|Unit 2]] | [[classes/a-level-art-design/unit-plans/9479-s4-unit-4-development|Unit 4]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-semester-4-plan">Semester 4 Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 3 of 5</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-2-recording" aria-label="Previous: Unit 2"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-4-development" aria-label="Next: Unit 4"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
+
 
 ## What this unit does
 
@@ -48,3 +52,8 @@ You sit **A2 on Fri 2028-03-24**: exploration and artist study (experiments, med
 - ◆ Media choices carry conceptual logic **even at exam pace**.
 - ◆ Citation without response earns nothing: **the response is the evidence**.
 - The scale trial happens at the dimensions the supervised test will use. Surprises belong here, not in the test room.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-2-recording">← Unit 2 · Recording</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-4-development">Unit 4 · Development →</a>
+</div>

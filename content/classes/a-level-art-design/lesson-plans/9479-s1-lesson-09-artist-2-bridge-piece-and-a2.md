@@ -9,21 +9,22 @@ modified: 2026-08-05
 ---
 # S1 Lesson 09: Artist 2, Bridge Piece and A2
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study|Unit 3]] · Lesson 09 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-08-artist-study-1|Lesson 08]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-10-composition-1|Lesson 10]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study">Unit 3</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 4 of 4 in this unit · L09 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-08-artist-study-1" aria-label="Previous: Lesson 08"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-10-composition-1" aria-label="Next: Lesson 10"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>4 days<span class="stat-x">5 sessions (W10–W11, split by the G11 Juniors Days) — Unit 3 closes; attainment review protocol</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-11-02 + Tue 2026-11-03<span class="stat-x">then Mon 2026-11-09 + Tue 2026-11-10</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO2 and AO3</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO2 and AO3</span></span></div>
+<p class="contract-job">A second artist set against the first; the bridge piece made and finished; <a href="../../../classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study">A2</a> sat; one defensible direction</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-11-02 + Tue 2026-11-03, then Mon 2026-11-09 + Tue 2026-11-10<span class="contract-cell-note">Sessions: 4 days, 5 sessions (W10–W11, split by the G11 Juniors Days) — Unit 3 closes; attainment review protocol</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><strong>A2 Mon 2026-11-09</strong>: exploration and artist study, marked against AO2+AO3</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Sketchbook: finish the bridge piece across the six-day Juniors Days gap — the deliberate finishing window</span></div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | A second artist set against the first; the bridge piece made and finished; [[classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study\|A2]] sat; one defensible direction |
-| Feeds | **A2 Mon 2026-11-09**: exploration and artist study, marked against AO2+AO3 |
-| Homework | Sketchbook: finish the bridge piece across the six-day Juniors Days gap — the deliberate finishing window |
 
 ## Overview
 
@@ -108,3 +109,8 @@ Everything from Unit 3: the twelve experiments, the media selection, the scale t
 </details>
 
 **5.** The feedback day ends with a one-sentence direction you defend for two minutes. Draft it now and test it: it should name what you will develop, in which media, and what from the two artists it carries. If it cannot survive two minutes of questions, it is not yet a direction.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-08-artist-study-1">← Lesson 08 · Artist Study 1</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-10-composition-1">Lesson 10 · Composition 1 →</a>
+</div>

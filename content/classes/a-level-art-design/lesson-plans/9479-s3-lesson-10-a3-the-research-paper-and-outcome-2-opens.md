@@ -10,21 +10,24 @@ modified: 2026-08-05
 ---
 # S3 Lesson 10: A3 — The Research Paper and Outcome 2 Opens
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s3-unit-5-final-outcomes|Unit 5]] · Lesson 10 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-09-resolving-outcome-1-and-the-final-paper-text|Lesson 09]] | [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-11-outcome-2-resolved-and-both-evaluated|Lesson 11]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-5-final-outcomes">Unit 5</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 4 of 5 in this unit · L10 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-09-resolving-outcome-1-and-the-final-paper-text" aria-label="Previous: Lesson 09"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-11-outcome-2-resolved-and-both-evaluated" aria-label="Next: Lesson 11"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (W12)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-11-15 → Fri 2027-11-19 <em>(projected)</em></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>C3 written criteria (A3)<span class="stat-x">AO3 Develop (outcome 2)</span></dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">C3 written criteria (A3); AO3 Develop (outcome 2)</span></span></div>
+<p class="contract-job">The final research paper submitted; outcome 2 planned and its build opened</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-11-15 → Fri 2027-11-19 <em>(projected)</em><span class="contract-cell-note">Sessions: 5 days (W12)</span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> ≤30 min: the outcome 2 plan — how it answers outcome 1 without repeating it</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> <strong><a href="../../../classes/a-level-art-design/assessments/9479-s3-assessments">A3</a></strong> Mon 2027-11-15 (C3 written criteria, submitted with 1:1 review) · <strong><a href="../../../classes/a-level-art-design/assessments/9479-s3-assessments">CS7</a></strong> Fri 2027-11-19 (outcome 2 plan and progress)</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | The final research paper submitted; outcome 2 planned and its build opened |
-| Graded | **[[classes/a-level-art-design/assessments/9479-s3-assessments\|A3]]** Mon 2027-11-15 (C3 written criteria, submitted with 1:1 review) · **[[classes/a-level-art-design/assessments/9479-s3-assessments\|CS7]]** Fri 2027-11-19 (outcome 2 plan and progress) |
-| Homework | ≤30 min: the outcome 2 plan — how it answers outcome 1 without repeating it |
 
 These dates are projected. They may shift when the school publishes the calendar for this period.
 
@@ -107,3 +110,8 @@ The pair reads as two answers from the same investigation: one sensibility, one 
 </details>
 
 **5.** The homework is the outcome 2 plan in one paragraph: how it answers outcome 1 without repeating it. If the paragraph could describe outcome 1, it is a repeat wearing new materials. A4 is announced next Wednesday, 28 days out.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-09-resolving-outcome-1-and-the-final-paper-text">← Lesson 09 · Resolving Outcome 1 and the Final Paper Text</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-11-outcome-2-resolved-and-both-evaluated">Lesson 11 · Outcome 2 Resolved and Both Evaluated →</a>
+</div>

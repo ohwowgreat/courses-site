@@ -19,28 +19,29 @@ modified: 2026-08-09
 
 # Lesson 06: Editing
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] · Lesson 06 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-05-mise-en-scene|Lesson 05]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock|Lesson 07]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/media-studies/media-studies">Media Studies</a> · <a href="../../../classes/media-studies/unit-plans/9607-s1-unit-2-media-language">Unit 2</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 5 of 6 in this unit · L06 of 19</span><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-05-mise-en-scene" aria-label="Previous: Lesson 05"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock" aria-label="Next: Lesson 07"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
+
 
 > [!note] The four technical elements
 > [[classes/media-studies/lesson-plans/9607-s1-lesson-03-camera|Camera]] · [[classes/media-studies/lesson-plans/9607-s1-lesson-04-sound|Sound]] · [[classes/media-studies/lesson-plans/9607-s1-lesson-05-mise-en-scene|Mise-en-scène]] · Editing, then [[classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock|integration]].
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-06-editing.pptx">Download the deck (PowerPoint, 4.3 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1</span><span class="contract-ao">AO3</span></span></div>
+<p class="contract-job"><strong><a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">CS6</a></strong> a cut three-shot sequence in two versions, one obeying the 180-degree rule and one deliberately breaking it, posted and dated with the difference named</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2026-09-23 · Mon 09-28<span class="contract-cell-note">Days: 2 · Wed double, then Mon after the Mid-Autumn Friday</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">C1 production · <a href="../../../classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis">A1</a> · <a href="../../../classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format">A4</a> · Component 2 Section A</span></div>
+<div class="contract-cell"><span class="contract-cell-label">Carries forward</span><span class="contract-cell-value">The C3 major video task is an editing task; the whole grade sits in the cut</span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-06-editing.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (4.3 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> None set: the equipment decision is logged in class on day 2</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Band/Unit</span> U2 Media Language, micro (<a href="../../../classes/media-studies/unit-plans/9607-s1-unit-2-media-language">S1 Unit 2</a>)</span>
+</div>
+</div>
 
-## At a glance
-
-<dl class="stat-strip">
-  <div class="stat"><dt>Days</dt><dd>2<span class="stat-x">Wed double, then Mon after the Mid-Autumn Friday</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Wed 2026-09-23<span class="stat-x">Mon 09-28</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO1 + AO3</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Band/Unit | U2 Media Language, micro ([[classes/media-studies/unit-plans/9607-s1-unit-2-media-language\|S1 Unit 2]]) |
-| Deliverable | **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS6]]** a cut three-shot sequence in two versions, one obeying the 180-degree rule and one deliberately breaking it, posted and dated with the difference named |
-| Feeds | C1 production · [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis\|A1]] · [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format\|A4]] · Component 2 Section A |
-| Carries forward | The C3 major video task is an editing task; the whole grade sits in the cut |
-| Homework | None set: the equipment decision is logged in class on day 2 |
 
 ## Overview
 
@@ -169,3 +170,8 @@ Name the count and the effect: the sequence cuts eleven times in thirty seconds,
 </details>
 
 **6.** Count the cuts in the first sixty seconds of anything, then watch it again and note where the longest shot falls. The long take is almost never an accident; say what it was protecting.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-05-mise-en-scene">← Lesson 05 · Mise-en-scène</a>
+<a class="page-nav-next" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock">Lesson 07 · Integration and the Planning Lock →</a>
+</div>

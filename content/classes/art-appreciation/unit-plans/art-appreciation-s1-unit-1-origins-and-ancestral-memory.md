@@ -17,7 +17,11 @@ modified: 2026-07-19
 
 # Unit 1: Origins and Ancestral Memory
 
-[[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan|Semester 1 Plan]] · Unit 1 of 5 · next: [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory|Unit 2 →]]
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/art-appreciation/art-appreciation">Art Appreciation</a> · <a href="../../../classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan">Semester 1 Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 1 of 5</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
+</div>
+
 
 ## What this unit does
 
@@ -36,20 +40,35 @@ Key theorist: Aby Warburg. Key material: cave imagery, Neolithic figures, ritual
 
 These dates may shift when the school publishes the calendar for this period.
 
+<dl class="stat-strip">
+  <div class="stat"><dt>Lessons</dt><dd>3<span class="stat-x">L01–L03</span></dd></div>
+  <div class="stat"><dt>Graded items</dt><dd>3</dd></div>
+</dl>
+
 ## Lessons
 
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-01-opening-the-atlas|Lesson 01: Opening the Atlas]] — 3 days; the atlas method aloud, look before you explain, then the darkroom; CS1.
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-02-what-survives-and-why|Lesson 02: What Survives, and Why]] — 6 days; Lascaux and Chauvet argued from the wall; [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB1]].
-- [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-03-the-first-board|Lesson 03: The First Board]] — 5 days; Neolithic and ritual objects, constellation workshop, then the A1 board build and justification.
+<div class="unit-lessons">
+<div class="ul-row"><span class="ul-num">L01</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-01-opening-the-atlas">Opening the Atlas</a></span><span class="ul-desc">3 days; the atlas method aloud, look before you explain, then the darkroom; CS1.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+<div class="ul-row"><span class="ul-num">L02</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-02-what-survives-and-why">What Survives, and Why</a></span><span class="ul-desc">6 days; Lascaux and Chauvet argued from the wall; <a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">LB1</a>.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+<div class="ul-row"><span class="ul-num">L03</span><span class="ul-body"><span class="ul-head"><a class="ul-title" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-03-the-first-board">The First Board</a></span><span class="ul-desc">5 days; Neolithic and ritual objects, constellation workshop, then the A1 board build and justification.</span></span><span class="ul-chev"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></div>
+</div>
+
 
 ## Assessment
 
 **Full brief** (objectives, task, instructions, rubric): [[classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board|A1 The Unit 1 Board]].
 
-| Item | Date | What |
-|---|---|---|
-| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|CS1]] | Fri 2026-09-04 | Darkroom reflection, written in the room |
-| [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB1]] | Fri 2026-09-11 | Seminar posting: take a position and move it |
-| **[[classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board\|A1]] sits** | **Fri 2026-09-18** | Unit 1 board and justification — every adjacency justified |
+<div class="duecard">
+<span class="duecard-kicker">Due dates at a glance</span>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">CS1</a></span><span class="duecard-date">Fri 2026-09-04</span></span><span class="duecard-what">Darkroom reflection, written in the room</span></div>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">LB1</a></span><span class="duecard-date">Fri 2026-09-11</span></span><span class="duecard-what">Seminar posting: take a position and move it</span></div>
+<div class="duecard-row"><span class="duecard-top"><span class="duecard-item"><strong><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board">A1</a> sits</strong></span><span class="duecard-date"><strong>Fri 2026-09-18</strong></span></span><span class="duecard-what">Unit 1 board and justification — every adjacency justified</span></div>
+</div>
+
 
 Full detail in the [[classes/art-appreciation/assessments/art-appreciation-s1-assessments|full register]].
+
+<div class="page-nav">
+<span class="page-nav-slot"></span>
+<span class="page-nav-slot"></span>
+</div>

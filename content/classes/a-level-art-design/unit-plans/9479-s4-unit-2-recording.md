@@ -15,7 +15,11 @@ modified: 2026-07-18
 
 # S4 Unit 2: Recording
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-4-plan|Semester 4 Plan]] · Unit 2 of 5 · ← [[classes/a-level-art-design/unit-plans/9479-s4-unit-1-foundations-on-the-question|Unit 1]] | [[classes/a-level-art-design/unit-plans/9479-s4-unit-3-exploration-and-artist-study|Unit 3]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-semester-4-plan">Semester 4 Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 2 of 5</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-1-foundations-on-the-question" aria-label="Previous: Unit 1"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-3-exploration-and-artist-study" aria-label="Next: Unit 3"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
+
 
 ## What this unit does
 
@@ -47,3 +51,8 @@ The unit gates on **A1, Fri 2028-03-10**, the recording milestone: locked questi
 - ◆ All reference is self-generated. **"Nothing found, nothing borrowed" does not relax under exam pressure.**
 - The sustained study shows duration despite the pace.
 - Homework stays capped at 30 minutes. Exam pace does not mean more homework.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-1-foundations-on-the-question">← Unit 1 · Foundations on the Question</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-3-exploration-and-artist-study">Unit 3 · Exploration &amp; Artist Study →</a>
+</div>

@@ -8,23 +8,26 @@ modified: 2026-08-05
 ---
 # Lesson 01: Opening the Atlas
 
-[[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-1-origins-and-ancestral-memory|Unit 1]] · Lesson 01 of 15 · [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-02-what-survives-and-why|Lesson 02]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/art-appreciation/art-appreciation">Art Appreciation</a> · <a href="../../../classes/art-appreciation/unit-plans/art-appreciation-s1-unit-1-origins-and-ancestral-memory">Unit 1</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 3 in this unit · L01 of 15</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-02-what-survives-and-why" aria-label="Next: Lesson 02"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-01-opening-the-atlas.pptx">Download the deck (PowerPoint, 3.7 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">CS1</a> darkroom reflection</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Tue 2026-09-01 to Fri 2026-09-04<span class="contract-cell-note">Days: 3</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board">A1</a></span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/art-appreciation/art-appreciation-s1-lesson-01-opening-the-atlas.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (3.7 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Session codes</span> `U1·L1`–`U1·L3`</span>
+<span class="contract-line"><span class="contract-line-label">Template</span> MAKE</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session codes</dt><dd>`U1·L1`–`U1·L3`</dd></div>
-  <div class="stat"><dt>Days</dt><dd>3</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Tue 2026-09-01 to Fri 2026-09-04</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Template | MAKE |
-| Deliverable | [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|CS1]] darkroom reflection |
-| Feeds | [[classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board\|A1]] |
 
 ## Overview
 
@@ -109,3 +112,8 @@ Naming a physical decision rather than a feeling about the result. "I placed the
 </details>
 
 **5.** Replay the looking drill at home: any image, title covered, ten minutes of silence, then two minutes of written description. Then ask what minute nine saw that minute one missed. That gap is the whole point of the method.
+
+<div class="page-nav">
+<span class="page-nav-slot"></span>
+<a class="page-nav-next" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-02-what-survives-and-why">Lesson 02 · What Survives, and Why →</a>
+</div>

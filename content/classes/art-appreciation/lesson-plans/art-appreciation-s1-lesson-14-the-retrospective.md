@@ -9,24 +9,26 @@ modified: 2026-08-06
 ---
 # Lesson 14: The Retrospective
 
-[[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-5-semester-close-and-retrospective|Unit 5]] · Lesson 14 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief|Lesson 13]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-15-return|Lesson 15]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/art-appreciation/art-appreciation">Art Appreciation</a> · <a href="../../../classes/art-appreciation/unit-plans/art-appreciation-s1-unit-5-semester-close-and-retrospective">Unit 5</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 2 in this unit · L14 of 15</span><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief" aria-label="Previous: Lesson 13"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-15-return" aria-label="Next: Lesson 15"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-14-the-retrospective.pptx">Download the deck (PowerPoint, 3.5 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job">The semester-close constellation retrospective — End of Term, 20%</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-01-04 to Fri 2027-01-08<span class="contract-cell-note">Days: 4 meetings (Tue is a double)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">Semester 2</span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/art-appreciation/art-appreciation-s1-lesson-14-the-retrospective.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (3.5 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> None</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Session codes</span> `U5·L1`–`U5·L5`</span>
+<span class="contract-line"><span class="contract-line-label">Template</span> PRODUCTION</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session codes</dt><dd>`U5·L1`–`U5·L5`</dd></div>
-  <div class="stat"><dt>Days</dt><dd>4 meetings (Tue is a double)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-01-04 to Fri 2027-01-08</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Template | PRODUCTION |
-| Deliverable | The semester-close constellation retrospective — End of Term, 20% |
-| Feeds | Semester 2 |
-| Homework | None |
 
 ## Overview
 
@@ -111,3 +113,8 @@ A semester of looking shown as one argument, with the argument in the layout. It
 </details>
 
 **5.** Before Monday: reread your own Unit 1 justification once. Not to admire it. To notice what you would never write now. That noticing is the retrospective's real content, and you are the only person who can supply it.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief">← Lesson 13 · The Artworld and the Brief</a>
+<a class="page-nav-next" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-15-return">Lesson 15 · Return →</a>
+</div>

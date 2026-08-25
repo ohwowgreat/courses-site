@@ -19,24 +19,25 @@ modified: 2026-08-09
 
 # Lesson 10: Narrative, Barthes and the Blog Audit
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis|Unit 3]] · Lesson 10 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-09-genre|Lesson 09]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-11-representation-applied-to-your-own-product|Lesson 11]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/media-studies/media-studies">Media Studies</a> · <a href="../../../classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis">Unit 3</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 3 of 3 in this unit · L10 of 19</span><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-09-genre" aria-label="Previous: Lesson 09"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-11-representation-applied-to-your-own-product" aria-label="Next: Lesson 11"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-10-narrative-barthes-and-the-blog-audit.pptx">Download the deck (PowerPoint, 3.5 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1</span><span class="contract-ao">AO2 (narrative)</span><span class="contract-ao">AO3 (audit)</span></span></div>
+<p class="contract-job"><strong><a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">CS9</a></strong> peer blog audit against the mid-point checklist, three teaching days before <a href="../../../classes/media-studies/assessments/9607-s1-a2-blog-mid-point">A2</a></p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Tue 2026-10-20 · Wed 10-21 · Fri 10-23<span class="contract-cell-note">Days: 3 · Tue single, Wed double, Fri single</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">A2 (Mon 10-26) · <a href="../../../classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format">A4</a> · the End of Term Exam</span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-10-narrative-barthes-and-the-blog-audit.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (3.5 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> Blogs to the mid-point standard by Monday; action lists started in class</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Band/Unit</span> U3 Macro and Textual Analysis (<a href="../../../classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis">S1 Unit 3</a>)</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Days</dt><dd>3<span class="stat-x">Tue single, Wed double, Fri single</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Tue 2026-10-20<span class="stat-x">Wed 10-21 · Fri 10-23</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO1 + AO2 (narrative)<span class="stat-x">AO3 (audit)</span></dd></div>
-</dl>
-
-| | |
-|---|---|
-| Band/Unit | U3 Macro and Textual Analysis ([[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis\|S1 Unit 3]]) |
-| Deliverable | **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS9]]** peer blog audit against the mid-point checklist, three teaching days before [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point\|A2]] |
-| Feeds | A2 (Mon 10-26) · [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format\|A4]] · the End of Term Exam |
-| Homework | Blogs to the mid-point standard by Monday; action lists started in class |
 
 ## Overview
 
@@ -204,3 +205,8 @@ Any genuine pair works: order versus chaos, law versus crime, home versus away, 
 </details>
 
 **7.** Audit your own blog before Monday. For each post ask the checklist's question: is it dated on the day it happened, is your contribution labelled, and would a stranger know what it is evidence of?
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-09-genre">← Lesson 09 · Genre</a>
+<a class="page-nav-next" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-11-representation-applied-to-your-own-product">Lesson 11 · Representation Applied to Your Own Product →</a>
+</div>

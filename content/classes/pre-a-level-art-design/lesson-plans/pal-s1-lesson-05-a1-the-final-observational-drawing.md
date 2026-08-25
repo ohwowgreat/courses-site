@@ -16,21 +16,25 @@ modified: 2026-08-05
 
 # Lesson 05: A1 — The Final Observational Drawing
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1]] · U1·L5 · ← [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-04-composing-the-final-drawing|Lesson 04]] | next unit: [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography|U2 Photography]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/pre-a-level-art-design/pre-a-level-art-design">Pre A Level Art &amp; Design</a> · <a href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements">Unit 1</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 5 of 5 in this unit · L05</span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-04-composing-the-final-drawing" aria-label="Previous: Lesson 04"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography" aria-label="Next: U2 Photography"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session</dt><dd>W5<span class="stat-x">one Wednesday double (~90 min) — Unit 1 closes</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Wed 2026-09-30</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job">The final drawing + reflection, submitted at close</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2026-09-30<span class="contract-cell-note">Session: W5, one Wednesday double (~90 min) — Unit 1 closes</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">A1 feeds the mid-term grades (due Thu 2026-10-29); <strong><a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework">HW1</a> set</strong> (due Wed 10-14, opens U2)</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> <strong>HW1</strong>: ≥20 photos of one subject in varied viewpoint and light, over the National Day break; MB posting</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Focus</span> <strong><a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing">A1</a> sat</strong>: the final observational drawing finished under assessment conditions, plus the written reflection</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Focus | **[[classes/pre-a-level-art-design/assessments/pal-s1-a1-observational-drawing\|A1]] sat**: the final observational drawing finished under assessment conditions, plus the written reflection |
-| Deliverable | The final drawing + reflection, submitted at close |
-| Feeds | A1 feeds the mid-term grades (due Thu 2026-10-29); **[[classes/pre-a-level-art-design/assessments/pal-s1-course-skills-and-homework\|HW1]] set** (due Wed 10-14, opens U2) |
-| Homework | **HW1**: ≥20 photos of one subject in varied viewpoint and light, over the National Day break; MB posting |
 
 ## Overview
 
@@ -117,3 +121,8 @@ You submit at sixty minutes. The timebox is part of what A1 samples. This is why
 </details>
 
 **5.** Over the break, HW1: at least twenty photos of one subject, different viewpoints, different light, no editing. One subject, truly. The variation is the assignment, and Unit 2's first lesson runs on your twenty.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-04-composing-the-final-drawing">← Lesson 04 · Composing the Final Drawing</a>
+<a class="page-nav-next" href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography">U2 Photography · Photography →</a>
+</div>

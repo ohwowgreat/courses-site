@@ -17,28 +17,29 @@ modified: 2026-08-09
 
 # Lesson 09: Genre
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis|Unit 3]] · Lesson 09 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-08-the-viewing-protocol-and-a1|Lesson 08]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-10-narrative-barthes-and-the-blog-audit|Lesson 10]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/media-studies/media-studies">Media Studies</a> · <a href="../../../classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis">Unit 3</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 2 of 3 in this unit · L09 of 19</span><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-08-the-viewing-protocol-and-a1" aria-label="Previous: Lesson 08"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-10-narrative-barthes-and-the-blog-audit" aria-label="Next: Lesson 10"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
+
 
 > [!note] First of the macro elements
 > Coursebook Unit 3 covers genre, narrative and representation. The micro elements were [[classes/media-studies/lesson-plans/9607-s1-lesson-03-camera|L03]] to [[classes/media-studies/lesson-plans/9607-s1-lesson-06-editing|L06]].
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-09-genre.pptx">Download the deck (PowerPoint, 3.5 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1</span><span class="contract-ao">AO2</span></span></div>
+<p class="contract-job">Genre contract mapped onto their own C1 product, posted to the blog as a research entry</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Fri 2026-10-16 · Mon 10-19<span class="contract-cell-note">Days: 2 · Fri single (Foreign Culture Day flag), Mon single</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/media-studies/assessments/9607-s1-a2-blog-mid-point">A2</a> (blog mid-point) · <a href="../../../classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format">A4</a> · the C2 case-study document</span></div>
+<div class="contract-cell"><span class="contract-cell-label">Carries forward</span><span class="contract-cell-value">Every C3 brief (music promotion, film promotion, documentary, short film) is a genre contract before it is a production</span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-09-genre.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (3.5 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> None: A2 falls the following Monday, blog time protected</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Band/Unit</span> U3 Macro and Textual Analysis (<a href="../../../classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis">S1 Unit 3</a>)</span>
+</div>
+</div>
 
-## At a glance
-
-<dl class="stat-strip">
-  <div class="stat"><dt>Days</dt><dd>2<span class="stat-x">Fri single (Foreign Culture Day flag), Mon single</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Fri 2026-10-16<span class="stat-x">Mon 10-19</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO1 + AO2</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Band/Unit | U3 Macro and Textual Analysis ([[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis\|S1 Unit 3]]) |
-| Deliverable | Genre contract mapped onto their own C1 product, posted to the blog as a research entry |
-| Feeds | [[classes/media-studies/assessments/9607-s1-a2-blog-mid-point\|A2]] (blog mid-point) · [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format\|A4]] · the C2 case-study document |
-| Carries forward | Every C3 brief (music promotion, film promotion, documentary, short film) is a genre contract before it is a production |
-| Homework | None: A2 falls the following Monday, blog time protected |
 
 ## Overview
 
@@ -146,3 +147,8 @@ No single right answer, but both halves must be there. A promise with nothing va
 </details>
 
 **6.** Watch sixty seconds of something unfamiliar with the sound off. Attribute a genre from codes alone and note two pieces of evidence. Then watch it again with sound and check whether the audio agreed with you.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-08-the-viewing-protocol-and-a1">← Lesson 08 · The Viewing Protocol and A1</a>
+<a class="page-nav-next" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-10-narrative-barthes-and-the-blog-audit">Lesson 10 · Narrative, Barthes and the Blog Audit →</a>
+</div>

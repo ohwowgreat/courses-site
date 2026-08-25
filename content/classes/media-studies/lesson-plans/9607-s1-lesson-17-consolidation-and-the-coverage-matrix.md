@@ -17,24 +17,25 @@ modified: 2026-08-24
 
 # Lesson 17: Consolidation and the Coverage Matrix
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation|Unit 6]] · Lesson 17 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-16-a4-section-a-in-authentic-format|Lesson 16]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-18-exam-rehearsal|Lesson 18]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/media-studies/media-studies">Media Studies</a> · <a href="../../../classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation">Unit 6</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 3 in this unit · L17 of 19</span><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-16-a4-section-a-in-authentic-format" aria-label="Previous: Lesson 16"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-18-exam-rehearsal" aria-label="Next: Lesson 18"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-17-consolidation-and-the-coverage-matrix.pptx">Download the deck (PowerPoint, 2.1 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">A4 review at AO level; coverage audit of the four Key Concepts</span></span></div>
+<p class="contract-job">Case-study coverage matrix completed; <a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">HW2</a> break pack set (<a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">LB5</a> inside; <a href="../../../classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format">A4</a> returned day 1)</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-12-21 · Tue 12-22 · Wed 12-23<span class="contract-cell-note">Days: 3: Mon, Tue, Wed double (W17)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">End of Term Exam</span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-17-consolidation-and-the-coverage-matrix.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (2.1 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> HW2 break task: case-study revision pack, one page each, plus one Section B essay plan (3–4 h across the break)</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Band/Unit</span> U6 Revision (<a href="../../../classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation">S1 Unit 6</a>)</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Days</dt><dd>3: Mon<span class="stat-x">Tue, Wed double (W17)</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-12-21<span class="stat-x">Tue 12-22 · Wed 12-23</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>A4 review at AO level<span class="stat-x">coverage audit of the four Key Concepts</span></dd></div>
-</dl>
-
-| | |
-|---|---|
-| Band/Unit | U6 Revision ([[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation\|S1 Unit 6]]) |
-| Deliverable | Case-study coverage matrix completed; [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|HW2]] break pack set ([[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|LB5]] inside; [[classes/media-studies/assessments/9607-s1-a4-section-a-authentic-format\|A4]] returned day 1) |
-| Feeds | End of Term Exam |
-| Homework | HW2 break task: case-study revision pack, one page each, plus one Section B essay plan (3–4 h across the break) |
 
 ## Overview
 
@@ -121,3 +122,8 @@ The full two-hour Component 2: A4's format plus Section B. Thirty minutes of vie
 **5.** Build your own mini-matrix now. List your case studies as rows, the four Key Concepts as columns, and score every cell honestly: evidenced, thin, or empty. Write your weakest cell at the top of your HW2 plan. That cell is what your Section B essay plan should aim at.
 
 **6.** Rehearse one argument aloud before you write anything. Argue one Section B question to someone from your case study. Have them counter from the same case study. Only then write the skeleton plan. Plans written cold go stale. Plans that survived a counter do not.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-16-a4-section-a-in-authentic-format">← Lesson 16 · A4 — Section A in Authentic Format</a>
+<a class="page-nav-next" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-18-exam-rehearsal">Lesson 18 · Exam Rehearsal →</a>
+</div>

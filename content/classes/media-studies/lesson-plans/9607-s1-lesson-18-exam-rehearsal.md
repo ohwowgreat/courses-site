@@ -16,24 +16,25 @@ modified: 2026-08-03
 
 # Lesson 18: Exam Rehearsal
 
-[[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation|Unit 6]] · Lesson 18 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-17-consolidation-and-the-coverage-matrix\|Lesson 17]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-19-end-of-term-exam-and-return\|Lesson 19]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/media-studies/media-studies">Media Studies</a> · <a href="../../../classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation">Unit 6</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 2 of 3 in this unit · L18 of 19</span><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-17-consolidation-and-the-coverage-matrix\" aria-label="Previous: Lesson 17"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-19-end-of-term-exam-and-return\" aria-label="Next: Lesson 19"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-18-exam-rehearsal.pptx">Download the deck (PowerPoint, 3.2 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1</span><span class="contract-ao">AO2</span></span></div>
+<p class="contract-job"><a href="../../../classes/media-studies/assessments/9607-s1-course-skills-and-homework">CS13</a> timed Section B script, 45 min, peer-marked then moderated</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-01-04 · Tue 01-05 · Wed 01-06 · Fri 01-08<span class="contract-cell-note">Days: 4 — Mon+Tue two-day block (HW2 due Mon), Wed double (CS13), Fri (last teaching day)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">End of Term Exam</span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/media-studies/media-studies-s1-lesson-18-exam-rehearsal.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (3.2 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> Individual revision from the marked CS13 and the matrix; no new tasks</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Band/Unit</span> U6 Revision (<a href="../../../classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation">S1 Unit 6</a>)</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Days</dt><dd>4<span class="stat-x">Mon+Tue two-day block (HW2 due Mon), Wed double (CS13), Fri (last teaching day)</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-01-04<span class="stat-x">Tue 01-05 · Wed 01-06 · Fri 01-08</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO1 + AO2</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Band/Unit | U6 Revision ([[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation\|S1 Unit 6]]) |
-| Deliverable | [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS13]] timed Section B script, 45 min, peer-marked then moderated |
-| Feeds | End of Term Exam |
-| Homework | Individual revision from the marked CS13 and the matrix; no new tasks |
 
 ## Overview
 
@@ -128,3 +129,8 @@ Because you read the mark scheme as a marker once, band words and all, before it
 **5.** Write your two loss-point cards. Model: "I list techniques without effects, so every technique now gets a 'so that' clause." Name your own two most likely mark losses and the counter-move for each. Put the card in your revision deck.
 
 **6.** Run the plan drill: three rounds of five-minute Section B plans from your own case studies, pens down at five exactly. Round by round the plans get denser and calmer. That is the drill working.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-17-consolidation-and-the-coverage-matrix\">← Lesson 17</a>
+<a class="page-nav-next" href="../../../classes/media-studies/lesson-plans/9607-s1-lesson-19-end-of-term-exam-and-return\">Lesson 19 →</a>
+</div>

@@ -9,21 +9,22 @@ modified: 2026-08-05
 ---
 # S1 Lesson 07: Selection and Scale
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study|Unit 3]] · Lesson 07 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-06-media-exploration|Lesson 06]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-08-artist-study-1|Lesson 08]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-3-exploration-and-artist-study">Unit 3</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 2 of 4 in this unit · L07 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-06-media-exploration" aria-label="Previous: Lesson 06"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-08-artist-study-1" aria-label="Next: Lesson 08"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (W8)</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-10-19 → Fri 2026-10-23</dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO2 Explore</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO2 Explore</span></span></div>
+<p class="contract-job">Media selected and documented; the idea tested at real scale across two days; Stage 3 page laid out</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-10-19 → Fri 2026-10-23<span class="contract-cell-note">Sessions: 5 days (W8)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS6</a> collected Fri 2026-10-23 — direct practice for <a href="../../../classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study">A2</a>. Autumn Field Trip falls Fri 10-23 or Sat 10-24</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Written annotation: the media selection note drafted at home, refined in class</span></div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Media selected and documented; the idea tested at real scale across two days; Stage 3 page laid out |
-| Feeds | [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS6]] collected Fri 2026-10-23 — direct practice for [[classes/a-level-art-design/assessments/9479-s1-a2-exploration-and-artist-study\|A2]]. Autumn Field Trip falls Fri 10-23 or Sat 10-24 |
-| Homework | Written annotation: the media selection note drafted at home, refined in class |
 
 ## Overview
 
@@ -114,3 +115,8 @@ Experiments, decision, trial, refinement, in that order. The page tells the stor
 </details>
 
 **5.** Draft the selection note at home tonight, then run the strike test on it: any sentence that could sit under a different medium gets struck. What survives is the note. Bring it in for refinement and the one-to-one sign-off.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-06-media-exploration">← Lesson 06 · Media Exploration</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-08-artist-study-1">Lesson 08 · Artist Study 1 →</a>
+</div>

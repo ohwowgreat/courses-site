@@ -10,21 +10,24 @@ modified: 2026-08-05
 ---
 # S3 Lesson 15: Submission QC, the Return, and into C2
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s3-unit-6-assembly-and-submission|Unit 6]] · Lesson 15 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-14-a4-the-complete-investigation|Lesson 14]] · Semester 3 closes
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-6-assembly-and-submission">Unit 6</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 4 of 4 in this unit · L15 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-14-a4-the-complete-investigation" aria-label="Previous: Lesson 14"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>~2 (W18) + the reduced return week (W19) <em>(projected; tail floats)</em></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>W18 Sun 2027-12-26 → Sat 01-01<span class="stat-x">then W19 to ~Fri 2028-01-07 <em>(projected)</em></span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO4 Present<span class="stat-x">then review and C2 orientation</span></dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO4 Present; then review and C2 orientation</span></span></div>
+<p class="contract-job">The PDF submission assembled to the Cambridge screen limits and passed through QC; the investigation returned 1:1; a C2 preview</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">W18 Sun 2027-12-26 → Sat 01-01, then W19 to ~Fri 2028-01-07 <em>(projected)</em><span class="contract-cell-note">Sessions: ~2 (W18) + the reduced return week (W19) <em>(projected; tail floats)</em></span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> The Semester 4 winter homework: the C2/ESA past-paper review and drawing regimen (feeds <a href="../../../classes/a-level-art-design/unit-plans/9479-s4-unit-1-foundations-on-the-question">S4 Unit 1</a>)</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> No attainment. The <strong>End of Term (the Final)</strong> falls in the projected <a href="../../../classes/a-level-art-design/assessments/9479-s3-assessments">EoT</a> window (Mon 2028-01-10 → Mon 01-17) — teacher-marked against the Cambridge criteria, date at the teacher's discretion</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | The PDF submission assembled to the Cambridge screen limits and passed through QC; the investigation returned 1:1; a C2 preview |
-| Graded | No attainment. The **End of Term (the Final)** falls in the projected [[classes/a-level-art-design/assessments/9479-s3-assessments\|EoT]] window (Mon 2028-01-10 → Mon 01-17) — teacher-marked against the Cambridge criteria, date at the teacher's discretion |
-| Homework | The Semester 4 winter homework: the C2/ESA past-paper review and drawing regimen (feeds [[classes/a-level-art-design/unit-plans/9479-s4-unit-1-foundations-on-the-question\|S4 Unit 1]]) |
 
 ## Overview
 
@@ -115,3 +118,8 @@ The winter homework: the C2 past-paper review and the drawing regimen. The Exter
 </details>
 
 **5.** Before your one-to-one return, write your own QC list: anything you know did not render right, any page you would defend differently after the viva. Arriving with your list makes the return a working session, and the supervised repair exists for exactly what it names.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-14-a4-the-complete-investigation">← Lesson 14 · A4 — The Complete Investigation</a>
+<span class="page-nav-slot"></span>
+</div>

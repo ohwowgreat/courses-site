@@ -14,7 +14,11 @@ modified: 2026-07-18
 
 # S3 Unit 1: Review & Goal Setting
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-3-plan|Semester 3 Plan]] · Unit 1 · 1st of 4 this semester · [[classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass|Unit 4]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-semester-3-plan">Semester 3 Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Unit 1 · 1st of 4 this semester</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass" aria-label="Next: Unit 4"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
+
 
 ## What this unit does
 
@@ -46,3 +50,8 @@ No attainment tasks fall in this unit. The first, **[[classes/a-level-art-design
 - Every summer piece must be present, annotated, and judged against a named target. Unannotated work fails the audit standard and costs AO1.
 - The action plan is the semester's contract: written, dated, signed, and specific.
 - Your summer reading reflections open **research paper draft 2** in Unit 4.
+
+<div class="page-nav">
+<span class="page-nav-slot"></span>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-4-development-second-pass">Unit 4 · Development, Second Pass →</a>
+</div>

@@ -9,21 +9,22 @@ modified: 2026-08-05
 ---
 # S1 Lesson 11: Composition 2 and Critique
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s1-unit-4-development|Unit 4]] · Lesson 11 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-10-composition-1|Lesson 10]] | [[classes/a-level-art-design/lesson-plans/9479-s1-lesson-12-targeted-tests-and-direction|Lesson 12]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s1-unit-4-development">Unit 4</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 2 of 4 in this unit · L11 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-10-composition-1" aria-label="Previous: Lesson 10"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-12-targeted-tests-and-direction" aria-label="Next: Lesson 12"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (W12–W13)<span class="stat-x">studio production template</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Wed 2026-11-18 → Fri 2026-11-20<span class="stat-x">then Mon 2026-11-23 → Tue 2026-11-24</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO3 Develop</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO3 Develop</span></span></div>
+<p class="contract-job">Composition 2 composed, built and resolved; a structured critique of both compositions; the critique acted on</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2026-11-18 → Fri 2026-11-20, then Mon 2026-11-23 → Tue 2026-11-24<span class="contract-cell-note">Sessions: 5 days (W12–W13) — studio production template</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/a-level-art-design/assessments/9479-s1-course-skills">CS8</a> collected Fri 2026-11-20 (slips to Monday if Foreign Culture Day takes the Friday; the sequence holds)</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Sketchbook: nightly studies toward whichever composition is weaker</span></div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | Composition 2 composed, built and resolved; a structured critique of both compositions; the critique acted on |
-| Feeds | [[classes/a-level-art-design/assessments/9479-s1-course-skills\|CS8]] collected Fri 2026-11-20 (slips to Monday if Foreign Culture Day takes the Friday; the sequence holds) |
-| Homework | Sketchbook: nightly studies toward whichever composition is weaker |
 
 ## Overview
 
@@ -107,3 +108,8 @@ Change something real on the stronger composition, and annotate what changed and
 </details>
 
 **5.** The nightly sketchbook rule this week: studies toward whichever composition is weaker. Feeding the strong one is comfortable and teaches less. The weaker piece is where the next decision lives.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-10-composition-1">← Lesson 10 · Composition 1</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s1-lesson-12-targeted-tests-and-direction">Lesson 12 · Targeted Tests and Direction →</a>
+</div>

@@ -16,21 +16,25 @@ modified: 2026-08-05
 
 # Lesson 01: Introduction, the Sketchbook and First Marks
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements|Unit 1]] · U1·L1 · [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-02-tone-and-form|Lesson 02]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/pre-a-level-art-design/pre-a-level-art-design">Pre A Level Art &amp; Design</a> · <a href="../../../classes/pre-a-level-art-design/unit-plans/pal-s1-unit-1-drawing-and-the-visual-elements">Unit 1</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 1 of 5 in this unit · L01</span><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></span><a class="pb-arrow" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-02-tone-and-form" aria-label="Next: Lesson 02"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session</dt><dd>W1<span class="stat-x">one Wednesday double (~90 min)</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Wed 2026-09-02</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job">Introduction Survey completed (incl. the garlic drawing); sketchbook set up; first line studies</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Wed 2026-09-02<span class="contract-cell-note">Session: W1, one Wednesday double (~90 min)</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">The survey baselines the mid-term narrative and carries the U4 demand signal; the sketchbook regime runs to <a href="../../../classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook">A5</a> (Wed 2027-01-06)</span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> Finish the <em>Drawing Exercises 1</em> mark sheets; decorate the sketchbook cover; post the session's pages on MB (the weekly Learning Behaviour posting)</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Focus</span> Course opening; the sketchbook contract; the visual elements; line and mark</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Focus | Course opening; the sketchbook contract; the visual elements; line and mark |
-| Deliverable | Introduction Survey completed (incl. the garlic drawing); sketchbook set up; first line studies |
-| Feeds | The survey baselines the mid-term narrative and carries the U4 demand signal; the sketchbook regime runs to [[classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook\|A5]] (Wed 2027-01-06) |
-| Homework | Finish the *Drawing Exercises 1* mark sheets; decorate the sketchbook cover; post the session's pages on MB (the weekly Learning Behaviour posting) |
 
 ## Overview
 
@@ -117,3 +121,8 @@ Eyes on the subject, pen never lifts, no looking at the page. The point is looki
 </details>
 
 **5.** This week: finish the mark grids from hard pencil to soft, decorate your sketchbook cover, and post your pages on MB. Ten minutes of drawing at home counts. It all goes in the book, and the book is the course.
+
+<div class="page-nav">
+<span class="page-nav-slot"></span>
+<a class="page-nav-next" href="../../../classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-02-tone-and-form">Lesson 02 · Tone and Form →</a>
+</div>

@@ -15,7 +15,11 @@ modified: 2026-07-18
 
 # S3 Unit 6: Assembly & Submission
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-semester-3-plan|Semester 3 Plan]] · Unit 6 · 4th of 4 this semester · ← [[classes/a-level-art-design/unit-plans/9479-s3-unit-5-final-outcomes|Unit 5]]
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-semester-3-plan">Semester 3 Plan</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Unit 6 · 4th of 4 this semester</span><a class="pb-arrow" href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-5-final-outcomes" aria-label="Previous: Unit 5"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><span class="pb-arrow pb-arrow--off"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></span></span>
+</div>
+
 
 ## What this unit does
 
@@ -55,3 +59,8 @@ You sit **A4 on Wed 2027-12-22**: the complete Personal Investigation, meaning b
 - Integrate the bibliography into the body of the work. A detached bibliography cost AO1 marks in the 90/100 C3 exemplar.
 - Every decision you name in the viva should be visible on a page.
 - The submission must be board-ready before the break. The W18 QC sessions are your last chance to earn marks.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-5-final-outcomes">← Unit 5 · Final Outcomes</a>
+<span class="page-nav-slot"></span>
+</div>

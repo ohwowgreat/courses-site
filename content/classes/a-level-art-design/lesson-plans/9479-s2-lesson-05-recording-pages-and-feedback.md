@@ -9,21 +9,24 @@ modified: 2026-08-05
 ---
 # S2 Lesson 05: Recording Pages and Feedback
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s2-unit-2-recording-and-sustained-study|Unit 2]] · Lesson 05 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-04-recording-and-the-a1-milestone|Lesson 04]] | [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-06-media-exploration|Lesson 06]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s2-unit-2-recording-and-sustained-study">Unit 2</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 2 of 2 in this unit · L05 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-04-recording-and-the-a1-milestone" aria-label="Previous: Lesson 04"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-06-media-exploration" aria-label="Next: Lesson 06"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>5 days (S5)<span class="stat-x">Unit 2 closes</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-03-22 → Fri 2027-03-26</dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO1 Record</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1 Record</span></span></div>
+<p class="contract-job"><a href="../../../classes/a-level-art-design/assessments/9479-s2-assessments">A1</a> feedback turned into three actions; a second sustained study; own photography annotated; recording pages built and sequenced</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-03-22 → Fri 2027-03-26<span class="contract-cell-note">Sessions: 5 days (S5) — Unit 2 closes</span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> ≤30 min: keep recording from your own primary sources, ahead of the media experiments in <a href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-06-media-exploration">L06</a></span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> <strong><a href="../../../classes/a-level-art-design/assessments/9479-s2-assessments">CS3</a></strong> (recording-pages build check) Fri 2027-03-26 — a sketchbook task consolidating your A1 feedback</span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | [[classes/a-level-art-design/assessments/9479-s2-assessments\|A1]] feedback turned into three actions; a second sustained study; own photography annotated; recording pages built and sequenced |
-| Graded | **[[classes/a-level-art-design/assessments/9479-s2-assessments\|CS3]]** (recording-pages build check) Fri 2027-03-26 — a sketchbook task consolidating your A1 feedback |
-| Homework | ≤30 min: keep recording from your own primary sources, ahead of the media experiments in [[classes/a-level-art-design/lesson-plans/9479-s2-lesson-06-media-exploration\|L06]] |
 
 ## Overview
 
@@ -111,3 +114,8 @@ Because this reference feeds exploration next week, and exploration inherits its
 </details>
 
 **5.** Over the weekend, keep recording from your own primary sources, thirty minutes at most. The media experiments in Lesson 06 run on this material, and twelve experiments need more source than one shoot provides.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-04-recording-and-the-a1-milestone">← Lesson 04 · Recording and the A1 Milestone</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s2-lesson-06-media-exploration">Lesson 06 · Media Exploration →</a>
+</div>

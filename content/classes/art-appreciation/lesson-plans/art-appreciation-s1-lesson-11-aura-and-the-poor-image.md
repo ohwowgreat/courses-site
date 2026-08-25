@@ -9,24 +9,26 @@ modified: 2026-08-06
 ---
 # Lesson 11: Aura and the Poor Image
 
-[[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity|Unit 4]] · Lesson 11 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-10-berger-and-the-reproduction|Lesson 10]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-12-photography-and-after|Lesson 12]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/art-appreciation/art-appreciation">Art Appreciation</a> · <a href="../../../classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity">Unit 4</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 2 of 4 in this unit · L11 of 15</span><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-10-berger-and-the-reproduction" aria-label="Previous: Lesson 10"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-12-photography-and-after" aria-label="Next: Lesson 12"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-11-aura-and-the-poor-image.pptx">Download the deck (PowerPoint, 958 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">CS5</a> poor-image lab</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-12-07 to Wed 2026-12-09<span class="contract-cell-note">Days: 3 meetings / 4 sessions (Tue is a double) — &quot;the tightest lesson in the semester&quot;</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value"><a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis">A4</a></span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/art-appreciation/art-appreciation-s1-lesson-11-aura-and-the-poor-image.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (958 KB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> Benjamin, the aura passages only, 30 min, set day 1, due day 2</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Session codes</span> `U4·L8`–`U4·L11`</span>
+<span class="contract-line"><span class="contract-line-label">Template</span> MAKE</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session codes</dt><dd>`U4·L8`–`U4·L11`</dd></div>
-  <div class="stat"><dt>Days</dt><dd>3 meetings / 4 sessions<span class="stat-x">Tue is a double. &quot;the tightest lesson in the semester&quot;</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-12-07 to Wed 2026-12-09</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Template | MAKE |
-| Deliverable | [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|CS5]] poor-image lab |
-| Feeds | [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis\|A4]] |
-| Homework | Benjamin, the aura passages only, 30 min, set day 1, due day 2 |
 
 ## Overview
 
@@ -107,3 +109,8 @@ Describe exactly what changed, not that it got worse. "Worse" is a verdict. "The
 </details>
 
 **5.** Run the lab again at home: one image, two routes down, screenshot of a screenshot and a re-photograph off your screen. Three sentences per route on exactly what changed. You will never see your feed's images the same way, which is the point.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-10-berger-and-the-reproduction">← Lesson 10 · Berger and the Reproduction</a>
+<a class="page-nav-next" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-12-photography-and-after">Lesson 12 · Photography and After →</a>
+</div>

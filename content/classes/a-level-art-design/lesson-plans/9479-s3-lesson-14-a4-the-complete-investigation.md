@@ -10,21 +10,24 @@ modified: 2026-08-05
 ---
 # S3 Lesson 14: A4 — The Complete Investigation
 
-[[classes/a-level-art-design/a-level-art-design|A Level Art & Design]] · [[classes/a-level-art-design/unit-plans/9479-s3-unit-6-assembly-and-submission|Unit 6]] · Lesson 14 of 15 · ← [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-13-the-viva-rehearsal-critique|Lesson 13]] | [[classes/a-level-art-design/lesson-plans/9479-s3-lesson-15-submission-qc-the-return-and-into-c2|Lesson 15]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/a-level-art-design/a-level-art-design">A Level Art &amp; Design</a> · <a href="../../../classes/a-level-art-design/unit-plans/9479-s3-unit-6-assembly-and-submission">Unit 6</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i><i class="pb-seg"></i></span><span class="pb-label">Lesson 3 of 4 in this unit · L14 of 15</span><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-13-the-viva-rehearsal-critique" aria-label="Previous: Lesson 13"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-15-submission-qc-the-return-and-into-c2" aria-label="Next: Lesson 15"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sessions</dt><dd>3 days<span class="stat-x">W17, reduced — Christmas break follows</span></dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2027-12-20 → Wed 2027-12-22 <em>(projected)</em></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO1–AO4 (the whole investigation)</dd></div>
-</dl>
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span><span class="contract-aos"><span class="contract-ao">AO1–AO4 (the whole investigation)</span></span></div>
+<p class="contract-job">The complete Personal Investigation — both outcomes, the supporting portfolio, the research paper — submitted at <a href="../../../classes/a-level-art-design/assessments/9479-s3-assessments">A4</a>; submission photography begun</p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2027-12-20 → Wed 2027-12-22 <em>(projected)</em><span class="contract-cell-note">Sessions: 3 days (W17, reduced — Christmas break follows)</span></span></div>
+</div>
+<div class="contract-foot"><span class="contract-hw"><span class="contract-line-label">Homework</span> None over the break beyond the winter homework for <a href="../../../classes/a-level-art-design/unit-plans/9479-semester-4-plan">Semester 4</a> (the C2/ESA past-paper review)</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Graded</span> <strong>A4</strong> Wed 2027-12-22 (AO1–AO4) — the complete investigation, <strong>no edits after</strong></span>
+</div>
+</div>
 
-| | |
-|---|---|
-| Deliverable | The complete Personal Investigation — both outcomes, the supporting portfolio, the research paper — submitted at [[classes/a-level-art-design/assessments/9479-s3-assessments\|A4]]; submission photography begun |
-| Graded | **A4** Wed 2027-12-22 (AO1–AO4) — the complete investigation, **no edits after** |
-| Homework | None over the break beyond the winter homework for [[classes/a-level-art-design/unit-plans/9479-semester-4-plan\|Semester 4]] (the C2/ESA past-paper review) |
 
 ## Overview
 
@@ -106,3 +109,8 @@ While the work is still at hand, before the break scatters it. The QC tail after
 </details>
 
 **5.** Over the break, the only work is the Semester 4 winter homework: the C2 past-paper review and the drawing regimen. The investigation is done and needs nothing from you. Let it rest, and rest with it.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-13-the-viva-rehearsal-critique">← Lesson 13 · The Viva-Rehearsal Critique</a>
+<a class="page-nav-next" href="../../../classes/a-level-art-design/lesson-plans/9479-s3-lesson-15-submission-qc-the-return-and-into-c2">Lesson 15 · Submission QC, the Return, and into C2 →</a>
+</div>

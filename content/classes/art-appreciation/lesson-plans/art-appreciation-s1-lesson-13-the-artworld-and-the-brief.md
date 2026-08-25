@@ -9,24 +9,26 @@ modified: 2026-08-06
 ---
 # Lesson 13: The Artworld and the Brief
 
-[[classes/art-appreciation/art-appreciation|Art Appreciation]] · [[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity|Unit 4]] · Lesson 13 of 15 · ← [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-12-photography-and-after|Lesson 12]] | [[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-14-the-retrospective|Lesson 14]] →
+<div class="pagebar">
+<span class="pb-crumb"><a href="../../../classes/art-appreciation/art-appreciation">Art Appreciation</a> · <a href="../../../classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity">Unit 4</a></span>
+<span class="pb-pos"><span class="pb-segs" aria-hidden="true"><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--done"></i><i class="pb-seg pb-seg--now"></i></span><span class="pb-label">Lesson 4 of 4 in this unit · L13 of 15</span><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-12-photography-and-after" aria-label="Previous: Lesson 12"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 3 5 8l5 5"></path></svg></a><a class="pb-arrow" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-14-the-retrospective" aria-label="Next: Lesson 14"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 3 5 5-5 5"></path></svg></a></span>
+</div>
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/art-appreciation/art-appreciation-s1-lesson-13-the-artworld-and-the-brief.pptx">Download the deck (PowerPoint, 1.0 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
-## At a glance
+<div class="contract">
+<div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
+<p class="contract-job">Winter break homework = the retrospective brief, plus <a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">LB8</a></p>
+<div class="contract-grid">
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Mon 2026-12-21 to Wed 2026-12-23<span class="contract-cell-note">Days: 3</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">The retrospective</span></div>
+</div>
+<div class="contract-foot"><a class="contract-deck" href="../../../decks/art-appreciation/art-appreciation-s1-lesson-13-the-artworld-and-the-brief.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (1.0 MB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> BREAK HOMEWORK: three works that changed how you see, with reasons; 3–4 h across the break, set day 3</span></div>
+<div class="contract-more">
+<span class="contract-line"><span class="contract-line-label">Session codes</span> `U4·L18`–`U4·L20`</span>
+<span class="contract-line"><span class="contract-line-label">Template</span> STUDY</span>
+</div>
+</div>
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Session codes</dt><dd>`U4·L18`–`U4·L20`</dd></div>
-  <div class="stat"><dt>Days</dt><dd>3</dd></div>
-  <div class="stat"><dt>Dates</dt><dd>Mon 2026-12-21 to Wed 2026-12-23</dd></div>
-</dl>
-
-| | |
-|---|---|
-| Template | STUDY |
-| Deliverable | Winter break homework = the retrospective brief, plus [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills\|LB8]] |
-| Feeds | The retrospective |
-| Homework | BREAK HOMEWORK: three works that changed how you see, with reasons; 3–4 h across the break, set day 3 |
 
 ## Overview
 
@@ -112,3 +114,8 @@ Changed how you see, not liked the most. The reason has to name the change: what
 </details>
 
 **5.** Over the break, write the three reasons properly, one paragraph each, in the course's register: describe, account, judge. You will defend them in January to someone who chose differently. Reasons written in December argue better than reasons remembered in January.
+
+<div class="page-nav">
+<a class="page-nav-prev" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-12-photography-and-after">← Lesson 12 · Photography and After</a>
+<a class="page-nav-next" href="../../../classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-14-the-retrospective">Lesson 14 · The Retrospective →</a>
+</div>
