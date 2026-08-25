@@ -21,7 +21,7 @@ modified: 2026-08-09
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis|Unit 3]] · Lesson 10 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-09-genre|Lesson 09]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-11-representation-applied-to-your-own-product|Lesson 11]] →
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-10-narrative-barthes-and-the-blog-audit.pptx">Download the deck (PowerPoint, 616 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-10-narrative-barthes-and-the-blog-audit.pptx">Download the deck (PowerPoint, 3.5 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
 ## At a glance
 

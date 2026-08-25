@@ -7,7 +7,7 @@ related:
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-15-institutions-and-section-a-craft]]"
   - "[[classes/media-studies/9607-resource-library]]"
   - "[[concepts/media-audience]]"
-modified: 2026-08-03
+modified: 2026-08-24
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/good-glass-of-beer.jpg" alt="Édouard Manet, A Good Glass of Beer, 1873 — gratification, personified" loading="lazy" />
@@ -18,14 +18,14 @@ modified: 2026-08-03
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts|Unit 5]] · Lesson 14 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-13-the-creative-critical-reflection|Lesson 13]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-15-institutions-and-section-a-craft|Lesson 15]] →
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-14-audiences-and-the-portfolio-submission.pptx">Download the deck (PowerPoint, 728 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-14-audiences-and-the-portfolio-submission.pptx">Download the deck (PowerPoint, 4.3 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
 ## At a glance
 
 <dl class="stat-strip">
   <div class="stat"><dt>Days</dt><dd>6<span class="stat-x">Mon+Tue two-day block, Wed double, Fri (A3 due), then Mon + Tue</span></dd></div>
   <div class="stat"><dt>Dates</dt><dd>Mon 2026-11-23<span class="stat-x">Tue 11-24 · Wed 11-25 · Fri 11-27 · Mon 11-30 · Tue 12-01</span></dd></div>
-  <div class="stat"><dt>AO focus</dt><dd>AO2 + AO3 (A3, scaled to 50)</dd></div>
+  <div class="stat"><dt>AO focus</dt><dd>AO2 + AO3 (A3, 50 marks)</dd></div>
 </dl>
 
 | | |
@@ -37,47 +37,34 @@ modified: 2026-08-03
 
 ## Overview
 
-This week closes the Component 1 arc and starts audience theory. You learn how to describe an audience precisely, why simple effects models fall short, and how audiences use media for their own purposes. The deliverable is your [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio|A3]] C1 portfolio: finished product, CCR, and dated blog, submitted on Fri 11-27 with no edits after. On Tue 12-01 the portfolio comes back, and you write one production target that Semester 2 will collect on.
+This lesson closes your Component 1 work and starts audience theory. You learn to sort audiences into mass, niche, and target, and you test the effects models against your own viewing. On Fri 11-27 you submit your [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio|A3]] portfolio: finished product, CCR, and dated blog. There are no edits after submission. After it is returned, you turn the feedback into one production target, logged as [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|LB4]], which Semester 2 will build on. A3 feeds your Component 1 grade.
 
 ## The ideas
 
 ### Audience types
 
-A **mass audience** is a very large, broad audience, aimed at almost everyone. A **niche audience** is a small, specific group with shared interests. A **target audience** is the particular group a text is built for. "Everyone" is almost always the wrong answer, and advertisers pay for the difference.
+A **mass** audience is a very large, broad audience, close to "everyone". A **niche** audience is a small, specialized audience with shared interests. A **target** audience is the specific group a text is made for. "Everyone" is almost always the wrong answer, and advertisers pay for the difference.
 
-You describe audiences two ways. **Demographics** are measurable facts: age, gender, income, location. **Psychographics** are attitudes, values, and lifestyles.
+You can profile an audience two ways. **Demographics** are measurable facts: age, gender, income. **Psychographics** are values, attitudes, and lifestyles. Read audiences from evidence in the text itself: mode of address, platform, scheduling, and ad breaks.
 
-Three real texts show the range: a Super Bowl half-time show (mass), a niche YouTube restoration channel (niche), and a K-pop comeback teaser (target). You profile each with evidence from the text itself: mode of address, platform, scheduling, ad breaks. (A CCTV-gala or bilibili example makes the same point.)
+Examples used in class: a Super Bowl half-time show (mass), a niche YouTube restoration channel (niche), and a K-pop comeback teaser (target). A CCTV-gala or bilibili parallel can be discussed as an aside.
 
 ### Effects models
 
-Effects models say media acts on audiences. The **hypodermic** model says media messages are "injected" and directly change behavior. The **cultivation** model says heavy, repeated viewing slowly shapes how people see the world.
-
-Both oversimplify. They cannot explain the horror fan who sleeps fine, or the ad seen a hundred times that never sold anything. The pattern to take away: audiences do things with media; media does not simply do things to audiences.
+An **effects model** claims media has a direct effect on a passive audience. The **hypodermic** model says media injects messages straight into the audience. **Cultivation** says long-term exposure shapes how the audience sees reality. Both oversimplify. They cannot explain the horror fan who sleeps fine, or the ad seen a hundred times that never sold anything. The pattern to remember: audiences do things with media; media does not simply do things to audiences.
 
 ### Uses and gratifications
 
-**Uses and gratifications** theory, from **Blumler and Katz**, treats audiences as active choosers who use media for jobs they need done. The four gratifications are:
-
-- **diversion**: escape or entertainment.
-- **personal relationships**: company and connection.
-- **personal identity**: seeing yourself and your values reflected.
-- **surveillance**: getting information about the world.
-
-You map your own real weekly media use onto these four. The comfort re-watch and the 2 a.m. scroll count as data, not confessions.
-
-### The production target
-
-A production target is one specific, evidenced goal for Semester 2, drawn from your A3 feedback. Make it specific and checkable: "hold focus in low light" beats "get better at filming." This is logged as **[[classes/media-studies/assessments/9607-s1-course-skills-and-homework|LB4]]**.
+The **uses and gratifications** theory of **Blumler and Katz** treats audiences as active choosers who use media to meet needs. It names four gratifications: **diversion**, **personal relationships**, **personal identity**, and **surveillance**. You can map your own real weekly media use onto these four.
 
 ## Day by day
 
-- **Mon 11-23.** Mass, niche, and target audiences; demographics versus psychographics. In pairs, profile the three texts' audiences using evidence from the texts, then ask whose audience your own C1 product actually reached.
-- **Tue 11-24.** Effects models stated fairly (hypodermic, cultivation), then their limits. Build a shared counter-evidence log: one honest example each of media that failed to affect you as predicted, and one that worked.
-- **Wed 11-25 (double).** CCR surgery, the last help window before submission. Every student is seen; each visit ends with one fix done. The submission checklist is run at the close: product exported and playable, CCR posted in its creative format, blog complete with dated posts and labeled contributions, URLs correct.
-- **Fri 11-27.** Submit A3. Final checks against the checklist; files and URLs logged; confirmation shown on screen. No edits after. Then a quiet start on the uses-and-gratifications pre-read (coursebook §5.3). Nothing is due.
-- **Mon 11-30.** Blumler and Katz and the four gratifications. Map your own media use onto them, then write which gratification your C1 product serves and how you would know.
-- **Tue 12-01.** A3 returned. Self-assess your portfolio against the C1 criteria first, then discuss your marked grade. Write one production target, logged as LB4. Next assessment: Wed 12-16, Component 2 Section A in authentic format.
+- **Mon 11-23.** Learn mass, niche, and target audiences, plus demographics and psychographics. In pairs, profile the three example texts using evidence from the texts themselves.
+- **Tue 11-24.** State the effects models fairly (hypodermic, cultivation), then limit them against your own viewing. Build a counter-evidence log: one example of media that failed to affect you as predicted, and one that worked.
+- **Wed 11-25 (double).** The last help window before submission: CCR surgery in triage order, so every student is seen and each visit ends with one fix made. Run the submission checklist: product exported and playable; CCR posted in its creative format; blog complete, posts dated, contributions labeled; URLs correct.
+- **Fri 11-27.** Submit A3. Do final checks against the checklist, log URLs and files, and confirm submission on screen. No edits after. Then begin the uses-and-gratifications pre-read (coursebook §5.3). Nothing is due.
+- **Mon 11-30.** Learn the four gratifications from Blumler and Katz. Map your own weekly media use onto them. Write one sentence: which gratification your Component 1 product serves, and how you would know.
+- **Tue 12-01.** A3 is returned. Band your own portfolio against the Component 1 criteria first, then discuss the marked grade. Write one specific, evidenced production target for Semester 2, logged as LB4. You are also told that Component 2 Section A is sat Wed 12-16 in authentic format.
 
 ## Assessment
 
@@ -85,10 +72,10 @@ A production target is one specific, evidenced goal for Semester 2, drawn from y
 
 | Item | Date | What | AO |
 |---|---|---|---|
-| A3 | Fri 2026-11-27 | C1 portfolio complete — product + CCR + dated blog; official C1 criteria (AO2 20 + AO3 80, scaled to 50); no edits after | AO2+AO3 |
+| A3 | Fri 2026-11-27 | C1 portfolio complete — product + CCR + dated blog; official C1 criteria (50 marks: AO3 40 + AO2 10); no edits after | AO2+AO3 |
 | LB4 | Tue 2026-12-01 | Response to feedback: one specific, evidenced production target | — |
 
-A3 returned Tue 12-01. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
+A3 is returned Tue 12-01. See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
 ## Review
 
@@ -96,10 +83,11 @@ Check you can:
 
 - Distinguish mass, niche, and target audiences on real examples.
 - Explain the difference between demographics and psychographics.
-- Explain why effects models like the hypodermic and cultivation models oversimplify.
-- State uses and gratifications theory and name its four gratifications: diversion, personal relationships, personal identity, and surveillance.
-- Submit a complete A3 portfolio: finished product, CCR, and dated blog, with nothing missing.
-- Write one specific, evidenced production target from your feedback (LB4).
+- Explain why effects models like the hypodermic model and cultivation oversimplify.
+- Apply uses and gratifications (Blumler and Katz) to your own media use.
+- Name the four gratifications: diversion, personal relationships, personal identity, surveillance.
+- Submit a complete A3 portfolio on time: product, CCR, and dated blog.
+- Write one specific, evidenced production target from your A3 feedback (LB4).
 
 ## Practice
 

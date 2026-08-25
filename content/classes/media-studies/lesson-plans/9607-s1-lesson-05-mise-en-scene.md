@@ -22,7 +22,7 @@ modified: 2026-08-09
 
 > **Third of the four technical elements.** [[classes/media-studies/lesson-plans/9607-s1-lesson-03-camera|Camera]] · [[classes/media-studies/lesson-plans/9607-s1-lesson-04-sound|Sound]] · Mise-en-scène · [[classes/media-studies/lesson-plans/9607-s1-lesson-06-editing|Editing]], then [[classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock|integration]].
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-05-mise-en-scene.pptx">Download the deck (PowerPoint, 594 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-05-mise-en-scene.pptx">Download the deck (PowerPoint, 9.2 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
 ## At a glance
 

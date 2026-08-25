@@ -69,10 +69,10 @@ Media Studies is a subject about contemporary, copyrighted media, so the decks r
 | File | Work | Commons file | License | Deck |
 |---|---|---|---|---|
 | redoute-rosa-gallica-regalis.jpg | Pierre-Joseph Redouté, *Rosa gallica regalis*, from *Les Roses*, c. 1817–24 | File:Redoute - Rosa gallica regalis.jpg | Public domain | L02 (connotation chain) |
-| rubens-banqueting-house-sketch.jpg | Peter Paul Rubens, *Multiple Sketch for the Banqueting House Ceiling*, c. 1629 | File:Sir Peter Paul Rubens - Multiple Sketch for the Banqueting House Ceiling - Google Art Project.jpg | Public domain | L05 (the planning lock) |
-| vangogh-self-portrait-1889.jpg | Vincent van Gogh, *Self-Portrait*, 1889 | File:Vincent van Gogh - Self-Portrait - Google Art Project.jpg | Public domain | L10 (the maker examining himself) |
-| daumier-the-drama.jpg | Honoré Daumier, *The Drama* (*Das Drama*), c. 1860 | File:Honoré Daumier - The Drama - WGA5961.jpg | Public domain | L11 (the active audience) |
-| manet-olympia-1863.jpg | Édouard Manet, *Olympia*, 1863 | File:Edouard Manet - Olympia - Google Art ProjectFXD.jpg | Public domain | L09 (a look sent back) |
+| rubens-banqueting-house-sketch.jpg | Peter Paul Rubens, *Multiple Sketch for the Banqueting House Ceiling*, c. 1629 | File:Sir Peter Paul Rubens - Multiple Sketch for the Banqueting House Ceiling - Google Art Project.jpg | Public domain | L07 (the planning lock) |
+| vangogh-self-portrait-1889.jpg | Vincent van Gogh, *Self-Portrait*, 1889 | File:Vincent van Gogh - Self-Portrait - Google Art Project.jpg | Public domain | formerly L13 (replaced 2026-08-24 by the lesson's named Rivera self-portrait) |
+| daumier-the-drama.jpg | Honoré Daumier, *The Drama* (*Das Drama*), c. 1860 | File:Honoré Daumier - The Drama - WGA5961.jpg | Public domain | formerly L14 (retired 2026-08-24 for Robert Frank's drive-in, a media audience) |
+| manet-olympia-1863.jpg | Édouard Manet, *Olympia*, 1863 | File:Edouard Manet - Olympia - Google Art ProjectFXD.jpg | Public domain | formerly L12 (retired 2026-08-24: a nude, against the no-nudes rule; replaced by Cahun) |
 
 All five are public domain (author death + 70+ years); no attribution or share-alike
 obligation, but the decks credit each work inline anyway.
@@ -85,7 +85,7 @@ All public domain. Listed for attribution.
 - Dorothea Lange, *Migrant Mother*, 1936 — L01 (selection)
 - Underwood & Underwood, *Seventh Regiment marching to war* ("Mother, Wife, and Sweetheart…"), c. 1917 — L01, L02 (anchorage)
 - Caravaggio, *The Calling of Saint Matthew*, 1599 — L05 (one window does the casting: lighting direction and contrast)
-- Caravaggio, *The Incredulity of Saint Thomas*, c. 1602 — L02 (the index: a physical trace, and precision beats quantity)
+- Caravaggio, *The Incredulity of Saint Thomas*, c. 1602 — retired from the deck set in the 2026-08-09 rebuild (the sign-types slide it served was superseded); listed for history
 - Dutch vanitas still life, 17th century — L09 (genre recognition)
 - Vincent van Gogh, *Skull with Burning Cigarette*, 1885 — L09 (genre recognition)
 - Pieter Bruegel the Elder, *The Peasant Wedding*, 1567 — L05 (production design read whole: location, costume, properties)
@@ -172,6 +172,76 @@ sequence (L06), Friedrich's *Wanderer* (L10). Kept deliberately: Caravaggio's
 reads better in a painting than a screengrab; Evans's *Sea of Steps* in L03; the
 L09 vanitas diptych, whose point is that genre recognition precedes film
 vocabulary; both Manets in L12.
+
+
+### Imagery pass, 2026-08-24 (all 19 decks rebuilt)
+
+Doğan approved executing [[analyses/9607-deck-imagery-pass-plan]] in full. Every deck
+was rebuilt; the set went from 220 slides / 35 image placements to **252 slides / 173
+image placements**. Machine-readable provenance for every key added in this pass is in
+`../_build/credits.json`; sourcing manifests with exact URLs are in
+`film-frames/MANIFEST.json` and `sourced-2026-08/MANIFEST.json` in this folder.
+
+**Sources by category:**
+
+1. **Local library and CUP Teacher's Resource** (in-vault): the nine Toy Story frames,
+   three Adolescence stills, the Goodfellas Copacabana table frame, the Lupin vitrine
+   frame, the Your Honor Adam press still (L18 only), Frank's *Drive-in movie, Detroit,
+   1955*, Winogrand's *Elliot Richardson Press Conference*, the early X-ray plate, the
+   Dior Sauvage and J'adore print ads, Claude Cahun's 1920 self-portrait, and the CUP
+   pack's own photographs (the soundscape gate, the warehouse low angle, the
+   three-point lighting photo and diagram, from `resources/slides/` pptx media).
+2. **In-vault documents rendered to slides** (pdftoppm, 200 dpi): June 2024 QP 21
+   pp.1-2 and crops (stem, Section B menu), MS 21 pp.7, 10, 16 and header strip,
+   MS 23 p.9 (L19 post-exam slide only), the ECR booklet's low script, the 2027
+   syllabus C1 criteria page, and worksheets 2.1, 4.6, 5.2, 5.3, 6.4, 6.8.
+   **Only the 21 variant of the June 2024 paper is ever rendered**: the 22/23 covers
+   would name the sealed End-of-Term text.
+3. **film-grab.com frames** (originals in `film-frames/`): Grand Budapest Hotel
+   (Mendl's, lobby overhead, red elevator), Jaws (dolly-zoom bracketing pair, the fin),
+   The Third Man, Citizen Kane, 2001 (bone and station), Psycho (eye), Breathless,
+   Dunkirk (beach and cockpit), 1917, Rear Window, Up (Carl), Knives Out.
+4. **Commons / LoC public domain**: Gardner's *A Sharpshooter's Last Sleep* (plate 40,
+   NGA CC0), the Lange Nipomo alternate exposure, the Monet *Magpie* Google Art
+   Project scan (upgrade), Rivera's 1907 self-portrait (Google Art Project),
+   Highclere Castle (CC BY 2.0, Richard Munckton), the 1912 NYT Titanic front page,
+   the Union flag, the Super Bowl LI halftime wide shot (Voice of America, US federal
+   PD), Twemoji (CC BY 4.0).
+5. **Posters** (IMP Awards one-sheets): Scream 1 to 3, Shaun of the Dead, The
+   Conjuring, Free Solo, Dr. No, No Time to Die, The Super Mario Bros. Movie
+   (plus Psycho, Halloween, Hereditary and Nosferatu 1922 held in img/ as spares).
+6. **TV press and titles** (originals in `sourced-2026-08/`): four Downton Abbey
+   stills (Downton Abbey Wiki) and six title-sequence frames (extracted from the
+   broadcast sequence; Art of the Title's page no longer exists), the Servant S1
+   trailer key image (L19 return-day slide only), two YouTube thumbnails
+   (Baumgartner Restoration; BTS Dynamite), the Ofcom Broadcasting Code PDF and cover.
+7. **Unsplash, credited in credits.json**: boom operator (Tri Vo), edit timeline
+   (Peter Stumpf), three lighting portraits, three location rooms, the social-app
+   splash, and four gratification photographs.
+
+**Decisions enforced in this pass:**
+
+- **Olympia is out of L12** (a nude, against hard rule 5's "no nudes, whatever the
+  status"); the lesson's own named work, Cahun's 1920 self-portrait, replaces it.
+- **Rivera restored in L13**: the July substitution existed only because no large
+  scan was in the library; a 3840px Google Art Project scan now is.
+- **Goldfinger excluded**: every key-art variant carries the gold-painted nude
+  figure; Dr. No's 007! sheet carries the decade-test reading clothed.
+- **Servant appears on one slide only**, L19's return-day debrief, notes-flagged to
+  be shown only after the exam office confirms no make-up sitting is outstanding.
+- **Your Honor stills appear in L18 only**, after the room has met the paper.
+
+**Retired by this pass** (files kept in `_build/img/` for rollback): Manet's
+*Olympia* (L12), Caravaggio's *Musicians* (L18; also upscaled), Monet's *Magpie*
+1600px derivative (upgraded), Daumier's *The Drama* (L14), Manet's *A Good Glass of
+Beer* (L14, for WS 5.2), Underwood's *Above Fifth Avenue* (L15, for a drawn ownership
+chart), Johnston's *English Literature class* (L08, for the Adolescence study; the
+Geography class stays in L10), the 480px Jaws dolly-zoom frame (for the bracketing
+pair). Kept deliberately, per their lesson plans: the L01 mediation canon, Redouté
+(L02), Evans (L03), Caravaggio's *Matthew* (L05, now whole), the vanitas pair (L09),
+Rubens (L07), Gardner's Antietam tent and Käsebier (L11), Manet's *Folies-Bergère*
+(L12), Lindbergh (L16), the moon atlas (L17, demoted to a mood full-bleed), Monet
+(L19, moved before the return).
 
 ## Art Appreciation
 

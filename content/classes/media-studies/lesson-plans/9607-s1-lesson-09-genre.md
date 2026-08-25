@@ -22,7 +22,7 @@ modified: 2026-08-09
 > [!note] First of the macro elements
 > Coursebook Unit 3 covers genre, narrative and representation. The micro elements were [[classes/media-studies/lesson-plans/9607-s1-lesson-03-camera|L03]] to [[classes/media-studies/lesson-plans/9607-s1-lesson-06-editing|L06]].
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-09-genre.pptx">Download the deck (PowerPoint, 1.5 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-09-genre.pptx">Download the deck (PowerPoint, 3.5 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
 ## At a glance
 

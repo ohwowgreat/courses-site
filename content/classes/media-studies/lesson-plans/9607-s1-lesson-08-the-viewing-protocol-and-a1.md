@@ -20,7 +20,7 @@ modified: 2026-08-09
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-3-macro-and-textual-analysis|Unit 3]] · Lesson 08 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock|Lesson 07]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-09-genre|Lesson 09]] →
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-08-the-viewing-protocol-and-a1.pptx">Download the deck (PowerPoint, 534 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-08-the-viewing-protocol-and-a1.pptx">Download the deck (PowerPoint, 1.5 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
 ## At a glance
 

@@ -7,7 +7,7 @@ related:
   - "[[classes/media-studies/lesson-plans/9607-s1-lesson-14-audiences-and-the-portfolio-submission]]"
   - "[[classes/media-studies/9607-resource-library]]"
   - "[[concepts/process-evidence-and-reflection]]"
-modified: 2026-08-03
+modified: 2026-08-24
 ---
 <figure class="plate plate--hero">
   <img src="../../../static/img/rivera-self-portrait.jpg" alt="Diego Rivera, Self-Portrait, 1907 — the maker examining himself" loading="lazy" />
@@ -18,7 +18,7 @@ modified: 2026-08-03
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-4-representation|Unit 4]] · Lesson 13 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-12-the-gaze|Lesson 12]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-14-audiences-and-the-portfolio-submission|Lesson 14]] →
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-13-the-creative-critical-reflection.pptx">Download the deck (PowerPoint, 764 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-13-the-creative-critical-reflection.pptx">Download the deck (PowerPoint, 2.6 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
 ## At a glance
 
@@ -37,39 +37,44 @@ modified: 2026-08-03
 
 ## Overview
 
-This lesson builds your **creative critical reflection (CCR)**, the part of the [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio|A3]] portfolio where AO2 is assessed. Over four days you draft answers to the four CCR questions, review your draft in [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS11]] against the C1 criteria, then cut every sentence that only describes. You post the complete CCR redraft to the blog by Fri 2026-11-20. From that point the CCR is portfolio material, not homework, and it feeds A3, which is due one week later.
+This lesson builds your **creative critical reflection (CCR)**, the part of the portfolio where AO2 lives. Over four days you draft and redraft answers to the four CCR questions, review them against the C1 criteria in [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS11]] on Wed 11-18, and post a complete redraft to the blog on Fri 11-20. The CCR carries a fifth of the [[classes/media-studies/assessments/9607-s1-a3-c1-portfolio|A3]] marks, so this week's work is portfolio material that feeds A3.
 
 ## The ideas
 
 ### The creative critical reflection
 
-The **creative critical reflection (CCR)** carries about a fifth of the A3 marks, because it is where AO2 lives in the portfolio. You answer four questions, and you present them creatively using technology.
+The **creative critical reflection (CCR)** is your written account of the production you made. It answers four set questions and must be "presented creatively, using technology". It carries a fifth of the A3 marks, because it is where AO2 lives in the portfolio.
 
-### The describe-or-reflect rule
+### Describe or reflect
 
-The **describe-or-reflect rule** governs the whole week: cut every sentence that describes instead of reflects. A **description** says what you did. A **reflection** names a decision, a reason, or a change. The **tell** is simple: reflective sentences contain a decision, a reason, or a change, while descriptive ones only contain a sequence of events. An **honest sentence** flatters nobody, for example, "we chose the location because it was available, and it shows in the lighting." Examiners read honesty as reflection.
+One rule governs the whole week: cut every sentence that describes instead of reflects.
+
+- **Description** says what you did. It contains a sequence of events.
+- **Reflection** names a decision, a reason, or a change.
+
+The **describe-or-reflect test** checks each sentence for that tell. A reflective sentence contains a decision, a reason, or a change. A descriptive one only lists events. Examiners read honesty as reflection, so an **honest sentence** that flatters nobody counts: "we chose the location because it was available, and it shows in the lighting."
 
 ### The four CCR questions
 
-- **Q1, conventions and social groups.** How the product uses or challenges conventions, and how it represents social groups. Your best material here is the stereotype audit from L08: a fixed stereotype you named is a reflection sentence waiting to happen. Draft against the evidence on your own blog.
-- **Q2, audiences and distribution.** Who the product engages and how it would really circulate. Use the audience profile from post 3 and the screening response cards. Do not write a vague sentence like "young people aged 15–25."
-- **Q3, skills development.** What changed from your day-one footage to the rough cut, and what changed it. Name it.
-- **Q4, technology integration.** Software, hardware, and online tools stated as decisions, not as an inventory: "we used X so that Y."
-
-### The evidence base
-
-The **WS 6.4 production diaries**, issued and locked at L05, are your evidence base, and this week they pay out. Every entry in the decisions and consequences columns is a ready-made reflection sentence: decided X because Y, consequence Z. Transcribe your best ones straight into your drafts.
+- **Q1, conventions and social groups.** How your product uses or challenges conventions, and how it represents. Draft this against the blog's own evidence and the L11 stereotype audit. A fixed stereotype you named is a reflection sentence waiting to happen.
+- **Q2, audiences and distribution.** Who your product engages and how it would really circulate. Use the audience profile from post 3 and the screening response cards. A vague line like "young people aged 15–25" does not count as an audience decision.
+- **Q3, skills development.** What changed from day-one footage to the rough cut, and what changed it. Name the mistakes and the changes.
+- **Q4, technology integration.** The software, hardware, and online tools you used, written as decisions, not an inventory: "we used X so that Y".
 
 ### The format menu
 
-Choose one format by Friday: director's commentary, voiceover presentation, podcast, or screencast. "Presented creatively, using technology" is a requirement, not a suggestion.
+Pick how you present the CCR by Friday. The options are director's commentary, voiceover presentation, podcast, and screencast. "Presented creatively, using technology" is a requirement, not a suggestion.
+
+### Your evidence base
+
+The **WS 6.4 production diaries**, locked at L07, pay out this week. Every entry in the decisions and consequences columns is a ready-made reflection sentence: decided X because Y, consequence Z. The **C1 criteria** are the marking criteria you apply to a draft to find description that is pretending to be reflection.
 
 ## Day by day
 
-- **Mon 11-16.** Meet the four CCR questions in EN/ZH and the format menu. Draft Q1 against your blog evidence and the L08 stereotype audit, then add one honest sentence.
-- **Tue 11-17.** Draft Q2 using your audience profile and screening response cards. Open the WS 6.4 production diaries beside your draft and transcribe the three best decision-consequence entries. Add a second honest sentence.
-- **Wed 11-18 (double).** Draft Q3 and Q4. In CS11, review your full draft against the real C1 criteria with teacher and peers, describe then question then suggest. You leave with a written action list in C1 criteria language.
-- **Fri 11-20.** Sort ten sample sentences into descriptive and reflective and name the tell. Then run the test on your own draft, sentence by sentence, cutting or converting descriptions. Pitch your chosen format for 60 seconds and finalize it by vote. Post the complete, dated CCR redraft to the blog before you leave. Homework: finish the redraft moves agreed in class, capped at 30 minutes.
+- **Mon 11-16.** Draft Q1 against the blog evidence and the L11 stereotype audit. Add one honest sentence to close.
+- **Tue 11-17.** Draft Q2 using the audience profile from post 3 and the screening response cards. Open the WS 6.4 production diaries beside your draft and transcribe the three best decision-and-consequence entries. Add a second honest sentence.
+- **Wed 11-18 (double).** Draft Q3 and Q4. Then CS11: your full draft is reviewed against the real C1 criteria by teacher and peers, and you leave with a written action list in C1 criteria language. Finish those redraft moves for homework (30-min cap).
+- **Fri 11-20.** Sort ten sample sentences into descriptive and reflective, then name the tell. Run the describe-or-reflect test on your own draft, sentence by sentence, cutting or converting the describers. Speed-pitch your chosen format in fours and finalize it. Post the complete, dated redraft to the blog before leaving. This session may fall on Foreign Culture Day; that will be confirmed in class.
 
 ## Assessment
 
@@ -85,8 +90,9 @@ Check you can:
 
 - Draft Q1 and Q2 answers that name real conventions used and real audience decisions, including ones that failed.
 - Draft Q3 and Q4 answers that evidence learning through named mistakes and changes.
-- Apply the C1 criteria to a draft and spot description masquerading as reflection.
-- Use the describe-or-reflect rule to test a sentence and cut or convert every description.
+- Apply the C1 criteria to a peer's draft and spot description masquerading as reflection.
+- Tell a reflection from a description by naming the decision, reason, or change.
+- Post a redraft where each sampled sentence passes the describe-or-reflect test.
 
 ## Practice
 

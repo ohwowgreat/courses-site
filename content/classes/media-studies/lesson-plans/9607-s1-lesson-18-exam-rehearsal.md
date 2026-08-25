@@ -18,7 +18,7 @@ modified: 2026-08-03
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation|Unit 6]] · Lesson 18 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-17-consolidation-and-the-coverage-matrix\|Lesson 17]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-19-end-of-term-exam-and-return\|Lesson 19]] →
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-18-exam-rehearsal.pptx">Download the deck (PowerPoint, 569 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-18-exam-rehearsal.pptx">Download the deck (PowerPoint, 3.2 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
 ## At a glance
 

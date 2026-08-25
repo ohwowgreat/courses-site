@@ -20,7 +20,7 @@ modified: 2026-08-09
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-2-media-language|Unit 2]] · Lesson 02 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-01-the-four-key-concepts|Lesson 01]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-03-camera|Lesson 03]] →
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-02-semiotics-signs-and-codes.pptx">Download the deck (PowerPoint, 725 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-02-semiotics-signs-and-codes.pptx">Download the deck (PowerPoint, 4.8 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
 ## At a glance
 

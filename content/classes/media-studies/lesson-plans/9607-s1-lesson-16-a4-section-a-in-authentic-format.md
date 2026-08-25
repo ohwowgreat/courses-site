@@ -20,7 +20,7 @@ modified: 2026-08-10
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-5-media-contexts|Unit 5]] · Lesson 16 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-15-institutions-and-section-a-craft|Lesson 15]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-17-consolidation-and-the-coverage-matrix|Lesson 17]] →
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-16-a4-section-a-in-authentic-format.pptx">Download the deck (PowerPoint, 469 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-16-a4-section-a-in-authentic-format.pptx">Download the deck (PowerPoint, 3.6 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
 ## At a glance
 

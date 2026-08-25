@@ -17,7 +17,7 @@ modified: 2026-08-10
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-6-revision-and-consolidation|Unit 6]] · Lesson 19 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-18-exam-rehearsal|Lesson 18]]
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-19-end-of-term-exam-and-return.pptx">Download the deck (PowerPoint, 596 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-19-end-of-term-exam-and-return.pptx">Download the deck (PowerPoint, 1.8 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
 ## At a glance
 

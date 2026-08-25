@@ -20,7 +20,7 @@ modified: 2026-08-03
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/unit-plans/9607-s1-unit-4-representation|Unit 4]] · Lesson 11 of 19 · ← [[classes/media-studies/lesson-plans/9607-s1-lesson-10-narrative-barthes-and-the-blog-audit|Lesson 10]] | [[classes/media-studies/lesson-plans/9607-s1-lesson-12-the-gaze|Lesson 12]] →
 
-<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-11-representation-applied-to-your-own-product.pptx">Download the deck (PowerPoint, 860 KB)</a> · <a href="../../../decks/credits">image credits</a></p>
+<p class="handouts"><strong>Lesson slides:</strong> <a href="../../../decks/media-studies/media-studies-s1-lesson-11-representation-applied-to-your-own-product.pptx">Download the deck (PowerPoint, 3.1 MB)</a> · <a href="../../../decks/credits">image credits</a></p>
 
 ## At a glance
 
