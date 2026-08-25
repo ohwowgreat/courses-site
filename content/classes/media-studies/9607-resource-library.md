@@ -20,6 +20,9 @@ modified: 2026-08-13
 
 This page lists the main resources for the course: the endorsed coursebook, past exam papers, the official marking rubric, and Cambridge exemplar answers.
 
+
+<p class="handouts"><strong>Study guide:</strong> <a href="../../static/handouts/media-studies/c1-foundation-portfolio.html">Component 1: the Foundation Portfolio (interactive)</a></p>
+
 ## The syllabus straddle
 
 The course covers two syllabus versions, and your coursework format depends on your cohort. See the [[classes/media-studies/media-studies|syllabus straddle]] for the full picture.

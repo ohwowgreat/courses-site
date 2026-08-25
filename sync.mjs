@@ -877,6 +877,21 @@ const HANDOUTS = {
       },
     ],
   },
+  // The same C1 study guide again on the resource library, so it is findable
+  // without going through the A3 assessment page. Anchored on the intro's
+  // "lists the main resources" so it sits at the top, above the syllabus straddle.
+  "classes/media-studies/9607-resource-library.md": {
+    dir: "media-studies",
+    title: "Study guide:",
+    anchor: /lists the main resources/,
+    items: [
+      {
+        label: "Component 1: the Foundation Portfolio (interactive)",
+        file: "c1-foundation-portfolio",
+        ext: "html",
+      },
+    ],
+  },
   "classes/pre-a-level-art-design/pal-resource-library.md": {
     dir: "pre-a-level-art-design",
     title: "Worksheets & guides (PDF):",
@@ -1993,7 +2008,30 @@ try {
 } catch {
   /* taxonomy.mjs not run yet — gallery shows one ungrouped wall */
 }
-await writeFile(join(OUT, "library.md"), libraryMarkdown(credits, libCredits, taxonomy))
+// The gallery's Course row: which courses' pages carry each plate, read straight
+// off the placement tables above rather than declared anywhere, so moving a plate
+// between courses updates its chip on the next run. Placements outside classes/
+// (the landing page, calendar, concepts) count as "shared"; a plate in no table is
+// collection stock and gallery.mjs files it under "library". Frozen to
+// library-usage.json only so `node gallery.mjs` can preview without a full sync.
+const plateUsage = {}
+const plateCourse = (rel) => rel.match(/^classes\/([^/]+)\//)?.[1] ?? "shared"
+const usedIn = (slug, course) => {
+  ;(plateUsage[slug] ??= []).includes(course) || plateUsage[slug].push(course)
+}
+for (const [rel, slug] of Object.entries(HEROES)) usedIn(slug, plateCourse(rel))
+for (const [rel, figs] of Object.entries(FIGURES))
+  for (const fig of figs) for (const slug of fig.slugs) usedIn(slug, plateCourse(rel))
+if (homeHero) usedIn(homeHero[1], "shared")
+await writeFile(
+  join(import.meta.dirname, "library-usage.json"),
+  JSON.stringify(
+    Object.fromEntries(Object.entries(plateUsage).sort(([a], [b]) => a.localeCompare(b))),
+    null,
+    2,
+  ) + "\n",
+)
+await writeFile(join(OUT, "library.md"), libraryMarkdown(credits, libCredits, taxonomy, plateUsage))
 written.add("library.md")
 
 // Inject a structured course map into each overview, replacing the old inline

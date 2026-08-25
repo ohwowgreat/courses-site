@@ -32,6 +32,8 @@ export const ERAS = [
   ["1700-1799", "1700–1799", 1700],
   ["1800-1899", "1800–1899", 1800],
   ["1900-1940", "1900–1940", 1900],
+  ["1941-1999", "1941–1999", 1941],
+  ["2000-now", "2000–now", 2000],
 ]
 
 export const MEDIUMS = [
@@ -39,7 +41,11 @@ export const MEDIUMS = [
   ["drawing", "Drawing"],
   ["print", "Print"],
   ["photograph", "Photograph"],
+  ["collage", "Collage & montage"],
   ["object", "Object"],
+  ["film-still", "Film & TV still"],
+  ["bts", "Behind the scenes"],
+  ["advert", "Advertising & magazines"],
 ]
 
 export const MOVEMENTS = [
@@ -52,12 +58,29 @@ export const MOVEMENTS = [
   ["impressionism", "Impressionism & after"],
   ["art-nouveau", "Art Nouveau"],
   ["modernism", "Modernism & avant-garde"],
+  ["contemporary", "Contemporary art"],
   ["east-asian", "East Asian traditions"],
   ["early-photography", "Early photography"],
   ["documentary", "Documentary & reportage"],
   ["pictorialism", "Pictorialism"],
   ["modern-photography", "Modernist photography"],
+  ["screen", "Cinema & television"],
   ["other", "Other"],
+]
+
+// The fourth filter row on /library is where a plate is USED, not what it is, so
+// its values do not come from this classifier: sync.mjs derives them from its own
+// placement tables (HEROES, FIGURES, the landing hero) and freezes the answer
+// into library-usage.json on every run. "shared" is any placement outside
+// classes/; "library" is a plate placed on no page at all.
+export const COURSES = [
+  ["a-level-art-design", "A-Level Art & Design"],
+  ["pre-a-level-art-design", "Pre-A-Level Art & Design"],
+  ["media-studies", "Media Studies"],
+  ["art-appreciation", "Art Appreciation"],
+  ["oxbridge", "Oxbridge"],
+  ["shared", "Shared pages"],
+  ["library", "Collection only"],
 ]
 
 // ── The rules ────────────────────────────────────────────────────────────────
@@ -80,13 +103,18 @@ const ARTISTS = {
 
   "Antonio Vivarini": ["painting", "early-renaissance", 1440, 1476],
   "Bernardino Fungai": ["painting", "early-renaissance", 1480, 1516],
+  "Sandro Botticelli": ["painting", "early-renaissance", 1470, 1510],
   "Andrea Previtali": ["painting", "renaissance", 1502, 1528],
   "Leonardo da Vinci": ["painting", "renaissance", 1470, 1519],
   Raphael: ["painting", "renaissance", 1500, 1520],
+  Titian: ["painting", "renaissance", 1508, 1576],
   Bronzino: ["painting", "renaissance", 1530, 1572],
   "Pieter Bruegel the Elder": ["painting", "renaissance", 1550, 1569],
 
   Caravaggio: ["painting", "baroque", 1592, 1610],
+  "Artemisia Gentileschi": ["painting", "baroque", 1610, 1656],
+  "Frans Snyders": ["painting", "baroque", 1600, 1657],
+  "Dirck van Deelen": ["painting", "baroque", 1625, 1671],
   "Peter Paul Rubens": ["drawing", "baroque", 1598, 1640],
   "Jan Steen": ["painting", "baroque", 1648, 1679],
   "Willem Claesz. Heda": ["painting", "baroque", 1620, 1664],
@@ -105,6 +133,7 @@ const ARTISTS = {
   "Ilya Repin": ["drawing", "realism", 1864, 1930],
   "I.Repin": ["drawing", "realism", 1864, 1930],
   "Albert Edelfelt": ["painting", "realism", 1874, 1905],
+  "Edward Hopper": ["painting", "realism", 1900, 1967],
 
   "Claude Monet": ["painting", "impressionism", 1865, 1926],
   "Camille Pissarro": ["painting", "impressionism", 1860, 1903],
@@ -119,7 +148,24 @@ const ARTISTS = {
 
   "Pablo Picasso": ["painting", "modernism", 1900, 1930],
   "Diego Rivera": ["painting", "modernism", 1905, 1930],
+  "Marcel Duchamp": ["object", "modernism", 1912, 1968],
+  "Hannah Höch": ["collage", "modernism", 1916, 1978],
 
+  // Post-war and contemporary. The active ranges run to the present where the
+  // artist does, so a captioned exhibition or scan date cannot evict the work.
+  "Andy Warhol": ["object", "contemporary", 1954, 1987],
+  "Romare Bearden": ["collage", "contemporary", 1940, 1988],
+  "Carrie Mae Weems": ["photograph", "contemporary", 1978, 2026],
+  "Cindy Sherman": ["photograph", "contemporary", 1975, 2026],
+  "Martha Rosler": ["film-still", "contemporary", 1965, 2026],
+
+  // Named screen authors; title-only film and TV frames are in SLUGS below.
+  "John Berger": ["film-still", "screen", 1960, 1990],
+  "Ang Lee": ["film-still", "screen", 1990, 2026],
+  "Jean-Luc Godard": ["film-still", "screen", 1954, 2022],
+  "Alice Rohrwacher": ["film-still", "screen", 2011, 2026],
+
+  "Joseph Nicéphore Niépce": ["photograph", "early-photography", 1816, 1833],
   "William Henry Fox Talbot": ["photograph", "early-photography", 1839, 1846],
   "Southworth & Hawes": ["photograph", "early-photography", 1843, 1862],
   "Gustave Le Gray": ["photograph", "early-photography", 1850, 1860],
@@ -215,6 +261,41 @@ const SLUGS = {
   // El Lissitzky's photomontage of Schwitters: photographic, though he is a
   // designer everywhere else in the collection.
   "lissitzky-schwitters": "1900-1940 photograph modern-photography",
+
+  // Film and TV frames whose captions name only the title, so the artist scan
+  // has nothing to find. The year in the caption is the release, which is right.
+  "toystory-equilibrium": "1941-1999 film-still screen",
+  "toystory-disruption": "1941-1999 film-still screen",
+  "toystory-recognition": "1941-1999 film-still screen",
+  "toystory-repair": "1941-1999 film-still screen",
+  "toystory-new-equilibrium": "1941-1999 film-still screen",
+  "goodfellas-copacabana-1": "1941-1999 film-still screen",
+  "goodfellas-copacabana-2": "1941-1999 film-still screen",
+  "goodfellas-copacabana-3": "1941-1999 film-still screen",
+  "gbh-overhead": "2000-now film-still screen",
+  "gbh-concierge": "2000-now film-still screen",
+  "adolescence-interview": "2000-now film-still screen",
+  "lupin-vitrine": "2000-now film-still screen",
+  "lupin-assane": "2000-now film-still screen",
+  // Morley's broadcast ran 1969–1983; the caption carries no year.
+  "nationwide-title": "1941-1999 film-still screen",
+
+  // Production photographs — the subject is the making, not the finished frame.
+  // adolescence-one-take shows the crew carrying the rig, not the shot they got.
+  "jaws-bts": "1941-1999 bts screen",
+  "adolescence-one-take": "2000-now bts screen",
+  "foley-room": "2000-now bts screen",
+
+  // Advertising and magazine covers. The undated Cosmopolitan is the Aug/Sep
+  // 2026 issue (masthead date on the plate itself).
+  "ad-sauvage": "2000-now advert contemporary",
+  "ad-jadore": "2000-now advert contemporary",
+  "cosmopolitan-cover": "2000-now advert contemporary",
+  "glamour-cover": "2000-now advert contemporary",
+
+  // Frames 2 and 3 of the Weems triptych carry no date; the series is 1990.
+  "weems-triptych-2": "1941-1999 photograph contemporary",
+  "weems-triptych-3": "1941-1999 photograph contemporary",
 }
 
 // ── Resolution ───────────────────────────────────────────────────────────────
