@@ -157,10 +157,15 @@ const HEROES = {
   // production photograph instead, and the plate already exists for L03.
   "classes/media-studies/lesson-plans/9607-s1-lesson-06-editing.md": "adolescence-one-take",
   "classes/media-studies/lesson-plans/9607-s1-lesson-09-genre.md": "at-the-telephone",
+  // Was the Rubens sketch, which duplicated the page's anchored lock figure with
+  // the same caption. The hero is now the corridor take the deck models the
+  // protocol on; the sketch keeps its in-context slot beside the lock text.
   "classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock.md":
-    "banqueting-sketch",
+    "goodfellas-copacabana-2",
+  // Was Johnston's Whittier classroom, retired from the deck 2026-08-24. The
+  // interview room is the deck's own dense still for the protocol read.
   "classes/media-studies/lesson-plans/9607-s1-lesson-08-the-viewing-protocol-and-a1.md":
-    "whittier-classroom",
+    "adolescence-interview",
   "classes/media-studies/lesson-plans/9607-s1-lesson-10-narrative-barthes-and-the-blog-audit.md":
     "wanderer",
   "classes/media-studies/lesson-plans/9607-s1-lesson-11-representation-applied-to-your-own-product.md":
@@ -170,13 +175,17 @@ const HEROES = {
     "rivera-self-portrait",
   "classes/media-studies/lesson-plans/9607-s1-lesson-14-audiences-and-the-portfolio-submission.md":
     "good-glass-of-beer",
+  // Was Underwood's parapet, a stand-in the deck retired 2026-08-24. The Le Gray
+  // is promoted from its inline slot: the payer's frame is the lesson's thesis.
   "classes/media-studies/lesson-plans/9607-s1-lesson-15-institutions-and-section-a-craft.md":
-    "above-fifth-avenue",
+    "emperors-table",
   "classes/media-studies/lesson-plans/9607-s1-lesson-16-a4-section-a-in-authentic-format.md":
     "lindbergh-1927",
   "classes/media-studies/lesson-plans/9607-s1-lesson-17-consolidation-and-the-coverage-matrix.md":
     "moon-atlas",
-  "classes/media-studies/lesson-plans/9607-s1-lesson-18-exam-rehearsal.md": "musicians",
+  // Was Caravaggio's Musicians, retired from the deck 2026-08-24. The page's one
+  // image is now the paper the lesson rehearses.
+  "classes/media-studies/lesson-plans/9607-s1-lesson-18-exam-rehearsal.md": "june-2024-paper",
   "classes/media-studies/lesson-plans/9607-s1-lesson-19-end-of-term-exam-and-return.md":
     "the-magpie",
 }
@@ -843,10 +852,8 @@ const FIGURES = {
     { slugs: ["cahun-gaze"], anchor: /oppositional gaze|looking back at a text/i },
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-15-institutions-and-section-a-craft.md": [
-    {
-      slugs: ["emperors-table"],
-      anchor: /frame belonged to the payer|imperial commission|Emperor's camp/i,
-    },
+    // The Le Gray moved up to the hero slot 2026-08-25 (see HEROES); only the
+    // Nationwide figure stays inline.
     {
       slugs: ["nationwide-title"],
       anchor: /in the \*?Nationwide\*? study|systematically different readings/i,

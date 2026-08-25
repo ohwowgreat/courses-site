@@ -694,6 +694,16 @@ const PLATES = [
     file: "Film & TV/Nationwide/nationwide_title.png",
     credit: "*Nationwide* (BBC). The broadcast on which Morley tested differential readings",
   },
+  // The June 2024 Paper 2 masthead, pre-cropped in sourced/ to the hero band
+  // (Cambridge crest, subject line, session). Cambridge copyright, teaching-use
+  // standing; the decks embed the full paper and ship on this site already.
+  {
+    slug: "june-2024-paper",
+    root: "sourced",
+    file: "june-2024-paper.jpg",
+    credit:
+      "Cambridge Assessment International Education, *Media Studies Paper 2* (9607/21), May/June 2024. The rehearsal paper: no surprises left in format, timing, or the marking",
+  },
   {
     slug: "rosler-kitchen",
     file: "Martha Rosler, Semiotics of the Kitchen, 1975.png",
