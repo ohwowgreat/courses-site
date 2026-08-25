@@ -10,8 +10,8 @@ related:
 modified: 2026-08-25
 ---
 <figure class="plate plate--hero">
-  <img src="../../../static/img/musicians.jpg" alt="Caravaggio, The Musicians, 1595 — rehearsal, mid-note" loading="lazy" />
-  <figcaption>Caravaggio, <em>The Musicians</em>, 1595 — rehearsal, mid-note</figcaption>
+  <img src="../../../static/img/june-2024-paper.jpg" alt="Cambridge Assessment International Education, Media Studies Paper 2 (9607/21), May/June 2024. The rehearsal paper: no surprises left in format, timing, or the marking" loading="lazy" />
+  <figcaption>Cambridge Assessment International Education, <em>Media Studies Paper 2</em> (9607/21), May/June 2024. The rehearsal paper: no surprises left in format, timing, or the marking</figcaption>
 </figure>
 
 # Lesson 18: Exam Rehearsal

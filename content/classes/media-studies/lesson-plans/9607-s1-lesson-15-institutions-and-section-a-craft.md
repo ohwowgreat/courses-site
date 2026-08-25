@@ -11,8 +11,8 @@ related:
 modified: 2026-08-25
 ---
 <figure class="plate plate--hero">
-  <img src="../../../static/img/above-fifth-avenue.jpg" alt="Underwood & Underwood, Above Fifth Avenue, Looking North, c. 1905 — the industry at work: somebody pays for this vantage" loading="lazy" />
-  <figcaption>Underwood & Underwood, <em>Above Fifth Avenue, Looking North</em>, c. 1905 — the industry at work: somebody pays for this vantage</figcaption>
+  <img src="../../../static/img/emperors-table.jpg" alt="Gustave Le Gray, Preparation of the Emperor's Table, Camp de Châlons, 1857 — photographed on imperial commission: the frame belonged to the payer" loading="lazy" />
+  <figcaption>Gustave Le Gray, <em>Preparation of the Emperor's Table, Camp de Châlons</em>, 1857 — photographed on imperial commission: the frame belonged to the payer</figcaption>
 </figure>
 
 # Lesson 15: Institutions and Section A Craft
@@ -64,12 +64,6 @@ Section A is marked on five criteria: concepts, contexts, terminology, analysis,
 **Ownership** explains why texts say what they say: funding follows content. Public service broadcasting (PSB) and commercial media differ in who pays, whether that is the license fee, advertisers, subscribers, or the state, and each payer buys something different.
 
 **Curran & Seaton** argue that ownership concentration narrows the stories that get told. The historical proof: Le Gray photographed the Emperor's camp on commission in 1857, and the frame belonged to the payer. The same is true now.
-
-
-<figure class="plate">
-  <img src="../../../static/img/emperors-table.jpg" alt="Gustave Le Gray, Preparation of the Emperor's Table, Camp de Châlons, 1857 — photographed on imperial commission: the frame belonged to the payer" loading="lazy" />
-  <figcaption>Gustave Le Gray, <em>Preparation of the Emperor's Table, Camp de Châlons</em>, 1857 — photographed on imperial commission: the frame belonged to the payer</figcaption>
-</figure>
 
 To make this concrete, you trace one visible decision back to who pays for it: the ad break's placement, the family-friendly cut, the product in shot, the story not covered. Write the chain out as decision ← incentive ← payer. The exam answer runs this chain on your case-study institution's own funding. (As a local aside, the same chain runs on what you watch, such as CCTV, Tencent, or bilibili, but that is not exam material.)
 

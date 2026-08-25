@@ -12,8 +12,8 @@ related:
 modified: 2026-08-25
 ---
 <figure class="plate plate--hero">
-  <img src="../../../static/img/banqueting-sketch.jpg" alt="Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from" loading="lazy" />
-  <figcaption>Peter Paul Rubens, sketch for the Banqueting House ceiling, c. 1630 — a plan another hand could paint from</figcaption>
+  <img src="../../../static/img/goodfellas-copacabana-2.jpg" alt="Goodfellas (1990). The same unbroken shot, through the service corridor" loading="lazy" />
+  <figcaption><em>Goodfellas</em> (1990). The same unbroken shot, through the service corridor</figcaption>
 </figure>
 
 # Lesson 07: Integration and the Planning Lock

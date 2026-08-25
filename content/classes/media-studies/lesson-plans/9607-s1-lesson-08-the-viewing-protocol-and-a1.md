@@ -12,8 +12,8 @@ related:
 modified: 2026-08-25
 ---
 <figure class="plate plate--hero">
-  <img src="../../../static/img/whittier-classroom.jpg" alt="Frances Benjamin Johnston, English Literature — Lesson on Whittier, Hampton Institute, 1899" loading="lazy" />
-  <figcaption>Frances Benjamin Johnston, <em>English Literature — Lesson on Whittier</em>, Hampton Institute, 1899</figcaption>
+  <img src="../../../static/img/adolescence-interview.jpg" alt="Adolescence (2025). Blocking for a continuous take: three people, one room, no cutaway" loading="lazy" />
+  <figcaption><em>Adolescence</em> (2025). Blocking for a continuous take: three people, one room, no cutaway</figcaption>
 </figure>
 
 # Lesson 08: The Viewing Protocol and A1
