@@ -447,7 +447,17 @@ export function lessonChrome(body, depth, deck, index) {
   lines[meta.lineIdx] = pagebar(meta, depth, segs, label)
   let out = lines.join("\n")
 
-  const carded = contractCard(out, depth, deck)
+  let carded = contractCard(out, depth, deck)
+  // The Learn / Do / Check staging, on carded pages only: the three section
+  // names are uniform across all of them (verified 106/106 on 2026-08-26), and
+  // a page whose shape differs — Oxbridge's seminars — keeps its own names.
+  // Exact whole-line matches; each heading occurs once.
+  if (carded) {
+    carded = carded
+      .replace(/^## The ideas$/m, "## 1 · Learn")
+      .replace(/^## Day by day$/m, "## 2 · Do")
+      .replace(/^## Review$/m, "## 3 · Check")
+  }
   return { body: carded ?? out, footer: footerNav(meta, depth, index.titles), carded: !!carded }
 }
 

@@ -313,7 +313,7 @@ const FIGURES = {
     },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s1-lesson-02-formal-elements-on-the-theme.md": [
-    { slugs: ["mark-making"], anchor: /a different instrument each/i },
+    { slugs: ["mark-making"], anchor: /each with a different instrument/i },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s1-lesson-03-intention-and-composition-planning.md":
     [
@@ -352,7 +352,7 @@ const FIGURES = {
     { slugs: ["composition"], anchor: /from your own recorded studies|never from memory/i },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s1-lesson-11-composition-2-and-critique.md": [
-    { slugs: ["vanitas"], anchor: /the alternative you did not take|built with the same effort/i },
+    { slugs: ["vanitas"], anchor: /the thumbnail you rejected back in Lesson 3/i },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s1-lesson-12-targeted-tests-and-direction.md": [
     { slugs: ["skull-cigarette"], anchor: /what the critique left unresolved|targeted tests/i },
@@ -360,14 +360,14 @@ const FIGURES = {
   "classes/a-level-art-design/lesson-plans/9479-s1-lesson-13-final-plan-and-a3.md": [
     {
       slugs: ["van-gogh-outskirts"],
-      anchor: /are settled, swatched, and tested on the actual support/i,
+      anchor: /swatch it on the actual support/i,
     },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s1-lesson-14-the-final-outcome.md": [
     { slugs: ["cafe-terrace"], anchor: /one continuous run|underdrawing through to surface/i },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s1-lesson-15-submission-week-and-a4.md": [
-    { slugs: ["the-great-wave"], anchor: /the photograph is the version the examiner sees/i },
+    { slugs: ["the-great-wave"], anchor: /photograph is the version the examiner sees/i },
   ],
   // ── A Level Art & Design S2 (C3 Personal Investigation) — same stage signatures ──
   "classes/a-level-art-design/lesson-plans/9479-s2-lesson-01-opening-the-investigation.md": [
@@ -442,7 +442,7 @@ const FIGURES = {
     },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s2-lesson-15-submission-week-and-a4.md": [
-    { slugs: ["the-great-wave"], anchor: /the photograph is the version the examiner sees/i },
+    { slugs: ["the-great-wave"], anchor: /photograph is the version the examiner sees/i },
   ],
   "classes/a-level-art-design/lesson-plans/9479-s3-lesson-01-reopening-and-the-summer-audit.md": [
     {
@@ -684,8 +684,9 @@ const FIGURES = {
       // Target the D2 mediation-demo list, not the Goal paragraph (which also
       // says "a version, not a window"). "Anchorage" is the list's last bullet,
       // so the pair lands after the three mechanisms.
+      // 2026-08-25 rewrite put a period inside the bold ("**Anchorage.**").
       slugs: ["rebel-sharpshooter", "migrant-mother"],
-      anchor: /- \*\*Anchorage\*\*/,
+      anchor: /- \*\*Anchorage\.?\*\*/,
     },
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-02-semiotics-signs-and-codes.md": [
@@ -714,8 +715,10 @@ const FIGURES = {
       // A viewpoint nobody can stand in, against the angle bullet. Was Coburn's
       // St Paul's rooftop; the deck makes the same argument with a film frame, so
       // the page does too. Anchor unchanged, so placement cannot drift.
+      // Re-anchored 2026-08-25: the canted-angle gloss moved into a Practice
+      // answer, which does not exist at insert time; the Angles bullet stays.
       slugs: ["gbh-overhead"],
-      anchor: /the frame is tilted, which reads as unease or disorder/,
+      anchor: /Where the camera sits relative to the subject/,
     },
     {
       // The apparatus behind a camera move, against the line where the published
@@ -727,8 +730,10 @@ const FIGURES = {
     },
     {
       // A photograph made about composition, against the composition bullet.
+      // Re-anchored 2026-08-25 after the vault rewrite: the focus-pull gloss is
+      // gone; the composition bullet's opening survives.
       slugs: ["sea-of-steps"],
-      anchor: /the sharp point shifts from one plane to another/,
+      anchor: /How the frame is arranged/,
     },
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-04-sound.md": [
@@ -748,9 +753,10 @@ const FIGURES = {
   "classes/media-studies/lesson-plans/9607-s1-lesson-05-mise-en-scene.md": [
     {
       // One window doing the casting, against the lighting block. The published
-      // text spells the three roles out, so anchor on the fill-light gloss.
+      // text spells the three roles out, so anchor on the fill-light gloss
+      // (2026-08-25: the rewrite added "the" — accept both).
       slugs: ["calling-of-matthew"],
-      anchor: /softens shadows/i,
+      anchor: /softens (the )?shadows/i,
     },
     {
       // Production design read whole, against the four-locations activity. Was
@@ -786,9 +792,11 @@ const FIGURES = {
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-08-the-viewing-protocol-and-a1.md": [
     {
-      // The fixed reading order, modelled on one dense image.
+      // The fixed reading order, modelled on one dense image. Re-anchored twice
+      // 2026-08-25: the spelled-out order now lives in Practice (unreachable at
+      // insert time); the Ladder's rungs sentence is the body's statement of it.
       slugs: ["calling-of-matthew"],
-      anchor: /framing → camera → light/i,
+      anchor: /The reading order runs rungs/,
     },
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-10-narrative-barthes-and-the-blog-audit.md": [
@@ -802,7 +810,9 @@ const FIGURES = {
         "toystory-repair",
         "toystory-new-equilibrium",
       ],
-      anchor: /Todorov's arc/i,
+      // Re-anchored 2026-08-25: "Todorov's arc" became "**Todorov's** narrative
+      // arc runs equilibrium → …"; the plain segment avoids the bold markers.
+      anchor: /narrative arc runs equilibrium/i,
     },
     { slugs: ["peasant-wedding"], anchor: /by what they do, not who they are/i },
     {
@@ -812,8 +822,10 @@ const FIGURES = {
     },
     { slugs: ["vivarini-exorcism"], anchor: /where did Propp fail|withheld function/i },
     {
+      // Re-anchored 2026-08-25: the protocol's commas became arrows. Both
+      // alternatives sit in the same checklist paragraph.
       slugs: ["hampton-geography"],
-      anchor: /describe, question, suggest|post by post against the mid-point checklist/i,
+      anchor: /describe → question → suggest|audit post by post/i,
     },
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-11-representation-applied-to-your-own-product.md":

@@ -166,7 +166,8 @@ const PLATES = [
   {
     slug: "sea-of-steps",
     file: "Photographers/Frederick H. Evans/Frederick H. Evans - A Sea of Steps, Wells Cathedral.jpg",
-    credit: "Frederick H. Evans, *A Sea of Steps, Wells Cathedral*, 1903",
+    credit:
+      "Frederick H. Evans, *A Sea of Steps, Wells Cathedral*, 1903 — sharp from the first step to the last: depth of field held as a choice, and the frame built from receding lines",
   },
   {
     slug: "st-pauls-spires",
@@ -196,7 +197,8 @@ const PLATES = [
   {
     slug: "the-tugboat",
     file: "Photographers/Gustave Le Gray/Gustave Le Gray, The Tugboat, 1857.jpeg",
-    credit: "Gustave Le Gray, *The Tugboat*, 1857",
+    credit:
+      "Gustave Le Gray, *The Tugboat*, 1857 — the sea and the sky exposed on separate negatives, joined in the print: the frame was decided before the shutter",
   },
   {
     slug: "cloud-sequence",
