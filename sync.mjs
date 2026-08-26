@@ -173,8 +173,11 @@ const HEROES = {
   "classes/media-studies/lesson-plans/9607-s1-lesson-12-the-gaze.md": "folies-bergere",
   "classes/media-studies/lesson-plans/9607-s1-lesson-13-the-creative-critical-reflection.md":
     "rivera-self-portrait",
+  // Was Manet's beer, a stand-in on the lesson about real audiences. The hero is
+  // now the deck's active-audience photograph; Manet keeps an inline slot beside
+  // the gratifications (see FIGURES).
   "classes/media-studies/lesson-plans/9607-s1-lesson-14-audiences-and-the-portfolio-submission.md":
-    "good-glass-of-beer",
+    "frank-drive-in",
   // Was Underwood's parapet, a stand-in the deck retired 2026-08-24. The Le Gray
   // is promoted from its inline slot: the payer's frame is the lesson's thesis.
   "classes/media-studies/lesson-plans/9607-s1-lesson-15-institutions-and-section-a-craft.md":
@@ -791,6 +794,12 @@ const FIGURES = {
       slugs: ["vanitas-schaak", "vanitas-schoor"],
       anchor: /difference in repetition|repetition and difference/i,
     },
+    {
+      // The deck's poster wall, on Altman's side of the deal: the pre-sold
+      // series as repetition the audience can price.
+      slugs: ["poster-scream1", "poster-scream2", "poster-scream3"],
+      anchor: /pre-sold, budgetable product|promise of pleasure, with room for surprise/i,
+    },
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-07-integration-and-the-planning-lock.md": [
     {
@@ -850,6 +859,14 @@ const FIGURES = {
     },
     { slugs: ["sherman-film-still"], anchor: /three looks/i },
     { slugs: ["cahun-gaze"], anchor: /oppositional gaze|looking back at a text/i },
+  ],
+  "classes/media-studies/lesson-plans/9607-s1-lesson-14-audiences-and-the-portfolio-submission.md": [
+    {
+      // Demoted from the hero slot when Frank's Drive-in took it: the
+      // gratification personified, beside the four gratifications.
+      slugs: ["good-glass-of-beer"],
+      anchor: /active choosers who use media to meet needs/i,
+    },
   ],
   "classes/media-studies/lesson-plans/9607-s1-lesson-15-institutions-and-section-a-craft.md": [
     // The Le Gray moved up to the hero slot 2026-08-25 (see HEROES); only the

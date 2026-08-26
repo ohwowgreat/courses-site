@@ -694,6 +694,34 @@ const PLATES = [
     file: "Film & TV/Nationwide/nationwide_title.png",
     credit: "*Nationwide* (BBC). The broadcast on which Morley tested differential readings",
   },
+  // Phase 3 of the vault's deck-page alignment audit (2026-08-25): the decks'
+  // real-media layer reaches the pages where the lesson's own examples live.
+  {
+    slug: "frank-drive-in",
+    file: "Photographers/Robert Frank/robert-frank-_drive-in-movie-detroit-1955_-dia-no-f78-631.jpg",
+    credit:
+      "Robert Frank, *Drive-in movie, Detroit*, 1955. Parked in the dark, doing the watching: an audience is never blank or passive",
+  },
+  // Studio one-sheets (IMP Awards / Wikipedia, teaching use), the deck's own
+  // repetition-and-difference wall.
+  {
+    slug: "poster-scream1",
+    root: "sourced",
+    file: "poster-scream1.jpg",
+    credit: "*Scream* (1996), one-sheet. Same mask, same title style: repetition is the promise",
+  },
+  {
+    slug: "poster-scream2",
+    root: "sourced",
+    file: "poster-scream2.jpg",
+    credit: "*Scream 2* (1997), one-sheet. The number is the difference that sells the ticket again",
+  },
+  {
+    slug: "poster-scream3",
+    root: "sourced",
+    file: "poster-scream3.jpg",
+    credit: "*Scream 3* (2000), one-sheet. Neale's economy of genre, printed",
+  },
   // The June 2024 Paper 2 masthead, pre-cropped in sourced/ to the hero band
   // (Cambridge crest, subject line, session). Cambridge copyright, teaching-use
   // standing; the decks embed the full paper and ship on this site already.
