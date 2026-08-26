@@ -10,8 +10,8 @@ related:
 modified: 2026-08-24
 ---
 <figure class="plate plate--hero">
-  <img src="../../../static/img/good-glass-of-beer.jpg" alt="Édouard Manet, A Good Glass of Beer, 1873 — gratification, personified" loading="lazy" />
-  <figcaption>Édouard Manet, <em>A Good Glass of Beer</em>, 1873 — gratification, personified</figcaption>
+  <img src="../../../static/img/frank-drive-in.jpg" alt="Robert Frank, Drive-in movie, Detroit, 1955. Parked in the dark, doing the watching: an audience is never blank or passive" loading="lazy" />
+  <figcaption>Robert Frank, <em>Drive-in movie, Detroit</em>, 1955. Parked in the dark, doing the watching: an audience is never blank or passive</figcaption>
 </figure>
 
 # Lesson 14: Audiences and the Portfolio Submission
@@ -59,6 +59,12 @@ These models cannot explain much of your own viewing: the horror fan who sleeps 
 ### Uses and gratifications
 
 **Blumler and Katz** describe audiences as active choosers who use media to meet needs. They name four gratifications:
+
+
+<figure class="plate">
+  <img src="../../../static/img/good-glass-of-beer.jpg" alt="Édouard Manet, A Good Glass of Beer, 1873 — gratification, personified" loading="lazy" />
+  <figcaption>Édouard Manet, <em>A Good Glass of Beer</em>, 1873 — gratification, personified</figcaption>
+</figure>
 
 - **diversion**: escape and entertainment.
 - **personal relationships**: companionship and social connection.

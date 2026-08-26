@@ -4,7 +4,7 @@ title: Image library
 
 # Image library
 
-Every image used across these courses, gathered in one place — 332 works from the shared teaching collection, each captioned with artist, title and date. Most are public domain; the film frames, covers and other in-copyright material are here for teaching, behind the site's password gate.
+Every image used across these courses, gathered in one place — 336 works from the shared teaching collection, each captioned with artist, title and date. Most are public domain; the film frames, covers and other in-copyright material are here for teaching, behind the site's password gate.
 
 <div class="gallery">
   <figure class="plate">
@@ -458,6 +458,22 @@ Every image used across these courses, gathered in one place — 332 works from 
   <figure class="plate">
     <img src="static/img/nationwide-title.jpg" alt="Nationwide (BBC). The broadcast on which Morley tested differential readings" loading="lazy" />
     <figcaption><em>Nationwide</em> (BBC). The broadcast on which Morley tested differential readings</figcaption>
+  </figure>
+  <figure class="plate">
+    <img src="static/img/frank-drive-in.jpg" alt="Robert Frank, Drive-in movie, Detroit, 1955. Parked in the dark, doing the watching: an audience is never blank or passive" loading="lazy" />
+    <figcaption>Robert Frank, <em>Drive-in movie, Detroit</em>, 1955. Parked in the dark, doing the watching: an audience is never blank or passive</figcaption>
+  </figure>
+  <figure class="plate">
+    <img src="static/img/poster-scream1.jpg" alt="Scream (1996), one-sheet. Same mask, same title style: repetition is the promise" loading="lazy" />
+    <figcaption><em>Scream</em> (1996), one-sheet. Same mask, same title style: repetition is the promise</figcaption>
+  </figure>
+  <figure class="plate">
+    <img src="static/img/poster-scream2.jpg" alt="Scream 2 (1997), one-sheet. The number is the difference that sells the ticket again" loading="lazy" />
+    <figcaption><em>Scream 2</em> (1997), one-sheet. The number is the difference that sells the ticket again</figcaption>
+  </figure>
+  <figure class="plate">
+    <img src="static/img/poster-scream3.jpg" alt="Scream 3 (2000), one-sheet. Neale's economy of genre, printed" loading="lazy" />
+    <figcaption><em>Scream 3</em> (2000), one-sheet. Neale's economy of genre, printed</figcaption>
   </figure>
   <figure class="plate">
     <img src="static/img/june-2024-paper.jpg" alt="Cambridge Assessment International Education, Media Studies Paper 2 (9607/21), May/June 2024. The rehearsal paper: no surprises left in format, timing, or the marking" loading="lazy" />

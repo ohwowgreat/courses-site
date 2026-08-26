@@ -67,6 +67,22 @@ Genre is a negotiated agreement, not a fixed set of tropes. A trope list earns n
 
 **Altman**: genre is an agreement between industry and audience. The industry gets a pre-sold, budgetable product. The audience gets a promise of pleasure, with room for surprise. Each side receives something from the deal.
 
+
+<div class="plate-row">
+<figure class="plate">
+  <img src="../../../static/img/poster-scream1.jpg" alt="Scream (1996), one-sheet. Same mask, same title style: repetition is the promise" loading="lazy" />
+  <figcaption><em>Scream</em> (1996), one-sheet. Same mask, same title style: repetition is the promise</figcaption>
+</figure>
+<figure class="plate">
+  <img src="../../../static/img/poster-scream2.jpg" alt="Scream 2 (1997), one-sheet. The number is the difference that sells the ticket again" loading="lazy" />
+  <figcaption><em>Scream 2</em> (1997), one-sheet. The number is the difference that sells the ticket again</figcaption>
+</figure>
+<figure class="plate">
+  <img src="../../../static/img/poster-scream3.jpg" alt="Scream 3 (2000), one-sheet. Neale's economy of genre, printed" loading="lazy" />
+  <figcaption><em>Scream 3</em> (2000), one-sheet. Neale's economy of genre, printed</figcaption>
+</figure>
+</div>
+
 You can see genre working before anyone teaches you the rules. Two paintings of skulls and candles, painted centuries apart by different artists, still read as belonging together. That instant recognition is genre.
 
 For stretch, the coursebook adds three more theorists:
