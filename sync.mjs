@@ -1670,6 +1670,10 @@ const reframeStats = await reframeAll(
   pages.filter((p) => !SKIP_REFRAME.has(p.rel)),
   {
     cachePath: join(import.meta.dirname, "reframe-cache.json"),
+    // Assignment briefs are written for students directly, in Doğan's voice
+    // (PAL rewritten 2026-08-29). Reframing them would flatten that voice, so
+    // they publish exactly as written in the vault.
+    skip: [/^classes\/pre-a-level-art-design\/assessments\/pal-s1-(a\d|cs\d|sb\d|hw\d|eot)-/],
     disabled: process.env.REFRAME === "off",
   },
 )

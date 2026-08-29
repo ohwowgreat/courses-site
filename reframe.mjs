@@ -220,8 +220,19 @@ function defaultCall(client) {
 // log. Returns {cached, rewritten, kept} counts; `kept` pages shipped with the
 // filtered-but-unreframed body and were warned about.
 export async function reframeAll(pages, opts) {
-  const { cachePath, disabled = false, log = console.log } = opts
+  const { cachePath, disabled = false, log = console.log, skip = [] } = opts
   const cache = await loadCache(cachePath)
+
+  // Pages written for students in the first place (Doğan's own assignment
+  // briefs, authored in his voice) are published verbatim: the reframe would
+  // replace that voice with the generic house voice for no gain. They are
+  // pulled out before hashing, so they never miss the cache and never call the
+  // model. Everything else still goes through the normal path.
+  const authored = pages.filter((p) => skip.some((re) => re.test(p.rel)))
+  if (authored.length) {
+    pages = pages.filter((p) => !skip.some((re) => re.test(p.rel)))
+    log(`reframe: ${authored.length} page(s) published as authored (student-voice source)`)
+  }
 
   // REFRAME_PILOT=<regex over page rels>: stage a prompt change on a few pages
   // without re-rewriting the whole site. Pages matching the regex rewrite (and
