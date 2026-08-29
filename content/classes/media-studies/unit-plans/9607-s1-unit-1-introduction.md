@@ -25,23 +25,23 @@ modified: 2026-08-25
 **Concepts:** [[concepts/four-key-concepts|Four Key Concepts]] · [[concepts/media-language|Media Language]]
 
 
-This is a one-week induction. It sets up Language, Representation, Industry and Audience as the working spine of the two-year course. It teaches **mediation**: media give you a version, not a window. It drills the discipline [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]] is marked on, **denotation** before **connotation**. It ends with the course's first graded task on day three.
+This is a one-week induction. It sets up **Language**, **Representation**, **Industry** and **Audience** as the working spine of the two-year course. You learn that media is **mediation**: a version, not a window. You practice the discipline [[classes/media-studies/assessments/9607-s1-a1-timed-media-language-analysis|A1]] will be marked on: **denotation** before **connotation**. The unit leads into [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS1]], the course's first graded task.
 
-Numbering note: "U1" here means the Semester 1 calendar band. The coursebook uses a different numbering, Units 1–8; its Unit 1 (Introduction to Media) covers similar ground in more detail.
+Note on numbering: "U1" here means the Semester 1 calendar band. The coursebook's "Units 1–8" use a different numbering system. Its Unit 1 (Introduction to Media) covers similar ground at greater length.
 
 ## Dates & span
 
-W1: Wed 2026-09-02 to Fri 09-04, 3 teaching days (Wed double, Thu single, Fri single). Media has no Tuesday slot, so the course opens in the Wednesday double. W1 is a reduced week with school events around it, including A-Level Introduction Days on the opening Wednesday.
+**W1: Wed 2026-09-02 to Fri 09-04**, 3 teaching days (Wed double, Thu single, Fri single). Media has no Tuesday slot, so the course opens in the Wednesday double. Week 1 is a reduced week with school events around it, ⚠ including A-Level Introduction Days on the opening Wednesday.
 
 ## Lessons
 
-- [[classes/media-studies/lesson-plans/9607-s1-lesson-01-the-four-key-concepts|Lesson 01 The Four Key Concepts]]. On the double you meet the opener, the "I'm not impacted by media" wager, the overnight media-use log, and the four tools used on one shared text, plus the mediation demo with three named mechanisms: **staging** (Gardner), **selection** (*Migrant Mother*), **anchorage** (the Underwood caption). Day 2: the log is tallied and you do the card sort. Day 3: denotation is modeled live, and you write [[classes/media-studies/assessments/9607-s1-course-skills-and-homework|CS1]], the pure-denotation paragraph that must survive a peer hunt for smuggled connotation.
+- [[classes/media-studies/lesson-plans/9607-s1-lesson-01-the-four-key-concepts|L01 The Four Key Concepts]] — Day 1 (the double): the opener, the "I'm not impacted by media" wager, the overnight media-use log, the four tools applied to one shared text, and the mediation demo with three named mechanisms: staging (Gardner), selection (*Migrant Mother*), anchorage (the Underwood caption). Day 2: the log tallied and the card sort. Day 3: denotation modeled live, then the pure-denotation paragraph that must survive a peer hunt for smuggled connotation (the same write graded as CS1 on Mon 09-07).
 
 ## Assessment
 
 | Item | Date | What | AO |
 |---|---|---|---|
-| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS1]] | Fri 2026-09-04 | Analytical paragraph, denotation only, written in class | AO2 |
+| [[classes/media-studies/assessments/9607-s1-course-skills-and-homework\|CS1]] | **Mon 2026-09-07** | Analytical paragraph, denotation only, written in class. It sits on the first session of Week 2. The entry rules bar tests in the opening week, so Fri 09-04 runs the same write as ungraded rehearsal | AO2 |
 
 See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 
@@ -50,7 +50,7 @@ See the [[classes/media-studies/assessments/9607-s1-assessments|full register]].
 - The four Key Concepts applied out loud to a shared text; card sort with justification (24 EN/ZH cards).
 - Mediation: the same event cropped, framed and captioned three ways.
 - Denotation-only writing modeled live, with ESL sentence frames.
-- C1 groundwork: blog set-up homework; EN/ZH lexicon opened (at least 5 entries by Friday).
+- Groundwork for C1: blog set-up homework; EN/ZH lexicon opened (at least 5 entries by Friday).
 
 <div class="page-nav">
 <span class="page-nav-slot"></span>

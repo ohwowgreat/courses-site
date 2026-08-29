@@ -1,105 +1,91 @@
 ---
-title: "Pre A Level Art & Design · S1 A2: Photographic Series"
+title: "Pre A Level Art & Design · S1 A2: Photo Series"
 related:
   - "[[classes/pre-a-level-art-design/assessments/pal-s1-assessments]]"
+  - "[[classes/pre-a-level-art-design/assessments/pal-s1-cs2-composition-and-editing]]"
+  - "[[classes/pre-a-level-art-design/assessments/pal-s1-hw1-holiday-photos]]"
   - "[[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-09-a2-the-photographic-series]]"
   - "[[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-08-02
+modified: 2026-08-29
 ---
-# Pre A Level Art & Design · S1 A2: Photographic Series
 
-[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|S1 Assessment Register]] · [[classes/pre-a-level-art-design/lesson-plans/pal-s1-lesson-09-a2-the-photographic-series|Lesson 09]] · Attainment 2 of 5
+# Pre A Level Art & Design · S1 A2: Photo Series
+
+[[classes/pre-a-level-art-design/pre-a-level-art-design|Pre A Level Art & Design]] · [[classes/pre-a-level-art-design/assessments/pal-s1-assessments|S1 Assessment Register]] · Attainment 2 of 5
 
 ## At a glance
 
-<dl class="stat-strip">
-  <div class="stat"><dt>Sits</dt><dd>Wed 2026-11-04<span class="stat-x">one double (about 90 minutes)</span></dd></div>
-  <div class="stat"><dt>Returned</dt><dd>Within five working days</dd></div>
-</dl>
-
 | | |
 |---|---|
-| Category | Attainment, the second of five in the 50% category |
-| Format | Made in class from photographs you already took. **No new shooting today** |
-| Submitted | A series of **6 to 8 images**, titled, plus the written reflection, posted to MB by the close |
-| Marked on | Framing · Viewpoint · Light · Series thinking |
-| Also collected | Contact sheet and annotated rejects, into the sketchbook as process evidence |
+| Date | Wed 2026-11-04, one double, about 90 minutes |
+| Category | Attainment, 50% of your grade |
+| Made | In class, from photographs you already took. No new shooting |
+| Hand in | 6 to 8 images with a title, plus the written reflection, posted to MB |
+| Marked on | Framing, viewpoint, light, series thinking |
+| Also collected | Contact sheet and cut photographs, into the sketchbook |
 | Unit | [[classes/pre-a-level-art-design/unit-plans/pal-s1-unit-2-photography\|U2 Photography]] |
 
 ## Objectives
 
-This assessment asks you to show that you can:
+By the end of this task you can:
 
-1. Select 6 to 8 images from many, so that **removing any one costs the series something**.
-2. Reject an off-theme frame **even when it is the prettiest one you have**.
-3. Sequence images so the order carries meaning: an opener, a development, a closer.
-4. Title the series so the title makes a claim rather than a label.
-5. Write a reflection that accounts for the selection you made.
+1. Choose 6 to 8 photographs out of many.
+2. Cut a photograph you like, because it does not fit the theme.
+3. Put images in an order that means something.
+4. Give a series a title that makes a claim.
+5. Explain your choices in writing.
 
-## The task
+## Description
 
-The shooting is done. Today is selection, sequence and words.
+The shooting is finished. Today is choosing, ordering and writing.
 
-You arrive with all your frames, your contact sheet and your edits. You leave with a series of 6 to 8 images, in a deliberate order, with a title and a reflection, posted to MB.
+You arrive with all your frames and your contact sheet. You leave with a series of 6 to 8 images, in an order you chose, with a title and a reflection, posted to MB.
 
-The test of a series, and you will be asked it at the start:
+A series is not an album. Here is the test, and I will ask you at the start:
 
-- Take any one image away. **Does the group lose something?**
-- Add your prettiest off-theme frame. **Does the group get worse?**
+- Take one image out. Does the group lose something?
+- Put your prettiest off-theme photo in. Does the group get worse?
 
 If you can answer both, you understand what you made.
 
-## Instructions
+## Guidelines
 
-**1. Selection (about 30 minutes).** Two forced passes:
+**Choosing, about 30 minutes.** Two passes:
 
-- **The kill-your-darlings pass.** Your strongest image that does not serve the theme comes out. It goes into the sketchbook with a note explaining why, not into the series.
-- **The weakest-link pass.** If an image needed two sentences of defending, replace it or cut it.
+- First pass. Find your strongest photograph that does not fit the theme, and take it out. Put it in your sketchbook with one line saying why it went.
+- Second pass. If a photograph needed two sentences to defend, cut it or replace it.
 
-**2. Sequencing (about 20 minutes).** Order is meaning. Choose an **opener** that invites, a **development** that varies, a **closer** that lands. Lay out two different orders side by side, gallery view or prints on the table, and keep the one that reads better when you say it aloud.
+**Ordering, about 20 minutes.** The order carries meaning. Choose a first image that invites the viewer in, a middle that changes, and a last one that closes. Lay out two different orders and keep the one that reads better when you say it out loud.
 
-Then title it. A title is a claim, not a label: *Nobody Uses the Front Door* does more work than *Doors of Building B*.
+Then give it a title. A title makes a claim. *Nobody Uses the Front Door* does more work than *Doors of Building B*.
 
-**3. Reflection (about 20 minutes).** One page, full sentences:
+**Writing, about 20 minutes.** One page, full sentences:
 
-- "My series is about …"
-- "I chose these … from … frames because …"
-- "The strongest image is … because …"
-- "My viewpoint or light decision that worked best was …"
-- "If I shot the theme again I would …"
+- My series is about...
+- I chose these... from... frames because...
+- The strongest image is... because...
+- My best decision about viewpoint or light was...
+- If I shot this theme again I would...
 
-**4. Submit.** Series, title and reflection to MB. Contact sheet and annotated rejects into the sketchbook.
+**Handing in.** Series, title and reflection to MB. Contact sheet and cut photographs into the sketchbook.
 
-**If you are absent.** Tell your teacher **at least 24 hours before**. Illness needs a doctor's note. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8).
+If you are absent, tell me at least 24 hours before. Illness needs a doctor's note. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8).
 
 ## Rubric
 
-Four criteria, equally weighted, each judged on its own.
+Four criteria, equal weight, each marked on its own.
 
 | | **Framing** | **Viewpoint** | **Light** | **Series thinking** |
 |---|---|---|---|---|
-| **Perceptive** | Every frame is composed on purpose. What is left out is as deliberate as what is in | Viewpoints vary because the subject needed them to, and you can say why each one was chosen | Light is used, not just present. The quality and direction of light does work in the images | Removing any image costs the series something. The order builds. The title makes a claim the pictures support |
-| **Confident** | Consistently well framed, with one or two frames that drifted | Real variety of viewpoint, mostly motivated | Light is noticed and mostly controlled | A clear series with a logic you can explain. The order is considered |
-| **Competent** | Competent framing. Some frames are centered by default rather than by choice | Some variety, but several frames share the same easy viewpoint | Light is adequate: correctly exposed, not yet used expressively | A group of related images. Order is sensible but not doing much work |
-| **Adequate** | Framing is inconsistent. Distracting elements are left in the frame | Little variety. The subject is photographed the same way repeatedly | Light is whatever it was on the day | Images share a subject but not an idea. Any one could be swapped out without loss |
-| **Limited** | Little evidence of framing decisions | One viewpoint throughout | Light is a problem the images have rather than a tool they use | A collection, not a series |
+| **Perceptive** | Every frame composed on purpose. What is left out is as deliberate as what is in | Viewpoints change because the subject needed them to, and you can say why | Light does work in the pictures. You used it, not just had it | Remove any image and the series loses something. The order builds. The title makes a claim the pictures support |
+| **Confident** | Well framed, one or two frames drifted | Real variety, mostly for a reason | Light is noticed and mostly controlled | A clear series with a logic you can explain |
+| **Competent** | Competent. Some frames centred by habit | Some variety, several frames from the same easy place | Correctly exposed, not yet used | Related images. The order is sensible but does little |
+| **Adequate** | Inconsistent. Distracting things left in the frame | Little variety. The same view repeated | Light is whatever it was that day | Same subject, no idea. Any image could be swapped out |
+| **Limited** | Little sign of framing decisions | One viewpoint throughout | Light is a problem, not a tool | A collection, not a series |
 
-**Series thinking is the criterion that separates this from a photo album.** It is also the one that carries forward: the same judgment reappears at A3, at the portfolio, and in every A Level unit after it.
+**Series thinking is what separates this from a photo album.** The same judgment comes back at A3, at the portfolio, and in every A Level unit after that.
 
-Under the [[shared/bnds-assessment-framework|BNDS framework]] this becomes a curved grade, not a raw score, with the more generous G10 curve.
+Your mark becomes a curved grade under the [[shared/bnds-assessment-framework|BNDS framework]], on the more generous Grade 10 curve.
 
-## After the sit
-
-- Back within **five working days**, with written feedback.
-- Your **contact sheet and annotated rejects** are now sketchbook process evidence. They count towards **SB2** (the second sketchbook spot-check, Wed 2026-12-02) and towards **A5** (the sketchbook attainment, Wed 2027-01-06). Nothing you did for A2 is wasted.
-- U3 Collage opens next week. Bring nothing: the unit supplies its own material.
-
-## How to prepare
-
-| Where it came from | What to use it for |
-|---|---|
-| **HW1**, at least 20 photos of one subject over the break | Your raw material. Abundance is the point: selection needs something to select from |
-| **CS2**, composition practice set + contact-sheet edit | Framing and selection, already practiced and marked |
-| **L07**, light, shadow and the series theme | Your theme, and what light is doing in your frames |
-| **L08**, the theme shoot and the contact-sheet edit | The candidate set you are choosing from |
+Your contact sheet and cut photographs are now process evidence. They count towards [[classes/pre-a-level-art-design/assessments/pal-s1-sb2-sketchbook-check-2|SB2]] and towards [[classes/pre-a-level-art-design/assessments/pal-s1-a5-sketchbook|A5]]. Nothing you did here is wasted.

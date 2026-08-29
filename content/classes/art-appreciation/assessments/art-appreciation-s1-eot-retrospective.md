@@ -6,8 +6,9 @@ related:
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-13-the-artworld-and-the-brief]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-5-semester-close-and-retrospective]]"
   - "[[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis]]"
+  - "[[shared/bnds-ap-assessment-policy]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-08-06
+modified: 2026-08-29
 ---
 # Art Appreciation · S1 End of Term: The Retrospective
 
@@ -46,10 +47,10 @@ Everything you have made is available. The Unit 1 boards and the Unit 4 synthese
 
 ## Instructions
 
-1. **Bring your three works and your reasons.** This is the break homework and it is your entry ticket, worth 3 to 4 hours across the holiday.
+1. **Bring your three works and your reasons.** This is the break homework and it is the entry ticket, worth 3 to 4 hours across the holiday.
 2. **Build the constellation.** Adjacency is still the argument, as it has been since A1.
 3. **Use your own earlier work.** The boards and syntheses on the walls are material, not decoration.
-4. **Be ready to defend.** Somebody in the room chose differently, and you will be asked to hold your ground rather than politely agree. Conceding right away is not generosity, it is a failure to argue.
+4. **Be ready to defend.** Somebody in the room chose differently, and you will be asked to hold your ground rather than politely agree. Conceding immediately is not generosity, it is a failure to argue.
 5. **Write the argument** the layout makes.
 
 **If you are absent.** Tell your teacher **at least 24 hours before**. Illness needs a doctor's note. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8). This is a 20% category and there is no second sitting.
@@ -66,13 +67,13 @@ Five criteria, equally weighted. The first four are the constellation skills the
 | **Partial** | Three works, reasons thin | Grouped by theme | Reads as a collection of the year's work | Narrates the semester | Cannot say why these three rather than three others |
 | **Undeveloped** | Selection incomplete or arbitrary | No reasoning | No argument discernible | Little writing | No defense offered |
 
-Under the [[shared/bnds-assessment-framework|BNDS framework]] this becomes a curved grade rather than a raw score.
+**How this is graded depends on which programme you are in.** For A-Level students, under the [[shared/bnds-assessment-framework|BNDS A-Level framework]] this becomes a curved grade rather than a raw score. For AP students there is **no curve**. The [[shared/bnds-ap-assessment-policy|AP policy]]'s fixed percentage bands apply as they stand.
 
 ## Why it is in class and not in the exam window
 
 The school exam window is Mon 2027-01-11 to Mon 2027-01-18. This retrospective sits **Tue 2027-01-05**, in class, before it.
 
-The assessment is a constellation build. It needs the room, the walls, the pinned earlier work, and the students arguing with each other. None of that survives being moved into an exam hall, and a two-hour silent sitting would not measure it better.
+The reason is that the assessment is a constellation build: it needs the room, the walls, the pinned earlier work and the students arguing with each other. None of that survives being moved into an exam hall, and there is nothing here that a two-hour silent sitting would measure better.
 
 ## After the sit
 

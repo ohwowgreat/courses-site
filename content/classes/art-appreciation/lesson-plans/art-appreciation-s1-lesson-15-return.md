@@ -4,7 +4,7 @@ related:
   - "[[classes/art-appreciation/art-appreciation]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-5-semester-close-and-retrospective]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-14-the-retrospective]]"
-modified: 2026-08-05
+modified: 2026-08-29
 ---
 # Lesson 15: Return
 
@@ -18,7 +18,7 @@ modified: 2026-08-05
 <div class="contract-head"><span class="contract-kicker">Your job this lesson</span></div>
 <p class="contract-job">Semester 2 goals, plus <a href="../../../classes/art-appreciation/assessments/art-appreciation-s1-course-skills">LB9</a></p>
 <div class="contract-grid">
-<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Tue 2027-01-19 to Tue 2027-01-19<span class="contract-cell-note">Days: 3</span></span></div>
+<div class="contract-cell"><span class="contract-cell-label">When</span><span class="contract-cell-value">Tue 2027-01-19 to Thu 2027-01-21<span class="contract-cell-note">Days: 3 — three calendar days, not periods: return days sit outside the normal timetable (<a href="../../../classes/art-appreciation/unit-plans/art-appreciation-semester-1-plan">semester plan</a>, W21), so the Thursday runs even though the course has no Thursday slot</span></span></div>
 <div class="contract-cell"><span class="contract-cell-label">Feeds</span><span class="contract-cell-value">Semester 2</span></div>
 </div>
 <div class="contract-foot"><a class="contract-deck" href="../../../decks/art-appreciation/art-appreciation-s1-lesson-15-return.pptx"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v8m0 0 3-3M8 10 5 7"></path><path d="M3 12v1.5h10V12"></path></svg>Lesson slides (455 KB)</a><a class="contract-credits" href="../../../decks/credits">image credits</a><span class="contract-hw"><span class="contract-line-label">Homework</span> None</span></div>
@@ -31,21 +31,21 @@ modified: 2026-08-05
 
 ## Overview
 
-These are the return days after the exam window and after the grades deadline. Nothing you do here changes your Semester 1 grade. You get your work back, talk one-to-one about what you made, and set a Semester 2 goal that is about a practice rather than about a grade. This goal is the deliverable. [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB9]] is posted on Tue 2027-01-19 and counts toward Semester 2. The last day also previews the Semester 2 topics.
+These three days close Semester 1. You get your work back and meet one to one to talk about what you made. Nothing here changes your Semester 1 grade, since the grades deadline has passed. You produce one deliverable, a Semester 2 goal, written on Thu 2027-01-21, and you post [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|LB9]]. Both of these carry forward into Semester 2, and the goal sets up the work you start next semester.
 
 ## 1 · Learn
 
-### Acting on feedback
+### Reading your own work against the criteria
 
-When your work comes back, read it against the criteria and act on it in class. The point is to make the change now, not to file the comment and forget it. Ask yourself the one move that would have made your strongest piece sharper.
+Look at your strongest piece and name the one change that would have made it sharper. You do this yourself, against the criteria, rather than waiting to be told. The aim is to act on feedback while you are still in the room, not to file it and forget it.
 
-### Setting a practice goal
+### A goal about practice, not grade
 
-A Semester 2 goal should be about a **practice**, something you do and can repeat, not about a grade you want to reach. A grade is an outcome. A practice is the work that leads there.
+Your Semester 2 goal is about a **practice**, something you will do differently in how you make or study art, rather than a target grade. A goal about a grade names a number. A goal about a practice names an action you can repeat.
 
-### Semester 2 preview
+### Semester 2 trailer: patronage and the market
 
-Semester 2 looks at where the money in art comes from. **Patronage** is support for an artist from a patron who pays for the work. **The market** is the buying and selling of art, where price is set by demand. Together these raise one question: who decides what is worth money.
+Semester 2 asks who decides what art is worth money. Two named ideas set this up. **Patronage** is the system where a patron, a wealthy person, ruler, or institution, pays an artist to make specific work, so the patron shapes what gets made. **The market** is the system where art is bought and sold as goods, and price sets what counts as valuable. Both raise the same question: who decides what is worth money.
 
 
 <figure class="plate">
@@ -55,23 +55,24 @@ Semester 2 looks at where the money in art comes from. **Patronage** is support 
 
 ## 2 · Do
 
-- **Tue 01-19.** Work returned. You get one-to-one feedback while everyone else re-reads their own work against the criteria.
-- **Wed 01-20.** One-to-one feedback continues. Grades and comments are due today.
-- **Thu 01-21.** Semester 2 preview: patronage, the market, and who decides what is worth money. Write your Semester 2 goal. LB9 is posted.
+- **Tue 2027-01-19.** Work is returned. You meet one to one for feedback while everyone else re-reads their own work against the criteria.
+- **Wed 2027-01-20.** One-to-one feedback continues. Grades and comments are finished today.
+- **Thu 2027-01-21.** Semester 2 trailer: patronage, the market, and who decides what is worth money. You write your Semester 2 goal. LB9 is posted.
 
 ## Assessment
 
-- **LB9.** Tue 2027-01-19, posted after the Wednesday grades deadline. It counts toward Semester 2, not Semester 1.
-- The Semester 2 goal is the deliverable. Write it about a practice rather than about a grade.
+- **LB9.** Posted Tue 2027-01-19. It counts toward Semester 2, not Semester 1.
+- **Semester 2 goal.** This is the deliverable. Write it about a practice rather than about a grade.
 
 ## 3 · Check
 
 Check you can:
 
-- Name the one move that would have made your strongest piece sharper.
-- Set a Semester 2 goal that is about a **practice** rather than a grade.
-- Act on feedback by making the change in class.
-- Explain **patronage** and **the market** as two ways art gets paid for.
+- Name the one change that would make your strongest piece sharper.
+- Set a Semester 2 goal about a practice, not a grade.
+- Act on feedback in the room rather than filing it.
+- Define **patronage** and explain how a patron shapes what art gets made.
+- Define **the market** and explain how price sets what counts as valuable.
 
 ## Practice
 

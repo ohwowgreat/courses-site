@@ -5,8 +5,9 @@ related:
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-09-food-the-table-and-ethics]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics]]"
   - "[[classes/art-appreciation/assessments/art-appreciation-s1-a2-titian-manet-comparison]]"
+  - "[[shared/bnds-ap-assessment-policy]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-08-06
+modified: 2026-08-29
 ---
 # Art Appreciation · S1 A3: The Food and Ethics Essay
 
@@ -42,9 +43,9 @@ An in-class essay on the unit's material: the table as a moral space, Heda and t
 
 You make **one claim** and argue it from the pictures.
 
-Here is the specific difficulty of this essay, and the reason it comes third rather than first: the subject invites you to argue from ethics. Food, class, labor and who is absent from the table are all questions with moral answers available before you have looked at anything. An essay that arrives at the right ethical position without going through the pictures has not done the work this course teaches.
+This essay is hard for one reason, and it is why it comes third rather than first: **the subject invites you to argue from ethics.** Food, class, labor and who is absent from the table all have moral answers ready before you have looked at anything. An essay that reaches the right ethical position without going through the pictures has not done the work this course teaches.
 
-So the ethics has to be found in the picture, in what it selected, arranged, lit and left out. Not brought to it.
+So the ethics has to be **found in the picture**, in what it selected, arranged, lit and left out. Do not bring it to the picture.
 
 ## Instructions
 
@@ -54,11 +55,11 @@ So the ethics has to be found in the picture, in what it selected, arranged, lit
 4. **Treat absence as evidence.** Who is not in the picture is a decision the picture made, and it is arguable.
 5. **Earn every adjective.** This is the criterion CS4 rehearsed on Heda.
 
-**If you are absent.** Tell your teacher at least 24 hours before. Illness needs a doctor's note. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8).
+**If you are absent.** Tell your teacher **at least 24 hours before**. Illness needs a doctor's note. Without advance contact the mark may be 0, even for genuine illness (AL Student Guide p.8).
 
 ## Rubric
 
-Four criteria, equally weighted. The third is the one that distinguishes this essay from A2.
+Four criteria, equally weighted. The third is the one that separates this essay from A2.
 
 | | **The claim** | **Evidence from the pictures** | **From the pictures, not the ethics** | **Precision of language** |
 |---|---|---|---|---|
@@ -68,13 +69,13 @@ Four criteria, equally weighted. The third is the one that distinguishes this es
 | **Partial** | A topic rather than a claim | Assertion with occasional reference to the pictures | The position is asserted first and the pictures are recruited to illustrate it | Loose, sentimental about labor or food |
 | **Undeveloped** | No identifiable claim | No evidence from the pictures | An essay about ethics that happens to mention paintings | Imprecise throughout |
 
-Under the [[shared/bnds-assessment-framework|BNDS framework]] this becomes a curved grade rather than a raw score.
+**How this is graded depends on your programme.** For A-Level students, under the [[shared/bnds-assessment-framework|BNDS A-Level framework]] this becomes a curved grade rather than a raw score. For AP students there is **no curve**: the [[shared/bnds-ap-assessment-policy|AP policy]]'s fixed percentage bands apply as they stand.
 
 ## After the sit
 
-The course's review protocol: the criteria, ten minutes of silence, one named strength, one move.
+The course's review protocol: **the criteria**, **ten minutes of silence**, **one named strength**, **one move.**
 
-Marking back within five working days. This unit hands directly to Unit 4, which takes the same question into mediation, so what this essay reveals is immediately usable.
+You get your mark back within five working days. This unit hands directly to Unit 4, which takes the same question into mediation, so what this essay reveals is immediately usable.
 
 ## How to prepare
 

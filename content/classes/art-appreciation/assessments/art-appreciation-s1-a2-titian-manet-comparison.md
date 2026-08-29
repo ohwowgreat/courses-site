@@ -5,8 +5,9 @@ related:
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-05-titian-to-manet]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-2-narrative-myth-and-allegory]]"
   - "[[classes/art-appreciation/assessments/art-appreciation-s1-a1-unit-1-board]]"
+  - "[[shared/bnds-ap-assessment-policy]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-08-02
+modified: 2026-08-29
 ---
 # Art Appreciation · S1 A2: The Titian and Manet Comparison
 
@@ -39,7 +40,7 @@ This assessment asks you to show that you can:
 
 ## The task
 
-You write an in-class essay on two paintings, closed book.
+An in-class essay on two paintings, closed book.
 
 You make **one claim** about Titian against Manet and you argue it from what is in the pictures.
 
@@ -47,9 +48,9 @@ The trap, and it is the whole reason this assessment exists:
 
 **A list is not a comparison.**
 
-Anyone can produce a list of differences: the gaze, the maid, the cat, the shoes, the flowers, the hand. A list is inventory. A comparison identifies which difference matters and argues what it does. One difference, followed properly, beats six differences noted.
+Everybody can produce a list of differences: the gaze, the maid, the cat, the shoes, the flowers, the hand. A list is inventory. A comparison identifies which difference matters and argues what it does. One difference, followed properly, beats six differences noted.
 
-The second trap is arguing from **reception**. What critics said in 1865 is interesting, and it is not evidence about the picture. You read on *Olympia*'s reception as homework so you know the difference between the painting and the noise around it.
+The second trap is arguing from **reception**. What critics said in 1865 is interesting, and it is not evidence about the picture. You read on *Olympia*'s reception as homework precisely so you know the difference between the painting and the noise around it.
 
 ## Instructions
 
@@ -75,7 +76,7 @@ Four criteria, equally weighted.
 | **Partial** | A topic rather than a claim | Assertion with occasional gestures at the pictures | A list of differences, undeveloped | Loose, with unearned adjectives doing the work of argument |
 | **Undeveloped** | No identifiable claim | Argues from reception or from memory of the lesson, not from the pictures | Description of two paintings in sequence | Imprecise throughout |
 
-Under the [[shared/bnds-assessment-framework|BNDS framework]] this becomes a curved grade rather than a raw score.
+**How this is graded depends on which programme you are in.** For A-Level students, under the [[shared/bnds-assessment-framework|BNDS A-Level framework]] this becomes a curved grade rather than a raw score. For AP students there is **no curve**: the [[shared/bnds-ap-assessment-policy|AP policy]]'s fixed percentage bands apply as they stand.
 
 ## After the sit
 

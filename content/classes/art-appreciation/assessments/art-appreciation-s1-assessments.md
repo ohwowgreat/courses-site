@@ -8,8 +8,9 @@ related:
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-3-food-the-table-and-ethics]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-4-images-mediation-and-modernity]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-5-semester-close-and-retrospective]]"
+  - "[[shared/bnds-ap-assessment-policy]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-08-06
+modified: 2026-08-29
 ---
 # Art Appreciation · S1 Assessments
 
@@ -17,7 +18,21 @@ modified: 2026-08-06
 
 ## Weights
 
-From the [[shared/bnds-assessment-framework|BNDS A-Level assessment framework]]: **Attainment 50%** (A1–A4), **Course Skills 20%** (CS1–5), **Learning Behaviour 10%** (LB postings), **End of Term 20%** (the retrospective). The course has only four attainment items, so attainment dropping does not apply. That needs at least six items.
+⚠ **This course is graded under two different schemes.** It teaches both cohorts in one room, and you sit in one of two ManageBac classes. The teaching, deliverables, and dates are the same for everyone. The categories and weights differ.
+
+**A-Level students** use the [[shared/bnds-assessment-framework|BNDS A-Level framework]]: **Attainment 50%** (A1–A4), **Course Skills 20%** (CS1–5), **Learning Behaviour 10%** (LB postings), **End of Term 20%** (the retrospective). With only four attainment items, this course cannot drop an attainment item. Dropping requires at least six.
+
+**AP students** use the [[shared/bnds-ap-assessment-policy|BNDS AP policy]]: **Majors 50%**, split into **Assessments 30%** (the two in-class essays, A2 and A3) and **Performance Tasks 20%** (the two boards, A1 and A4); **Minors 30%** (CS and LB together, since the AP scheme has no separate Learning Behaviour weighting); **Semester Final Exam 20%** (the retrospective). There is no curve. The percentage bands are fixed.
+
+| | A-Level | AP |
+|---|---|---|
+| A1 board, A4 board | Attainment (50% band) | Performance Tasks 20% |
+| A2, A3 essays | Attainment (50% band) | Assessments 30% |
+| CS1–CS5 | Course Skills 20% | Minors 30% |
+| LB1–LB9 | Learning Behaviour 10% | Minors 30% |
+| EoT retrospective | End of Term 20% | Semester Final Exam 20% |
+
+⚠ **The two grade scales differ, so the same percentage is not the same letter.** 55 is a D and a pass on A-Level; on AP it is an F. 85 is an A on A-Level; on AP it is an A−. Read the bands for your own programme.
 
 ## Majors (A1–A4 + End of Term)
 
@@ -29,23 +44,23 @@ From the [[shared/bnds-assessment-framework|BNDS A-Level assessment framework]]:
 | [[classes/art-appreciation/assessments/art-appreciation-s1-a4-unit-4-synthesis\|A4]] | **Tue 2026-12-15** | Unit 4 synthesis — a constellation that argues across the whole unit | In-class constellation build + written argument |
 | [[classes/art-appreciation/assessments/art-appreciation-s1-eot-retrospective\|EoT]] | **Tue 2027-01-05** | Semester-close retrospective — a semester of looking as one argument, in the layout | In-class constellation, 20% End of Term |
 
-Each item above has its own page with objectives, the task, instructions and a rubric. This course has no external criteria. A1, A4 and the retrospective share two criteria on purpose, so the three constellations read as a series.
+Each item above has its own page carrying objectives, the task, instructions, and a rubric. A1, A4, and the retrospective share two criteria on purpose, so the three constellations read as a series.
 
-A2 also feeds your mid-term grades, which come from A2 and participation and are due Thu 2026-10-29. A2 is marked inside a week.
+A2 also carries the mid-term grades (due Thu 2026-10-29, on A2 and participation), so it is marked within a week.
 
 ## Course Skills (CS1–CS5)
 
 Each item is written up for you in [[classes/art-appreciation/assessments/art-appreciation-s1-course-skills|Art Appreciation S1 Course Skills]].
 
-Every CS rehearses the major next to it. You get 72 hours notice, and work is marked back within 5 working days.
+Every CS rehearses its adjacent major. You get at least 72 hours' notice. Work is marked back within 5 working days.
 
 | Item | Date | What | Rehearses |
 |---|---|---|---|
 | CS1 | **Fri 2026-09-04** | Darkroom reflection, written in the room | A1 (image as physical trace → U4) |
 | CS2 | Tue 2026-09-29 | Ten-frame storyboard, no captions, no dialogue | A2 (reading what a picture decided) |
-| CS3 | **Fri 2026-10-09** | Storyboard debrief — where the sequence stopped being legible | A2 |
-| CS4 | Fri 2026-11-13 | Heda paragraph — every adjective earned | A3 |
-| CS5 | **Wed 2026-12-09** | Poor-image lab — degrade an image and describe exactly what changed | A4 |
+| CS3 | **Fri 2026-10-09** | Storyboard debrief: where the sequence stopped being legible | A2 |
+| CS4 | Fri 2026-11-13 | Heda paragraph: every adjective earned | A3 |
+| CS5 | **Wed 2026-12-09** | Poor-image lab: degrade an image and describe exactly what changed | A4 |
 
 ## Learning Behaviour (LB1–LB9)
 
@@ -56,9 +71,9 @@ Participation postings, graded on behavior (taking a position and moving it), no
 | LB1 | Fri 2026-09-11 | U1 seminar: what the first images wanted |
 | LB2 | **Wed 2026-09-23** | U2 cycle-reading session |
 | LB3 | Fri 2026-10-23 | U3 seminar: food, class, who is not in the picture |
-| LB4 | Fri 2026-10-30 | U3 hospitality seminar, posted for whoever is present. If G12 is away, there is no penalty. |
+| LB4 | Fri 2026-10-30 | U3 hospitality seminar, posted for whoever is present (G12 away, not penalized) |
 | LB5 | Tue 2026-11-03 | Second Heda session |
 | LB6 | Wed 2026-11-25 | Reproduction seminar |
 | LB7 | Tue 2026-12-01 | Floating-world session |
 | LB8 | Tue 2026-12-22 | Danto/Warhol day, End-of-Semester Activity, short room |
-| LB9 | **Tue 2027-01-19** | Return days. This lands after the Wed 2027-01-20 grades deadline, so it **carries no S1 weight** and counts toward S2. |
+| LB9 | **Tue 2027-01-19** | Return days. This lands after the Wed 2027-01-20 grades deadline, **carries no S1 weight**, and counts toward S2 |

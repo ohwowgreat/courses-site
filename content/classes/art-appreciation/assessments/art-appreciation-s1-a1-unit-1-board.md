@@ -4,8 +4,9 @@ related:
   - "[[classes/art-appreciation/assessments/art-appreciation-s1-assessments]]"
   - "[[classes/art-appreciation/lesson-plans/art-appreciation-s1-lesson-03-the-first-board]]"
   - "[[classes/art-appreciation/unit-plans/art-appreciation-s1-unit-1-origins-and-ancestral-memory]]"
+  - "[[shared/bnds-ap-assessment-policy]]"
   - "[[shared/bnds-assessment-framework]]"
-modified: 2026-08-02
+modified: 2026-08-29
 ---
 # Art Appreciation · S1 A1: The Unit 1 Board
 
@@ -35,7 +36,7 @@ This assessment asks you to show that you can:
 
 ## The task
 
-Your group builds a board on the wall from the print pool: images spanning Chauvet, Lascaux, Neolithic figures and ritual objects. The pool is over-supplied on purpose, so selection is a real decision rather than a scramble.
+Your group builds a board on the wall from the print pool: images spanning Chauvet, Lascaux, Neolithic figures and ritual objects. The pool is deliberately over-supplied, so selection is a real decision rather than a scramble.
 
 Then each of you writes your own justification of it.
 
@@ -69,7 +70,7 @@ Four criteria. The first three are the board (shared); the fourth is yours.
 | **Partial** | Images are grouped by subject or by looking similar | The board reads as a collection | Description is mostly visual resemblance | Narrates the board rather than justifying it |
 | **Undeveloped** | No reasoning offered for the arrangement | No argument discernible | Objects named, not described | Little or no justification |
 
-Under the [[shared/bnds-assessment-framework|BNDS framework]] this becomes a curved grade rather than a raw score.
+**How this is graded depends on which programme you are in.** For A-Level students, under the [[shared/bnds-assessment-framework|BNDS A-Level framework]] this becomes a curved grade rather than a raw score. For AP students there is **no curve**: the [[shared/bnds-ap-assessment-policy|AP policy]]'s fixed percentage bands apply as they stand.
 
 ## After the sit
 

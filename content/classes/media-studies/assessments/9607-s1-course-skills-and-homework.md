@@ -11,7 +11,7 @@ modified: 2026-08-25
 
 [[classes/media-studies/media-studies|Media Studies]] · [[classes/media-studies/assessments/9607-s1-assessments|S1 Assessment Register]] · Course Skills and homework, all fifteen items
 
-The four attainments each have their own page with a full rubric. The fifteen Course Skills items are smaller by design, and this page is where they are all written down: what each one is, when it happens, what you produce, what it is marked on, and what it feeds. Nothing here is a surprise task. Each one rehearses a move an attainment will ask for later.
+The four attainments each have their own page with a full rubric. The fifteen Course Skills items are smaller by design, and this page is where they are all written down: what each one is, when it happens, what you produce, what it is marked on, and what it feeds. Nothing here is a surprise task. Every one of them rehearses a move an attainment will ask for later.
 
 ## How these count
 
@@ -19,13 +19,13 @@ The four attainments each have their own page with a full rubric. The fifteen Co
 
 The rule that runs through most of them: **each CS task is direct practice for something larger.** The register names which one. Do them as rehearsals and the attainments stop being events.
 
-**CS3 to CS6 work differently, and you should know why.** Each is a practical task on one technical element, made in class on your own kit and posted to your Component 1 blog the same day. They are marked, but they are also *evidence*: under Cambridge's own Foundation Portfolio structure (research, practice, planning, production, reflection) these four posts are your practice stage. You are not doing an exercise about the portfolio. You are building the portfolio, and being marked on it as you go.
+**CS3 to CS6 work differently and you should know why.** Each is a practical task on one technical element, made in class on your own kit and posted to your Component 1 blog the same day. They are marked, but they are also *evidence*: under Cambridge's own Foundation Portfolio structure (research, practice, planning, production, reflection) these four posts are your practice stage. You are not doing an exercise about the portfolio. You are building the portfolio, and being marked on it as you go.
 
 ## Units 1 and 2: the foundation, then the four technical elements
 
 ### CS1 · Denotation-only paragraph
 
-**Fri 2026-09-04, in class, 25 minutes.** One paragraph about an unseen still, describing only what is literally there. Sentence frames are available. Marked on **AO2**, and the criterion is discipline: zero interpretive claims. Evaluative adjectives are the giveaway. It feeds A1, where the same describing-before-meaning move is worth marks under time.
+**Mon 2026-09-07, in class, 25 minutes.** One paragraph about an unseen still, describing only what is literally there. Sentence frames are available. Marked on **AO2**, and the criterion is discipline: zero interpretive claims. Evaluative adjectives are the giveaway. It feeds A1, where the same describing-before-meaning move is worth marks under time. You write the same paragraph once already on Fri 09-04, ungraded, as practice: the graded one is the Monday.
 
 ### CS2 · Annotated media text
 
@@ -57,7 +57,7 @@ Marked on **AO1 + AO3**: the continuity version actually holds, the break is the
 
 ### CS7 · The four-element paragraph
 
-**Thu 2026-10-08, in class, 15 minutes.** This is the first session after the break, four school days before A1. One analytical paragraph on an unseen extract, in exam register: technique named → correct terminology → meaning created → link to how a person, place or event is represented. At least three of the four elements must appear.
+**Thu 2026-10-08, in class, 15 minutes.** The first session after the break, four school days before A1. One analytical paragraph on an unseen extract, in exam register: technique named → correct terminology → meaning created → link to how a person, place or event is represented. At least three of the four elements must appear.
 
 Marked on **AO2**. This is A1 with the stakes off, two weeks early, and it is the single best predictor of how A1 will go.
 
