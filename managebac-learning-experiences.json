@@ -1,0 +1,277 @@
+{
+  "media": {
+    "_course": {
+      "feedback": "<p>Course Skills work is returned in the session after it is collected, annotated rather than scored where the register says so. Attainments come back <strong>within five working days</strong>.</p><p>The review protocol is the same every time and it is not optional: students self-assess against the actual mark scheme <strong>before</strong> any mark is discussed, and the target is that their own banding lands within one band of mine. They then log <strong>exactly one</strong> target in their own words, and that target is retrieved and checked at the next assessment.</p><p>Blog feedback runs continuously through the production: the mid-point checklist is the same instrument A2 is marked with, so students can see the standard before they are measured against it. CCR drafts are triaged by CS11 severity, so the weakest drafts get teacher time and the strongest get peer review.</p>",
+      "differentiation": "<p><strong>Every activity carries a Support and a Stretch version</strong>, planned per activity rather than per lesson.</p><p><strong>For English-as-a-second-language learners</strong>, which is most of this cohort: Language-focus glossaries for each unit; sentence frames for every analytical move, issued first and struck once fluency arrives; theorist sentence-starters for the harder writing at CS10 and the CCR. <strong>Every written move is rehearsed orally in pairs before it is written.</strong> The pair stage is not a warm-up and is not skipped.</p><p><strong>For students who need more support</strong>: the code checklist built at L02 is a permanent scaffold, allowed into A1. Shot lists and storyboards are provided part-completed where the technical load would otherwise crowd out the thinking.</p><p><strong>For high-ability students</strong>: the contested cards in Sort Wars and the strain log are the built-in extension, both asking students to argue where a model fails rather than to do more of the same. Stretch students take the harder case study and are expected to test theory against the extract rather than apply it.</p>"
+    },
+    "units": {
+      "1": {
+        "prior": "<p>Students arrive with no formal study of media. They are heavy media users and that use is the raw material of the first week: what they watched last night is evidence, not small talk.</p><p>Assume no shared vocabulary for camera, sound, mise-en-scène or editing, and no habit of separating what an image shows from what it means. Most of the cohort has studied in English before but not written analytically about moving images in it.</p>",
+        "expect": "<p>The four Key Concepts are named on day one and stay on the wall for two years. Students know from the first session that the course assesses <strong>describing before interpreting</strong>, and that the difference is markable.</p><p>CS1 is announced on day one and sits Mon 2026-09-07. The full register of every dated item is published on the course site from week one, so no assessment in this course is a surprise.</p>",
+        "strategies": "<p><strong>Sort Wars.</strong> A 24-card concept sort in teams of three, three rounds, visible scoreboard. Every placement is justified aloud and a placement that survives a challenge scores. At least four cards are deliberately contestable, and the contested cards are harvested rather than resolved.</p><p><strong>Live modelling.</strong> The denotation-only paragraph is written on the board, thinking aloud, with the evaluative words parked on a visible list rather than deleted.</p><p><strong>The Smuggler Hunt.</strong> Papers trade; each reader hunts for smuggled interpretation and circles it, one point per catch. A paragraph that survives earns immunity.</p>",
+        "acts": [
+          [
+            "Media-use log and room tally",
+            "Students log their own overnight media use; the room's totals go on the board and become the evidence for the audience concept."
+          ],
+          [
+            "Sort Wars: the 24 concept cards",
+            "Teams sort EN and ZH concept cards under the four Key Concepts, justify every placement aloud, and argue the contested cards."
+          ],
+          [
+            "Denotation drill on an unseen still",
+            "Students write a denotation-only paragraph from sentence frames, then hunt each other's work for smuggled connotation."
+          ]
+        ],
+        "approaches": [
+          "seminar",
+          "pair_work",
+          "pp_lecture"
+        ]
+      },
+      "2": {
+        "prior": "<p>From Unit 1: the four Key Concepts, the difference between denotation and connotation, and a first paragraph written under the discipline of description.</p><p>Students have handled cameras informally but have not shot to a brief, recorded audio deliberately, designed a frame, or cut a sequence. No prior editing software experience is assumed.</p>",
+        "expect": "<p>Each technical element ends in a made thing that is posted and dated on the Component 1 blog. Students know that these posts are not exercises about Component 1: they are Component 1, at its research and practice stage.</p><p>Six dated Course Skills tasks fall in this unit, one per element plus integration. The media area is committed on Wed 09-09 and the planning suite is locked on Wed 09-30, both announced in advance.</p>",
+        "strategies": "<p><strong>Equipment in hand, one element at a time.</strong> Camera, sound, mise-en-scène and editing get a lesson each, and each lesson ends with the student having produced the thing rather than described it.</p><p><strong>Analysis of what you made.</strong> Students analyse a technique after producing it themselves, which is faster and more precise under exam time than analysing it cold.</p><p><strong>Design systems, not single items.</strong> Frames are read as grids so that the pattern across many frames becomes visible rather than one striking image.</p>",
+        "acts": [
+          [
+            "Six-shot rebuild to a given storyboard",
+            "Shot in class on students' own kit, one line of stated intention per shot, posted and dated."
+          ],
+          [
+            "30-second soundscape",
+            "Built in class for the student's own opening, with diegetic and non-diegetic choices named."
+          ],
+          [
+            "Mise-en-scene design board",
+            "Six cells with a connotation stated per cell. This board is the group's C1 design document."
+          ],
+          [
+            "Continuity cut, held and broken",
+            "A three-shot sequence cut twice, once obeying continuity and once breaking it, with the effect described."
+          ]
+        ],
+        "approaches": [
+          "pair_work",
+          "pp_lecture",
+          "group_presentations"
+        ]
+      },
+      "3": {
+        "prior": "<p>From Unit 2: all four technical elements taught, produced and posted, plus the integration lesson on one unseen extract and the locked Component 1 plan.</p><p>Students have written a four-element paragraph (CS7) and sat a lexicon quiz (CS8). They have not yet worked under exam conditions on an unseen text, and they have not met genre or narrative theory.</p>",
+        "expect": "<p>A1 sits Wed 2026-10-14 in the Wednesday double and was announced Wed 09-30. Students know the extract is unseen on purpose, that everything the prompt names has been taught, and that they may bring their own code checklist and nothing else.</p><p>They also know the marking instrument: the official Cambridge Paper 2 Section A criteria, five criteria banded independently.</p>",
+        "strategies": "<p><strong>The four-pass viewing protocol.</strong> Watch once without writing, then one note pass per screening. Rehearsed at L08 so that the exam's own protocol is a habit rather than a decision made under pressure.</p><p><strong>PEEM paragraphs.</strong> Point, evidence, effect, meaning, drilled until every observation reaches an effect.</p><p><strong>Theory tested, not recited.</strong> Propp and Todorov are applied to texts that strain them, and the strain is logged. The strain log becomes the students' ready-made theory sentences.</p>",
+        "acts": [
+          [
+            "Timed viewing protocol rehearsal",
+            "A full four-pass screening with note-taking, run to the clock, four school days before A1."
+          ],
+          [
+            "Lexicon quiz and self-mark",
+            "Thirty terms across all four elements in twenty minutes, self-marked immediately so the gap is visible before the sit."
+          ],
+          [
+            "Blog audit against the mid-point checklist",
+            "Peers audit each other's Component 1 blog with the same checklist A2 is marked against."
+          ]
+        ],
+        "approaches": [
+          "seminar",
+          "pair_work",
+          "pp_lecture"
+        ]
+      },
+      "4": {
+        "prior": "<p>From Units 2 and 3: the technical elements, textual analysis under time, genre and narrative, and a Component 1 blog audited at its mid-point.</p><p>Students can describe representation informally. They have not yet studied it as something constructed, and they have not turned that analysis on their own production.</p>",
+        "expect": "<p>A2 opens the unit on Mon 2026-10-26 and is submitted as a URL in the first five minutes of class. Students know that backdated posts are visible and that a blog assembled the night before evidences the research strand at the bottom of the range whatever its content.</p><p>They also know the CCR is assessed twice, once for its own creative and technical skill and once for the evaluation inside it.</p>",
+        "strategies": "<p><strong>Screening under audience conditions.</strong> The rough cut is watched by an audience that is not the maker, and the stereotypes the maker did not notice are audited with production time still left to fix them.</p><p><strong>Gaze theory across decades.</strong> Tested on material from different periods rather than recited from one, so students see where the model holds and where it strains.</p><p><strong>Draft, review against the real criteria, redraft.</strong> The CCR is reviewed against Cambridge's own wording at CS11, then redrafted to reflect rather than describe.</p>",
+        "acts": [
+          [
+            "Rough-cut screening and stereotype audit",
+            "The product is screened to an audience and audited for representation the makers did not intend, while there is still time to reshoot."
+          ],
+          [
+            "Representation close-reading with a theorist embedded",
+            "A paragraph using theorist sentence-starters, marked on whether the theory does work in the sentence."
+          ],
+          [
+            "CCR draft review against the real C1 criteria",
+            "Drafts checked against Cambridge's own strand wording, producing the triage order for the surgery session."
+          ]
+        ],
+        "approaches": [
+          "seminar",
+          "pair_work",
+          "group_presentations",
+          "individual_presentations"
+        ]
+      },
+      "5": {
+        "prior": "<p>From Unit 4: representation as construction, gaze theory, and a Component 1 portfolio nearly complete with a reviewed CCR draft.</p><p>Students have studied media language and representation. Audience and industry are new: they have opinions about platforms and ownership but no framework and no case study of their own.</p>",
+        "expect": "<p>A3, the complete Component 1 portfolio, is submitted Fri 2026-11-27 and <strong>no edits are accepted after submission</strong>. The submission checklist is run at the close of the Wednesday session, not on Friday morning.</p><p>Students know A4 on Wed 2026-12-16 is the Forecast Grade anchor and the most authentic sitting of the semester.</p>",
+        "strategies": "<p><strong>Theory with a live case.</strong> Uses and gratifications, Morley, ownership, integration, synergy, convergence and regulation are taught against a case study the student builds and owns, which must be under five years old.</p><p><strong>One institution end to end.</strong> A single institution is followed through ownership, production, distribution and regulation so the vocabulary attaches to something concrete.</p><p><strong>Guided sit with the mark scheme open.</strong> Section A is practised once with the rubric visible before it is sat closed.</p>",
+        "acts": [
+          [
+            "Build your own case study",
+            "Each student assembles a case study under five years old, which carries A4, the End of Term paper and Paper 2."
+          ],
+          [
+            "Guided Section A with the mark scheme open",
+            "A full Section A answer written with the criteria visible, so the rubric is understood before it is applied blind."
+          ],
+          [
+            "Portfolio submission clinic",
+            "The checklist run in session: exports playable, CCR posted in its format, blog dated and labelled, every URL checked signed out."
+          ]
+        ],
+        "approaches": [
+          "seminar",
+          "pair_work",
+          "pp_lecture"
+        ]
+      },
+      "6": {
+        "prior": "<p>From Units 1 to 5: the whole of Component 1 submitted and marked, both media language and contexts taught, and two Section A attempts already banded on the Cambridge rubric with AO splits recorded.</p><p>Students know their own AO gap by name. What they have not done is sit a full two-hour paper or write Section B under time.</p>",
+        "expect": "<p>The End of Term paper sits in the school exam window, Mon 2027-01-11 to Mon 2027-01-18, with the slot set by the exam office. Students bring nothing: no notes and no case-study document.</p><p>They know the minute budget is theirs to rehearse, not to invent on the day, and that scripts return Wed 2027-01-20 with question-level AO breakdowns rather than a single total.</p>",
+        "strategies": "<p><strong>The coverage matrix.</strong> Every case study is crossed against the four Key Concepts to expose gaps, and the gaps set the break homework rather than a generic revision list.</p><p><strong>Rehearsal, not revision.</strong> The exam rehearsal practises format, timing and the mark scheme's AO economy, so the paper itself is routine.</p><p><strong>Peer marking then moderation.</strong> The timed Section B is peer-marked against the real rubric and then moderated, which teaches the criteria faster than being marked does.</p>",
+        "acts": [
+          [
+            "Coverage matrix audit",
+            "Case studies crossed against the four Key Concepts; the empty cells become the break homework."
+          ],
+          [
+            "Timed Section B, 45 minutes",
+            "The only timed Section B before the exam, peer-marked then moderated."
+          ],
+          [
+            "Minute-budget rehearsal",
+            "The two-hour paper walked through as a timing exercise so neither section eats the other."
+          ]
+        ],
+        "approaches": [
+          "seminar",
+          "pair_work",
+          "pp_lecture",
+          "individual_presentations"
+        ]
+      }
+    }
+  },
+  "a-level": {
+    "_course": {
+      "feedback": "<p>Every attainment in this course is a <strong>portfolio review</strong>, not a paper, so feedback is spoken and one to one on a rota, then written. Reviews come back the next working day (A1 Sat 10-10, A2 Tue 11-10, A3 Fri 12-11); A4 returns in W21 after the exam window.</p><p>The protocol is fixed. Students <strong>self-check against the Cambridge AO descriptors in writing before the review</strong>, using Cambridge's words rather than a paraphrase. After the review they write <strong>three specific actions</strong>, not three feelings, and those actions are retrieved and checked at the next attainment. The running target is that a student's own banding lands within one band of mine, and that gap is tracked across all four attainments.</p><p>Course Skills checks are formative and returned in the studio the same week, usually as a fixes list rather than a grade, because their purpose is to make the next milestone survivable.</p>",
+      "differentiation": "<p><strong>The studio is the differentiation.</strong> Students work at their own bench on their own theme, so the same session carries different problems, and my time goes where the work needs it rather than in a fixed rotation.</p><p><strong>For English-as-a-second-language learners</strong>: annotation is scaffolded with a written frame, and then the frame is struck. Students run the frame first, then a peer read strikes every sentence that only describes, so the annotation ends up in the student's own voice rather than the scaffold's. Cambridge assesses annotation inside AO3, so this is assessed writing, not a comprehension exercise.</p><p><strong>For students who need more support</strong>: media choice is narrowed to two options rather than open, the twelve experiments are prescribed rather than invented, and the composition plan is issued part-gridded so structure is not the barrier to a resolved outcome.</p><p><strong>For high-ability students</strong>: the rejected alternative is where extension lives. Stronger students push a second genuine direction far enough to be worth rejecting, and argue the rejection on paper. Scale trials at outcome size and self-set artist pairings that disagree with each other are the other two routes.</p>"
+    },
+    "units": {
+      "1": {
+        "prior": "<p>Students arrive from IGCSE or an equivalent with drawing and making experience, usually strong technically and unused to working from an intention.</p><p>They have not met the Cambridge Assessment Objectives, have not built a portfolio that is read in sequence, and have rarely chosen their own subject. Sketchbook habits vary widely and cannot be assumed.</p>",
+        "expect": "<p>The four AOs are introduced in the first session and they are the vocabulary of every review afterwards. Students see a top-band portfolio in week one so the standard is a thing they have looked at, not a description.</p><p>The theme is committed against set criteria rather than by preference, and the commitment is public. Every attainment date, and the announcement that precedes it, is published in the register from week one.</p>",
+        "strategies": "<p><strong>Choose against criteria, in the open.</strong> The theme menu is worked through with stated tests, and each student defends the choice out loud before it is fixed.</p><p><strong>Five instruments on one theme.</strong> The formal elements are worked directly on the chosen theme rather than as generic exercises, so the first portfolio page already argues something.</p><p><strong>Demonstration then bench work.</strong> Short front-of-room demonstrations, then extended studio time with one-to-one circulation.</p>",
+        "approaches": [
+          "pp_lecture",
+          "pair_work",
+          "individual_presentations"
+        ]
+      },
+      "2": {
+        "prior": "<p>From Unit 1: a committed theme, the AO vocabulary, and the formal elements worked on that theme.</p><p>Students can record what is in front of them. What is new is recording <strong>to an intention</strong>, sustaining a single study across days without restarting it, and writing reflection that names decisions.</p>",
+        "expect": "<p>A1 on Fri 2026-10-09 reviews work already made: nothing new is produced for it and nothing may be added during the review. Students know that work not on the table at the start is not assessed.</p><p>They self-check against AO1 in writing on Thu 10-08, and the criteria are the real Cambridge descriptors, issued in advance.</p>",
+        "strategies": "<p><strong>The sustained study as a spine.</strong> One long observed study is carried across the week, deliberately not restarted, so students experience duration as a skill.</p><p><strong>Primary before secondary.</strong> Recording from objects, places and people is required, because Cambridge's top bands ask for a variety of sources rather than a folder of screen images.</p><p><strong>Annotated rejection.</strong> Thumbnails are annotated with why an option was dropped, which is where AO1 reflection becomes visible.</p>",
+        "approaches": [
+          "pair_work",
+          "individual_presentations"
+        ]
+      },
+      "3": {
+        "prior": "<p>From Unit 2: an intention, recording pages, a sustained study, and A1 feedback converted into three written actions.</p><p>Students have worked mainly in familiar media. Systematic experimentation, evidence-based media selection, and using an artist to solve a problem rather than to illustrate one are all new.</p>",
+        "expect": "<p>Twelve experiments are prescribed, documented and dated. Students know that AO2 does not reward technical polish alone: experiments that never review or refine each other sit lower than rougher ones that visibly learn.</p><p>A2 on Mon 2026-11-09 carries the most marks of any milestone this semester because it is assessed on AO2 and AO3 together.</p>",
+        "strategies": "<p><strong>Two artists in tension.</strong> Artists are chosen in pairs that disagree, and students name the tension rather than the similarity.</p><p><strong>The bridge piece.</strong> One made object that carries something from the artist study into the student's own work. It is the load-bearing evidence that the study changed the work rather than sitting beside it.</p><p><strong>Scale trial at outcome size.</strong> Decisions about scale are tested physically, not assumed.</p>",
+        "approaches": [
+          "pp_lecture",
+          "pair_work",
+          "individual_presentations",
+          "seminar"
+        ]
+      },
+      "4": {
+        "prior": "<p>From Unit 3: twelve experiments, a justified media selection, two artist studies and the bridge piece, plus a direction defended out loud at A2.</p><p>Students can generate options. Converging on one, and rejecting a real alternative on paper rather than abandoning it quietly, is the new demand.</p>",
+        "expect": "<p>Two genuinely different compositions are required, not one composition twice. Students know the rejected alternative is worth more marks, annotated, than a third variation they kept.</p><p>A3 on Thu 2026-12-10 is the last review before the build, so its feedback is the only attainment feedback they can still spend on the outcome itself.</p>",
+        "strategies": "<p><strong>Critique against the stated intention.</strong> Both compositions are critiqued against what the student said they were trying to do, not against taste.</p><p><strong>Targeted tests.</strong> Tests answer only what the critique left open, which keeps development converging rather than accumulating options.</p><p><strong>Palette argued from meaning.</strong> Materials and palette are swatched, tested on the real support, and justified by what they carry.</p>",
+        "approaches": [
+          "seminar",
+          "pair_work",
+          "individual_presentations"
+        ]
+      },
+      "5": {
+        "prior": "<p>From Unit 4: two compositions, targeted tests, a written evaluation, and a final composition plan amended after A3.</p><p>Students have never built a resolved outcome in a protected continuous run, photographed work to examiner standard, or sequenced a whole portfolio for a stranger to read.</p>",
+        "expect": "<p>The build run is protected: three build days, a mid-production review, then a two-day resolve run. Submission week has a job per day, published in advance.</p><p><strong>No edits after submission on Thu 2027-01-07.</strong> Work not in the portfolio that day is not in the portfolio. All work is submitted digitally, with typed annotation and no hyperlinks or QR codes, as Cambridge requires.</p>",
+        "strategies": "<p><strong>Execution, not invention.</strong> Everything A3 asked for exists so that the build run is making rather than deciding.</p><p><strong>Photography as craft.</strong> Rig, light, full shot and detail passes, then crop, correct, name and file to a template. The photograph is the work as far as submission is concerned.</p><p><strong>Sequence, then cut, with a log.</strong> A peer walks the run order and reports where a stranger stumbles; every cut is logged.</p>",
+        "approaches": [
+          "pair_work",
+          "individual_presentations"
+        ]
+      }
+    }
+  },
+  "art-app": {
+    "_course": {
+      "feedback": "<p>The review protocol is the same after every assessment, and it runs before any mark is discussed: <strong>the criteria in front of you, ten minutes of silence</strong> with your own work, <strong>one named strength</strong>, then <strong>one move</strong>, the single next thing. The silence is the part that does the work and it is not shortened.</p><p>Marking returns within five working days, except A2, which comes back inside a week because it carries the mid-term grades, and A4, which is reviewed in lesson on day five. That in-lesson review is the only one of the semester and it works because the constellation is still on the wall.</p><p>Criteria sheets are issued <strong>two weeks ahead</strong>, not on the day, so students can plan against them rather than check against them afterwards.</p>",
+      "differentiation": "<p><strong>Write before speaking.</strong> The critique and describe rounds are adapted for an ESL room: students write their observation before they say it. This is the single most effective adaptation in the course, because it removes the speed advantage of first-language speakers without lowering the demand.</p><p><strong>For English-as-a-second-language learners</strong>: quick-definition slides for each new term, glossaries built as we go, and readings introduced with real scaffolding before the excerpt rather than handed over cold. Sentence frames support the written justification at A1 and are withdrawn as the writing steadies.</p><p><strong>For students who need more support</strong>: the print pool is deliberately over-supplied so selection is a genuine choice rather than a scramble; mini-rubrics break the larger criteria into checkable parts; and boards are pinned rather than glued so a decision is never final.</p><p><strong>For high-ability students</strong>: the extension is the surprising adjacency that still survives scrutiny, and holding a position under real disagreement at the retrospective. Stronger students are pushed to include material that resists their reading rather than material that confirms it.</p>"
+    },
+    "_note": "Loaded verbatim into both Art Appreciation sections: CAIE class 11501190 (units 868738-868742) and HS DDP class 11503610 (units 868743-868747).",
+    "units": {
+      "1": {
+        "prior": "<p>Students arrive having looked at art mostly as illustration: images that show a subject, discussed for what they depict.</p><p>No prior art history is assumed, and no chronology is required, because the course does not run chronologically. What students do bring is a working ability to describe what they see, which the first unit converts into evidence.</p>",
+        "expect": "<p>The method is named on day one: the <strong>atlas</strong>, after the art historian Aby Warburg. It is thematic and non-linear, and it groups images by resemblance rather than by date. Everything after this is built on it.</p><p>The standard for the first assessment is stated once and is worth memorising: <strong>a board without reasons is a mood board</strong>. Criteria for A1 are issued two weeks before it, and the grade is half collective and half individual.</p>",
+        "strategies": "<p><strong>Build on the wall, in groups.</strong> Images are pinned rather than glued, so an arrangement stays changeable until the argument is right. Adjacency is the argument.</p><p><strong>The transferability test.</strong> For every pair, students ask whether the reason they gave could be moved to a different pair. If it could, the pairing is decorative rather than argued.</p><p><strong>Describe by function.</strong> Objects are described by what they do, what they are for and who used them, rather than by what they resemble.</p>",
+        "approaches": [
+          "seminar",
+          "pair_work",
+          "group_presentations"
+        ]
+      },
+      "2": {
+        "prior": "<p>From Unit 1: the atlas method, adjacency as argument, and description by function rather than resemblance. Students have built and defended one board.</p><p>They can read a single image. Reading a <strong>sequence</strong> of images, and saying where a still picture puts time, is new. No prior knowledge of classical myth is assumed, and that assumption is itself part of the unit's subject.</p>",
+        "expect": "<p>Four terms are taught precisely and students are expected to use them precisely: <strong>narrative</strong>, <strong>myth</strong>, <strong>allegory</strong> and the <strong>cycle</strong>. Myth is defined as shared shorthand that needs an audience who already knows the story, which is why an unfamiliar myth is a fact about the audience rather than a failure of the picture.</p><p>A2 on Tue 2026-10-13 is an in-class essay, <strong>closed book</strong>. Its trap is stated in advance: a list is not a comparison, and reception is not evidence about a painting.</p>",
+        "strategies": "<p><strong>Vocabulary first, then a made thing.</strong> The terms are built in the first half, then tested by making: a ten-frame storyboard that has to carry its story on framing alone, with no captions and no dialogue.</p><p><strong>One difference, followed.</strong> The Titian and Manet comparison is taught as choosing the most productive difference and following it, rather than inventorying every difference.</p><p><strong>Reception read separately.</strong> Students read on the reception of <em>Olympia</em> as homework precisely so they can tell the noise around a painting from evidence inside it.</p>",
+        "approaches": [
+          "seminar",
+          "pair_work",
+          "pp_lecture"
+        ]
+      },
+      "3": {
+        "prior": "<p>From Units 1 and 2: the atlas method, adjacency reasoning, the narrative vocabulary, and one closed-book comparative essay already written and marked.</p><p>Students can compare two pictures. What is new is a subject where they arrive already holding moral positions, and the discipline of arguing those positions <strong>from</strong> the pictures rather than bringing them to the pictures.</p>",
+        "expect": "<p>This is the longest unit of the semester and its assessment, A3 on Tue 2026-11-17, is an in-class essay.</p><p>The demand is stated at the start: the ethics has to be <strong>found in the picture</strong>, in what it selected, arranged, lit and left out. An essay that reaches the right ethical position without going through the pictures has not done the work. Absence counts as evidence: who is not at the table is a decision the picture made.</p>",
+        "strategies": "<p><strong>Open with film.</strong> The unit starts with Ang Lee's <em>Eat Drink Man Woman</em>, because the table is easier to see when it is moving, and the still lifes are read afterwards against it.</p><p><strong>The same painting twice.</strong> Heda is studied on two consecutive days, which is the clearest demonstration in the course that looking longer produces different evidence rather than more adjectives.</p><p><strong>Walk the scroll.</strong> The Qingming scroll is printed and walked along its length, so duration and sequence are experienced physically rather than described.</p>",
+        "approaches": [
+          "seminar",
+          "pair_work",
+          "pp_lecture"
+        ]
+      },
+      "4": {
+        "prior": "<p>Three units of looking, two marked essays, and a working vocabulary for narrative, ethics and the frame. Students have been reading pictures made to be looked at slowly.</p><p>What is new is the volume and the speed of the modern image, and pictures made to be looked at once. The habits built so far are the tools for that, not obstacles to it.</p>",
+        "expect": "<p>The unit's claim is stated on day one: <strong>photography did not just record modern life, it changed what modern life looked like</strong>. Students are expected to argue with that claim rather than repeat it.</p><p>A4, the semester's largest piece, is the constellation board, built across two weeks and presented on Tue 2026-12-15. Eight to twelve images, at least three centuries and two continents, and a written argument the board can actually carry.</p>",
+        "strategies": "<p><strong>Test the medium against itself.</strong> Painting and photography are put side by side on the same subject so students can name what each one does rather than rank them.</p><p><strong>Build in public.</strong> The constellation is assembled on the wall over two weeks, pinned rather than glued, so revision is visible and a decision is never final.</p><p><strong>Read the caption as evidence.</strong> Students work with cropping and captioning on the same photograph, which is the fastest way to show that framing is an argument.</p>",
+        "approaches": [
+          "seminar",
+          "pair_work",
+          "pp_lecture",
+          "individual_presentations"
+        ]
+      },
+      "5": {
+        "prior": "<p>A full semester: four units, four attainments, and a constellation board still on the wall from A4. Every student has written at least two comparative essays and defended at least two boards.</p><p>Nothing new is taught here. What is new is the demand to look back across the whole semester and say what changed in how you look.</p>",
+        "expect": "<p>The retrospective is not a summary of what we covered. Students revisit the first images of the semester with the vocabulary they now have, and the measure of the unit is <strong>the difference between the two readings</strong>.</p><p>Disagreement is expected and it is the point. Students are expected to hold a position under real pressure and to change it when the evidence says so, which is a different skill from having a position at all.</p>",
+        "strategies": "<p><strong>Return to the first images.</strong> The unit reopens Unit 1's material deliberately, so the semester's gain is demonstrated rather than asserted.</p><p><strong>Seminar, not lecture.</strong> The teaching load drops here on purpose. Students carry the talking, and the room's job is to make disagreement productive rather than polite.</p><p><strong>Look forward.</strong> The last sessions point at Semester 2, so the vocabulary built this term is handed over as working equipment rather than closed off.</p>",
+        "approaches": [
+          "seminar",
+          "pair_work",
+          "individual_presentations"
+        ]
+      }
+    }
+  }
+}
