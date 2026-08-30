@@ -1673,7 +1673,15 @@ const reframeStats = await reframeAll(
     // Assignment briefs are written for students directly, in Doğan's voice
     // (PAL rewritten 2026-08-29). Reframing them would flatten that voice, so
     // they publish exactly as written in the vault.
-    skip: [/^classes\/pre-a-level-art-design\/assessments\/pal-s1-(a\d|cs\d|sb\d|hw\d|eot)-/],
+    // Assignment briefs are already written for students, in Doğan's voice, with
+    // the objectives / description / guidelines / rubric shape he asked for.
+    // Reframing them rewrites that voice back out, so they publish verbatim.
+    skip: [
+      /^classes\/pre-a-level-art-design\/assessments\/pal-s1-(a\d|cs\d|sb\d|hw\d|eot)-/,
+      /^classes\/art-appreciation\/assessments\/art-appreciation-s1-cs\d-/,
+      /^classes\/media-studies\/assessments\/9607-s1-(cs\d+|hw\d)-/,
+      /^classes\/a-level-art-design\/assessments\/9479-s1-cs\d+-/,
+    ],
     disabled: process.env.REFRAME === "off",
   },
 )

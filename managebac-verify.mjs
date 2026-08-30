@@ -36,8 +36,11 @@ const UNITS = {
 
 const out = {}
 for (const k of Object.keys(CLASSES)) {
-  const src = k === "art-app-hs" ? "art-app" : k
-  const m = JSON.parse(await readFile(`managebac-packs/${src}/manifest.json`, "utf8"))
+  // Each pack has its own manifest. art-app-hs is NOT art-app with a different
+  // class id: it publishes AP names (Major 1, Minor 4, Final) and routes two of
+  // the boards to a different category, so reading art-app here would compare
+  // the AP class against A-Level titles and report every task as drifted.
+  const m = JSON.parse(await readFile(`managebac-packs/${k}/manifest.json`, "utf8"))
   const objs = m.objects ?? m
   out[k] = { classId: CLASSES[k], unitIds: UNITS[k], lessons: {}, units: {}, tasks: [] }
   for (const l of objs.filter((o) => o.kind === "lesson")) {

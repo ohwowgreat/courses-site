@@ -116,7 +116,8 @@ const LOAD = {
     // Boards are Performance Tasks, essays are Assessments. Not derivable —
     // it is a classification of the work, so it is stated.
     categoryByCode: { A1: "Others (Major)", A4: "Others (Major)" },
-    includeLB: true,
+    includeLB: true, // the LB rows are read, so the Minors number by date across the whole band
+    emitLB: false, // but not published: the postings are Doğan's to create
     spellOutCodes: true,
   },
   pal: {
@@ -665,7 +666,16 @@ async function buildCourse(key) {
     }
   }
 
-  for (const t of tasks.sort((a, b) => (a.due < b.due ? -1 : 1))) {
+  // The AP Minors band numbers by date across every posting, the Learning
+  // Behaviour ones included. Doğan writes those himself (his instruction, held
+  // to on 2026-08-29), so they are numbered here and not published: the gaps at
+  // Minor 2, 3, 6, 7, 8, 10, 11, 13 and 14 are the slots his postings take, and
+  // the band stays in date order once he fills them. This also keeps the two
+  // Art Appreciation classes carrying the same number of my assignments.
+  const emitted =
+    cfg.emitLB === false ? tasks.filter((t) => !t.code.startsWith("LB")) : tasks
+
+  for (const t of emitted.sort((a, b) => (a.due < b.due ? -1 : 1))) {
     let html = null
     let title = null
     let siteLink = `${SITE}/${t.href}`
@@ -781,6 +791,29 @@ async function buildCourse(key) {
   // Unit objects: shell fields + full composed content (unit body, then each
   // lesson's full body under its own heading).
   const decks = await courseDecks(course)
+  // Each task links to the lesson it is set or sat in, so ManageBac's "Lesson
+  // Experience" field points at the session rather than being left blank. A task
+  // belongs to the lesson whose own session days contain its due date; where a
+  // due date falls outside every lesson (a break deadline, an exam-window sit)
+  // it takes the nearest lesson at or before it, which is the session the class
+  // was last told about it.
+  const byDate = new Map()
+  for (const l of lessonObjects) for (const d of l.sessionDates) byDate.set(d, l)
+  const lessonDays = [...byDate.keys()].sort()
+  for (const t of taskObjects) {
+    if (!t.due) continue
+    let hit = byDate.get(t.due)
+    if (!hit) {
+      const prior = lessonDays.filter((d) => d <= t.due).pop()
+      hit = prior ? byDate.get(prior) : null
+    }
+    if (hit) {
+      t.lessonRef = hit.num
+      t.lessonTitle = hit.title
+      t.lessonExact = byDate.has(t.due)
+    } else notes.push(`${t.code} has no lesson to attach to (due ${t.due})`)
+  }
+
   const unitObjects = []
   const streamObjects = []
   for (const [num, u] of [...units.entries()].sort((a, b) => a[0] - b[0])) {

@@ -167,7 +167,7 @@
       "classId": 11501114
     },
     "media/unit/1": {
-      "hash": "765abadc58534321",
+      "hash": "a8612e4154e16eed",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11501162,
@@ -211,7 +211,7 @@
     "media/task/CS1": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508216",
       "mbId": 27508216,
-      "hash": "57de8984fc09eb3c",
+      "hash": "96871ba0f623b8c4",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -221,7 +221,7 @@
     "media/task/CS2": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508217",
       "mbId": 27508217,
-      "hash": "4a8283815c5bde23",
+      "hash": "fcfebf85fb078580",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -231,7 +231,7 @@
     "media/task/CS3": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508218",
       "mbId": 27508218,
-      "hash": "4c1469fa06d4a5be",
+      "hash": "dbdfaefd1e4d5ae2",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -241,7 +241,7 @@
     "media/task/CS4": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508219",
       "mbId": 27508219,
-      "hash": "f5a1171e052eb52f",
+      "hash": "54df16007a136934",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -251,7 +251,7 @@
     "media/task/CS5": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508220",
       "mbId": 27508220,
-      "hash": "f49d1c9409c6935d",
+      "hash": "ed6a0b673b5753e6",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -261,7 +261,7 @@
     "media/task/CS6": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508221",
       "mbId": 27508221,
-      "hash": "39cece3260352c2e",
+      "hash": "801fd96e11bb0844",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -271,7 +271,7 @@
     "media/task/CS7": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508222",
       "mbId": 27508222,
-      "hash": "6f14d5b8e63cf247",
+      "hash": "c2b1d898ee5e76cf",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -281,7 +281,7 @@
     "media/task/HW1": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508223",
       "mbId": 27508223,
-      "hash": "fb176c7690e42bf1",
+      "hash": "98a254eb9e081aa6",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -291,7 +291,7 @@
     "media/task/CS8": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508224",
       "mbId": 27508224,
-      "hash": "3b62c431c7adab0c",
+      "hash": "72cee9cf12226bbe",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -311,7 +311,7 @@
     "media/task/CS9": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508225",
       "mbId": 27508225,
-      "hash": "83ca624349960e0b",
+      "hash": "254e34b162cf4e73",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -331,7 +331,7 @@
     "media/task/CS10": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508226",
       "mbId": 27508226,
-      "hash": "7da43204117876ff",
+      "hash": "abd8c397af94b508",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -341,7 +341,7 @@
     "media/task/CS11": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508227",
       "mbId": 27508227,
-      "hash": "7f29b1f04e10f299",
+      "hash": "80ea8108cbe6345d",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -361,7 +361,7 @@
     "media/task/CS12": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508228",
       "mbId": 27508228,
-      "hash": "c9ce5f79592e7896",
+      "hash": "bee67a66fc64c2ce",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -381,7 +381,7 @@
     "media/task/HW2": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508229",
       "mbId": 27508229,
-      "hash": "44bda7093d01274e",
+      "hash": "22144d087713dbf7",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -391,7 +391,7 @@
     "media/task/CS13": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508230",
       "mbId": 27508230,
-      "hash": "8ce3c729f52d68bb",
+      "hash": "6c7223e7093a30ff",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -446,7 +446,7 @@
     "a-level/task/CS1": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508236",
       "mbId": 27508236,
-      "hash": "096038fd229732ff",
+      "hash": "6820e58e9cdf23b2",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -456,7 +456,7 @@
     "a-level/task/CS2": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508237",
       "mbId": 27508237,
-      "hash": "bc9a7d8d0d0abb28",
+      "hash": "132c30644a51db9c",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -466,7 +466,7 @@
     "a-level/task/CS3": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508238",
       "mbId": 27508238,
-      "hash": "32338def0ddaf6b5",
+      "hash": "0cf6e6ad20b2ebb5",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -476,7 +476,7 @@
     "a-level/task/CS4": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508239",
       "mbId": 27508239,
-      "hash": "49ae9c1702291581",
+      "hash": "29fd437e0d0e65ec",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -496,7 +496,7 @@
     "a-level/task/CS5": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508240",
       "mbId": 27508240,
-      "hash": "5854c88095657bea",
+      "hash": "15e74f8818594ca9",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -506,7 +506,7 @@
     "a-level/task/CS6": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508241",
       "mbId": 27508241,
-      "hash": "2735d97ec2ec14b5",
+      "hash": "91c0ada141c17c7f",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -516,7 +516,7 @@
     "a-level/task/CS7": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508242",
       "mbId": 27508242,
-      "hash": "9155eeabf69ad1a5",
+      "hash": "185b0cd08f641448",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -536,7 +536,7 @@
     "a-level/task/CS8": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508243",
       "mbId": 27508243,
-      "hash": "f1dbb4205c2389e7",
+      "hash": "9dfa7d3eb095716c",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -546,7 +546,7 @@
     "a-level/task/CS9": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508244",
       "mbId": 27508244,
-      "hash": "13f1b158dfede288",
+      "hash": "49116653b831421b",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -566,7 +566,7 @@
     "a-level/task/CS10": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508245",
       "mbId": 27508245,
-      "hash": "2167fcfee893844b",
+      "hash": "3c027efbe3d02741",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -621,7 +621,7 @@
     "art-app/task/CS1": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501190/core_tasks/27508251",
       "mbId": 27508251,
-      "hash": "35e70002044cc1a7",
+      "hash": "48cf0865fb54e6c1",
       "loadedAt": "2026-08-29T16:40:00",
       "stage": "created",
       "kind": "task",
@@ -631,7 +631,7 @@
     "art-app/task/A1": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501190/core_tasks/27508256",
       "mbId": 27508256,
-      "hash": "90bce54c6c08ada6",
+      "hash": "6fe70e399e33a09f",
       "loadedAt": "2026-08-29T16:40:00",
       "stage": "created",
       "kind": "task",
@@ -641,7 +641,7 @@
     "art-app/task/CS2": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501190/core_tasks/27508252",
       "mbId": 27508252,
-      "hash": "792e26b0c4d87005",
+      "hash": "82f8188239515815",
       "loadedAt": "2026-08-29T16:40:00",
       "stage": "created",
       "kind": "task",
@@ -651,7 +651,7 @@
     "art-app/task/CS3": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501190/core_tasks/27508253",
       "mbId": 27508253,
-      "hash": "c547ee6f8c4e59a4",
+      "hash": "9df755a7ff4fc682",
       "loadedAt": "2026-08-29T16:40:00",
       "stage": "created",
       "kind": "task",
@@ -661,7 +661,7 @@
     "art-app/task/A2": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501190/core_tasks/27508258",
       "mbId": 27508258,
-      "hash": "814a9f4c1487839a",
+      "hash": "e359bb3644fca719",
       "loadedAt": "2026-08-29T16:40:00",
       "stage": "created",
       "kind": "task",
@@ -671,7 +671,7 @@
     "art-app/task/CS4": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501190/core_tasks/27508254",
       "mbId": 27508254,
-      "hash": "92b6807ae1861321",
+      "hash": "c4c150105bd64cce",
       "loadedAt": "2026-08-29T16:40:00",
       "stage": "created",
       "kind": "task",
@@ -681,7 +681,7 @@
     "art-app/task/A3": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501190/core_tasks/27508259",
       "mbId": 27508259,
-      "hash": "97c86f6c8e8b39b7",
+      "hash": "067a634d34be951a",
       "loadedAt": "2026-08-29T16:40:00",
       "stage": "created",
       "kind": "task",
@@ -691,7 +691,7 @@
     "art-app/task/CS5": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501190/core_tasks/27508255",
       "mbId": 27508255,
-      "hash": "2fd5b012e4f6e877",
+      "hash": "e052ba160ea5ea29",
       "loadedAt": "2026-08-29T16:40:00",
       "stage": "created",
       "kind": "task",
@@ -701,7 +701,7 @@
     "art-app/task/A4": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501190/core_tasks/27508260",
       "mbId": 27508260,
-      "hash": "fc18e127b898ff80",
+      "hash": "b7854d678e64d790",
       "loadedAt": "2026-08-29T16:40:00",
       "stage": "created",
       "kind": "task",
@@ -711,7 +711,7 @@
     "art-app/task/EoT": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501190/core_tasks/27508261",
       "mbId": 27508261,
-      "hash": "f7fcdc2e5dcae0a8",
+      "hash": "1b35339976d1ef26",
       "loadedAt": "2026-08-29T16:40:00",
       "stage": "created",
       "kind": "task",
@@ -756,47 +756,51 @@
     "art-app-hs/task/CS1": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11503610/core_tasks/27508265",
       "mbId": 27508265,
-      "hash": "35e70002044cc1a7",
+      "hash": "e5db5ff512e7ad8f",
       "loadedAt": "2026-08-29T17:30:00",
       "stage": "created",
       "kind": "task",
       "verified": "2026-08-29",
-      "classId": 11503610
+      "classId": 11503610,
+      "apFix": "retitled and recategorised to the AP scheme"
     },
     "art-app-hs/task/A1": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11503610/core_tasks/27508271",
       "mbId": 27508271,
-      "hash": "90bce54c6c08ada6",
+      "hash": "9e7b778d77eef86b",
       "loadedAt": "2026-08-29T17:30:00",
       "stage": "created",
       "kind": "task",
       "verified": "2026-08-29",
-      "classId": 11503610
+      "classId": 11503610,
+      "apFix": "retitled and recategorised to the AP scheme"
     },
     "art-app-hs/task/CS2": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11503610/core_tasks/27508266",
       "mbId": 27508266,
-      "hash": "792e26b0c4d87005",
+      "hash": "2fb2ff7abce9b6f3",
       "loadedAt": "2026-08-29T17:30:00",
       "stage": "created",
       "kind": "task",
       "verified": "2026-08-29",
-      "classId": 11503610
+      "classId": 11503610,
+      "apFix": "retitled and recategorised to the AP scheme"
     },
     "art-app-hs/task/CS3": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11503610/core_tasks/27508267",
       "mbId": 27508267,
-      "hash": "c547ee6f8c4e59a4",
+      "hash": "d9d9d734c3dbf21f",
       "loadedAt": "2026-08-29T17:30:00",
       "stage": "created",
       "kind": "task",
       "verified": "2026-08-29",
-      "classId": 11503610
+      "classId": 11503610,
+      "apFix": "retitled and recategorised to the AP scheme"
     },
     "art-app-hs/task/A2": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11503610/core_tasks/27508272",
       "mbId": 27508272,
-      "hash": "814a9f4c1487839a",
+      "hash": "65c10965bf3ab5d6",
       "loadedAt": "2026-08-29T17:30:00",
       "stage": "created",
       "kind": "task",
@@ -806,7 +810,7 @@
     "art-app-hs/task/CS4": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11503610/core_tasks/27508268",
       "mbId": 27508268,
-      "hash": "92b6807ae1861321",
+      "hash": "388b9d922fdcfbc6",
       "loadedAt": "2026-08-29T17:30:00",
       "stage": "created",
       "kind": "task",
@@ -816,7 +820,7 @@
     "art-app-hs/task/A3": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11503610/core_tasks/27508273",
       "mbId": 27508273,
-      "hash": "97c86f6c8e8b39b7",
+      "hash": "e6e5217cf57aa47f",
       "loadedAt": "2026-08-29T17:30:00",
       "stage": "created",
       "kind": "task",
@@ -826,7 +830,7 @@
     "art-app-hs/task/CS5": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11503610/core_tasks/27508269",
       "mbId": 27508269,
-      "hash": "2fd5b012e4f6e877",
+      "hash": "a367de1709d3cdff",
       "loadedAt": "2026-08-29T17:30:00",
       "stage": "created",
       "kind": "task",
@@ -836,7 +840,7 @@
     "art-app-hs/task/A4": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11503610/core_tasks/27508274",
       "mbId": 27508274,
-      "hash": "fc18e127b898ff80",
+      "hash": "6f01cdf7577540bd",
       "loadedAt": "2026-08-29T17:30:00",
       "stage": "created",
       "kind": "task",
@@ -846,7 +850,7 @@
     "art-app-hs/task/EoT": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11503610/core_tasks/27508275",
       "mbId": 27508275,
-      "hash": "f7fcdc2e5dcae0a8",
+      "hash": "896c6bc1f9847091",
       "loadedAt": "2026-08-29T17:30:00",
       "stage": "created",
       "kind": "task",
@@ -854,14 +858,14 @@
       "classId": 11503610
     },
     "media/lesson/1": {
-      "hash": "a8179243b29962a7",
+      "hash": "4048d04b7b978af4",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/lesson/2": {
-      "hash": "b272094ef9d7a91a",
+      "hash": "e8c6e4f49a1b80e5",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501162,
@@ -1190,7 +1194,7 @@
       "verified": "2026-08-29"
     },
     "art-app/lesson/15": {
-      "hash": "9abec75147e44390",
+      "hash": "8735370ff9469c09",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501190,
@@ -1295,7 +1299,7 @@
       "verified": "2026-08-29"
     },
     "art-app-hs/lesson/15": {
-      "hash": "9abec75147e44390",
+      "hash": "8735370ff9469c09",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11503610,
@@ -1425,175 +1429,200 @@
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501162,
-      "files": 1
+      "files": 1,
+      "verified": "2026-08-29"
     },
     "media/stream/unit-2": {
       "hash": "2f56cad0bf5a8ae3",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501162,
-      "files": 7
+      "files": 7,
+      "verified": "2026-08-29"
     },
     "media/stream/unit-3": {
       "hash": "e5057b1719afb65b",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501162,
-      "files": 3
+      "files": 3,
+      "verified": "2026-08-29"
     },
     "media/stream/unit-4": {
       "hash": "56f1a729b77fcd12",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501162,
-      "files": 3
+      "files": 3,
+      "verified": "2026-08-29"
     },
     "media/stream/unit-5": {
       "hash": "5a80ef7d8a34896d",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501162,
-      "files": 3
+      "files": 3,
+      "verified": "2026-08-29"
     },
     "media/stream/unit-6": {
       "hash": "d6a201614b1b94e2",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501162,
-      "files": 3
+      "files": 3,
+      "verified": "2026-08-29"
     },
     "a-level/stream/unit-1": {
       "hash": "f2ec51db1e699bb6",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501153,
-      "files": 2
+      "files": 2,
+      "verified": "2026-08-29"
     },
     "a-level/stream/unit-2": {
       "hash": "93f9bf9d3043428f",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501153,
-      "files": 1
+      "files": 1,
+      "verified": "2026-08-29"
     },
     "a-level/stream/unit-3": {
       "hash": "1bd3cc1e9462f93f",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501153,
-      "files": 1
+      "files": 1,
+      "verified": "2026-08-29"
     },
     "a-level/stream/unit-4": {
       "hash": "81797d3ff8167f88",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501153,
-      "files": 1
+      "files": 1,
+      "verified": "2026-08-29"
     },
     "a-level/stream/unit-5": {
       "hash": "14f0f4958b3f2e0d",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501153,
-      "files": 1
+      "files": 1,
+      "verified": "2026-08-29"
     },
     "art-app/stream/unit-1": {
       "hash": "43d220b1d2cd3784",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501190,
-      "files": 3
+      "files": 3,
+      "verified": "2026-08-29"
     },
     "art-app/stream/unit-2": {
       "hash": "224e209cd8924568",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501190,
-      "files": 2
+      "files": 2,
+      "verified": "2026-08-29"
     },
     "art-app/stream/unit-3": {
       "hash": "27d41da544ec9cef",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501190,
-      "files": 4
+      "files": 4,
+      "verified": "2026-08-29"
     },
     "art-app/stream/unit-3-readings": {
       "hash": "e403d5acb1998ac1",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501190,
-      "files": 9
+      "files": 9,
+      "verified": "2026-08-29"
     },
     "art-app/stream/unit-4": {
       "hash": "95096f71bdaa6641",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501190,
-      "files": 4
+      "files": 4,
+      "verified": "2026-08-29"
     },
     "art-app/stream/unit-5": {
       "hash": "d7d24b400613d4a8",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501190,
-      "files": 2
+      "files": 2,
+      "verified": "2026-08-29"
     },
     "art-app-hs/stream/unit-1": {
       "hash": "43d220b1d2cd3784",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11503610,
-      "files": 3
+      "files": 3,
+      "verified": "2026-08-29"
     },
     "art-app-hs/stream/unit-2": {
       "hash": "224e209cd8924568",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11503610,
-      "files": 2
+      "files": 2,
+      "verified": "2026-08-29"
     },
     "art-app-hs/stream/unit-3": {
       "hash": "27d41da544ec9cef",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11503610,
-      "files": 4
+      "files": 4,
+      "verified": "2026-08-29"
     },
     "art-app-hs/stream/unit-3-readings": {
       "hash": "e403d5acb1998ac1",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11503610,
-      "files": 9
+      "files": 9,
+      "verified": "2026-08-29"
     },
     "art-app-hs/stream/unit-4": {
       "hash": "95096f71bdaa6641",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11503610,
-      "files": 4
+      "files": 4,
+      "verified": "2026-08-29"
     },
     "art-app-hs/stream/unit-5": {
       "hash": "d7d24b400613d4a8",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11503610,
-      "files": 2
+      "files": 2,
+      "verified": "2026-08-29"
     },
     "pal/stream/unit-1": {
       "hash": "c84f16760e492d15",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501114,
-      "files": 4
+      "files": 4,
+      "verified": "2026-08-29"
     },
     "pal/stream/unit-2": {
       "hash": "794366e8f1eed910",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501114,
-      "files": 4
+      "files": 4,
+      "verified": "2026-08-29"
     },
     "pal/stream/unit-3": {
       "hash": "a1b679075a7ab19e",
@@ -1601,14 +1630,16 @@
       "loaded": "2026-08-29",
       "classId": 11501114,
       "files": 2,
-      "incomplete": "collage-presentation.pdf (25 MB) not uploaded: exceeds the 10 MB per-call limit of the browser upload bridge"
+      "incomplete": "collage-presentation.pdf (25 MB) not uploaded: exceeds the 10 MB per-call limit of the browser upload bridge",
+      "verified": "2026-08-29"
     },
     "pal/stream/unit-4": {
       "hash": "e1f519c20af1e4a5",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501114,
-      "files": 1
+      "files": 1,
+      "verified": "2026-08-29"
     }
   },
   "_notes": {
@@ -1620,6 +1651,7 @@
     "art-app-hs-category-label": "ManageBac's own label in this class is 'FInal Exam' (capital I), a typo on their side. Tasks are set by category id, so the mapping is correct regardless.",
     "2026-08-29": "Lessons loaded as first-class objects (81 across five classes) and every unit description replaced with the unit overview plus its lesson list. Lesson and unit URLs are not recorded per object: they are reachable from the class units index, and the loader addresses lessons by their L-code within a unit.",
     "2026-08-29-verify": "Full sync check against the platform: every lesson and unit body read back and compared to a normalized-text fingerprint of the courses-site build. 10 lessons and 1 unit were re-pushed to match; 3 Art Appreciation task titles were fixed in the vault instead, because the drift was an em dash the house style bars.",
-    "2026-08-29-stream": "27 class-stream materials posts loaded, 84 of 85 files. ManageBac caps a post at 10 files, so Art Appreciation U3 splits into materials (4 decks) and readings (9 PDFs) in both sections; the generator now emits that split. ManageBac cannot schedule a post: Date Added stamps it with the unit start date but every post is visible immediately."
+    "2026-08-29-stream": "27 class-stream materials posts loaded, 84 of 85 files. ManageBac caps a post at 10 files, so Art Appreciation U3 splits into materials (4 decks) and readings (9 PDFs) in both sections; the generator now emits that split. ManageBac cannot schedule a post: Date Added stamps it with the unit start date but every post is visible immediately.",
+    "2026-08-29-ap-fix": "AP correction complete in DD26AAP13: all ten tasks retitled to the AP scheme, A1 and A4 moved to Others (Major), five briefs repasted. The same five briefs and L15 were also stale in the A-Level class AL26AAP34, and Media had drifted separately from the 13:36 auto-sync. All corrected. The nine Learning Behaviour postings are Dogan's to create: emitLB false keeps them out of the pack while includeLB true keeps them in the numbering, so the AP Minors band stays in date order and both Art Appreciation classes carry the same ten assignments of mine."
   }
 }
