@@ -846,21 +846,21 @@ async function buildCourse(key) {
         .map((m) => stripTags(m[1]))
         .find((t) => t.length > 40 && !/^(Image:|Concepts:)/.test(t)) ?? "",
     ]
-    // ManageBac's unit timeline is Start Month + week-within-month + duration
-    // (recon 2026-08-26), not a date field.
-    const startD = span ? new Date(`${span.start}T12:00:00`) : null
+    // ManageBac's unit timeline is not a date range. It stores a start month, a
+    // week-within-month, and a duration in weeks, and it draws **every month as
+    // exactly four week-slots** (the week selector offers 1 to 4 and nothing
+    // else). Both ends have to be expressed on that grid, or the bar drifts.
+    //
+    // ⚠ Days 29 to 31 belong to the fourth slot, not a fifth. `Math.ceil(d / 7)`
+    // returns 5 for them, which the selector cannot represent; a unit starting
+    // late in a month would have sent an unsettable value. Corrected 2026-08-30.
+    //
+    // Duration is measured on the same grid rather than in real calendar weeks.
+    // Mixing the two is what made six units draw a week long or a week short:
+    // a real week is 1/4.35 of a month here, not 1/4.
     const MB_MONTHS = "January February March April May June July August September October November December".split(" ")
-    // Calendar weeks the unit spans, counted from week boundaries rather than
-    // raw day-difference: PAL's units run Wednesday to Wednesday, so five weekly
-    // sessions measure 28 days and would otherwise report four weeks.
-    const mondayOf = (iso) => {
-      const d = new Date(`${iso}T12:00:00`)
-      d.setDate(d.getDate() - ((d.getDay() + 6) % 7))
-      return d
-    }
-    const weeks = span
-      ? Math.max(1, Math.round((mondayOf(span.end) - mondayOf(span.start)) / 6048e5) + 1)
-      : null
+    const startSlot = span ? mbSlotOf(span.start) : null
+    const weeks = span ? Math.max(1, mbSlotOf(span.end) - startSlot + 1) : null
     unitObjects.push({
       id: `${key}/unit/${num}`,
       kind: "unit",
@@ -869,8 +869,8 @@ async function buildCourse(key) {
       startDate: span?.start ?? null,
       endDate: span?.end ?? null,
       durationWeeks: weeks,
-      mbStartMonth: startD ? MB_MONTHS[startD.getMonth()] : null,
-      mbStartWeek: startD ? Math.ceil(startD.getDate() / 7) : null,
+      mbStartMonth: span ? MB_MONTHS[+span.start.slice(5, 7) - 1] : null,
+      mbStartWeek: startSlot === null ? null : (startSlot % 4) + 1,
       summary: summaryMatch?.[0] ?? "",
       html,
       text: stripTags(html),
@@ -932,6 +932,22 @@ async function buildCourse(key) {
     }
   }
 
+  // Consecutive units that end and begin inside the same seven-day slot share
+  // that slot on the unit calendar, and the bars overlap. This is not a data
+  // error: at one-week resolution it is a true statement about the week. Named
+  // here so it stays a known property rather than a mystery in the Year view.
+  {
+    const seq = [...unitObjects].sort((a, b) => a.num - b.num)
+    for (let i = 1; i < seq.length; i++) {
+      const prevEnd = mbSlotOf(seq[i - 1].startDate) + seq[i - 1].durationWeeks - 1
+      if (mbSlotOf(seq[i].startDate) <= prevEnd)
+        notes.push(
+          `units ${seq[i - 1].num} and ${seq[i].num} share a week slot on the unit calendar ` +
+            `(${seq[i - 1].endDate} → ${seq[i].startDate} falls inside one week); the bars will overlap`,
+        )
+    }
+  }
+
   // The C1 study guide (media): print the interactive HTML to PDF once, then
   // attach to A3 and the U2 materials post.
   if (cfg.guidePdf) {
@@ -967,13 +983,39 @@ async function buildCourse(key) {
   // posts — matching the wave structure (spine first).
   const objects = [...taskObjects, ...unitObjects, ...lessonObjects, ...streamObjects].map((o) => ({
     ...o,
-    hash: sha([o.title, o.due ?? "", o.html, ...(o.attachments ?? []).map((a) => basename(a))].join(" ")),
+    // The hash has to cover every field a load actually sets, or --diff reports
+    // "changed: none" while the platform holds something else. It missed the
+    // unit timeline until 2026-08-30, so six units drew the wrong length and the
+    // ledger called them in sync; a task's category, points and lesson link were
+    // invisible the same way.
+    hash: sha(
+      [
+        o.title,
+        o.due ?? "",
+        o.html,
+        o.category ?? "",
+        o.maxPoints ?? "",
+        o.lessonRef ?? "",
+        o.mbStartMonth ?? "",
+        o.mbStartWeek ?? "",
+        o.durationWeeks ?? "",
+        ...(o.attachments ?? []).map((a) => basename(a)),
+      ].join(" "),
+    ),
   }))
 
   return { key, course, objects, undated: undatedAll, notes }
 }
 
 
+
+
+// ManageBac's unit calendar grid: four week-slots per month, days 29 to 31 in
+// the fourth. Shared by the unit builder and the overlap check.
+const mbSlotOf = (iso) => {
+  const [y, m, d] = iso.split("-").map(Number)
+  return y * 48 + (m - 1) * 4 + Math.min(3, Math.floor((d - 1) / 7))
+}
 
 // ── Lesson session dates ─────────────────────────────────────────────────────
 // The `Dates` row of a lesson's At-a-glance table is written for a human and

@@ -9,28 +9,28 @@
   },
   "objects": {
     "pal/unit/1": {
-      "hash": "dc6a79b8261e8ee2",
+      "hash": "5f8c920515cd22a3",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11501114,
       "verified": "2026-08-29"
     },
     "pal/unit/2": {
-      "hash": "9afa184ebed0511f",
+      "hash": "a7e143a6a04f1b88",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11501114,
       "verified": "2026-08-29"
     },
     "pal/unit/3": {
-      "hash": "2aa450afd7ed9b67",
+      "hash": "340e54c9f052e072",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11501114,
       "verified": "2026-08-29"
     },
     "pal/unit/4": {
-      "hash": "91145307f523b5fe",
+      "hash": "fee314230c76efb4",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11501114,
@@ -39,7 +39,7 @@
     "pal/task/CS1": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501114/core_tasks/27508160",
       "mbId": 27508160,
-      "hash": "3ecbe4e9c3899cef",
+      "hash": "48d08d3baf475fc8",
       "loadedAt": "2026-08-29T12:15:00",
       "stage": "rewritten",
       "kind": "task",
@@ -49,7 +49,7 @@
     "pal/task/HW1": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501114/core_tasks/27508161",
       "mbId": 27508161,
-      "hash": "10dc40265944bc95",
+      "hash": "518968d74db19e5d",
       "loadedAt": "2026-08-29T12:15:00",
       "stage": "rewritten",
       "kind": "task",
@@ -59,7 +59,7 @@
     "pal/task/SB1": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501114/core_tasks/27508162",
       "mbId": 27508162,
-      "hash": "6c8d3c0b03f2a9fc",
+      "hash": "1181cf41947bddd5",
       "loadedAt": "2026-08-29T12:15:00",
       "stage": "rewritten",
       "kind": "task",
@@ -69,7 +69,7 @@
     "pal/task/CS2": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501114/core_tasks/27508164",
       "mbId": 27508164,
-      "hash": "f0f53e4d1d30a0e4",
+      "hash": "3e192f94f71ec369",
       "loadedAt": "2026-08-29T12:15:00",
       "stage": "rewritten",
       "kind": "task",
@@ -79,7 +79,7 @@
     "pal/task/CS3": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501114/core_tasks/27508165",
       "mbId": 27508165,
-      "hash": "b796fbab1dd03120",
+      "hash": "42e942fa4ab92bf6",
       "loadedAt": "2026-08-29T12:15:00",
       "stage": "rewritten",
       "kind": "task",
@@ -89,7 +89,7 @@
     "pal/task/SB2": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501114/core_tasks/27508166",
       "mbId": 27508166,
-      "hash": "b442f9f2c4263a4f",
+      "hash": "42717eacf544356e",
       "loadedAt": "2026-08-29T12:15:00",
       "stage": "rewritten",
       "kind": "task",
@@ -99,7 +99,7 @@
     "pal/task/CS4": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501114/core_tasks/27508167",
       "mbId": 27508167,
-      "hash": "1024f0b033f611df",
+      "hash": "67e8ab7daecae557",
       "loadedAt": "2026-08-29T12:15:00",
       "stage": "rewritten",
       "kind": "task",
@@ -109,7 +109,7 @@
     "pal/task/A1": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501114/core_tasks/27508175",
       "mbId": 27508175,
-      "hash": "0682027f8c692125",
+      "hash": "0d5827d4e8732c8f",
       "loadedAt": "2026-08-29T12:15:00",
       "stage": "rewritten",
       "kind": "task",
@@ -119,7 +119,7 @@
     "pal/task/A2": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501114/core_tasks/27508176",
       "mbId": 27508176,
-      "hash": "492098a9bb753dea",
+      "hash": "6d2854174becee58",
       "loadedAt": "2026-08-29T12:15:00",
       "stage": "rewritten",
       "kind": "task",
@@ -129,7 +129,7 @@
     "pal/task/A3": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501114/core_tasks/27508177",
       "mbId": 27508177,
-      "hash": "e083696f8df2446f",
+      "hash": "74d088080f4498e1",
       "loadedAt": "2026-08-29T12:15:00",
       "stage": "rewritten",
       "kind": "task",
@@ -139,7 +139,7 @@
     "pal/task/A4": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501114/core_tasks/27508178",
       "mbId": 27508178,
-      "hash": "fc025eda99890b99",
+      "hash": "ab8a230569fac2a4",
       "loadedAt": "2026-08-29T12:15:00",
       "stage": "rewritten",
       "kind": "task",
@@ -149,7 +149,7 @@
     "pal/task/A5": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501114/core_tasks/27508179",
       "mbId": 27508179,
-      "hash": "c499ffcdcca78817",
+      "hash": "6fa43c464a250dec",
       "loadedAt": "2026-08-29T12:15:00",
       "stage": "rewritten",
       "kind": "task",
@@ -159,7 +159,7 @@
     "pal/task/EoT": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501114/core_tasks/27508180",
       "mbId": 27508180,
-      "hash": "495dbdccda8678b6",
+      "hash": "aaedf2867b8c7a3e",
       "loadedAt": "2026-08-29T12:15:00",
       "stage": "rewritten",
       "kind": "task",
@@ -167,42 +167,42 @@
       "classId": 11501114
     },
     "media/unit/1": {
-      "hash": "a8612e4154e16eed",
+      "hash": "d70d0358935463df",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/unit/2": {
-      "hash": "b0f1c9172aa7a707",
+      "hash": "d353de1ab83ea8ef",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/unit/3": {
-      "hash": "ae5fef2787784fdf",
+      "hash": "9db00dc74a63b0c6",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/unit/4": {
-      "hash": "6518eec8abf02e2a",
+      "hash": "1f0402feb4bf53ad",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/unit/5": {
-      "hash": "3213a5b67674448a",
+      "hash": "4bb44be85aa640c1",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/unit/6": {
-      "hash": "083e3c7395f23d7a",
+      "hash": "f4856a95204eee7e",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11501162,
@@ -211,7 +211,7 @@
     "media/task/CS1": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508216",
       "mbId": 27508216,
-      "hash": "96871ba0f623b8c4",
+      "hash": "0f063107417f0062",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -221,7 +221,7 @@
     "media/task/CS2": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508217",
       "mbId": 27508217,
-      "hash": "fcfebf85fb078580",
+      "hash": "7b0a55e28960ec25",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -231,7 +231,7 @@
     "media/task/CS3": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508218",
       "mbId": 27508218,
-      "hash": "dbdfaefd1e4d5ae2",
+      "hash": "8ad2fa5c3ab9c7dd",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -241,7 +241,7 @@
     "media/task/CS4": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508219",
       "mbId": 27508219,
-      "hash": "54df16007a136934",
+      "hash": "56549390dbe84d2a",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -251,7 +251,7 @@
     "media/task/CS5": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508220",
       "mbId": 27508220,
-      "hash": "ed6a0b673b5753e6",
+      "hash": "2b15005844d0faac",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -261,7 +261,7 @@
     "media/task/CS6": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508221",
       "mbId": 27508221,
-      "hash": "801fd96e11bb0844",
+      "hash": "82974facece088b2",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -271,7 +271,7 @@
     "media/task/CS7": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508222",
       "mbId": 27508222,
-      "hash": "c2b1d898ee5e76cf",
+      "hash": "c8ac27f702910793",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -281,7 +281,7 @@
     "media/task/HW1": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508223",
       "mbId": 27508223,
-      "hash": "98a254eb9e081aa6",
+      "hash": "5a3a7380472b328c",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -291,7 +291,7 @@
     "media/task/CS8": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508224",
       "mbId": 27508224,
-      "hash": "72cee9cf12226bbe",
+      "hash": "287739b76206209f",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -301,7 +301,7 @@
     "media/task/A1": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508232",
       "mbId": 27508232,
-      "hash": "cf1e7c695ff9a665",
+      "hash": "531dc92a190fa967",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -311,7 +311,7 @@
     "media/task/CS9": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508225",
       "mbId": 27508225,
-      "hash": "254e34b162cf4e73",
+      "hash": "b47aed11941fbb11",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -321,7 +321,7 @@
     "media/task/A2": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508231",
       "mbId": 27508231,
-      "hash": "bc894315bae5d49a",
+      "hash": "f60c90a3cec60739",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -331,7 +331,7 @@
     "media/task/CS10": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508226",
       "mbId": 27508226,
-      "hash": "abd8c397af94b508",
+      "hash": "8f297235ce2ed241",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -341,7 +341,7 @@
     "media/task/CS11": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508227",
       "mbId": 27508227,
-      "hash": "80ea8108cbe6345d",
+      "hash": "ec2195881e793ba2",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -351,7 +351,7 @@
     "media/task/A3": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508235",
       "mbId": 27508235,
-      "hash": "3384b3107c67b599",
+      "hash": "be7e218fcf09b8ea",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -361,7 +361,7 @@
     "media/task/CS12": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508228",
       "mbId": 27508228,
-      "hash": "bee67a66fc64c2ce",
+      "hash": "4d87cb002871b9fb",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -371,7 +371,7 @@
     "media/task/A4": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508233",
       "mbId": 27508233,
-      "hash": "63e6bfdf2d85f8a9",
+      "hash": "2790304a2b1c772c",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -381,7 +381,7 @@
     "media/task/HW2": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508229",
       "mbId": 27508229,
-      "hash": "22144d087713dbf7",
+      "hash": "1750c31c4814bc62",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -391,7 +391,7 @@
     "media/task/CS13": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508230",
       "mbId": 27508230,
-      "hash": "6c7223e7093a30ff",
+      "hash": "90604629c422fafc",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -401,7 +401,7 @@
     "media/task/EoT": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501162/core_tasks/27508234",
       "mbId": 27508234,
-      "hash": "b5b6346a9f122609",
+      "hash": "0790229340909547",
       "loadedAt": "2026-08-29T14:30:00",
       "stage": "created",
       "kind": "task",
@@ -409,35 +409,35 @@
       "classId": 11501162
     },
     "a-level/unit/1": {
-      "hash": "c82348ed9e0b5639",
+      "hash": "cb2a327eccaf7e35",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11501153,
       "verified": "2026-08-29"
     },
     "a-level/unit/2": {
-      "hash": "3aabe2c61756f11e",
+      "hash": "bfe918f4826b7162",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11501153,
       "verified": "2026-08-29"
     },
     "a-level/unit/3": {
-      "hash": "7c74bc9e3a3597e1",
+      "hash": "32c82d7c977fd2e1",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11501153,
       "verified": "2026-08-29"
     },
     "a-level/unit/4": {
-      "hash": "579d250de2950869",
+      "hash": "3d1c57e0060ee554",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11501153,
       "verified": "2026-08-29"
     },
     "a-level/unit/5": {
-      "hash": "ae3fc05c32517440",
+      "hash": "dfd1941a57a30928",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11501153,
@@ -446,7 +446,7 @@
     "a-level/task/CS1": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508236",
       "mbId": 27508236,
-      "hash": "6820e58e9cdf23b2",
+      "hash": "1e5fba44535b07eb",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -456,7 +456,7 @@
     "a-level/task/CS2": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508237",
       "mbId": 27508237,
-      "hash": "132c30644a51db9c",
+      "hash": "5702f705eb11bd27",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -466,7 +466,7 @@
     "a-level/task/CS3": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508238",
       "mbId": 27508238,
-      "hash": "0cf6e6ad20b2ebb5",
+      "hash": "d6d93965aa981dd0",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -476,7 +476,7 @@
     "a-level/task/CS4": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508239",
       "mbId": 27508239,
-      "hash": "29fd437e0d0e65ec",
+      "hash": "09c0a584ba5c548f",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -486,7 +486,7 @@
     "a-level/task/A1": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508246",
       "mbId": 27508246,
-      "hash": "348c017a12dbd90f",
+      "hash": "fa9774885562c1aa",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -496,7 +496,7 @@
     "a-level/task/CS5": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508240",
       "mbId": 27508240,
-      "hash": "15e74f8818594ca9",
+      "hash": "d1efdbd4af2635e1",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -506,7 +506,7 @@
     "a-level/task/CS6": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508241",
       "mbId": 27508241,
-      "hash": "91c0ada141c17c7f",
+      "hash": "00ab99925b14a043",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -516,7 +516,7 @@
     "a-level/task/CS7": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508242",
       "mbId": 27508242,
-      "hash": "185b0cd08f641448",
+      "hash": "2f9c5aab8ebe4888",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -526,7 +526,7 @@
     "a-level/task/A2": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508247",
       "mbId": 27508247,
-      "hash": "f15ba7c7b55704f4",
+      "hash": "d0ef1eeb9d4d1e28",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -536,7 +536,7 @@
     "a-level/task/CS8": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508243",
       "mbId": 27508243,
-      "hash": "9dfa7d3eb095716c",
+      "hash": "1cb9e2534ec8df3e",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -546,7 +546,7 @@
     "a-level/task/CS9": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508244",
       "mbId": 27508244,
-      "hash": "49116653b831421b",
+      "hash": "f583198a14a5cfee",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -556,7 +556,7 @@
     "a-level/task/A3": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508248",
       "mbId": 27508248,
-      "hash": "da8bf63102a22fec",
+      "hash": "4d2ca4e3f8118e1e",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -566,7 +566,7 @@
     "a-level/task/CS10": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508245",
       "mbId": 27508245,
-      "hash": "3c027efbe3d02741",
+      "hash": "301014c24cb65330",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -576,7 +576,7 @@
     "a-level/task/A4": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501153/core_tasks/27508250",
       "mbId": 27508250,
-      "hash": "1c08b913d69dfdc8",
+      "hash": "58ead936ca8cdbb3",
       "loadedAt": "2026-08-29T15:45:00",
       "stage": "created",
       "kind": "task",
@@ -584,35 +584,35 @@
       "classId": 11501153
     },
     "art-app/unit/1": {
-      "hash": "3dc07ceab43e25ca",
+      "hash": "fba0f4c4442fecfa",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11501190,
       "verified": "2026-08-29"
     },
     "art-app/unit/2": {
-      "hash": "135a6b1d218261b9",
+      "hash": "db03df5e2936dd2f",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11501190,
       "verified": "2026-08-29"
     },
     "art-app/unit/3": {
-      "hash": "00540c71bce41589",
+      "hash": "3359b30e94e52fd5",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11501190,
       "verified": "2026-08-29"
     },
     "art-app/unit/4": {
-      "hash": "fc20dee9f94d967c",
+      "hash": "40801015135ff4be",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11501190,
       "verified": "2026-08-29"
     },
     "art-app/unit/5": {
-      "hash": "259fe620ccb42dbc",
+      "hash": "b79b8a9855622b9e",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11501190,
@@ -621,7 +621,7 @@
     "art-app/task/CS1": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501190/core_tasks/27508251",
       "mbId": 27508251,
-      "hash": "48cf0865fb54e6c1",
+      "hash": "b048aceb5d637728",
       "loadedAt": "2026-08-29T16:40:00",
       "stage": "created",
       "kind": "task",
@@ -631,7 +631,7 @@
     "art-app/task/A1": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501190/core_tasks/27508256",
       "mbId": 27508256,
-      "hash": "6fe70e399e33a09f",
+      "hash": "1b4f18ef60f5d244",
       "loadedAt": "2026-08-29T16:40:00",
       "stage": "created",
       "kind": "task",
@@ -641,7 +641,7 @@
     "art-app/task/CS2": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501190/core_tasks/27508252",
       "mbId": 27508252,
-      "hash": "82f8188239515815",
+      "hash": "912f74a1530ca95c",
       "loadedAt": "2026-08-29T16:40:00",
       "stage": "created",
       "kind": "task",
@@ -651,7 +651,7 @@
     "art-app/task/CS3": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501190/core_tasks/27508253",
       "mbId": 27508253,
-      "hash": "9df755a7ff4fc682",
+      "hash": "eb920a83dd8ce816",
       "loadedAt": "2026-08-29T16:40:00",
       "stage": "created",
       "kind": "task",
@@ -661,7 +661,7 @@
     "art-app/task/A2": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501190/core_tasks/27508258",
       "mbId": 27508258,
-      "hash": "e359bb3644fca719",
+      "hash": "01b7e2a0de612efd",
       "loadedAt": "2026-08-29T16:40:00",
       "stage": "created",
       "kind": "task",
@@ -671,7 +671,7 @@
     "art-app/task/CS4": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501190/core_tasks/27508254",
       "mbId": 27508254,
-      "hash": "c4c150105bd64cce",
+      "hash": "dfb518b3e7b4c2ea",
       "loadedAt": "2026-08-29T16:40:00",
       "stage": "created",
       "kind": "task",
@@ -681,7 +681,7 @@
     "art-app/task/A3": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501190/core_tasks/27508259",
       "mbId": 27508259,
-      "hash": "067a634d34be951a",
+      "hash": "19bf5a16c26552c2",
       "loadedAt": "2026-08-29T16:40:00",
       "stage": "created",
       "kind": "task",
@@ -691,7 +691,7 @@
     "art-app/task/CS5": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501190/core_tasks/27508255",
       "mbId": 27508255,
-      "hash": "e052ba160ea5ea29",
+      "hash": "38e18ddfe0419af0",
       "loadedAt": "2026-08-29T16:40:00",
       "stage": "created",
       "kind": "task",
@@ -701,7 +701,7 @@
     "art-app/task/A4": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501190/core_tasks/27508260",
       "mbId": 27508260,
-      "hash": "b7854d678e64d790",
+      "hash": "087a506b460ef0fe",
       "loadedAt": "2026-08-29T16:40:00",
       "stage": "created",
       "kind": "task",
@@ -711,7 +711,7 @@
     "art-app/task/EoT": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11501190/core_tasks/27508261",
       "mbId": 27508261,
-      "hash": "1b35339976d1ef26",
+      "hash": "f319e8ab8c00d284",
       "loadedAt": "2026-08-29T16:40:00",
       "stage": "created",
       "kind": "task",
@@ -719,35 +719,35 @@
       "classId": 11501190
     },
     "art-app-hs/unit/1": {
-      "hash": "3dc07ceab43e25ca",
+      "hash": "fba0f4c4442fecfa",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11503610,
       "verified": "2026-08-29"
     },
     "art-app-hs/unit/2": {
-      "hash": "135a6b1d218261b9",
+      "hash": "db03df5e2936dd2f",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11503610,
       "verified": "2026-08-29"
     },
     "art-app-hs/unit/3": {
-      "hash": "00540c71bce41589",
+      "hash": "3359b30e94e52fd5",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11503610,
       "verified": "2026-08-29"
     },
     "art-app-hs/unit/4": {
-      "hash": "fc20dee9f94d967c",
+      "hash": "40801015135ff4be",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11503610,
       "verified": "2026-08-29"
     },
     "art-app-hs/unit/5": {
-      "hash": "259fe620ccb42dbc",
+      "hash": "b79b8a9855622b9e",
       "kind": "unit",
       "loaded": "2026-08-29",
       "classId": 11503610,
@@ -756,7 +756,7 @@
     "art-app-hs/task/CS1": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11503610/core_tasks/27508265",
       "mbId": 27508265,
-      "hash": "e5db5ff512e7ad8f",
+      "hash": "94914374d49e38c8",
       "loadedAt": "2026-08-29T17:30:00",
       "stage": "created",
       "kind": "task",
@@ -767,7 +767,7 @@
     "art-app-hs/task/A1": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11503610/core_tasks/27508271",
       "mbId": 27508271,
-      "hash": "9e7b778d77eef86b",
+      "hash": "377ddcfb89a5bc1d",
       "loadedAt": "2026-08-29T17:30:00",
       "stage": "created",
       "kind": "task",
@@ -778,7 +778,7 @@
     "art-app-hs/task/CS2": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11503610/core_tasks/27508266",
       "mbId": 27508266,
-      "hash": "2fb2ff7abce9b6f3",
+      "hash": "e19b29f7eda2a2e5",
       "loadedAt": "2026-08-29T17:30:00",
       "stage": "created",
       "kind": "task",
@@ -789,7 +789,7 @@
     "art-app-hs/task/CS3": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11503610/core_tasks/27508267",
       "mbId": 27508267,
-      "hash": "d9d9d734c3dbf21f",
+      "hash": "4719af44198caa44",
       "loadedAt": "2026-08-29T17:30:00",
       "stage": "created",
       "kind": "task",
@@ -800,7 +800,7 @@
     "art-app-hs/task/A2": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11503610/core_tasks/27508272",
       "mbId": 27508272,
-      "hash": "65c10965bf3ab5d6",
+      "hash": "f160862b95202ec8",
       "loadedAt": "2026-08-29T17:30:00",
       "stage": "created",
       "kind": "task",
@@ -810,7 +810,7 @@
     "art-app-hs/task/CS4": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11503610/core_tasks/27508268",
       "mbId": 27508268,
-      "hash": "388b9d922fdcfbc6",
+      "hash": "eaddcad1c44fe4a1",
       "loadedAt": "2026-08-29T17:30:00",
       "stage": "created",
       "kind": "task",
@@ -820,7 +820,7 @@
     "art-app-hs/task/A3": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11503610/core_tasks/27508273",
       "mbId": 27508273,
-      "hash": "e6e5217cf57aa47f",
+      "hash": "5a66e93054ef0599",
       "loadedAt": "2026-08-29T17:30:00",
       "stage": "created",
       "kind": "task",
@@ -830,7 +830,7 @@
     "art-app-hs/task/CS5": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11503610/core_tasks/27508269",
       "mbId": 27508269,
-      "hash": "a367de1709d3cdff",
+      "hash": "dbca6d5b201cea45",
       "loadedAt": "2026-08-29T17:30:00",
       "stage": "created",
       "kind": "task",
@@ -840,7 +840,7 @@
     "art-app-hs/task/A4": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11503610/core_tasks/27508274",
       "mbId": 27508274,
-      "hash": "6f01cdf7577540bd",
+      "hash": "32fcc01b698e570e",
       "loadedAt": "2026-08-29T17:30:00",
       "stage": "created",
       "kind": "task",
@@ -850,7 +850,7 @@
     "art-app-hs/task/EoT": {
       "mbUrl": "https://bnds.managebac.cn/teacher/classes/11503610/core_tasks/27508275",
       "mbId": 27508275,
-      "hash": "896c6bc1f9847091",
+      "hash": "3f30e1c53b960b1f",
       "loadedAt": "2026-08-29T17:30:00",
       "stage": "created",
       "kind": "task",
@@ -858,574 +858,574 @@
       "classId": 11503610
     },
     "media/lesson/1": {
-      "hash": "4048d04b7b978af4",
+      "hash": "e47b076271f117a9",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/lesson/2": {
-      "hash": "e8c6e4f49a1b80e5",
+      "hash": "f439839304cd0716",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/lesson/3": {
-      "hash": "81ff1231509d6571",
+      "hash": "2f9b5023c6770cf7",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/lesson/4": {
-      "hash": "eddcbe9353d3a526",
+      "hash": "8d68838beaade160",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/lesson/5": {
-      "hash": "742e348c9eba98a5",
+      "hash": "14a134cfe999628d",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/lesson/6": {
-      "hash": "42efbf7c16e07c06",
+      "hash": "a6e0ef4a01ada520",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/lesson/7": {
-      "hash": "7fd11eb219e861d1",
+      "hash": "8a6a6c7764e14c6c",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/lesson/8": {
-      "hash": "c18f108d5ad270c4",
+      "hash": "b405910aae16565f",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/lesson/9": {
-      "hash": "cc95702e546c81a3",
+      "hash": "cd0c510c411dbe6f",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/lesson/10": {
-      "hash": "1f148dc401e8ed97",
+      "hash": "0efa91ce5e1b4591",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/lesson/11": {
-      "hash": "62603f2595f47aea",
+      "hash": "df1106df2bad046e",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/lesson/12": {
-      "hash": "9d0e35a9ea24f4e6",
+      "hash": "a5e817bfad1e24ba",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/lesson/13": {
-      "hash": "8a6fcf7e0027aed6",
+      "hash": "6d45ba2d0e3b4824",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/lesson/14": {
-      "hash": "fba9bb2f955b1ebc",
+      "hash": "5297207edd0eb3e1",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/lesson/15": {
-      "hash": "30537d493decb469",
+      "hash": "26e2f41877366a63",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/lesson/16": {
-      "hash": "c9cd22e4eeb4b550",
+      "hash": "835251768de11b6b",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/lesson/17": {
-      "hash": "f5914570f2052cbe",
+      "hash": "b97a48fecdd6e245",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/lesson/18": {
-      "hash": "5ae4b4b8de871e20",
+      "hash": "465a69508778238a",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "media/lesson/19": {
-      "hash": "d1da0428ad59ec43",
+      "hash": "73fc1c92f4978f59",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501162,
       "verified": "2026-08-29"
     },
     "a-level/lesson/1": {
-      "hash": "afd42ffe256fb4ef",
+      "hash": "1864b829988090e7",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501153,
       "verified": "2026-08-29"
     },
     "a-level/lesson/2": {
-      "hash": "340bd12904f5825d",
+      "hash": "77e709346cba574d",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501153,
       "verified": "2026-08-29"
     },
     "a-level/lesson/3": {
-      "hash": "4a6d39361c6101a5",
+      "hash": "9078dc08247e7bb2",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501153,
       "verified": "2026-08-29"
     },
     "a-level/lesson/4": {
-      "hash": "94ac5e68fb3542ef",
+      "hash": "7b450843eb9b608c",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501153,
       "verified": "2026-08-29"
     },
     "a-level/lesson/5": {
-      "hash": "bc996b525e3c4ebd",
+      "hash": "8e19bf784f0741e1",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501153,
       "verified": "2026-08-29"
     },
     "a-level/lesson/6": {
-      "hash": "ec8e983495568ad0",
+      "hash": "ecbe539bd713dc05",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501153,
       "verified": "2026-08-29"
     },
     "a-level/lesson/7": {
-      "hash": "d54cf946ccda7b40",
+      "hash": "a7088a602852dccb",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501153,
       "verified": "2026-08-29"
     },
     "a-level/lesson/8": {
-      "hash": "f1922809ba22cde7",
+      "hash": "e03ee1e33116817a",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501153,
       "verified": "2026-08-29"
     },
     "a-level/lesson/9": {
-      "hash": "4213bf7ae21e7234",
+      "hash": "a38d4a14faf999f6",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501153,
       "verified": "2026-08-29"
     },
     "a-level/lesson/10": {
-      "hash": "b13d6e0ab474b724",
+      "hash": "5f2d7f236c9ea02f",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501153,
       "verified": "2026-08-29"
     },
     "a-level/lesson/11": {
-      "hash": "3af4927a3be7df77",
+      "hash": "03323e113595f321",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501153,
       "verified": "2026-08-29"
     },
     "a-level/lesson/12": {
-      "hash": "b3b06b3168abf287",
+      "hash": "2ef0894c40ce2d08",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501153,
       "verified": "2026-08-29"
     },
     "a-level/lesson/13": {
-      "hash": "d1c4c5f2b8c6602b",
+      "hash": "8aa88ec71725543d",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501153,
       "verified": "2026-08-29"
     },
     "a-level/lesson/14": {
-      "hash": "e5452c5da41c2505",
+      "hash": "9290270e3d8a8042",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501153,
       "verified": "2026-08-29"
     },
     "a-level/lesson/15": {
-      "hash": "4636e7256a650305",
+      "hash": "c8fe6b60d9f3458e",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501153,
       "verified": "2026-08-29"
     },
     "art-app/lesson/1": {
-      "hash": "ec14ff37a8844fda",
+      "hash": "45654cc57bf3f224",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501190,
       "verified": "2026-08-29"
     },
     "art-app/lesson/2": {
-      "hash": "7ece721b83d624c1",
+      "hash": "f536cb9223faea0b",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501190,
       "verified": "2026-08-29"
     },
     "art-app/lesson/3": {
-      "hash": "94ef8ca5c479cbd2",
+      "hash": "027a0943db43ddeb",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501190,
       "verified": "2026-08-29"
     },
     "art-app/lesson/4": {
-      "hash": "0a18659103df1a10",
+      "hash": "db6b158ecf585e91",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501190,
       "verified": "2026-08-29"
     },
     "art-app/lesson/5": {
-      "hash": "3496dfed02d89806",
+      "hash": "5e9c80fae6c75e65",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501190,
       "verified": "2026-08-29"
     },
     "art-app/lesson/6": {
-      "hash": "226687f938cb9a0c",
+      "hash": "e4beb0ac957f2645",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501190,
       "verified": "2026-08-29"
     },
     "art-app/lesson/7": {
-      "hash": "e2fc88a25bcd06dc",
+      "hash": "5f78e788cec65c30",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501190,
       "verified": "2026-08-29"
     },
     "art-app/lesson/8": {
-      "hash": "a33d728679d58695",
+      "hash": "c8bcbc4104578ee4",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501190,
       "verified": "2026-08-29"
     },
     "art-app/lesson/9": {
-      "hash": "a55cb19ded888883",
+      "hash": "9853623d9d16b0db",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501190,
       "verified": "2026-08-29"
     },
     "art-app/lesson/10": {
-      "hash": "0aaa928a57c16993",
+      "hash": "b87c2373b73db47b",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501190,
       "verified": "2026-08-29"
     },
     "art-app/lesson/11": {
-      "hash": "3248c0642c8f9b91",
+      "hash": "8099d21b4ae8c910",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501190,
       "verified": "2026-08-29"
     },
     "art-app/lesson/12": {
-      "hash": "b04d45c5ecbc7a99",
+      "hash": "09c3d2edf9a9b019",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501190,
       "verified": "2026-08-29"
     },
     "art-app/lesson/13": {
-      "hash": "a1a22dff2a053fe5",
+      "hash": "12d029a3a2791b37",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501190,
       "verified": "2026-08-29"
     },
     "art-app/lesson/14": {
-      "hash": "7bb4c804c37a5d2a",
+      "hash": "6f1660c60df58af9",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501190,
       "verified": "2026-08-29"
     },
     "art-app/lesson/15": {
-      "hash": "8735370ff9469c09",
+      "hash": "a95082b718dceaa8",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501190,
       "verified": "2026-08-29"
     },
     "art-app-hs/lesson/1": {
-      "hash": "ec14ff37a8844fda",
+      "hash": "45654cc57bf3f224",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11503610,
       "verified": "2026-08-29"
     },
     "art-app-hs/lesson/2": {
-      "hash": "7ece721b83d624c1",
+      "hash": "f536cb9223faea0b",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11503610,
       "verified": "2026-08-29"
     },
     "art-app-hs/lesson/3": {
-      "hash": "94ef8ca5c479cbd2",
+      "hash": "027a0943db43ddeb",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11503610,
       "verified": "2026-08-29"
     },
     "art-app-hs/lesson/4": {
-      "hash": "0a18659103df1a10",
+      "hash": "db6b158ecf585e91",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11503610,
       "verified": "2026-08-29"
     },
     "art-app-hs/lesson/5": {
-      "hash": "3496dfed02d89806",
+      "hash": "5e9c80fae6c75e65",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11503610,
       "verified": "2026-08-29"
     },
     "art-app-hs/lesson/6": {
-      "hash": "226687f938cb9a0c",
+      "hash": "e4beb0ac957f2645",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11503610,
       "verified": "2026-08-29"
     },
     "art-app-hs/lesson/7": {
-      "hash": "e2fc88a25bcd06dc",
+      "hash": "5f78e788cec65c30",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11503610,
       "verified": "2026-08-29"
     },
     "art-app-hs/lesson/8": {
-      "hash": "a33d728679d58695",
+      "hash": "c8bcbc4104578ee4",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11503610,
       "verified": "2026-08-29"
     },
     "art-app-hs/lesson/9": {
-      "hash": "a55cb19ded888883",
+      "hash": "9853623d9d16b0db",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11503610,
       "verified": "2026-08-29"
     },
     "art-app-hs/lesson/10": {
-      "hash": "0aaa928a57c16993",
+      "hash": "b87c2373b73db47b",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11503610,
       "verified": "2026-08-29"
     },
     "art-app-hs/lesson/11": {
-      "hash": "3248c0642c8f9b91",
+      "hash": "8099d21b4ae8c910",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11503610,
       "verified": "2026-08-29"
     },
     "art-app-hs/lesson/12": {
-      "hash": "b04d45c5ecbc7a99",
+      "hash": "09c3d2edf9a9b019",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11503610,
       "verified": "2026-08-29"
     },
     "art-app-hs/lesson/13": {
-      "hash": "a1a22dff2a053fe5",
+      "hash": "12d029a3a2791b37",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11503610,
       "verified": "2026-08-29"
     },
     "art-app-hs/lesson/14": {
-      "hash": "7bb4c804c37a5d2a",
+      "hash": "6f1660c60df58af9",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11503610,
       "verified": "2026-08-29"
     },
     "art-app-hs/lesson/15": {
-      "hash": "8735370ff9469c09",
+      "hash": "a95082b718dceaa8",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11503610,
       "verified": "2026-08-29"
     },
     "pal/lesson/1": {
-      "hash": "42cfa8a9c35902a0",
+      "hash": "2e596cb77119328c",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501114,
       "verified": "2026-08-29"
     },
     "pal/lesson/2": {
-      "hash": "65f4ce8ad7e8c612",
+      "hash": "34b2e881fa550315",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501114,
       "verified": "2026-08-29"
     },
     "pal/lesson/3": {
-      "hash": "b679fb336a922c22",
+      "hash": "1880b4f9463718ea",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501114,
       "verified": "2026-08-29"
     },
     "pal/lesson/4": {
-      "hash": "cfbf8cab0f5804ff",
+      "hash": "c52ed12ce1d1c6f4",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501114,
       "verified": "2026-08-29"
     },
     "pal/lesson/5": {
-      "hash": "1b5853e56eae8939",
+      "hash": "24724337220f040c",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501114,
       "verified": "2026-08-29"
     },
     "pal/lesson/6": {
-      "hash": "326873d125e90a2a",
+      "hash": "52636a322e0d5d0d",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501114,
       "verified": "2026-08-29"
     },
     "pal/lesson/7": {
-      "hash": "df2ed21fbc0f7956",
+      "hash": "a3e1e956afe3cb45",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501114,
       "verified": "2026-08-29"
     },
     "pal/lesson/8": {
-      "hash": "8da02a87a6fa0bc4",
+      "hash": "c345500ad4bd8c6b",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501114,
       "verified": "2026-08-29"
     },
     "pal/lesson/9": {
-      "hash": "da4d72ff965d949c",
+      "hash": "3680eb3fc6a42485",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501114,
       "verified": "2026-08-29"
     },
     "pal/lesson/10": {
-      "hash": "c7c3b80b0242b568",
+      "hash": "7d4bfe5fdd5b8632",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501114,
       "verified": "2026-08-29"
     },
     "pal/lesson/11": {
-      "hash": "6ddbc462d606d428",
+      "hash": "1715dba8ff1241c2",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501114,
       "verified": "2026-08-29"
     },
     "pal/lesson/12": {
-      "hash": "9d6ff440670df18a",
+      "hash": "b8508d62310fb6a1",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501114,
       "verified": "2026-08-29"
     },
     "pal/lesson/13": {
-      "hash": "31563e907ad7571e",
+      "hash": "80731743f031959d",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501114,
       "verified": "2026-08-29"
     },
     "pal/lesson/14": {
-      "hash": "e65566884277ff06",
+      "hash": "ada6e64589a434ca",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501114,
       "verified": "2026-08-29"
     },
     "pal/lesson/15": {
-      "hash": "4aee9614280f52d6",
+      "hash": "630cdc7ebc988e86",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501114,
       "verified": "2026-08-29"
     },
     "pal/lesson/16": {
-      "hash": "911d743f8487bbb2",
+      "hash": "0ab09a20e69ef45a",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501114,
       "verified": "2026-08-29"
     },
     "pal/lesson/17": {
-      "hash": "40e1595e6518905d",
+      "hash": "6e6722de54b70a04",
       "kind": "lesson",
       "loaded": "2026-08-29",
       "classId": 11501114,
       "verified": "2026-08-29"
     },
     "media/stream/unit-1": {
-      "hash": "e2bcad217b979514",
+      "hash": "de0a01680ce09409",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501162,
@@ -1433,7 +1433,7 @@
       "verified": "2026-08-29"
     },
     "media/stream/unit-2": {
-      "hash": "2f56cad0bf5a8ae3",
+      "hash": "ea71191ef7dd9315",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501162,
@@ -1441,7 +1441,7 @@
       "verified": "2026-08-29"
     },
     "media/stream/unit-3": {
-      "hash": "e5057b1719afb65b",
+      "hash": "a829e9279af66009",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501162,
@@ -1449,7 +1449,7 @@
       "verified": "2026-08-29"
     },
     "media/stream/unit-4": {
-      "hash": "56f1a729b77fcd12",
+      "hash": "2afabe6bc25cd933",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501162,
@@ -1457,7 +1457,7 @@
       "verified": "2026-08-29"
     },
     "media/stream/unit-5": {
-      "hash": "5a80ef7d8a34896d",
+      "hash": "7b77ef36a4e0f49f",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501162,
@@ -1465,7 +1465,7 @@
       "verified": "2026-08-29"
     },
     "media/stream/unit-6": {
-      "hash": "d6a201614b1b94e2",
+      "hash": "1648c280a9d054f4",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501162,
@@ -1473,7 +1473,7 @@
       "verified": "2026-08-29"
     },
     "a-level/stream/unit-1": {
-      "hash": "f2ec51db1e699bb6",
+      "hash": "21703149794d873f",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501153,
@@ -1481,7 +1481,7 @@
       "verified": "2026-08-29"
     },
     "a-level/stream/unit-2": {
-      "hash": "93f9bf9d3043428f",
+      "hash": "da06f4697406a215",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501153,
@@ -1489,7 +1489,7 @@
       "verified": "2026-08-29"
     },
     "a-level/stream/unit-3": {
-      "hash": "1bd3cc1e9462f93f",
+      "hash": "eab4954667e6ff4e",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501153,
@@ -1497,7 +1497,7 @@
       "verified": "2026-08-29"
     },
     "a-level/stream/unit-4": {
-      "hash": "81797d3ff8167f88",
+      "hash": "2a15b166b858bc72",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501153,
@@ -1505,7 +1505,7 @@
       "verified": "2026-08-29"
     },
     "a-level/stream/unit-5": {
-      "hash": "14f0f4958b3f2e0d",
+      "hash": "c7a55d935f8d8e56",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501153,
@@ -1513,7 +1513,7 @@
       "verified": "2026-08-29"
     },
     "art-app/stream/unit-1": {
-      "hash": "43d220b1d2cd3784",
+      "hash": "c135a0003bc83599",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501190,
@@ -1521,7 +1521,7 @@
       "verified": "2026-08-29"
     },
     "art-app/stream/unit-2": {
-      "hash": "224e209cd8924568",
+      "hash": "5d8d11da44010c7a",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501190,
@@ -1529,7 +1529,7 @@
       "verified": "2026-08-29"
     },
     "art-app/stream/unit-3": {
-      "hash": "27d41da544ec9cef",
+      "hash": "4dcc120a67574751",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501190,
@@ -1537,7 +1537,7 @@
       "verified": "2026-08-29"
     },
     "art-app/stream/unit-3-readings": {
-      "hash": "e403d5acb1998ac1",
+      "hash": "7cb7c699ea2c3de3",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501190,
@@ -1545,7 +1545,7 @@
       "verified": "2026-08-29"
     },
     "art-app/stream/unit-4": {
-      "hash": "95096f71bdaa6641",
+      "hash": "6974a4701fbb6850",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501190,
@@ -1553,7 +1553,7 @@
       "verified": "2026-08-29"
     },
     "art-app/stream/unit-5": {
-      "hash": "d7d24b400613d4a8",
+      "hash": "38a5278276bbf67e",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501190,
@@ -1561,7 +1561,7 @@
       "verified": "2026-08-29"
     },
     "art-app-hs/stream/unit-1": {
-      "hash": "43d220b1d2cd3784",
+      "hash": "c135a0003bc83599",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11503610,
@@ -1569,7 +1569,7 @@
       "verified": "2026-08-29"
     },
     "art-app-hs/stream/unit-2": {
-      "hash": "224e209cd8924568",
+      "hash": "5d8d11da44010c7a",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11503610,
@@ -1577,7 +1577,7 @@
       "verified": "2026-08-29"
     },
     "art-app-hs/stream/unit-3": {
-      "hash": "27d41da544ec9cef",
+      "hash": "4dcc120a67574751",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11503610,
@@ -1585,7 +1585,7 @@
       "verified": "2026-08-29"
     },
     "art-app-hs/stream/unit-3-readings": {
-      "hash": "e403d5acb1998ac1",
+      "hash": "7cb7c699ea2c3de3",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11503610,
@@ -1593,7 +1593,7 @@
       "verified": "2026-08-29"
     },
     "art-app-hs/stream/unit-4": {
-      "hash": "95096f71bdaa6641",
+      "hash": "6974a4701fbb6850",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11503610,
@@ -1601,7 +1601,7 @@
       "verified": "2026-08-29"
     },
     "art-app-hs/stream/unit-5": {
-      "hash": "d7d24b400613d4a8",
+      "hash": "38a5278276bbf67e",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11503610,
@@ -1609,7 +1609,7 @@
       "verified": "2026-08-29"
     },
     "pal/stream/unit-1": {
-      "hash": "c84f16760e492d15",
+      "hash": "cc95a036eb46dddb",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501114,
@@ -1617,7 +1617,7 @@
       "verified": "2026-08-29"
     },
     "pal/stream/unit-2": {
-      "hash": "794366e8f1eed910",
+      "hash": "91fe38166958a2b3",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501114,
@@ -1625,7 +1625,7 @@
       "verified": "2026-08-29"
     },
     "pal/stream/unit-3": {
-      "hash": "a1b679075a7ab19e",
+      "hash": "642b154cbf68db79",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501114,
@@ -1634,7 +1634,7 @@
       "verified": "2026-08-29"
     },
     "pal/stream/unit-4": {
-      "hash": "e1f519c20af1e4a5",
+      "hash": "3a97b46404b53d33",
       "kind": "stream",
       "loaded": "2026-08-29",
       "classId": 11501114,
